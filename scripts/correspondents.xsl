@@ -62,7 +62,7 @@
         
         <xsl:result-document href="{$output-uri-csv-1}" method="text">
             <xsl:value-of
-                select="'Person' || $s || 'Korrespondenz' || $s || 'Kommentierung' || $s || 'Lesen' || $s || 'Kreise' || $s || 'Themen' || $s || 'Score' ||  $l"/>
+                select="'Person' || $s || 'Netto-RW' || $s || 'Kommentierung' || $s || 'Lesen' || $s || 'Erwähnungen' || $s || 'Kreise' || $s || 'Themen' || $s || 'Score' ||  $l"/>
             <xsl:for-each-group select="$documents//tei:correspAction//tei:persName" group-by="@key">
                 <xsl:sort select="count(current-group())" data-type="number" order="descending"/>
                 <xsl:variable name="comments" select="count($documents[//tei:correspAction[@type = 'sent']/tei:persName/@key[. != current-grouping-key()]]//tei:text//@hand[. = concat('#', current-grouping-key())])"/>
@@ -71,11 +71,15 @@
                 <xsl:variable name="av-correspondents" select="count(current-group()/parent::tei:correspAction[@type = 'sent' or @type = 'received']) div $all-correspondents * 100"/>
                 <xsl:variable name="av-readers" select="count(current-group()/parent::tei:correspAction[@type = 'read']) div $all-readers * 100"/>
                 <xsl:variable name="av-commentors" select="$comments div $all-commentors * 100"/>
-                <xsl:variable name="av-topics" select="$topics div $single-topics * 100"/>
-                <xsl:variable name="av-circle" select="$circle div $single-circle * 100"/>
-                <xsl:variable name="score" select=" $av-correspondents + $av-commentors + $av-readers + $av-topics + $av-circle"/>
+                <xsl:variable name="av-mentions" select=" count($documents//tei:text//tei:persName[@key = current-grouping-key()]) div count($documents//tei:text//tei:persName/@key) * 100"/>       
+                <xsl:variable name="nrw"
+                    select="count(distinct-values(current-group()/following::tei:correspAction[@type = 'received' or @type = 'read']/tei:persName/@key))"/>
                 
-                <xsl:value-of select=". || $s || format-number($av-correspondents, '#.###') || $s || format-number($av-commentors, '#.###')|| $s || format-number($av-readers, '#.###') || $s || format-number($av-topics, '#.###') || $s || format-number($av-circle, '#.###')  || $s || format-number($score div 5, '#.###') ||  $l"/>
+                    <xsl:variable name="av-topics" select="$topics div $single-topics * 100"/>
+                <xsl:variable name="av-circle" select="$circle div $single-circle * 100"/>
+                <xsl:variable name="score" select=" $nrw + $av-commentors + $av-readers + $av-topics + $av-mentions + $av-circle"/>
+                
+                <xsl:value-of select=". || $s || format-number($nrw, '#.###') || $s || format-number($av-commentors, '#.###')|| $s || format-number($av-readers, '#.###') || $s || format-number($av-mentions, '#.###') || $s || format-number($av-topics, '#.###') || $s || format-number($av-circle, '#.###')  || $s || format-number($score div 5, '#.###') ||  $l"/>
        
             </xsl:for-each-group>
         </xsl:result-document>
@@ -110,7 +114,7 @@
                 <xsl:variable name="key" select="current-grouping-key()"/>
                 <xsl:for-each-group select="current-group()"
                     group-by="ancestor::tei:correspDesc/tei:correspAction[1]/tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4)">
-                    <xsl:value-of select="current-grouping-key() || $s || . || $s"/>
+                       <xsl:value-of select="current-grouping-key() || $s || . || $s"/>
                     <xsl:value-of
                         select="count(current-group()/parent::tei:correspAction[@type = 'sent']) || $s"/>
                     <xsl:value-of

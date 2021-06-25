@@ -5,8 +5,7 @@
 
     <!-- 
     @author: Frederike Neuber
-    Creates a list of all correspondents and the number of the letters they sent, received and read.
-    Output as CSV/TXT and XML.
+
     -->
 
     <!-- Input directory as defined in correspondents-roles.bat -->

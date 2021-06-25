@@ -3,7 +3,10 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:telota="http://www.telota.de" exclude-result-prefixes="#all" version="2.0">
     <xsl:param name="INPUT_DIR"/>
-    
+
+    <!-- 
+    @author: Frederike Neuber
+    --> 
 
     <xsl:template match="/">
         

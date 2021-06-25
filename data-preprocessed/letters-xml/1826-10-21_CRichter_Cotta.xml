@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0662">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Friedrich Freiherr Cotta von Cottendorf, 21.
+                    Oktober 1826, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1826-10-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000698">Johann Friedrich Freiherr Cotta von Cottendorf</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Hochwohlgebohrener Herr Geheimer Rath!</salute>
+            </opener>
+            <p>Es war mir so unerwartet als unangenehm, <anchor type="target" xml:id="start_znc_4w3_vkb"/>daß es Ihnen nicht
+                            gefällig war, meine billigen und gegenseitige Verständigung bezweckenden
+                            Fragen zu beantworten<anchor type="target" xml:id="stop_znc_4w3_vkb"/>, was abgesehen von jedem besonderen Vertrag, wie mir scheint im
+                    Allgemeinen und in Beziehung auf Ihre eigenen Grundsätze , Willensmeinung und
+                    Handelsweise recht gut hätte geschehen können.</p>
+            <p>
+               <anchor type="target" xml:id="start_wqc_dcv_pkb"/>Indessen bestimmt, neben den
+                    vorhandenen anderen Umständen, auch dies mich, hiermit zu erklären, daß ich
+                        <persName key="JP-000704">Ihrer Buchhandlung</persName> eine zweite Auflage
+                        der in derselben erschienenen einzelnen Schriften meines verewigten <persName key="JP-999999">Mannes</persName> (was
+                    ohnedem ohne neue Honorar-Stipulierung nicht geschehen könnte) nicht übertragen kann.<anchor type="target" xml:id="stop_wqc_dcv_pkb"/> Was die erste Ihnen übertragene Ausgabe betrift:
+                    so habe ich mich darüber und über Ihre Gerechtsame<ref type="letter" target="JP-UB0371"> in der Schrift erklärt, welche ich an die
+                            Königliche Würtembergische Regierung, auf deren 
+                        Auffoderung habe gelangen lassen</ref>. Durch den ganzen Inhalt dieser Ew.
+                        Hochwohlgeboren nunmehr gewiß zugekommenen Erklärung muß ich mich
+                    gegenwärtig beziehen und bemerken, daß ich bei demselben um so mehr beharren
+                    muß, als ich mich auf die rechtlichen Verhältnisse bezogen habe, die in der
+                    Buchhändlerwelt, nach Ihrem Vorausgang und vermöge Ihres vielbedeutenden
+                    Einflusses eingeführt worden sind, und nach welchen Sie Selbst, verehrter Herr Geheimrath in der neueren Zeit
+                    fort und fort gehandelt haben, sollten sie auch früher, und ehe diese Norm
+                    feststand, in einem einzelnen Falle vertrags und ausnahms weise etwas Anderes
+                            beliebt haben.</p>
+            <p>
+               <anchor type="target" xml:id="start_kmy_dcv_pkb"/>Was die <bibl sameAs="JP-010885" subtype="werke-jp">Selina</bibl> betrifft: so glaube ich,
+                    daß es nunmehr für beide Theile das Beste seyn wird, wenn die Unterhandlungen
+                    (welches von nun an von meiner Seite geschieht) für abgebrochen angesehen
+                    werden, zumal da Ew Hochwohlgeboren dieß Selber zu erkennen gaben,
+                            indem Sie äußern, daß ich wegen Unterlassung der <bibl sameAs="JP-010885" subtype="werke-jp">Selina</bibl> nicht genirt
+                            sei.<anchor type="target" xml:id="stop_kmy_dcv_pkb"/>
+            </p>
+            <p>In Rücksicht der Nachzahlung bei der <bibl sameAs="JP-010811" subtype="werke-jp">Levana</bibl> von 511 Fl. 12 xr. ist eine Zeitbestimmung nicht gemacht worden, die Sie gewiß
+                    vorgemerkt haben würden, und die Sie dieser um so mehr mit Recht bezweifeln, als
+                    sie kaum denklich: weil der Zeitpunkt des vollendeten Absatzes einer bestimmten
+                    Anzahl von Exemplaren unmöglich vorauszusehen ist. Da ich nun, Ew.
+                    Hochwohlgebohren Erklärung nach, über diese Summe disponieren kann: so habe ich
+                    auf <persName key="JP-000704">Ihre Handlung</persName> an die Ordre des Herrn<persName key="JP-004367">Simon Uhlfelder</persName> eine Zuweisung von 511 fl. 12 xr. nach Sicht zahlbar, abgegeben, auch dieselbe davon benachrichtiget.</p>
+            <p>Da Ihr <ref type="letter" target="JP-UB0613">Brief vom 9<hi rendition="#uu" hand="#author">ten</hi> October</ref> gerade am
+                            12ten, dem Hochzeittage meiner <persName key="JP-003471">Tochter</persName>, dem ältesten Kinde <persName key="JP-999999">Jean Pauls</persName>! in meine Hände kam; glaubte ich ein
+                    neues Geschenk aus den Händen eines <hi rendition="#u" hand="#author">Freundes</hi> des <persName key="JP-999999">Seeligen</persName>
+                    ströme auf <persName key="JP-003471">sein Kind</persName> nieder:  nemlich Friede und
+                    Beruhigung dem armen Mutterherzen das so viel gelitten, und welches diese
+                    unseeligen Verhandlungen mit einem unbeschreiblichen Schmerze führt. </p>
+            <closer>
+               <salute>Mit dem innigsten Wunsche, Ihres und Ihrer edlen <persName key="JP-000695">Gemahlin</persName> Wohlergehens. </salute>
+               <signed>Ew Hochwohlgeboren ergebenste Caroline Richter geb. Mayer</signed>
+               <dateline>Bayreuth den 21<hi rendition="#uu" hand="#author">ten</hi>October 1826.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0442">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 31. August 1822, Sonnabend </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-08-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Sonnabend Abends den 30<hi rendition="#uu" hand="#author">ten </hi>Aug 1822.</dateline>
+            </opener>
+            <p>Geliebte Odilie! Dein letzter Brief hat mich wegen der
+                    Trauer Nachricht die Du uns gabst sehr bekümmert, und ich hätte Dir gleich
+                    geantwortet, wenn ich nicht gewußt, daß Schwabachers einen Tag später als die Post,
+                    etwas an Dich mitnehmen könnten. Du gutes Kind! wie wirst Du um das gute Mädchen mitgelitten haben, und noch schmerzhafter
+                    wäre der Fall wenn es Eltern hätte. Du siehst aber hier, wie nothwendig es ist,
+                    die Seinigen bei der geringsten Kränklichkeit sogleich Nachricht zu geben, denn
+                    wer bürgt uns für den Ausgang auch der leise anhebendsten Krankheit? – Also
+                    beschwöre ich Dich bei Allem was heilig ist, wenn Du jemals Fieber, Kopfweh, und
+                    Mattigkeit spüren solltest, ja auf der Stelle, ohne allen Rückhalt an uns zu
+                    schreiben, denn Schonung ist in solchen Sachen, ein wahrer Frevel.</p>
+            <p>Du erhältst hier wieder etwas Taschengeld, lasse es von <persName key="JP-003031">Auguste</persName> aufbewahren, damit Du nicht zu viel Sorge hast; das
+                    Monatsgeld kann ich mit Schwabachers nicht schicken, da sie nur einen <hi rendition="#u" hand="#author">Brief</hi> mitnehmen können. Am
+                    Montag reißt <persName key="JP-001584">Hecht</persName>
+                    nach Würzburg der bringt Dir 4 neue Hemden, einen Pflaumenkuchen und 1 p.
+                    Handschuh, nebst 1
+                    Pfund
+                    Chokolade, die ich Dir zur <hi rendition="#u" hand="#author">Gesundheit</hi> und <hi rendition="#u" hand="#author">Ernährung</hi> schicke, und nicht für Andere, die Du freilich nach Deinem
+                    liebenden guten Herzen immer traktieren willst. Aber in der Fremde, muß man
+                    haushalten lernen.</p>
+            <p> Daß <persName key="JP-001608">HerrnHeine</persName> noch immer verreist war, ist doch
+                    recht unangenehm, wahrscheinlich muß die gute <persName key="JP-003031">Auguste</persName> erst seine Rückunft abwarten ehe sie mir antworten kann.
+                    Der <persName key="JP-999999">Vater</persName> ist schon entschlossen Dich bis
+                    Weihnachten dort zu lassen, und ich glaube auch, daß Du mein geliebtes Kind Dich
+                    gern darin finden wirst. Früher , Dich herauszunehmen, wäre glaube ich unvollkommenes Werk, und die Freude die es Dir machen muß, immer gerader zu
+                    werden welches doch so schön ist, wird es Dir den längeren Aufenthalt als wir
+                    anfangs glaubten, gewis erleichtern. Gott gebe nur daß Du <hi rendition="#u" hand="#author">gesund</hi> bleibst!</p>
+            <p>
+               <anchor type="target" xml:id="start_jqy_ghv_nlb"/>Weißt Du wohl daß der <persName key="JP-999999">Vater</persName> diese Woche sagte, <hi rendition="#u" hand="#author">Er</hi> wolle nach Würzburg reisen?<anchor type="target" xml:id="stop_jqy_ghv_nlb"/> Es war an einem der schönen Morgen
+                    dieser Woche. Sei aber vernünftig, und <hi rendition="#u" hand="#author">baue</hi> nicht darauf Du weißt wie abhängig des Vaters
+                    Entschlüsse von kleinen Eindrücken sind. Aber wenn es wäre, wie glücklich wäre
+                    ich, gern wollte <hi rendition="#u" hand="#author">ich</hi> auf die
+                    Freude Dich zu sehen verzichten. Aber sage es noch Niemand, um dem unnützen und
+                    leeren Hin und Widerreden zu entgehen. Du sagst Dein Mantel sei schön? Das ist
+                    wohl zuviel Lob – wenn er nur recht sitzt, hat er denn die <hi rendition="#u" hand="#author">rechte Länge</hi>? Ich fürchte während der
+                    Krankheit des armen Mädchens hast Du recht Deine Kur vernachläßigt um zu helfen.
+                    Sei ja recht gewissenhaft in dem Gebrauch der Vorschriften je eher
+                    kömmst Du davon. Lasse Dir einmal eine Zeitlang alle Morgen Schokolade machen.
+                    Du  kannst von
+                    jeder Tafel 6. mal frühstücken.</p>
+            <closer>
+               <signed>Adieu Adieu, mein Herzens Kind</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

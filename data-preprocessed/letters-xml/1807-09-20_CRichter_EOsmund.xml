@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0377">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emanuel. Bayreuth, 20. September 1807, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1807-09-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Lieber lieber Emanuel welch eine Freude haben sieuns und den <persName key="JP-003483">Kindern</persName> gemacht – sie weiden
+                    sich in dem Glück so nach und nach Ihre Schätze hervorkommen zu sehen – sie sind
+                    ganz entzückt. O Sie Guter was für himmlische Erinnerungen bereiten Sie
+                    ihnen. <persName key="JP-003471">Emma</persName> soll Ihnen selbst noch
+                    Vormittag danken ich muß zur <persName key="JP-002075">Kehler</persName> eilen
+                    aber Nachmittag falle ich Ihnen um den Hals!</p>
+            <closer>
+               <salute>Gottes Seegen.</salute>
+               <signed>Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

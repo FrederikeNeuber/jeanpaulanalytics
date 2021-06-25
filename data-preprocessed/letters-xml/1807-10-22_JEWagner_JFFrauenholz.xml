@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0865">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Johann Friedrich Frauenholz. Meiningen, 22.
+                    Oktober 1807, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1807-10-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-011884">Johann Friedrich Frauenholz</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 22<hi rendition="#uu" hand="#author">n</hi>Oct. 1807.</dateline>
+               <salute>Wohlgeborner, Hochzuverehrender
+                        Herr!</salute>
+            </opener>
+            <p>Durch Ihre neuliche gütige
+                            Nachricht von der geschehenen Absendung meines Bildes an Herr<hi rendition="#uu" hand="#author">n</hi> Prof. Müller nach <placeName key="JP-006315">Stuttgart</placeName> und die dabey geäusserte
+                            wahrhaft schönen Gesinnungen haben Ewr. Wohlgeboren mich
+                            lebhaft gerührt, und meine
+                                    Verlagshandlung
+                            hoffentlich zum wenigsten aufs innigste beschämt. Leider tragen nur alle dergleichen ausgesäete reine
+                    Samenkörner der Liberalität dennoch so selten Früchte auf dem rohen Felde der
+                    Selbstsucht! Sonst müsste ja die Welt doch wahrlich viel besser seyn!</p>
+            <p>Ihre schon oft erprobte Güte macht mich so kühn, Ihnen, verehrter Mann, hier eine ganz gehorsamste Bitte
+                    vorzutragen, dem gütige Erfüllung mir sehr am Herzen liegt.</p>
+            <p>In etwa 4-5 Wochen werde ich mir die Freyheit nehmen, Ihnen den 1<hi rendition="#uu" hand="#author">n</hi> Band meines neuesten Werks <bibl sameAs="JP-010019" subtype="werk">"Reisen aus der Fremde in die Heimath"</bibl>, dessen
+                    Erscheinung noch von <ref target="JP-UB0865/#nb1d_hdt_rnb">gedachtem
+                        Kupferstiche</ref> abhängt, gehorsamst zu übersenden. An diesen Band ist ein
+                        <bibl sameAs="JP-010023" subtype="werk">
+                  <hi rendition="#u" hand="#author">Kunstplan</hi> fü<hi rendition="#u" hand="#author">r Deutschland</hi>
+               </bibl> angehängt, über den seit einiger
+                    Zeit manches freundliche Wort gesagt, geschrieben, auch von etlichen erhabnen
+                    Lippen zugesichert worden ist, und der nun – angethan mit dem Kleide stiller
+                    bescheidner Hoffnung – zum erstenmal öffentlich ans Licht der Welt treten soll.
+                    Zu seiner, dem Innern desselben gemäß, nöthigen weiten Verbreitung sind
+                    natürlich viele und gute Addressen nöthig, und wenigstens – wo diese ganz fehlen
+                    – doch gute, schickliche und möglichst Hoffnungsreiche <hi rendition="#u" hand="#author">Namen</hi>. Die Nennung dieser und die hülfreiche
+                    Mittheilung jener – dies ist's, was ich von Ihnen zu
+                    erbitten habe, den <placeName key="JP-005668">Deutschland</placeName> und die
+                    Welt längst zu den grössten, eifrigsten und uneigennützigsten Kunstfreunden
+                    zählten. – Haben Sie doch die Güte, in Ihrem Gedächtnisse mir zu Liebe einmal Ihre näheren <hi rendition="#u" hand="#author">Freunde</hi>, <hi rendition="#u" hand="#author">Kunstfreunde</hi>, <hi rendition="#u" hand="#author">reichen</hi>
+               <hi rendition="#u" hand="#author">Kunstbeförder</hi>, <hi rendition="#u" hand="#author">armen</hi> aber <hi rendition="#u" hand="#author">enthusiastischen</hi>
+               <hi rendition="#u" hand="#author">Liebhaber</hi>, <hi rendition="#u" hand="#author">angesehene</hi>
+               <hi rendition="#u" hand="#author">Dilettanten</hi>, <hi rendition="#u" hand="#author">geniale Menschen</hi>, auch
+                    besonders reiche oder arme geniale, gebildete oder kunstfreundliche <hi rendition="#u" hand="#author">Frauen</hi> nach demjenigen
+                    Städteverzeichnisse gütig zu mustern, welches ich Ihnen
+                    hieher setze, und worinn ich zwar nicht <hi rendition="#u" hand="#author">ohne</hi> Addressen bin,  aber doch noch lange nicht
+                    reich genug an Addressen und bekannten Namen Es versteht sich, daß überall, wie
+                    ich hiermit zum Voraus gelobe, die grösste Diskretion beobachtet wird, die unser
+                    Publikum soviel ich weiß noch nie an mir vermisst hat. Ich bitte weiter nichts
+                    als: "in meiner Zuschrift Ihren Namen (da wo Sie persönliche Bekanntschaft haben) nennen, übrigens
+                        <bibl sameAs="JP-010019" subtype="werk">meines Werkchens 1<hi rendition="#uu" hand="#author">n</hi>
+                        Band</bibl> postfrey übersenden, schenken und dabey bitten zu dürfen, man
+                    möge <bibl sameAs="JP-010023" subtype="werk">den Plan</bibl> gütigst lesen, ihn
+                    andern dortigen Kunstfreunden und Befördrern mittheilen und sich, falls er
+                    Beyfall finde, dort nach Möglichkeit für die Sache verwenden." – Oder auch: "man
+                    möge das Werk, welches dorten bey HerrnN. N. liege, gütigst einsehen pp" – Und so gedenke ich
+                    im Namen der Kunst Ihren lieben Namen nicht unnützlich,
+                    sondern nützlich zu führen. – Hohe Häupter bitte ich möglichst zu vermeiden,
+                    welches Ihnen aus dem <bibl sameAs="JP-010023" subtype="werk">Plan</bibl> selbst deutlicher werden wird. Im Fall eines
+                    gänzlichen Mangels von Addressen an einem
+                            Ort bitte ich nur um
+                    Anzeige der gebildetsten und hoffnungsreichsten Buchandlung. Ich will die
+                    nothwendigsten unterstreichen. Freylich sind sie's fast alle</p>
+            <p>
+               <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005987">Magdeburg</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005619">Braunschweig</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005815">Hanover</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005785">Glückstadt</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005812">Hamburg</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005977">Lübeck</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006273">Schwerin</placeName>
+               </hi>, <placeName key="JP-005586">Berlin</placeName>,
+                        <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006305">Stettin</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005662">Danzig</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005907">Königsberg</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006196">Riga</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005665">Dessau</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005687">Dresden</placeName>
+               </hi>, (ich weiß
+                        <persName key="JP-004302">
+                  <hi rendition="#u" hand="#author">L.</hi>
+                  <hi rendition="#u" hand="#author">Tieks</hi>
+               </persName>
+                    gegenwärtige Addresse nicht, und wünschte sie sehr.) <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006415">Wittemberg</placeName>
+               </hi>, <placeName key="JP-005948">Leipzig</placeName>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005777">Gera</placeName>
+               </hi>, <placeName key="JP-006213">Rudolstadt</placeName>, <placeName key="JP-005895">Cassel</placeName>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006072">Neuwied</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005990">Mainz</placeName>
+               </hi>, <placeName key="JP-005743">Frankfurth a. M.</placeName>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005765">Fulda</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005994">Manhein</placeName>
+               </hi>, <placeName key="JP-005819">Heidelberg</placeName>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005690">Düsseldorf</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005906">Cölln</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005620">Bremen</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005663">Darmstadt</placeName>
+               </hi>, <placeName key="JP-006315">Stuttgart</placeName>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005892">Carlsruh</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005548">Augsburg</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006363">Ulm</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005565">Basel</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006434">Zürich</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006126">Passau</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006405">Wien</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006230">Salzburg</placeName>
+               </hi>, <placeName key="JP-006040">München</placeName>,
+                        <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006179">Regensburg</placeName>
+               </hi> (auch <persName key="JP-003760">
+                  <hi rendition="#u" hand="#author">Friedr.</hi>
+                  <hi rendition="#u" hand="#author">Schlegels</hi>
+               </persName>
+                    jetzige Addresse geht mir ab.) <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005529">Ansbach</placeName>
+               </hi>, <placeName key="JP-005574">Baireuth</placeName>, <placeName key="JP-006085">Nürnberg</placeName> (ausser Ewr. Wohlgeboren) <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005561">Bamberg</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006422">Würzburg</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006438">Prag</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-006101">Ollmütz</placeName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005622">Breßlau</placeName>
+               </hi>.</p>
+            <p>Jemehr von jedem Ort, je besser!</p>
+            <p>Wollten Sie dann, freundlicher Mann, hierinn Etwas für mich gütigst thun? – Es
+                    gilt ja der Kunst! Das sey für jetzt alles gesagt. </p>
+            <p>Übrigens erspare ich alles Weitere bis künftigen Monath, und hoffe nun endlich
+                    bald in recht nahe, innige Verbindung mit Ewr. Wohlgeboren zu
+                    kommen!</p>
+            <p>Nochmals erlauben Sie mir Ihnen
+                    den Satz ans Herz zu legen: Wer bald hilft (und schreibt und Addressen giebt)
+                    hilft zweymal! </p>
+            <closer>
+               <salute>In  beständiger Verehrung</salute>
+               <signed>Ewr. Wohlgeboren ganz gehorsamstverbleibender JEWagner H. S. KabinetsSekretär</signed>Ich vergaß, die Bitte um gütige  Verschwiegenheit bis zu
+                    Erscheinung der  Sache oben hinzuzufügen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

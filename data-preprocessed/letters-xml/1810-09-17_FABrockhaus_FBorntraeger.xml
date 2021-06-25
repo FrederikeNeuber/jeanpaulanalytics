@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0931">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Arnold Brockhaus an Friedrich Bornträger. Leipzig, 17. September 1810, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000501">Friedrich Arnold Brockhaus</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1810-09-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012599"> Johann Friedrich Wilhelm Bornträger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Unsere Schicksalsstunde hat geschlagen .... Wir reisen diese Nacht ab. Nach
+                        <placeName key="JP-005521">Altenburg</placeName>. Gott erhalte uns und die
+                    edle <persName key="JP-004393">Minna</persName>, die wie eine Römerin jetzt
+                    begeistert ihr Schicksal zu dem meinigen machen will. Nur als meine Gattin kann
+                        <persName key="JP-004393">Minna</persName> mein Schicksal theilen. Wir
+                    werden thun, was denkbar ist, aber das Schicksal ist schwer.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0194">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Carl August Böttiger. Bayreuth, 14. Dezember 1825,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1825-12-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000400">Carl August Böttiger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+               <term xml:id="JP-012032">Dresdner Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireut den 14<hi rendition="#uu" hand="#author">ten</hi>Dec 1825.</dateline>
+               <salute>Verehrter Herr Hofrath</salute>
+            </opener>
+            <p>Sehr gerührt von dem gütigen Interesse was Sie dem Schicksal der Hinterbliebenen<persName key="JP-999999">Ihres Freundes</persName> beweisen, beeile ich mich
+                    Ihnen den mir anvertrauten Brief des <persName key="JP-002693">Buchhändler Max</persName> wieder zuzustellen, und Ihrer Theilnahme an dem zu fördernden Werk,
+                    alle unsere Bereitwilligkeit mit Ihm in Unterhandlung zu treten, zu versichern
+                    wenn es nicht zu spät ist. Es war nicht Gleichgültigkeit wenn<persName key="JP-002693"> der gute thätige Mann</persName> noch keine Antwort, auf
+                        seine schon bei dem Leben meines theuern Mannes oft gethanen
+                            Anträge bekam, sondern es war Ungwisheit über den endlichen Ausgang der mit
+                    Buchhändler <persName key="JP-003408">Reimer</persName> eingeleiteten
+                    Unterhandlungen.</p>
+            <p> Im Ganzen waren diese so gut als abgeschlossen, wurden aber durch
+                    einige in Herrn <persName key="JP-003408">Reimers</persName> schon <hi rendition="#u" hand="#author">übersandten Kontrakt</hi>unerwartet  festgestellten Nebenpunkten unterbrochen, und veranlaßten noch in den letzten Lebenstagen, meines
+                    Beschützers und Gatten, den Entschluß von <hi rendition="#u" hand="#author">unserer
+                                Seite</hi> einen Kontrakt zu entwerfen, der gegen mögliche Gefahren, möglichste Sicherheit stellte, als der Tod
+                    den <persName key="JP-999999">Himmlischen</persName> in seine Heimath abführte.
+                    Daß nun unsere Vorsicht um so größer sein muß als die <hi rendition="#u" hand="#author">Allen</hi> imponirende Würde des Seeligen kein
+                    Bindemittel für fremde Moral mehr ist – ist natürlich, und indem durch die
+                    Annäherung an das gewünschte Ziel der Privilegien, (wovon  <ref type="letter" target="JP-UB1147">beikomender Brief des <persName key="JP-002531">Königs von Baiern</persName>
+               </ref>, den ich Sie auch der hochverehrten
+                        <persName key="JP-003370">Frau von der Recke</persName>, und dem edeln <persName key="JP-004311">Tiedge</persName> mitzutheilen bitte,  ein Beweis ist,) unsere Sache nur vortheilhafter steht, so sehe ich
+                    keinen Grund, dem zwar sehr geschätzten, aber in vielen Unternehmungen
+                    verwickelten Herrn <persName key="JP-003408">Reimer</persName> nachzugeben.</p>
+            <p>Ich folge darin auch den Mahnungen meiner Berliner Freunde die in treuer Liebe
+                    der Tochter eines ausgezeichneten Mannes, <persName key="JP-002703">meines
+                        Vaters</persName>, anhängend, mich zur höchsten Vorsicht in der Abfassung
+                    des Kontraktes aufgefodert haben. Auf diesen Punkt steht jetzt die Sache, und
+                    Herrn <persName key="JP-003408">Reimers</persName> Bejahung oder Verneinung kann
+                    allein meinen Entschluß bestimmen – <hi rendition="#u" hand="#author">erstere</hi> bindet uns unauflöslich aneinander. </p>
+            <p>Jedoch antworte ich heute dem mir so werthen Buchhändler <persName key="JP-002693">Max</persName>. Nächst <persName key="JP-003408">Reimer</persName> sind wir geneigt Ihm von Allen den Vorzug zu geben, da Er
+                    in so unendlicher Liebe  für den <persName key="JP-999999">Seeligen</persName> erwärmt
+                    ist.</p>
+            <p> Man darf nicht zweifeln daß seine Kräfte seinem Willen nicht gemessen
+                    wären, und indem er noch nicht Familienvater zu sein scheint, wird er ohne Mühe
+                    seine Verbindlichkeiten lösen. Die großen Sorgen des Hausvaters und des Versorgers von 11 Kindern, scheinen <persName key="JP-003408">Reimer’n</persName> zu drücken, und er scheint viel unternommen zu haben, was schwer durchzuführen ist.</p>
+            <p>Gern nehme ich die Gelegenheit wahr, Ihnen für den Nekrolog in der allgemeinen Zeitungund den Geist der Liebe zu danken mit dem Sie Schicksal und
+                    Eigenthümlichkeit des <persName key="JP-999999">Herrlichen</persName>
+                    geschildert haben, Der auch auf Erden ein ewiges Leben fortführen wird so wie
+                    jetzt im All. Leicht und intereßant ist die damit verbundene Ankündigung der künftig zusammen erscheinenden Werke, die Sie so schön
+                            dadurch beim Publikum einführen. nehmen Sie meine innigste Anerkennung gütig auf.
+                    Mit höchster Verehrung Ihres unsterblichen Werthes bleibe ich Ihre</p>
+         </div>
+      </body>
+   </text>
+</TEI>

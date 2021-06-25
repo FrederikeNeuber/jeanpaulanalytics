@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0478">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm und Henriette Mayer an Caroline Richter. Berlin,
+                    9. November 1811, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <persName key="JP-002709">Julie Henriette Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1811-11-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012533">Lektüre(n)</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-002703">
+            <opener>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Verzeyhe, wenn ich erst jetzt Deiner Aufforderung, Dir zu schreiben, genüge. Es
+                    war mir um die Beylage zu thun, wodurch Deine Auslage für Schmaltz Butter
+                    erstattet werden soll; u ich konnte den Betrag nicht eher entbehren. Überhaupt
+                    trocknet abgenötigte Anstrengung, u Sorgen vielfacher Art mein Hertz aus; und
+                    die Rück würkung des Bewußtseyns erfüllter Pflichten nährt nur so eben den Muth
+                    zur fortgesetzten Erfüllung, ohne etwas für Ergießungen des Hertzens übrig zu
+                    laßen. Selbst meine frey willigen Geistes Beschäftigungen sind bloß auf
+                    Unterricht des Verstandes berechnet, (Mathematic u speculative Philosophie) und die <bibl sameAs="JP-012419" subtype="werk">Annalen</bibl> des <persName key="JP-004233">Tacitus</persName> meine Abend Lecture empören das Hertz mehr, als
+                    sie es erheben. Zürne also nicht, u begnüge Dich mit <persName key="JP-004393">Minnas</persName>Correspondentz die jetzt zwischen Euch permanent ist.</p>
+            <p>Von ihr wirst Du erfahren haben, daß ich gesund bin; und das ist die Haupt Sache,
+                    weil mich Gesundheit in den Stand setzt, die Bedürfniße der Meinigen zu
+                    übertragen; und bitte ich darum nur so lange, bis die armen <persName key="JP-004394">Spazierschen Kinder</persName> so weit sind, daß
+                    man für ihre Zukunft nicht bange seyn darf. Auch   muß ich ihnen
+                    allen, besonders dem <persName key="JP-004106">Julius</persName> das Zeugniß geben, daß sie mich von dieser Seite zu beruhigen bemühet
+                    sind. Der <persName key="JP-004106">Julius</persName> wird ein treflicher Mensch werden.</p>
+            <p>Gern hätte ich vor Abgang dieses Briefes <persName key="JP-003878">Herrnv. Schukmann</persName> gesprochen, um mehr als die Übersendung des Briefs an ihn gethan zu haben. Allein für heute ists unmöglich, auch bedarf <persName key="JP-003878">Schukmanns</persName> Theilnahme keines andern ressorts als seinen
+                    eignen Trieb <persName key="JP-999999">Deinem Mann</persName> gefällig zu seyn.
+                    Meine Bitte ist nur die, im Fall die einliegende Assignation gar nicht angenommen wird, solches so, so wie die Nachricht, daß sie angenommen u
+                    das Geld gezahlt ist, sofort mir zu melden; u mir recht viel liebes u gutes von
+                    Deinem Befinden, u <persName key="JP-003483">Deinen Kindern</persName> zu sagen,
+                    die ich in Gedanken küße.</p>
+            <closer>
+               <salute>Leb wohl, grüße <persName key="JP-999999">Deinen Mann</persName>, u
+                        liebe </salute>
+               <signed>Deinen treuen Vater Mayer </signed>
+            </closer>
+         </div>
+         <div hand="#JP-002709">
+            <opener>
+               <salute>Liebste Caroline!</salute>
+            </opener>
+            <p>Sie werden durch <persName key="JP-004393">Minna</persName> wißen daß <persName key="JP-000009">Minona</persName> nun auch das Scharlachfieber hat; sie ist
+                    aber so wohl als man es dabei sein kann. Künftigen Dinstag hat <persName key="JP-001600">Heim</persName> erlaubt daß sie das Bette verlaße. <persName key="JP-004106">Julius</persName> ist sehr gestärkt und gewachsen <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0114/#start_nn2_w1r_y3b">nach einem 3 monathlichen Aufenthalt in <placeName key="JP-006010">Meklenburg</placeName>
+               </ref>, wiedergekommen. Ihren Auftrag an Genz, der<persName key="JP-002427">
+                  <hi rendition="#u" hand="#unknown">
+                     <persName key="JP-011826">Levetzow</persName>
+                  </hi>
+               </persName>und der <persName key="JP-012481">Mutter Hain.</persName> habe ich ausgerichtet, <anchor type="target" xml:id="start_ltt_wkw_jlb"/>ich weiß auch daß
+                            Beide erste an Sie geschrieben haben<anchor type="target" xml:id="stop_ltt_wkw_jlb"/>;
+                    die <persName key="JP-012481">Geh. Hain</persName> läßt Sie tausendmahl grüßen, sie
+                    hält es für unmöglig je gleichgültig gegen Sie zu werden die sie mit
+                    mütterlicher Zärtlichkeit liebt. Ich habe ganz Ihrer Vorschrift gemäß mit der
+                    Schmalzbutter verfahren; aber eigen ist es daß sie diesmahl viel mehr einen
+                    TalgGeruch und Geschmack angenommen, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0423/#start_g53_w2b_1jb">als die ich vor einigen Jahren
+                        durch Ihre Güte</ref> erhielt wäre dies zweite Schmelzen auch wohl Schuld
+                    daran. Wenn Sie darüber etwas erfahren oder glauben, so theilen Sie mir es, ich
+                    bitte, mit.</p>
+            <closer>
+               <salute>Leben Sie wohl, liebe geliebte Caroline, und
+                        verzeyn Sie meiner schrecklichen Eil. </salute>
+               <signed>Ihre treue Freundin Henriette.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

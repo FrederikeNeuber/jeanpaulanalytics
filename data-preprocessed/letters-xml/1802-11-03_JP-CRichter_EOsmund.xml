@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0396">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Meiningen, 3. November 1802. Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-11-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012520">Stimulantien</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>M. d. 3. Nov. 1802.</dateline>
+            </opener>
+            <p>AnIhrem
+                            Schabbes komt dieser Ein- u Ausspänner an, um
+                        an unseremfortzufahren. <persName key="JP-001775">Höhn</persName> heisset er. Auflade-Geld legt er
+                    aus. Solt an den 3 Fässern etwas fehlen, so kont’ es in der Eile – vorgestern
+                    kam ich von <placeName key="JP-005649">Koburg</placeName> zurük – nicht gemacht werden,obwohl in <placeName key="JP-005574">Bayr</placeName>. auf meine Kosten. Heute
+                    war aller Teufel auf der Landeskirmes. Endlich wär’ es  Zeit zu meinem <placeName key="JP-011034">Bier-conto</placeName>, nicht zum
+                    Zahlen aber zum Machen. Ich ersuche Sie, wenns nöthig ist, um
+                    Bier-Konservazions-Reglements; wiewohl  das vorige sich gehalten bis künftigen Montag in der Güte,
+                    aber nicht in der Menge. Täglich nimts verflucht ab.</p>
+            <p> Nun, Geliebter, ist Zeit zu einem vernünftigen Wort der Antwort. Mit meinem Tauffest gehts wie mit dem Osterfest, das die eine
+                                <persName key="JP-000629">Christensekte</persName> um 8 Tage später
+                            feiert als die andere. Denn den 17. feierten wir es vor, u. den 24. Sie es nach, weil ich aus Scherz (u. um keinen Genus zu
+                    stehlen) um 8 Tage (Sie sollen
+                        hier sehen, daß ich wahr bin) gelogen habe. <hi rendition="#u" hand="#author">s. v.</hi> f. (eigentlich
+                        s. f. v.) heisset daher si fabula vera. Aber euere theilnehmende Freude wohnt u lebt in keiner Zeit, sondern in
+                    der Ewigkeit des Herzens u alles Guten. – Keine Pathin heisset <persName key="JP-003471">Emma</persName>, die leichte Aussprache diktierte den Namen. –  hat über  die Erziehung schon jezt Unrecht. Zur rechten gehört
+                    ein Vernünftiger u <persName key="JP-003469">eine Vernünftige</persName>
+                        zugleich; bei mir ist beides zu haben. Schon jezt sind über das Schreien des Kindes oder dessen Liegenlassen fruchtbare Siege gewonnen, die nur durch solche
+                        trefliche Eheleute zu erfechten waren. – Lesen Sie in Gottes Namen <persName key="JP-004275">Thieriots</persName> Brief, der das Verfluchte an sich hatte, daß er mich 67 Kr. Porto kostete. – 1
+                    K rtl. ist ausgezahlt an unsere <persName key="JP-000923">Eleonore</persName>ist eine Pfartochter. (eine
+                        herliche<persName key="JP-001892">Iris</persName>gegen d vorigen Kloz) u. nur 1 an
+                    die sage-femme, die in Rüksicht ihres Nuzens femme sage ist. Den 2ten könten Sie anders verschenken, entweder an <persName key="JP-000923">Lore</persName> oder wohin es
+                    sei. Aber Sie befehlen freilich. – Ihre Briefe werden täglich wiziger, obwohl
+                    für andere Leser täglich nächtlicher   oder (denn die
+                    Antithese ist zu einfältig) schwerer. – Weiter, Guter, weis ich nichts als das Wenige was ich für <persName key="JP-003112">Otto</persName> aufhebe u. dadurch für Sie. (Ihre Reise nach <placeName key="JP-005586">Berlin</placeName> schrieb <persName key="JP-002581">Ernestine</persName>her) Haben Sie meinen rechten
+                    Dank, Alter, oder vielmehr Junger! denn die Jugend allein hat den schönen
+                    Enthusiasmus, zu thun. <hi rendition="#u" hand="#unknown">Gott geb’
+                        Ihnen immer, was Sie geben.</hi>
+            </p>
+         </div>
+         <div hand="#JP-003469">
+            <p>Vergeben Sie mir, geliebter Emanuel, daß ich Ihnen heute nur eine gute Nacht
+                    wünsche, Nun schieb’ ich es nicht lange mehr auf Ihnen ein Bild unseres jezigen
+                    Lebens und besonders <mod type="variant">meinerIhrer</mod>
+               <persName key="JP-003471">Emma</persName> zu geben. In Ihre Arme wünschen
+                    wir oft den kleinen Engel – Sie würden ihn unendlich lieben – Sie hört schon
+                    jezt auf unsere Stimmen, und richtet das Auge nach dem Schall – bitten Sie mit
+                    uns für ihre Erhaltung – Sie haben eine Stimme bei Gott.</p>
+            <closer>
+               <signed>Caroline</signed>
+            </closer>
+         </div>
+         <div hand="#JP-999999">
+            <p>Wollen Sie nicht 1 Bout. Bischofessenz, die
+                        meiner noch nicht gesunden <persName key="JP-003469">C.</persName>
+               <placeName key="JP-011660">Johannitter Bier</placeName> ist, mir
+                        kaufen?</p>
+         </div>
+      </body>
+   </text>
+</TEI>

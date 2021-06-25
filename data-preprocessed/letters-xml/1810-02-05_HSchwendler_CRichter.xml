@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0666">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Caroline Richter. Meiningen, 5. Februar 1810, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-02-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 5<hi rendition="#uu" hand="#author">ten</hi> Februar <hi rendition="#u" hand="#author">1810</hi>
+               </dateline>
+            </opener>
+            <p>Denke nur um Himmelswillen nicht, geliebte Caroline, daß ich durch meine
+                    verspähtete Antwort mit Dir abrechnen will; Nein, bey Gott nicht! Nach dem
+                    Drange meines Herzens hätte ich Deinen herzigen
+                            Brief
+                    mit umgehender Post beantwortet, allein mancherley Hinderniße entgegneten mir,
+                    namentlich <hi rendition="#u" hand="#author">
+                  <persName key="JP-001605">Luisens</persName>
+               </hi>außerordentlich Krankheit, von
+                    deren Ausgang ich Dich gern benachrichtiget hätte. Vielleicht weißt Du durch die
+                        <persName key="JP-001604">Hoffräthin Heim</persName> schon etwas davon, wo nicht, so wiße, daß <persName key="JP-001605">Luise</persName> zu Ende
+                    October's in Folge einer ganz besondern  Verkältung, von einem Nerven Schlage getroffen ward. Etwas
+                    erschütterndes habe ich nie gesehen, völlig gelähmt – mit Ausnahme des Kopfes
+                    und überhaupt aller Seelenkräfte, – lag die hehre Gestalt da, ohne Empfindung
+                    und Bewegung, und dabey ein heftiges Fieber. Denke Dir dazu <persName key="JP-001603">den Vater</persName>, den tiefgebeugten fast für Schmerz zernichteten Greis und den Ausspruch unsrer Aerzte, daß jeder Augenblik <persName key="JP-001605">Luisens</persName> letzter
+                    seyn könnte. Ohngeachtet ich für der Leidenden Pflege wenig thun konnte  diese hatte die <persName key="JP-012795">Hoffpredigerin
+                            Vierling</persName> mit seltner Rastlosigkeit
+                    übernommen, so verließ ich das Haus doch wenig, weil es mir schien als klagte
+                    mir <persName key="JP-001603">der Alte</persName> seinen Kummer gern, und daß er
+                    zufrieden war mit meiner Art denselben aufzunehmen und mitzutragen. Caroline,
+                    was ich litt kann ich Dir nicht sagen, im eigentlichen Sinn, ich habe graue
+                    Haare davon getragen. Daß <persName key="JP-001605">Luisens</persName> Zustand der Beweglos und Empfindungslosigkeit
+                    noch durch vielerley andre Erscheinungen immer bedenklicher ward, begreifst Du
+                    leicht. Unter Andern war die Schwäche des Unterleibs so groß, daß <hi rendition="#u" hand="#author">unwillkührlich</hi> und <hi rendition="#u" hand="#author">ununterbrochen</hi> die
+                    gewöhnlichen Verrichtungen vor sich gingen. Jedes was sie genoß, schien auf
+                    geraden Wege und unaufhaltsam wieder fortzugehen. Man wußte kaum, ob irgend ein
+                    Medicament seine Wirkung thun könnte, mit einem Worte es war ein Jammer von dem
+                    nur der Zuschauer, sich einen Begriff machen kann. Das Fieber dauerte zwölf Tage
+                    fort und so blieb die Todes-Gefahr immer nahe. Am dreizehnten Tage mäßigte sich
+                    das Fieber, und für ihr Leben fingen die Aerzte an, einige Hoffnung zu schöpfen,
+                    aber im übrigen blieb alles unverändert. Daß man unter  solchen
+                    Umständen, ihr kaum die Erhaltung wünschen könnte, fühlten wir alle schmerzlich,
+                    selbst <persName key="JP-001603">ihr Vater</persName> resignirte sich. Vier
+                    volle Wochen blieb alles im Alten, aber unermüdet arbeiteten die Aerzte auf
+                    Wiederbelebung und Erregbarkeit hin. Endlich in der fünften Woche trat <persName key="JP-003149">Panzerbieter</persName>eines Morgens mit einem vor Freude
+                    ganz verklärten Angesicht zu mir, und sagte, daß während er <persName key="JP-001605">Luisen</persName> seinen Morgenbesuch
+                    gemacht hätte, sie auf einmahl über Schmerzen im linken Fuße geklagt und bald
+                    darauf habe er eine leise Bewegung bemerkt, die die Kranke zwar nicht gemerkt,
+                    aber die sie nachher als er sie darauf aufmerksam gemacht hätte, doch habe –
+                    wenn gleich sehr schwach – wiederhohlen können. Jetzt sey in der That einige
+                    Hoffnung für die Wiederkehr ihrer Lebenskräfte und Lebensthätigkeit da. Merklich
+                    nahmen nun wirklich Beweglichkeit und Empfindung zu, die oben erwähnten
+                    Schwächen minderten sich, und nur in der zehnten Woche fängt sie an umher zu
+                    gehen. Da sie in der ersten Zeit gar nichts genoß, so ist sie allerdings sehr
+                    mager geworden, doch fängt sie an wiederzuzunehmen. Ihre Züge sind dieselben  geblieben, ihr schönes klares Auge beherrscht vor wie nach ihr ganzes
+                    Wesen. Ein Glük für <persName key="JP-001605">Luise</persName> war es, daß sie nie an ihrer Genesung
+                    verzweifelte sondern den festen Glauben an dieselbe behielt. Dies gab ihr den
+                    ausdauernsten Muth und eine eigne Kraft, den nur zu muthlosen Vater zu trösten.
+                    Recht viel habe ich mitgelitten, aber nun freue ich mich auch, mit der wieder
+                    gegebnen Tochter. Außerordentlich und ewig merkwürdig wird mir die aerztliche
+                    Behandlung von <persName key="JP-001605">Luisen</persName> bleiben. Nie sah ich unsern <persName key="JP-003149">Panzerbieter</persName> größer, nie sein
+                    Genie erhabner. Ueber jeden gewöhnlichen Gang einer gefährlichen Krankheit war
+                    gleich von Anfang <persName key="JP-001605">Luisens</persName> Zustand hinaus, nur außerordentliche Mittel und
+                    eine seltne Beobachtungs Gabe konnten etwas nützen. Aber nicht allein der Geist
+                    auch das Herz mußte mitwirken, wenn <hi rendition="#u" hand="#author">
+                  <persName key="JP-001920">Jahn's</persName>
+               </hi> forschender
+                    Geist aber sein kalter Mensch, nichts mehr wußte, dann saß noch lange <persName key="JP-003149">Panzerbieter</persName>
+                    sinnend da, und oft wie durch höhre Eingebung fand er etwas. Der alte Heim sagt selbst, so groß habe er
+                        <persName key="JP-003149">P.</persName> nicht
+                    geglaubt, sein Genie als Arzt  habe die höchste Probe bestanden. Aber <persName key="JP-003149">Panzerbieter</persName> kränkelt, ich bin bange für
+                            ihn. Ich möchte Dich beynahe, Geliebte, um
+                    Entschuldigung über meine weitläufige Beschreibung bitten, doch Du liebst ja <persName key="JP-001605">Luisen</persName>, und die
+                    Krankheit nebst der Genesung gehört für mich zu den wunderbaren Erscheinungen
+                    der Zeit. Ich bitte Dich, theile sie <persName key="JP-003087">Emanuel</persName> mit, noch einmahl mag
+                    ich sie nicht wiederhohlen.</p>
+            <p>Für das Erfreuliche was Du mir über <persName key="JP-999999">Richters</persName>Gesundheit sagst, danke ich Dir.
+                    Wenn man sich gleich nicht erklären kann, wie man bey körperlichen Leiden <hi rendition="#u" hand="#author">
+                  <bibl sameAs="JP-010576" subtype="werke-jp">Dämmrungen</bibl>
+               </hi> schreiben kann – denn giebt es
+                    etwas <hi rendition="#u" hand="#author">beßer Gesagtes</hi>, <hi rendition="#u" hand="#author">etwas tiefer Gedachtes</hi> und
+                        <hi rendition="#u" hand="#author">inniger Empfundnes</hi> –! so
+                    wußte ich ja, daß unser <persName key="JP-999999">Richter</persName> krank war
+                    und es bekümmerte mich unaussprechlich. Himmel, Caroline, was gab uns <persName key="JP-999999">R.</persName> mit den <bibl sameAs="JP-010576" subtype="werke-jp">Dämrungen</bibl>! Ich hoffe endlich <persName key="JP-999999">Richtern</persName> überall zu verstehen, ich las jetzt zum
+                    dritten mahle seine sämtliche Werke, wie aber die <bibl sameAs="JP-010576" subtype="werke-jp">Dämrungen</bibl> auf mich wirkten kann ich Dir nicht
+                    beschreiben. In der trüben Zeit bedurften wir so etwas  solcher Winke,
+                    solcher Aufmunterungen, uns selbst eine beßre Zeit zu gestalten. Ich hatte einen
+                    doppel Genuß als ich die <bibl sameAs="JP-010576" subtype="werke-jp">Dämrungen</bibl> las, einmahl las ich sie für mich selbst, und dann durfte
+                    ich sie den wakern <persName key="JP-004347">Truchseß</persName> vorlesen. Wie
+                    tief fühlte der Edle, den Geist der sie schuff, hättest Du uns doch belauschen
+                    können. Aber, Caroline, soll ich denn mit Dir zürnen über das was Du mir von
+                    Dir, bey Erwähnung <persName key="JP-003483">Deiner Lieblinge</persName> sagst.
+                    Ich ehre jede Bescheidenheit, daß mir jedoch die Deinige immer übertrieben
+                    schien, weißt Du längst Geliebte! Du kannst <persName key="JP-003483">Deinen</persName> Kindern Beyspiel sein, und darum kannst Du sie auch
+                    erziehen. Und gäbe es etwas was Du bey <persName key="JP-003483">Deinen
+                        Kindern</persName> anders wünschest als Du es selbst besitzst, so steht es
+                    ja in Deiner Gewalt, es bey Deiner Erziehung zu aendern. Traust Du mir einige
+                    Fähigkeit für die Bildung <persName key="JP-003967">meiner Kinder</persName> zu,
+                    so wiße, daß mich die Kinder früher erzogen haben. Bey empfänglichen Gemüthern
+                    kann es nicht fehlen, daß indem sie erziehen, sie erzogen werden. Deinen Töchtern wünsche ich
+                    Dein Herz, <persName key="JP-003490">Deinem Sohne</persName> Deine Festigkeit.
+                    Wer so viel  wie Du, seinen Kindern mitzugeben hat, der wuchre ja mit
+                    seinem Pfunde. Liebe Caroline sey nicht so bescheiden! – - – </p>
+            <p>Wir sind alle wohl, <persName key="JP-002936">Antonie</persName>ist seit drey Wochen wieder in
+                    unsrer Mitte. <placeName key="JP-006427">Iverdüns</placeName> Luft schien ihr nicht zu bekommen und es
+                    wirkte moralisch noch manches mit ein was ihren alten Hang zur Hypochondrie
+                    wieder wekte, kurzum, eine sich ihr anbietende Gelegenheit benutzte sie zu ihrer
+                    Rükkehr.</p>
+            <p>Hätte ich alles vorausgesehen, so würde ich an <persName key="JP-003192">Pestalozzi's</persName> eine eigne Weisung gegeben
+                    haben, wie mein Pflegling behandelt werden muß, wenn kleine Unpäßlichkeiten –
+                    die namentlich während dem feuchten Herbste nicht zu vermeiden waren – sich
+                    einschleichen damit der große Riese, Hypochondrie, nicht seine Herrschaft bey
+                    ihr anbringt. <persName key="JP-002936">Antonie</persName> ward auf einmahl in
+                    eine ganz andre Welt versetzt, in <placeName key="JP-006271">ein köstliches
+                        Land</placeName> und unter ganz: besonders kräftige Naturen. Schon dies war
+                    hinreichend sie in einen Grad von Spannung zu setzen der leicht bis zur Exal- tation hinaufgeschwungen werden konnte. Dazu brauchte nur ein
+                    geringes körperliches Leiden Aengstlichkeit des Arztes, und die Aermste kam
+                    leider in den Zustand, den ich zu bekämpfen hatte, als sie von <placeName key="JP-006247">Schlesien</placeName> kam. In <placeName key="JP-006427">Iverdün</placeName> wirkte überhaupt unendlich viel
+                    auf <persName key="JP-002936">Antonie</persName>; Ihr sich jedem schönen
+                    Enthousiasmus gern hingebendes Gemüth fand ein so weites Feld sich zu nähren,
+                    sich zu sammeln daß sie  auch Welt Erfahrungen hätte haben müßen, um für Contrasten nicht
+                    zu erschreken, die sie nothwendig in <persName key="JP-003192">Pestalozzis'</persName> Umgebung finden mußte. Da
+                    unterlag aber ihr kindliches harmloses Wesen, als sie sah, daß nur <persName key="JP-003192">P.</persName> heilig und
+                    gerecht da stand. Kräftige Männer unterstützen ihn, aber sein Gemüth, sein
+                    frommes Herz mögen wohl den meisten fehlen. Unendlich ist <persName key="JP-002936">Antonie</persName> von <persName key="JP-003192">Vater</persName> und <persName key="JP-012189">Mutter Pestalozzi</persName> geliebt, sie glaubten in
+                        <persName key="JP-002936">Antonien</persName>
+               <persName key="JP-011827">ihr einziges verlornes Kind</persName>
+                    wiederzufinden. Wie diese Liebe auf <persName key="JP-002936">Antonie</persName>
+                    wirkte, brauche ich Dir wohl nicht zu sagen.</p>
+            <p> Hätten nur die Guten nicht geglaubt, <persName key="JP-002936">Antonie</persName> leide an Gott weiß was für Schwächen und Uebeln und ihr
+                    selbst bange gemacht, oder vielmehr ihren Klagen zu sehr nachgegeben, so wäre
+                    sie noch da und ohne Zweifel so gesund und blühend als sie jetzt hier ist. Es
+                    muß etwas herrliches sein, um den seltnen Apostel <persName key="JP-003192">Pestalozzi</persName> zu leben und ihn wirken und
+                    handeln zu sehen. Alles was mir <persName key="JP-002936">Antonie</persName>
+                    darüber sagt, ist so herzstärkend so erbaulich, daß ich mich wohl recht sehne
+                    ihn auch einmahl zu sehen. Ohne Zweifel geht <persName key="JP-002936">Antonie</persName> wieder nach <placeName key="JP-006427">Iverdün</placeName> wenn sie erst ihre Geschwister sämtlich wieder gesehen und ihre
+                    Geschäfte in Ordnung gebracht hat. So theuer ihr Umgang meinem Herzen ist, so gönne ich ihr doch von ganzer Seele Genüße, die
+                    sie bey uns nicht finden kann. Eine sehr wichtige Erfahrung hat sie übrigens für
+                    ihren frühern Lebensplan gemacht, nähmlich, daß es nichts schwierigers giebt als
+                    Vorsteher eines Instituts zu sein. Nie wäre für <persName key="JP-002936">Antoniens</persName>, durchaus mit den bürgerlichen Verhältnißen des Lebens
+                    unbekannten Carakter, die Idee ausführbar gewesen, einem weiblichen Erziehungs
+                    Institute vorzustehen. Erziehen soll sie aber nur nicht in einem Verhältniße daß
+                    sie  ohne Frage erdrüken müßte. In einigen
+                            Tagen schreibt sie Dir selbst und da wirst Du noch mehreres von ihrem <placeName key="JP-006271">Schweizer</placeName> Auffenthalt erfahren. Wir sind alle
+                    wohl, <persName key="JP-003749">Amanda</persName> tanzt und singt fleißig diesen
+                    Winter, ihre Stimme gewinnt sichtlich jedes Jahr. In <persName key="JP-012234">Winters</persName> köstlicher Oper <bibl sameAs="JP-012489" subtype="werk">
+                  <hi rendition="#u" hand="#author">Timodeo</hi> oder die Macht der Töne</bibl>, da möchte ich
+                    daß Du sie singen hörtest. Die
+                    Kraft und der Umfang ihrer Stimme – die auch nun weich und malerisch wird – überraschen und sind wohlthuend. Aber, Geliebte, könnte ich nur zu
+                        <persName key="JP-003749">Amandas</persName> Talenten mehr Weiblichkeit und
+                    Häuslichkeit hinzuthun, ach Gott, daran ist großer Mangel. Wo mag ich nur bey
+                    ihrer ersten Erziehung gefehlt haben, an meinen beyspiel weniger, dieß darf ich
+                    mir zugestehn, aber wahrscheinlich in der Art sie zu behandeln. Ich bin oft sehr
+                    unruhig darüber, denn der Mann, – und die Ehe ist doch unsere Bestimmung – frägt
+                    erstaunlich wenig nach Talenten aber desto mehr nach Weiblichkeit. </p>
+            <p>
+               <persName key="JP-003971">Pauline</persName> bleibt sich immer gleich, häuslich
+                    und gemüthvoll ist ihr ganzes Wesen. Große Anlagen bemerke ich nicht in ihr,
+                    aber viel Liebreitz und einen gesunden Verstand. Die
+                            Unterichts Anstalt von <persName key="JP-012061">Merker</persName>
+                            gedeiht sehr wohl, und in ihr
+                    die  Entwiklung der kindlichen Fähigkeiten. Der humane und bescheidne
+                    Sinn der über dem Ganzen herrscht erhöht ihren Werth. Mein <persName key="JP-003965">Reinhold</persName> ist ein holder lieblicher Knabe, seine
+                    Lebendigkeit und Freundlichkeit machen ihn zum Lieblinge der ganzen Stadt. Ich begreife kaum wie der Kleine so
+                    wird bleiben können, er ist gar zu hold, wenn ich Dir ihn nur bringen
+                    könnte!</p>
+            <p>
+               <persName key="JP-003087">Emanuel</persName> will im Sommer kommen, komt doch
+                    auch Ihr geliebten ewig geliebten Freunde! <persName key="JP-999999">Richter</persName> soll in meinen Garten Hause in unsern schön gelegnen
+                    Garten vor dem Thore wohnen, da stört ihn nichts bey der Früh Arbeit und für
+                    Bier wird der Himmel auch sorgen. Du wohnst mit <persName key="JP-003483">den
+                        Kindern</persName> bey mir und wir wollen froh seyn. Komt, Geliebte im
+                    Blüthen und Nachtigallen Monathe, himlisch wäre es, allso erfüllt unsre
+                    Bitte.</p>
+            <p>Gruß und Liebe von Uns Allen, aber an <persName key="JP-999999">Richtern</persName> einen besondern Gruß und Kuß von der alten treuen
+                    Henriette. <persName key="JP-003483">Deine Kinder</persName> küße ich herzlich,
+                        <persName key="JP-003971">Pauline</persName> sehnt
+                    sich so wie wir Alle sie wiederzusehen. <persName key="JP-004556">Wagner</persName> neigt unendlich, bey aller
+                    Klarheit und Heiterkeit seines  Geistes, verlaßen ihn die
+                    körperlichen. Kräfte immer mehr. Mit großer Mühe bringt man ihn täglich auf sein
+                    treues Pferd, besuchen thut er niemanden mehr. Es ist der Mühe werth <persName key="JP-004556">den Edlen</persName> so resignirt zu sehn, auch um seinet
+                    willen möchte ich daß Ihr diesen Sommer zu uns kämt. Er sehnt sich unendlich,
+                    Euch noch einmahl zu umarmen Lebt wohl, Geliebte, auf der Erde liebt Euch
+                    niemand mehr als</p>
+            <closer>
+               <signed>Eure treue Henriette.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

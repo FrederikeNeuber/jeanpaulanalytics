@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0518">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 8.
+                    September 1801, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1801-09-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Meiningen den 8tenSeptember</hi>
+               </dateline>
+            </opener>
+            <p>O mein guter Vater wie hat es mich gerührt,einen Brief von Ihnen zu finden als
+                    wir gestern Abends vonunser <placeName key="JP-005574">Baireuther</placeName> Reise zurückkamen. Ausdem andern Brief werden Sie sehen, daß ich Ihnen früher geschrieben,
+                    jenen Brief wollte ich vor der Abreise fortschiken; hielt mich aber beiBriefen an die <persName key="JP-012044">Tante Siegfried</persName> und<persName key="JP-012731">Beseke</persName> auf. Das Wetter
+                    drohte bald sein schönes Ende, und <persName key="JP-999999">mein
+                        Mann</persName> entschloß sich schnell aufzubrechen. wir reisten am 25<hi rendition="#uu" hand="#author">ten</hi>Aug. ab. ich nahm mir vor Ihnen von<placeName key="JP-005574">Bareuth</placeName> aus zu schreiben – es
+                    ist geschehen Sie erhaltenmeinen Brief aus der Hand<persName key="JP-003087">Emanuels</persName> bei dem wir wohnten.</p>
+            <p> Es war mir schrecklich
+                    als ich von Ihrem Fall las – müßen denn alle Freuden so verbittert werden?
+                    Wenn es doch nur keine Folgen hat. o sorgen Sie doch liebster Vater, u
+                    vernachläßigen Sie Sich nicht – auf der Brust gerade, wo eine Verlezung so
+                    gefährlich werden kann. mein liebster Vater, könnte ich doch die Stelle küßen
+                    deren Schmerzen ein Denkmal Ihrer Menschenliebe sind.</p>
+            <p>ich danke Ihnen daß Sie mir etwas über Ihre ökonomische Lage gesagt haben – Sie
+                    werden fühlen wie ich alles aufopfern möchte, um Sie außer Verlegenheit zu
+                        wißen.ich wundere mich daß ich noch Zinsen bekommen soll, da Sie mir so vieles vorgeschoßen haben, u nach demAbgang des Beitrags für die Witwenkaße dächte ich
+                    könnte nichts übrig bleiben. Behalten Sie das meinige, bester Vater, wenn es
+                    Ihnen auch nur eine kleine Erleichterung ist, ich bedarf nichts, denke gar nicht
+                    daran, daß ich aus <placeName key="JP-005586">Berlin</placeName> Geld
+                    bekommen könnte.</p>
+            <p> Nun will ich Sie auf den Besuch unseres Freundes vorbereiten, der sehr
+                    wahrscheinlich nach<placeName key="JP-005586">Berlin</placeName> reisen wird. ich kann es
+                    nicht beßer als wenn ich Ihnen<persName key="JP-003087">Emanuel</persName> schildere, um Sie mit
+                    Freude auf seine Erscheinung hoffen zu laßen – doch Sie sehen ja so oft den
+                        <persName key="JP-003203">G. R. Pfeifer</persName> – laßen Sie ich von ihm
+                    eine Beschreibung des herrlichen Menschen machen da er ihn und seine ganze Lage
+                    kennt. Es würde mich sehr glücklich machen, wenn Sie ihn recht gastfreundlich
+                    behandelten, weil er uns so über alle Beschreibung gut aufgenommen hat. Jede Art
+                    der Aufmerksamkeit hat er uns mit einer Feinheit bezeigt, u mit so vieler
+                        Liebe.ich war die ganze Zeit unseres Dortseyns krank, anfangs an einem Fieber dann an Krämpfen im Unterleibe, und muste im
+                    Bett liegen – was er da für mich gethan, u die Freude wie ich wieder gesund ward
+                    kann ich Ihnen nicht sagen.</p>
+            <p>Es machte mir eine ganz eigne Freude einen Ort zu sehen, wo ich Bekante von Ihnen
+                    zu finden hofte. ich habe niemand gesehen wie den<persName key="JP-003878">Präsident Schupmann</persName> Ihr ehmaliger
+                        College u wie er sagt, Freund. er traf <persName key="JP-999999">meinen Mann</persName> auf der Promenade und bat uns beide für irgend einen Tag zum Mittagbrodt; da
+                    ich aber krank war, gieng <persName key="JP-999999">mein Mann</persName> allein
+                    hin. – er frug sehr nach Ihnen, sagte er hätte mich als ein Wesen wie ein Arm
+                    lang gekannt. Als ich gesund geworden war, giengen  wir beide noch
+                    einmal zu ihm. Er hat eine junge angenehme <persName key="JP-003880">Frau</persName> –zwei Kinder. Sie waren sehr artig, und er hat mir
+                    sehr viel herzliches an Sie, aufgetragen. Er bewohnt eines der schönsten Häuser
+                    in <placeName key="JP-005574">B.</placeName> ein wahres Landgut, mit einem sehr
+                    schönen englischen weiten Garten – lebt wie ein kleiner Fürst
+                    hat Koch mehrere Bediente u.s.w. Wann werden Sie es dahin bringen?! – –</p>
+            <p>Zum<persName key="JP-012529">Philippi</persName> wäre ich auch
+                    gegangen, aber die drei lezten Tage meiner völligen Gesundheit wollte ich dazu
+                    anwenden, die umliegenden Gegenden zu sehen – Ach die Köstlichen!<persName key="JP-003087">Emanuel</persName> hat einen kleinen Wagen,
+                    er fuhr mich nach der<placeName key="JP-011045">Eremitage</placeName> – ein andermal auf
+                    einen Berg. in der<placeName key="JP-011048">Fantaisie</placeName> war ich den ersten
+                    Tag unsrer Ankunft gewesen – – mein Auge hat sich so verwöhnt, daß ich die
+                    Gegenden bei<placeName key="JP-005649">Coburg</placeName> überhaupt den ganzen
+                    Reiseweg über<placeName key="JP-005832">Hildburghausen</placeName> und so viele
+                    reizende Dörfer auf der Rükreise nicht halb so schön fand.<placeName key="JP-005929">Culmbach</placeName> allein liegt noch
+                    schöner als<placeName key="JP-005574">Bareuth</placeName>, aber die Gegenden
+                    berühren sich so nahe, daß man sie miteinander vermischt.</p>
+            <p>Unser Reiseplan dehnte sich anfangs weiter aus, <persName key="JP-999999">mein
+                        Mann</persName> wollte die <persName key="JP-012749">Herzogin
+                            v<placeName key="JP-005832">Hildburgh.</placeName>
+               </persName> besuchen und
+                    mich ihr vorstellen, sie hat ihn kürzlich so freundlich eingeladen – aber es
+                    hätte uns zu sehr aufgehalten, dann wollten wir von<placeName key="JP-005574">Bar.</placeName> nach<placeName key="JP-005841">Hof</placeName> wo er so lange gewohnt hat,
+                    u von da aus seinen <persName key="JP-003480">Bruder</persName> besuchen,
+                        derRendant in einem
+                        kleinen Städtchen<placeName key="JP-006291">Sparnek</placeName> ist, aber meine
+                    Krankheit hat alles vereitelt, wie weh es mit that so viel Störung zu machen
+                    kann ich Ihnen nicht sagen, aber wir haben uns wenn es möglich ist, noch mehr
+                    lieben gelernt.  keine Mutter kann treuer u ängstlicher für ihr Kind
+                    sorgen, als mein einzig guter <persName key="JP-999999">Mann</persName> für mich
+                    Tag und Nacht gesorgt! aber eben darum sind wir mit unendlicher Freude in unsre
+                    Heimath zurükgekehrt – es war als wenn das schöne Leben verloren wäre, wie aus
+                    weiter Ferne schimerte uns die Erinnerung.  Aber am Abend
+                    unserer Rükkunft hoften wir auf frohe Briefe, wie auf eine Entschädigung der
+                    vergangenen Tage, u fanden dieBriefe von<persName key="JP-004393">Minna</persName>, die Sie auch haben, ich habe ihr sogleich geantwortet, und sie wird
+                    Ihnen natürlichden Brief mitteilen, da
+                    Sie Ihnendas vorige mitgetheilt. </p>
+            <p>
+               <ref target="JP-UB0024/#nsqq_gqj_1jb">Das war <hi rendition="#u" hand="#author">keine</hi> Freude.</ref>
+            </p>
+            <p>Denselben
+                                Tag als wir zurückamen war auch <persName key="JP-000606">die
+                                alte Herzogin</persName> gestorben – das macht eine unglaubliche
+                        Sensation hier – erstl. weil sie Fürstin war,
+                    zweitens weil sie die beste wohlthätigste Seele war, die es geben kann – eine
+                    vortrefliche Frau – <persName key="JP-001289">Der Herzog</persName> war außer
+                    sich – er ist ein recht seltner <hi rendition="#u" hand="#author">Fürst</hi>. Er läßt sie auf dem gewöhnlichen <placeName key="JP-012950">Kirchhof</placeName> begraben, weil sagt er "sie
+                    es werth ist, unter ihren Unterthanen zu liegen". Alte eisgraue Bauern kommen
+                    vom Lande herein sie als Leiche zu sehen – weinen u nennen sie Mutter. Sie war
+                    recht freundlich zu uns – einmal hatten wir uns anmelden laßen, und <persName key="JP-999999">mein Mann</persName> bekam Kopfweh, da gieng ich allein zu
+                    ihr – da sagte sie "ach es thut mir recht leid, ich habe expreßRack für <persName key="JP-999999">ihren Mann</persName> holen
+                        laßen" weil er das vorigemal
+                    keinen Thee trank. Und sie schikte hernach und ließ fragen obs beßer wäre</p>
+            <p>Der<persName key="JP-000225">Lida Bassewitz</persName> sagen Sie einen
+                        herzlichen Gruß. sie bekömt bals auch einenBrief v<persName key="JP-003087">Emanuel</persName> den ich an sie
+                    adreßirt habe.</p>
+            <closer>
+               <salute>Leben Sie wohl mein ewiggeliebter Vater!</salute>
+               <signed>Ihre treueste Caroline.</signed>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

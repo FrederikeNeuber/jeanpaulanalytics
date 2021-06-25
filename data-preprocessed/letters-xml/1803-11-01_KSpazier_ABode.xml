@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0841">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig, 1. November,  1803, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-11-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipz. 1 9vbr. 3</dateline>
+            </opener>
+            <p>Vorerst Ihr Auftrag, lieber <hi rendition="#u" hand="#author">Bode</hi>. <persName key="JP-002583">Mahlmann</persName> hat keine Lust zu
+                    der
+                    Enterprise,
+                    auch ist er mit Sachen schon zu besezt, wie ich versichern kann. Ich glaube
+                    überhaupt nicht, ehrlich gesagt, daß sich nicht ein Verleger zu einer Suite von
+                    Bänden Gedichte dieser Art finden dürfte, zu welchen noch kein Sinn u Verstand
+                    im Publikum gefunden wird. Was soll ich also thun? Gern würde ich
+                    weiter herumfragen, aber ich sehe schon, es hilft mir nichts. Wissen Sie was?
+                    Schreiben Sie einmal an <persName key="JP-003408">Reimer</persName>, den Faktor
+                    oder Inhaber, glaub' ich, der <persName key="JP-003365">Realschulbuchhand</persName>lung in <placeName key="JP-005586">Berlin</placeName>: der hat Calderon, <persName key="JP-004302">Tiecks</persName> (pudelnärrische) <bibl sameAs="JP-009908" subtype="werk">Minnelieder-Sammlung</bibl>, <bibl sameAs="JP-013287" subtype="werk">Lakrimas</bibl> etc. verlegt.  Vielleicht schlägt
+                    der ein.</p>
+            <p>Sie sind recht gut u wacker, l. B. für Ihre Freunde, das
+                    sehe ich. Haben Sie schönen Dank für Ihre Auskunft
+                            wegen der Portraits. Ich nehme die Proposition mit Vergnügen an u gebe
+                    Ihnen plein pouvoir mit
+                        <persName key="JP-013229">Herrn Zimmermann</persName> die Sache zu
+                    beginnen, dem ich mich hiermit bestens empfohlen haben will. Ich werde mich ihm
+                    sehr verbunden erachten, wenn er so gütig seyn will die Zeichnungen recht bald
+                    zu besorgen. Sie erhalten das vorjährige
+                            Titelkupfer, damit
+                        <persName key="JP-013229">Hr. Z.</persName> die Größe der Medaillons
+                    danach bestimmen kann. Es bleibe Ihnen überlaßen, wie Sie die Idee arrangiren
+                    wollen. <anchor type="target" xml:id="start_vpn_4xr_h4b"/>Das Schustergesicht in den Kohl zu stecken, ist nicht übel.<anchor type="target" xml:id="stop_vpn_4xr_h4b"/> Mag sich der Zeichner doch damit versuchen, wie
+                    er das anfängt. Aber ist die visage auch dort bey Ihnen
+                    zu haben? Wo nicht, so mag nur dazu Platz bleiben, u wir wollen wohl hier dafür
+                    sorgen. Nur hübsch bald Alles! Die wenigen Wochen
+                            gehen leicht um, u das
+                    Blatt soll doch ordentlich gestochen werden.</p>
+            <p>Machen Sie, l. B. daß <persName key="JP-013229">Herr Z.</persName>
+                    billig ist. Nach meinem Kontrakte mit <persName key="JP-004523">Voß</persName>,
+                    fällt <hi rendition="#u" hand="#author">mir</hi>, nicht ihm, alles
+                    anheim, was Zeichnungen kosten; den Kupferstich bezahlt <hi rendition="#u" hand="#author">Er</hi>. Glücklicherweise bin ich seither meist
+                    durch Güte von Freunden, oder durch Zufall zu allerhand Sachen gekommen und
+                    Weniges habe ich bezahlen dürfen. Unterdeß mit Vergnügen werde ich honoriren.
+                    Nun bitte ich mir die Forderung des <persName key="JP-013229">Herrn
+                        Z.</persName> zu sagen. Einigermaßen kann  er etwas auf die
+                    Publizität seines Namens durch die <bibl sameAs="JP-009809" subtype="werk">Zeitung</bibl> schlagen; denn ich würde auf jeden Fall ausdrücklich sagen,
+                    daß u wie er die Portraits ausgeführt.</p>
+            <p>Nun genug davon.</p>
+            <p>Haben
+                    Sie schon Ihren Panegyrikus im <bibl sameAs="JP-013276" subtype="werk">Ernst u
+                        Scherz</bibl> gelesen? Es ist recht niederträchtig, wie
+                    der <persName key="JP-002774">Sünder</persName> mit den <bibl sameAs="JP-013243" subtype="werk">Burlesken</bibl> umgegangen ist. Machen
+                    Sie doch eine Burleske auf ihn; aber sie muß so werden, daß ganz <placeName key="JP-005668">Deutschland</placeName> darüber lacht, ganz als petit
+                                    miserable müssen Sie ihn
+                    behandeln, ich meine aber damit, durch Imersion muß er ganz inquisirt werden. Ersinnen Sie doch eine
+                    lustige Idee, was Sie eigentlich mit ihm anfangen wollen. Schlägt man den Hund
+                    nicht todt – was das Beste wäre – so muß man ihm einen Haarbeutel einbinden u ein Brummeisen ins Maul geben, ihn wie einen Schneider
+                    tanzen laßen.Die
+                                    <bibl sameAs="JP-013270" subtype="werk">Expectorationen</bibl>
+                                sind von <persName key="JP-002228">Kotzebue</persName>, <hi rendition="#u" hand="#author">ganz
+                                bestimmt</hi>. – Apropos bald hätte ich vergessen Ihnen
+                        zu sagen, daß seit Sonntag meine <persName key="JP-004393">Frau</persName> mit einem <persName key="JP-004107">Jungen</persName> in die Wochen gekommen
+                                ist. Vive
+                                        la vie!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

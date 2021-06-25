@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0133">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Paul Emile Thieriot. Bayreuth, 21. Dezember 1804,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1804-12-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004275">Paul Emile Thieriot</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012313">Thieriot-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Bayreuth, 21<hi rendition="#u" hand="#author">ten</hi> Dec. 1804.</hi>
+               </dateline>
+            </opener>
+            <p>"Bei der Gelegenheit wil ich  doch auch einmal an Thieriot schreiben" sagt’ ich mir, als ich
+                        Ihre hinterlaßenen Strümpfe fand, und jezt werde ich sie gleich in das beschriebene Blätchen einwikeln –
+                    das wird mir sehr leicht werden, indem ich die Übung bei <persName key="JP-003491">meinem kleinen Kind</persName> habe, das ich täglich selbst
+                    wasche und einwikele.</p>
+            <p>Wir lesen alle Ihre Briefe an <persName key="JP-003087">E…</persName> und Ihr
+                    Leben liegt recht klar und freundlich vor mir – ich kann mich nicht erwehren es
+                    etwas mit Meisters Leben zu vergleichen, und Ihre
+                    musikalische, mit Serlos
+                    Schauspielertruppe – –</p>
+            <p>|2 Ihre Stube ist jezt ein Sinbild der Kälte und des Winters, wenn er uns anders
+                    in Bildern erst deutlich zu werden brauchte; durch die Kammerthür sind Seile
+                    gezogen, und Wäsche darauf getroknet, und alle Fenster sind offen. Ihren Schreib
+                    und Waschtisch habe ich vererbt, und sie zieren noch mein Wohnzimmer.</p>
+            <p>
+               <persName key="JP-003471">Emma</persName> wiederholt täglich im elegischen Ton
+                    „Thierot ist fort“. Sie gehören aber noch immer zu ihrer Gegenwart, denn kann
+                    sie sich größere Entfernung denken, als durch die Stubenthür? – –</p>
+            <closer>
+               <salute>Nun, adieu – ich werde sehen ob mir meine Worte etwas einbringen,
+                        nehmlich eine Antwort.</salute>
+               <signed>Guter Thiriot, ich bin Ihre zärtlichste Schwester.
+                        </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

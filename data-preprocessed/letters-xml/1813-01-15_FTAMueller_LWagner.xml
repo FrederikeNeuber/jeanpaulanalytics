@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1122">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich von Müller an Louise Wagner. Weimar, 15. Januar 1813,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+               <date when="1813-01-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004548">Juliane Louise Antoinette Karoline Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Die freundliche Aufnahme, die Sie und die theuren Ihrigen meinen Bemühungen für <bibl sameAs="JP-010017" subtype="werk">die holde Isidore</bibl> gegönnt
+                    haben, war mir ungemein beruhigend. Doppelt freue ich mich Ihnen noch einen zweyten Beweiß der
+                            aufrichtigen Theilnahme geben zu können, die Ihnen und Ihrer ganzen Familie von allen
+                    Verehrern und Freunden Ihres unvergeßlichen Vaters,
+                    auch hier in Weimar gewidmet ist und gewiß stets gewidmet bleiben wird. Möchten
+                        Sie sich davon stets  überzeugt halten
+                    und mir die innige Freude zu Theil werden, von Ihrem
+                    allerseitigen Befinden, und Zufriedenheit, und von dem glücklichen Fortschreiten
+                        Ihrerwackern Brüder auf der Lebensbahn, die Neigung und
+                    treuer Rath wohlgesinnter Freunde ihnen vorgezeichnet haben, recht oft frohe
+                    Kunde zu erhalten. Empfehlen Sie mich ihnen und <persName key="JP-004551">Ihrer Frau Mutter</persName> aufs angelegentlichste
+                    und bleiben Sie stets meiner herzlichsten Achtung und Freundschaft gewiß.</p>
+            <closer>
+               <signed>EFvonMüller.</signed>
+               <dateline>Weimar. 15. Jan. 1813.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1035">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen, 6. Februar 1805,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1805-02-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012692">Bildung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 6<hi rendition="#uu" hand="#author">n</hi> Febr. 1805.</dateline>
+               <salute>Wohlgeborner
+                            Herr, Hochzuverehrender Herr!</salute>
+            </opener>
+            <p>
+               <hi rendition="#mMM" hand="#unknown">Ihr
+                                Verehrtestes vom 27<hi rendition="#uu" hand="#author">n</hi> v. M. erhielt ich
+                        mit vielem Vergnügen. In unserer feilen, kaufmännischen Zeit ist es ein <hi rendition="#u" hand="#unknown">doppelt grosses Glück</hi>
+                        für den poe<hi rendition="#u" hand="#unknown">tischen Menschen
+                            der sich</hi> so gerne aus den bürgerlichen Verhältnissen hinausdenken
+                        möchte, <hi rendition="#u" hand="#unknown">einen edlen Verleger zu gewinnen,
+                            der</hi> Selbst Gelehrter und feiner Kunstkenner ist, der sich nicht
+                        schämt der Empfindsamkeit seines eignen Gefühls die gewöhnlichen Rücksichten
+                        nachzusetzen, und dadurch der gute, großherzige und geschmackvolle
+                        Beförderer der wahren schönen Literatur geworden ist, welchen das <placeName key="JP-005669">Vaterland</placeName> in Ihnen
+                        – ich sage bekanntlich nicht zu viel – vor allen seinen Verlegern anerkennt.
+                        – Es ist hierbey mein freudiger, und mit einer gewissen Rührung gefasster
+                        Vorsatz, in Ewr. Wohlgeboren  mehr als
+                        meinen Herrn Verleger, auch einen – Freund für mein Herz zu erwerben; ich
+                        danke Ihnen recht warm für Ihr edelmüthiges
+                        Zutrauen; und wenigstens Ihre Meynung über mich
+                        (als Mensch, der auch Pflichten für Sie übernimmt)
+                        soll in der Folge immer gewinnen, nie aber durch Nachlässigkeit oder
+                        Interesse getäuscht werden. – Viel schreiben werde ich nicht</hi>, und die
+                    Plane für mein ganzes Leben sind überhaupt etwa auf 10 Bände berechnet – wäre es
+                    doch nicht für diese zu kurz! Auch ist unter meinen <hi rendition="#u" hand="#author">Romanen</hi> dieser zweyte schon der letzte. Dann
+                    werden einige dramatische Arbeiten, und zuletzt ein
+                                <hi rendition="#u" hand="#unknown">Messias</hi> (der das Reinmenschliche von jenem
+                    Göttlichen, unabhängig von <persName key="JP-002139">Klopstocks</persName> Apotheosen und Satanisten
+                    darstellt) erscheinen, wenn ich zu letzterem genug Ruhe und eignen Lebenswerth
+                    erlange. Übrigens noch verschiedene künstlerische Beschreibungen, und Ansichten
+                    von der Kunst und Natur.</p>
+            <p>Wollen Sie mich nun aufnehmen, und auch für mein Wohl
+                    immer redlich besorgt seyn, woran ich nicht im Geringsten zweifle, so sey dieser
+                    Bund zwischen zwey Deutschen hiermit geschlossen!</p>
+            <p>Für heute verzeihen Sie einen etwas <hi rendition="#u" hand="#author">langen</hi> Brief. Denn ich bedarf Ihres Raths, und muß mich über unsern Akkord
+                    vollständig erklären.</p>
+            <p>Leider hat mir <persName key="JP-001518">Hanisch</persName> in <placeName key="JP-005832">Hildburghausen</placeName> – unter Vorspiegelung eines
+                    schönen Äussern und der hier selbst zu besorgenden Korrektur – meinen ersten
+                    Roman <bibl sameAs="JP-010022" subtype="werk">
+                  <hi rendition="#u" hand="#unknown">"Wilibalds Ansichten des Lebens"</hi>
+               </bibl> entlockt, und
+                    hält nun beyde Bedingungen nicht, wodurch ich leider in meiner literarischen
+                    Laufbahn, wenigstens nach meinem Gefühl, schon Anfangs einen Stoß leide.  Ich liebte dieses MSC. so sehr, und es hätte wohl ein besseres
+                    Schicksal verdient! Er hat es indessen, und will es nicht herausgeben, wiewohl
+                    ich ihm Entschädigung angeboten habe; alle Klagen sind daher vergebens. –
+                    Allein, da der Akkord nur auf 600 Exemplare gemacht ist, und er das Werk in der
+                    Ostermesse mit nach <placeName key="JP-005948">Leipzig</placeName> nehmen wird,
+                    so könnten vielleicht Ewr. Wohlgeboren dort durch gütige
+                    Empfehlungen bey Ihren grossen Bekanntschaften das Gute
+                    für mich bewürken, daß <persName key="JP-001518">Hanisch</persName> einen
+                    starken Absatz machte. Was sind 600 Exemplare eines Romans bey 2-300
+                    Buchhändlers, wenn eine so wichtige Rekommendation
+                    bekannt würde? Sobald es fertig ist, und sollte es auch nur 14 Tage vor der
+                    Messe seyn, will ich Ewr. Wohlgeboren ein Exemplar zur
+                    Einsicht übermachen. Ich bitte sehr, es zu lesen, und Sich seiner anzunehmen,
+                    wenn es dieses verdient. – Auf diese Art könnte ich dann, wenn das Buch etwa
+                    Beyfall finden, und sich zur 2<hi rendition="#uu" hand="#author">ten</hi> Auflage
+                            qualificiren sollte, (in <placeName key="JP-005812">Hamburg</placeName> habe mir einige Freunde starken Absatz
+                    verheissen) wohl ganz von <persName key="JP-001518">H.</persName> los kommen, da
+                    es in dem Contract ausdrücklich heisst: "Bey einer zweyten Auflage soll ein
+                    neuer Akkord gemacht werden." – Glauben Sie nicht, daß
+                    ich mich hierdurch frey machen könnte, da ich ihm beweisen kann, daß er seinen
+                    ersten Akkord nicht gehalten hat? – Hierüber erbitte ich mir Ihren freundschaftlichen Rath.</p>
+            <p>Was die <bibl sameAs="JP-010020" subtype="werk">"reisenden Maler"</bibl> betrifft,
+                    so wünschte ich folgendes von Ihnen gefälligst
+                    erörtert.</p>
+            <p>1.) Wie sich wohl mein MSC. zum Druck erhalten wird? Nach Ansicht einiger Ihrer Ausgaben würde wohl die 10 geschriebene Bogen,
+                    welche Sie von mir bereits in Händen haben, auch 10
+                    gedruckte Bogen ausmachen. – Ich wünschte dieß auch deßwegen genau zu wissen,
+                    weil ich mich mit dem Schluß des ersten Bandes nach der schon mir bekannten
+                    Sicke des zweyten richten möchte, und weil hierbey</p>
+            <p>2.) eine Hauptsache folgende ist: Das Werk wird in
+                            gewisser Rücksicht mein Hauptwerk, weil ein gewisser <bibl sameAs="JP-010023" subtype="werk">Kunstplan</bibl> darin verwebt werden
+                            soll, der bereits fertig ist, und mein ganzes Streben seit 15 Jahren
+                    ausmachte. Hier nur wenige Worte darüber. Es ist der Plan, eine allgemeine
+                    deutsche Kunstschule in irgend einer deutschen Stadt für das ganze deutsche und
+                    ausserdeutsche Kunstpublikum, auf eine allgemeine Subskription, zu gründen, die
+                    auf englische Manier von Statten gehen soll. Der Plan ist mit grösster
+                    Mühsamkeit ausgearbeitet, hat bereits am <placeName key="JP-006040">Münchner</placeName> Hofe, wo er im <placeName key="JP-011548">Museum</placeName> niedergelegt ist, einiges Glück gemacht, indem mir die
+                        <persName key="JP-002053">Kurfürstin</persName> ein einer sehr schönen
+                    Antwort <hi rendition="#u" hand="#author">alle</hi>
+               <hi rendition="#u" hand="#author">mögliche</hi>
+               <hi rendition="#u" hand="#author">in</hi>
+               <hi rendition="#u" hand="#author">ihrer</hi>
+               <hi rendition="#u" hand="#author">Macht</hi>
+               <hi rendition="#u" hand="#author">stehende</hi> Unterstützung bey
+                        <persName key="JP-002694">ihrem Gemahle</persName> versprochen hat, welchen
+                    meine Freunde und die <persName key="JP-002053">geniale Fürstin</persName>
+                    selbst bereits damit bekannt gemacht haben. Gegenwärtig befindet er sich auch in
+                    den Händen des <persName key="JP-000943">Hz. von Gotha</persName>, von dem ich
+                    noch keine Antwort habe, der aber ausdrücklich ihn zu sehen verlangt hat, also
+                    sehr wahrscheinlich  auch <hi rendition="#u" hand="#author">etwas</hi> wenigstens thut, wenn die Sache losbricht.  Wäre mein
+                    seliger Herr, <persName key="JP-001289">Herzog Georg</persName>, am Leben
+                    geblieben, so wäre die Sache jetzt schon weit gediehen; aber der Tod hat ihn mir zu früh geraubt. –
+                    Abstrahirt nun aber vom Gelingen oder Nichtgelingen des <bibl sameAs="JP-010023" subtype="werk">Planes</bibl> selbst, so ist doch der Gedanke völlig neu, und
+                    gegenwärtigen Roman habe ich dazu ausersehen, ihn (in einem <hi rendition="#u" hand="#author">Kunstgespräch</hi> zwischen den drey Malern) zum
+                    ersten mal dem Publikum beyzubringen, da seine besondere Expedition und
+                    Beförderung an die hohen Häupter pp einen eignen Kostenverlag erfordern würde,
+                    den ich noch nicht zu machen im Stande bin. Dieses Kunstgespräch (woran hinten
+                    in einer Note die Subskription wirklich eröffnet werden soll) wird vielleicht
+                    8-10 Bogen ausmachen, und die Frage ist, ob wir es zu Ende des ersten Bandes, zu Anfange des zweyten, oder ganz zuletzt
+                    als Anhang einrücken wollen? Für das letzte wäre ich nicht, weil ausserdem gar
+                    mancher Leser es überschlägt. Zu Anfange des zweyten Bandes wäre es mir am
+                    liebsten, da dort die Geschichte des Romans selbst noch in ihrer Ruhe ist, die
+                    Leser also am meisten für die Episode sich hinzugeben geneigt seyn dürfte. Doch
+                    wünschte ich Ihren eignen Rath hierüber. In der
+                    Ankündigung des Werks muß auch schon gesagt werden, daß man dem Romane einen
+                    recht starken Absatz wünsche, weil dadurch eine neue Kunstmotion tendirt werde,
+                    zu welcher vom Romane die ersten Kosten genommen werden sollten. Denn ich will,
+                    sobald wir einverstanden sind, im Buche selbst einen Theil des Honorars zur
+                    ersten Eröffnung der Subskription durch mich selbst, nennen, und entweder hier
+                    oder bey der Stadt <placeName key="JP-005948">Leipzig</placeName> wirklich
+                    deponiren, mit der Erklärung, daß das Geld einer bestimmten Armenanstalt
+                    zuwachsen solle sobald binnen einer gewissen Zeit der Plan nicht zu Stande
+                    komme; unter welchen Bedingungen ich auch alle übrigen ersten Beyträge geleistet
+                    zu sehen wünsche. Ich selbst habe übrigens kein vermögen.</p>
+            <p>3.) Das Äussere des Romans wünschte ich <hi rendition="#u" hand="#author">schön</hi> und <hi rendition="#u" hand="#author">elegant</hi>, doch wären die Kupfer vielleicht nicht nothwendig, weil sie
+                    so viel kosten. Auch bitte ich Sie, hierüber erst Sich
+                    zu bestimmen wenn Sie<bibl sameAs="JP-010022" subtype="werk">"Wilibalden"</bibl> gelesen haben, worinn
+                    einiges über die Kupfer gesagt ist. Wenigstens wünschte ich nur eine allgemeine
+                    Allegorie, Mythe pp auf dem Titel – nicht gern eine Szene aus dem Werke selbst,
+                    da der Oktavformat wegen der Kleinheit keinen wahren Ausdruck der Gesichter
+                    zulässt.</p>
+            <p>4.) <anchor type="target" xml:id="start_dxy_ccs_q4b"/>Über das Honorar meine
+                    Meynung zu sagen, fällt mir sehr sauer, mein verehrter Freund! Ich wünschte, Sie wollten und könnten mir für den Bogen 20 Thaler
+                    geben – es würde mir sogar leid thun, wenn Sie mir <hi rendition="#u" hand="#author">viel</hi>
+               <hi rendition="#u" hand="#author">weniger</hi> geben. – Denn,
+                    ausserdem, daß man an manchen Bogen poetischer Darstellung oft 4 Wochen
+                    schreiben und klügeln muß, wenn ein Anderer täglich einen Bogen Roman liefern
+                    kann (wie einer neben mir wohnt) habe ich <persName key="JP-004551">eine
+                        Frau</persName> und <persName key="JP-004557">drey Kinder</persName>, und
+                    die Hauptsache, die Bestimmung eines Theils für die Kunstanstalt, kennen Sie aus obigem. – Allein, ich kann unmöglich fordern!
+                    Thun Sie an mir was Sie wollen
+                    und können. Am ersten zweifle ich nicht – vom letztern verstehe ich nicht viel.
+                    Wenn Sie mir wenig geben müssen, so spielen Sie dagegen das Werk dem Publikum desto wohlfeiler in
+                    die Hände, und ich will zufrieden seyn, daß nur die Sache der Kunst gefördert
+                         werde. Haben Sie also die Güte, Selbst
+                    alle Bedingungen unseres Kontrakts (diese nur aber recht <hi rendition="#u" hand="#author">genau</hi>
+               <hi rendition="#u" hand="#author">und</hi>
+               <hi rendition="#u" hand="#author">vollständig</hi>) gefälligst
+                    aufsetzen zu lassen und mir recht bald zur Unterschrift zuzusenden, damit ich
+                    dann die Sache vor mir habe. – Sorgen Sie selbst für
+                    mich, guter, redlicher Mann; mich dünkt, ich werde Ihnen immer unbedingt vertrauen!<anchor type="target" xml:id="stop_dxy_ccs_q4b"/>
+            </p>
+            <p>
+               <persName key="JP-001603">J. L. Heims</persName> letztere mineralogische
+                    Schriften, nemlich  und <bibl sameAs="JP-013516" subtype="werk">"geologische Beschreibung des Thüringer Waldes"</bibl> hat
+                    der Vfß. (hiesiger Geheimrath und mein Freund) an <persName key="JP-001518">Hanisch</persName> gegeben. Von letzterem Werke ist der letzte Band noch im
+                    MSC. in des Vfß. Händen. <persName key="JP-001518">Hanisch</persName> hat den
+                    vorletzten ganz erbärmlich gedruckt, wiewohl er das MSC. umsonst erhielt. Wäre
+                        Ihnen vielleicht mit einem solchen Werke gedient –
+                    so will ich einmal bey <persName key="JP-001518">Hanisch</persName> insgeheim
+                    anfragen, ob die Auflage vergriffen ist, und ob er es herausgeben will.
+                        <persName key="JP-001603">Der Verf.</persName> würde es gewiß sehr gerne
+                    sehen, wenn das Ganze umgedruckt und in einer schöneren Form ans Licht gebracht
+                    würde. Grossen Absatz für den <hi rendition="#u" hand="#author">Anfang</hi> verspreche ich Ihnen nicht; aber desto
+                    längeren, da es kein ephemeres Werk, sondern, nach allen Recensionen klassisch,
+                    und das allerbeste ist, und gut
+                    bleiben wird, solang der <placeName key="JP-006335">Thüringer Wald</placeName>
+                    steht. Die tiefste Gelehrsamkeit und Gründlichkeit werden Ihnen alle Gelehrte bezeugen. <persName key="JP-001603">Der
+                        Vfß</persName> würde auch für den letzten Band und das Ganze kein Honorar,
+                    oder doch ein sehr geringes nehmen. – Die Spekulation ist nur für einen grossen
+                    und ernsten Buchhändler; ob sie gut ist, werden Sie
+                    verstehen; wünschenswerth für die Welt ist sie gewiß. Aber diese Sache bleibe
+                    geheim zwischen uns beyden. <persName key="JP-001603">Heim</persName> ist ein
+                    angesehener, reicher und eigner Mann.</p>
+            <p>Die gute <persName key="JP-001649">A. Hendrich</persName> sendet Ihnen ihre
+                    wärmsten Grüsse, und das Versprechen, Ihnen nächstens zu schreiben und etwas zu
+                    senden. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1033/#start_jmh_53d_q4b">Ich bin ihr grosse
+                        Verbindlichkeit für die schätzbare Bekanntschaft mit Ewr.
+                            Wohlgeboren schuldig!</ref>
+            </p>
+            <p>
+               <anchor type="target" xml:id="start_kzh_vbs_q4b"/>Der
+                            arme <persName key="JP-004104">Spazier</persName>!
+                    Gegen die Einrückung in die <bibl sameAs="JP-009809" subtype="werk">eleg.
+                        Zeitung</bibl> habe ich gar nichts – im Gegentheil macht mir Ihr edler Zweck
+                    Vergnügen, und lässt mich einen schönen Blick in Ihr Herz thun.</p>
+            <p>Den ersten Band meiner <bibl sameAs="JP-010020" subtype="werk">Maler</bibl> kann ich
+                        Ihnen gleich nach der Ostermesse fertig liefern,
+                    sobald ich nemlich Ihre Meynung über das Kunstgespräch
+                    weis, auf die ich recht bald hoffe! Wahrscheinlich
+                            werden Sie aber doch beyde Bände erst in der
+                            Mich. Messe erscheinen lassen. Im Anfange
+                    Augusts kann ich alles sehr bequem abliefern. Müsste dieß <hi rendition="#u" hand="#author">eher</hi> geschehen, so bitte ich es mir gütigst
+                    zu melden.</p>
+            <p>Haben Sie doch die Güte, mir 1 Exempl. vom <bibl sameAs="JP-010280" subtype="werk">Journal für deutsche Frauen</bibl> für meine gute <persName key="JP-002546">Fr. Herzogin</persName> zu senden. Sollte sie es nicht mithalten wollen, so
+                    bringe ichs sonsten hier unter.</p>
+            <closer>
+               <salute>Verzeihung für diese lange Epistel! Mit grösster Verehrung</salute>
+               <signed>Ewr. Wohlgeborenganz
+                                gehorsamsterDiener JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

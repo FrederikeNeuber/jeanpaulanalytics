@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0082">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm und Henriette Mayer an Caroline Richter. Berlin,
+                    21. Februar 1816, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <persName key="JP-002709">Julie Henriette Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1816-02-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-002703">
+            <opener>
+               <dateline>Berlin d. 21<hi rendition="#u" hand="#author">ten</hi>Febr. 16.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Indem ich nach den Gründen frage, die Dich abgehalten haben können, den Werth der
+                    mir <persName key="JP-001187">vom Könige</persName> ertheilten Auszeichnung (des
+                    rothen Adler Ordens dritter Classe) durch Deine
+                    Theilnahme zu erhöhen, finde ich keine andere mich beruhigende, als daß Du die
+                        <placeName key="JP-005586">Berliner</placeName> Zeitungen u die <placeName key="JP-005812">Hamburger</placeName> dort
+                    nicht liesest. Denn freylich bin ich Dir noch die Antwort auf Deinen letzten Brief vom 12. Jan., also seit 4. Wochen von Zeit des Empfanges
+                    schuldig; aber so genau wirst Du ja nicht Buch u Rechnung mit mir halten; u wäre
+                    diß auch möglich, so will ich mich doch lieber darinn finden, als Kälte unter
+                    uns eintreten laßen.</p>
+            <p>Nun zu Deinem Briefe, den ich bey einer Menge von Zerstreuungen, als der Feyer des Jubilaeums unsers <persName key="JP-012223">Praesidenten</persName> am 29. Xber 15., des Taumels des Neu Jahrs Festes,
+                    der Störungen des Ordens Festes, u des Andrangs von Geschäften, die sich unmittelst gehäuft hatten, wohl
+                    habe unbeantwortet liegen laßen müßen.</p>
+            <p> Zuförderst habe ich nun, was mir allenfalst zum besondern Vorwurf
+                    gemacht seyn möchte, freylich auf den wichtigsten <ref target="JP-UB0693/#ntq4_2hv_njb">Punkt des <persName key="JP-999999">Deinem
+                            Mann</persName> fehl geschlagenen Versuchs, die ihm hier früherhin
+                        verheißene Praebende zu erhalten</ref>, nicht
+                    geantwortet. Aber ich bin deßhalb doch dabey nicht listig gewesen, u bedaure
+                    nur, daß <persName key="JP-999999">Dein Mann</persName> mich nicht durch Dich
+                    von diesem Versuch vorher benachrichtigt hat. Früherhin hatte ich schon mit
+                        <persName key="JP-004126">H. von Staegemann</persName> (der rechten Hand es <persName key="JP-001530">Herrn Staats
+                        Cantzlers</persName>) davon gesprochen, aber weil sich die Laage der Dinge
+                    damals noch nicht <ref target="JP-UB0693/#nq5r_qkv_njb">durch die jetzt
+                        gesicherte Pension des ehemaligen <persName key="JP-000742">Großhertzogs von <placeName key="JP-005743">Frankfurth</placeName>
+                  </persName>
+               </ref> geändert, und die
+                    Regheit für die Praebende nicht etwas gelähmt hatte.
+                    Allein ich hätte auch dieserhalb <persName key="JP-012215">meinen Freund Herrn
+                            GeheimenCab. Rath </persName>
+               <persName key="JP-012215">Albrecht</persName> praeveniren können, der den
+                    Vortrag beym <persName key="JP-001187">Könige</persName> in solchen Sachen in
+                    Gegenwart des <persName key="JP-001530">Herrn Staats
+                        Cantzlers</persName> hat, wenn ich selbst praevenirt gewesen wäre. Inzwischen habe ich mich noch vor 14. Tagen,
+                    also nach Eingang Deines letzten Briefes, mit <persName key="JP-003878">Herrnv. Schukmann</persName> über die Praebendeund die Fehlschlagung des deßhalb
+                        gemachten Versuchs gesprochen, u er hat mir gesagt, daß er bey einem
+                    nächstens <persName key="JP-001187">dem Könige</persName> von ihm selbst über
+                    die Zahl der noch bestehenden Praebenden der gantzen
+                        Monarchie, <persName key="JP-001187">den
+                        König</persName> an sein <persName key="JP-999999">Deinen Mann</persName>
+                    gethanes Versprechen selbst erinnern werde. Ich bitte mir also keinen Vorwurf zu
+                    machen. Auch nimt <persName key="JP-012303">H. v. Bülow</persName> an dieser Sache keinen Theil, u  nur <persName key="JP-004126">H. v. Staegemann</persName>der so viel für die <placeName key="JP-005743">Frfurther</placeName> Sache gethan hat, hat vielleicht eine Addresse an ihn vermißt.</p>
+            <p>Eher könnten <persName key="JP-999999">Deine Kinder</persName> sich gekränkt
+                    fühlen, daß ich auf ihr niedliches Geschenk nichts geantwortet habe. Beruhige
+                    sie aber hierüber. Denn diß Geschenk hat mir würklich viel Freude gemacht, so
+                    wie Deine eigne Arbeit.  Auch wird Dir <persName key="JP-002709">meine Frau</persName>, die übrigens seit einigen Monathen an
+                    der jedes Weib in einem gewißen Alter eintretenden Crisis ihrer Gesundheit sehr gelitten hat, für Dein Geschenk an sie,
+                    selbst antworten.</p>
+            <closer>
+               <salute>Auf alle Fälle beruhige mich über Dein bisheriges Stillschweigen, und liebe noch ferner</salute>
+               <signed>Deinen  treuen Vater Mayer </signed>
+            </closer>
+            <postscript>
+               <p>Empfiehl mich <persName key="JP-999999">Deinem Mann</persName>, u küße
+                            <persName key="JP-003483">Deine Kinder</persName>.</p>
+            </postscript>
+         </div>
+         <div hand="#JP-002709">
+            <p>Liebste Caroline es wäre unverzeihlich von mir Ihren lieben Brief und Geschenk nicht eher beantwortet zu haben, wäre ich wohl gewesen, aber
+                    ich habe neuerlich wieder an eine Zahnrose und allen begleitenden Dornen
+                    gelitten so daß ich mehrmahls bettlägerich war. seit 8 Tagen geth es wieder
+                    besser.</p>
+            <p> Tausend Dank Sie Gute Gute Caroline für Ihre
+                    mühsame und hübsche Arbeit.
+                    seit vielen Jahren bin ich immer durch Ihre Güte geschmückt. meine Augen nehmen
+                    so ab, daß ich wenig andres arbeiten als Stricken kann. und mir das Lesen und
+                    Schreiben bei Lichte versagen muß.</p>
+            <p>Die <persName key="JP-012481">Geheimräthin Hainchlin</persName>trägt mir oft viel herzliche Grüße an Sie auf; dieGenz ihre Kinderwerden sehr groß und gut glaube ich. Daß <persName key="JP-012554">die Klaatsch</persName>vorigen Herbst gestorben ist werden Sie wißen.<persName key="JP-012105">
+                  <ref type="letter"
+                       subtype="passage"
+                       target="JP-UB0415/#start_rxj_kyz_qlb">Die gute
+                                Sommer</ref>
+               </persName>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0415/#start_rxj_kyz_qlb">ist noch imer ohne Nachrichten
+                        von <persName key="JP-011819">ihren Sohn</persName>; und man muß
+                        vermuthen daß er nicht mehr lebt. </ref>
+            </p>
+            <closer>
+               <salute>Leben Sie wohl, geliebte Tochter, der Himmel erhalte Sie und <persName key="JP-003482">die Ihrigen</persName> im besten Wohlsein, ich bin mit
+                        unveränderter Liebe</salute>
+               <signed>Ihre treue Freundin H. Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

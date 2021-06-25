@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0154">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Coburg, 14. Juli
+                    1803, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005649">Coburg 
+               </placeName>
+               <date when="1803-07-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012212">Liebesleben / Ehe</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012176">Jean Pauls Werke</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 14tenJul 803</dateline>
+               <salute>Geliebter theurer Vater,</salute>
+            </opener>
+            <p>Mehr noch als Ihre Verzögerungen im Schreiben an mich, ängstigen mich die
+                    meinigen, weil Ihr Glaube an <persName key="JP-002706">Ihre Kinder</persName>
+                    leichter wankt, als der unsrige an Sie, so wenig wir es verdienen. Dismal muste
+                    der Schein sehr gegen mich seyn, weil Sie schon seit  zwei Monaten Ihren Brief (er ist vom 19ten Mai) in meine Hände glauben. Ein eignes Verhängnis hat ihn mir
+                    bis vor 5 Wochen vorenthalten, er war nach <placeName key="JP-005649">Coburg</placeName> adreßirt, wo wir damals noch nicht waren, wir giengen in der Mitte Juni von <placeName key="JP-006012">Meiningen</placeName> ab, und die hiesige Post hatte ihn weil man hier
+                    keine Richter kannte, nach <placeName key="JP-005948">Leipzig</placeName> zurükgehen laßen. Ich empfing ihn daher erst auf einen Laufzettel der Post, und hatte Freude u Reue zugleich –
+                    denn ich  hatte vor seinem Empfang wirklich
+                    geglaubt – Sie haben mich vergeßen. zu
+                    lang war die Pause – und ich war oft auf dem Punkt Sie wieder zu fragen.
+                    Auf der Stelle Ihnen zu antworten, drängte mich nun mein dankbares Herz, das Sie
+                    durch Ihre unwandelbar väterliche Liebe unendlich gerührt haben – aber
+                        Ihr Geburtstag stand vor mir, den ich nicht ohne eine kleine
+                    Erweckung an mich zu denken hingehen laßen konnte. – Ich war noch mit vielen Einrichtungen für unsre neue Lage zu sehr beschäftigt als daß ich etwas  andres für Sie
+                    unternehmen konnte, als eine so schlechte Börse –– nur ein Vater wie
+                    Sie kann so etwas annehmen und verzeihen, was blos der Buchstabe eines Gedankens
+                    u einer Empfindung ist.  Und doch so sehr ich gewis bin,
+                    daß ein schöneres Zeichen Ihnen gleichgültig wäre, schäme ich mich des
+                    schlechten – aber <persName key="JP-003471">mein Kind</persName> und unser
+                    neuer Aufenthalt, machten mir es unmöglich etwas beßeres für Sie zu
+                    arbeiten.</p>
+            <p>Jezt kann ich ohne Wehmuth den heiligsten Tag feiern, weil wir nichts für Sie
+                    wünschen können als Erhaltung Ihres Glüks u Ihres Lebens
+                    – wie froh werden Sie ihn in den Armen Ihrer <persName key="JP-002709">Henriette</persName> zubringen, der
+                            es gelungen ist Ihnen das erste zu geben, und dadurch das zweite
+                            verlängern wird.  Ich
+                    sehne mich der Edlen einmal selbst meinen Dank u meine Liebe auszusprechen. Sie
+                    muß vortreflich seyn, denn nur ein vollendetes Weib konnte Sie glüklich machen,
+                    und Sie mit den Menschen aussöhnen. Daß Sie Sich
+                    eine Wohnung in der Natur aufgeschlagen haben, freut mich unendlich, ich kenne
+                    die Gegend wohl, und denke mir Sie auf einer Bank sizend, wo ich Sie oft mit
+                    meiner <persName key="JP-003471">Emma</persName> überraschen möchte! Ob dieser
+                    Traum wohl jemals erfült werden kann? – – </p>
+            <p> Ihre Frage über <placeName key="JP-005649">Coburg</placeName> kann ich
+                    nur zu Ihrer Zufriedenheit beantworten. Wir haben durch den Tausch unseres
+                    Aufenthalts nur gewonnen, und die Kosten und Mühe unseres Wegziehens sind
+                    dagegen nicht zu rechnen. Überhaupt läßt sich so etwas leichter ausführen als
+                    denken – die Schwierigkeiten sind so gros nicht, und <persName key="JP-999999">mein Mann</persName> paßt sowohl zur mechanischen Thätigkeit
+                    wie zur genialischen. Er hat mir treu u unermüdet beym Ein u Auspacken geholfen.
+                    In sofern ist ihm schon jezt eine Vereinigung mit seinen Freunden, geworden, als
+                    wir uns nur um eine Tagreise weit, entfernt sind – wir haben sogar schon acht Tage in <placeName key="JP-005574">Baireuth</placeName> zugebracht, von da wir erst vorgestern
+                            zurükgekommen sind. Das schöne Wetter, und der Gewinn an Gesundheit
+                    der daraus für unsere <persName key="JP-003471">Emma</persName> erwächst, lokte
+                    uns hinaus. Ich fahre dann ohne Mädchen, und bin in so fern nirgend eine Last,
+                    und die <persName key="JP-003471">Emma</persName> bringt nur Freude. Warum
+                    können meine liebsten Menschen diesen süßen Engel nicht an Ihr Herz drüken. Nur
+                    eine Stimme ist über sie, man möchte sie mir nehmen – ich habe mich sehr
+                    zu hüten, daß ich sie nicht selbst verderbe – aber ich gebe mir Mühe sie
+                    nach einem bestimten Plane <persName key="JP-999999">meines Mannes</persName> zu
+                    behandeln, und noch habe ich keinen dummen Streich gemacht. An Ihrem Geburtstag wird sie 10 Monat, fängt schon an zu sprechen,  u steht an
+                    einem Stuhl allein. Diese frühe Entwiklung ist mir um so lieber, weil im November meine unausgesezte Beschäftigung mit ihr  durch ein neues kleines Wesen wird unterbrochen
+                            werden, und ich sie vielleicht da nicht den Armen eines Mädchens zu überlaßen brauche. In solchen Fällen
+                    entbehrt man recht sehr einer Schwester! Denn fremde, nicht auf gleichen
+                    Standpunkten stehende Menschen, haben schon aus einer geselligen Schwäche gegen
+                    ihre Freunde, nicht die Consequenz u Strenge die sie
+                    vielleicht für sich selbst haben, auch  weil
+                    sie uns nicht so ganz kennen</p>
+            <p>
+               <hi rendition="#u" hand="#unknown">Was meinen Mann be</hi>trift so
+                    hat er hier (in <placeName key="JP-005649">Coburg</placeName>) einen Zirkel von 6
+                    auserlesenen Männern, Geschäfts-Leute, die aber Wissenschaften treiben, wie er
+                    sie  in einer kleinen Stadt gewis nirgend
+                    findet. Daran ist der Minister <persName key="JP-002256">Kretschmann</persName> Schuld – den Sie aus seinen früheren Verhältnißen in <placeName key="JP-005739">Franken</placeName>, und aus seiner jezigen Dienstgeschichte
+                    am <placeName key="JP-011161">hiesigen Hof</placeName> kennen werden. Er hat
+                    seit kurzem viele Feunde hier angestellt, weil er nur geschulte Köpfe brauchen
+                    kann. Wir sind oft bei ihm, und es ist unendlicher Genus in dieser Gesellschaft
+                    von Männern zu seyn – etwas <persName key="JP-999999">meinem Mann</persName> so
+                    lang entbehrtes, u mir nur von früherer Zeit bekantes. Vielleicht macht <persName key="JP-002256">Kr.</persName> bald eine Reise nach <placeName key="JP-005586">Berlin</placeName> um
+                    seinen <persName key="JP-012290">Sohn</persName> in der École militaire zu bringen – wenn ihn <persName key="JP-002253">seine
+                        Frau</persName> begleitet  wird sie <persName key="JP-002709">die
+                        Ihrige</persName> besuchen. Er kennt Ihre <persName key="JP-002709">Henriette</persName>, und deren Familie, Ihr
+                    Urtheil über ihn würde mich sehr intereßiren, sein menschlicher Werth den ich
+                    beßer beurtheilen kann, wie seinen politischen, scheint mir sehr gros – er ist
+                    ein so guter Vater, u Mann, und seine Grundsäze die er äußert über alle
+                    Verhältniße sind die eines vollendten Weltbürgers, sein Sinn für Kunst für alles
+                    intellektuelle ist unendlich gros u zart. <persName key="JP-002253">Die
+                        Frau</persName> ist auf der Stufe der <placeName key="JP-005586">berliner</placeName> Geheimräthinnen, so
+                    wie die <persName key="JP-012324">Beyme</persName> als sie noch jung u
+                    hübsch war – sie ist 35 Jahr, u Mutter von <persName key="JP-012943">12 Kindern</persName> die sie sehr gut erzieht. Sie hat wenig Umgang, u
+                    keine Freundinn, daher bin ich ihr, was <persName key="JP-999999">mein
+                        Mann</persName> dem <persName key="JP-002256">ihrigen</persName> ist, u das
+                    erschaft uns oft einen angenehmen Tag. Ich bringe meine <persName key="JP-003471">Emma</persName> mit, die von <persName key="JP-012707">der ältesten Tochter</persName> gehätschelt u getragen wird. Der Ton des
+                    Hauses ist noch bürgerlich u man wird durch nichts gedrükt.</p>
+            <p>Die <hi rendition="#u" hand="#unknown">Gegend um <placeName key="JP-005649">Coburg</placeName>
+               </hi> ist mir schöner und erhabner als
+                    die <placeName key="JP-006012">Meiningsche</placeName> es fehlt ihr nichts als
+                    ein größerer Fluß, den man noch mehr entbehrt, wenn man zuvor den <placeName key="JP-005989">Main</placeName> bei <placeName key="JP-005574">Baireuth</placeName> gesehen hat. Sonst hat
+                    sie auch weit mehr Abwechslung von Höhen und Tiefen als die <placeName key="JP-011086">Baireuther</placeName> die doch klaßisch schön seyn soll. </p>
+            <p> Der hiesige <placeName key="JP-011161">Hof</placeName>, macht den
+                    liebenswürdigsten Familienzirkel den man sich denken kann, wozu die
+                    Natürlichkeit der <persName key="JP-000168">Herzogin</persName> den Ton angiebt.
+                    Unter allen Privatfrauen die ich kenne, könnte ich Ihnen keine angeben die ihr
+                    an Freimütigeit u Unbefangenheit gleich käme. Man fühlt sich gleich einheimisch
+                    bei ihr. Und ihre sehr artige Auszeichnung ist mir weit lieber, als die der
+                        <persName key="JP-002546">Meininger Herz.</persName> weil sie  eine sehr verständige und gebildete Frau ist. Der <persName key="JP-001154">Herzog</persName> den man oft todt sagt, lebt noch, ob er
+                    aber hergestelt werden kann, ist zweifelhaft wenn man seinen vom Waßer
+                    aufgetriebenen Körper sieht. Er ist ein guter, aber lange nicht so bedeutender
+                    Mann, wie der <persName key="JP-001289">
+                  <placeName key="JP-006012">Meiningsche</placeName> Herzog</persName>, deßen
+                    Freundschaft für <persName key="JP-999999">meinen Mann</persName>, ihm seine
+                    Trennung sehr schmerzhaft machte.</p>
+            <p>Sie fragen mich, nach <persName key="JP-999999">m Mannes</persName> neustes Werk.
+                    Er schreibt an einer komischen Biographie, die in der
+                            Ostermeße künftigen Jahres bei <persName key="JP-000704">Cotta</persName>, unter dem Titel: <bibl sameAs="JP-010695">Flegeljahre</bibl> erscheinen wird. Ich
+                    dringe öfters in ihn, um ein ernsthaftes Product; doch
+                    ohne Rüksicht auf mich, die Sie dadurch für <persName key="JP-999999">mein
+                        Mann</persName> gewinnen möchte, weil Sie 
+                    seine  Dichtungen  nicht lesen,
+                    arbeitet er zugleich längst an <bibl sameAs="JP-010970" subtype="werke-jp">einer
+                            ästhetischenCritik</bibl>; da dis aber eine Nebenarbeit ist,
+                    weiß ich nicht, wann sie herauskommen wird.  <persName key="JP-999999">Mein Mann</persName> hat überdis den Vortheil hier die gröste
+                    Lesebibliothek zu finden, die es vieleicht giebt, da er hingegen in <placeName key="JP-006012">M.</placeName> sich alles Neue selbst verschreiben
+                    muste.</p>
+            <p>Ist Ihnen <persName key="JP-002717">die neue Frau</persName> des <persName key="JP-003751">Grafen Schlabberndorf</persName> nicht begegnet, man sag
+                    sehr viel Gutes von ihr, und daß sie unglüklich sei. <persName key="JP-003964">Ihre Vorgängerin</persName> nimt sich in ihrer jezigen Lage so gut, u sie
+                    hat so vielem entsagen müßen, daß sie uns ganz mit sich ausgesöhnt hat. Ihre
+                        <persName key="JP-003749">Amanda</persName> wird ein ganz ausgezeichnetes
+                    Wesen, u das ist doch der Mutter Werk.</p>
+            <p>Nun habe ich Ihnen viel erzählt, mein geliebter Vater, möchte ich bald etwas von
+                    Ihnen hören – aber ich darf es nicht fordern. Oft wünsche ich Ihnen
+                    bürgerliche Ruhe, u ich denke das Ziel Ihres Strebens wird Unabhängigkeit seyn.
+                         Gott erhalte Sie nur gesund – erhalten Sie mir
+                    Ihre Liebe, ohne die ich nicht glüklich seyn kann.  Grüßen
+                    Sie achtungsvoll Ihre <persName key="JP-002709">Henriette</persName>, u segnen
+                    Sie </p>
+            <closer>
+               <signed>Ihre treuste Tochter Caroline</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>
+               <persName key="JP-999999">Mein Mann</persName> feiert im Herzen Ihren Geburtstag
+                    mit mir u grüßt Sie herzlich.</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

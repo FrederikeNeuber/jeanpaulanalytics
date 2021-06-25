@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0676">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer von Caroline Richter. Berlin, 13. Mai
+                    1817, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1817-05-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 13. May
+                        17.</dateline>
+               <salute>Liebe Caroline!</salute>
+            </opener>
+            <p>Endlich bin ich im Stande, Dir u <persName key="JP-003483">Deinen
+                        Kindern</persName> ein freylich noch immer gegen meine Absicht geringes,
+                    aber doch vielleicht angenehmes Geschenk zu machen.</p>
+            <p>ich schicke Dir nehmlich achtzehn Stück Ducaten, wovon
+                    ich jeden <persName key="JP-003483">Deiner Kinder</persName> drey Stück, u Dir
+                    Selbst Neun Stük zuzutheilen, u nach Gelegenheit zu Euerm Nutzen anzuwenden
+                    bitte</p>
+            <p>
+               <ref target="JP-UB0454/#nuwh_3ff_5jb">Ubrigens werde ich vor meiner Abreise
+                        nach <placeName key="JP-012460">Landek</placeName>, die ich im Junius antreten werde,
+                        noch einmal an Dich schreiben.</ref>
+            </p>
+            <p>
+               <persName key="JP-004393">Minna</persName> u <persName key="JP-000009">Minona</persName> sind jetzt auf ihrer Durchreise nach <placeName key="JP-005687">Dresden</placeName> hier, und grüßen hertzlich. Eben so meine <persName key="JP-002709">Frau</persName>. </p>
+            <p>Entschuldige die Kürtze und Unbedeutenheit dieses Briefes, der auf nichts als auf
+                    liebevolle Aufnahme Anspruch macht.</p>
+            <p>An <persName key="JP-999999">Deines Mannes</persName> hiesige Angelegenheit habe
+                    ich <persName key="JP-003878">Herrn
+                        g
+                        von Schukmann</persName> noch mündlich durch <persName key="JP-004126">Herrn
+                        g
+                        Staegemann</persName> erinnern laßen; weiß aber noch von keinem resultat, da ich mich überhaupt jetzt nicht viel mittheilen kann;</p>
+            <closer>
+               <salute>Grüße <persName key="JP-999999">Deinen Mann</persName>, u <persName key="JP-003483">Kinder</persName> u liebe</salute>
+               <signed>Deinen treuen Vater Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

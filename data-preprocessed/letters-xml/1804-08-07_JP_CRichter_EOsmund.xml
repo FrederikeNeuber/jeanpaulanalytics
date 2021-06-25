@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0105">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Coburg, 7. August 1804, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005649">Coburg 
+               </placeName>
+               <date when="1804-08-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>Cob. d. 7. Aug. 1804.</dateline>
+            </opener>
+            <p>Dieß ist denn der letzte Brief an
+                        Sie von hier oder irgend einer Stadt aus; wiewol doch kaum, da ich ja
+                    auf kleinen Reisen schreiben kann, z. B. aus Rom. – Am Sonntage abends kommen
+                    wir in Bayreuth an; ob Mittags in Schwarzach, bestimmt der Fuhrmann, so wie ich noch unentschieden bin,
+                    ob die Packwagen auch am Sonntage oder früher abgehen; doch ist jenes
+                    wahrscheinlicher Was ich ungern hier verlasse, ist mein schöner Dintentopf. Das
+                    erste, was ich in Bayreuth mache, ist gute Dinte;
+                    nachher Karten u. Besuche u. Geld. – Vergeblich hofft'
+                    ich heute auf  einen Brief. – Mögen wir uns fröhlich wiederfinden u.
+                    niemals fröhlich trennen!</p>
+         </div>
+         <div hand="#JP-003469">
+            <p>Lieber, lieber Emanuel! ich soll noch etwas sagen, und es ist gar keine Zeit. Nun sehen wir uns bald – Gott gebe daß Sie ganz
+                    gesund sind damit die reinste vollkommenste Freude durch nichts gestört werde. Meine armen
+                        <persName key="JP-003483">Kinder</persName> bringen etwas Bläße mit, weil
+                    sie nebst der Mutter nicht ganz wohl waren, aber bis Sontag denke ich soll sich
+                    alles geben. </p>
+            <p> Grüßen SieOttos herzlich - ich bringe eine Frau mit die unterwegs <persName key="JP-003483">die
+                        Kinder</persName> pflegt, und am ersten Abend dem neuen Mädchen einige Anleitung geben
+                    kann.</p>
+            <closer>
+               <salute>
+                  <note>Leben Sie wohl Herrlicher, wir hoffen noch auf einen Brief, vor der Abreise, von Ihnen.</note>
+               </salute>
+               <signed>Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

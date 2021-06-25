@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0832">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig, 5. Juli 1803, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-07-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipz. 5 July
+                        3.</dateline>
+            </opener>
+            <p>Mit einigen Schmerzgefühlen gebe ich Ihnen die dritte
+                            Partie gedruckt zurück; denn ich habe nichts mehr von Ihnen
+                    vorräthig. Die hiesigen Komödianten haben sich bis
+                            jetzt noch peinlich ordentlich betragen; sie räsonniren so unter der Hand; es müßte denn ihre
+                    Freimüthigkeit noch losbrechen.</p>
+            <p>
+               <anchor type="target" xml:id="start_pl4_f3z_24b"/>Was meinen Sie, wenn ich die drey Blätter<persName key="JP-001353">Göthen</persName> zuschickte? Erlauben Sie daß ich dabey Ihren Namen ihm nenne?<anchor type="target" xml:id="stop_pl4_f3z_24b"/> Sagen Sie mir das doch. Können Sie
+                    mir nicht auch sagen, was im Laufe dieses Monats in
+                                <placeName key="JP-012507">Lauchstädt</placeName> von besonderer
+                            Bedeutung gegeben werden wird? Ich möchte gern mein Herüberkunft
+                    danach einrichten.  Sehr gern träfe ich es so, daß ich ein Schauspiel
+                    sähe u zugleich die <persName key="JP-001743">Jagemann</persName> singen
+                    hörte.</p>
+            <p>Gern wüßte ich auch, wann <persName key="JP-001353">Göthe</persName> in
+                        <placeName key="JP-012507">Lauchst</placeName>. eintreffen wird.</p>
+            <closer>
+               <salute>Leben Sie vergnügt! Laßen Sie doch etwas von Sich hören!</salute>
+               <signed>Ihr ergebenster Spazier</signed>
+            </closer>
+            <postscript>
+               <p>Haben Sie nichts Lustiges?</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

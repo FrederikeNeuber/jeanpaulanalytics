@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0187">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 2. November
+                    1809, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1809-11-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 2. 9.ber
+                        1809.</dateline>
+               <salute>Liebe Caroline!</salute>
+            </opener>
+            <p>Verzeyhe, daß ich Deinen letzten Brief erst jetzt beantworte. <anchor type="target" xml:id="start_jzq_m32_knb"/>Es sollte mir leyd thun, wenn Dich noch niemand über die Bedenken, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0270/#start_iwg_g2j_q3b">das dort erhobene, von mir hier wieder zu bezahlen gewesene Geld</ref>, zu
+                    Deinem Gebrauch zu verwenden, durch eine reflexion über
+                    den gewöhnlichen Gang solcher Geschäfte weggesetzt hätte. Wer Zahlungen dieser
+                    Art vorschießt, und sich auf einen dritten (hier auf mich) assigniren läßt, säumt nicht, bey unterbliebener Bezahlung der Assignation, auf denjenigen zurük zu gehen, dem er Vorschuß geleiset hat; und gesetzt also, ich wäre fähig gewesen, eine Assignation auf eine Dir schuldige Summe nicht zu acceptiren, so hätte man Dir das dort empfangene Geld
+                    längst wieder abgefordert. ich habe aber, welches Du mir wohl hättest zutrauen
+                    sollen,  die Assignation in dem Augenblick
+                    bezahlt, als sie mir vorgezeigt wurde. Du kannst also sicher über das dort
+                    erhobene Geld disponiren.<anchor type="target" xml:id="stop_jzq_m32_knb"/>
+            </p>
+            <p>
+               <anchor type="target" xml:id="start_cvt_r32_knb"/>Was Dein ferneres Bedenken über
+                        die Sicherheit der Wittwen Casse betrift, so weiß ich nicht
+                    was <persName key="JP-003112">HerrOtto</persName> für nähere Nachrichten über deren bevorstehenden Banquerott hat. Sie hat bisher zwar nur termin weise bezahlt, aber doch gezahlt, und hier hat sie noch überall
+                        Credit. ich meines Theils wäre daher der Meynung,
+                    Du sacrificirtest die nun seit so geraumer Zeit
+                    gezahlte Zinsen nicht; und continuirtest noch ferner
+                    Deine Beyträge.<anchor type="target" xml:id="stop_cvt_r32_knb"/>
+            </p>
+            <p>Doch hast Du darin freyen Willen.</p>
+            <closer>
+               <salute>Meine Zeit ist heute zu kurtz, um Dir mehr zu sagen, als daß ich Dich in
+                        Gedanken an mein Hertz drüke. Grüße <persName key="JP-003475">Deinen
+                            Mann</persName>, u küße <persName key="JP-003483">Deine
+                            Kinder</persName>. <persName key="JP-002709">Deine Mutter</persName>
+                        grüßt auch hertzlich.</salute>
+               <signed>Dein  treuer Vater  Mayer</signed>
+            </closer>
+            <postscript>
+               <p>Dein Brief an <persName key="JP-002007">Fr. v. Kalb</persName> ist abgegeben. <persName key="JP-002709">Meine Frau</persName>
+                        sagt, es fehlte ihr jetzt nicht an Bestellungen.  <persName key="JP-012894">
+                     <anchor type="target" xml:id="start_v4d_2j2_knb"/>Frau
+                            GR Räthin von Altenstein</persName> läßt Dich
+                        freundlich grüßen. Sie hat mit Auszeichnung von Dir gesprochen<anchor type="target" xml:id="stop_v4d_2j2_knb"/>, als ich sie neulich mit
+                            <persName key="JP-000068">ihrem Mann</persName> bey <persName key="JP-013023">Raumers</persName> fand. Auch ist hier ein <persName key="JP-011808">Capitain von
+                            Altenstein</persName> der ein enthusiastischer Verehrer von <persName key="JP-999999">Deinem Mann</persName> und Dir ist, und <persName key="JP-003483">Deiner Kinder</persName> mit Entzücken erwehnt. ich bin
+                        ihm, gut geworden, zumal er eine sehr ehrliche Haut ist.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

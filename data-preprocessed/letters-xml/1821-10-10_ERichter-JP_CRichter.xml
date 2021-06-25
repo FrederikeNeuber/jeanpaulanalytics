@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0158">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter und Jean Paul an Caroline Richter. Bayreuth, 10. Oktober
+                    1821, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-005574">Bayreuth
+                        (Stadt)</placeName>
+               <date when="1821-10-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012721">Dessauer Familienstipendium</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>Den 10<hi rendition="#uu" hand="#author">ten</hi> Oktober 1821</dateline>
+            </opener>
+            <p>Heute, meine geliebte Mutter, wirst Du im <placeName key="JP-005819">Heidelberg</placeName> ankommen,
+                    und es dauert noch lange bis Du diesen Brief bekommst und dann weißt wie es zu
+                    Hause aussieht. Habe nur keine Sorge, es geht alles gut, aber ich denke immer an
+                    Dich, und berechne
+                    Deine
+                    Wiederkunft. Nicht wahr es ist recht gut daß Du  meinen Mantel mit hast? Trotz des schönen
+                    Wetters ist es doch kalt. Wenn Ihr nur recht wol seid und <persName key="JP-003491">Odilie</persName> das Fahren gut bekömmt; der <persName key="JP-999999">Vater</persName> fürchtet daß 
+                    es ihr Kopfweh macht.</p>
+            <p>Seit Du weg bist, liebste Mutter, habe ich <persName key="JP-003108">Amöne</persName> nicht gesehen. Am Sonntagmorgen ging ich zu <persName key="JP-003087">Emanuel</persName> und auch zu <persName key="JP-003112">Ottos</persName>, fand aber alles
+                    verschlossen bei diesen, sonst war ich bei niemand des Vormittags. Den schönen
+                    Sonntag wollte der <persName key="JP-999999">Vater</persName> auf der <placeName key="JP-011045">Eremitage</placeName> zubringen und vorher bei der <persName key="JP-003561">Rollwenzel</persName> essen, und ich sollte suchen mit Jemand nach zu
+                    kommen. Aber da wollte sich niemand dazu finden, und die <persName key="JP-001601">Heim</persName> foderte mich nur so zu einem kleinen
+                    Spaziergange auf mit der <persName key="JP-003255">Plotho</persName>,  nach welchem wir bei dieser Thee tranken. Den Abend war ich ganz allein, der
+                        <persName key="JP-999999">Vater</persName> ging ins Theater, kam aber bald
+                    zurück, da das Stück erbärmlich war. Am Montag Mittag wurde die Gans gebraten,
+                    die sehr gut war. Des Nachmittags besuchte <persName key="JP-001032">Falk</persName> den <persName key="JP-999999">Vater</persName>, und ich
+                    hatte schon großen Jammer, daß ich ihn nicht sehen sollte, weil  die <persName key="JP-003255">Plotho</persName> mich
+                    mit auf die <placeName key="JP-011045">Eremitage</placeName> genommen hatte,
+                    nebst der <persName key="JP-004139">Stein</persName>. Aber gestern war ich doch
+                    so glücklich ihn zu sehen. Die gute <persName key="JP-004653">Welden</persName>
+                    schrieb ein Billet an den <persName key="JP-999999">Vater</persName>, und bat
+                    diesen und mich zu einem Familienessen, wo blos <persName key="JP-001032">Falk</persName> war. Du kennst ihn schon, liebste Mutter, und da brauche
+                    ich  ihn Dir wol nicht zu schildern, den herrlichen
+                    Mann. Er  war sehr lebhaft bei Tische, aber mir kam
+                    immer das Weinen an wenn ich daran dachte daß er vor 6 Wochen erst wieder eine 18-jährige Tochter verloren, und wie er selber einen Tag vorher beim
+                        <persName key="JP-999999">Vater</persName> geweint, über sein und unser Unglück. Er war wie ein Vater gegen mich, und beim Abschied küßte er mich auf die
+                    Stirne. Heute morgen aber sah  ich ihn noch einmal. Die gute <persName key="JP-004139">Stein</persName> die mich mit in das gestrige Konzert
+                    genommen, bat ihn so noch länger zu bleiben, daß er einige Stunden zugab, und
+                    bei ihr frühstückte wozu die gute Seele mich auch einlud! Wie schön er da über
+                    das Christenthum gesprochen, sage ich Dir mündlich; es bleibt so noch wenig
+                    Platz. Heute geht er nach <placeName key="JP-005918">Konradsreuth</placeName>,
+                    und da werde ich immer an die <persName key="JP-011923">Reitzenstein</persName>
+                    denken, und an ihre Freude. Seine <persName key="JP-012933">Frau</persName> ist mit einem sechsjährigen Knaben
+                            im <placeName key="JP-011740">Heineschen Hause</placeName>, besuche sie doch ja, er wünscht es so sehr.</p>
+            <p>
+               <anchor type="target" xml:id="start_wrw_lts_fnb"/>Von der <persName key="JP-004393">Tante</persName> und <persName key="JP-004107">Richard</persName> sind Briefe gekommen von dem letzten einer voll Dank wegen des Stipendiums;<anchor type="target" xml:id="stop_wrw_lts_fnb"/>
+                    ich habe sie aber nicht gelesen, blos der <persName key="JP-999999">Vater</persName> der etwas Trauriges befürchtete; aber Gottlob! dort geht
+                    es gut.</p>
+            <p>Heute werde ich immer an Dich denken, geliebteste Mutter; greife Dich ja nicht so
+                    sehr an, damit Du gesund bleibst. Wenn Du nur alles das Schmerzvolle aushälst
+                    was Dich in <placeName key="JP-005819">Heidelberg</placeName> erwartet. Von <persName key="JP-003771">Schlichtegroll</persName>
+                            kam auch ein Brief voll Schmerz und Schreck. Lebe recht wol meine
+                    geliebte Mutter, küsse und grüße meine <persName key="JP-003491">Diezo</persName>. Gott erhalte Euch gesund! </p>
+            <closer>
+               <signed>Euere <hi rendition="#u" hand="#author">Emma</hi>
+               </signed>
+            </closer>
+         </div>
+         <div hand="#JP-999999">
+            <p> Eiligst!</p>
+            <p>Meine geliebte Caroline! Jetzo um 3¾ Uhr eil' ich u.
+                    viellcht u. gehst du eben in <placeName key="JP-005819">Heidelb</placeName>. ein. – Alles hier ist in Ruhe; Emm. ist als
+                    Köchin u Wirtschafterin recht trefflich. Aber Gesellschaft belohnt sie
+                    auch. Wenn nur meine geliebte <persName key="JP-003491">Odilie</persName>, die dich von einem Schmerz z andern begleiten muß, auch einen
+                    frohen Zwischenraum hätte. Immer stellt der lange Weg- u Zeitraum mir euch bald
+                    da, bald dort auf Strassen u. in einsamen Zimmern auf. Gott segne euch u bringe
+                    meiner wunden Seele euch unversehrt  zurück. Schmerzen u Freuden bringst du zugleich an
+                    mein Herz, aber doch der Freuden mehre. Gott sei mit dir u. meiner guten guten
+                        <persName key="JP-003491">Odilie</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

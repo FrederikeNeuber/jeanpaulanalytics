@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0746">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Heidelberg, 30. Oktober 1821,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-10-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg d. 30. Oct. 1821.</dateline>
+            </opener>
+            <p>Recht herzlich danke ich Ihnen, liebe Freundin, für Ihren lieben Brief, der mir die Nachricht Ihrer glücklichen Zurückkunft und so vieles mittheilt, was mein Intereße lebhaft anspricht und meinen Wünschen
+                    entspricht; Gott Lob! es können noch viele Wünsche für Sie Alle erfüllt werden,
+                    wenn gleich einer in Gottes Willen unerfüllt blieb, nehmlich so, wie wir Sterbliche ihn
+                    erfüllt sehen wollten; zum Seelen-Seegen in innigem Besitz; ist der liebe <persName key="JP-003490">Max</persName> nicht verloren und um keinen Preiß würden
+                            Sie Alle und alle Ihre Freunde für Sie,  sein Daseyn unter Ihnen,  unterblieben gewesen wünschen, da es in
+                            der irdischen Erscheinung, nur auf so kurze Zeit, Ihnen geschenkt
+                            war.
+                    Bey mir, wie bey allen Ihren wahren Freunden, wird <persName key="JP-003490">Er</persName> fortleben und genannt oder ungenannt, denken Sie Sich dieses
+                    liebe Wesen, in treuen Andenken behalten, in dem Grundton jedes gegenwärtigen
+                    oder entfernten Zusammenseyns von
+                        mir mit Ihnen.</p>
+            <p>Hier finden Sie eingeschloßen, einen Brief des guten
+                                <persName key="JP-004520">H.
+                                Voss</persName>; auch von mir, sagen Sie <persName key="JP-999999">Ihrem lieben Mann</persName>, das herzlichste, Freund- schaftlichste, und wie
+                    viel ich im Geiste bey ihm bin und wie gern ich dem seinigen und seinem Herzen,
+                    jetzt alles das wieder geben zu können wünschte, was <persName key="JP-003490">er</persName>
+                    so vielfach aus der reichen Quelle seines Geistes und seines Herzens, andern und
+                    auch mir schenkte. Sagen Sie <persName key="JP-003471">Emma</persName>, daß Sie mich nicht so liebt wie ich es wünschte,
+                    da ihre Feder noch erst an sich und an mich dächte und der Ungewohnheit wegen
+                    schwieg, wenn gleich der Weg von Herz zu Herz unter uns gebahnt ist. Immer noch
+                    thut es mir leid, die liebe <persName key="JP-003491">Ottilie</persName> nicht hier gesehen zu haben. Dem lieben guten
+                        <persName key="JP-003944">Schwarz</persName>, hat
+                    es sehr wehe gethan, so wie <persName key="JP-003945">seinem ganzen
+                        Hause</persName>, das in wahrer gemüthlicher Liebe, Ihrem lieben <persName key="JP-003490">Max</persName> mit dem Herzen
+                    umfaßte und in welchem er auch kindlich frohe Stunden verlebte, obgleich seltner, als man ihn mit offenen
+                    Armen erwartete und empfieng, daß man Sie da, wo sie waren, verhinderte, am
+                    Wiedersehen; denn Ihre Heiserkeit wäre doch nicht gefährdet gewesen, wenn man
+                        <persName key="JP-003944">Schwarzen</persName>
+                    vergönnt hätte, dorthin zu Ihnen zu kommen, oder noch des morgens vor Ihrer
+                    Abreise; seinem Herzen lag noch so viel daran, Sie zu sehen und nicht sowohl
+                    mit, als zu Ihnen zu sprechen, weil er nicht Trost, denn diesen hatten Sie in
+                    Sich, aber einige Stärkungsworte, gewiß war, Ihnen sagen zu können, sowohl 
+                    durch den Umgang <persName key="JP-012859">seiner Söhne</persName> mit dem
+                    lieben <persName key="JP-003490">Max</persName>, als
+                    auch durch den letzten Besuch, den er selbst, bey ihm machte, als er erfuhr, daß
+                    er krank sey und wo er sehr ausführlich mit ihm sprach. Mit unendlicher Liebe
+                    spricht <persName key="JP-003944">Schwarz</persName>
+                    von dem lieben <persName key="JP-003490">Max</persName>, er sagt, daß so wie viele Jünglinge ihren Tod
+                    beschleunigen, durch praecipitiren des körperlichen
+                    Lebens, so hätte er den seinigen herbeygeführt, durch praecipitiren des geistigen inneren Lebens. Aber wie sehr,
+                    geliebten Freunde, müßen Sie nicht bey allem trauern, einen heitern hellen Blick
+                    auf einen Sohn werfen, der so war, wie, er! Die <persName key="JP-000749">H. R. Dapping</persName> war zu zart um unsre Zusammenkunft zu
+                        stören, erblickte Sie aber mit inniger Liebe bey Ihrem Eintritt. Ich
+                    gedenke so Gott will, noch 10. bis 12. Tage in dem lieben <placeName key="JP-005819">Heidelberg</placeName> zu bleiben und
+                    dann über <placeName key="JP-005743">Frankfurth</placeName>
+               <persName key="JP-012280">meiner Schwester</persName> bey <placeName key="JP-005791">Gotha</placeName> einen Besuch zu
+                    machen und <anchor type="target" xml:id="start_whd_4wm_5nb"/>auf dem Weg nach
+                    Hause, mit meinem guten <persName key="JP-003112">Otto</persName> zusammen zu treffen, von dem ich Gott Lob recht
+                    gute Nachrichten von seiner intereßanten Reise in <placeName key="JP-006259">Schottland</placeName> vom 14. d. M. erhalten habe; zu Ende dieses
+                    Monats, gedachte er mit Gottes Hülfe wieder nach  <placeName key="JP-005972">London</placeName> zurück zu seyn und
+                    dann die Heimreise anzutreten<anchor type="target" xml:id="stop_whd_4wm_5nb"/>.
+                    Ich verlebe hier unaussprechlich, Gott Lob glückliche Tage und spürte die innige
+                    Zuneigung meiner hiesigen vielen befreundeten Seelen noch in neuer Beziehung,
+                    bey Gelegenheit eines unerhörten Verdrußes, durch dem
+                            unverschämten <persName key="JP-000587">Carowé</persName>; Tags darauf nachdem er gegen
+                    meine Erlaubnis in meine Stube, Sie begleitent, treten wollte, obgleich ich
+                    seinen Besuch früher schon verweigert hatte, sehr dazu berechtigt, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0323/#start_icz_cxn_5nb">durch
+                        sein Betragen gegen <persName key="JP-000949">meinen Sohn</persName>
+               </ref>
+                    der so wenig, als auch <persName key="JP-999999">Ihr lieber Mann</persName>,
+                        als wir in <placeName key="JP-005574">Baireuth</placeName> davon
+                            sprachen, es für möglich hielt, daß er mir hier
+                    unter die Augen treten würde, erhielt ich von ihn einen Brief, durch den er nicht nur bey mir sondern auch
+                    bey allen Männern von Gewicht an Geist und Herz, seinen Character auf der
+                    unvortheilhaftesten Seite darstellt, unter andern führt er die verkehrtesten
+                    Beweggründe an, warum er den Dolch nicht
+                            zurückgab, selbst wiederholend, daß ihm
+                        <persName key="JP-000949">mein Sohn</persName> endlich gesagt, "er möchte
+                    den Dolch wiedergeben wenn er seine Freundschaft nicht verlieren wolle".
+                    Verwundert habe ich mich, daß Sie dasjenige was Gewißenhaftigkeit mir gebot, nehmlich nach den ungemeßenen Empfelungsbrief an <persName key="JP-000587">Carowé</persName>, Ihnen sogleich
+                            auch bekannt zu machen, daß sein gutes Betragen sich verwandelt hatte,
+                    anstatt für sich allein wie es treue
+                        Freundschaft bestimmte zu behalten, <persName key="JP-000587">Carowéen</persName> so zu Ohren kam daß es wie ein Scherz wurde; er
+                    schreibt mir in seinem Brief
+                    erst später habe er erfahren welche Wendung die Sache genommen und gebraucht
+                    dabey die Worte "ich reißte ab und der Steckbrief (wie ihn Frau Legationsräthin Richter
+                    scherzend nannte) welcher mir nach <placeName key="JP-005574">Baireuth</placeName> und von dort nach <placeName key="JP-006040">München</placeName>
+                    nachgeschickt wurde" Warlich hätte ich nicht geahnet daß Sie <hi rendition="#u" hand="#author">so</hi>, eine Sache
+                    behandeln würden welche Freundschaft Ihnen heilig seyn laßen sollte. <persName key="JP-000587">Carowé</persName>s Brief an mich unter der Bemühung ihn zu
+                    beantworten anzusehen und zu laßen, fanden die Mitleser deßelben angemeßen, ich
+                    meinte aber, es bedürfe doch einer Berichtigung sowohl seiner Angaben, als auch
+                    seines Beschwerens daß ich ihn nicht sehen wolle und schrieb ihn einen Brief,
+                    der, als ihn gleich er mir ihn mit einen impertinenten
+                        Billet wieder zurückschickte, von allen die ihn laßen den
+                    ungetheiltesten Beyfall erhielt; in diesem Billet sagt
+                        <persName key="JP-000587">Carowé</persName>, daß er das erste Mal nur allein deshalb zu mir gekommen sey um ein Mißverständnis zu
+                    lüften (niemand erblickt bey dieser sehr klaren Sache ein Misverständnis), und
+                    das zweyte Mal, nur um Sie, "Ihrem  Wunsche gemäß, zu begleiten" – dies ist der
+                    wörtliche Ausdruck seines Billets. Ich kann Ihnen nicht genug sagen, wie dieser ganze Vorfall als häßlicher Meteor in der wohlwollenden Atmosphere in welcher mein Gemüth
+                    hier so vielfach und reichlich beseligt wird und in welcher ich überall Mitfeyer
+                    des Andenkens an meinen geliebten so weit entfernten
+                                <persName key="JP-000949">Sohn</persName> finde, in meine
+                    glückliche Stimmung wie ein Riß in einen klaren Spiegel eindrang, aber Dank sey
+                    es der Liebe die mich hier von so vielen Gemüths seiten umgiebt, es war bald
+                    wieder in mir verarbeitet und das auch von den verschiedenartigsten Seiten her bekräftigte eigene
+                    Bewußtseyn, daß ich durchaus recht, mich in dieser Sache benommen habe entfernte
+                    den <persName key="JP-000587">HerrnCarowé</persName> bald wieder in meinen Gedanken,
+                    so weit als es sein Betragen verdient. Daß ich Ihnen dies
+                    alles sagte, ist sehr natürlich; wißen mußten Sie es doch, dies war ich mir
+                    selbst schuldig; also dieser letzte Theil meines Briefes ist für Ihr Wißen; der
+                    erste aber war und sey Ihrem Gefühl bestimmt, diesem sage ich noch als
+                    Schlußwort, daß ich bey alle dem glaube daß Sie mich lieben und nie im Stande
+                    sind, mir wißentlich einen Verdruß zu veranlaßen. Alle von
+                    Ihnen mir aufgetragenen Grüße, habe ich Ihnen vielmals zu erwiedern. Wenn ich
+                    wieder die Freude haben werde Nachrichten von Ihrem allerseitigem Befinden, das
+                    ich recht gut wünsche, zu erhalten, bitte ich Sie, den Brief nach <placeName key="JP-012676">Ichtershausen</placeName>
+                    bey <placeName key="JP-005791">Gotha</placeName>,
+                    abzugeben, bey <persName key="JP-012280">der Fr. Gräfin von Werthern</persName> zu adressiren. Von
+                    dem letzten 4.ten des M. Nov. an werden mich aber wahrscheinlich Ihre Briefe wie
+                    gewöhnlich in <placeName key="JP-005687">Dresden</placeName> antreffen. Allen denen die in <placeName key="JP-005574">Baireuth</placeName> freundlich meiner
+                    Gedenken bitte ich viel freundschaftliches von mir zu sagen und Sich Selbst
+                    nochmals</p>
+            <closer>
+               <signed>Henriette Ende</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

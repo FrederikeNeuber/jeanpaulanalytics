@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0816">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 12. Juni
+                    1813, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1813-06-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012430">Religion</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 12. Junius
+                        13.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>ich erhalte so eben Deinen lieben Brief vom 19. May, und sehe daraus, daß ein, vor ohngefähr sechß Wochen, von mir an Dich
+                    geschriebener Brief, verloren gegangen seyn muß. ich hatte ihn an <persName key="JP-002007">Frau von Kalb</persName> gegeben, um ihn durch Einlage an eine Freundin in <placeName key="JP-005622">Bresslau</placeName>, an Dich gelangen zu laßen. – Da <persName key="JP-002007">Frau von Kalb</persName>mit ihrer <persName key="JP-002004">Tochter</persName> abwesend ist,
+                    so kann ich nicht erfahren, an wen sie meinen Brief eingelegt hat; u bedauere
+                    den etwaigen gäntzlichen Verlust des Briefes um des Kummers willen, den Dir
+                    Mangel von Nachricht von mir verursacht hat, u um der Hertzens Ergießungen
+                    willen, die sich auf Familien Verhältniße beziehen.</p>
+            <p>Was nun Deine jetzige Nachricht von der Ruhe betrift, davon Du bisher im gantzen
+                    genoßen hast, so kann mir diß nicht anders als erfreulich seyn; und wünschte ich
+                    ein gleiches von mir sagen zu können. – ich will Dich indeßen mit unangenehmen
+                    Mittheilungen nicht verstimmen; sondern sage Dir  nur, daß ich gesund,
+                    und in Rücksicht des Einflußes der öffentlichen Calamitaetenauf Privat
+                        Wohlstand nicht schlimmer daran bin, als andere. Freylich ist dieser
+                    Einfluß, u der Druck meiner Privat Verhältniße, von der Art, daß er die größte
+                    Anstrengung der Seele erfordert, um nicht durch die Furcht vor der Zukunft, an
+                    der für die Bestehung der Gegenwart erforderlichen Faßung des Gemüths, zu
+                    verlieren; allein je schrecklicher die Folgen hievon seyn würden, je mehr strebe
+                    ich gegen jedes zu lebhafte Vorgefühl der Zukunft an. Ein Gebet um neue Stärke
+                    steigt ja zum Herrn, u der Herr erhört es gern, u an den Verlaß auf diese
+                    Erhörung, und auf die Unabwendbarkeit desjenigen, was das unerbittliche
+                    Schicksal einmal in den Plan meines Lebens verwebt hat, so wie an den festen
+                    Willen, mich selbst so weit möglich dabey vorwurfs frey zu erhalten, stemme ich
+                    mich an, so oft das Gefühl meiner Leiden für meine Besonnenheit zu stark zu
+                    werden, drohet.</p>
+            <p>– Über <persName key="JP-004393">Minna</persName>
+                    werde ich Dir besonders Nachricht geben. <persName key="JP-004103">Emma</persName> ist noch auf der <ref target="JP-UB0114/#nwxv_wdl_y3b">Louisen
+                        Stiftung</ref> und wird immer besonnener. Die
+                            Briefe an sie habe ich ihr zugestellet.</p>
+            <p>
+               <persName key="JP-004106">Julius</persName> ist noch
+                    bey mir, u ein Land Stürmer mit der  Picke. ich hoffe, daß er
+                    wenigstens seine Schul Studien zu vollenden, Zeit
+                    behalten soll. Er ist für die seinigen zu wichtig, um nicht für eine solide bürgerliche existentz
+                    ausgebildet zu werden. Er ist u bleibt brav.</p>
+            <p>
+               <persName key="JP-002709">Meine Frau</persName> ist gesund, und grüßt Dich.</p>
+            <p>
+               <persName key="JP-002779">Meine Schwester</persName> ebenfalß.</p>
+            <p>Den Brief an <persName key="JP-002004">Fräulein v. Kalb</persName> habe ich einem nach <placeName key="JP-005742">Frankfurthan d/O</placeName> heute
+                    abgehenden Officier mitgegeben, weil erstere dort ist.
+                    Sollte sie schon weg seyn, wird er mir den Brief zurükschicken. <persName key="JP-002005">Der junge Kalb</persName> ist wie <persName key="JP-002006">sein Bruder</persName> bey der
+                            Armee.</p>
+            <p>Von <persName key="JP-999999">Deines Mannes</persName> u <persName key="JP-999999">Deiner Kinder</persName> Befinden sagst Du nichts. ich nehme
+                    sie also für sich wohlbefindend an; und bitte sie zu grüßen;</p>
+            <closer>
+               <salute>Lebe wohl, küße <persName key="JP-003483">Deine Kinder</persName>, u
+                        liebe </salute>
+               <signed>Deinen treuen Vater Mayer.</signed>
+               <dateline>d. 12. Junius 13</dateline>
+            </closer>
+            <postscript>
+               <p>Den Tod des <persName key="JP-001299">Praesidenten v Gerlach</persName> wirst Du erfahren haben. Stürme des Schicksals auf sein Gemüth, haben
+                        seinen eisenfesten Körper zerstört. Sein Ehr Gefühl litt durch Amts
+                        Veränderungen, u seinen Privat Wohlstand hat er durch einen unglücklichen
+                        Guths Kauf zum Theil eingebüßt.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

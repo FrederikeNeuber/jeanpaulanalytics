@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0226">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Johannes Daniel Falk. Leipzig, 25. November 1809,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1809-11-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig 25 Novbr 809</dateline>
+            </opener>
+            <p>Ihr Brief auf den ich sehr begierig wartete ist vorgestern angekommen, und hat
+                    mich von verschiedenen Punkten aus lebhaft angeregt. Der Haupteindruck ist
+                        <persName key="JP-011842">Eduards</persName> Gefahr und wunderbare
+                    Rettung gewesen, wofür ich Gott, mit Ihnen, aus gerührtem Herzen ein Dankopfer
+                    bringe. <persName key="JP-011842">Eduard</persName> hat meine ganze Liebe,
+                    und ich hätte kaum mehr für mein eignes Kind beben können, als ich beim
+                    durchlesen der Zeilen bebte, die seine Gefahr und
+                    Ihren Zustand schilderten. Nehmen Sie ihn ja während des Reconvaleszierens in
+                    Acht. Ein Rückfall würde ihn gewiß todten. Hüten Sie ihn mit eignen Augen – nicht einen Augenblick darf man ihn jetzt aus der
+                    Acht laßen.</p>
+            <p>Hier sind die kleinen Kanonen mit den bleiernen Kriegsmännern. Es war nur
+                    Infanterie zu haben – die französische Kavallerie  wie ich sie in den Schachteln vorfand, nahm sich gegen diese Infanteristen winzig und elend aus, wie
+                        Schattenmänner gegen wirkliche Soldaten.
+                    Als wären sie aus Persiflage gemacht von irgend einem aufgedunsenen
+                    österreichischen Helden.  Ich sah mich vergeblich nach imposanteren
+                    Blei Kerlen um. Nur die sächsischen Reuter kamen mir bärbeißig vor, Sie bestehen aber auf Franzosen –</p>
+            <p>Sagen Sie Ihrer lieben <persName key="JP-012933">Frau</persName> daß
+                    ich über die Küche für <persName key="JP-001033">Rosalie</persName>, mit dem
+                    Kaufman einig geworden bin. Er hat nur noch zwei die niedlich und zugleich nicht
+                    übertrieben groß sind so daß man sie bequem mit allem Zubehör in eine mäßige
+                    Schachtel packen kann. Bis Montag über acht Tage will er diese Küche aufheben
+                    und abwarten ob ich sie abhohlen laße. Dann aber verkauft  er sie dem nächsten Käufer. Der Preiß ist drei Thaler,
+                        achtzig. Vor der Hand steht ein sehr
+                    eleganter Koch in dieser Küche. Ich denke aber <persName key="JP-001033">Rosalien</persName> wird eine Köchin lieber seyn, und habe daher
+                    bestellt daß  ein Tausch vorgenommen werde, Ihre <persName key="JP-012933">Frau</persName> mag sich nun entschließen und mir
+                    binnen acht Tagen Bescheid geben. Die Soldaten und Kanonen kosten einen Thaler.
+                    Gern hätte ich die Kanonen größer gehabt  allein die größeren waren
+                    gegen das Format der Bleimänner, im unschuldichsten Verhältniße.</p>
+            <p>Adieu für diesmal. Es ist mir unmöglich heute weitläuftiger zu seyn.</p>
+            <p>Ich bitte Sie dringend mir die weiteren Nachrichten von <persName key="JP-011842">Eduards</persName> Wiederherstellung nicht
+                    vorzuenthalten. Nachstens mehr.</p>
+            <closer>
+               <signed>von Minna Sp.</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>Für die Beiträge zur <bibl sameAs="JP-010375" subtype="werk">Urania</bibl> danke ich herzlich auch über diesen
+                    Gegenstand in meinem nächsten Briefe ausfuhrlicher.</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

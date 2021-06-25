@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1118">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich von Müller an Johann Ernst Wagner. Weimar, 2. Februar 1812,
+                    Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+               <date when="1812-02-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Weimar, 2t. Febr.
+                        1812</dateline>
+            </opener>
+            <p>Wie soll ich Ihnen, Theuerster Freund, den Schmerz
+                    genugsam ausdrücken, den ich über die Nachrichten von Ihrer Krankheit, welche ich erst vorgestern durch
+                    Frau
+                    von Stein erfuhr, empfand! Nur durch
+                    die Versicherung Ihrer täglichen Beßerung ward es in
+                    etwas gemildert; aber 
+                    was müßen Sie nicht ausgestanden haben? Könnte ich doch gleich zu Ihnen eilen, um mich zu überzeugen, daß Sie nicht mehr so sehr leiden, um Ihnen meine innigste Theilnahme zu beweißen. Wie wenig kann man doch
+                    dem Freunde in der Entfernung seyn!</p>
+            <p>Längst schon hätte ich Ihre freundlichen
+                    Zeilen, mit denen Sie mir die liebliche Thémar, die auch hier die beste Aufnahme fand,  beantwortet, wäre ich nicht in der Hofnung gestanden, selbst bald nach
+                        <placeName key="JP-006012">Meinungen</placeName>, wenigstens durchreisend,
+                    zu kommen. <persName key="JP-003966">Der böse Schwendler</persName> hat mir aber
+                    auch in 6 Monaten, selbst in unsern dringenden Geschäfts Angelegenheiten keine
+                    Antwort gegeben, so daß alle meine Pläne daran scheiterten.</p>
+            <p>Wie beständig mich Ihr Andenken begleite, beweise die Anlage. Ich fand auf
+                    fremden Pulte eine Composition Ihrer herrlichen <hi rendition="#u" hand="#author">FrühlingsNacht</hi>; "vielleicht kennt mein Freund sie noch
+                    nicht" dachte ich, u. ließ sie gleich abschreiben.</p>
+            <p>Ich lege noch eine Kleinigkeit von mir bey, weil ich weiß, daß Sie bey Ihrem Hierseyn die melancholisch sanfte Silber stimme der damaligen Grosfürstlichen Hofdame, <persName key="JP-013347">Marie von Berg, jezt Frau v. Ziegesar</persName>,
+                        (vorzüglich in Rußischen Gesängen) so entzückt lobten.
+                        Gestern sahen wir <bibl sameAs="JP-009773" subtype="werk">Romeo u Julie</bibl> nach <persName key="JP-003757">Schlegels</persName> Übersetzung, und bearbeitet von <persName key="JP-001353">Goethe</persName>, zum 1.ten
+                            mal.</p>
+            <p>Ein herrlicher Genuß, dieß glühend Liebe athmende Stück so treflich gespielt zu
+                    sehen!! Auch die  war
+                    vortreflich.</p>
+            <p>
+               <bibl sameAs="JP-008507" subtype="werk">Goethes
+                                Leben</bibl> lasen Sie doch schon? Bald wird der 2.te ud. 3.te Theil
+                            erscheinen. Das grose Publikum verkennt hier oft den reichen Innhalt,
+                    Gewöhnliches nur scheuend, wo die tiefsten Keime des wundervollsten innren
+                    Lebens zartsinnig ausgestreut sind. O wie bin ich auf Ihre<bibl sameAs="JP-010017" subtype="werk">Isidora</bibl> begierig! Leider wird das
+                    Mißgeschick  Ihrer Krankheit auch diese holde
+                    Erscheinung verzögert haben.</p>
+            <p>Was sagen Sie denn zu <persName key="JP-004208">Studnitzens</persName> Heurath? <persName key="JP-013364">Seine Braut</persName> ist ein trefliches, höchst edles
+                            Weesen, die ich von jeher sehr schäzte.</p>
+            <p>Diesen Frühling, Theuerster! besuche ich Sie gewiß, machen Sie nur, daß ich Sie wieder recht wohl und heiter
+                            finde. Wenn das Schreiben Sie incommodiret, so laßen Sie
+                    mir nur durch einen Ihrer<persName key="JP-004558">wackren Söhne</persName>, von deren raschen
+                    Kunst-Vorschritten ich so viel Schönes höre, Kunde geben von Ihrem Befinden. Aber darum bitte ich recht innständig! <persName key="JP-012266">Meine gute Frau</persName> hat recht innigen
+                        schmerzlichen Theil an Ihrem Leiden
+                    genommen, sie sendet Ihnen die treusten, herzlichsten
+                    Wünsche zur gänzlichen Genesung. Und alle Freunde u. Freundinnen, deren
+                    Sie nicht wenige hier haben, stimmen aus voller Seele mit ein. Adio, Theuerster,
+                    Bester! Gott sey mit Ihnen! Ewig der Ihrigste,
+                    FrMüller</p>
+         </div>
+      </body>
+   </text>
+</TEI>

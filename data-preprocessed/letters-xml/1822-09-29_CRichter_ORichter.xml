@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 29. September 1822, Sonntag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-09-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012033">Textilien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. Sontags den 28<hi rendition="#uu" hand="#author">ten</hi>Sept. 1822.</dateline>
+               <salute>Geliebtes Kind!</salute>
+            </opener>
+            <p>Heute erhielten wir Deinen Brief, und Du kannst
+                    denken wie wehmütig er mich machte. Gewis empfindet Niemand so sehr wie ich,
+                        <ref target="JP-UB0594" type="letter">das Schmerzliche Deiner
+                        Täuschung</ref>, und ich habe die ganze Woche um Dich gelitten. Ich hätte
+                    Dir auch schon gleich nach dem Empfang Deines <hi rendition="#u" hand="#author">vorletzten</hi>
+                            Briefes geschrieben, hätte ich nicht geglaubt früher als ein Brief bei
+                    Dir zu sein. Aber sei nur nicht böse, wenn auch <hi rendition="#u" hand="#author">mein</hi> Vorhaben sich nicht so schnell
+                    realisirt hat, und habe Mitleid mit Deiner armen Mutter. Ich habe erst <hi rendition="#u" hand="#author">diese</hi> Woche an eine warme Reiseanzug denken können. Noch war ich nicht im Stande an mich zu denken, und nun
+                    zieht sich jede Arbeit in die Länge, dabei mußte ich immer nach meinen dürren
+                    Zwetschgen sehen, die theils auf dem Ofen der Kochstube, theils auf dem des
+                        <persName key="JP-999999">Vaters</persName> liegen. Du glaubst nicht wie
+                    viel Häusliches von dem ich immer wieder durch andere Sorgen abgezogen werde, zu
+                    thun war.</p>
+            <p> Eben ist <persName key="JP-011864">Fanny</persName> und <persName key="JP-004659">Luise Welden</persName> gekommen die Dich herzlich grüßen
+                    lassen, was mich aber auch jetzt sehr stört, da ich dieses schreibe.</p>
+            <p>Gestern am Sonnabend Abend kam <persName key="JP-001584">R. R. Hecht</persName> und erzählte so viel
+                    Liebes und Gutes von Dir, daß ich einmal wieder recht innig froh war. Er sagte
+                        <persName key="JP-001608">Heine</persName>
+                    erwartete von Dir, eine <hi rendition="#u" hand="#author">vollkommene</hi> Heilung so gut ginge die Cur, wenn man ihm nur <hi rendition="#u" hand="#author">Zeit ließe</hi>. Da Du meine
+                    Zweifelsucht kennst und meine völlige Resignation auf alles was Glück heißt, so
+                    kannst Du Dir denken wie glücklich mich dies machen mußte. Welch ein Lohn wäre
+                    das für unser Opfer! Noch einmal könnte mir das Leben lächeln wenn Du geliebtes
+                    Kind vollkommen hergestellt werden könntest. Ich konnte mir es nie denken.</p>
+            <p> Warte noch ein wenig mit Deinem Mantel ich werde alle möglichen
+                    Flicken mitbringen wir müssen gegenseitig unsere verwundeten Kleidungstücke
+                    ergänzen. Ich habe ein schwarzes Merino Mäntelchen aus einem Shawl und
+                    dem ältesten schwarzen Merino Kleid herausgebracht, mit
+                    der <persName key="JP-003471">Emma</persName> alten Florence Mantel, gefüttert, und habe
+                    keinen xr Geld dafür ausgegeben. <persName key="JP-001584">Hecht</persName> lobt sehr Dein Äußeres, und Deine Augen,
+                    wenigsten sprach <persName key="JP-012661">Charlotte Barner</persName> mit
+                    Emphase davon, wie er es an <persName key="JP-002092">Frau v. Kettenburg</persName> erzählt hat.</p>
+            <p>Warte nur nicht auf mich, es ist besser – aber ich komme gewis. Schreibe bald
+                    wieder. Die Trauben wirst Du doch <hi rendition="#u" hand="#author">gegessen</hi> haben?</p>
+            <p> Daß Du in des <persName key="JP-999999">Vaters</persName> Nichtkommen
+                    eine große Täuschung erfahren ist wahr, allein das schlimme Wetter muß Dich
+                    trösten. Wenn er nun unmuthig neben Dir gesessen wäre, hättest Du froh sein
+                    können? Und gewis Du würdest es bereut haben, Veranlassung zu einer solchen
+                    Reise gewesen zu sein. Du weißt ja, wie viel er erwartet und wie wenig ihm
+                    genügt. Er ist jetzt gesund und heiter, und hat manche gesellschaftliche Freude.
+                    Vorgestern war er im <bibl sameAs="JP-010041" subtype="werk">Freischütz</bibl> und
+                    höchst zufrieden. Heute wird <persName key="JP-003471">Emma</persName> hinein
+                    gehen. Am Donnerstag war Thée
+                                    dansant bei <persName key="JP-004656">Weldens</persName>, wo <persName key="JP-003471">Emma</persName> sehr
+                    glücklich war.</p>
+            <p>Nun lebe wohl, geliebtes Herzenskind. Bleibe gesund, und lebe nur ganz allein
+                    Deiner Kur Du brauchst gar nichts zu arbeiten, <persName key="JP-003471">Emma</persName> denkt an Nichts, ich erklärte mir nur dadurch Dein
+                    Schweigen.</p>
+            <closer>
+               <salute>Lebe wohl Geliebte</salute>
+               <signed>Deine treuste Mutter Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

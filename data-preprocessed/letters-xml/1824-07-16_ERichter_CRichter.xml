@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0562">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Caroline Richter. Bayreuth, 16. Juli 1824,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1824-07-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012453">Jean Pauls Alltag</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bayreuth, 16. Juli 1824.</dateline>
+            </opener>
+            <p>Der <persName key="JP-999999">Vater</persName> wird Dir
+                            von <persName key="JP-004585">Walther's</persName> Besuch
+                            schreiben; durch diesen
+                    ist neues Leben in ihn gekommen und Vertrauen zur Herstellung des Körpers, wie
+                    des Geistes. Das bedurfte er hauptsächlich und so wirkt der neue Glaube
+                    vielleicht mehr, wie die neue Diät. Wenn es nur hilft! Wie will ich Gott danken,
+                    wenn alle Tage wie der gestrige sind, wo der <persName key="JP-999999">Vater</persName> heiter war, Appetit hatte und Zuversicht. Vielleicht geht
+                    es so fort. Die Bäder werden jetzt regelmäßig gebraucht und bekommen recht gut;
+                    es ist eine leichte Sache, sobald es im Gang ist. Ich setze mich immer an die
+                    Thüre der großen Stube und unterhalte den <persName key="JP-999999">Vater</persName>, weil er nicht liest. Das macht mir mehr Vergnügen, als
+                    zehn Spaziergänge.</p>
+            <p>Vorgestern war ein hübscher Tag, von außen und innen. Der <persName key="JP-999999">Vater</persName> konnte am Morgen
+                            nicht recht sehen und ging daher später in
+                        <persName key="JP-004656">Weldens</persName> Garten, doch ohne zu ihnen
+                    hinauf zu gehen. Aber der Bediente, der ihn sah, meldete es gleich, und da kam
+                        <persName key="JP-004653">sie</persName> und die <persName key="JP-012915">Kinder</persName> voll Freude gleich hinunter. Er
+                    mußte den Mittag da bleiben, und durch ihre Liebe wurde er recht froh; Abends
+                    kam <persName key="JP-004585">Walther</persName>, da ward ers noch mehr.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

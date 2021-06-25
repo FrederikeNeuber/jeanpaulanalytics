@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0114">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 28. Juni
+                    1811, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1811-06-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>ich habe über die Freude, <anchor type="target" xml:id="start_lkx_vzq_y3b"/>daß
+                    Du Deine Kiste schon hattest<anchor type="target" xml:id="stop_lkx_vzq_y3b"/>,
+                    als Du in Deinem letzten Briefe darum batest, vergeßen, Deiner Bitte um die Richterschen Zinsen zu befriedigen.</p>
+            <p>Nach umstehender Seite habe ich nur 10 rth Gold für Dich
+                    Bestand; u diese wird Dir <persName key="JP-003203">Herr
+                            Geheimer Rath Pfeiffer</persName>, dem ich sie hier gezahlt habe, dort auszahlen laßen.</p>
+            <p>Schicke mir Quittung darüber, u nimm vor der Hand vorlieb, weil ich jetzt zu sehr
+                    gedrängt bin.</p>
+            <p>
+               <anchor type="target" xml:id="start_nn2_w1r_y3b"/>
+               <persName key="JP-004106">Julius</persName> ist so weit hergestellt, daß ich
+                    ihn nun aufs Land schicken kann; u zwar nach <placeName key="JP-006010">Meklenburg</placeName> auf <placeName key="JP-012136">das
+                        Guth</placeName> des <persName key="JP-012315">Baron le Fort</persName>.<anchor type="target" xml:id="stop_nn2_w1r_y3b"/>
+            </p>
+            <p>
+               <persName key="JP-004107">Richard</persName> muß noch über 8. Tage an den Rötheln Quarantaine
+                    halten. Dann ist er auch wieder flott.  <persName key="JP-004393">Minna</persName> ist gesund.</p>
+            <p>
+               <anchor type="target" xml:id="start_zfx_cbr_y3b"/>
+               <persName key="JP-004103">Emma</persName> kömt am 17. July in die Louisen Stiftung. <persName key="JP-000009">Minona</persName> kömmt dann zur <persName key="JP-004393">Minna</persName>, bleibt aber
+                    in der halben <persName key="JP-012647">Geesen</persName>schen Pension.</p>
+            <p>
+               <persName key="JP-004107">Richard</persName> ist, so
+                    bald er das 10te Jahr erreicht haben wird, ins
+                        <placeName key="JP-012506">Züllichausche</placeName> Waysen Hauß aufgenommen.</p>
+            <p>So wechselt gutes mit bösem.</p>
+            <p>
+               <persName key="JP-002709">Meine Frau</persName> ist gesund, grüßt Dich, u hat
+                    noch freie Thaler Deines Geldes zu Deiner
+                        disposition in Händen.</p>
+            <closer>
+               <salute>Lebe wohl, grüße <persName key="JP-999999">Deinen Mann</persName>, u.
+                        küße <persName key="JP-003483">Deine Kinder</persName>. </salute>
+               <signed>Dein treuer Vater Mayer </signed>
+               <dateline>Berlin d. 28. Juny
+                        11.</dateline>
+            </closer>
+         </div>
+         <div>
+            <p>Die letzte Rechnung schloß mit dem 18. August 1810.</p>
+            <p>Seitdem habe ich <hi rendition="#u" hand="#author">eingenommen</hi>
+            </p>
+            <p>
+               <persName key="JP-003488">Richtersche</persName> Zinsen
+                    von 1100 rth</p>
+            <p>Gold vom 1. July 10/11.  44 rth –, – Gold Einnahme</p>
+            <table rows="2" cols="2">
+               <head>Ausgaben</head>
+               <row>
+                  <cell>Gold</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>12 rth –, –</cell>
+                  <cell>Zur Wittwen Casse im 7.ber 10.</cell>
+               </row>
+               <row>
+                  <cell>12 rth – –</cell>
+                  <cell>dito im Märtz
+                            11.</cell>
+               </row>
+               <row>
+                  <cell>10 rth – –</cell>
+                  <cell>
+                     <ref target="JP-UB0550" type="letter">baar am 19. X.ber 10. nach <placeName key="JP-005574">Bayreuth</placeName>.</ref>
+                  </cell>
+               </row>
+               <row>
+                  <cell>10 rth – –</cell>
+                  <cell>baar erfolgen jetzt durch <persName key="JP-003203">Herrn Geheimen RathPfeiffers </persName>Assignation</cell>
+               </row>
+               <row rend="sum">
+                  <cell>44 rth – –</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>Re</p>
+         </div>
+      </body>
+   </text>
+</TEI>

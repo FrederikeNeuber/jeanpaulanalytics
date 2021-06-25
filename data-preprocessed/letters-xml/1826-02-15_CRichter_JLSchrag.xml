@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Leonhard Schrag. Bayreuth, 15. Februar 1826,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1826-02-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003846">Johann Leonhard Schrag</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Mein Herr!</salute>
+            </opener>
+            <p>Die heutige Anfrage durch einen Rechtskundigen wegen des Erhaltens <ref type="letter" target="JP-UB0548">Ihres Briefes</ref>
+                    mußte mich sehr befremden! Hätte ich voraussetzen können daß Sie bei einer
+                    Anfrage deren bestimmte Beantwortung noch nicht in meiner Macht lag, so
+                    dringende Absichten hatten, so würde ich alles Andere bei Seite gesetzt haben,
+                    um Sie aufzuklären; allein da ich von so schwierigen Besorgungen in Anspruch
+                    genommen war, so schob ich meine Erklärungen hierüber noch immer auf. Es ist mir
+                    leid wenn Sie Sich dadurch beleidigt gefühlt haben.</p>
+            <p>Jedermann sagt mir, daß eine Gesammtausgabe von den Werken eines Schriftstellers,
+                    etwas für sich Bestehendes, und von dem Einzelverkauf seiner Bücher völlig
+                    Losgetrenntes wäre, <hi rendition="#u" hand="#unknown">sobald die
+                        Herren Verleger derselben, das Recht behalten ihren Verkauf
+                        fortzusetzen</hi>. </p>
+            <p>Eben so sehr als daß ein Schriftsteller, wenn er in einen Kontrakt mit dem Einzelnverleger
+                        sich<hi rendition="#u" hand="#unknown">seine Freiheit für die Zukunft
+                        nicht beschränkt hat</hi>, seine Opera omnia
+                    herausgeben kann wo er will: – Und es existieren in Ihren gegenseitigen
+                    Verhandlungen bei Herausgabe des <bibl sameAs="JP-010807" subtype="werke-jp">Fibels</bibl> gar keine Verbindlichkeiten für die Zukunft. a)</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0548/#start_udv_3nx_znb">Daß
+                        Sie in einem Zeitraum von 15 Jahren kaum 1000 Exemplare absetzten</ref>,
+                    würde in jedem Fall die Zeit Ihrer
+                    Entschädigung
+                    7½ Jahre hinausschieben, denn wenn friedliche Umstände, und
+                    ein <hi rendition="#u" hand="#unknown">ungefährdeter Absatz</hi>
+                    Ihnen nicht größeres Glück gewährten, können Sie billigerweise  nicht verlangen, daß die <hi rendition="#u" hand="#unknown">unbeschützten</hi>
+               <hi rendition="#u" hand="#unknown">Nachkommen</hi>
+               <persName key="JP-999999">Jean Pauls</persName>, das <hi rendition="#u" hand="#unknown">Schicksal</hi>, an Gaben und Großmuth <hi rendition="#u" hand="#unknown">übertreffen</hi> sollen? Woran
+                    lag der geringe Absatz, entweder an dem Buche selbst, oder an der <hi rendition="#u" hand="#unknown">Höhe</hi> des Preises? <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0548/#start_cns_mnx_znb">Wenn
+                        der verewigte Schriftsteller 4 Fried'd'orpro Bogen eines so enggedrukten Buches empfing</ref>, was müssen Sie bei
+                    1000 Exemplaren erworben haben, zu dem Verkaufpreise den Sie festgesetzt hatten?
+                    Gewis war Ihre Auslage gedeckt, und ein solcher Gewinn, der Sie wohl in den
+                    Stand setzen kann, dieses Buch zu <hi rendition="#u" hand="#unknown">zeitgemäßen Preisen</hi>, dem Publikum noch einmal anzubieten, und dann
+                    werden Sie sehen, daß Ihnen <hi rendition="#uu" hand="#unknown">nicht</hi>
+               <hi rendition="#u" hand="#unknown"> 500 Exemplare
+                        übrig bleiben</hi>, für deren Rest wir Sie entschädigen sollen! b)</p>
+            <p>Der Zeitpunkt der Aufnahme des <bibl sameAs="JP-010807" subtype="werk">Fibels</bibl> wird erst in 2¼tel Jahren eintreten,
+                    weil nach der Anordnung des <persName key="JP-999999">seeligen
+                        Verklärten</persName> seine Werke in chronologischer Folge wie er sie
+                    geschrieben, erscheinen sollen. Bis dahin haben Ew. Wohlgeboren freien
+                    Spielraum für Ihren Absatz, welcher in der jetzigen unglücklichen Periode seines
+                    Verlustes für die Welt?, unter günstigen Auspicien steht.
+                        c)</p>
+            <p>Einmal ist die Begierde des Publikums nach seinen Schriften größer als bei seinem
+                    theuren Leben, da auch die weniger gebildete Welt, wissen möchte, wer der Mann
+                    war, den die Welt so betrauert.</p>
+            <p>Zweitens weil die Gunst der Privilegien auch die <hi rendition="#u" hand="#unknown">Einzel-Ausgaben</hi> für Nachdruck schützt, da
+                    in <placeName key="JP-005569">Baiern</placeName>, <placeName key="JP-006421">Würtemberg</placeName>, und <placeName key="JP-005557">Baden</placeName>,
+                    und wie ich gesucht, auch in anderen deutschen Staaten weder Einzel-Ausgaben,
+                    noch die <bibl sameAs="JP-010983" subtype="werke-jp">Gesammt Ausgabe</bibl> sie
+                    mögen Namen haben wie sie wollen nachgedruckt, und Nachdruck derselben, <hi rendition="#u" hand="#unknown">verkauft werden darf</hi>. d)</p>
+            <p> Nach allem Diesen erwarte ich nun, daß Ew. Wohlgeboren Sich
+                    beruhigen, und alle die billigen Mittel zu Ihrer Entschädigung gebrauchen
+                    werden, die Ihnen selbst zu Gebote stehen. Kann es Ihnen lieb sein die Nachkommen <persName key="JP-999999">eines geehrten
+                        Mannes</persName> zu bedrängen, dem Sie nicht Selbst, Freund waren? Erwägen, bedenken Sie, die
+                    Vortheile die noch ein jeder Buchhändler durch den Absatz Jean Paulscher
+                    Schriften <hi rendition="#u" hand="#unknown">haben kann</hi>, und
+                    wenn er das Ausland zu Hülfe nehmen müßte! Schon sind die Thore der Literatur,
+                    nach <placeName key="JP-006217">Rußland</placeName> geöffnet. In <placeName key="JP-006269">Schweden</placeName> wird
+                            er übersetzt Suchen Sie alles was dem spekulativen
+                    Geschäftsmann möglich ist, auf; um das Buch ins Gedächtnis des Publikums
+                    hervorzurufen, und wenn nach 2¼tel Jahren der Zeitpunkt der Aufnahme in die
+                        <bibl sameAs="JP-010983" subtype="werke-jp">Gesammtausgabe</bibl> erschienen
+                    ist, dann wollen wir sehen, was Ihre Bemühungen geleistet haben. e)</p>
+            <p>Bis dahin könnte auch der strengste Richter für Sie keinen Rechtsgrund
+                    anerkennen, uns, ohnehin so Beraubte, zu einer Entschädigung zu verdammen.</p>
+            <closer>
+               <salute>Mit der Bitte um Entschuldigungen meines langen, durch die Umstände
+                        gebotenen Stillschweigens</salute>
+               <signed>Deroergebene Caroline Richter geboreneMayer Wittwe Jean Pauls</signed>
+               <dateline>Baireuth den 15<hi rendition="#uu" hand="#author">t</hi>Febr. 1826.</dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <bibl sameAs="JP-010983" subtype="werke-jp">Die Werke</bibl>
+                  <persName key="JP-999999">meines Mannes</persName> erscheinen in 12
+                            Lieferungen, jedesmal 5 Bände von Messe zu Messe, und <bibl sameAs="JP-010807" subtype="werk">Fibel</bibl> fällt gerade in die 7<hi rendition="#uu" hand="#author">te</hi> Lieferungen. Wie ergeht es nicht erst den
+                            anderen Verlegern neuerer Sachen. <bibl sameAs="JP-010574" subtype="werk">Katzenberger</bibl> und <bibl sameAs="JP-010775" subtype="werke-jp">Bücherschau</bibl> und der
+                                    Verleger würde es für eine Sünde achten
+                            von uns, der <hi rendition="#u" hand="#author">
+                     <persName key="JP-003482">Familie Jean Pauls</persName>
+                  </hi> Entschädigung
+                            zu verlangen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

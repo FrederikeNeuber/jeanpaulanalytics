@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0468">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 12. Oktober 1802, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-10-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig. den 12tenOcktober 1802.</dateline>
+            </opener>
+            <p>Mein geliebter Vater, Verzeihen Sie gütig, daß ich so spät
+                    erst für den Empfang Ihres lezten Briefes, nebst Einlage, Ihnen meinen Dank sage. Ich dachte den erstern, mit dem Bericht der für Sie besorgten Aufträge zu vereinigen – daher die Verzögerung. – Gekauft ist nun beinah alles,
+                    liebster Vater, und mir bleibt nur der Wunsch, daß meine Wahl mit Ihrem und
+                    Ihrer Feundinn Geschmack, einigermaaßen übereinstimmen möge! – <anchor type="target" xml:id="start_i2r_qlc_14b"/>Ich habe points, Kleid, und für Sie, mein Vater, Schnupftucher besorgt. Was nun
+                    noch übrig bleibt, sind, wenn ich nicht irre Halstücher für Sie; und ein
+                    moderner Schawl für Henriette.<anchor type="target" xml:id="stop_i2r_qlc_14b"/> Die  ersten werde ich auf jeden Fall noch besorgen.
+                    Ob es bey dem Schawl noch bleiben soll, mögen Sie noch vorher entscheiden. Denn
+                    die festgesezte Summe von  100 rtl. ist ohne den Schawl beinah
+                    erreicht, und ich weiß nun Ihren Willen in diesem Fall nicht. – Die points habe ich für den Preis von 7 rtl. die Elle nicht kaufen können. Sie waren dafür zu schlecht ,
+                    um
+                    sich zu einem solchen Geschenk zu qualifiziren. Die Sie erhalten werden kosten
+                    10 rtl. 4 gr. die Elle, welches auf 6 Ellen die Summe von 61 rtl. beträgt. Das
+                    Kleid ist vom modernsten seidnen Zeuge ganz <hi rendition="#u" hand="#author">weiß faconnirt</hi> und kostet die Pariser Elle oder der Stab 2 rtl. – macht die Summe von 20
+                    rtl. <anchor type="target" xml:id="start_adm_ykc_14b"/>Tücher für Sie sind –
+                    nicht seiden – weil diese ganz aus der Mode sind – sondern sogenannte <hi rendition="#u" hand="#author">Englische Tücher</hi>, bunt quadrilliert nach dem neusten Geschmack.<anchor type="target" xml:id="stop_adm_ykc_14b"/> Sie könnten vielleicht zürnen, liebster Vater,
+                    weil ich Ihrer Wahl eigenmächtig zuwieder gehandelt habe – doch bin ich
+                    überzeugt, wenn Sie die Tücher sehen, werden Sie mit Ihnen zufrieden  seyn, zumal diese grade nur halb so theuer sind als die seidnen, und die
+                    lezteren an Dauer weit übertreffen. Denn die Farben sind ganz ächt, und der
+                    Stoff vom feinsten Baumwollnen und leinenen Garn unverwüstbar. Die  seidnen kosten das
+                    Duzend 24 rtl. diese aber nur 12 rtl. und einige Groschen.</p>
+            <p>Die Frage ist mir jetzt, diese, wie wir alles hineinbringen werden. Die points würde ich vielleicht anbringen können – aber das
+                    Kleid, wenn es auch verfertigt ist, wird nur mit der größten Schwierigkeit seine
+                    Bestimmung  erreichen. Ihre Tücher will ich nähen und waschen laßen, dann wird
+                    es mit denen noch am ersten gehen. – Haben Sie nur die Güte mir mit der nächsten
+                    Post wegen des Schawls zu antworten. – </p>
+            <p>
+               <anchor type="target" xml:id="start_aft_sht_cnb"/>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0108/#start_mwx_vht_cnb">Ihren lezten Brief an mich,
+                        liebster Vater habe ich an <persName key="JP-003469">Caroline</persName>
+                        geschickt</ref>
+               <anchor type="target" xml:id="stop_aft_sht_cnb"/> – nebst der
+                    Einlage.  <persName key="JP-004393">Minna</persName> hat mir auch die von Ihnen erhaltenen
+                    mitgetheilt. – Haben Sie die Güte es mir zu schreiben, wenn <persName key="JP-002709">Ihre
+                        Freundinn</persName>, von ihrer Reise zurückgekehrt seyn wird – damit ich
+                    alsdann Ihren Wunsch, erfülle, und selbst an sie schreibe. Unser Besuch bey der <persName key="JP-000712">Mde. Cray</persName> geschah einige Tage nach Ankunft Ihre Briefes – <persName key="JP-000712">Mad. Cray</persName> war aber nicht zu Hause als wir vorfuhren, wir gaben Karten ab und erhielten wieder welche von Mann und Frau.</p>
+            <p>In dem lezten Briefe von <persName key="JP-002709">Henriette</persName> an Sie, stand etwas, von einem Maaß, das sie,
+                    anstatt eines Kleides, zur Verfertigung, des hier gekauften Kleides schicken
+                    wollte. Ich bin nun irre geworden, wonach ich eigentlich das Kleid machen laßen
+                    soll. –  Wollten Sie
+                    mir hierüber noch Auskunft geben, und <hi rendition="#u" hand="#author">bald</hi>, so würden Sie mich aus einer großen Verlegenheit
+                    helfen! – Leben Sie nun wohl, mein bester Vater, und ganz so glücklich als Ihnen wünscht Ihre</p>
+            <closer>
+               <signed>treue Tochter E. M.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-002583">Mein
+                                Mann</persName> empfielt sich Ihnen herzlich! –</p>
+            </postscript>
+            <postscript>
+               <p>Noten – als Belege der angeführten
+                            Preise – werden Sie mit
+                            dem Eingekauften erhalten, liebster Vater!</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

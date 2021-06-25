@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0558">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, erste Januarhälfte 1821 </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth
+                        (Stadt)</placeName>
+               <date notBefore="1821-01-01" notAfter="1821-01-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebter Max! <anchor type="target" xml:id="start_uh4_m4d_j4b"/>Da der gute
+                        <persName key="JP-012405">Fritz Reizens</persName>
+               <persName key="JP-012405">tein</persName> mir anbietet einen
+                    Brief an Dich mit in Einem an seinen
+                            Bruder einzulegen<anchor type="target" xml:id="stop_uh4_m4d_j4b"/>, will ich Dir wenigstens in unser Aller Namen
+                    die Hand reichen, da es so süß für Entfernte ist ein Lebenszeichen von einander
+                    wahrzunehmen. <anchor type="target" xml:id="start_snz_fpp_2nb"/>Der geliebte
+                        <persName key="JP-999999">Vater</persName> war etwas leidend an der
+                    Winterkälte, aber es scheinen nur leichte Streifregen zu sein die nicht bis ins
+                    Innerste dringen<anchor type="target" xml:id="stop_snz_fpp_2nb"/>. Gott – Dank!
+                    dafür, denn unser Aller Glückseeligkeit und unendlicher Menschen Freude hängt an
+                    seiner Existenz. Gestern Abend war er recht heiter bei der <persName key="JP-003830">Gr. Schönburg</persName> – es wurde auch von Dir gesprochen.
+                        <persName key="JP-001881">Imhofs</persName> lassen Dich
+                    recht grüßen. – Wir sind nicht unruhig aber wir <hi rendition="#u" hand="#author">wünschen</hi> einen Brief von Dir mein Max! Die
+                        <hi rendition="#u" hand="#author">Möglichkeit</hi> daß Du krank
+                    sein könntest ängstigt uns. Du hastdoch die Schachtel – und den Wechsel des
+                        <persName key="JP-999999">Vaters</persName> bekommen. Die ehrwürdige <persName key="JP-004516">Mutter Voss</persName> ist doch wieder hergestellt? Gott erhalte sie noch lange zum
+                    Seegen der ihrigen. Weißt Du daß <persName key="JP-003112">Otto</persName> nach München reißt, man will ihm ein Amt geben, <persName key="JP-001675">Herder</persName> arbeitet für ihn. Am 16ten reißt er ab. Innig
+                    drückt Dich die Mutter ans Herz – sei, froh, und genieße heiter was sich an
+                    Lebensfreuden Dir anbietet. Du lieber Sohn</p>
+         </div>
+      </body>
+   </text>
+</TEI>

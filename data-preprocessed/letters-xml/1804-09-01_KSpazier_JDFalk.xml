@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0095">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Johannes Daniel Falk. Leipzig, 1.
+                    September 1804, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1804-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>1 Septr. 4.</dateline>
+            </opener>
+            <p>Liebster Falk, Buchhändler <persName key="JP-004517">Voss</persName>, dem ich gesteckt (was ich von der <persName key="JP-012813">Mad. Geiselbrecht</persName> erfahren, die mich hier
+                    besucht), daß Sie von dem <persName key="JP-012034">Marionetten
+                        Principal</persName> alte Schmöker sich haben geben laßen, um neue
+                    Herrlichkeiten vermuthlich daraus zu machen, läßt bey Ihnen anfragen, ob Sie
+                    nicht so eine Suite von solchen Stücken, als die Prinzeß  mit dem Schw. Rüssel ist, bey ihm herausgeben wollen? Es ist eine alte
+                    Idee von ihm, auf welche diese Nachricht so lebhaft angeschlagen, daß er
+                    dergleichen von Ihnen wünscht. Ist etwas daran, so schreiben Sie ihm doch
+                    dieserhalb u laßen Sich näher mit ihm ein.</p>
+            <p>Dies mein Auftrag.</p>
+            <p>
+               <anchor type="target" xml:id="start_alz_hg3_snb"/>Denken Sie, nachdem <persName key="JP-012034">Geiselbr.</persName>  bereits die Erlaubniß erhalten, in der <placeName key="JP-011521">Mich. Messe</placeName> hier zu spielen, schickt der Bürgermeister <persName key="JP-012605">Einert</persName> zu
+                        <persName key="JP-002583">Mahlmann</persName> u läßt ihm sagen: er habe
+                    gehört, in der <bibl sameAs="JP-009809" subtype="werk">eleg. Zeitung</bibl> habe gestanden, daß
+                            seiner Stücke wegen in <placeName key="JP-006395">Weimar</placeName>
+                            Unruhen entstanden wären, u da dies hier auch zu besorgen seyn
+                        müsse,so müsse das Wort zurückgenommen werden.<anchor type="target" xml:id="stop_alz_hg3_snb"/> Wenn aber <persName key="JP-002583">Mahlm.</persName> dafür <hi rendition="#u" hand="#author">haften</hi> wolle, so pp  Dies zu thun, hat <persName key="JP-002583">dieser</persName> nun Abstand genommen, denn es können
+                    darunter auch am Ende Geldsachen verstanden werden: unterdeß hat <persName key="JP-002583">M.</persName> an <persName key="JP-012034">G.</persName> geschrieben u ihm gerathen, sich nochmals unmittelbar an
+                    den Hofr.<persName key="JP-012605">Einert</persName> zu wenden, u zu versprechen, daß der Epilog
+                            wegbleiben soll u s w.</p>
+            <p>Dies zur Nachricht, in aller Eile.Lage der <bibl sameAs="JP-009809" subtype="werk">Zeitung</bibl> nächstens: <anchor type="target" xml:id="start_q5x_cs3_snb"/>mit Vergnügen werde ich Sie als
+                        ordentlichen Leser eintreten laßen.<anchor type="target" xml:id="stop_q5x_cs3_snb"/> Entschuldigen Sie meine Hast. Viel
+                        herzliche Grüße von meiner <persName key="JP-004393">Minna</persName> an Sie u Ihre liebe <persName key="JP-012933">Taube</persName>
+            </p>
+            <closer>
+               <signed>Ihr Sp.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

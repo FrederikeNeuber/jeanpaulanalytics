@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0373">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Richard Otto Spazier an Caroline Richter. Leipzig, 17. November
+                    1823, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004107">Richard Otto Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1823-11-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012770">Familie Spazier</term>
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012533">Lektüre(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Liebe Tante!</salute>
+            </opener>
+            <p>Noch nie ist wohl etwas irgend einem Menschen schneller entrissen worden, als es
+                    neulich dem Königlichen sächsischen wohlsbetallten Briefträger auf dem
+                    General-Postamte zu <placeName key="JP-005948">Leipzig</placeName> erging, als er mit seinem dicken, lieben Pakete in meine Stube trat; ja –
+                    den Tag hatte ich mich nach der Ankunft des <placeName key="JP-005574">Baireuther</placeName> Postwagens erkundigt, und dennoch überraschte mich der Gelbjäckige so, daß
+                    ich beinah einen schönen Pfeifenkopf eingebüßt hätte. – Wenn ich auf alle Briefe, die ich irgend schriebe, immer solche Antworten bekäme: – ich glaube, ich thäte Jahr ums Jahr nie
+                    nichts anders als eben schreiben. Da dies aber leider nun einmal nicht geht, so
+                    habe ich mir so viel Zwang angethan, bis jetzt die große Schreiblust, die mir
+                    sonst eben nicht zum Vorwurfe gemacht wird, zu unterdrücken, theils um nicht
+                    beschwerlich zu fallen, theils um bei Ihnen nicht den Verdacht zu erwecken, als
+                    betriebe ich nicht mit Ernst und Ausdauer genug meine Arbeiten.</p>
+            <p>Ich habe Ihnen so unendlich viel zu sagen, daß ich nun da ich’s thun soll, gar
+                    nicht weiß, wo ich anfangen soll und ich sehe schon, daß ich vor lauter Begierde
+                    Ihnen viel zu sagen, am Ende gar nichts sagen werde: – Über Ihre Briefe habe ich noch immer die größte Freude; – wie viel mal lese ich sie nicht
+                    jeden Tag! Wie doch Alles, was aus einen Orte kommt, den man liebt, einen
+                    eigenen Reiz hat! So befühle ich immer noch des <persName key="JP-999999">Onkels</persName> schöne glänzende Dinte in den Briefen, ob sie vielleicht
+                    noch abfärbt. – vielleicht kommt bald wieder frischere und löst dann die alte
+                    ab! –</p>
+            <p>Hier in <placeName key="JP-005948">Leipzig</placeName> habe ich mich nun schon
+                    längst wieder eingerichtet und empfinde in dem nun noch bestimmter gewordnen
+                    Streben nach einem festen Ziele einen schönen Genuß;– mein ganzes Wesen, mein
+                    Wollen u Wünschen hat nach dem für mich so einflußreichen Aufenthalte in <placeName key="JP-005574">Baireuth</placeName> eine ganz andre, ich möchte sagen, ernstere Richtung genommen, und richte
+                    ich jetzt mein gan-   zes Augenmerk nur auf eben jene Theile des
+                    Wissens, die für jenen Endzweck passen; – ich beschäftige mich ausschließend
+                    jetzt nur mit der Jurisprudenz in ihrer höchsten und edelsten Bedeutung, und bin
+                    im <persName key="JP-002863">Montesquieu</persName> schon beinah bis ans Ende, ihn sehr genau excerpierend, vorgerückt. – Eben
+                    dieses Wirken und Streben für etwas Bestimmtes, nach einem festen Mittelpunkt
+                    hin, giebt meinem Gemüthe einen eignen Frohsinn, da ich bisher nur höchst
+                    schwankend meinen augenblicklichen Neigungen gefolgt bin.– Ein großer Sporn
+                    hierbei ist freilich für mich der Wunsch, die so große Güte und Liebe, mit der
+                    Sie mich überhäuften nach und nach verdienen zu lernen. – So muß ich Ihnen jetzt
+                    wieder meinen innigen Dank sagen für den liebevollen Brief, den Sie über mich an die <persName key="JP-004393">Mutter</persName>
+                    geschrieben haben müssen; ich habe aus dritter Hand vernommen, daß er ihr sehr
+                    große Freude gemacht hat, ja daß
+                        sie eine ordentliche Sehnsucht nach mir hegt.– So scheinen Sie immer
+                    fort wie ein freundlich wärmendes Gestirn in mein Leben hinein und entfernen
+                    alle Wolken, die seinen Horizont trübten. Möchte doch die große unendliche
+                    Centralsonne droben, von der ja Alles Licht und Wärme empfängt, auf das so freundliche Gestirn
+                    besonders gnädig blicken; – was kann die armselige Erde der Sonne geben?– nur
+                    Dank – und Liebe. –</p>
+            <p>Ich weiß freilich nicht, ob <persName key="JP-000008">Herrn Abeken</persName> aus <placeName key="JP-005687">Dresden</placeName>, durch den Sie, liebe Tante, einen Brief von der
+                                <persName key="JP-004393">Mutter</persName> erhalten haben,
+                    das Glück so günstig gewesen ist, daß er von Ihnen gesehen worden ist. – Haben
+                    Sie ihn gesehen, so bin ich sehr neugierig Ihr Urtheil über ihn zu hören; – er
+                    liebt die <persName key="JP-000009">Minona</persName> und der Entschluß sie zu heirathen, ist bei ihm nun ganz fest; – er hat
+                    mich hier bei seiner Anwesenheit zum Vertrauten darüber gemacht, wiewohl es zu
+                    öffentlichen Erklärungen noch nicht gekommen zu   sein scheint;– daß
+                        <persName key="JP-000009">Minona</persName> ihn gern hat, weiß ich schon lange; – sein moralischer Charakter ist
+                    unschätzbar; der ganze Mann ist so kindlicher Natur und seine Bildung für den
+                    Stand eines Kaufmanns so ansehnlich, daß ich wirklich für die <persName key="JP-000009">Minona</persName> kein größeres Glück wüßte, zumal da sein Vermögen zu recht anständigem
+                    Auskommen vollkommen hinreicht .– ich bitte Sie aber, liebe Tante, der <persName key="JP-004393">Mutter</persName> hievon nichts zu schreiben, indem ich
+                    nicht weiß wie sie darüber denkt, auch der <persName key="JP-000009">Minona</persName> der Brief leicht in die Hände fallen könnte. –</p>
+            <p>Daß ich die Abhängigkeit von <persName key="JP-002583">Mahlmann</persName> nun ganz aufgehoben, hat die <persName key="JP-004393">Mutter</persName>
+                    vollkommen gebilligt; – ich kann es ihr auch nicht verdenken, daß sie gern
+                    lauter solche Briefe über mich erhalten möchte, als den, welchen Ihre Güte Ihnen
+                    diktirt hat; – und daß <persName key="JP-002583">Mahlmann’s</persName> Hiobsposten dadurch ihr noch
+                    verhaßter geworden sind; – so kann ich auch von dieser Seite dem Winter froh
+                    entgegensehn, von dem ich die ersprießlichsten Früchte für mich hoffe. –</p>
+            <closer>
+               <salute>Mit der freudigen Erwartung baldiger Nachricht von Ihnen und dem lieben
+                            <placeName key="JP-005574">Baireuth</placeName>, sowie mit den innigsten u herzlichsten Grüßen an den <persName key="JP-999999">Onkel</persName> bleibe ich</salute>
+               <signed>Ihr dankbar Sie verehrender Neffe Richard Spazier.</signed>
+               <dateline>Leipzig den 17tenNovbr 1823 </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

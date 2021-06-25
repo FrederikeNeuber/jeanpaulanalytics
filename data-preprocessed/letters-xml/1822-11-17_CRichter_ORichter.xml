@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0430">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 17. November 1822, Sonntag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-11-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012453">Jean Pauls Alltag</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">
+                     <hi rendition="#uu" hand="#author">Sontag</hi> den 16<hi rendition="#uu" hand="#author">ten</hi>Nov 1822</hi>
+               </dateline>
+               <salute>Meine beste Herzens Odilie!</salute>
+            </opener>
+            <p>Heute früh kam Dein Brief. Wie viel Freude
+                    er uns machte, kann ich Dir gar nicht sagen, zumal da wir schon wieder Dein Schweigen etwas zu lang
+                    fanden. Es konnte aber nicht anders sein, da Du erst unsere Comissionen zu besorgen hattest. Wie dankbar bin ich dem guten
+                        Herrn<persName key="JP-001608">Heine</persName> und <persName key="JP-003031">Augusten</persName> die Deinen Geburtstag so festlich machten; und welch ein hübscher Zufall
+                    ist es, daß er mit <hi rendition="#u" hand="#author">Dem</hi>, Einer der guten Mädchen zusammen fiel, mit
+                    denen Du so herzlich Freund bist. War es <persName key="JP-012116">Jettchen</persName> oder <persName key="JP-012679">Hannchen</persName> Ihrer? Glückwünsche
+                    Ihr doch von mir noch hintennach. Daß Du aber ein geschwollnes Gesicht hast,
+                    thut mir so leid, Du gutes Kind! Wenn es doch nur nicht lange gedauert hat, oder
+                    noch dauert. Es ist mir beim Preßen und Manipuliren ein entsetzlicher Gedanke,
+                    und Deine lieben Augen leiden gewis auch recht dabei. Was Du uns aber von Deiner
+                    Heilung schreibst, entzückt mich und Den <persName key="JP-999999">Vater</persName>, ganz. Daß Herrn<persName key="JP-001608">Heine</persName> Selbst, Dich
+                    so gut findet. – O wie  dankbar werde ich Ihm ewig sein! Du gutes,
+                    gutes Kind! Dich hergestellt zu sehen ist das höchste Erdenglück, was ich mir
+                    nur wünschen kann, und erhellt die noch übrige dunkle Lebensbahn, auf eine
+                    niegeahnete Weise. Bleibe nur auch gesund bis zu unserem Wiedersehen.</p>
+            <p>Der <persName key="JP-999999">Vater</persName> ist im Ganzen recht wohl, diese
+                    Woche ging er zur <persName key="JP-003561">Rollwenzel</persName>, und ich
+                    durfte, seit der vorigen Magd Entlassung zum <hi rendition="#u" hand="#author">erstenmale</hi> seine Stube wieder reinigen. Wie sehr ich da an
+                    Dich dachte, kann ich Dir nicht sagen. Ich putzte die Vogelhäuschen in <hi rendition="#u" hand="#author">Deiner</hi> Seele aus, und dachte
+                    wie gern und gut<hi rendition="#u" hand="#author">Du</hi> das Alles sonst gethan
+                    hattest. Ich brachte den ganzen Tag mit der Stube zu da ich beim Einräumen
+                    Nachmittags das Unglück hatte eine kleine Linie von Dintenflecken wieder in die
+                    frischgefegte Stube zu tröpfeln. Abends war ich bei der Prof. Gabler zum Thee. Gestern ließ ich unseren Ofen
+                    ausputzen, und wusch gleich die Vorhänge, und plättete sie heute Morgen um 5
+                    Uhr.  Von dem Allen bin ich aber auch so müde und matt, daß ich eben
+                    ein Nachmittagschläfchen gehalten habe. Doch wie gern arbeite ich und quäle mich
+                    wieder im <hi rendition="#u" hand="#author">eigenen Haushalt</hi>. Noch ist mir immer seit meiner Rückehr, jede Arbeit so
+                    süß gegen die Beschränktheit in der ich bei <persName key="JP-001608">Heine</persName> war, wo ich nicht einmal für Dich,
+                    mein geliebtes Kind, nach Herzenslust waschen konnte, <anchor type="target" xml:id="start_rzd_fx3_2nb"/>Diese Woche wird ein neuer Ofen in der großen
+                    Stube gesetzt, welches Schwabachers thun, der große Kochofen in der
+                    Kochstube umgesetzt, und dann, in derselben ein Verschlag queer durch gemacht,
+                    wo Du, und <persName key="JP-003471">Emma</persName> schlafen sollt. Mit der
+                    Wohnstube ist es nichts, sie würde zu klein werden, daher habe ich mir das
+                    Letztere ersonnen. Du bist dann ungenirt, die Magd hat ihr warmes Plätzchen am Ofen, und Ihr habt beide Fenster. Die Wohnstubenthüre kann
+                    immer offen bleiben und die Wärme meines Ofens Euer Gemach mit erwärmen. Es soll
+                    recht hübsch werden.<anchor type="target" xml:id="stop_rzd_fx3_2nb"/> Gestern ging der Fuhrmann ab, der Dein Bett holen soll. Käme er aber
+                    nicht gleich an, so lasse nur in Gottes Namen, Herrn
+                                <hi rendition="#u" hand="#author">Wirth</hi>
+                    die Kiste spediren. 
+                    Bis Sontag den 23<hi rendition="#uu" hand="#author">ten</hi> Nov. kann er da sein, meldet er sich bis dahin
+                    nicht, so wollen wir nicht auf ihn warten. Man kann nicht wissen wie bald er
+                    sich zum Abholen meldet ob ich es gleich so dringend gemacht. Der <persName key="JP-999999">Vater</persName> läßt Dich herzlich grüßen, und bittet Dich
+                    ihm <hi rendition="#u" hand="#author">3 Buch</hi> von dem Papier was
+                    Du ihm geschickt einzukaufen, und <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0224/#start_irw_f1k_2nb">mit in die Kiste zu packen.</ref>
+            </p>
+            <closer>
+               <salute>Nun lebe wohl, Engelsseele! Gott behüte Dich, tausend Küsse von Deiner
+                        Mutter.</salute>
+               <signed>Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

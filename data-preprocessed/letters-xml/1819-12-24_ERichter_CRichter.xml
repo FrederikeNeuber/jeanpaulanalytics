@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0463">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Caroline Richter. Bayreuth, 24. Dezember 1819,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1819-12-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012212">Liebesleben / Ehe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bayreuth, 24. Dezember 1819.</dateline>
+            </opener>
+            <p>Heute Abend werden wir Deine Abwesenheit noch recht empfinden, und auch die vom Bruder <persName key="JP-003490">Max</persName>, der mich unendlich dauert, da es das erste Weihnachtsfest ist, das er außer dem Hause
+                            zubringt.<anchor type="target" xml:id="start_ffg_qyh_gnb"/>Er fühlt es auch selber recht
+                    sehr und wünscht, nur uns zusehen zu dürfen, ohne alle Geschenke<anchor type="target" xml:id="stop_ffg_qyh_gnb"/>; und nun muß der arme Junge so
+                    verlassen zusehen bei Anderen!</p>
+            <p>Denke nur liebe Mutter, was mir für ein Unglück Narrheit
+                    begegnet ist, an dem ich so schuldlos bin, wie nur was. <anchor type="target" xml:id="start_xgm_dsg_smb"/>Du kennst doch den dichtenden Franzosen
+                        <persName key="JP-012495">Annibal</persName>, der uns jetzt leider
+                    gegenüber wohnt. Der begegnet neulich dem Mädchen und gibt ihr ein <bibl sameAs="JP-012657" subtype="werk">französisches
+                        Gedicht an die Vorsehung</bibl> für mich mit und sagt ihr, daß er mich auf
+                    dem Markt gesehen und seitdem für mich brennt, und seine Thränen nur Oel ins
+                    Feuer wären.<anchor type="target" xml:id="stop_xgm_dsg_smb"/> Ich warf <bibl sameAs="JP-012657" subtype="werk">das elende Buch</bibl> auf die Erde,
+                    ohne es anzusehen, und wußte nicht, sollte ich lachen oder weinen. Mein Trost
+                    war noch der <persName key="JP-999999">Vater</persName>, zu dem ich gleich ging.
+                    Er machte nicht viel daraus, verbot aber dem <persName key="JP-000929">Mädchen</persName>, einen Brief, den <persName key="JP-012495">er</persName> an mich mitgeben wollte, anzunehmen. Ach wie glücklich ist
+                    man doch, wenn man Eltern hat, denen man Alles sagen kann! Ich hatte das dumme
+                    Ding bald vergessen und konnte nur nicht begreifen, wie sich Jemand in mich
+                    verlieben könnte. Als am Abend <persName key="JP-000929">Liesbeth</persName> von
+                    einem Kaufmann zurückkam, sagte sie, das sie <persName key="JP-012495">ihm</persName> wieder begegnet und daß er auf das beleidigte Nein des
+                        <persName key="JP-999999">Vaters</persName> und von mir geantwortet habe: er
+                    wolle mich ja nicht so mir nichts dir nichts lieben, er wolle mich heirathen
+                    und, wenn das nicht sei, wolle er die Stadt verlassen und kein Mädchen mehr
+                    ansehen. Ich sagte das natürlich auch dem <persName key="JP-999999">Vater</persName>, der dem <persName key="JP-000929">Mädchen</persName>
+                    verbot, wieder mit <persName key="JP-012495">ihm</persName> zu reden. Jetzt
+                    mache ich mir nicht mehr so viel daraus, aber ich erwiedere keinen seiner teifen
+                    Bücklinge.</p>
+            <p>Aber ist Dir wol in der Welt so etwas vorgekommen? Ich, die nicht das Herz hat,
+                    einem Mann ins Gesicht zu sehen, muß so etwas erleben! Mir ist nur
+                    unbegreiflich, wie sich Jemand in mich verlieben kann.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

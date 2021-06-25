@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0227">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 29. November 1822, Freitag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-11-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Freitags den 26<hi rendition="#uu" hand="#author">ten</hi>Nov: 1822.</hi>
+               </dateline>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0756/#start_gnj_xwn_rlb">Ich schicke Dir hiemit des <persName key="JP-999999">Vaters</persName> Kupferstich in dieser
+                        Rolle, welche Du, wenn Du gesund bist, Selbst zu <persName key="JP-012831">Düroufs</persName> tragen
+                        kannst.</ref> Es sind 2 Blätter, wovon Eines an <persName key="JP-012831">Düroufs</persName> bleibt, und
+                    das andere, wie ich die <persName key="JP-012608">liebe Frau</persName>
+                    schon gebeten habe, für <persName key="JP-001608">HerrnHeine</persName>, unter Glas und Rahmen gesetzt
+                    wird, welches wie ich meinte, ihm zu Weihnachten
+                            könnte gegeben werden; wenn Du aber glaubst, daß es je eher je lieber
+                    geschehen soll, um ihm einen kleinen Spaß zu machen, der ihn in eine für uns
+                    günstige Stimmung versetzt, <anchor type="target" xml:id="start_fyf_4yn_2nb"/>so
+                    bitte bei den guten <persName key="JP-012831">Düroufs</persName> um schleunige Besorgung. Sie werden auch so gut sein mir so groß wie der <hi rendition="#u" hand="#author">Einbiegung</hi> des Einen Blattes, einen Rahmen
+                    für des <persName key="JP-999999">Vaters</persName> Gemälde zu besorgen<anchor type="target" xml:id="stop_fyf_4yn_2nb"/>, der aber erst, <hi rendition="#u" hand="#author">mit Dir</hi> zu uns gelangen soll.</p>
+            <p> Wüßte ich doch, was Du machst, gutes theures Kind! <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0190/#start_g2c_1q3_qlb">Wenn doch nur Deine
+                        Backe gut wäre!</ref> Wie sehr verlangt mich nach Nachrichten von Dir. Gebe
+                    Gott daß Du mir Deine völlige Herstellung im nächsten Briefe melden kannst!
+                    Liebes gutes Kind, lasse mir doch von der <hi rendition="#u" hand="#author">
+                  <persName key="JP-012493">Kaufmännin
+                                        Heim</persName>
+               </hi> in der Domstraße, noch <hi rendition="#u" hand="#author">2 Strang</hi>
+               <hi rendition="#u" hand="#author">oder ¼ tel
+                            Pfund</hi>
+                    von der grauen Wolle holen, wofür ich das Pfund –  fl. 12
+                        xr zahlte, und schicke sie
+                    mir <hi rendition="#u" hand="#author">mit der Post</hi>. Es war von
+                    der <hi rendition="#u" hand="#author">Mittelsorte</hi>, sie hat
+                    dreierlei. Hier ist eine Probe von ihrer Stärke. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0756/#start_x4n_qxn_rlb">Ich bin jetzt
+                        fertig, bis auf die Hälfte des 2ten Beines</ref>, und <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0756/#start_atc_rxn_rlb">werde bis die Wolle
+                        kömmt fleißig an der Haube sein</ref>. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0756/#start_whq_3yn_rlb">Ist Dir die Besorgung der <ref target="JP-UB0446/#nesv_2bq_xlb">Blonden</ref> gelungen, oder nicht zu
+                        schwer geworden?</ref> Wenn es nicht gut ging, quäle Dich nicht damit,
+                    schreibe mir nur, wie es ist, und soll ich gleich das Geld schicken so sage es
+                    mir. Das Beste wäre wohl, wenn <persName key="JP-011877">Behrs</persName> ganz
+                    kleine Pröbchen gäben.  <ref target="JP-UB0756/#nxyj_p1k_2nb">Ob Deine
+                        Kiste wohl wird abgeschickt sein?</ref> Ich bin begierig, ob der Fuhrmann
+                        <persName key="JP-001608">HerrnHeine</persName>meinen Brief gebracht, und ob er sie bereit hatte. Ist es
+                    nicht, so muß ich Ihm noch einmal schreiben. Bald werden wir Dein Kostgeld vom
+                        October, Nov: und December schicken, und Dir auch noch einen kleinen
+                    Überschuß, zu Deinen Bedürfnissen. Schreibe mir doch, was die <persName key="JP-012933">Falk</persName> an <persName key="JP-003031">Auguste</persName> gegeben 2 an die Dienstboten, 3 was die Manipuleurs bekommen müssen, und der
+                    Koch, schreibe es mir auf ein besonderes Blättchen. Hat denn die Margarete noch Lust nach Baireuth
+                    zu kommen? weißt Du es nicht? Heute bin schon herumgegangen um einige Kutscher
+                    zu fragen ob sie auf Neujahr nach Würzburg fahren, ich
+                    will alles recht früh und vernünftig einleiten. Ich habe zwar sehr viel
+                    Zerstreuungen durch gute Menschen, die mich sehen wollen, und wirklich  fühle ich mich bei Vielen glücklich, aber ich laße mich dadurch nicht von dem
+                    Hauptzweck für den ich jetzt lebe, ableiten, Baireuth ist zu gesellig, so daß
+                    recht viel Kraft dazu gehört um seine häuslichen Geschäfte nicht zu verabsaumen.
+                    Die <persName key="JP-003830">Gräfin Schönburg</persName> ist wieder hier, und
+                    besuchte uns heute morgen, sie frug wie alle Menschen recht viel nach Dir. Sie
+                    ist gar zu liebenswürdig und oft viel natürlicher als die <persName key="JP-004653">Welden</persName>. <anchor type="target" xml:id="start_rk3_zdf_mnb"/>Denke Dir, daß <persName key="JP-003087">Emanuel</persName> noch nicht beim <persName key="JP-999999">Vater</persName> gewesen ist. Ich war nach meiner Zurückunft dort, und
+                        <persName key="JP-003092">seine Frau</persName> bei mir aber nun gehe ich
+                    auch nicht eher hin als bis er zu uns gekommen.<anchor type="target" xml:id="stop_rk3_zdf_mnb"/>
+            </p>
+            <p>Lebe jetzt wohl mein Engel. Tausend Grüße vom <persName key="JP-999999">Vater</persName> und <persName key="JP-003471">Emma</persName>. Pflege,
+                    schone Dich, und mache Dir alle Freuden die Du wünschest. Machst Du Dir keinen Caffeé mit den
+                    Mädchen? Ich küße Dich tausend, tausendmal.</p>
+            <closer>
+               <signed>Deine Mutter.</signed>
+            </closer>
+            <postscript>
+               <p>Verspare Deine Neugier und mache die Rolle nicht auf, ehe Du sie bei <persName key="JP-012831">Düroufs</persName> siehst, man verdirbt die Kupferstiche so und
+                            <persName key="JP-001608">HerrnHeine</persName>darf es nicht eher
+                            sehen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

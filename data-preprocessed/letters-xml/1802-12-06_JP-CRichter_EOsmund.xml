@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0655">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter. Meiningen, 6. und 7. Dezember 1802, Montag und Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date from="1802-12-06" to="1802-12-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012520">Stimulantien</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>M. d. 6. Dez 1802.</dateline>
+            </opener>
+            <p>Mein guter Emanuel! Schmerzlich für mich verschob ich meinen Dank an Sie
+                    Das Lebens Unkraut ist endlich wieder verdort, das mich (ins Nez) verstrikte.
+                        Nämlich die Milchversezung meiner zwar nicht betlägerigen aber doch
+                    bedeutend-kranken <persName key="JP-003469">Frau</persName> ist geheilt – die
+                    Ehe kehrte mir ihre Winter-Seite zu – und ich konte da nicht, zumal mit Accompagnement,  schreiben, wozu
+                    noch der Abschlus des ganzen<bibl sameAs="JP-010897" subtype="werke-jp">Titans</bibl> (heute  gieng er nach <placeName key="JP-005586">Berl.</placeName>) mit
+                    seinen Nöthigungen u Schwächungen kam. Der 4<hi rendition="#u" hand="#author">te</hi> – 38 Bogen
+                    starke, Anhangslose – Band sol den Leser kaum Athem holen lassen u mich wieder
+                         zu Athem bringen. Wie haben wir beide Ihrer holden
+                    Gesinnung  gedankt, die bis auf den kleinsten Faden eine Perle an
+                    diesen reiht! Ihre Natur wird von mir – von meiner jezigen Schärfe – recht rein
+                    erkant, und mein Lob – das eines Vierzigers – wiegt etwas. Emanuel, Sie sind zu loben. Auch der gute heitere <persName key="JP-004367">Uhlfelder</persName> ists, dem ich für
+                    sein Portativ-Ulm recht danke, obs gleich nicht durch meinen Schlund p.p. reiset. Wer so erfreuet und erfreuend u. leicht aussieht
+                    wie <persName key="JP-004367">U.</persName>, ist ein
+                    guter Mensch; der schlimme sieht wolkig aus, neblig oder wie eine Nacht.</p>
+         </div>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>d 7 Dez</dateline>
+            </opener>
+            <p>Das <placeName key="JP-011034">Bier</placeName> ist herlich
+                    eingeschlagen. Ich wolte gerade das Abendbier holen lassen als die Fässer kamen
+                    u ichs daraus  erhob. Der Fuhrman foderte 3. rtl. über die bedungne
+                    Fracht von Ihnen; aber ich schenkte sie ihm gern wegen seiner Klagen.
+                        Vermuthlich lud er noch andere Fracht. – Der Tauftag wurde 3 Tage vor  der Taufe
+                    festgesezt; wie solt ichs da machen? Sie um die Freude des Mitfestes bringen? –
+                    Einige Süssigkeiten von Ihnen waren in eine für mich eingewickelt, in Programmen
+                    von <persName key="JP-002362">Langlois</persName>. Können Sie mir nicht unfrankiert ein Paquet davon zufertigen? Ich wil
+                        dem Sprachmeister eine Kammer in meinem komischen Roman bauen, oder eine Statuen-Nische, damit man ihn anbete. – <persName key="JP-003112">Otto</persName> wird doch meine bisherigen Antworten auf seine bisherigen Briefe
+                            erhalten haben. – Allerdings hatt er mir auch etwas durch d 3spänner zu schicken, das  dicke Paquet seiner alten Briefe an mich.</p>
+            <p>
+               <persName key="JP-002238">Assessor Krause</persName> war bei mir, es ist wenig von ihm zu sagen, u. er
+                    selber wuste noch weniger zu sagen. – Das Schöne hat <placeName key="JP-005649">Coburg</placeName> daß ich oft zu Fusse in 2 Tagreisen – die erste
+                    bis <placeName key="JP-006266">Schwarzach</placeName> – nach <placeName key="JP-005574">Bayreuth</placeName> kan. – Der
+                        <persName key="JP-001289">Herzog</persName> lies mir durch d Präsid. <persName key="JP-001603">Heim</persName> Vorstellungen
+                    gegen den Abzug thun. Die Leute hier fassens gar nicht, daß ich  mich hier nicht begraben lasse. Ich
+                    schiebe freilich alles aufs Bier u. s.
+                    w.; daß man hier fast dum ist, wil ich ungern sagen, weil ich nicht weis, ob es
+                    nicht einen u d andern beleidigt. –</p>
+            <p>Adio Guter! Noch einmal d <placeName key="JP-011034">Bier</placeName>-Dank! Jezt kan d Winter kommen, wie wohl doch der Schnee
+                    länger liegen bleiben wird als das Bier.</p>
+            <p>Gott gebe doch, daß <persName key="JP-003471">Emma</persName> so lange so engelschön bleibt  bis der Diphthong sie gesehen.</p>
+         </div>
+         <div hand="#JP-003469">
+            <p>Ich habe Ihnen viel von unserm <persName key="JP-003471">Kinde</persName> unseren
+                    jetzigen Verhältnissen zu sagen, bester Emanuel! von meiner Freude Ihnen nach
+                    sechs Monaten näher zu sein – von dem Wiedersehen was wir in <placeName key="JP-006266">Schwarzach</placeName> einst feiern werden, wenn wir uns
+                    einander entgegenreisen. Wie viele frohe Mittage sind durch diese Annäherung zu
+                    berechnen! In den schönsten Frühlingstagen reisen wir um 5 von <placeName key="JP-005649">Coburg</placeName>, Sie von <placeName key="JP-005574">Bayreuth</placeName> ab, und um 12 küßen Sie<persName key="JP-003471"> mein
+                        kleines Mädchen</persName> wiegend auf Ihren Armen. Ihre <persName key="JP-003471">Emma</persName> soll nicht blos eine Namensverwandte von
+                    Ihnen sein; in kleineren Formen wollen wir versuchen, in ihr einen Seelenabdruck
+                    der Ihrigen zu bilden. „Schreib ihm recht viel über’s Kind“, so erinnert mich
+                    eben <persName key="JP-999999">mein Mann</persName>, und er thut wohl, es aus
+                    dem Bett zu heben, worin es seit einer Stunde schreiend liegt, damit ich
+                    besonnen erzählen kann, wie streng und consequent wir es schon jetzt behandeln.
+                    Es ist ein Grundsatz bei uns, seines geerbten Tobens nicht zu achten; ich
+                    untersuche seine kleinen Bedürfnisse und sind diese befriedigt, so lege ich es
+                    auf sein Bettchen, worin es seit meiner Methode mit weit mehrerer Ruhe liegt,
+                    als vorher. Es fängt an unsere Stimmen, besonders die<persName key="JP-999999">
+                        meines Mannes</persName> zu verstehen, die ein geistiges Opium für sie ist.
+                    Ich gestehe, daß der Anblick<persName key="JP-003471">des schönen Kindes</persName> mich schwach macht, und
+                    ich bin im Begriff, es aufzunehmen und zu tragen; allein die Vorstellung der
+                    Zukunft siegt über die gegenwärtige Freude, und sie bleibt liegen, bis sie
+                    einschläft. Die Gesundheit und Kraft <persName key="JP-003471">des
+                        Kindes</persName> ist nicht zu übertreffen, und seine kleine Physiognomie
+                    ist geistig anmuthig und zart – sie gleicht durchaus <persName key="JP-999999">meinem Mann</persName> so wahr! – wo unter allen Aehnlichkeiten mich die
+                    der satirisch zugespitzten Oberlippe, und der zwei Grübchen in der Unterlippe,
+                    die Ihr Auge vielleicht noch nicht entdeckt hat, weil sogar das meinige erst an
+                    den Eigenschaften der <persName key="JP-003471">Copie</persName> die des
+                        <persName key="JP-999999">Originals</persName> kennen lernte, am meisten
+                    erfreuet. Meinen Augen und Händen entkömmt sie nie, <persName key="JP-003471">die Kleine</persName>, das Auge der Mutter ist immer voll sorgender
+                    Aufmerksamkeit, und so denke ich vielen Gefahren zuvor zu kommen. Ich trage sie
+                    in schönen Tagen selbst in die Luft, und kümmere mich um die Sitte nicht, die
+                    Kinder durch Mägde auf der Gasse leben zu lassen, wo die armen Würmer in
+                    schmutzige Mäntel gehuckt, krumme Beine davon holen.</p>
+            <closer>
+               <signed>Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

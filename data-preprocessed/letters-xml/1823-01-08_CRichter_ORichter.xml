@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0475">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 7. Januar 1823, Dienstag
+                    (?)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1823-01-07" notAfter="1823-01-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Lasse nur der <persName key="JP-003031">Auguste</persName>
+               <ref type="letter" target="JP-UB0475">meinen Brief</ref> lesen, es ist
+                    nothwendig daß sie meine Gründe ein wenig kennen lernt, vielleicht erwecken sie
+                    in ihr den Entschluß uns beizustehen. Und Du schwaches Kind die Du zu abhängig
+                    von ihnen bist, als daß Du Dich ihnen entgegensetzen kannst, hast darin eine
+                    Stütze für Dich. Hätte ich Dir doch nicht geschrieben
+                            daß Du <hi rendition="#u" hand="#author">nicht
+                                gezwungen</hi> wärest! Ich wollte Dich für
+                    eine Verlegenheit bewahren, die Dir vielleicht  eine quälende Angst eingeflößt hätte, und Du hast
+                    Dich <hi rendition="#u" hand="#author">zu sehr</hi> davon einnehmen
+                    laßen, ihnen nicht einmal  Deinen <hi rendition="#u" hand="#author">Wunsch des Mitreisens</hi>
+               <hi rendition="#uu" hand="#author">lebhaft</hi> auszudrücken! Der
+                        <persName key="JP-999999">Vater</persName> ist auch ganz bestürzt, er wird
+                    selbst an Herrn<persName key="JP-001608">Heine</persName>
+                    schreiben.</p>
+            <p>Was nach Abzug der Rahmen und <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0819/#start_bbs_11z_4mb">Deines Kleides</ref> noch an
+                    Gelde fehlt, werde ich nachschicken.</p>
+            <p>Gott weiß, durch welche Gelegenheit wir Dich werden kommen lassen! Mit dem jungen
+                        Mädchen wovon Du Schreibst
+                    wäre es schon recht, wenn eine <hi rendition="#u" hand="#author">dritte</hi> ältere Person dabei wäre. Dieser Wagen hätte mir 6 fl.
+                    gekostet. In jedem Fall bedinge ich mit dem guten Kutscher der vielleicht noch
+                    Jemand im  Januar
+                    fährt – Freitag kommt er zurück.</p>
+            <p>Tausend Grüße und Küsse von mir. Glaube nur nicht daß ich böse auch <hi rendition="#u" hand="#author">Dich</hi> bin. Gott erhalte Dich
+                    gesund!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1047">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Johann Wolfgang von Goethe. Weimar, 2. März 1806,
+                    Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+               <date when="1806-03-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001353">Johann Wolfgang von Goethe</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Ewr. HochfreyherrlicheExcellenz </salute>
+            </opener>
+            <p>bey meinem seit drey Wochen hier als Patient gemachten
+                            Aufenthalte unterthänig aufzuwarten ließ meine Kur nicht eher
+                    zu. Mit grösstem Schmerz muß ich hören, daß eine Ewr. HochfreyherrlicheExcellenz zugestossene neue Unpäßlichkeit mir
+                    auch noch zuletzt – da ich schon Dienstags frühe
+                            abreisen muß – das hohe Glück raubt, Hochdenenselben meinen unterthänigen Dank für den
+                    gnädigen Gruß – welchen <persName key="JP-002237">Herr Rath Krauß</persName>
+                    mir, meinen kleinen <bibl sameAs="JP-010022" subtype="werk">Wilibald</bibl>
+                    betreffend, überbracht hat – persönlich abstatten zu dürfen! Möge der Himmel HochfreyherrlicheExcellenz für <hi rendition="#u" hand="#author">jeden</hi>
+               <hi rendition="#u" hand="#author">edlen</hi>
+               <hi rendition="#u" hand="#author">Menschen so theure</hi> Gesundheit
+                    bald stärken, und mir einst in dieser Hinsicht einen andern, glücklichern
+                    Aufenthalt in <placeName key="JP-006395">Weimar</placeName> gewähren!!</p>
+            <closer>
+               <salute>Es empfiehlt sich in tiefer Verehrung zu Gnaden</salute>
+               <signed>Ewr. HochfreyherrlicherExcellenzunterthäniger Diener JEWagner. Hzgl. S.
+                        Kabinetssekretär.</signed>
+               <dateline>Weimar den 2<hi rendition="#uu" hand="#author">n</hi> März 1806.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

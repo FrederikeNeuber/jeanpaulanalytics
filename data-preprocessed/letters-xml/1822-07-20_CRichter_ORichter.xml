@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0716">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 20. Juli 1822, Sonnabend </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-07-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012494">Ernährung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireuth den 20<hi rendition="#uu" hand="#author">ten</hi>Juli 22.</dateline>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>Ob du gleich einen lebendigen Brief, eine Schwester, beinahe eine Mutter, in der
+                    lieben <persName key="JP-011864">Fanny</persName> erhaltst, so muß ich doch
+                    noch selbst an Dich schreiben. Möchte Alles was ich Dir schicke Dir recht sein.
+                    Ich kenne aber Deine Bedürfniße zu wenig, um sie ganz so zu  befriedigen als es vielleicht
+                    nothwendig ist aber ich hoffe, daß Du es mir freimütig sagst was Du weiter
+                    bedarfst. <persName key="JP-011864">Fanny</persName> soll Dich examiniren
+                    wie es mit den Kleidern und Mänteln ist, wenn ich darin etwas thun soll –
+                    ich gebe Dir mit Freuden alles was Dir nothwendig ist, aber ich mag nichts
+                    Uberflüßiges thun. Sei ja recht offen.</p>
+            <p>Da man hier keine besonderen Theebretter hat so überlasse ich Dir die Wahl des Geschenks
+                    für <persName key="JP-003031">Auguste</persName> – und
+                    einen 6 fl. nicht hinreichen will der gute <persName key="JP-999999">Vater</persName> das Übrige nachzahlen. <persName key="JP-011864">Fanny</persName> will Dir wählen und handeln helfen, sie ist so gut als
+                    klug. Ich beneide sie daß sie Dich ans Herz drücken soll – aber ich bin seelig
+                    wenn ich mir Deine Freude bei ihrem Wiedersehen denke.  Du erhältst
+                    wieder 1 Pfund
+                    Caffee und ½ Zucker. Da er feiner gemahlen ist als der vorige brauchst Du nicht
+                    eine so starke portion zu nehmen. Ich will aber daß Du
+                    ihn zu Deiner Ernährung, höchstens mit Deiner Stubennachbarin genießest, und nicht immer davon traktirst,
+                    sonst verfehlt meine Absicht ganz ihren Zweck. Mit 1 Pfund
+                    kannst Du über einen Monat auslangen wenn Du auch täglich welchen machst, Du
+                    brauchst jetzt von Diesem zu 3 oder 4 Tassen nur etwas über<hi rendition="#u" hand="#author">halb</hi> des kleinen Becherchen
+                    voll zu nehmen, das Du hast. Starker Kaffee ist weder gesund noch
+                        angenehm. Ich habe mir
+                    seit unsere Kaffeemühlen reparirt sich auch viel abgebrochen, da ich merke daß
+                    der Kaffee immer noch recht stark wird.</p>
+            <p>Kürzlich war eine Familie <hi rendition="#u" hand="#author">Reinbeck</hi> aus <placeName key="JP-006315">Stuttgardt</placeName> hier die dem <persName key="JP-999999">Vater</persName>bei seinem Aufenthalt dort sehr viel Vergnügen gemacht haben. Sie
+                    hatten ein <persName key="JP-012091">junges Mädchen "Hartmann"</persName> bei sich die von Dir so viel Gutes, durch  Vossens
+                    gehört hatte, sie logirten bei <persName key="JP-001672">Herders</persName> und der <persName key="JP-999999">Vater</persName> brachte den letzten Sontag Abend dort mit ihnen sehr froh, zu. Das junge Mädchen
+                    heißt <hi rendition="#u" hand="#author">
+                  <persName key="JP-012091">Mariette</persName>
+               </hi>. </p>
+            <p>Das Geld an <persName key="JP-001608">Heine</persName> gib ihm oder der <persName key="JP-003031">Auguste</persName> versiegelt, nebst vielen
+                    Empfehlungen mit dem Juli sind nun 4 Monat bezahlt –
+                    daß sie es nur merken. Wie gern wird dieses Geld gezahlt, da es so großen Lohn
+                    erkauft, Deine Gesundheit, und Dein gerader Wuchs. Ich habe <persName key="JP-011864">Fanny</persName> gebeten <persName key="JP-001608">HerrnHeine</persName>recht genau zu fragen, wie lange Du noch dort bleiben mußt. Jetzt
+                    kann er das schon wissen, aber ja keinen zu frühen Termin festzusetzen, denn ist einmal das ungeheure Opfer gebracht, so
+                    muss es auch vollendet werden. <persName key="JP-001608">Heine</persName> muß
+                    nach der strengsten Gerechtigkeit selbst an den <persName key="JP-999999">Vater</persName> schreiben, wenn Du länger als den October dort bleiben müßtest, und im Fall Du zurückesein dürftest ganz
+                    die  Art des Verhaltens vorschreiben das Du zu beobachten hast. Du
+                    weißt der <persName key="JP-999999">Vater</persName> ist veränderlich – heute
+                    wachte er einmal streng über Dich, daß Du nichts dem Körper schädliches thun und arbeiten dürftest.
+                    Ein andermal verlangte er Beschäftigungen von Dir die Dir schädlich sein
+                    könnten. Zu wie vielen Spannungen unter uns, könnte das Anlaß geben! Bedenke das
+                    wohl, als vernünftiges Wesen, und beeile aus Charaktergüte nicht Deine
+                    Zurückunft, ehe Du dazu reif bist. Ist es wahr, daß Du gesund und glüklich bist
+                    den harten körperlichen Zwang ausgenommen so kümmere Dich nicht, am wenigsten
+                    wegen des Geldes, denn was kann bei einer so bedeutenden Ausgabe, ein ¼ tel Jahr
+                    weniger oder mehr ausmachen! Es ist <hi rendition="#u" hand="#author">Gewinn</hi> beim <hi rendition="#u" hand="#author">Ausgeben</hi> in dieser Sache.</p>
+            <p>Nun meine Odilie! Lasse Dir alles recht wohl schmeken und behagen, was
+                    Du bekömmst, und schreibe es uns bald, und brauche anstatt des zu häufig
+                    vorkommenden Wortes <hi rendition="#u" hand="#author">„erschrecklich
+                        viel oder schön“</hi> in Deinen Briefen lieber <hi rendition="#u" hand="#author">unendlich viel</hi>, <hi rendition="#u" hand="#author">sehr</hi>, <hi rendition="#u" hand="#author">außerordentlich</hi>. Man kann sich leicht gewisse Ausdrücke
+                    angewöhnen. </p>
+            <closer>
+               <salute>Lebe wohl, geliebtes theures Kind!</salute>Deine treuste MutterLiebes Odilchen Du mußt ja zu <persName key="JP-004653">Frau von Welden</persName> am andern Morgen gehen, und
+                        ihr für die Mühe des Mitbringens recht sehr danken.</closer>
+            <postscript>
+               <p>Hebe ja die Schachteln alle sorgfältig
+                            auf. Schütte den Caffee behutsam aus der Blase, in deine
+                            Büchse.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

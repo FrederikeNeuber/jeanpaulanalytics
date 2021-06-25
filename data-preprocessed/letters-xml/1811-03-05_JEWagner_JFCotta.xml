@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1094">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Johann Friedrich Freiherr Cotta von Cottendorf.
+                    Meiningen, 5. März 1811, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-03-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000698">Johann Friedrich Freiherr Cotta von Cottendorf</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 5<hi rendition="#uu" hand="#author">n</hi> März 1811.</dateline>
+            </opener>
+            <p>Mein guter, verehrter Freund! Das MSC. zu meiner <bibl sameAs="JP-010017" subtype="werk">
+                  <hi rendition="#u" hand="#author">Isidora</hi>,
+                            <hi rendition="#u" hand="#author">ein Roman von E.
+                        W.</hi>
+               </bibl> nähert sich endlich dem Ende, und ich wage es nunmehro – im
+                    Vertrauen, daß mir Gott den März so gut gebe, wie den ganzen sehr glücklich
+                    überstandnen Winter – um Ihre<hi rendition="#u" hand="#author">erste</hi> Presse nach der OM. zu
+                    bitte. Denn vor den Ofeyertagen gedenke ich das MSC. noch abzusenden – circa ein gedrucktes
+                            Alphabet. – <hi rendition="#u" hand="#author">
+                  <bibl sameAs="JP-010018" subtype="werk">J. Nazareth</bibl>
+               </hi> ist auch
+                    sehr vorgerückt.</p>
+            <p>Nun bin ich zwar – wie mir jetzt mit Schrecken einfällt, da ich um Geld bitten
+                    will – noch mit ganzen 400 flrhn in Ihrer Schuld; aber –
+                    ich wage es <hi rendition="#u" hand="#author">doch</hi> – Sie sind so redlich gut – und, Gott wird schon sorgen!
+                    – <anchor type="target" xml:id="start_kmx_wcg_bpb"/>Wollen und können Sie mir noch dreyhundert Thaler anvertrauen!!!!<anchor type="target" xml:id="stop_kmx_wcg_bpb"/> ? Wollen Sie mir helfen, so bitt' ich
+                    baldmöglichst um einen Wechsel an Herrn Fregeet in <placeName key="JP-005948">Leipzig</placeName>. – Und so
+                    befehle ich meine Seele Gott und Ihnen, alter treuer bewährter Freund!</p>
+            <p>Anliegend kommen einige Probegedichte von <persName key="JP-003737">Schillers</persName> Schwager, Herrn <persName key="JP-012298">Hofrath
+                        Reinwald</persName> allhier. Passt etwas davon fürs <bibl sameAs="JP-010313" subtype="werk">Mbl.</bibl> so steh' es zu Befehl. Seine Absicht ist aber
+                    eigentlich eine Anfrage, ob Sie vielleicht ein Bändchen seiner Gedichte übernehmen
+                    wollten. Die Proben werden Ihnen gefallen. Den Mann
+                    kennen Sie selbst.</p>
+            <p>Wie lieb ist es mir, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1093/#start_swg_fw3_z4b">daß Sie
+                        nun, wie mir der treffliche <persName key="JP-004599">Wangenheim</persName>
+                        schreibt, auch der theuren
+                                    Stuttgarder Gesellschaft gegeben sind</ref>! Gehen Sie nur Ostern nicht vor <placeName key="JP-006012">Meiningen</placeName> vorüber, verehrtester Freund!</p>
+            <closer>
+               <salute>Ewig Ihr</salute>
+               <signed>treuer JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

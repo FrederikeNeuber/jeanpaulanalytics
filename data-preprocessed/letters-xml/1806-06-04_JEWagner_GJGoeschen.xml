@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1050">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen, 4. Juni 1806,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1806-06-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 4<hi rendition="#uu" hand="#author">n</hi> Jun. 1806.</dateline>
+            </opener>
+            <p>Hochverehrtester Freund! Nur mit zwey Worten will ich mich nach der Ursache
+                    erkundigen, warum ich bis jetzt <bibl sameAs="JP-010020" subtype="werk">die
+                        "Mahler"</bibl> noch nicht erhalten habe? Sollte
+                            der zweyte Band etwa nicht zur Messe fertig geworden seyn, so wäre dieß sehr niederschlagend für mich, da ich und
+                    meine Freunde hierauf, Ihrem gütigen Versprechen gemäß,
+                    so gewiß gerechnet hatten! Sey es, wie es ist – haben Sie nur die Freundschaft,
+                    mich mit umgehender Post deßhalb in zwey Zeilen zu vergewissern, und, <hi rendition="#u" hand="#author">wo</hi>
+               <hi rendition="#u" hand="#author">irgend</hi>
+               <hi rendition="#u" hand="#author">möglich</hi>, mir <ref type="letter" target="JP-UB1049">auf meinen letztern Brief</ref> eine
+                        <hi rendition="#u" hand="#author">gute</hi> Antwort
+                    baldgefälligst zu schenken. Ewig und unveränderlich</p>
+            <closer>
+               <signed>Ihrgetreuer JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0618">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 21.
+                    Dezember 1802, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-12-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012212">Liebesleben / Ehe</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 21tenDecembr.</dateline>
+               <salute>Mein geliebter Vater,</salute>
+            </opener>
+            <p>Ihren theuren Brief empfing ich an Ihrem glüklichen Tage, und ich war mit meiner ganzen Seele bei
+                    Ihnen – wie sehnte ich mich meine Gebete für Sie, und meinen Dank gegen das
+                    Schiksal an Ihrem Halse auszusprechen! – Gott erhalte Sie nun noch lange; die
+                    gütige Vorsehung gebe Ihnen so viel Jahre des Glüks, als Sie die Vergangenen mit
+                    Resignation auf so viele Lebensfreuden vor sich vorüberziehen laßen. Darum
+                    feiere ich diesen doppelten Abschnitt Ihres Lebens, den ein kommendes Jahr
+                    bildet mit größerer Rührung, u habe nie feierlicher meinen stummen Glükwunsch an
+                    Ihrem Halse mit einem Morgenkuß dargebracht, als den jezigen aus der Ferne.
+                    Könnten wir uns sehen, mein theuerer Vater, Sie würden lebhafter überzeugt
+                    werden, wie innig ich Ihr Glük begehre, als Worte Ihnen sagen können</p>
+            <p>Ihrer <persName key="JP-002709">Henriette</persName> sagen Sie meinen wärmsten
+                    Grus, und daß ich Sie als den Genius Ihrer künftigen Tage liebe.</p>
+            <p>Eine der angenehmsten Beschäftigungen, Ihnen ein kleines Produkt meiner Hand, als
+                    eine Erwekung Ihres Andenkens an mich, zu verfertigen, muste ich mir dismal
+                    versagen, weil <persName key="JP-003471">mein Kind</persName> fast unumschränkt
+                    meine Zeit gefangen nimmt. Verzeihung dafür, bester Vater! <persName key="JP-003471">Das liebe Wesen</persName> ist wohl, und wird täglich
+                    intereßanter – mir ist sie die Welt und Alles – <persName key="JP-999999">mein Mann</persName> grüßt Sie innig und Ihr zweites Selbst. Leben Sie wohl geliebter Vater, für Ihre Gesundheit bete ich
+                    – </p>
+            <closer>
+               <signed>Ihre ewig treue gehorsame Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0512">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Nürnberg, 10. September 1819, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-006085">Nürnberg</placeName>
+               <date when="1819-09-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012317">Musik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Nürnberg am 10 Sept. Abends.</dateline>
+               <salute>Theuerste Mutter!</salute>
+            </opener>
+            <p>Gerade sitze ich im <placeName key="JP-011582">Wirthhaus zum rothen
+                        Rößlein</placeName> und trinke mein Bier gemüthlich. Die Reise bis hieher
+                    ist bis auf einige Blasen am Fuß, die ich habe, sehr gut abgelaufen; obgleich
+                    der Weg ziemlich weit war. Jeder von uns hat bis jetzt 53 xr verzehrt. Von <placeName key="JP-006311">Streitberg</placeName> bis
+                        <placeName key="JP-011993">Baiersdorf</placeName> war der Weg so schlecht, daß wir bis Abends 8
+                    Uhr giengen, bis wir in <placeName key="JP-011993">Baiersd.</placeName> ankamen. Mein Bücksensack drückt mich ziemlich hart.
+                    Beständig dachte ich an Dich, gute Mutter, da Du so wahrhaft mütterlich für mich
+                    sorgtest.</p>
+            <p>Am 10ten Sept. (heute) überbrachte ich <anchor type="target" xml:id="start_xjn_z4s_fnb"/>HerrnBenda<anchor type="target" xml:id="stop_xjn_z4s_fnb"/> den Brief von <persName key="JP-003087">Osmund</persName> der rieth mir, auf eine
+                    Retour-Chaise nach <placeName key="JP-005548">Augsburg</placeName> zu warten, da 36 Poststunden hin sind. Schreibe mir nur etwas von dem guten u
+                    glücklichen <persName key="JP-999999">Vater</persName>, der gewiß schon recht
+                    bald zurückkehrt und addressiere Deine Briefe an Herr
+                                Benda in  <placeName key="JP-005548">Augsburg</placeName> an dem ich ein
+                        Einziehungsschreiben von <ref target="JP-UB0512/#ndyg_1qt_5mb">HerrnBenda</ref> in <placeName key="JP-005763">Fürth</placeName> mitbekommen habe. Vielleicht geht meine Reise auch nach
+                        <placeName key="JP-006230">Salzburg</placeName>, da
+                    der Weg  von <placeName key="JP-006040">München</placeName> über <placeName key="JP-005936">Landshut</placeName> so
+                    trocken u unbedeutend sein soll. In <placeName key="JP-005763">Fürth</placeName>
+                    genoß ich viel Vergnügen, da ich ein Instrument hörte welches in seiner Art
+                    einzig ist und vielleicht schöner als die himmlischen Töne oder Chöre des Herrn Koch. Es heißt Aeoloivum und ist eine
+                    neue Erfindung. Schreibe ja sehr bald, denn auf der Reise ist so Alles fremd. </p>
+            <p>Grüße <persName key="JP-003471">Emma</persName> (wenn sie hie ist) und <persName key="JP-003491">Odilie</persName>, vor allen aber schreibe von dem, was ich
+                    in der Eile hier in einem Wirthhause schreibe, nur Etwas schreibenswerth ist.
+                    Vielleicht steige  ich am Sonntag früh um
+                        8 Uhr in d. Postwagen u bin Montags um 10 Uhr in <placeName key="JP-005548">Augsburg</placeName>.</p>
+            <closer>
+               <salute>Leb wohl u gedenke mannigmal <hi rendition="#u" hand="#author">Deines</hi> immer an Dich sich erinnernden</salute>
+               <signed>Max Richter.</signed>
+            </closer>
+            <postscript>
+               <p>Gute Nacht! muß ich zu mir sagen, da ich sehrmüd bin. Künftig gewiß mehr. Ich
+                        werde sehr oft schreiben.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

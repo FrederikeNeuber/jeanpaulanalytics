@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0237">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emma Richter. Bayreuth, 9. März 1820, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-03-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012693">Personalien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Freitag den 9<hi rendition="#uu" hand="#author">ten</hi> März</dateline>
+            </opener>
+            <p>Deinen Brief, gute Emma, erhielten wir gestern, und er wurde mit
+                    Begierde erbrochen, weil wir sehr, sehr sehnlichst Nachricht von Dir wünschten.
+                    Wie freue ich mich, daß Du Dein Glück so ganz empfindest, und daß die herrlichen Frauen Dich gern
+                    länger bei Sich sehen wollen – mir war des Gegentheils bange, nun bin ich ganz
+                    beruhigt, und Du darfst bis Ende der andern Woche bei Ihnen bleiben. Dann aber
+                    fühlst Du selbst, daß Du zu <persName key="JP-999999">Vaters</persName> Geburtstag nicht fehlen darfst. Bis Donnerstag oder
+                            Freitag gebe ich Dir Frist, das ist das Äußerste, und ich
+                    überlasse es Dir, Dich von <placeName key="JP-005841">Hof</placeName> aus, oder sonst in der Gegend nach einer guten Gelegenheit umzusehen da Du
+                    alsdann Deine Gesellschaft nach Anstand wählen kannst – oder der  immer hin und herfahrende <persName key="JP-003703">Lohnkutscher
+                        Schatz</persName>, erhält von hier aus den Auftrag Dich mitzunehmen. Nur ist
+                    mir für die Gesellschaft bange. Wenn doch der gute <persName key="JP-012405">Fritz Reizenstein</persName>, dem Du für die persönliche Hinschaffung
+                    Deines grauen Kleides nicht genug danken kannst mit Dir zurück<hi rendition="#u" hand="#author">fahren</hi> möchte! Ist es auch einige Tage
+                    früher, so kürze lieber Deine Freude ab.</p>
+            <p>Berede nur die herrlichen Frauen zur Herreise im Frühling oder
+                    Sommer. Ich würde seelig sein, und Viele würden sich unendlich freuen. Grüße sie
+                    mit aller der Ehrfurcht, die ihr Werth dem Guten einflößen muß.</p>
+            <p>Der <persName key="JP-999999">Vater</persName> litt wieder ein wenig am Fuß – ein
+                    neues Blutgeschwür hatte sich angesetzt. Gestern war wir wieder  zu einem einsamen aber um so intereßantern Abend bei
+                        <persName key="JP-004656">Weldens</persName>. mit der <persName key="JP-003830">Gr. Schönburg</persName> und <persName key="JP-000861">Düben</persName>, und Strauß. mein Interesse für
+                    Letztere ist noch immer dasselbe, und wird von der armen <persName key="JP-003884">Schuckmann</persName> Anhänglichkeit
+                    für sie noch mehr angefacht. Eine entschiedene schöne Eigenschaft ist bei ihr
+                    der Mangel an jeglicher Art von Koketterie.</p>
+            <p>
+               <persName key="JP-003108">Amöne</persName> verfolgt mich mit
+                    Freundschaftsbezeigungen – sie läßt Dich sehr grüßen <persName key="JP-004103">Emma Spatzier</persName> hat mein
+                                    Lieblingslied
+                            geschickt, es ist zwar sehr einfach, aber
+                    mich zieht es an. Doch ich schicke Dir Alles. – </p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0178/#start_jdw_jld_j4b">Schreibe ja an <persName key="JP-004659">Luise Welden</persName>.</ref> Du
+                    betrachtest sie aus dem wichtigsten Gesichstpunkt – Du kannst nichts Edleres
+                    finden als sie. Hatte ich über <persName key="JP-004660">Marie</persName> nicht
+                    immer Recht?</p>
+            <p>
+               <persName key="JP-003491">Odilie</persName> ist mit ihrer Weste bald fertig. –
+                    Sie ist außerordentlich geschmackvoll und wird dem <persName key="JP-999999">Vater</persName> sehr viel Vergnügen machen. Ich habe bis dahin noch <persName key="JP-002847">Mollento</persName>’s Unterricht aufgeschoben, da diese anhaltende Arbeit den Lerneifer
+                    unterbrochen hätte.</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0178/#start_gxn_fld_j4b">
+                  <persName key="JP-003490">Max</persName> hat noch immer nicht
+                        geschrieben ob er das Packet erhalten hat oder nicht</ref> – doch hoffen wir
+                    morgen auf Nachricht. Ich wurde durch seinen letzten Brief sehr angegriffen – er ist jetzt auf einen Punkt der GefühlsReife, den ich
+                    immer mit Sehnsucht bei ihm erwartet habe. Der Himmel wird ihn segnen. – –</p>
+            <p>Lebe wohl gute liebe Emma! schreibe noch einmal, und gleich. Alles liebt Dich und
+                    frägt nach Dir. Verdiene das allgemeine Wohlwollen durch festes Streben nach dem Besseren.</p>
+            <p>Ich wünsche nicht daß Du meine flüchtigen Worte mitteilst</p>
+            <p>Gott segne mein Kind!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

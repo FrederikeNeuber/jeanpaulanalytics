@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0199">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Heidelberg, 17. Dezember 1816,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1816-12-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg d. 17.Dec. 1816.</dateline>
+               <salute>Beste Frau Legations-Räthin.</salute>
+            </opener>
+            <p>Die freundlichen Grüße und die frohe Nachricht des Planes, nach <placeName key="JP-005819">Heidelberg</placeName> zu kommen,
+                        die mir gestern <persName key="JP-004520">Prof.
+                                    Voss</persName> von Ihnen und Ihren
+                                <persName key="JP-999999">Herrn Gemal</persName>
+                            überbrachte,
+                    haben mich zu sehr erfreut, um es Ihnen nicht selbst, durch einige Zeilen
+                    auszudrücken, denen ich zum Spas, ein kleines <placeName key="JP-005819">Heidelberg</placeName> als entgegenkommendes Bewillkommungs-Compliment, beyfüge. Sie
+                            werden doch gewiß Ihren <persName key="JP-999999">Herrn Gemal</persName>
+                            hierher begleiten, ich hoffe es zuverläßig und bin
+                    überzeugt, daß es Ihnen gewiß beyderseits hier gefallen wird, und wer nicht gern
+                    seine Zeit an der Förmlichkeit des gesellschaftlichen Zusammenkommens, verliert,
+                    dem muß  es hier sehr behaglich vorkommen; man könnte sagen, daß hier
+                    nicht, wie an so vielen andern Orten, die Gesellschaft ein geschloßenes Ganzes ausmacht; Jedes steht hier,
+                    für sich allein und geht um, mit denen die ihm conveniren, ohne durch das Auswählen, anzustoßen. Die vielen Fremden, die
+                    immer auf einige Zeit hierherkommen und nur in einseitige Verbindungen treten,
+                    veranlaßen wahrscheinlich diesen sehr bequemen Ton, welcher verhindert, daß, so
+                    zu sagen, aus der hiesigen Gesellschaft,  ein stehendes Waßer
+                    werden kann, wo sich gleich auf der ganzen Oberfläche, alles abspiegeln muß; ich
+                    eile Ihnen, der Wahrheit gemäß, dies zu sagen, da es einen Einfluß auf den
+                    Gedanken der Reise  nach <placeName key="JP-005819">Heidelberg</placeName>, vortheilhaft für diesen
+                    Ort, haben kann; und wenn Ihr <persName key="JP-999999">Herr Gemal</persName>,
+                    beym Festhalten dieses Reiseplans, manchmal denkt, daß auch Freunde, deren er
+                    doch gewiß hier viele zählen kann, oft Zeit-Räuber werden, so sagen Sie ihm ja, daß man zu sehr wünschen
+                    würde, daß er es nicht bereue, einen Besuch in <placeName key="JP-005819">Heidelberg</placeName> gemacht zu haben, um nicht,
+                    aus wahren Eigennutz; sich nur von seiner Zeit, nach seinem Gefallen, geben zu
+                    laßen, an Statt darnach zu greifen.</p>
+            <p>Wenn ich gleich, so Gott will, auch wieder während der Osterferien, eine Reise
+                    mit <persName key="JP-000949">meinen Sohn</persName>, zu machen gedenke, so
+                    hoffe ich doch daß Ihre Anwesenheit in <placeName key="JP-005819">Heidelberg</placeName>, weder so frühzeitig in der
+                    Jahreszeit,   noch so kurz seyn würde, daß ich durch jene Reise, um
+                    eine Freude käme, deren Möglichkeit, schon so lange als ich hier bin, mich
+                    ergötzt hat.</p>
+            <p>Zu Michael haben wir wieder eine sehr intereßante Reise
+                    gemacht; durch das <placeName key="JP-012437">Münsterthal</placeName>, nach
+                        <placeName key="JP-006056">Neufchatel</placeName>
+                    und <placeName key="JP-006427">Yverdun</placeName>, wo
+                    wir die Bekanntschaft des so guten <persName key="JP-003192">Pestalozzi</persName>, mit wahren Vergnügen machten, dann giengen
+                    wir über <placeName key="JP-005945">Lausanne</placeName> und <placeName key="JP-005775">Genf</placeName> nach <placeName key="JP-005639">Chamouny</placeName>, deßen Schönheiten unsere Erwartungen noch übertrafen,
+                    dann nach <placeName key="JP-005985">Lyon</placeName>
+                    und von da auf der <placeName key="JP-006192">Rhône</placeName>, nach <placeName key="JP-012281">Avignon</placeName>, von wo aus, wir <placeName key="JP-011805">Vaucluse</placeName>
+                    besuchten. (dieser Brief-Bogen, ist aus der dortigen Papiermühle, also mit den
+                    Waßer der so besungenen, schönen Quelle, verfertiget.) Dann
+                    giengen wir nach <placeName key="JP-006006">Marseille</placeName>, wo der
+                    Anblick des <placeName key="JP-012246">Mittländischen Meeres</placeName>,
+                    uns unaussprechlich erfreute, wir brachten einen ganzen   Tag auf
+                    demselben zu und sahen den
+                    herrlichsten Sonnenuntergang im Meere, vom <placeName key="JP-012994">Chateau d'If</placeName> aus; nach
+                    dreytägigen Aufenthalt, in den schönen <placeName key="JP-006006">Marseille</placeName>, giengen wir nach <placeName key="JP-006348">Toulon</placeName> und von
+                    da nach <placeName key="JP-012332">Hyères</placeName>, wo das südliche Clima, am aller angenehmsten ist,
+                    dort stehen die Orangen-Bäume Sommer und Winter im Freyen; in den einen Garten
+                    daselbst, stehen deren 18. Tausend, und die heurige Erndte derselben, war für
+                    30. Tausend Francs verpachtet, also welch eine Fülle!
+                    es ist gar nicht auszusprechen, wie anmuthig es dort ist und wie wohlthätig,
+                    diese Milde der Luft, für den Körper. Von da gingen wir nach <placeName key="JP-011788">Nismes</placeName>, wo uns die
+                    Römischen Alterthümer anzogen, deren imposanter und
+                    schöner Anblick, uns sehr erfreute. aber es
+                        empörte uns auch dort, die schändliche Bedrückung der Protestanten, unter dem jetzigen Gouvernement. Ueber <placeName key="JP-005985">Lyon</placeName> und <placeName key="JP-006310">Strasburg</placeName> kamen   wir nach 7. wöchentlicher Abwesenheit, den 6.
+                            Nov. wieder zurück, äußerst vergnügt,
+                    über die, Gott sey Dank, so glücklich vollendete, schöne Reise, von der ich mich
+                    freue, Ihnen noch recht viel mündlich zu erzählen; um ja alles in der Erinnerung
+                    recht fest zu halten, habe ich mir auf 90. Seiten
+                            Tagebuch während der Reise, alles aufbewahrt; <persName key="JP-000949">mein Sohn</persName> hielt auch eins für sich und machte
+                    noch dazu ein Paar dutzend Zeichnungen nach der Natur, also daß, wenn wir gleich
+                    nicht viel Zeit zu der Reise hatten, wir doch die schönen Erinnerungen, mit
+                    denen uns dieselbe so bereicherte, um so viel weniger verlieren können. Doch ich
+                    werde gewahr, daß das Vergnügen, mich in der Unterhaltung mit Ihnen,  einmal zu befinden,
+                    meinem Brief, eine Ausdehnung gegeben hat, die seinem Hauptzweck fremd ist;
+                    allenfalls dadurch nicht, daß ich Ihnen so gern bezeige, wie angenehm mir das
+                    Bewußtseyn Ihrer   Theilnahme ist. <persName key="JP-000949">Mein
+                        Sohn</persName> empfielt sich Ihnen, aufs Angelegentlichste, so wie wir
+                    Beyde, uns Ihrem <persName key="JP-999999">Herrn Gemal</persName>; auch er freut
+                    sich herzlich über Ihre beyderseitige zu hoffende Ankunft. <persName key="JP-003483">Ihre lieben Kinder</persName>, die hoffentlich doch auch von
+                    der Reise seyn werden, umarme ich in Gedanken; und verbleibe mit den Gesinnungen
+                    der herzlichsten Ergebenheit und Werthschätzung</p>
+            <closer>
+               <salute>ganz die Ihrige</salute>
+               <signed>Frfr. von Ende geb. vonGlobig.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

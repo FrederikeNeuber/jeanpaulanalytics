@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0448">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Elisa von der Recke an Caroline Richter. Dresden, 20. November 1825, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003370">Elisa von der Recke</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1825-11-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012032">Dresdner Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Dresden den 20sten Nov. 1825</dateline>
+            </opener>
+            <p>Tief – tief fühle ich Ihren Verlust, und den unsrigen, edle Frau! – Ach! ich
+                    ahnete ihn schon da, als ich <persName key="JP-999999">den theuren
+                        Seligen</persName> zum letzen mahl an Ihrer Seite sah! und dennoch gehören
+                    die zwey Stunden seiner seelenvollen Unterhaltung, zu den schönsten meines
+                    Leben! Denn jedes Worth, welches der Erhabene da sprach, zeugte von einen
+                    Geiste, der die Schlacken dieser Erde schon von sich geworfen hatte! – O! welche
+                    seligen Erinnerungen, muß Ihre schöne, zart und tief fühlende Seele aus dem
+                    Umgange unsers geliebten Heimgegangenen, in sich aufgenommen haben! – Diese nur
+                    können Ihre Tröster, Liebe Theure! werden.</p>
+            <p>Ich würde mich sehr freuen, wenn Sie edle Freundin, mir sagen könnten, daß
+                        <persName key="JP-999999">der geliebte Seelige</persName>, noch den Brief <persName key="JP-003164">meiner Nichte
+                                Hohenzollern</persName> erhalten habe; wann nicht, so ist dies mir eine
+                    Beruhigung, daß Sie, Theure! aus dem Briefe <persName key="JP-003164">meiner
+                        Nichte</persName>, ihren Wunsch ersehn werden, des
+                            theuren Seeligen  Ansuchen., möglichst zu befödern. <ref type="contextLetter" subtype="document" target="4-VIII_22-k">Für Sie, lase
+                        ich hier auf die andere Seite meines Briefes, das abschreiben, was <persName key="JP-003164">meine Nichte</persName> mir über diesen Gegenstand
+                        schrieb</ref>. Mit heutiger Post mache ich <persName key="JP-003164">meiner Nichte</persName>
+                    unsern Verlust bekannt; und schreibe ihr, daß – da unser <persName key="JP-999999">Jean Paul</persName>, nun über alle Leiden und Freuden
+                    dieser Erde erhaben sey, <persName key="JP-002785">Metternich</persName> um so
+                    mehr, den Dank des teutschen Publickums verdienen würde, wenn er unsers Jean
+                    Pauls Wittwe und <persName key="JP-003484">Waisen</persName>, durch Erfüllung
+                    der Bitte, des Theuren, der zum neuen
+                    Leben hinüber geschlummert ist, den Beweis geben würde, daß <hi rendition="#u" hand="#author">auch er</hi> vom Verdienste unsers Seligen durch
+                    drungen sey.</p>
+            <p>Ich adresiere den Brief an <persName key="JP-003164">meine
+                                Nichte</persName> nach<placeName key="JP-005850">Holstein</placeName>; und haben Sie Theure, <persName key="JP-003164">der Hohenzollern</persName> noch nicht umsern allerseitigen
+                    Verlust bekannt gemacht, so schreiben Sie
+                            ihr diesen; und bitten Sie <persName key="JP-003164">meine Nichte</persName>, daß sie sich nun,  bey <persName key="JP-002785">Fürst
+                        Metternich</persName>, für Jean Pauls Wittwe und <persName key="JP-003484">Waisen</persName> verwenden möge. Diesen Ihren Brief adressieren Sie, – poste
+                        restante, nach<placeName key="JP-006405">Wien</placeName>. – Ich werde <persName key="JP-003164">meiner Nichte</persName> schreiben, – daß, fals sie noch
+                    nicht durch Sie die Nachricht vom Heimgange unsers Freundes erhalten habe, sie
+                    in <placeName key="JP-006405">Wien</placeName>, Ihren Brief vorfinden würde.</p>
+            <p> Verzeyhen Sie, edle Frau, meiner Theilname die Frage: – haben Sie dem <persName key="JP-002531">Könige von
+                                Baiern</persName> Ihren Verlust, mit der Bitte bekannt gemacht, daß
+                            seine Huld Ihnen grosmüthig die Pension Ihres verstorbenen Gatten
+                            zusichern möge?
+                    Freilich hat der edle <persName key="JP-002531">König Ludwig</persName> so viele
+                    Schulden seines gutmüthigen, schändlich mißbrauchten <persName key="JP-002694">Königlichen Vaters</persName> vorgefunden, daß der jetzige <persName key="JP-002531">König</persName> sich in das schmerzhafte Verhältniß
+                    versetzt sieht Pensionen einzuziehn; doch glaube ich – daß – fals Sie noch nicht
+                    diese Bitte an den König gewagt haben, Sie keinen Augenblick versäumen dürfen, ihm diese Bitte, bey
+                    Bekanntmachung des Todes <persName key="JP-999999">Ihres Gatten</persName>, an
+                    das Herz zu legen.</p>
+            <p>
+               <persName key="JP-004311">Freund Tiedge</persName> ist tief von unserm Verlust
+                    durch drungen, doch ist es ihm eine wehmüthige Beruhigung, daß der Theure, – nun
+                    Seelige! den Brief erhalten hatte, den <persName key="JP-004311">Tiedge</persName> schrieb, weil ich da sehr krank war. Erst
+                    seit 4 Tagen ist mein körperlicher Zustand minder leident.</p>
+            <closer>
+               <salute>Gott erfülle meine Wünsche für Sie, dann wird es Ihnen, liebe Theure, an
+                        keinem wahren Lebensglücke fehlen. Mit der innigsten Hochachtung, Ihre Sie
+                        treu liebende</salute>
+               <signed>Elisa von der Recke</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

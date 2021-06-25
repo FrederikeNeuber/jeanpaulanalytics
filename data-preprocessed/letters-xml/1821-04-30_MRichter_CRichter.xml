@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1010">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Heidelberg, Ende April 1821</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date notBefore="1821-04-17" notAfter="1821-05-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Geliebte Mutter!</salute>
+            </opener>
+            <p>Wenn Du noch, Innigstgeliebte, einen Blick auf mich werfen willst und an mich
+                    denken, so bin ich dann etwas froher, um mich an Deinem himmlischen Herzen zu
+                    laben. Aufrichtigkeit soll Dir geschenkt sein, aber wenn Du  irgend mir Belehrung oder Warnung geben
+                    willst, so ist es das, was mich noch trösten kann. Jetzt höre – – Wie Überreden
+                    jeden Menschen  zu
+                    verfehlten Tritten oft führen kann, so bin ich dießmal der schwache gewesen. Der
+                        <persName key="JP-003944">Kirchenrath Schwarz</persName> erlaubte seinen 2
+                            Zöglingen mit seinem ältesten
+                            Sohne
+                    einmal das Theater in <placeName key="JP-005994">Mannheim</placeName> zu sehen
+                    oder | am Montag | – <bibl sameAs="JP-009814" subtype="werk">die Vestalinn</bibl>.
+                    Mein Freund <persName key="JP-002481">Lozbeck</persName> sollte auch mit, der aber wieder mich beredete u so
+                    – verwandte ich einen ganzen Tag, um mit ihnen u Andern <placeName key="JP-006274">Schwezingen</placeName> u jenes zu besuchen. Mitternacht
+                    kamen wir nach Hause u die erste Frage bei meinen Hausleuten war, ob kein Brief
+                    von Euch gekommen wäre. – Nein. Ich ging ruhig zu Bette. Am Morgen, jetzt elen bekomme ich einen <ref type="letter" target="JP-UB0383">Brief von Dir</ref>, Geliebte, der mich tief
+                    erschütterte, wegen meiner vorhergehenden ungeheuren Fehler und – dieses
+                    gestrigen Tages. Ich weinte um, wenn ich es noch
+                            verdiente, an den <persName key="JP-999999">Vater</persName> zu
+                            schreiben, der mein Gewissen foltert; Jetzt eben komme ich von <persName key="JP-004520">Voss</persName> zurück und
+                    erfahre, daß der <persName key="JP-999999">Vater</persName> im Mai reisen würde. Diesen Monat fodert die
+                    Jahreszeit mit dem himmlischen Wetter. Wie mir angst auf seine  Ankunft, zugleich auf sein Sprechen ist, kann ich  Dir nicht beschreiben, Geliebte. Ich
+                    glaube auf einmal, dieses ganze Jahr von vorne anfangen zu müssen mit den besten
+                    Vorsätzen, damit ich wenigstens nicht schlechter würde. Stimme ihn recht mild,
+                    wenigstens für mich, und mache ihn darauf aufmerksam, daß er nicht einen Sohn
+                    findet, sondern auch jemand in dieser Gegend, der ihn <hi rendition="#u" hand="#author">mit</hi>liebt; daß er aber wieder jenen findet,
+                    der auf der Universität zum <hi rendition="#u" hand="#author">erstenmal</hi> lebt und also nicht allein für sich, sondern mit am meisten
+                    für jene. Soll ich auf einen Aufenthaltort bei dieser Reise denken, so wähle ich
+                    nur Heidelberg. <placeName key="JP-005994">Mannheim</placeName> ist es nicht werth; Sternbergs sind
+                    schon längst nach <placeName key="JP-005892">Karlsruhe</placeName> abgereist,
+                    das Theater schlecht seit dem Abgang jener, und die Menschen richten sich nach
+                    diesem, in Heidelb. nach der <placeName key="JP-011378">Universität</placeName>. Über <placeName key="JP-005892">Karlsruhe</placeName> ist nur <hi rendition="#u" hand="#author">eine</hi> Stimme; kein Heidelberger wünscht sich dahin; Hier aber wünschen
+                    viele noch Vieles mit ihm zu sprechen, so <persName key="JP-003168">Paulus</persName>, der mich einst fragte,  warum  er sich mit ihm nicht
+                    über Theologie besonders unterhalten hätte. Mir wird es die größte Wonne sein,
+                    wenn ich ihn mit allen Gelehrten hier sprechen höre, deren verschiedenartiges
+                    Urtheil in Hauptpunkten ich so ziemlich kenne. Wenn in <placeName key="JP-005607">Bonn</placeName> sich die Regierung
+                    darein legt, einen Jubel unter Studenten zu untergraben, so wird diese sonst entlegene <placeName key="JP-011378">Universität</placeName> Alles aufbieten, um die geistige u
+                    lebendige Bibliothek eines solchen Mannes, wie die des <persName key="JP-001909">Jacobi</persName>, zu genießen. Hier
+                    findest Du (in Heid.) auch <persName key="JP-000760">de Wette</persName>. Wie soll für ein
+                    Quartier hier gesorgt werden? In einem Gasthaus?</p>
+         </div>
+      </body>
+   </text>
+</TEI>

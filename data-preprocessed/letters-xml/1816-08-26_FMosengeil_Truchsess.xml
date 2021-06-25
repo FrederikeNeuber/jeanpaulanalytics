@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1126">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Mosengeil an Christian Freiherr Truchsess von Wetzhausen.
+                    Altenstein, 26. August 1816, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002882">Friedrich Mosengeil</persName>
+               <placeName key="JP-005522">Altenstein bei Liebenstein</placeName>
+               <date when="1816-08-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012430">Religion</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Altenstein, d. 26. Aug. 1816.</dateline>
+            </opener>
+            <p>
+               <placeName key="JP-005591">Auf der schönen Burg</placeName> meines edlen Ritters,
+                    der so gastfrei, und eben darum selten Gast-frei ist, mag's wohl schon eher
+                    vorgekommen seyn, daß alte und neue Gäste sich einander auf der Schwelle
+                    begegneten. Man hat in solchen Fällen sein Gesicht nicht immer in seiner Gewalt,
+                    und murmelt vielleicht, wenn es klopft, in den Bart: "ach, schon wieder ein
+                    Besuch!" Da tritt aber manchmal ein alter treuer Freund herein, nach dem wir uns
+                    schon lange gesehnt haben. Wie heitern sich dann plötzlich die Mienen auf! Wie
+                    eilt man ihm entgegen! Wie bittet man ihn in Gedanken um Verzeihung, weil man
+                    nicht so ganz freundlich "herein!" gerufen; und wie labt man sich nun mit ihm, –
+                    reich entschädigt für die Langeweile, die seine Vorgänger uns mitbrachten! –</p>
+            <p>Ein solcher lieber Gast war mir Ihr Brief, der gerade eines
+                    Morgens anlangte, wo ich schon mehrere mich langweilende erbrochen hatte. Noch
+                    einmal heiße ich ihn herzlich willkommen, und eile nun sogleich zur
+                    Beantwortung.</p>
+            <p>Von unseres <persName key="JP-004556">Wagner's</persName>unvollendet gebliebenem Werk hat mein
+                    Gedächtniß, außer dem wohlthätigen Eindruck, den das Ganze bei mir
+                    zurückgelassen, im Einzelnen nur wenig aufbewahrt. Mein Urtheil ist daher jetzt,
+                    sobald hievon die Rede seyn soll, wo nicht das des Blinden von der Farbe, doch
+                    wenigstens des Kurzsichtigen von der Ferne. Doch selbst bei einem so
+                    beschränkten Urtheile finde ich die Schwierigkeiten, die unsern <hi rendition="#u" hand="#author">
+                  <persName key="JP-004520">Voß</persName>
+               </hi> bisher von der übernommenen Bearbeitung und
+                    Ergänzung des Fragmentes zurückgeschreckt haben, erheblich genug, ja kaum zu
+                    beseitigen.</p>
+            <p>
+               <persName key="JP-004556">Der verewigte Dichter</persName> hatte wohl das rechte
+                        <hi rendition="#u" hand="#author">Herz</hi>, den Evangelisten da
+                    Leben Jesu nachzuerzählen, aber an manchen Vorkenntnissen fehlte es ihm, dem
+                    Nichttheologen, allerdings; insofern nämlich eine befriedigende Vereinigung der
+                    heiligen vier Erzählungen von des Herrn Leben und Sterben ohne Kritik und
+                    Sprachstudium nicht füglich unternommen werden kann. Wer aber <hi rendition="#u" hand="#author">nach</hi>
+               <persName key="JP-004556">Wagner</persName>
+               <bibl sameAs="JP-010018" subtype="werk">das Werk</bibl> zu bearbeiten und zu
+                    vollenden übernähme, der machte sich anheischig, alles Mißverstandene zu
+                    berichtigen, die sämmtlichen vorliegenden Anmerkungen
+                            sachverständiger Männer zu beachten, und außer
+                    denselben noch gar manche andre, die in den exegetischen Werken neuerer
+                    Schriftsteller zerstreut sind. Das führte in ein weites Feld, und man möchte
+                    dabei wohl fragen: was bliebe noch von <hi rendition="#u" hand="#author">
+                  <persName key="JP-004556">Wagners</persName>
+               </hi> Arbeit
+                    übrig?</p>
+            <p>Von dieser Seite betrachtet, würde ich also kein Bedenken tragen, den Druck der,
+                    auf solche Weise umgearbeiteten Schrift zu widerrathen. Was aber möchte wohl
+                    hindern, das Bruchstück <hi rendition="#u" hand="#author">ganz in
+                        seiner jetzigen Gestalt</hi>
+               <persName key="JP-004556">Wagners</persName> vielen Freunden als ein letztes
+                    Andenken aus gutem treuen Herzen darzureichen? Die undankbare Rolle eines
+                    Zwischenredners aufgebend, übernähme <persName key="JP-004520">Voß</persName>
+                    die des Vorredners. Er gäbe die kurze Geschichte des Werkleins und suchte
+                    überhaupt den Leser in den rechten Gesichtspunkt zu stellen, welcher kein andrer
+                    ist, als der des Glaubens und der Liebe. Warlich! auch dieser <hi rendition="#u" hand="#author">Jesus</hi> von Nazareth würde Herzen egwinnen und
+                    erwärmen! <persName key="JP-004556">Wagner</persName>s Publikum ist groß; sein
+                        <bibl sameAs="JP-010018" subtype="werk">"Jesus"</bibl> wird in demselben gar
+                    viele Leser finden, welche die Evangelien nur von ferne kennen. – Wer vermöchte
+                    die frommen Gefühle zu zählen und zu wägen sich erdreisten, sie durch eine
+                    solche Schrift entzündet, als heilige Opferflamme des gottgeweihten Herzens
+                    vielleicht nimmer wieder verlöschen? Die Geschichte des größten Leidenden, den
+                    die Welt kennt, von einem ausgezeichneten Schriftsteller, der selbst ein armer
+                    leidender Mann war, unter vielen stillen Thränen erzählt (deß bin ich Zeuge!) –
+                    von einem Manne erzählt, der zwar niemals die gelehrte Schriftforschung zu
+                    seinem Studium gemacht, sich niemals im Gewirre theologischer Systeme und
+                    Hypothesen befangen hatte, aber eben darum "aufhob heilige Hände ohne Furcht und
+                    Zweifel" – und dessen müdes Leben früher zu Ende ging, als seine Erzählung: –
+                    wie rührend und erwecklich ist das! Wer könnte wohl den letzten, unvollendet
+                    gebliebenen Satz des ehrwürdigen Bruchstückes ohne nasse Augen anblicken? und
+                    wie Mancher würde es nur darum aus der Hand legen, um in den heiligen Urkunden
+                    selbst weiter zu lesen.</p>
+            <p>Daß <persName key="JP-004556">Wagner</persName> die Bekanntmachung seiner letzten
+                    Arbeit nicht wünschte, ist eben so sehr in der Ordnung, als daß <hi rendition="#u" hand="#author">wir</hi> sie wünschen. Die Gründe,
+                    die uns bewegen, an ihre Nutzbarkeit zu glauben, <hi rendition="#u" hand="#author">konnten</hi> die seinigen nicht seyn, denn er
+                    mußte sie nur allein im Werke selber, unabhängig von seiner Persönlichkeit
+                    suchen: wir hingegen dürfen gerade <hi rendition="#u" hand="#author">diese</hi> vorzüglich mit in Anschlag bringen. Die gelehrte Kritik, die
+                    jenes letzte rührende Andenken unseres hart geprüften Freunde auf eine lieblose
+                    Weise herabzuwürdigen wagte, müßte sich ja zu Tode schämen!</p>
+            <p>Dieß, Theuerster, ist meine Ansicht und Meinung. Mögen nun <hi rendition="#u" hand="#author">Sie</hi>, <persName key="JP-999999">Jean
+                        Paul</persName>, <persName key="JP-004520">Voß</persName>, – vielleicht auch
+                    Ihr trefflicher <persName key="JP-003532">Rochlitz</persName>, dem man die
+                    Handschrift mittheilen müßte, und der unter uns Allen wohl am unbefangensten
+                    darüber urtheilen könnte, – entscheiden.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

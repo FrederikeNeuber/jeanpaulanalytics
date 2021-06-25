@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0784">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Carl August Böttiger. Leipzig, 23. August 1809,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1809-08-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000400">Carl August Böttiger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig 23<hi rendition="#u" hand="#author">ter</hi> August 809</dateline>
+            </opener>
+            <p>Die Impertinität mit welcher ich fortfahre Ew. Wohlgeb. mit meinen Briefen zu
+                    beschweren, dürfte schwerlich auf Ihre Verzeihung und Nachsicht rechnen können –
+                    wenn Ihre besondre Gewogenheit gegen Herrn <persName key="JP-000501">Brockhaus</persName>, mich, die ich gegenwärtig <ref target="JP-UB0552/#nvyl_shk_flb">in seinen Angelegenheiten
+                    thätig</ref>, und gleichsam bey Ew. Wohlgebohren, seine Sache führend, nicht
+                    gewißermaßen Theil haben ließe, an der Gesinnung mit welcher Sie diesen wackern
+                    und thätigen Mann zu unterscheiden gewohnt sind. </p>
+            <p>Ich habe neben meinem mir von mir selbst aufgelegten Berufe, Ew. Wohlgeb. in
+                    gegenwärtigem Briefe für die Mittheilung des Kupferstichs aus dem <bibl sameAs="JP-012406" subtype="werk">Museo pio Clementino</bibl> zu danken – noch den Auftrag aus <placeName key="JP-005528">Amsterdam</placeName>, anzufragen ob dieselben Ihre vielfache Begünstigung
+                    der neuen <bibl sameAs="JP-010375" subtype="werk">Urania</bibl>noch durch die Gefälligkeit krönen möchte: eine Art Kommentar, der darin enthaltenen, in Absicht der Auswahl, von
+                            Ihnen genehmigten Kupfer, zu liefern? – Ew. Wohlgebohren frühere Äußerungen gegen den <persName key="JP-000501">Verleger</persName> sowohl als gegen mich, gaben die schmeichelhaftesten Hoffnungen zur Erfüllung dieser unschäzbaren
+                    Gunstbezeugung Raum – und ich glaube um so fester daran, da <persName key="JP-011903">Hartmann</persName> und <persName key="JP-002286">Kügelchen</persName>  so wie die hier beschäftigt gewesenen chalkographischen Künstler
+                        sämmtlich des Glücks sich rühmen dürfen von Ew. Wohlgeb. gewürdigt
+                    und mit zarter Vorliebe beachtet zu werden.</p>
+            <p>Ich habe <persName key="JP-011903">Herrn Hartmann</persName> ersucht, mit
+                    Ew. Wohlgeb. über das nähere
+                    meine Bitte betreffend, noch besonders  zu reden. Wenn ich es wagen darf, von der
+                    Kürze der noch übrigen Zeit zu reden, und auf die Nothwendigkeit eines nicht
+                    allzulangen Aufschubs
+                    aufmerksam zu machen – so werde Ew. Wohlgeb. gewiß die Nachsicht für mich haben, den Grund dieser etwas
+                    bestürmenden Zudringlichkeit – nicht in Mangel von Delikateße – sondern in der
+                    Schnelligkeit und Eilfertigkeit zu suchen, womit das ganze Unternehmen <hi rendition="#u" hand="#author">für dieses Jahr</hi> gegründet
+                    wurde. –</p>
+            <closer>
+               <salute>Ich habe die Ehre mit der aller vollkommensten Hochachtung zu verharren </salute>
+               <signed>Ew. Wohlgeb. ganz ergebenste Spazier  geb. Mayer.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

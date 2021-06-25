@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1106">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Voß an Christian Freiherr Truchseß von Wetzhausen. Heidelberg,
+                    28. August 1811, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004516">Ernestine Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1811-08-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012494">Ernährung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg den 28 August. 1811.</dateline>
+            </opener>
+            <p>Vorgestern um halb drey sind wir gesund und froh
+                            heimgekehrt. An der Pforte empfing uns <persName key="JP-004520">unser Heinrich</persName> mit ofnen Armen, auch gesund und
+                    froh! und nach wenigen Minuten waren wir schon mitten im Gespräch über unsern
+                    herlichen Bettenburger. ich konnte es nicht aushalten <persName key="JP-004524">den Vater</persName> allein reden zu lassen, ich muste thun was die Weiber
+                    gerne thun. Was er gesagt und gethan, und wie er uns gepflegt, und uns in allen
+                    Eken bey sich, das Gefühl des Eigenthums gegeben hatte. In welchen Grade uns
+                    wohl bey Ihnen geworden, daß fühlen Sie selbst besser als ich es Ihnen sagen
+                    kann. Wie wohlthätig wird noch lange, daß Nachgefühl bey uns sein! Wenn wir
+                    selbst einmal fühlen daß wir recht artig gewesen sind, so wollen wir uns selbst
+                    die Belohnung geben, nach der <placeName key="JP-005591">Bettenburg</placeName>
+                    zu reisen. Die erste Nachricht von uns hat Ihnen der
+                            Liebe Herr
+                            Amtmann gebracht. Der machte
+                    uns den kurzen Auffenthalt in <placeName key="JP-006270">Schweinfurt</placeName>
+                    so angenehm als möglich, führte uns zu seiner reifen
+                            Mutter
+                    und Schwestern, und zeigte uns so viel von der Schönheit der
+                    Gegend als sich in der kurzen Zeit thun ließ. Die langweilen Gespräche an der
+                    Wihrttafel wolten uns gar nicht behagen. Wir tranken eure Gesundheit, und wusten
+                    bestimmt daß auch die unsre Getrunken ward. Der Wihrt im Raben gab uns für 25
+                        Fl einen
+                    herlichen Wagen, herliche Pferde, und einen auserlesnen Kutscher!  es
+                    gieng immer rasch, und stets mit gehöriger Vorsicht. Bis <placeName key="JP-006422">Würzburg</placeName> waren wir sehr still, wir hatten noch
+                    zu lebhaft das Gefühl das alles in der Welt ein Ende hat! Um sechs saßen wir
+                    schon im Schwann, und
+                    schwazten uns heiter in unsern Stübchen, welches die schöne Aussicht uber den
+                        <placeName key="JP-005989">Mayn</placeName> hat, wo sich so viel lebendiges
+                    regt. <persName key="JP-004524">Voß</persName> rauchte sein Pfeifchen. Die Sonne
+                    gieng uns aber nicht so schön unter, wie hinter der Strohhütte, auf der Spitze
+                    des Berges! Im kleinen Zimmer mochten wir nicht essen, da musten wir bis neun warten wo die Gesellschaft speißt. Hier fanden wir den <persName key="JP-013420">Major
+                            Moser</persName>, der sich angelegentlich nach Ihnen erkundigte.
+                    Sein Plaz am Tische war dem unsern fern, und wir fühlten auch daß keine
+                    Wahlverwandtschaft zwischen uns statt habe. Zu <persName key="JP-004524">Voß</persName> seiner Rechten saß ein ehrenvester Holländer, der stumm sein Mahl verzehrte, bis ihn endlich die noch nicht süßen Trauben in eine Art von Begeistrung brachten,
+                    in die er uns auch zu versetzen wünschte, welches ihn aber nicht gelang. Zu
+                    meiner linken saßen drey Studenten die viel dumme Späße machten. Halb eilf
+                    legten wir uns zu Bette, <persName key="JP-004524">Voß</persName> schlief gleich
+                    ein, meine Absicht war seinem Beyspiel zu folgen, aber dicht neben uns wohnte
+                    ein Reisender, der noch viel Lerm machte, singend gieng er zu Bette, und als er
+                    eingeschlafen war, fieng er an laut zu reden. Um sechs fuhren wir weiter. Es war
+                    ein herlicher Morgen. Von Ihrem
+                         den
+                    ich mir bey der <persName key="JP-013470">Klara</persName> ausgebeten, hatte ich mir selbst gemacht. In <placeName key="JP-013309">Bischofsheim</placeName> wurden die Rebhüner zum
+                    Frühstück herbey geholt. <persName key="JP-004524">Voß</persName> verzehrte ein
+                    ganzes und sagte mit einer Art von Begeistrung: So ein Rebhuhn thut doch eine
+                    gewaltige Wirkung. <hi rendition="#u" hand="#author">Wir klingten
+                        herzhaft an auf euer Wohl!</hi>
+               <persName key="JP-013205">Der herliche Bruder</persName> in Bundorg lebt bey uns immer
+                    mit den Ritter zugleich! Die Flasche Wein, die nicht schlecht war machte uns
+                    recht beredt. Die ganzen zehn glücklichen Tage haben wir wieder durchlebt! Ein
+                    ganz leidliches Mittagsmahl hielten wir in einem Dorfe. Mein halbes Feldhuhn
+                    ward ausgeschlagen. Gegen sieben erreichten wir in <placeName key="JP-013333">Schepflenz</placeName> das Posthaus, welches uns gleich
+                    nicht so ganz leidlich erschien. Der Herr
+                            Postmeister der zugleich Beker war, nahm die Briefe in Empfang, während er
+                    die Semmel und Prezel im heißen Ofen schob. Wir aßen unten eine sehr trockne
+                    Forelle, und sahen einen im BackOfen ausgetrockneten jungen Hahn, darauf an ob
+                    er sich essen ließ, es schien uns aber zu bedenklich. Doch ward mein Feldhuhn
+                    wieder ausgeschlagen, und <persName key="JP-004524">Voß</persName> hatte so viel
+                    Respeckt für sein großes Brodt, daß er trockne Semmel aß. Eine Flasche Seltzer
+                    Wasser zum Wein genossen wir mit großen Danck. Um halb zehn giengen wir unser
+                    Schlafstübchen, das Getümmel im Hause und auf der Gasse kündigte uns aber vorher
+                    an, daß wir nicht schlafen würden. <persName key="JP-004524">Voß</persName>
+                    bekam ein großes Bette, ich einen in ein Bett verwandelten Lehnstuhl, der sich dem  Auge
+                    darstellte als ob mitten darüber ein Galgen erbaut wäre. Durch diesen Galgen
+                    kroch ich auf meinen Ruhetrohn. Wie die Menschen allmählich still wurden, fingen
+                    die Hunde an zu bellen, und nach Mitternacht klopfte eine Staffette das Haus
+                    wieder wach! Doch sezten wir uns hinter im Wagen weil wir dem eignen Hause nahe
+                    waren. Unser Kutscher theilte unsre Sehnsucht zu Hause zu kommen, und fütterte
+                    um zehn Uhr Hafer ohne auszuspannen. Da ward auch mein Feldhuhn verzehrt und
+                    dabey angeklingt wie sichs versteht. Wie wohl wir uns jzt fühlen, davon ließ
+                    sich noch viel sagen, aber es geht noch halb wie im Rausch mit dem reden wie mit
+                    dem Handeln. Da werden Besuche angenommen, und gegeben, dann dazwischen alles
+                    Reise Geräht in Ordnung gebracht, und in Haus und Garten geprüft ob alles in
+                    guten Wohlstandt erhalten ist. Da giebt es denn auch zu unsrer Freude nichts,
+                    daß wir anders wünschten, als ein Kirschbaum der verdorrt ist. <persName key="JP-004524">Voß</persName> wolte auch noch einige Zeilen schreiben, aber
+                    er ist hingegangen daß neu gebohrne
+                            Töchterlein zu begrüßen. Den herzlichsten Danck von uns beyden
+                    für alles Liebe und Freundliche, was Sie uns wissend, und unwissend gethan, von
+                    den lezten bin ich in Versuchung Ihnen noch einmal ein Register zu senden. Gott
+                    vergelte es durch dauernde Gesundheit. Die Herzlichsten Grüße <persName key="JP-013205">den Lieben Bruder</persName>, und den lieben Schulers wenn sie noch da sind, dem Herrn Amtmannund allen Hausgenossen. Wie gerne hörte ich
+                        mich noch ZwillingsSchwester und <persName key="JP-004520">Heinrichs</persName> Mutter nennen! E.V.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

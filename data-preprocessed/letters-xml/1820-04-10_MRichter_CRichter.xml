@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0820">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. München, 10. April 1820, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1820-04-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>München am 10 April Abends um ½ 9
+                        Uhr.</dateline>
+               <salute>Theuerste Mutter!</salute>
+            </opener>
+            <p>Du wirst Dich wundern, daß ich oben so ausführlich die Zeit hersetze, in welcher
+                    ich dieß schreib. Aber höre: <anchor type="target" xml:id="start_m51_kgs_fnb"/>Mein sehnlichster Wunsch ist vor kurzem erfüllt worden und auf die schönste
+                    Art. <persName key="JP-003716">
+                  <hi rendition="#u" hand="#unknown">Schelling</hi>
+               </persName> gab und verherrlichte mir 2 volle Stunden von
+                    6‒8 Uhr<anchor type="target" xml:id="stop_m51_kgs_fnb"/>. Die Unterhaltung
+                    kümmert <hi rendition="#u" hand="#author">Dich</hi> weniger, als
+                    folgende Bitte. Mein bester <persName key="JP-999999">Vater</persName> soll unmöglich so spät kommen, als sein Brief es
+                            aussagt; <anchor type="target" xml:id="start_ucs_ngs_fnb"/>er soll in 14
+                            Tagen kommen d.h. vor dem 25 April schon da sein<anchor type="target" xml:id="stop_ucs_ngs_fnb"/>.Sein <bibl sameAs="JP-010605" subtype="werke-jp">Werk</bibl> kann hier vollendet werden und die Natur, die ich  gerne für den
+                    wichtigsten Punkt seiner Abreise halte, mag ihn dießmal nicht abschrecken. Er
+                    soll <hi rendition="#u" hand="#unknown">den größten Mann, <persName key="JP-003716">Schelling</persName>
+               </hi>
+                    sprechen, der mitbittet. Ach treibe ihn an und mache ihm jedes Hinderniß leicht;
+                    es ist ja schön Wetter und noch schöneres in ihm, wenn er solchen Männern
+                    entgegensieht. 
+                    Die Stube und Alles soll schon in größter Bequemlichkeit da sein. Kurz, alles
+                    Äußere kümmre ihn wenig; nur allein die Seele eines Solchen. O! wüßtest Du,
+                    geliebte Mutter, was ich in diesen 2 Stunden war und wie ich es  noch sein werde, wenn
+                    ich alle Tage zu ihm komme, wie er mir erlaubte, um nur seinen Umgang noch recht
+                    zu genießen. Ich war so herzlich mit ihm, als ich es je mit dem <persName key="JP-999999">Vater</persName> sein kann; ich weiß nicht, wie das kam und
+                    das kalte Bild eines tiefen Forschers war durch eine heitere Unterhaltung und
+                    höchst lehrreiche verdrängt.</p>
+            <p> O Mutter, Du fühlst nicht, was der Jüngling einem Manne in <hi rendition="#u" hand="#author">einer</hi> Stunde verdanken kann,
+                    und wenn nur das Beispiel. Zu Hause, ach! ich weiß es leider, wußte ich weder
+                    Dich noch meinen herrlichen <persName key="JP-999999">Vater</persName> zu
+                    schätzen und ich kann es jetzt  noch nicht recht, doch der wilde Mensch hat auch eine Ahnung vom Göttlichen. Gute <persName key="JP-003484">Schwestern</persName>! Auch euch ermahne ich Euch, bittet den<persName key="JP-999999">Vater</persName> nur darum auch seines Genusses wegen
+                    und ehrt und verehrt und achtet ihn, denn ihr müßt ihn erst fassen; und meine
+                    Liebe sei mit Eurer gegen den besten Menschen vereinigt. Tausend Dank für Euer aller Brief; <anchor type="target" xml:id="start_jnt_hgs_fnb"/>an den <persName key="JP-999999">Vater</persName> kann ich nicht schreiben: ich wüßte
+                            auch nicht was; etwa das Gespräch mit <persName key="JP-003716">Schelling</persName>? So etwas ist lächerlich. Mein jetziges
+                    Schweigen soll ihm ein desto größeres Ausströmen meiner Gefühle sein<anchor type="target" xml:id="stop_jnt_hgs_fnb"/>. Dieß wünscht Euer Max, dieß
+                    wünscht <persName key="JP-003716">Schelling</persName>, dieß wünscht auch Du
+                    gute Mutler, Du beste u ihr <persName key="JP-003484">Schwestern</persName>. Denkt an Euren Max u die erste
+                    Antwort gehe <hi rendition="#u" hand="#author">gleich am
+                        Freitag</hi> von Eurer Seite ab. Thut es u antwortet gleich. Dieß erwartet
+                    Euer</p>
+            <closer>
+               <signed>Max</signed>
+            </closer>
+            <postscript>
+               <p>Grüße an <persName key="JP-003087">Emanuel</persName>, <persName key="JP-003112">Otto</persName> u <persName key="JP-004520">Voss</persName>!</p>
+               <p>
+                  <hi rendition="#u" hand="#author">
+                     <persName key="JP-003716">Schelling</persName>
+                  </hi> reist am 25 April mit seiner ganzen Familie nach <placeName key="JP-006315">Stuttgardt</placeName>.
+                        In großer Eile.</p>
+               <p>Es sind hier herrliche Tage.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

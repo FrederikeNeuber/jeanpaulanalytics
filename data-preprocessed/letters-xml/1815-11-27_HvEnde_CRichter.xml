@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0412">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Heidelberg, 27. November 1815,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1815-11-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011807">Jean Paul-Verehrung</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg den 27.sten Nov.
+                        1815.</dateline>
+               <salute>Verehrteste Frau Legationsräthin!</salute>
+            </opener>
+            <p>Ihnen nun wieder einmal zu schreiben, ist ein Vergnügen, welches ich durch das in
+                    Ihrer lieben Antwort auf meinem Brief, ertheilte Recht
+                    dazu, als ein wahres Fest genieße. Gleich hätte ich Ihnen wiederschreiben mögen,
+                    wenn nicht der eigennützige Gedanke mich zurückgehalten hätte, so, sicherer in
+                    Ihrem Andenken empfohlen bleiben zu können, als wenn ich mich in den Schein
+                    einer zudringlichen Correspondentin wagte, denn wenn Jedes, welches das längst
+                    ersehnte Vergnügen genoßen, den lieben <persName key="JP-999999">Jean Paul</persName> kennen zu lernen und durch
+                    Ihre Bekanntschaft, jenes Vergnügen, mit neuem Reiz vermehrt zu sehen, Sie nun
+                    sogleich auch mit einem Briefwechsel behelligte; wie unausstehlich müßte dies für Sie werden,
+                    wie ungünstig den neuen Bekannten! also suchte ich meinen Vortheil beßer zu
+                    verwahren, indem ich mir vornahm, die mir so gütig in Ihrem Brief angedeutete
+                    Erlaubnis, nicht zu misbrauchen, jedoch dann und wann Sie an dieselbe zu
+                    erinnern. Ich möchte gar zu gern wieder einmal ein Wörtchen an mich, von Ihnen
+                        ver- nehmen und hören, wie es Ihnen beyderseits und <persName key="JP-003483">Ihren lieben Kindern</persName> geht; ich hoffe daß Sie mir
+                    so gute Nachrichten zu ertheilen haben werden, als ich es wünsche und als ich
+                    von <persName key="JP-000949">meinen Sohn</persName> und mir, Ihrer
+                    wohlwollenden Theilnahme, Gott Lob, geben kann. Die Vorzüge und Freuden, in <placeName key="JP-005819">Heidelberg</placeName>
+                    einheimisch zu seyn, ließen wir auch mehrere Male, mit denen abwechseln, die
+                    eigentlich auch dazu gehören, mit intereßanten Reisen, welche die Lage <placeName key="JP-005819">Heidelbergs</placeName>, in
+                    den Ferienzeiten zu machen verstattet; zu Ostern waren wir in der <placeName key="JP-006271">Schweiz</placeName>, durch das herrlichste Frühlingswetter
+                    begünstigt, und zu Michael in <placeName key="JP-005847">Holland</placeName>; beyde Reisen haben uns mit höchst angenehmen, obgleich
+                    ganz verschiedenen Erinnerungen bereichert, unter denen jedoch bey mir, die
+                    Freude das Meer gesehen zu haben, auf welchen wir von <placeName key="JP-012625">Schevelingen</placeName> aus,
+                    sogar eine Spazierfarth machten, überwiegend bleibt; die <placeName key="JP-005518">Alpen</placeName>, der <placeName key="JP-005776">Genfer-See</placeName> und so vieles in der <placeName key="JP-006271">Schweiz</placeName>, ist entzückend schön, aber höhere, umfaßendere Freude,
+                    machte mir das Meer; ich möchte Ihnen stundenlang davon erzählen, wenn wir uns
+                    sähen, aber schriftlich wäre es lächerlich von mir, Ihnen und den lieben <persName key="JP-999999">Jean Paul</persName>, im Fall
+                    er einen Blick  auf meinen Brief würfe, anzubieten, was Ihr
+                    beyderseitiger Sinn, gewiß schon beßer besitzt, als meine Feder ausdrücken
+                        würde. In <placeName key="JP-005528">Amsterdam</placeName> blieben wir acht Tage; der
+                    mit Schiffen so vieler Nationen besetzte Hafen, machte uns viel Freude, wir
+                    besuchten ein Griechisches Schiff und wenige Wochen zuvor, war auch ein
+                    chinesisches da gewesen; wir waren auch in <placeName key="JP-012800">Nordholland</placeName>, um das berühmte <placeName key="JP-011868">Broeck</placeName> zu sehen, auf den Weg
+                    dahin, fanden wir an denen den Häusern zunächst stehenden Bäumen, die Stämme
+                    weiß angestrichen; die Uebertreibung der Reinlichkeit findet es nöthig dadurch
+                    die Natur zu corrigiren,
+                    dieser Anblick ist äußerst comisch. Nachdem wir die
+                    meisten bedeutenden Städte <placeName key="JP-005847">Hollands</placeName> besucht hatten, nahmen wir unsern Rückweg
+                    über <placeName key="JP-011992">Antwerpen</placeName>, <placeName key="JP-005625">Brüssel</placeName>, <placeName key="JP-011939">Lüttich</placeName>, <placeName key="JP-012634">Mastricht</placeName> und kamen
+                    nach einer fünfwöchentlichen Abwesenheit, glücklich wieder in <placeName key="JP-005819">Heidelberg</placeName> an.
+                         <persName key="JP-000949">Mein Sohn</persName> empfielt sich Ihnen beyden
+                    angelegentlichst.</p>
+            <p>Ehe ich diesen Brief schließe, befragte ich für denselben den vortrefflichen <persName key="JP-003944">Schwarz</persName>, um einen
+                    Auftrag; er versichert Sie seiner Hochachtung, grüßt herzlich Ihren <persName key="JP-999999">Herrn Gemal</persName>, läßt ihm sagen, wie sehr er sich
+                    sehnte, wieder einmal etwas von ihm zu hören, ferner, daß er ihm  seine Vorrede zur zweyten Ausgabe der <bibl sameAs="JP-011995" subtype="werk">Rudolphischen
+                                Erziehungsgemälde</bibl>
+                    gern geschickt, wenn eine andere Gelegenheit als die Post, sich dazu gefunden
+                    hätte und daß er noch vor wenig Tagen, details über
+                    eine Somnambule, welche diesen
+                    Sommer in <placeName key="JP-006406">Wisbaden</placeName> war, und worüber er
+                    die Belege in den Händen gehabt, erhalten, welche die Ansichten des lieben <persName key="JP-999999">Jean Paul</persName> vom Magnetismus (die
+                    ich auch mit inniger Freude las) sehr bestätigen, und endlich daß das <persName key="JP-003949">Pathchen Caroline</persName> sich wohl
+                    befände und das lebhafteste und gescheuteste <persName key="JP-012789">seiner Kinder</persName> wäre; <persName key="JP-003483">die
+                        Ihrigen</persName> umarme ich in Gedanken und hätte nun auch noch an Ihren
+                        <persName key="JP-999999">Herr Gemal</persName> Empfehlungen von mir
+                    beyzufügen, wenn mir dieses Wort, nicht so unbedeutend vorkäme, wenn es die
+                    Gesinnungen gelten soll, welche die Freude <persName key="JP-999999">Jean Paul</persName> zu kennen und gar zu gern in
+                    guten Andenken bey ihm bleiben zu wollen, ausdrücken soll. Daß die Hoffnung Sie allerseits in <placeName key="JP-005819">Heidelberg</placeName> zu sehen, nicht erfüllt werden
+                    konnte, ist eine große Lücke für den Cirkel aller derer, die es so lebhaft
+                    fühlen, wie schön es wäre, Sie hier zu besitzen. Hätten
+                    Sie doch manchmal Zeit, mich mit einem Brief zu erfreuen! zwey eigentlich nicht
+                    zu einander gehörenden Gefühle, Stolz und herzliche Zuneigung, erregen und
+                    unterhalten lebhaft bey mir diesen Wunsch.</p>
+            <closer>mitinniger Ergebenheit<signed>die Ihrige Henriette B v.
+                                Ende geborene v Globig.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

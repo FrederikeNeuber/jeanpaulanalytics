@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0178">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Odilie und Caroline Richter. Konradsreuth, zwischen 1.
+                    und 8. März 1820</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <date notBefore="1820-03-01" notAfter="1820-03-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012317">Musik</term>
+               <term xml:id="JP-012033">Textilien</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#author">
+            <p>Geliebter verehrterDiez! Kaum
+                    kann ich meinen Dank und mein Erstaunen überDeinen charmanten Briefsagen.Mein kleiner Wischverdiente einen solchen Brief nicht.</p>
+            <p> Die Guitarre vermisse
+                    ich hier etwas, aber vergessen habe ich noch nichts davon, daß kannst Du Hrn.
+                        <persName key="JP-012540">Götz</persName> zum Trost  sagen. Den Kindern lehre
+                    ich einige Klavierstückchen, und die Tasten wißen sie jetzt schon alle.</p>
+            <p/>
+            <p> Hat die <persName key="JP-003469">Mutter</persName> wol von der Mousseline rau die ich ihr geschikt, Zeug gekauft,
+                    und sind neue Vorhänge in der großen Stube? Fritz
+                            R. den ich fragte, wußte nichts
+                    davon.</p>
+            <p>Du glaubst nicht, werther Diez, wie unterthänig Reitzenstein hier gegen mich ist. Er nennt
+                    mich nicht wie sonst Emma, sondern gnädiges Fräulein, und macht tausend
+                    Diener.</p>
+            <p>Grüße <persName key="JP-011864">Fanny</persName> recht herzlich, und <anchor type="target" xml:id="start_jdw_jld_j4b"/>sage daß ich an <persName key="JP-004659">Luisen</persName> schriebe<anchor type="target" xml:id="stop_jdw_jld_j4b"/> und da ich sie für Eins hielt, es unnöthig
+                    fände, an dieses Eins zwei Briefe zu schreiben.</p>
+            <p>
+               <persName key="JP-012363">Thienette</persName> wollte mich malen, ich weiß nicht
+                    ob sie es noch thut. Sage der <persName key="JP-003469">Mutter</persName> daß
+                    sie F. Giech recht herzlich von mir grüßt, und thue Du daßelbe bei den andern
+                    Mädchen.</p>
+            <p>Wie schön weißt Du die Sehnsucht nach der Vorleserin unter das Vorlesen zu
+                    verstecken!</p>
+            <closer>Deine Äbbä.</closer>
+         </div>
+         <div hand="#author">
+            <p>
+               <anchor type="target" xml:id="start_gxn_fld_j4b"/>Es ist mir
+                    unbegreiflich daß <persName key="JP-003490">Max</persName> noch nicht das Paket
+                    bekommen hat, wenn es nur nicht ganz verloren ist.<anchor type="target" xml:id="stop_gxn_fld_j4b"/>
+            </p>
+            <p>Hat der <persName key="JP-999999">Vater</persName> noch oft bei dem Prinzen gegeßen?</p>
+            <p>
+               <anchor type="target" xml:id="start_nbn_pld_j4b"/>Was schreibt denn <persName key="JP-002709">die Großmutter</persName> und Emma?<anchor type="target" xml:id="stop_nbn_pld_j4b"/>
+            </p>
+            <p>Hier erzählt man viel von der Schubärt.Muts ist todtkrank. Es wäre eigen, wenn
+                    auch dem Himmel eine Verbindung nicht gefiele, die den Menschen so sehr
+                    mißfällt, und er sie durch den Tod trennen wollte. <persName key="JP-012405">Fritz Reitzenstein</persName> ging heute nach <placeName key="JP-006180">Losau</placeName>. Der Unbedeutendste kann einen wichtig werden, wenn er
+                    aus einer lieben Gegend kömmt. Gestern war ich ganz toll vor Freude wie er kam,
+                    und Alles was er von <placeName key="JP-005574">Baireut</placeName> wußte, mußte
+                    er mir erzählen.</p>
+            <p>Hier ist Alles verschneit, und kaum durchzukommen, ist das in <placeName key="JP-005574">Baireut</placeName> auch so?</p>
+            <p>Grüße <persName key="JP-003121">Otto’s</persName> und <persName key="JP-003089">Emanuels</persName> recht recht herzlich, und der  kleinen <persName key="JP-003095">Therese</persName> einen recht liebenden Kuß.</p>
+            <p>Dem guten lieben <persName key="JP-999999">Vater</persName> viele Küsse und
+                    Grüße, er wird es vergeben daß ich nicht an ihn geschrieben, aber es ist all ja
+                    einerlei ob ich an Dich oder dem <persName key="JP-999999">Vater</persName>
+                    meine Briefe richte.</p>
+            <closer>
+               <salute>Lebe recht wol geliebte theuere Mutter, und habe Dank für <ref type="letter" target="JP-UB0064">Deinen Brief</ref>, und wenn es möglich
+                        ist erfreue mich durch einen zweiten </salute>
+               <signed>Emma.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

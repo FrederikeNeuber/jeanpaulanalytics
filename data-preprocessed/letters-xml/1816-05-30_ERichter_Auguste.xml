@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0285">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Auguste Richter. Bayreuth, 30. Mai 1816,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1816-05-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003523">Auguste Ritter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bayreuth, 30. Mai 1816.</dateline>
+            </opener>
+            <p>Heute muß ich mich doch endlich einmal als Sieben- oder vielmehr Zwölf-Schläferin
+                    aufrichten und fragen, wo Du lebst? ob wie ich, als eine vermauerte Kröte, die
+                    nicht herauskann, oder als fliegender Schmetterling, der auf jeder Blume sich
+                    niederläßt und ihre Schönheit bewundert. Ich meinestheils bewundere nur die
+                    Schönheit der Zeichnung meines Marmorgesteins, und bin damit zufrieden,
+                    vielleicht bohre ich mir aber ein Löchelchen und blinzle hindurch. Ich wollte Du
+                    machtest auch einmal einige Sprünge wieder hierher und sähest den glatten Marmor
+                    an: bei einem Wäldchen erblicktest Du dann den <placeName key="JP-006023">Maiernberg</placeName>, weiter unten die Stadt, in derselben die <placeName key="JP-011049">Friedrichstraße</placeName>, wo <persName key="JP-003873">Marie</persName> und ich zum Fenster heraussehen, "Willkommen" sagend. Zwei
+                    kleine Vögel (<persName key="JP-012515">Luise</persName> und <persName key="JP-003491">Odilie</persName>) wären schon lange vorher
+                    heruntergeflattert, ehe die Alten nachgehumpelt kämen, nemlich <persName key="JP-003873">Marie</persName> und eine gewisse Emma, welche sich unter
+                    dem Schreiben in einen Papagei verwandelt hat, da dieser immer dummes Zeug
+                    spricht, ich aber schreibe.</p>
+            <p>Ich küsse Dich herzlich und denke mich mit Dir und <persName key="JP-003873">Marie</persName> in ein Nachtigallenwäldchen, und wir erzählen uns selber
+                    ausgesonnene Geschichtchen und können unser Danaidenfaß der Freundschaft auch
+                    mit dem besten Heber nicht ausschöpfen und damit Punktum! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

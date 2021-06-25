@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Georg Ludwig Friedrich Wilhelm Graf zu Münster. Bayreuth, 22. März 1826, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1826-03-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002930">Georg Ludwig Friedrich Wilhelm Graf von Münster</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011952">Weiterer Bayreuther Kreis</term>
+               <term xml:id="JP-012104">Amtskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Höchstgeehrter Herr Graf!</salute>
+            </opener>
+            <p>Zwar könnte ich die Frage die ich eben an Ew. Hochgebohren zu thun im Begriff bin
+                    durch die Vermittlung der gütigen <persName key="JP-004656">Weldenschen
+                        Familie</persName> mündlich an Sie gelangen lassen, allein meine
+                    Lebhaftigkeit erlaubte mir diese Frist nicht, und so verzeihen Sie gütigst diese
+                    schriftliche Störung.</p>
+            <p>Darf man sich in einem Gesuch an die <placeName key="JP-011370">Hannoverische
+                        Regierung</placeName> unmittelbar an den <persName key="JP-011820">Herrn Staatsminister Grafen von Münster</persName>Ihren Herrn Bruder, wenden? Und
+                    wer ist das fürstliche Haupt Welchem man seine Huldigung darbringen muß, um eine
+                    Bitte erfüllt zu sehen, die lediglich von der Beurtheilung des hohen
+                    Ministeriums abhängt.</p>
+            <p>Der Herr Graf errathen leicht meine Absicht auch bei <placeName key="JP-005815">Hannover</placeName> um ein <ref target="JP-UB0459/#nklx_yrs_r4b">Privilegium</ref> nachzusuchen
+                    welches ich bis jetzt versäumte, und wozu mir die Bekanntschaft <persName key="JP-003482">meiner Familie</persName> mit dem  <persName key="JP-011844">preußischen Gesandten Ompteda</persName> von Nutzen sein kann, doch bei gänzlicher
+                    Unbekanntschaft mit den localitäten, indem ich in
+                    meinem Briefe an den <persName key="JP-011844">Gesandten</persName> gleich die
+                    übrigen mit einschließen möchte, bedarf ich eines Wegweisers, um meiner
+                    Unwissenheit zu Hülfe zu kommen – und – Menschenfreundlichkeit – ist ja eine
+                    Eigenschaft der Großen.</p>
+            <p>Sehr würde ich in Verlegenheit gerathen wenn Ew. Hochgebohren mehr, als auf ein
+                    Blättchen, nur die ganz kategorische Antwort auf meine zwei obigen Fragen, mir
+                        notiren wollten, und für die Beraubung einer
+                    Minute, an Ihren wissenschaftlichen
+                            Forschungen mögen die Musen
+                    mir eine Strafe auferlegen.</p>
+            <closer>
+               <salute>Ich bin mit innigster Hochachtung Ew.
+                            Wohlgebohren</salute>
+               <signed>unterthänigste Caroline Richter geb. Mayer. Wittwe Jean Pauls</signed>
+               <dateline>Bair. den 22<hi rendition="#uu" hand="#author">ten</hi>März 1826.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0294">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Caroline Richter. 30. März 1822, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-03-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012033">Textilien</term>
+               <term xml:id="JP-012453">Jean Pauls Alltag</term>
+               <term xml:id="JP-012520">Stimulantien</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Den 30ten März 1822.</dateline>
+               <salute>Meine geliebte Mutter!</salute>
+            </opener>
+            <p>Wenn es nach meinen Wünschen gegangen wäre, hätte ich Euch längst geschrieben,
+                    aber so mußte ich bis heute warten, wo ich aber doch etwas beantworten kann. Gott sei Dank daß Ihr wohl in <placeName key="JP-006422">Würzburg</placeName>
+                            angelangt seid! Ich habe immer an Euch
+                    gedacht, und es scheint mir eine Ewigkeit daß Ihr fort seid. Hier zu Hause geht
+                    alles ganz still seinen Gang, und das Bischen Essen abgerechnet gibt es wenig zu
+                    thun. Mit <persName key="JP-002634">Marie</persName> bin ich recht zufrieden sie
+                    macht alles ordentlich.</p>
+            <p>Gestern war <persName key="JP-003108">Amöne</persName> so gut, mich auf eine
+                    Stunde zu besuchen, sie war sehr freundlich und läßt Dich herzlich grüßen, sie
+                    lebt recht einsam.</p>
+            <p>Vergangenen Mittwoch erlaubte mir der <persName key="JP-999999">Vater</persName>
+                    in die <placeName key="JP-011035">Harmonie</placeName> zu gehen, und da fand
+                    ich die gute <persName key="JP-004653">Frau von Welden</persName>, die recht
+                    wohl war. Es freute mich sehr und ich dachte an Dich und die gute <persName key="JP-004659">Luise</persName>, der ich nächstens schreibe, denn Einen
+                    Brief muß sie von mir bekommen. Für den
+                            ihrigen tausend Dank.</p>
+            <p>Am Donnerstag war der <persName key="JP-999999">Vater</persName> bei der
+                        <persName key="JP-003561">Rollwenzel</persName>, wo ich ihn besuchte. Der
+                    Tag war herrlich und der <persName key="JP-999999">Vater</persName> auch
+                    vergnügt, bis auf das Essen wovon er nichts genoß. Der gute <persName key="JP-999999">Vater</persName> ist Gottlob recht wol, und gestern ist auch
+                    sein Wein  angekommen. Morgen soll er durch den <persName key="JP-000545">Büttner</persName> abgezogen werden.</p>
+            <p>Die Woche habe ich recht an meinen Kleid genäht, heute wollte ich es anziehen
+                    aber es sind noch einige Kleinigkeiten zu machen die fehlen. Wirst Du denn zu
+                        Ostern wieder da sein,
+                    liebste Mutter? Die Tage dehnen sich so lange aus, obgleich mir das
+                    Wirthschaftführen großen Spaß macht.</p>
+            <p>Vorgestern hat der <persName key="JP-999999">Vater</persName> an die gute
+                        <persName key="JP-004393">Tante</persName> geschrieben, sie wird sich sehr
+                    über <ref type="letter" subtype="document" target="3-VIII_268">den Brief
+                    </ref>freuen. Heute bekam ich endlich einmal von <placeName key="JP-005918">Konradsreuth</placeName>Nachricht; die gute <persName key="JP-011923">Kammerherrin</persName> schreibt mir daß sie froh wäre – d. wenn <persName key="JP-000009">Minona</persName> noch bei ihrer <persName key="JP-004393">Mutter</persName> bliebe, weil sie sie in der Folge für <persName key="JP-012650">Thekla</persName> wünschte.</p>
+            <p>
+               <anchor type="target" xml:id="start_rvp_g1v_bnb"/>Von <placeName key="JP-006428">Zedwitz</placeName> ist auch schon Antwort da. <persName key="JP-003255">Frau v. Plotho</persName> kommt nächstens selbst hieher, um das Quatier zu
+                        sehen<anchor type="target" xml:id="stop_rvp_g1v_bnb"/>, denn blos auf
+                    fremdes Anrathen will sie keines nehmen. Aber an Deiner Güte war es noch nicht
+                    genug; <persName key="JP-004094">Minna Spangenberg</persName> u. Herr v. Paff mußten noch schreiben, und auch mir wurde die
+                    Zumuthung gemacht, aber ich wollte die arme <persName key="JP-003255">Plotho</persName> nicht mit den vierten Brief über Eine Angelegenheit
+                    plagen.</p>
+            <p>Jetzt mag die gute <persName key="JP-003491">Diezo</persName> wol schon in ihren Bett liegen. Gebe Gott daß es ihr nicht zu viel
+                    Ueberwindung kostet. bist Du auch nicht bose über das vorige eilige Briefchen? Ich
+                    meinte es aber gut. Sage <persName key="JP-004659">Luise</persName>
+               <anchor type="target" xml:id="start_wsz_jdv_bnb"/>daß ich heute zum erstenmale
+                    die kleine Lilli
+                        sah<anchor type="target" xml:id="stop_wsz_jdv_bnb"/>, und daß sie mir eine
+                    Menge Küsse für sie gab. Bald mehr von Deiner</p>
+            <closer>
+               <signed>treuen <hi rendition="#u" hand="#author">Emma</hi>.</signed>
+               <salute>Lebt Alle wohl.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

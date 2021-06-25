@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0296">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Gottfried Langermann an Caroline Richter. Berlin, 17. Mai 1826,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002357">Johann Gottfried Langermann</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1826-05-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012567">Ärztekorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011851">Entschuldigung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Früher habe ich Sie, meine sehr verehrte Freundin, nicht in ihrer gerechten Trauer stören wollen. Sie sind ohnehin gewiß meiner innigen Theilnahme
+                    versichert gewesen. Jetzt erlauben Sie mir nur folgende Bitte. Sie erinnern sich
+                        <ref type="letter" subtype="document" target="4-VIII_8">des Briefes, den ich
+                        vor 6 Jahren Ihnen an ihren seeligen <persName key="JP-999999">Gemahl</persName> mitgab</ref>, in welchem es mir ein großes Anliegen
+                    war, <ref type="letter" subtype="text" target="4-VIII_8" corresp="#17-4">ihn vor
+                        Betrug bey seinem Glauben an Magnetismus zu warnen</ref>. Was auch der Brief
+                    bey ihm gewirkt haben mag; es muß etwas durch Eifer u Eiligkeit (Sie wissen ich
+                    hatte ihn in der Nacht schnell geschrieben,) hineingekommen seyn, was ihn
+                    verwundet hat. Er hat mir seitdem vielfach durch andre seine fortdauernde
+                    freundschaftliche Gesinnung versichern lassen auch mir aus <placeName key="JP-005687">Dresden</placeName> durch <persName key="JP-004846">Zelter</persName> liebe, freundliche Worte geschrieben, aber über Angelegenheiten der Zeit,
+                    der Wissenschaft – schrieb er mir nicht mehr. Es ist mir |2| ewig leid, daß ich
+                    mich nicht besser in Acht genommen habe. Er hatte das Recht, auch von seinen
+                    liebsten Freunden Schonung seines Zartgefühls zu fodern, zumal da bey ihm auch
+                    wissenschaftliche Untersuchungen zugleich mit seinem Herzen zusammenhiengen. Ich
+                    erinnere mich wohl, daß manches Rauhe in meinem Briefe vorgekommen ist; speciell weiß ich aber nichts mehr vom Inhalte, nur der Tendenz
+                    desselben erinnere ich mich. Ich bitte Sie daher, mir diesen Brief
+                    zurückzusenden, damit ich dem Theuren u geliebten<persName key="JP-999999">Freunde</persName> noch im Grabe abbitten kann, was
+                    ich ihm etwa Leides gethan habe. Bey allen Nachrichten über seine zunehmende
+                    Krankheit glaubte ich dennoch nicht, daß sein Ende so nahe sey als es war.</p>
+            <p>Könnte ich Ihnen auf irgend eine Art nützliche Dienste erweisen, so wissen Sie
+                    ja, wie sehr ich dazu bereit bin u wie es mir nur Freude machen würde, Ihnen
+                    etwas Angenehmes erweisen zu können.</p>
+            <closer>
+               <signed>Ihrergebenster Freund u Diener Langermann</signed>
+               <dateline>Berlin, den 17 Mai 1826.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

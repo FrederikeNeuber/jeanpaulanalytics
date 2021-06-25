@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1059">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen, 7. März 1808,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-03-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 7<hi rendition="#uu" hand="#author">n</hi> März 1808.</dateline>
+            </opener>
+            <p>Hier, mein vortrefflicher Freund, überreiche ich Ihnen<bibl sameAs="JP-010019" subtype="werk">den ersten Band meine <hi rendition="#u" hand="#unknown">Reisen</hi>
+               </bibl>. Nehmen Sie mich, mit allen meinen Schwächen und
+                    Verzeihlichkeiten so gern und freundlich hin, wie immer. Den <bibl sameAs="JP-010023" subtype="werk">Kunstschulplan</bibl> S. 405. lesen Sie doch ja bald, und in einer heitern Stunde! Das 2<hi rendition="#uu" hand="#author">te</hi>
+                            Exemplar ist der <placeName key="JP-005948">Stadt Leipzig</placeName>
+                            gereicht, und ich bitte Sie, dasselbe einem
+                            braven Kunstfreunde gütigst zu übergeben, den Sie dazu für geschickt halten, sich der Sache anzunehmen, die alle
+                    Hoffnungen und Freude meines noch übrigen Lebens in sich fasst.</p>
+            <p>Finden Sie selbst die Unternehmung der Vertretung eines Biedermanns würdig, o dann bitte ich:
+                    sprechen Sie manches freundliche Wort darüber in
+                        <placeName key="JP-005948">Leipzigs</placeName> schönen Kreisen!</p>
+            <p>Ach, wie leben Sie denn, verehrtester Freund? Soll ich denn nicht einmal eine
+                    Zeile von Ihnen erhalten? Und warum lassen Sie
+                                <persName key="JP-002546">meiner Herzogin</persName> nicht die <bibl sameAs="JP-013282" subtype="werk">Selene</bibl> pr. 1808
+                            senden?Wird sie nicht mehr fortgesetzt?</p>
+            <closer>
+               <salute>Leben Sie wohl, wohl! Ich habe in diesen Tagen noch über 100
+                        Versendungen zu machen und das Schreiben wird meinen Nerven von Herzen
+                        sauer. Ewig</salute>
+               <signed>Ihrtreuer JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

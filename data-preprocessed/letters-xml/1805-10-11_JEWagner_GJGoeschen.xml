@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1043">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen, 11. Oktober
+                    1805, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1805-10-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012265">Geschlechterrollen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 11<hi rendition="#uu" hand="#author">n</hi> Oct. 1805.</dateline>
+            </opener>
+            <p>Mein verehrtester, gütiger Freund! Ich eile, sowohl Ihnen meinen innigen Dank für Ihre bereitwillige Zahlung an <persName key="JP-013394">Israels Söhne</persName> zu sagen, als
+                    auch die in Ihrem gestern
+                            erhaltenen lieben Briefe gethane Fragen zu beantworten!</p>
+            <p>Es freut mich sehr, daß der erste Band der <bibl sameAs="JP-010020" subtype="werk">Maler</bibl> doch noch zur Messe
+                            fertig wird. Ich fürchtete, es
+                    sey Ihnen etwas Verhinderndes vorgefallen. Der Himmel bewahre nur mich, den Schreiber, Setzer und
+                    Korrektor vor erratis, und verleihe uns einen gnädigen Kupferstich,
+                    an dem Sie und ich und die Leser Freude haben! In dem
+                    allen bin ich in <hi rendition="#u" hand="#author">Ihrem</hi> Schoosse, bester Mann, voll Hoffnung und
+                    Vertrauen! – Was den Haupttitel betrifft, so lasse ich Ihnen Freyheit, (<hi rendition="#u" hand="#author">wenn</hi> er nemlich geändert werden <hi rendition="#u" hand="#author">muß</hi>) unter folgenden zu wählen: 1) Die reisenden Maler und
+                    ihre Freunde, ein Roman von Ernst Wagner. 2.) Die Maler und ihre Freunde, ein R.
+                        pp 3.) Die reisenden Maler in Sabinium, ein pp
+                    4.) Die Maler und ihre Freunde in Sabinium, ein pp Doch
+                    bitte ich, N<hi rendition="#uu" hand="#author">o</hi> 2 und N<hi rendition="#uu" hand="#author">o</hi> 4., wo möglich, <hi rendition="#u" hand="#author">nicht</hi> zu wählen. Auch könnte
+                    es heissen 5.) Die reisenden Maler (und
+                        die) (unter den) Frauen in Sabinium p – wenn
+                    nur das <hi rendition="#u" hand="#author">unter</hi> besser klänge,
+                    und das <hi rendition="#u" hand="#author">und</hi>
+               <hi rendition="#u" hand="#author">die</hi> besser aussähe. Doch Sapienti sat!</p>
+            <p>Ich glaube es wohl, daß dieser abscheuliche Krieg auch Ihnen alle neuen – hauptsächlich so ungewisse – Unternehmungen
+                    verleidet, wie meine Briefe. <hi rendition="#uu" hand="#author">NS</hi>Könnten Sie aber vielleicht mich Herrn <persName key="JP-000698">J. G. Cotta</persName>, den Sie ja
+                    gewiß sprechen, empfehlen, so wäre mir das sehr erfreulich – doch, auch er wird
+                    dergleichen jetzt wohl schwerlich unternehmen!</p>
+            <p>Krieg! – Ja, apropos! ich habe vor einiger Zeit <bibl sameAs="JP-010023" subtype="werk">meinen Kunstplan</bibl> von neuem in
+                        <placeName key="JP-006040">München</placeName> einsenden müssen, bey
+                    Gelegenheit der neuen Organisation dortiger <placeName key="JP-012934">Akademie</placeName> – wobey mir die
+                                <persName key="JP-000584">Kurfürstin</persName> sehr gütig
+                            geschrieben. Aber ach – – <hi rendition="#u" hand="#author">welche</hi>
+               <hi rendition="#u" hand="#author">Veränderung</hi> fühlte dieses
+                    herrliche arme Weib seit wenigen Wochen! – Sie sehen selbst, verehrtester
+                    Freund, daß es Thorheit seyn würde, für jetzt mit dem Plane hervorzutreten. Ich werde also das Kunstgespräch vom 2<hi rendition="#uu" hand="#author">ten</hi> Bande der <bibl sameAs="JP-010020" subtype="werk">Maler</bibl> weglassen, und, dem gemäß einiges
+                    im Texte ändern, um nicht meinen Liebling dem politischen Höllengelächter Preiß
+                    zu geben. Auf diese Art wird der 2<hi rendition="#uu" hand="#author">te</hi> Band nur etwa 20 Bogen starkmit dem Plane ungefähr 30. werden. Das
+                    thut doch wohl nichts? – Ach, ich hatte so reizende Hoffnungen durch <persName key="JP-000584">dieses kunstfreundliche Weib</persName> und ihre trefflichen Schwestern! Alles ist dahin – – ob auf ewig? – – </p>
+            <p>Das <bibl sameAs="JP-010280" subtype="werk">Frauen-Journal</bibl> ist, zwey Tage
+                        <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1042/#start_pks_y4r_cpb">nach meiner Anfrage</ref> bey Ihnen, alles richtig bis zum Sept. eingegangen. Nehmen
+                        Sie meinen herzlichen Dank für Ihre Einladung zum Mitarbeiten. Es kommt mir gerade recht, und ich
+                    behaupte oder prätendire eigentlich, ein Damenschriftsteller zu seyn, weil ich
+                    sie so sehr liebe, und weil sie meinen <bibl sameAs="JP-010022" subtype="werk">Wilibald</bibl> lieben. Unter uns gesagt: Man findet in <bibl sameAs="JP-010280" subtype="werk">diesem Journal</bibl> weniger als man er- wartet hatte. Und so viel ich auch rufe und schreye: "Man durfte
+                    nicht zu viel erwarten, d. h. nichts ausserordentlich Poetisches – kein Aggregat
+                    von Kunstwerken – keine vornehmen <placeName key="JP-005859">indischen</placeName> und <placeName key="JP-013304">abissinischen</placeName> Blütenbüschel, die in "Farbentönen schwimmen",
+                    sondern nur angenehme und gesunde Hausmannskost wie sie das Weib <hi rendition="#u" hand="#author">wirklich</hi> ihrer Freundin
+                    auftischt – keine heimlichen Aufsätze von <hi rendition="#u" hand="#author">
+                  <persName key="JP-004710">Wieland</persName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <persName key="JP-003737">Schiller</persName>
+               </hi>pp, sondern wahrhaft selbstgeschriebene Sachen von
+                    Frauen", so wenig helfen doch diese Zurechtweisungen; das Ganze bestätigt
+                    vielmehr den in unsern <bibl sameAs="JP-010020" subtype="werk">Malern</bibl> enthaltenen Satz nur allzusehr: daß das
+                            Weib nichts so gering schätzt, als Ihresgleichen, und daß der Mann
+                            zwiefach gerechter gegen Seinesgleichen denkt. Lassen Sie die Männer daher
+                    arbeiten, ohne die Frauen auszuschliessen, und seyn Sie
+                    des Beyfalls gewiß! Das Weib kann nur als Erzählerin (und dann doch selten)
+                    unterhaltend für ihr Geschlecht seyn. – Auch ich will
+                            denn suchen, Ihnen zuweilen ein Scherflein
+                            beyzutragen. Ich dächte aber,
+                        Sie kündigten diese Abänderung schon im Oktoberheft
+                    an, und ladeten unsern <persName key="JP-999999">J. P. Richter</persName> auch
+                    dazu ein. Könnte ich Sie doch mit seiner eigensinnigen
+                    Muse versöhnen! – Hat er denn nicht in <hi rendition="#u" hand="#author">mehrern</hi> Formen und Formeln offenbar das Schönste und
+                    Höchste geliefert, was in irgend einer Sprache geschrieben steht??</p>
+            <closer>
+               <salute>Leben Sie wohl, theurer Mann. immer verehrt
+                        von</salute>
+               <signed>Ihremtreuen JEWagner</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <table rows="3" cols="4">
+                     <row>
+                        <cell>250</cell>
+                        <cell>rth</cell>
+                        <cell/>
+                        <cell>340</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rendition="#u" hand="#author">90</hi>
+                        </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>
+                           <hi rendition="#u" hand="#author">132</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>340</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>218.</cell>
+                     </row>
+                  </table>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

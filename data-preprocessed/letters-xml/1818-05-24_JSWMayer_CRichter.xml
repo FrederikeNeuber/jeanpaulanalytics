@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0646">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 24. Mai
+                    1818, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1818-05-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012440">Fahrzeuge</term>
+               <term xml:id="JP-012693">Personalien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 24. May
+                        18.</dateline>
+               <salute>Meine geliebte Caroline!</salute>
+            </opener>
+            <p>Als Antwort aufDeinen lieben Brief vom 17tenApril 18. kömt mein
+                    jetziger wohl spät genug, um Dich über mein Befinden beunruhigt zu haben; allein
+                    ich hoffe, Du wirst meine Entschuldigung gelten laßen, wenn ich Dir sage, daß
+                    ich alle meine Zeit auf die Abmachung aller meiner bis Ende April auf mich vertheilt gewesenen Amts Geschäfte verwendet habe, um
+                    mit ruhigen Gemüth am 1. Juny als dem Tage meiner Abreise nach<placeName key="JP-012030">Neustadt Eberswalde</placeName> von hier,
+                    zum Genuß eines Zwey monathlichen Urlaubs abgehen zu können. Auch nimt in der
+                    That meine Bewegungs Kraft mit jedem Tage mehr ab, so daß ich zum Gebrauch des Bades eilen muß,
+                    wenn ich meines Daseyns wieder frohe werden will. Denn so wie es jetzt auf mich
+                    lastet, ist es mir noch nie seit dem Junius 16.
+                    beschwerlich gewesen. ich kann nehmlich 8. bis 9. Stunden schlafen, ohne mich
+                    dadurch am folgenden Morgen erquikt zu fühlen. Besonders drückt mich das Gefühl
+                    meiner gehemten Geistes Kräfte fast noch mehr als meine Lähmung, der ich doch
+                    durch Führung u Fahren zu Hülfe kommen kann, und beydes auch täglich anwende, um am Ende nicht gantz
+                    
+                    werden. Habe ich daher gleich ein sehr blühendes  äußeres Ansehen, so
+                    dient doch das zu nichts als bey aller Welt damit beschrieen zu werden, u meine
+                    Lähmung für nichts als ein vorübergehendes Übel gehalten, zu sehen.</p>
+            <p>Urtheile also selbst, ob ich auch nur aufgelegt zum Brief Schreiben habe seyn
+                    können.</p>
+            <p>Dein Wunsch um mir zu seyn, und mich zu pflegen, hat mich sehr gerührt, u ich
+                    werde ihn, wenn das Bad mich nicht herstellen sollte, zu erfüllen suchen.</p>
+            <p>Einen Besuch beyFräulein Schukmann hätte ich wohl
+                    ablegen sollen; allein ohne Theilnahme <persName key="JP-002709">meiner
+                        Frau</persName>, wolte ich dieß, nicht, u mit einer Carte wäre es doch nicht
+                    abgemacht gewesen. <persName key="JP-002709">Meine Frau</persName> aber hatte
+                    eine Abneigung gegen eine persönliche visite; u ich
+                    wollte sie nicht gegen ihren Willen dazu animiren. Du
+                    mußt uns also durch den Beruf auf mein Befinden, u durch die Theilnahme
+                        <persName key="JP-002709">meiner Frau</persName> an meinen Schiksal, zu
+                    entschuldigen suchen.</p>
+            <p>Vor meiner Abreise ins Bad aber werde ich noch an den <persName key="JP-003878">HerrnMin. v. S.</persName> eine Carte abgeben. Wir
+                    begegneten uns neulich <placeName key="JP-011139">unter den Linden</placeName>,
+                    wo er wahrscheinlichmit seinen Schwestern ging, während ich in einem der jetzt
+                        in<placeName key="JP-005586">Berlin</placeName> gewöhnlichen Einspänner,
+                        Droschke genant, fuhr u er mich ansichtig wurde, u grüsete. </p>
+            <p> Von<placeName key="JP-012030">Neustadt</placeName> aus werde ich aber auch
+                        der<persName key="JP-004393">Minna</persName>, u durch dise Dir Nachricht von dem Erfolge meiner Cur geben. An
+                    Zerstreuung wird es übrigens in<placeName key="JP-012030">Neustadt</placeName> nicht fehlen, da es
+                    jezt stärker als<placeName key="JP-005757">Freyenwalde</placeName> besucht wird; auch
+                    nehme ich meinen Reise Wagen mit, um auch für auswärtige Parthien gerüstet zu
+                    seyn.</p>
+            <p>Sollte <persName key="JP-999999">Dein lieber Mann</persName> seine
+                            Reise noch nicht angetreten haben, so grüße ihn
+                    von mir; sowie die<persName key="JP-003471">Emma</persName> uDeine übrige Kinder, die ich meiner innigsten Liebe versichere.</p>
+            <p>
+               <persName key="JP-002709">Meine Frau</persName> grüßt hertzlich.</p>
+            <p>Daß <persName key="JP-012105">die gute Sommern</persName> gestorben, u bereits begraben ist, wirst Du
+                    vielleicht schon erfahren haben.  Die<persName key="JP-002779">Tante Mertzdorff</persName> ist fortdauernd
+                    an ihre Krüken gebannt; u für mich, bey meiner Lähmung bey ihren hohen u unbequemen Treppen noch dazu
+                    unzugänglich, wogegen <persName key="JP-002709">meine Frau</persName> sie öfter
+                    siehet, u sie auch aus meinem Hause  gepflegt wird.</p>
+            <closer>
+               <salute>Lebe wohl, u liebe Deinen treuen Vater</salute>
+               <signed>Mayer.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

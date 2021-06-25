@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0445">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Odilie Richter und Emma Richter an Max Richter. Bayreuth, vor dem 8. Juni
+                    1821</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+               <date notBefore="1821-06-01" notAfter="1821-06-08"/>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-003491">
+            <opener>
+               <salute>Geliebter Max!</salute>
+            </opener>
+            <p>Lange habe ich Deiner nicht schriftlich gedacht, aber desto mehr denk ich so an
+                    Dich. <anchor type="target" xml:id="start_bvp_cxr_qnb"/>Du bist so unendlich
+                        gut<anchor type="target" xml:id="stop_bvp_cxr_qnb"/>, <anchor type="target" xml:id="start_b1x_hxr_qnb"/>daß ich kaum das Herz habe Dir oft meine elenden
+                    Briefe zu schiken<anchor type="target" xml:id="stop_b1x_hxr_qnb"/>. Ich denke
+                    immer der <persName key="JP-003471">Emma</persName> ihre Briefe ersetzen bei Dir
+                    die meinigen hundertfach.</p>
+            <p>Ich kann Dir leider heute nicht viel schreiben da der <persName key="JP-999999">Vater</persName> darauf wartet. Doch das will ich Dir noch sagen. Daß der <persName key="JP-999999">Vater</persName> vielleicht doch noch nach
+                                <placeName key="JP-005819">Heidelberg</placeName> kommt;
+                    wenigstens wir redem ihm unaufhörlich zu. Lebe recht wol und liebe Deine
+                    treue</p>
+            <closer>
+               <signed>Schwester Odilie.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <anchor type="target" xml:id="start_x24_cyr_qnb"/>Ich hatte vor einigen Tagen
+                        eine recht geschwollne Backe die mir ein Zahn verursachte welcher morgen
+                        herausgezogen wird. Jetzt bin ich nur noch mit Ohrenschmerzen
+                            behaftet.<anchor type="target" xml:id="stop_x24_cyr_qnb"/>
+               </p>
+            </postscript>
+         </div>
+         <div hand="#JP-003471">
+            <p> Dießmal, mein geliebter Max, habe ich nichts zu schreiben, alles was
+                    ich sagen könnte wird der <persName key="JP-999999">Vater</persName> und die
+                        <persName key="JP-003469">Mutter</persName> viel besser als ich es vermocht,
+                    ausgedrückt haben. Aber Gott will ich bitten daß er Dir eine frohere Stimmung
+                    die Du so verdienst, geben möchte. Dein
+                            Brief kostete mir viele Thränen. Könnte ich nur bei
+                    Dir sein und alles für Dich thuen. Ein andermal schreibe ich länger, diesmal
+                         vergieb und glaube
+                    an meine Liebe.</p>
+            <closer>
+               <signed>Deineewig treue<hi rendition="#u" hand="#author">Emma</hi>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

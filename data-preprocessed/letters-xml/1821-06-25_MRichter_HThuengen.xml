@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Hans von Thüngen. Heidelberg, 25. Juni 1821,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-06-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004291">Johann (Hans) Carl Moritz Freiherr von Thüngen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-013234">Intellektuelle</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Montag am 25tenJuny. 21.</dateline>
+            </opener>
+            <p>Daß Du meinen Brief schon erhalten <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1017/#start_omt_4ll_l4b">u gar aus
+                            <placeName key="JP-005574">Baireut</placeName>
+               </ref>, dafür spricht die
+                    Aufmerksamkeit u Pünktlichkeit, die meinen Sachen dorthin immer folgen sollen.
+                    Jetzt nur noch ein Appendix, der <hi rendition="#u" hand="#author">mir</hi>, andern nicht, dießmal ungern u unlieb
+                    geschiehet, der aber zum Ganzen, zur Wahrheit gehört. Du hast hier ein paar
+                    Blätter, die ich Dir, keinem andern, mittheilen möchte, selbst meinem <persName key="JP-999999">Vater</persName> nicht so gern, der <persName key="JP-000716">Kreuzer</persName>
+               <hi rendition="#u" hand="#author">so</hi> nicht kennt u kennen kann,
+                    ich meine, von seiner wissenschaftl. Seite; Du hast vielleicht <ref target="JP-UB1017/#ndfd_ljs_qnb">die Vossische Rezension in d. Jen.
+                        Lit.</ref> gelesen; auf jeden Fall überzeuge Dich von der argen
+                    Persönlichkeit, denn das Übrige ist v. ihm auch noch unentschieden. Auf diese Reden, deren Inhalt hier nur in 2 Bogen bekannt
+                    waren, erfolgte v. <persName key="JP-000716">Creuz.</persName>diese Vossiana, die ihm übereilt ist, mir wehe thut. Wer ihn hört u deshalb ganz kennt in d. Vorträgen über
+                            Religion, der wird diese Blätter für eine der größten
+                        Ubereilungen, freilich auf einem nicht guten <hi rendition="#u" hand="#author">einen</hi> Grund des Herzens
+                    gestützt, halten; dazu kommt, daß er selbst Vielen seine Ruhe beschrieben hat,
+                    die er bei persönlichen Angriffen sich immer zur Regel macht; Seine Gegenwitze
+                    sollen etwas bedeuten, u bedeuten doch nichts; Alles ist verworren u nach
+                    Durchlesung weiß ich nur so viel, als, daß er <hi rendition="#u" hand="#author">künftig</hi> nichts mehr
+                            damit zu thun hlen will. Seine muntere Laune war seit
+                            d. Fackelzug
+                    gesteigert u, wie ich glaube, sein Muth, seine Männlichkeit, die sich standhaft
+                    beweisen soll gegen anders geglaubte Nachgiebigkeit, veranlassten diesen für uns
+                    Zuhörer <hi rendition="#u" hand="#author">nie</hi> gewährten
+                    Schritt. Dieß gehört zur Beurtheilung eines Mannes, der,
+                    durchaus orientalisch, eben in jedem kleinen Zug sich verräth, in jeder
+                        Andeutung einer der geringfügigsten  Sachen. <persName key="JP-004524">Voss</persName> lachte darüber; Was den Amerikanischen Doctor betrifft, so kommt
+                    dieser eben von <placeName key="JP-005586">Berlin</placeName> u sollte durch <persName key="JP-004524">Voss</persName> (ich war
+                    selbst diesen Abend bei ihm) auf seine Mythologie verleitet werden, d.h.
+                    abgewendet von dem ihm gut bekannten <persName key="JP-000716">Creuzer</persName>; Durchs dritte Ohr erfuhr dieser das Gespräch u so wurde
+                    ein sonst <hi rendition="#u" hand="#author">klarer</hi> Ozean mit keinem
+                    goldenen Schifflein befahren, wie bei <persName key="JP-001827">Homer</persName>
+               <persName key="JP-013132">Hälios</persName> (bekanntlich heißt <persName key="JP-000716">Creuzer</persName> bei uns
+                        gewöhnlichKneph aus bekannten
+                        Ubereinstimmungen.) Das
+                                Magerwirthaus will ich bei meinem Weggehen
+                    abzeichnen.  Doch hierüber habe ich ein langes Wort mit Dir mündlich
+                    zu sprechen; jetzt nur ein kurzes – <persName key="JP-002028">Kapp</persName> wohnt seit einigen Tagen
+                    bei mir. Willst Du Grüße von ihm?  Wie viel? Alle gib Dir selbst. Die Gegend wird natürlich von
+                    neuem bestiegen u die Menschen werden kritisirt. Ein herrlicher Abend bei Voss gestern
+                    Abend!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

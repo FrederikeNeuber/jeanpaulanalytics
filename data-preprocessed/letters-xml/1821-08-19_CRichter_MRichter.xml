@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0793">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, 19. August 1821, Sonntag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1821-08-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Baireuth den </hi>19<hi rendition="#uu" hand="#author">ten</hi>
+                  <hi rendition="#u" hand="#author">Aug. 1821.</hi>
+               </dateline>
+               <salute>Geliebter Max!</salute>
+            </opener>
+            <p>Auf
+                            Deine vielen lieben Briefe
+                    hättest Du schon längst Antwort verdient, allein das Erwarten, erstlich von der treflichen <persName key="JP-000948">Fr. v Ende</persName> Durchreise, der
+                    wir Manches, mitzugeben gedachten, dann des <persName key="JP-999999">Vaters</persName> immer festgesetzte und immer verschobene Abreise, schoben
+                    unser Antworten, wozu doch das Herz sich so sehr gedrängt fühlte, von Woche zu
+                    Woche hinaus. Endlich heute sendet der liebe <persName key="JP-999999">Vater</persName> Dir diesen inliegenden Wechsel voraus, weil trotz des <hi rendition="#u" hand="#author">Entschlußes</hi> in der nächsten
+                    Woche abzureisen – wieder Hindernisse des Wetters u. s. w. eintreten könnten.
+                    Nein auf solche Möglichkeiten darf meines Maxes Befriedigung nicht
+                    hinausgeschoben werden, denn aus Deiner Anzeige des <hi rendition="#u" hand="#author">schuldigen</hi>
+               <hi rendition="#u" hand="#author">Studien</hi>geldes sehe ich, daß
+                    Du schon längst fertig bist und gewis wieder in neue Schulden verstrickt. Nun
+                    ich hoffe daß der <persName key="JP-999999">Vater</persName> sich klar von Allem
+                    unterrichten wird, was Du bedarfst  da Du meine Bitte nicht erfüllst
+                    genau den Zustand Deiner Casse anzugeben. Es ist mir unbegreiflich warum Du
+                    nicht nach meiner so vernünftigen Idee handelst da Du ja mit aller Deiner Zartheit und augenblicklichen Schonung des
+                        <persName key="JP-999999">Vaters</persName>, 
+                    dem hernach für Beide so schwer fallenden Labirinth von Verwicklungen,  nicht entgehn kannst. Indessen sage ich jetzt
+                    nichts mehr darüber; und kann nur schmerzlich die Unruhe mitfühlen in die Du Dein Gemüth dadurch versetzt.</p>
+            <p>Ehe die liebe <persName key="JP-000948">Frau v. Ende</persName> kam, die jetzt in
+                        <placeName key="JP-006244">Schlangenbad</placeName> ist, und später nach <placeName key="JP-005819">Heidelberg</placeName> kömmt – hatte ich Dir Einige gewis sehr nothwendige Sachen gekauft. Sie
+                    konnte sie aber nicht mitnehmen und der <persName key="JP-999999">Vater</persName> muß sie Dir bringen.</p>
+            <p>Es ist Nanking zu Hosen und einem Morgen-Camisol, das Du Dir dort machen lassen must. 2 paar
+                    langen Unterhosen, eine Sommerweste, 3 weiße Halsbinden, 3 p. Socken.  Jetzt möchte ich Dir so gern einen Rock kaufen, da ich aber Deine Bedürfnisse
+                    und Wünsche nicht kenne, so fodre ich von Dir mir <hi rendition="#u" hand="#author">es sogleich</hi> mit der nächsten Post zu sagen.
+                    Ich wanke, zwischen einen neuen schwarzen Frack, da Dein guter blauer Dir gewiß
+                    jetzt zu kurz ist, oder einer dunkeblauen
+                    tuchnen Pikesche wie jetzt alle jungen Männer tragen, das ein Mittelding zwischen Frack und Überrock ist. Eines von beiden wird
+                    gekauft nur sage mir was Dir das Liebste und Nöthigste ist. Ich will durchaus
+                    nicht, daß Du nicht anständig erscheinest. Ist <persName key="JP-000948">Fr. v
+                            Ende</persName> in <placeName key="JP-005819">H.</placeName> bist Du gewis alle Tage bei ihr, denn sie liebt Dich ausnehmend: Ach wie gut
+                    war sie wieder, wie hat sie uns mit den zartesten Gaben beschenkt. <persName key="JP-000949">Der junge Ende</persName> ist nach <placeName key="JP-005972">London</placeName> gegangen, und holt dann <persName key="JP-000948">seine Mutter</persName>
+                    von <placeName key="JP-005819">H.</placeName> ab. Auch ihn liebe ich sehr, er hat
+                    einen vortreflichen Charakter, aber wie sehr hängt sein Lebensglück von  der Wahl einer Gattin ab. Wie sehr wünschte ich ihm eine Frau, wie
+                        <persName key="JP-012939">Weldens</persName> sein würden da er so gebildet
+                    und durch seine treffliche <persName key="JP-000948">Mutter</persName> an die
+                    vollendetsten Frauen gewöhnt ist. Und wie sehr verdienen <persName key="JP-012939">Weldens</persName> wieder die vorzüglichsten Männer! Indeß
+                    Gott  lenkt die Herzen, und ich kann nur für die
+                    guten Menschen beten, daß sie auch <hi rendition="#u" hand="#author">glücklich</hi> werden mögen. – <persName key="JP-000948">Frau von Ende</persName> nimmt gewis ein <hi rendition="#u" hand="#author">
+                  <bibl sameAs="JP-008673" subtype="werk">Exemplar</bibl>
+               </hi> von
+                            Deinem Freund<persName key="JP-001654">Henne</persName>, denn <persName key="JP-000948">sie</persName> und <persName key="JP-000949">ihr Sohn</persName> nehmen so
+                    innigen Antheil an Deiner Verwendung. Den Kronthaler von der Fr. v. Reizenstein bringt Dir der <persName key="JP-999999">Vater</persName> nebst dem Seinigen mit. <persName key="JP-003087">Emanuel</persName> und <persName key="JP-003092">seine
+                        Frau</persName> grüßen Dich sehr. <persName key="JP-003090">Die
+                        Kinder</persName> werden herrlich. <persName key="JP-003112">Otto</persName>
+                    ist noch in <placeName key="JP-006040">München</placeName>, kommt aber wahrscheinlich zurück. Doch gewis mit Besoldung. Schreib
+                    einmal an <persName key="JP-003112">Otto</persName> er wird sich sehr freuen sage ihm aber nichts von seinen Verhältnissen, da
+                    er so empfindlich ist.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

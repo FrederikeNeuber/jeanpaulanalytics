@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1109">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Christian Freiherr Truchseß von Wetzhausen.
+                    Meiningen, 10. September 1811, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-09-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 10<hi rendition="#uu" hand="#author">n</hi> Sept. 1811.</dateline>
+            </opener>
+            <p>Prachtvollester von allen Freunden! Sage mir doch, gute
+                    Seele, nur ein einzigesmal mit einer einzigen Zeile, wie es Dir geht, und ob du
+                    mich noch liebst! Ich sehnte mich noch nie so oft und innig nach Dir, als jetzt
+                    in den silbernen Morgenschleyern dieses herrlichen Herbstes, unter welchen ich
+                    mir stets das holde Gesicht deiner alten <placeName key="JP-005591">Bettenburg</placeName> unwillkührlich denken muß. Schöne <placeName key="JP-005591">B.</placeName>! Schönerer Ritter!</p>
+            <p>Gestern sah ich den guten <persName key="JP-003913">Schuler</persName> mit Herrn v. Handstein eine Viertelstunde bey mir.</p>
+            <p>Wegen des Bedientens schrieb ich Dir verabredetermasen
+                            nichts, da er nicht für Dich war. Sein Organ tönte und gurgelte das allerärgste
+                    Schulmeistergequack hervor, was man hören kann – und die Schrift war zwar gut,
+                    aber viel zu langsam für einen Diktator. Kurz, ich konnte keinen Augenblick
+                    anstehen, Dir ihn <hi rendition="#u" hand="#author">nicht</hi> zu
+                    schicken.</p>
+            <p>
+               <bibl sameAs="JP-010017" subtype="werk">Isidora</bibl> ist
+                            in <persName key="JP-000698">Cotta</persName>'s Händen – und ich habe
+                            nun keine Sorge mehr für die theure Prinzessin, als daß man sie etwa zu
+                            heftig anfasse, niedersetze und ihr Leibesfehler andrucke! Gott möge mein reines
+                    Kind gnädig bewahren! – Ich bin ruhiger über sie als über irgend eins meiner
+                    andern Werkchen – auch in Rücksicht des guten <persName key="JP-000698">Cotta's</persName> – denn sie ist für <hi rendition="#u" hand="#author">Jedermann</hi> unter den Gebildeten.</p>
+            <p>
+               <persName key="JP-004558">Meine Jungen</persName> sende
+                            ich nicht, Du Engel! Denn sie versäumten mir
+                    schon über dem <placeName key="JP-005956">Liebenstein</placeName> zuviel. Aber
+                    sage mir doch, wann (und womöglich <hi rendition="#u" hand="#author">welchen Tag</hi>) <hi rendition="#u" hand="#author">Du</hi> nun
+                    wieder <hi rendition="#u" hand="#author">zu</hi>
+               <hi rendition="#u" hand="#author">uns</hi> kommst – denn ich muß
+                    doch nun wahrlich Dein Portrait haben! Es ist wahre Sünde, daß ich meinen  Jungen für andere Leute arbeiten lasse und selbst immer noch auf die
+                    gute Gestalt warten muß! Ach komm doch bald, Du Theurer!</p>
+            <closer>
+               <salute>Tausend Grüsse an das gute wirthliche
+                                    <persName key="JP-013470">Klärchen</persName> und den lieben Schmidt! (Übermorgen kommt
+                                unsre Herrschaft zurück.)</salute>
+               <signed>EwigDeinallertreuester
+                                Freund JEWagner.</signed>
+            </closer>
+            <postscript>
+               <p>Die lieben alten Vösse hat <persName key="JP-004570">Anton</persName>, da er seine schwarze Kreide
+                                verliehen hatte, nur skizziren können – doch gewährt es mir <hi rendition="#u" hand="#author">einige</hi>
+                                Reminiszinz.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

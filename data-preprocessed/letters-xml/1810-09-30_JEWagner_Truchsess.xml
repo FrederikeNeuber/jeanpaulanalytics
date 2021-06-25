@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0933">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Christian Freiherr Truchseß von Wetzhausen.
+                    Meiningen, 30. September 1810, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1810-09-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 30<hi rendition="#uu" hand="#author">n</hi> Sept. 1810.</dateline>
+            </opener>
+            <p>Trefflichster! Hier naht Ihr ewigtreuer Wagner mit seinem abermaligen kleinen
+                    Meßgeschenke. Möchte es nach Ihrer Reise (auf der ich
+                    oft bey Ihnen war!) mit Ihrem
+                    Gesichte so gut gehen, daß Sie mein Büchlein<hi rendition="#u" hand="#author">selber</hi>
+               <hi rendition="#u" hand="#author">lesen</hi> könnten. Wie viel
+                    besser führen dann wir Beyde dabey. Aber, die Reise war wohl sehr schön!</p>
+            <p>Die herrliche Fr. v. K. kündigte mir Ihre Hieherkunft als recht bald zu hoffen an – darüber jubilirt meine Seele schon
+                    im Voraus.</p>
+            <p>Mein <bibl sameAs="JP-010018" subtype="werk">"Jesus von Nazareth"</bibl> rückt stark
+                    vorwärts – und der alte Pabst <persName key="JP-001400">Griesbach</persName> in <placeName key="JP-005875">Jena</placeName>, der ihn durchsieht, ermuntert mich, daran zu seyn. –
+                    Möchte ich ihn beendigen! – ich hoffe es jetzt wirklich, da ich mich so wohl
+                    befinde als im Frühling! Mit der <bibl sameAs="JP-010017" subtype="werk">Isidora</bibl> geht es desto langsamer.</p>
+            <p>Vor etlichen Tagen war der göttliche Dichter <persName key="JP-004302">Ludwig Tiek</persName> mit <persName key="JP-004304">Weib</persName> und Kind einen
+                    ganzen halben Tag bey mir. Da habe ich viel, viel gelernt von diesem ungemein
+                    sanften und liebenswürdigen Menschen. Er ist noch 1000mal mehr werth, als seine
+                    besten Schriften.</p>
+            <closer>
+               <salute>Adieu, Edler, Theurer – Allerbester! Ewig</salute>
+               <signed>Ganz Der Ihrige,  der
+                                Alte JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

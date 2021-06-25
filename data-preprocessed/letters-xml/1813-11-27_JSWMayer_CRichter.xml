@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0526">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 6. und 27.
+                    November 1813, Sonnabend
+                    und Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date from="1813-11-06" to="1813-11-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011893">Berufliches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 6. 9.ber
+                        13</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Endlich ist der Posten Lauf geöfnet; u ich säume nicht, Dir in Bezug auf
+                    anliegende Berechnung an Zinsen 20 rth Gold zu übersenden; auch lege ich ein kleines
+                    Geschenk von 2. Fridr. d’or bey, um solche auf
+                    Weyhnachten für Dich u <persName key="JP-003483">Deine Kinder</persName> zu
+                    verwenden.</p>
+            <p>Gern sagte ich übrigens mehr, als daß ich, u <persName key="JP-002709">meine
+                        Frau</persName> gesund sind. Allein ich müßte mein Hertz aufschließen. Diß
+                    hieße aber die Büchse der Pandora öfnen; und Gefühlen
+                    Raum  geben, die ich
+                    unterdrüken muß, um meinen Geist für meine Berufs Pflichten unbewölckt zu
+                    erhalten.</p>
+            <p>Laß mich also die Hertzens Ergießungen unterdrüken; und mich lieber erfahren, daß
+                    Du nichts zu unterdrüken hast, sondern im Schooß Deines Hauses mit <persName key="JP-999999">Mann</persName> u <persName key="JP-003483">Kinder</persName> zufrieden lebst, so weit  die Theilnahme an
+                    fremden Leiden diß gestattet.</p>
+            <p>
+               <persName key="JP-004106">Julius</persName>, der noch bey mir ist, hat die idée des facultät Studiums aufgegeben, u sich dem Bau-Fach
+                    gewidmet, wozu er jetzt hier die Bau Academiefrequentirt.</p>
+            <p>
+               <persName key="JP-004103">Emma</persName> ist noch auf der <ref target="JP-UB0544/#nu5p_j2d_y3b">Louisen Stiftung</ref>, u man ist im gantzen mit
+                    ihr zufrieden.</p>
+            <p>
+               <anchor type="target" xml:id="start_xf3_dfv_2jb"/>
+               <persName key="JP-004393">Minna</persName> ist mit ihren beyden Kindern in <placeName key="JP-006071">Strelitz</placeName>, wo sie Gesellschafterin einer Frau von Jasmund u Unterrichterin ihrer Kinder, gegen Genuß einer völlig freyen Station
+                    für sich u <persName key="JP-000009">Minona</persName> ist.<anchor type="target" xml:id="stop_xf3_dfv_2jb"/>
+            </p>
+            <p>Den <persName key="JP-004107">Richard</persName> hoffe ich ins <placeName key="JP-012506">Züllichau</placeName>sche Waysen Hauß
+                    zu bringen.</p>
+            <p>
+               <persName key="JP-002779">Meine Schwester</persName> ist gesund.</p>
+            <p>Die<persName key="JP-012105">Nicée Sommern</persName> lebt als Oeconome in der Familie des Staats Raths
+                        <persName key="JP-012023">Nicolovius</persName>.</p>
+            <p>
+               <persName key="JP-011819">Ihr Sohn</persName> hat sich der Oeconomie gewidmet, u lebt auf dem Lande.</p>
+            <p>
+               <persName key="JP-002007">Frau von Kalb</persName> kränkelt viel. <persName key="JP-002004">Die Tochter</persName> ist
+                    gesund.</p>
+            <closer>
+               <salute>
+                  <persName key="JP-002709">Meine Frau</persName> grüßt herzlich.</salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+         </div>
+         <div>
+            <p>
+               <table rows="9" cols="3">
+                  <head> Berechnung</head>
+                  <row role="label">
+                     <cell/>
+                     <cell>Einnahmen</cell>
+                     <cell>Ausgaben</cell>
+                  </row>
+                  <row>
+                     <cell>am 28.9.ber 12 hatte ich </cell>
+                     <cell>Gold</cell>
+                     <cell>Gold</cell>
+                  </row>
+                  <row>
+                     <cell>Vorschuß</cell>
+                     <cell>––</cell>
+                     <cell>1 rth –,–</cell>
+                  </row>
+                  <row>
+                     <cell>An Zinsen sind vom 1tenOctober 12/13
+                                eingegangen;</cell>
+                     <cell>44 rth –</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>davon sind gezahlt zur Witwen Casse</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>im Märtz 1813.</cell>
+                     <cell>––</cell>
+                     <cell>12 rth –,–</cell>
+                  </row>
+                  <row>
+                     <cell>im September 1813.</cell>
+                     <cell>––</cell>
+                     <cell>12 rth –,–</cell>
+                  </row>
+                  <row rend="sum">
+                     <cell>summa</cell>
+                     <cell>44 rth –</cell>
+                     <cell>25 rth –,–</cell>
+                  </row>
+                  <row>
+                     <cell>ab die Ausgabe v</cell>
+                     <cell>25 rth –</cell>
+                     <cell/>
+                  </row>
+                  <row rend="sum">
+                     <cell>bleibt</cell>
+                     <cell>19 rth –</cell>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+            <p>Statt deren erfolgen hiebey 20 rth Gold; indem ich
+                    den Vorschuß à 1 rth
+                    aufgebe.</p>
+            <closer>
+               <dateline>
+                  <placeName key="JP-005586">Berlin</placeName> d. 6.9.ber 1813.</dateline>
+               <signed>Mayer</signed>
+            </closer>
+         </div>
+         <div>
+            <p>P.S. Der Brief hat der von der Post gemachten Schwierigkeiten liegen bleiben
+                    müßen. – Heute habe  ich von <persName key="JP-002357">Herrn
+                        Staats Rath Langermann</persName> anliegende Assignation erhalten, die mich
+                    aller weitern Sorge überhebt.</p>
+            <p>ich bemerke also nur noch, daß der <persName key="JP-004107">Richard</persName> zu Ostern nach <placeName key="JP-012506">Züllichau</placeName> kömt; u daß alles sonst unverändert ist; wie ich</p>
+            <closer>
+               <signed>Dein treuer Vater Mayer</signed>
+               <dateline>d. 27.9.ber 13</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

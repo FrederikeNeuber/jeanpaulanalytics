@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0485">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 22.
+                    September 1802, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-09-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig. den 22sten
+                        Septemb: 1802.</dateline>
+            </opener>
+            <p>Wie konnten Sie glauben, mein theurer Vater, daß ich etwas gegen Sie hätte? Seit ich wieder hier zurückgekehrt bin habe ich in einigen Wirrwarr gelebt, der mich gleichsam ganz aus der <hi rendition="#u" hand="#author">Zeit</hi> versezt hat; so daß es
+                    mir, als ich Ihren lieben Brief erhielt, mit Schrecken auffiel, daß ich schon so lange eine Antwort
+                    schuldig bin. – Verschiedne auswärtige Verwandte <persName key="JP-002583">meines Mannes</persName>, sind in den lezten Wochen, der Reihe nach bey uns
+                    eingekehrt, und gestern erst gieng <persName key="JP-012568">mein
+                        Schwager</persName> aus <placeName key="JP-005754">Freiberg</placeName>
+                    wieder zurück. Dies der alleinige Grund der Verzögerung meines Schreibens.</p>
+            <p>Der
+                            Inhalt Ihres lieben Briefes, mein theurer Vater, ist so wichtig, daß ich
+                            ihn nicht ohne eine innige Gemüths-Bewegung empfangen
+                            konnte. – Ein Glückwunsch für Sie!, mein theurer Vater! –
+                    Dieser alltägliche Ausdruck genügt nicht meiner Empfindung! – Ein stilles heiliges Gebet, für Ihr Wohl,
+                    für Ihre Zufriedenheit erfüllt mein ganzes Gemüth – und Rührung erstickt die
+                    Sprache, die nicht in Worten, die Liebe Ihrer Kinder zu ihrem Vater,
+                    überzutragen, fähig ist. —  Daß ich begierig bin, von dem nähern Gange
+                    der Sache etwas zu hören, können sie wohl glauben, mein liebster Vater! –
+                    Schreiben Sie mir doch ja so bald wie möglich – und wenn ehe Sie Ihre Verbindung
+                    vollziehen werden. – Ihre Aufträge werde ich mit
+                            Freuden besorgen. – An <persName key="JP-004393">Minna</persName>
+                    habe ich Ihren Brief noch gestern
+                    Abend geschickt, und heute soll er nach <placeName key="JP-006012">Meiningen</placeName> den Weg antreten.<anchor type="target" xml:id="stop_nxm_4py_hjb"/> –</p>
+            <p>Des Maaßes zum Kleide, wird es freylich bedürfen, weil es sonst nicht
+                    hereingebracht werden kann. Nach ihrem Wunsche, – wäre unter den Farben – <hi rendition="#u" hand="#author">weiß</hi> – <hi rendition="#u" hand="#author">türkblau</hi> – oder <hi rendition="#u" hand="#author">silbergrau</hi>, dünckt mich am geschmackvollsten
+                    zu wählen. Schreiben Sie mir darüber noch, denn es ist noch Zeit vor der Meße.
+                    Ich  möchte es doch gern nach ihrem und <hi rendition="#u" hand="#author">
+                  <persName key="JP-002709">Henriettens</persName>
+               </hi> Geschmack
+                    besorgen. Sie werden ja sehen welche Farbe am häufigsten von ihr getragen wird.</p>
+            <p>Um den Brief noch heute zur Post zu schiken muß ich eilig schließen. Leben Sie
+                    wohl, mein geliebter Vater. Meine besten Wünsche begleiten Sie <hi rendition="#u" hand="#author">ew</hi>ig! – Wollen Sie ihrer
+                        <persName key="JP-002709">Freundinn</persName> vorläufig recht viel
+                    herzliches von mir sagen, so werden Sie aus meiner Seele sprechen! – Leben Sie
+                    wohl!</p>
+            <closer>
+               <signed>
+                            E: M:
+                        </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

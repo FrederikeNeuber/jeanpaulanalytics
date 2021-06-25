@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0085">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Therese Lentz an Caroline Richter. Berneck, 2. Juni 1808, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002400">Therese Lentz</persName>
+               <placeName key="JP-005588">Berneck , Bad</placeName>
+               <date when="1808-06-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012212">Liebesleben / Ehe</term>
+               <term xml:id="JP-012265">Geschlechterrollen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berneck den 2tenJuny 1808.</dateline>
+            </opener>
+            <p>Die Hoffnung Sie in Ihrem Hauße zu sprechen liebe Richter! die aber bisher immer
+                    durch mein seltenes und kurzes Verweilen in <placeName key="JP-005574">Bayreuth</placeName> unerfüllt blieb, ist Ursache
+                    so später Zurücksendung der anliegenden
+                            Briefe, für deren Mittheilung ich Ihnen
+                    herzlich danke.</p>
+            <p>Ich habe sie mit <persName key="JP-002401">meinem Manne</persName> durchgelesen
+                    und lange mit ihm darüber gesprochen. Sein Urtheil ist <persName key="JP-004378">Rosaliens</persName> Wünschen <hi rendition="#u" hand="#author">nicht</hi> günstig. </p>
+            <p>Er glaubt zwar gerne daß <persName key="JP-001363">G.</persName> Neigung für <persName key="JP-004378">meine
+                        Schwester</persName> zeigt, findet aber diese Neigung nicht so bieder und
+                    innig als es die vielen Hindernisse, deren <persName key="JP-001363">G.</persName> selbst erwähnt, und <hi rendition="#u" hand="#author">vor allen</hi>
+               <persName key="JP-004378">Rosaliens</persName> Glück erfordern.</p>
+            <p>Vor allem glaubt er mit mir, daß ein Mann welcher schon <hi rendition="#u" hand="#author">so oft</hi> und nicht immer im reinsten Sinne
+                    geliebt hat, einem jungen unschuldigen Mädchen <hi rendition="#u" hand="#author">nie</hi> das Vertrauen  und die Achtung einflößen
+                    könne welche doch immer die Seele einer glücklichen Ehe bleibt; und dann wird
+                    auch im Gegentheile er, dem vielleicht nie ein reines Weßen begegnet ist, weil
+                    er es selbst nicht wollte, wird er sich für immer von einem Mistrauen reinigen
+                    können das die unausbleibliche Folge seiner Lebensart seyn mußte?</p>
+            <p>Doch ich will diese Gedanken, welche unendlichen Werth gewinnen wenn man einmal die heiligsten Bande des Lebens
+                    geschlungen hat, gerne als übertrieben ängstlich ansehen wenn nur <persName key="JP-001363">G.s</persName> Betragen nicht
+                    selbst Zweifel gegen seine ernstlichen Absichten einflöste.</p>
+            <p>Es sind nun schon zwey Jahre, daß <persName key="JP-001363">er</persName> in seinen Briefen von Hindernissen
+                            spricht die sich seinem Glücke wiedersetzen. Noch nie sprach er aber von den Mitteln und
+                    Wegen diese zu überwinden, auch wurde es nie recht deutlich in was sie
+                    eigentlich bestanden. Hält er sie für  überwindbar, so wäre es doch in
+                    jedem Falle seine Pflicht sicht ernstlich bey meinem Vater zu erklären, der doch
+                    nur alleine die Hand <persName key="JP-004378">meiner Schwester</persName>
+                    zuzusichern vermag; und dann liegt es ja immer schon von jeher in dem Innern
+                    jedes Menschen, das was er einmal für ein Gut erkannt hat, sich so viel als
+                    möglich zuzusichern.</p>
+            <p>Glaubt <persName key="JP-001363">G.</persName> aber, die
+                    Hindernisse zu <persName key="JP-004378">Rosaliens</persName> Besitz zu gelangen
+                    seyen unübersteiglich, so ist es warlich höchst unrecht, daß er ein junges
+                    Mädchen von den besten Eigenschaften hinter dem Rücken ihrer Eltern mit Liebe
+                    täuscht, um sie vielleicht dann, wenn jede andere Aussicht zu künftigem Glücke
+                    verschwunden ist sich und ihrer Reue zu überlassen. Doch, dies kan ich nicht
+                    glauben, ob ich gleich nie ein wahres Vertrauen auf <persName key="JP-001363">G.</persName> setzen konnte und mich
+                    schwer überzeugen lasse, daß meine <hi rendition="#u" hand="#author">
+                  <persName key="JP-004378">Schwester Rosalie</persName>
+               </hi> mit einem solchen Manne glücklich seyn
+                    wird.</p>
+            <p>Ich sage Ihnen auch offenherzig, Liebe  Richter, daß ich <persName key="JP-004378">Rosaliens</persName> Neigung
+                    nicht für <hi rendition="#u" hand="#author">eine wahre</hi> halte.
+                    Sie täuscht sich vielleicht selbst, aber wie gesagt, ich glaube nicht daß ihre
+                    Liebe die Proben bestehen würde,  welche eine Verbindung mit <persName key="JP-001363">G.</persName> ihr abnöthigen werden.</p>
+            <p>Sie kennen <persName key="JP-001363">G.</persName> Sein
+                    ganzes Äußere verräth schon einen kränklichen Körper; und seine vergangene
+                    Lebens Art ist ein schlechter Bürge künftigen Wohlseyn's. Denken Sie sich nun
+                    das traurige Loos, wenn <persName key="JP-004378">meine Schwester</persName>,
+                    die wie wir alle nur sparsam die Freuden des Lebens genoß ihre Jugend an der
+                    Seite eines kränklichen (und zwar durch eigne Schuld kranken Mannes) zubringen
+                    soll. Wie viele traurige Beyspiele dieser Art haben wir nicht schon erlebt! Wo
+                    bleibt dann das Glück? wo die Freude? Reue ersezt alles.</p>
+            <p>Auch werden ausschweifende Männer gewöhnlich eifersüchtige Ehemänner und dies ist
+                    eine natürliche Folge ihrer Lebensweise, wie ich schon ein mal
+                    erwähnte.</p>
+            <p>Alle diese Stöhrer der Ruhe und des Glücks erfordern von Seiten des Weibes die
+                        <hi rendition="#u" hand="#author">höchste Liebe</hi> um ihnen zu
+                    wiederstehen und nicht auf der einen oder andern Seite im Kampfe unterzugehen.
+                    Ich glaube nicht, wie gesagt, daß <persName key="JP-004378">Rosalie</persName> diese für <persName key="JP-001363">G.</persName> empfindet.</p>
+            <p>Sie wissen, liebe Richter, wie wenig Gelegenheit man in<placeName key="JP-005574">Bayreuth</placeName> hat,
+                    Männer höherer Art, Männer wie sie ein gebildetes Weib wünscht, kennen zu
+                    lernen. Selbst im Äußern behaupten nur wenige eine höhere Stufe; und was finden
+                    Sie im Innern? antworten Sie selbst meine Liebe! Schon von jeher war dies so; kein Wunder also
+                    wenn ein Mann wie <persName key="JP-001363">Golz</persName>, mit diesem Talente sich einzuschmeicheln und mit dem
+                    sichtbaren Verlangen <persName key="JP-004378">meiner Schwester</persName>
+                    gefällig zu seyn, ihr verlangendes unbefangenes Herz an sich zog. Sie  war von jeher zur Schwärmerey geneigt, und da diese Leidenschaft gleich bey
+                    Anbeginn der Bekanntschaft sehr in Thätigkeit gesezt wurde so gedieh sie immer
+                    weiter – aber – wie ich fest überzeugt bin nur in der Einbildung, nicht im
+                    Herzen.</p>
+            <p>Ich würde nicht so bestimmt sprechen, Liebe Richter, wenn ich <persName key="JP-004378">Rosalien</persName> nicht so genau
+                    kennte. Ich habe sie schon öfter in dergleichen Fällen gesehen und beobachtet.
+                    Ich wollte eine Wette mit Ihnen eingehen, daß wenn <persName key="JP-001363">Golz</persName> nichts mehr von sich hören ließe
+                    und niemand diesen Punct mehr berührte, <persName key="JP-004378">Rosalie</persName> von selbst vergessen würde.
+                    Schon jezt, wenn Sie bemerken wollen, ist ihr Herz dem Vergnügen und der Freude
+                    ganz offen, und wenn sie nicht manchmal häusliche Verhältnisse Veränderung ihrer
+                    Lage wünschen ließen, oder ein anderer  interessanter Gegenstand ihre Aufmerksamkeit auf sich zöge, so bin ich
+                    überzeugt <persName key="JP-001363">Golzens</persName>
+                    Bild wäre bald erloschen. Ziehen Sie aus dieser offenherzigen Rede keinen
+                    nachtheiligen Schluß auf die Beständigkeit meiner Schwester, Liebe Richter, ich
+                    will Sie nur damit überzeugen, wie ich mich als <persName key="JP-004378">Rosaliens</persName> sonstige
+                    nächste Umgebung überzeugt habe, daß <persName key="JP-001363">Golz</persName> und alle Vorherigen, nicht die
+                    Männer waren welche <persName key="JP-004378">meine Schwester</persName> für
+                    immer fesselten u daß sie folglich mit diesem noch weniger als mit allen andern
+                    glücklich seyn würde.</p>
+            <p>Dies, beste Freundin, ist meine Meynung über den so oft besprochenen und mir so
+                    sehr am Herzen liegenden Gegenstand und <persName key="JP-002401">mein
+                        Gatte</persName> theilt diese Gedanken. Urtheilen Sie daher wie sehr jedes
+                    neue Zurückrufen desselben in das Gedächtniß meiner  <persName key="JP-004378">Schwester</persName> und vor allen die Versendung jenes Bildes mich unruhig machte. Nie
+                    würde aber mein <persName key="JP-002401">Mann</persName> so wohl als ich es
+                    billigen, daß <persName key="JP-004378">Rosalie</persName> das Ihrige dagegen
+                    schickte wenn es nicht mit Wissen der Eltern geschähe.</p>
+            <p>Sie, liebe Richtern, die Sie so weise und erfahren sind, werden gewiß dieses
+                    Schreiben nicht für zu strenge halten und mir zutrauen daß ich bereit wäre meine
+                    Grundsätze und Meynungen mit Thaten zu belegen um so mehr, da man als Weib
+                    vertrauter mit den Ansprüchen und Grundsätzen der Männer wird und sich immer
+                    mehr überzeugt, daß man als Mädchen nie zurückhaltend und ernsthaft genug in der
+                    Liebe seyn kann.</p>
+            <closer>
+               <salute>Unter  mein und
+                            <persName key="JP-002401">meines Gatten</persName> herzlichsten Grüßen
+                        an <persName key="JP-999999">den Ihrigen</persName> Liebe Freundin und den
+                        Versicherungen der innigsten Verehrung für Sie nenne ich mich</salute>
+               <signed>Ihre ergebenste Therese
+                                Lentz gebohrne v.
+                            Voelderndorf</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0652">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Augsburg, 14. September 1819, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005548">Augsburg</placeName>
+               <date when="1819-09-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Augsburg</hi>.am 14ten Sept.
+                        1819.</dateline>
+               <salute>Theuerste Mutter!</salute>
+            </opener>
+            <p>Gestern bin ich in größtem Wohlsein hier angekommen. Die Stadt ist durch die Handelsgeschäfte
+                    bedeutender als <placeName key="JP-006085">Nürnberg</placeName>, und vielleicht
+                    auch größer; obgleich es in <placeName key="JP-006085">Nürnberg</placeName> viel lebhafter ist. Ich logire im <placeName key="JP-012982">weißen Roß</placeName>, wo ich 2 Nächte bleibe u am 15ten Sept. nach <placeName key="JP-006040">München</placeName> reise. Nach <placeName key="JP-006230">Salzburg</placeName> kann ich nicht
+                    gehen, weil das Geld dazu mangelt. Es ist hier sehr theuer. Ein Seidel Bier 3
+                    xr. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0512/#start_xjn_z4s_fnb">Herr Benda</ref>, an dem ich jenen Brief von seinen Bruder abgab, führte uns heute ins <placeName key="JP-012911">Rathhaus</placeName>, wo wir eine Bildergallerie sahen, die vielleicht
+                    die schönste u reichste in ganz Teutschland ist. Auch besuchte ich den Herrn Rektor des hies. Gym., der uns die überaus schöne u
+                    große Bibliothek der Stadt zeigte, die bes. an alten Handschriften u Incounabeln
+                    reich ist.  Auch besah ich die Kirchen, die meistens unbedeutend sind.
+                    Mit dem Geld geht es jetzt ziemlich ans Ende. <placeName key="JP-005548">Augsburg</placeName> hat
+                    eine herrliche Lage. Unterwegs gab's viele Unterhaltung mit
+                    Kaufmännern, Italieniern, Soldaten p. </p>
+            <p>Ist der gute <persName key="JP-999999">Vater</persName> wieder zurück? Schreibe
+                    mir doch etwas wenigstens nach <placeName key="JP-006040">München</placeName>,
+                    vielleicht an <persName key="JP-002482">F v. Lochner</persName>. Ich erfahre ja gar nichts von ihm, da
+                        sich fast jedermann nach ihm erkundigt; selbst jener alte Rektor, der dem <persName key="JP-000768">HerrnCons.Degen</persName> gleich, sprach von ihm u will
+                    sogar seine sämmtlichen Werke anschaffen. Euch grüße ich Alle. Ich habe  mündlich mehr zu
+                    sprechen. Küsse den <persName key="JP-999999">Vater</persName>, wenn er kommt,
+                    in meinem Namen und schreibe ja Deinem</p>
+            <closer>
+               <signed>Dir ewig gehorsamen Sohn Max Richter.</signed>
+            </closer>
+            <postscript>
+               <p>In Eile</p>
+               <milestone unit="section" rendition="#hr"/>
+            </postscript>
+            <postscript>
+               <p>Künftig einen größeren u schöneren Brief.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

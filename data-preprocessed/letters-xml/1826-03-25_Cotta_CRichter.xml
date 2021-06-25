@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0372">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Friedrich Freiherr Cotta von Cottendorf an Caroline Richter. Stuttgart, 25. März 1826, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000698">Johann Friedrich Freiherr Cotta von Cottendorf</persName>
+               <placeName key="JP-006315">Stuttgart 
+               </placeName>
+               <date when="1826-03-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Stuttgart 25. Merz 1826</dateline>
+            </opener>
+            <p>Verzeihen Sie, verehrteste Frau, daß ich <ref type="letter" target="JP-UB0120">Ihr geehrtes Schreiben v. 16. v. M.</ref> wegen der
+                    Menge meiner Geschäfte erst heute beantworte.</p>
+            <p>Den Verlag der "<bibl sameAs="JP-010885" subtype="werke-jp">Selina</bibl>" werde ich
+                    nach den früheren Besprechungen und Correspondenzen mit Vergnügen besorgen und
+                    erwarte daher nur die Ubersendung des Manuskripts.</p>
+            <p>Daß <persName key="JP-003408">HerrReimer</persName> den Verlag der <bibl sameAs="JP-010983" subtype="werke-jp">sämtlichen
+                        Werke</bibl> übernommen hat, ersehe ich schon früher
+                    aus den
+                    verbreiteten Anzeigen und <anchor type="target" xml:id="start_mzq_4q3_vkb"/>ich hätte von ihm um so mehr erwarten können,
+                    daß er sich mit <persName key="JP-000704">meiner Handlung</persName> wegen des
+                    Verlages der einzelnen Werke verständigen würde, als ihm wohl bekannt seyn muß,
+                    daß diese mit der ihm zustehenden <persName key="JP-004624">Weidmannschen
+                                Handlung</persName> wegen <persName key="JP-002914">Müllers</persName>
+               <bibl sameAs="JP-009255" subtype="werk">Schweizer Geschichte</bibl> mit 100 Frd’or abfand, da dieselbe in die <bibl sameAs="JP-009257" subtype="werk">sämtlichen Werke</bibl>
+               <persName key="JP-002914">Müllers</persName> aufgenommen wurde.<anchor type="target" xml:id="stop_mzq_4q3_vkb"/>
+            </p>
+            <p>Es sind über f 20000 - , welche Ihr verewigter Gemahl an
+                    Honorar nach und nach von <persName key="JP-000704">meiner Handlung
+                    </persName>bezog; das Inventarium derselben belegt hinlänglich, daß der Erfolg
+                    selten ein günstiger war – wenn dieß aber auch anders wäre, wie sollte ich es
+                    mit der Pflicht gegen <persName key="JP-012955">die
+                        Meinigen</persName> vereinbaren können, auf die Vortheile Verzicht zu thun,
+                    welche für diesen Aufwand noch zu erwarten um dieselbigen einem mir fremden
+                    Verleger zuzuwenden, dessen Verdienst in dieser Angelegenheit von mir ohnedieß
+                    nicht hoch angeschlagen werden kann.</p>
+            <p>Und wenn ich wirklich der Mann von denen Gesinnungen wäre, die Sie mir zutrauen
+                    und zu denen ich mich auch bekenne – so muß ich um so mehr mein ganzes
+                    Verhältniß im Auge behalten und mit Uberlegung handeln um die Kraft zu erhalten,
+                    solche Gesinnungen auch ausführen zu können.</p>
+            <p>Ubrigens darf <persName key="JP-003408">HerrReimer</persName> versichert seyn, daß <persName key="JP-000704">meine
+                        Handlung</persName> nach möglichster Billigkeit handeln werde.</p>
+            <closer>
+               <salute>
+                  <persName key="JP-000695">Meine Frau</persName> empfielt sich mit mir auf's
+                        achtungsvollste und ich verbleibe mit unwandelbarer Verehrung p.p.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

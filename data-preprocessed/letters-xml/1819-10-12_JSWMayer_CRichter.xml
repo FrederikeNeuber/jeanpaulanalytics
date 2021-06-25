@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0804">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 12. Oktober
+                    1819, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1819-10-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 12. October
+                        19.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Ein , ein<placeName key="JP-006271"> Schweitzer</placeName>, der hier als Lieutenant bey dem <placeName key="JP-006056">Neufchatel</placeName>schen Jäger Corps stehet, und ein Hauß
+                    Freund von uns ist, gehet über <placeName key="JP-005574">Bayreuth</placeName> nach <placeName key="JP-005587">Bern</placeName> und will unsere Bestellungen nach <placeName key="JP-005574">Bareuth</placeName> besorgen.</p>
+            <p>Diese betreffen<list>
+                  <item>1, die Überbringung vom Zeug zu Spencern als eine Winter Bekleidung für Dich u <persName key="JP-003484">Deine liebe Töchter</persName>, was ich hier durch <persName key="JP-002709">meine Frau</persName> habe kaufen laßen, u womit ich
+                            Euch ein Geschenk mache.</item>
+                  <item>2, die Zahlung der für die Zeit vom 1.8<hi rendition="#u" hand="#author">ber</hi>18 bis dahin –
+                                19 der zu berechnenden Richterschen
+                            Zinsen. Solche betragen an sich von 1100 rth Gold, die Summe von 55 rth Gold.
+                            Es gehen aber davon ab, – die Wittwen Cassen
+                            Gelder vom 1. April 18 / bis
+                                19 mit <table rows="4" cols="2">
+                        <row>
+                           <cell/>
+                           <cell>24 rth Gold</cell>
+                        </row>
+                        <row rend="sum">
+                           <cell>bleibt Rest</cell>
+                           <cell>31 rth –, –</cell>
+                        </row>
+                        <row>
+                           <cell>oder</cell>
+                           <cell>30 rth Gold</cell>
+                        </row>
+                        <row>
+                           <cell>u</cell>
+                           <cell>1 rth 12Courant u <ref target="JP-UB0290/#nitb_j15_njb">Agio</ref>.</cell>
+                        </row>
+                     </table>
+                  </item>
+               </list>
+            </p>
+            <p>Diese Summe wird Dir nun <persName key="JP-002709">meine Frau</persName>, welche davon die von Dir darauf assignirten, von
+                    ihr für Dich, u auch für <persName key="JP-000426">Frau v.
+                            Bomhard</persName> gemachten Auslagen, abziehen wird, berechnen, u ich erbitte mir eine
+                    Quittung über den total Betrag der <table rows="2" cols="2">
+                  <row>
+                     <cell/>
+                     <cell>30 rth Gold</cell>
+                  </row>
+                  <row>
+                     <cell>u</cell>
+                     <cell>1 rth 12 grCourant</cell>
+                  </row>
+               </table>
+            </p>
+            <p> Von meinem leyder traurigen Befinden laß Dir übrigens durch
+                        Herrnv. Sinner Nachricht geben.</p>
+            <closer>
+               <salute>Grüße die Deinigen u liebe fortwährend </salute>
+               <signed>Deinen treuen Vater Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0090">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emma Richter. Marienbad, 8. Juli 1819, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006002">Marienbad</placeName>
+               <date when="1819-07-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Marienbad, Mitwochs den 8ten Juli</dateline>
+               <salute>Liebste Emma!</salute>
+            </opener>
+            <p>Von Euch und
+                    vom <persName key="JP-999999">Vater</persName>gar keine Nachricht zu haben ist mir erschrecklich.
+                    Und darum schreibe ich Euch um so eher, weil Ihr dieselbe Unruhe haben werdet
+                    für mich. Oft möchte ich wieder bei Euch sein, allein die Wohlthat die mein
+                    Hiersein für <persName key="JP-002703">meinen Vater</persName> hat, ist nicht zu
+                    berechnen. Wenn ich auch <persName key="JP-002703">des
+                                armen Mannes</persName> Zustand nicht
+                    erleichtern kann so ist die Erheiterung für sein Gemüth so wichtig daß Niemand
+                    darin eine überflüßige Aufopferung finden kann, der menschlich fühlt und denkt.
+                    Ehe ich kam und auch <hi rendition="#u" hand="#author">keiner</hi>meiner Briefe angelangt war, weinte er wie ein Kind, daß ich
+                    so wenig Gefühl für ihn habe. Nein, die Caroline sagte er „ich begreife sie
+                        nicht!" Als Jemand ihm
+                    sagte, ich habe Ähnlichkeit mit ihm, weinte er wieder bitterlich. Als ich ankam
+                    war es schwer die Wohnung meiner Eltern zu finden, da unter den Vielen,
+                    nicht ein einziger müßiger Mensch war, der den Boten hätte machen wollen. Ich
+                    mußte also selber suchen, und ging von Hinz zu Kunz, dreimal vergebens. Niemand
+                    wußte ihn. Endlich finde ich im Badehause seinen Bedienten Indem ich nach der Wohnung des G. R. <persName key="JP-002703">Mayer</persName> frage, sagt er, ich bin sein
+                    Bediente, und eben ist der Herr hier im Bade. Ich bat ihn nichts zu sagen, und er beschrieb mir die Wohnung wohin ich nun zur
+                        <persName key="JP-002709">Mutter</persName> eilte. Ich gab ein Paket von der
+                        <persName key="JP-000426">Bomhard</persName> ab, und sie errieht gleich daß
+                    ich draußen sei. Ihre Freude war unendlich. Nun wurde <persName key="JP-002703">mein Vater</persName> mit dem Wagen geholt. Sein erster Anblick war
+                    herzzerreißend. Denke Dir ganz den alten <persName key="JP-000666">Clöter</persName>! Nur im Gemüth nicht diese Lebendigkeit und Heiterkeit,
+                    sondern höchste Stille, Antheilnahme , und tiefe Wehmuth. Alles preßt ihm
+                    Thränen aus. Mein, <persName key="JP-003491">Odiliens</persName> Anblick, machten ihn bitterlich weinen. Nun
+                    fühlt er manchmal seine Schwäche, und sagt kannst du dir denken, daß <persName key="JP-002703">dein Vater</persName> so herunterkommen mußte?! Rührend ist
+                    seine Liebe für alle Arme, und Kinder – Er fährt nun alle Tage spatzieren, und
+                    seine innige Freude an der Natur, der Schönheit der Gegend ist das  Rührendste.
+                        <persName key="JP-002709">Die sehr herrliche Mutter</persName> ist aber
+                    unendlich zu bedauern denn die gewissenhafteste Pflege ist ohne Wirkung. Er wird
+                    nicht besser, kann nicht besser werden.</p>
+            <p> Die Hauptsache ist, daß er durch die Badreise eine angenehmere
+                    Existenz hat, als zu Hause. Im Reisewagen wo ein Gegenstand nach dem Andern
+                    seinem Auge vorüberzieht, ist er am glücklichsten. Diese Reise hat keinen
+                    anderen Zweck und ist es nicht natürlich, daß man ihm den letzten unschuldigsten Genuß gern gönnt? Wenn
+                    sie <placeName key="JP-006002">Marienbad</placeName> verlassen gehen sie über
+                        <placeName key="JP-005696">Eger</placeName> noch nach <placeName key="JP-005574">Baireuth</placeName>. Unter andern zieht <placeName key="JP-005588">Bernek</placeName> ihn an, wovon er noch das kleine Bild in Perlen
+                            mosaik
+                    besitzt. Er wird in <placeName key="JP-005574">Baireuth</placeName> nur höchstens 2 Tage bleiben, aber <placeName key="JP-011045">Eremitage</placeName> sehen. O wie kindlich freut ihn die
+                    Natur – ein Platz im Freien sei er noch so unbedeutend entzükt ihn. <persName key="JP-003491">Odiliens</persName> Liebe
+                    thut ihm sehr wohl. Manchmal will er sie auf seinen Schooß nehmen wenn wir
+                    fahren. Er findet sie aber nicht mir, sondern <persName key="JP-999999">dem
+                        Vater</persName> ähnlich. – Mein Herz kann mir an dem hiesigen Dasein so
+                    schön es ist, keine Freude erlauben. Wenn ich auf <persName key="JP-002703">meinen Vater</persName> sehe, ist alles hin – – – </p>
+            <p>Es ist aber sehr schön hier. <placeName key="JP-006002">Marienbad</placeName> ist
+                    keine Wüstenei, sondern ein lieblicher Aufenthalt. Mit vielem Geschmack werden
+                    die Anlagen und Gebäude, durch den Prälaten von <placeName key="JP-012331">Tepl</placeName> geordnet.  Abends beim
+                    Mondschein, und wenn die Lichter in den niedlichen Häuser angezündet sind glaubt
+                    man in eine Zaubergegend versetzt zu sein – Wenn <persName key="JP-999999">der
+                        Vater</persName> hier wäre, sogar Er würde entzückt sein.</p>
+            <p>Doch genug – möchte der Brief früher ankommen als ich. Am Sonnabend fahre ich ab,
+                    und kann Sonntag Abend zu Hause sein. Hätte ich keine Furcht vor <persName key="JP-999999">dem Vater</persName>, so bliebe ich gern bis zur Abreise
+                        meiner Eltern, denn es ist wirklich ein gutes Werk.
+                    Allein es wird  in
+                    keinem Augenblick meines Lebens mir irgend Etwas wichtiger sein, als die
+                    Rücksicht auf den Willen <persName key="JP-999999">des Vaters</persName>. Lebet
+                    wohl Kinder,
+                    möchte alles zu Hause einen ruhigen sichern Gang gehen, und Ihr recht froh sein.
+                    Lebet wohl! Grüßet alle Freunde.</p>
+            <closer>Caroline.</closer>
+            <postscript>
+               <p>Für die <persName key="JP-000929">Elisabeth</persName> als Geschenk des <hi rendition="#u" hand="#author">
+                     <persName key="JP-999999">Vaters</persName>
+                  </hi> kaufe ein Mouslin Halstuch wie das roth quadrierte was ich <persName key="JP-003490">Max</persName> zur Halsbinde gegeben habe, aber nicht roth sondern blau
+                        oder lila und weiß. Gerade so groß, es darf aber nicht über 1 Fl. kosten. Hat
+                            Koppel keine solche
+                        so kaufe es vom Nietsche.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

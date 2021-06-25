@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0353">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Mayer. Leipzig, 14. April 1802, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-04-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Am 14<hi rendition="#u" hand="#author">ten</hi>Aprill: 1802.</dateline>
+               <salute>Mein theurer Vater,</salute>
+            </opener>
+            <p>Der InhaltIhrer beyden lezten Briefe an <persName key="JP-002583">meinen
+                                Mann</persName> und an mich, warso niederschlagend für uns, daß es eines Aufschubs meiner
+                    Antwort bedurfte. – Sie werden das vielleicht nicht unnatürlich finden, wenn Sie
+                    sich einen Augenblick an unsre Stelle sezen, die wir, seitdem wir <placeName key="JP-005586">Berlin</placeName> verließen, an der himmlischen Vorstellung
+                    Ihres Aufenhalts in unsrer Wohnung hingen, und seitdem uns nur damit
+                    beschäftigten, die schöne Zukunft in unsrer Phantasie mit tausend herrlichen
+                    Farben auszuschmücken. – Mir muß die Störung dieses Plans in doppelter Hinsicht
+                    schmerzhaft seyn. Nicht so wohl um mein selbst, vielmehr um <persName key="JP-002583">meines Mannes</persName> willen, welcher auf die Erfüllung
+                    dieses Wunsches einen hohen  hohen Werth legte. – Doch aber würden
+                        wir, Sie nicht in der
+                    unangenehmen Alternative gesezt haben, zwischen uns und <hi rendition="#u" hand="#author">Spaziers</hi> wählen zu müßen, wenn wir gewußt
+                    hätten daß diese uns mit einer Einladung zuvor gekommen wären. – Denn es war ja
+                    immerfort frey die Rede davon wie <persName key="JP-002583">mein Mann</persName>
+                    darauf rechnete, und <hi rendition="#u" hand="#author">Spaziers</hi>
+                    äußerten nie ihre Absicht.</p>
+            <p>Doch es wäre kleinlich, darüber empfindlich zu seyn! – Es darf hier, wenigstens
+                    unter <persName key="JP-002706">ihren Töchtern</persName>, nicht von Selbstgenuß
+                    die Rede seyn; sondern es komt nur einzig darauf an Ihnen, mein guter Vater, den
+                    Aufenthalt in <placeName key="JP-005948">Leipzig</placeName> so angenehm als nur
+                    immer möglich zu machen. Übersehen Sie daher,  wo möglich, den Eingang
+                    dieses Briefes ganz, und halten Sie sich vielmehr an  meiner lezten Äußrung, welche aus dem
+                    Innersten meines Herzens komt, und nur die Versichrung enthält, daß  wie nahe
+                    oder entfernt ich Sie auch haben werde, von meiner Seite, alles, zur Erreichung,
+                    dieses höhern Zwecks geschehen soll – was ich nur vermag.</p>
+            <p>Mit ihrem Vorsaz, nicht der Meß-Zeit beizuwohnen, bin ich jetzt auch ganz
+                    einverstanden, weil  wir
+                    freylich an ruhigem Genuß unendlich gewinnen. – Wenn gleich auf der andren
+                    Seite, unser erster Vorschlag manches für sich hat. Ich bildete mir wenigstens
+                    ein, daß es einen Genuß für Ihren  Geist seyn würde, manchen
+                    intereßanten Menschen, deren sich in dieser Zeit, so viele hier vereinigen,
+                    kennen zu lernen. – So ist mir oft bange, daß Sie wohl in <placeName key="JP-005948">Leipzig</placeName> Langeweile haben könnten. –</p>
+            <p>Den Profeßor<persName key="JP-012095">Burnat</persName>bin ich so unglücklich gewesen ganz zu verfehlen – und habe dadurch recht
+                    viel verloren! Denn mündliche Nachrichten  von Ihnen, mein guter Vater, wären mir so werth
+                    gewesen, weil sie mehr sagen, als tausend Briefe. – Wir waren an dem Tage seines
+                    Hierseyns, das nur auf so wenige Stunden beschränkt war, schon früh um 7 Uhr über Land
+                    gefahren, und am Abend erhielten wir Ihren Brief, mit der Nachricht, daß
+                        <persName key="JP-012095">B:</persName> schon wieder abgereißt sey. Ich war
+                    recht traurig! –</p>
+            <p>Wie
+                            <persName key="JP-003469">Caroline</persName> habe ich, auf meinem lezten  Brief noch keine Antwort, und weiß daher noch immer
+                    nichts bestimmtes, über ihre Herreise. Von einem Dritten, hörte ich vor wenigen
+                    Tagen <persName key="JP-999999">Richter</persName> käme in der ersten Meß-Woche
+                    hier an. Ich sehne mich recht nach einer entscheidenden Antwort – doch die
+                        <persName key="JP-003469">Caroline</persName> lebt gewiß jetzt in
+                    Zerstreuungen; ich weiß daß  Richters Freund aus Bayreuth – <persName key="JP-003087">Emanuel</persName> – jetzt dort ist, und darüber wird sie wohl alles andre vergeßen.</p>
+            <p>
+               <persName key="JP-002583">Mein Mann</persName> wollte heut auch an Sie schreiben;
+                    doch machen seine Geschäfte es ihm unmöglich, weil sie ihn fast sich selbst
+                    rauben. <persName key="JP-012596">Voss</persName> ist
+                    noch nicht wieder da, und <persName key="JP-002583">mein  Mann</persName>daher in gewißer Art, die
+                    Seele von zweyen Körpern, weil beyde Buchhandlungen jetzt seine Aufsicht fodern.
+                    – Entschuldigen Sie ihn also für diesmal, mein guter Vater!. –  Genießen Sie den schönen Frühling, recht, mein liebster Vater? – Ich bin mit
+                    meinen Gedanken recht oft bey Ihnen, und begleite Sie auf Ihren Spaziergängen,
+                    so wie wir sie sonst täglich an Ihrer Seite machten. Hier keimt und sproßt schon
+                    alles hervor, man möchte sagen daß man das Gras und das Laub wachsen <hi rendition="#u" hand="#author">sieht</hi>! – Wenn Sie hier seyn
+                    werden und wir wieder an Ihrem Arm die schöne Natur genießen können, wird mir
+                    alles noch einmal so schön dünken! –</p>
+            <closer>
+               <salute>Leben Sie wohl, mein liebster Vater, Leben Sie recht wohl! Und erhalten
+                        Sie mir Ihre Liebe Ich könnte es nicht ertragen wenn ich die je verlöre!
+                        Leben Sie recht wohl!</salute>
+               <signed>E'rnestine!</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

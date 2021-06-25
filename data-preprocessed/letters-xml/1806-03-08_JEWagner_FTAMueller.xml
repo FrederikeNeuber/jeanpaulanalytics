@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0861">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 8. März 1806,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1806-03-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012728">Abschied</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 8<hi rendition="#uu" hand="#author">n</hi> März 1806.</dateline>
+            </opener>
+            <p>Mein edler, liebenswürdiger – mein Freund ohne Gleichen! Es giebt für mich kein
+                    nothwendigeres Geschäft, als mit der ersten Feder, die ich hier halte, dem
+                    freundlichen heitern schönen Paare – welches meine reine Lebenslust in
+                        <placeName key="JP-006395">Weimar</placeName>, wekcte, großzog und im Herzen
+                    unsterblich machte – zu sagen, daß ich glücklich
+                            wieder da bin; weil ich
+                    weis – ich glücklicher Mensch' – daß dieß theure Paar Menschen <hi rendition="#u" hand="#author">noch</hi>
+               <hi rendition="#u" hand="#author">jetzt</hi> von dem Geschiedenen
+                    sorgsam redet: "sollte er auch mit Glück sein Ziel erreicht haben?" – O meine
+                    Freunde!</p>
+            <p>Gestern Abends um 8. treff ich matt und zerstossen ein, und komme jetzt – nachdem
+                    ich <persName key="JP-002546">meine brave Hzgin</persName> begrüsst, die,
+                    gerührt, <hi rendition="#u" hand="#author">mit</hi> mir sich über so
+                    schöne Menschen freute, deren Bild die <placeName key="JP-005857">Ilm</placeName> (o möge sie Euch sanfter vorübergleiten!) dort zurückgiebt
+                    – komme sag ich, jetzt schon aus meinem ersten Bade. – Von <placeName key="JP-005543">Athen</placeName> langte ich nemlich sehr wohl in
+                        <placeName key="JP-006292">Sparta</placeName> an,
+                    befand mich aber – wiewohl es mein Freund an keiner Art von schwarzer
+                    Kraftsuppe mangeln ließ, Abends sehr übel – doch des andern Abends wieder so
+                    "bequem gesellig", daß ich mit ihm, Hofen und dem alten äuserst heitern <persName key="JP-004289">Thümmel</persName> tief in die Nacht punschen konnte – aller
+                    verbotenen Zitronensäure zum Trotz! Auch ward am folgenden Morgen der <placeName key="JP-006102">Olymp</placeName> von
+                                <placeName key="JP-006292">Sparta</placeName> (soll ich
+                    lieber sagen: der Parnaß?) mit ausgezeichnetem Glück erstiegen, und das Herz
+                    dort erst an Grassy's berühmten zwey
+                            Gemälden, und dann in der That auch an einem ihrer Originale,
+                    erfrischt und in poetischen und verschiednen andern Düften gebadet. – Desto
+                    unbehaglicher und erfrorner kam ich gestern hieher.</p>
+            <p>Für jetzt habe ich nur <hi rendition="#u" hand="#author">eine</hi>
+                    herrschende Empfindung – eine wehmüthige! Daß mich der "redliche Diener" nicht
+                    mehr zu Ihnen ruft! Nur einmal möchte ich in Ihr
+                    freundliches Auge sehen – nur einmal <anchor type="target" xml:id="start_tyl_rhq_p4b"/>das blauäugige
+                                Mathildenköpchen<anchor type="target" xml:id="stop_tyl_rhq_p4b"/> (Sie zürne
+                    nicht! – denn <persName key="JP-999999">J.
+                                Paul</persName> nennt meine Mathilde "eine neue, vom Himmel
+                            niedergelassene Jungfrau", welches ich hier – aber auch nur hier, wohl sagen
+                    darf!) sinnig und freundselig betrachten! Noch einmal – aber ach, all die
+                    Herrlichkeit klingt nur noch aus der Ferne her, und um mich  ist es
+                    still geworden –</p>
+            <closer>
+               <salute>Dank, und Lebewohl! Ewig</salute>
+               <signed>Ihrtreuer JEWagner</signed>
+            </closer>
+            <postscript>
+               <p>Mit dem Gelde – über die fahrende Post – schreibe ich wieder.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

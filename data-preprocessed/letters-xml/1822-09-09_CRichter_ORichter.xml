@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0174">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 9. September 1822, Montag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-09-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012033">Textilien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. den 9<hi rendition="#uu" hand="#author">ten</hi>Sept. 1822.</dateline>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_hhl_lk3_2nb"/>Endlich erhältst Du den
+                    Pflaumenkuchen den ich nun zum drittenmale für Dich gebacken habe. Der gute
+                        <persName key="JP-001584">Reg. R. Hecht</persName>
+                    reißte damals nicht ab, und ich mußte ihn verschimmelt wieder auspacken. Von der
+                    Schokolade habe ich einmal Abends gemacht und bitte deshalb um Verzeihung. Heute
+                    habe ich nicht Zeit noch welche holen zu lassen; aber ich <hi rendition="#u" hand="#author">befehle</hi> Dir, davon Dein Frühstück auf eine
+                    Zeitlang machen zu lassen, denn die dumme Milch kann ich gar nicht vertragen.
+                    Hier erfolgt das Monatsgeld für den Monat August. Daß
+                    sie es ja nur behalten, bis wie weit wir bezahlt haben, und es hernach keine
+                    Irrungen gibt. Sie sind gar zu zerstreut. Erinnere doch die gute <persName key="JP-003031">Auguste</persName> mir jetzt
+                    einmal auf meine Fragen zu antworten es braucht ja nur kurz gesagt zu sein.  Die Handschu und das Messer erfolgen gleichfalls mit Freuden. Sage
+                    mir nur ja alle Deine Sorgen, da Du nicht bei mir bist ist es ja mein einziges
+                    Glück von fern Deine Stütze zu sein. Auch die <ref target="JP-UB0338/#nqdr_2vc_vlb">Kamisäler</ref> können Dir nüzlich
+                        sein.<anchor type="target" xml:id="stop_hhl_lk3_2nb"/> Von den alten Hemden,
+                    schicke die Schadhaften da Du nun neue hast, 2 sind noch nicht fertig. Deine
+                    unbrauchbaren Sachen, schicke in der dunkeln Papp Schachtel alle durch <persName key="JP-001584">Hecht</persName> mit, wie auch diese <hi rendition="#u" hand="#author">Kuchenschachtel</hi> mit <hi rendition="#u" hand="#author">Trauben</hi> wir müssen sie haben, da sie der <persName key="JP-011923">Reizenstein</persName> gehört. Es war sehr artig und
+                    gut von <persName key="JP-001584">Hecht</persName> sich
+                    anzubieten, zu <hi rendition="#u" hand="#author">allem</hi> was uns
+                        nützen kann. Er kam selbst, und sagte freiwillig daß er Dich
+                    besuchen würde, Du kannst recht offen gegen ihn sein.</p>
+            <p>Das Geld und auch das Vorige ist <hi rendition="#u" hand="#author">vom <persName key="JP-999999">Vater</persName>
+               </hi> ich verdiene also nicht
+                    den Dank in Deinem Brief er gab es
+                    so gerne, und grüßt Dich von ganzer Seele</p>
+            <closer>
+               <salute>Lebe wohl mein Leben, bald mehr.</salute>
+               <signed>Deine Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

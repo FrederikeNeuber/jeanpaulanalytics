@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mayer an Johann Siegfried Wilhelm Mayer und Caroline Mayer.
+                    Leipzig, 26. November 1800, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1800-11-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>den 26.t.nobr. 1800</dateline>
+            </opener>
+            <p>Mein guter, lieber Vater, wie sehr haben Sie mich durch Ihr gütiges Geschenk beschämt und überrascht. Auch dank ich Ihnen für den leisen Wink in bezug
+                    auf die leicht sinnige Art mit welcher ich vielleicht mit dem ersten umgegangen
+                    bin. – ich schäme mich fast vor mir selbst daß ich mich hier wo fraglich ein
+                    ganz andrer Maaßstab herrscht als der woran ich bisher gewöhnt war – und wo die
+                    Maße der Menschen es nicht zu schäzen weiß – wenn man sich auch durch Einfachheit geltend machen möchte – daß ich mich
+                    oft unwillkührlich  durch kleinliche
+                        Eitelkeit habe hinreißen laßen. Das
+                    Geschenk von Ihrer lieben Hand mein bester Vater, werde ich durchaus nüzlich
+                    anwenden; das heißt; mein Pelz soll davon in Stand gesezt werden, und dann will ich mir ein kattunenes Haus-Kleid kaufen was mir für den
+                    Winter unentbehrlich ist.</p>
+            <p>Die Zeit des Schwärmens ist jetzt so ziemlich überstanden, und wir fangen
+                    an  ruhig und häuslich zu leben. <persName key="JP-004104">Spazier</persName> sieht
+                    zuweilen einige Menschen, die hier zu den ersten gehören auf einem einfachen Fuß
+                    in seinem Hause. Als seinen eigentlichsten Hausfreund muß ich Ihnen den associé des <persName key="JP-012596">HerrnVoss</persName>. deßen Name
+                    Ihnen auch nicht fremd seyn wird als einen recht liebenswürdigen intereßanten
+                    ganzen Mann –  anführen. – Ich freue mich
+                            auch in der Entfernung der glücklichen,
+                            der seeligen Zukunft die sich Ihnen in dem Glück <persName key="JP-003469">Ihrer Tochter</persName> eröfnet. – Ich nehme jetzt
+                    keinen Anstoß mehr hier öffentlich von <persName key="JP-003469">Carolinens</persName> Heirath zu sprechen und lese dann mit Vergnügen die
+                    höchste Überraschung auf allen Gesichtern. – <persName key="JP-003469">Caroline</persName> schreibt mir gar nicht ob sich denn <persName key="JP-999999">J. P.</persName> vor der Hand wenigstens
+                    in <placeName key="JP-005586">Berlin</placeName> fixiren wird? – </p>
+            <p>In Ihrem lezten Briefe an <persName key="JP-004393">Minna</persName> waren Sie so gütig für die Dauer meines
+                    hiesigen Aufenthalts gar keinen Termin sezen zu wollen. – Wenn ich vielleicht
+                    noch die Neujahrs-Meße hier abwartete so könnte das für <persName key="JP-003469">Carolinens</persName> Einrichtung recht gut angewendet
+                    werden. Denn alsdann kauft man hier alles für ein Spottgeld. Jetzt aber ist es
+                    im Gegentheil hier weit theurer als in <placeName key="JP-005586">Berlin</placeName>. Außgenommen konten oder die sogenannten points sind hier so wohlfeil
+                    und werden daher so gemein daß man sie sogar an den Nachtmüzen trägt. –</p>
+            <p>Nehmen Sie diese flüchtige Zeilen gütig auf mein bester Vater; Ich
+                            schreibe nächstens mehr Die Post eilt und ich kann nur noch hinzufügen
+                            daß ich unwandelbar bin wie immer </p>
+            <closer>Ihre treue Tochter<signed>E.</signed>
+            </closer>
+         </div>
+         <div>
+            <p> Liebste Caroline, ich bin Dir noch Antwort schuldig wegen Besorgung
+                            deines Pelzes. Es ist aber nichts ihn hier zu kaufen denn wie sollte ich ihn Dir denn
+                    hin schaffen! Mit der Post geht es ja nicht! Es wäre ja contrebande. Wenn Du Dir noch kein Kleid gekauft hast so nimm mein
+                    Rath an und kaufe Dir lieber dunkler als so eine leuchtende Farbe. Ich habe
+                    nicht Zeit dir mehr zu schreiben. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0004/#start_f4q_25k_hkb">Vergiß doch ja nicht die Schue ich
+                        brauche sie so nothwendig!</ref> –</p>
+            <p>Und schreib mir ja recht bald und viel!</p>
+            <closer>
+               <signed>Deine E.</signed>
+            </closer>
+         </div>
+         <div>
+            <p>
+               <persName key="JP-004393">Minna</persName> bittet recht sehr um Entschuldigung
+                    daß sie nicht selbst schreibt. Hiebey
+                    erfolgt
+                    der Brief von Lusi. und freut und hofft <persName key="JP-004104">Spazier</persName> auf Ihren Einfluß zum besten seiner Zeitschrift. Leben Sie wohl mein bester Vater!</p>
+            <p>E. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

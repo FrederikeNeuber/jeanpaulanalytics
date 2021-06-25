@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0712">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, um den 10. November 1822,
+                    Sonntag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-11-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012533">Lektüre(n)</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>Wie leid ist es mir daß Dein Geburtstag früher als die
+                    Ankunft dieser Sachen, war. Allein es ist nicht möglich gewesen sie früher
+                    abzuschicken, wenn ich mir gleich mit den Strümpfen sehr geeilt habe. Ob sie Dir
+                    gleich überflüßig scheinen werden, so sind sie doch ein Geschenk der <hi rendition="#u" hand="#author">Liebe</hi>, die Du dadurch
+                    erwiedern mußt, daß Du sie besonders in der Nacht trägst. Solltest Du sie auch
+                        <hi rendition="#u" hand="#author">über</hi> die baumwollnen 
+                    ziehen müssen. Ich meyne, alles was Dir in unserer Nähe gleichgültig
+                    dünkt, müßte Dir jetzt heilig
+                    sein, so die treueste Befolgung unserer leisesten Wünsche.</p>
+            <p>Ich wählte dieses Tuch, weil Du es auch als ein kleines Umschlagetuch auf
+                    Kleidern tragen kannst. Bedanke Dich dafür beim
+                                <persName key="JP-999999">Vater</persName>. Das Stambuch war ja immer Dein Wunsch, es
+                    wird Dir  Freude machen, daß es schon beschrieben ist.</p>
+            <p>
+               <ref target="JP-UB0224" type="letter">Für die <ref target="JP-UB0446/#nesv_2bq_xlb">Blonden</ref> danke ich Dir recht
+                        sehr</ref>. Die <persName key="JP-003934">Schwabacher</persName> will auch 4
+                    Ellen haben. Sind nun noch so viel da, so kaufe sie auch, ich schicke Dir das
+                    Geld gleich. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0224/#start_d31_sx4_plb">Ist denn Dein Ohr wieder
+                        gut?</ref> Wie sollte es mich freuen. Ach daß Du doch ganz, ganz gesund
+                    wärest, mein Kind. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0224/#start_irw_f1k_2nb">Ich habe Herrn<persName key="JP-001608">Heine</persName> und <persName key="JP-003031">Augusten</persName> nun
+                        dringend um Emballirung der Kiste gebeten, am 15<hi rendition="#uu" hand="#author">ten</hi>
+                            Nov. soll sie abgeholt werden.</ref>
+            </p>
+            <p>Heute kommen <persName key="JP-003351">Ranzows</persName> zu uns. <persName key="JP-004661">Therese
+                        Welden</persName> ist nicht wohl, darum komt <persName key="JP-004653">Fr.
+                        v. W.</persName> nicht. Diese ist jetzt wieder ganz so herzlich als sonst.
+                    Deine überflüßigen Kleider lasse in die Kiste packen, nebst den Büchern und des
+                        <persName key="JP-999999">Vaters</persName> Papier. </p>
+            <closer>
+               <salute>Bald mehr, mein Kind! Lebe wohl und liebe Deine treue Dich über Alles
+                        liebende Mutter.</salute>
+            </closer>
+            <closer>Lasse Dir nur den 2<hi rendition="#u" hand="#author">ten</hi> 3<hi rendition="#u" hand="#author">ten</hi> Theil von <bibl sameAs="JP-012457" subtype="werk">Nigels Schicksale</bibl> zum Lesen holen, es
+                        wird recht schön.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

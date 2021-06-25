@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0336">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 1. Juli 1803,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1803-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 1. July
+                        1803</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>In der Hofnung, daß Du meinen nach <placeName key="JP-005649">Coburg</placeName>addressirten Brief erhalten haben
+                    wirst, sehe ich angenehmen Nachrichten von Dir u <persName key="JP-999999">Deinem Mann</persName> entgegen; und schicke Dir, weil ich eben beym
+                    Rechnen bin, anliegenden Abschluß, welcher an den
+                            letzten am 14. August 1802.
+                            gesandten, anschließt; wonach Du Deinen damaligen Zinß beßer
+                    baar erhieltest.</p>
+            <p>Jetzt solltest Du haben<table rows="1" cols="2">
+                  <row>
+                     <cell>Gold </cell>
+                     <cell>courant</cell>
+                  </row>
+                  <row>
+                     <cell>16 rth – – u</cell>
+                     <cell>4 rth 9 gr</cell>
+                  </row>
+               </table>
+            </p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>
+               <table rows="1" cols="3">
+                  <row>
+                     <cell/>
+                     <cell>Gold</cell>
+                     <cell>courant</cell>
+                  </row>
+                  <row>
+                     <cell>Du bekämst also</cell>
+                     <cell>15 rth –, – u</cell>
+                     <cell>5 rth 9 gr</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row rend="sum">
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+            <p>Doch habe ich alles in Gold verwandelt, u
+                        Du erhältst netto Zwanzig Thaler und bitte ich mir darüber Quittung aus. </p>
+            <p>Mein Befinden ist ziemlich, und wird bey weniger Überspannung in der Arbeit in der Folge beßer
+                    werden; wogegen ich mich jetzt nicht sperren kann. </p>
+            <closer>
+               <salute>
+                  <persName key="JP-002709">Meine Frau</persName> ist sehr wohl, u grüßt
+                        Dich u <persName key="JP-999999">Deinen lieben Mann</persName> von
+                        Hertzen.</salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+         </div>
+         <div>
+            <opener>
+               <dateline/>  Seit dem Abschluß vom 12. August 1802.</opener>
+            <table rows="3" cols="3">
+               <head>Einnahmen</head>
+               <row>
+                  <cell/>
+                  <cell>Gold</cell>
+                  <cell>courant</cell>
+               </row>
+               <row>
+                  <cell>Richter Zinsen vom 1. Julius<hi rendition="#u" hand="#author">1802</hi> – 1. Julius 1803.</cell>
+                  <cell>40 rth –,</cell>
+                  <cell> –  –  – </cell>
+               </row>
+               <row>
+                  <cell>Seehandlungs Zinsen vom <hi rendition="#u" hand="#author">9. April 1802.</hi> 9. April
+                            1803.</cell>
+                  <cell> – –</cell>
+                  <cell>4 rth 9 gr –</cell>
+               </row>
+               <row rend="sum">
+                  <cell>Einnahme</cell>
+                  <cell>40 rth –</cell>
+                  <cell>4 rth 9 gr –</cell>
+               </row>
+            </table>
+            <milestone unit="section" rendition="#hr"/>
+            <table rows="1" cols="3">
+               <head>
+                  <hi rendition="#u" hand="#author">Ausgabe</hi>
+               </head>
+               <row>
+                  <cell>Zur Wittwen Casse am 1.8<hi rendition="#u" hand="#author">ber</hi> 1802. dito am 1. April. </cell>
+                  <cell> 12 rth –  12 rth –</cell>
+                  <cell>  – –</cell>
+               </row>
+               <row rend="sum">
+                  <cell>Ausgabe</cell>
+                  <cell>24 rth –,</cell>
+                  <cell> – – –</cell>
+               </row>
+            </table>
+            <closer>
+               <dateline>
+                  <table rows="2" cols="3">
+                     <head>Abschluß</head>
+                     <row>
+                        <cell/>
+                        <cell>Gold</cell>
+                        <cell>Courant</cell>
+                     </row>
+                     <row>
+                        <cell>Einnahmen</cell>
+                        <cell>40 rth –,</cell>
+                        <cell>4 rth 9 gr –</cell>
+                     </row>
+                     <row>
+                        <cell>Ausgabe</cell>
+                        <cell>24 rth –,</cell>
+                        <cell>– – –</cell>
+                     </row>
+                     <row rend="sum">
+                        <cell/>
+                        <cell>Gold</cell>
+                        <cell>Courant</cell>
+                     </row>
+                     <row>
+                        <cell>Bestand</cell>
+                        <cell>16 rth ,</cell>
+                        <cell>4 rth 9 gr –</cell>
+                     </row>
+                  </table>Berlin d. 1. July 1803</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

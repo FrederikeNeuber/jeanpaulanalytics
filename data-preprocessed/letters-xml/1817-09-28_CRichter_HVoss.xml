@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0467">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an  Heinrich Voß. Bayreuth, 28. September 1817, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1817-09-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004524">Johann Heinrich Voß</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Baireuth den 28<hi rendition="#u" hand="#author">ten</hi> September 1817.</hi>
+               </dateline>
+            </opener>
+            <p>Halten Sie ja ein so langes Schweigen, auf einen so <ref type="letter" target="JP-UB0653">freundlichen Brief</ref>und eine so liebende Bitte wie die Ihrige, nicht für
+                    Zeichen stumpfer Gleichgültigkeit. Nein aufs innigste ward ich durch dieses
+                    ehrende Vertrauen gerührt, antwortete auch sogleich, weil es mich drängte der
+                    schönen Aufforderung Antwort zu geben, und weil ich bewährt gefunden habe, daß
+                    der Moment des Empfangs eines Briefes auch zugleich der, des Beantwortens sein
+                    sollte. <ref type="letter" subtype="document" target="3-VII_331">Allein da
+                            <persName key="JP-999999">mein Mann</persName> zugleich Ihnen schreiben
+                        wollte</ref> und erst die Ankunft der Büsten erwartete, worüber ihm heut <persName key="JP-003944">Kirchenrath
+                                Schwarz</persName> Nachricht giebt, so muste auch ich das Absenden meines Briefes aufschieben. Jetzt ist
+                    aber dieser nicht mehr zu brauchen – ein alter von uns abgefaßter Brief kömmt
+                    mir vor wie eine alte Zeitung, und ich könnte ihn höchstens einmal ein Ihre
+                    Hände legen, wenn eine persönliche Bekanntschaft mein Vertrauen in Ihre
+                    Nachsicht gestärkt hätte. Daß dieser Augenblick nicht so fern sein möchte!
+                    Allein ein Jahr dünkt mir bei dem <hi rendition="#u" hand="#author">Erwarten</hi> einer <hi rendition="#u" hand="#author">Freude</hi>, eine Ewigkeit, wie kurz ist dieser Zeitraum, nach dem Genuß
+                    derselben  wo die Erinnrung uns Tränen leiht die unser Dasein in Minuten auflösen.</p>
+            <p>So sehr ich fühle daß ich Ihr günstiges Urtheil nur dem durch Entfernung
+                    idealisierten <persName key="JP-999999">meines Mannes</persName> zu danken habe,
+                    so möchte ich alle die theueren Freunde doch selbst kennen die Ihm so viele
+                    Liebe widmeten, ungekannt aber wenn es möglich wäre möchte ich in das Auge eines Jeden
+                    schauen, der mit höherer Achtung Ihm entgegenkam. <hi rendition="#u" hand="#author">Ich</hi> würde in Diesem die in Liebe mir als
+                    Schwester oder Bruder verwandte Seele erblicken – ohne jene Schüchternheit zu
+                    empfinden die mich durchbringt, wenn ich an alle Foderungen denke, die man an
+                    ein Wesen zu machen berechtigt ist, in dessen Hände, einen Theil seines
+                    irdischen Wohlseins, das Schicksal gelegt hat.</p>
+            <p>Und zu Ihrer <persName key="JP-004516">Mutter</persName> trät' ich dann zuerst,
+                    in der ganz <placeName key="JP-005819">Heidelberg</placeName> die Krone der
+                    Frauen anerkennt – Versichern Sie der Herrlichen meiner Ehrfurcht, und bitten
+                    Sie um Seegen für <persName key="JP-003482">die ganze Familie</persName> des
+                        <persName key="JP-999999">Mannes</persName>, dem auch Sie Freundschaft aus
+                    der Ferne geschenkt hät. </p>
+            <p>Und Sie theurer Freund <persName key="JP-999999">meines Mannes</persName> nehmen
+                    Sie <anchor type="target" xml:id="start_usv_cym_hlb"/>diese ersehnte
+                                Locke<anchor type="target" xml:id="stop_usv_cym_hlb"/> aus der Hand, der für Sie schwesterlich gesinnten</p>
+            <closer>
+               <signed>Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

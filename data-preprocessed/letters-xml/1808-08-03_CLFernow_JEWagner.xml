@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0885">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Carl Ludwig Fernow an Johann Ernst Wagner. Liebenstein, 3. August 1808,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-013109">Carl Ludwig Fernow</persName>
+               <placeName key="JP-005956">Liebenstein, Bad</placeName>
+               <date when="1808-08-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012533">Lektüre(n)</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Liebenstein d. 3t.
+                            August. 1808.</dateline>
+               <salute>Ehrenvester und Hochverehrter
+                                Freund!</salute>
+            </opener>
+            <p>Mit Dank und Lob des über mein Lob Erhabenen sende ich Ihnen  zurük. Sobald ich mit heiler Haut zu
+                        meinen  heimgekert sein
+                    werde, wil ich ihn mir selbst anschaffen und wenigstens noch einmal, mit mer
+                    Andacht als im Brunnengewühl zu finden ist, studiren. Viel Schönes und Wares
+                    hab' ich darin getroffen, mer Wares als ich bis jezt selbst noch zu glauben, und Schöneres viel, als ich für uns zu hoffen wage;
+                    doch wünsch' ich aus deutschem Herzen nichts so ser als mein Glauben und Hoffen
+                    von der heilbringenden Zukunft übertroffen zu sehen; und solt ich selbst ein
+                    Scherflein, auch nur in Schwarz auf Weis, dazu beizutragen vermögen, so wil ichs mit freudigem
+                    Herzen tun. Wäre nur geistiges Gebrechen so empfindlich, als leiblicher Mangel,
+                    so liesse sich wol mit grösserer Zuversicht hoffen, dass eine neue Erziehung,
+                         einzufüren wäre, wie eine  oder wie
+                        ; – aber – – – genug von dem, und ein paar Worte von
+                    Anderem was näher liegt, was zwar nicht die Menschheit und die <placeName key="JP-011167">Deutschheit</placeName>, aber doch einen Menschen und einen
+                    Deutschen, betrift, und den ich, so unbrauchbar und gichtbrüchig er immerfort
+                    ist, mit mir herumschleppen und lieben mus wie mein eignes Selbst. Morgen verlas ich <placeName key="JP-005956">Liebenstein</placeName>, ungebessert und mit mer Schmerzen als ich
+                            her gebracht;
+                    ich kan es darum, so gern ich auch möchte, nicht segnen. Doch sol es mir in
+                    gesegnetem Andenken bleiben, einiger Guten und Treflichen wegen, die ich hier
+                    näher habe  kennen und wertschäzen lernen, und unter denen ein
+                    wackerer Gefärt im Leiden, warmen Herzens und heiteres Geistes, mir vor allen teuer und unvergeslich sein
+                    wird.</p>
+            <p>Ich habe indes , den
+                    ich dem <persName key="JP-012298">Hofrath Reinwald</persName> hier noch zu geben
+                    gedachte, erst in diesen Tagen, nach seiner Abreise erhalten. Sie finden ihn
+                    deshalb hier beigeschlossen, mit der Bitte, ihm denselben gefälligst mit einem
+                    Grus von mir zuzusenden. Es versteht sich von selbst, dass Sie die Vorhand haben
+                    sollen, so viele Virtelstunden und Stunden damit zu verderben, als Sie wollen,
+                    und dass Sie ihn also vorher behalten, so lange sie mögen. Es ist vornemlich
+                    wegen , dass ich ihn
+                        <persName key="JP-012298">Reinwald</persName> mitzuteilen wünsche, weil
+                    diese Materie zu seinem Lieblingsfache gehört.</p>
+            <p>Dass ich Ihnen die handschriftlichen
+                            Aufsäze nicht beigelegt habe, verzeihen Sie mir wol.
+                        Ich habe angefangen an Voss zu schreiben,
+                            ausfürlich; und um nicht Einerlei zweimal zu
+                    schreiben, werde ich ihm wol den einen Aufsaz selbst mit senden müssen; ; und da ich vermute, dass  auch nach <placeName key="JP-006012">Meinungen</placeName> durchdringt, so werden Sie ihn da lesen  können, wo nicht, so finde ich schon einmal von <placeName key="JP-006395">Weimar</placeName> aus Gelegenheit, Ihnen ein Päkchen zu übersenden.</p>
+            <p>
+               <anchor type="target" xml:id="start_ilx_cyy_t4b"/>Warum sind Sie nicht hier
+                    geblieben? wir vermissen Sie noch immer. <persName key="JP-003839">Mad.
+                        Schopenhauer</persName> und ich sind der Meinung, dass die Woche in der Sie hier unter uns waren, die schönste der ganzen
+                    Brunnenzeit gewesen.<anchor type="target" xml:id="stop_ilx_cyy_t4b"/> ist noch 
+                    und dessen Son hinzugekommen, aber all dis <hi rendition="#u" hand="#author">Gethümmel</hi>wiegt uns den einfachen, ruhigen heiteren, herzlichen,
+                            traulichen <hi rendition="#u" hand="#author">Ernst
+                                Wagner</hi> nicht auf, der uns gerade zur
+                    besten Stunde verlassen hat, damit wir ihn desto mer vermissen solten; nun das
+                    haben wir redlich getan. Sie könten uns dafür nicht schöner belonen, als wenn
+                    Sie einmal unverhoft in <placeName key="JP-006395">Weimar</placeName> unter uns
+                    erschienen. Aber was wir so ser wünschen, wagen wir kaum zu hoffen, der garstige
+                        <placeName key="JP-006335">Thüringerwald</placeName> mit seinen Mordwegen
+                    liegt in seiner ganzen Breite zwischen uns, und das Element alles Reisens, die
+                    Bewegung, ist unserm Freunde so grausam verkümmert; oder geht nicht vielleicht
+                    der <hi rendition="#u" hand="#author"/> notwendig über <placeName key="JP-006395">Weimar</placeName>? Das würde die schönste Stelle für uns im Buche sein,
+                    denn es würde sich vorher lebendig bei uns zutragen müssen, . Drum, wir
+                        hoffen! Erfüllen Sie!!</p>
+            <closer>
+               <salute>
+                  <persName key="JP-003839">Mad. Schopenhauer</persName>
+                        empfielt sich Ihrem gütigen Andenken bestens, ich desgleichen mit den
+                        herzlichsten Wünschen für Ihr besseres Ergehen, und wenn das nicht sein kan,
+                        wenigstens für den dauernden Bestand des jezigen. Mit unveränderlicher
+                        Achtung und Liebe</salute>
+               <signed>Ihr Fernow</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

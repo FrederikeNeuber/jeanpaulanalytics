@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0225">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel Osmund an Johanna Heim. Bayreuth, 27. März 1814, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1814-03-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001604">Johanna Heim</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011840">Meininger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Bayreuth</hi>, den 27. Mart. 1814.</dateline>
+               <salute>Meine beste, verehrungswürdige Heim!</salute>
+            </opener>
+            <p>In dieser Woche bin ich, so lang' ich noch bin in <placeName key="JP-006012">Meiningen</placeName>, und da sollt' ich Ihrer nicht gedenken? Heute jährt
+                    es sich, daß Sie mir einen Tag verschönern halfen, und so zähl' ich täglich, wo
+                    und wie ich glücklich lebte unter den Meiningern.</p>
+            <p>Hätt' ich nicht wieder verreisen müssen in der vorigen Woche, ich würde Ihnen die
+                    Einlage schon zugereicht haben; aber meine erste Beschäftigung sei heute diese
+                    gute: Ihnen zu reichen, uns zu geben.</p>
+            <p>Soll, brauch' ich es Ihnen zu sagen, wie viel ich leide mit Ihnen?</p>
+            <p>Mein Herz ist das alte; es bleibt das alte in den neuen Zeiten, unter den immer
+                    kälter werdenden Menschen.</p>
+            <p>Worte vermögen nicht auszudrücken, nie des Herzens Innigkeit.</p>
+            <p>Ich habe <persName key="JP-001599">ihn</persName> gekannt, eure Liebe; ich kenn,
+                    Seltene, Sie, und mehr bedarf es nicht, um zu theilen Ihren Schmerz.</p>
+            <p>Gott, und durch ihn, die Zeit mindert diesen; vernichtet wird er dort in der
+                    Ewigkeit.</p>
+            <p>Prächtige, herrliche Heim, ich glaube nicht, lange nicht mehr an Trost außer uns.
+                    Fremder, er kommt meist zu frühe oder zu spät.</p>
+            <p>Seitdem ich Sie nicht wiedergesehen, wie Viele, die mein Mich nannten, die mein
+                    Ich nannte – in der Nähe, in der Ferne – verließen mich; darunter zähl' ich im
+                    Jahre 8 die beste unter den Müttern, in diesem den <persName key="JP-003654">braven
+                        alten Vater</persName>, und so lernt man ertragen Trennung, Sterben und auch
+                    Leben bis dahin.</p>
+            <p>Vor mir liegt noch Ihr liebes Blatt vom 25. Aug.
+                            1811, das ich immer beantworten wollte. Aber mein
+                    Leben, meist auf Reisen und in Unruhe, läßt mich nicht mehr kommen an Gottes
+                    Tisch, d. h. an meinen freundschaftlichen Briefwechsel, als sehr selten. Wol
+                    hält mich – so glauben meine Freunde – eben dieses thätige Leben auch von dem
+                    wirklich göttlichen Tische der Gesellschaft, des geistigen Genusses u. s. w. zu
+                    viel ab; allein die Zeiten – ein achtjähriger Feldzug in mein Haus – gebieten,
+                    Arbeit, die ich einmal übernommen, begonnen, auch mit Ehre zu endigen.</p>
+            <p>Nicht der Mühe ist es werth zu leben für sich allein, und nur dadurch, daß man
+                    lebt für Andere – wird die Last des Lebens – wenn auch nicht immer leicht –
+                    erleichtert.</p>
+            <p>Wer fühlte, wer kann sie lebhafter fühlen diese Wahrheit als Sie, edelste der
+                    Frauen?</p>
+            <p>Wer für seine Kinder leben kann, glücklich sie, zu
+                            guten Menschen sie erziehen kann, er hat zwar der Mühe, oft der Sorgen, um eigen aus der Kinder Wohl,
+                    viele; aber die Welt liegt – außer seinem Hause – nicht so schwer auf ihm; sie
+                    macht nicht die Ansprüche an ihn als wie an Den, der allein steht – oft nur für
+                    sie so steht. Dankbar ist die Welt mehr gegen Den, der für sich und seine Kinder
+                    arbeitet, als selber für sie.</p>
+            <p>Ich lernte die Welt seit einigen Jahren genauer kennen als in meinem ganzen
+                    übrigen – erfahrungsreichen Leben, und daher zieh' ich mich von ihr weg; daher
+                    schütz' ich, lieb' ich und verehr' ich die Ausnahmen, die Seltenen in der Welt
+                    immer noch mehr. Zu diesen zähl' ich Sie, meine liebe, gute Heim, und ich werde
+                    stets dankbar sein, daß Sie uns erlauben, gönnen, Sie zu verehren, zu
+                    lieben.</p>
+            <closer>
+               <signed>Emanuel.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

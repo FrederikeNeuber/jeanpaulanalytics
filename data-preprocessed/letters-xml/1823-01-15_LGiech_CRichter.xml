@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0540">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Auguste Caroline Wilhelmine Louise von Giech an Caroline Richter.
+                    Bayreuth, 15. Januar 1823, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-011836">Auguste Caroline Wilhelmine Louise von Giech</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1823-01-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011952">Weiterer Bayreuther Kreis</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012633">Grüße</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 15/1 – 23 –</dateline>
+            </opener>
+            <p>Verhindert, den Inhalt dieser – in diesem Augeblick
+                            erhaltenen, Zeilen, Ihnen theure Frau Legationsräthin,
+                    selbst mündlich zu überbringen – sende ich Ihnen dieselben als Beilage,
+                    u wünschte nur, daß das Herz der zärtlichen Mutter mehr <hi rendition="#u" hand="#author">Gewißheit</hi> für das nahe Wiedersehen daraus
+                    nehmen könnte.</p>
+            <closer>
+               <salute>Mit der innigsten Hochachtung die Ihrige</salute>
+               <signed>Luise Giech.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

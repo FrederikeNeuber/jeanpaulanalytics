@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0805">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 2. Dezember
+                    1809, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1809-12-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 2. X.ber
+                        9</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_nmx_wh2_knb"/>Wenn Du <ref type="letter" target="JP-UB0187">meinen letzten Brief</ref> erhalten hast, worinn ich
+                    Dich von der geschehenen Bezahlung der auf mich gezogenen Assignation versichert habe, so wundere ich mich, daß Du mir nicht
+                    antwortest. Gewöhnt an Deine Hertzlichkeit für mich, ist mir jede Unterbrechung
+                    ihrer Äußerung empfindlich; auch ist Dein letzter Brief schon vom 7.8.ber also fast 2. Monath alt. Schreib mir also bald.<anchor type="target" xml:id="stop_nmx_wh2_knb"/>
+               <ref type="letter" subtype="document" target="4-VI_48">Die Einlage</ref> gib
+                        <persName key="JP-999999">Deinem Mann</persName>, den ich grüße. Sie ist von
+                        <persName key="JP-002007">Frau von Kalb</persName>; und wird um der
+                                Nachricht von der <persName key="JP-002004">Tochter</persName> angenehm
+                    seyn, weil erstere wo nicht directen Vortheil, doch Erleichterung von dem glücklichen etablissement ihrer <persName key="JP-002004">Tochter</persName>, der
+                    Hof Dame bey der <persName key="JP-002625">Printzeß Wilhelm</persName>, haben wird.</p>
+            <p>
+               <ref target="JP-UB0052/#nsk1_vxy_jnb">Wir erwarten nun in Kurtzem den
+                            <persName key="JP-001187">König</persName> nebst der <persName key="JP-012951">Königlichen Familie</persName>
+                        zurük</ref>, welches eine längst  ersehnte Wohlthat für <placeName key="JP-005586">Berlin</placeName> ist.</p>
+            <p>Da neue Kraft Anstrengung neue Mittel des Wohlstandes herbeyführen muß, so
+                    verzweyfle ich auch gar nicht an eine solche Herstellung des letztern, wie er
+                    sich zu dem Grade von frugalitaet paßt, den alle
+                    diejenigen seit drey Jahren angenommen haben, die für sich u ihre Familien
+                    selbst sorgen müßen. Für diese fallen jetzt alle imaginaire Bedürfniße weg, und das Nothwendige erfordert so wenig.
+                        Auch die Stiftung einer Academie oder Universitaet
+                            allhier
+                    wird <placeName key="JP-005586">Berlin</placeName> noch interessanter machen, und die besorgte
+                    Zweckwiedrigkeit des Orts für junge sich selbst überlaßene Leute wird wenigstens
+                    so lange nichts schaden, als die Zeit Umstände selbst den leichtsinnigsten
+                    jungen Menschen die Nothwendigkeit predigen, sich durch Kenntniße einen sichren
+                        fond zu seinem Fortkommen zu verschaffen, um bey
+                    noch immer zu besorgenden Glücks Umwältzungen nicht im Bloßen zu  stehen.</p>
+            <p>
+               <anchor type="target" xml:id="start_mp5_p42_knb"/>Der Antheil den ich jetzt an
+                    der beginnenden Academie nehme, ist, daß ich des
+                        <placeName key="JP-005809">Hallischen</placeName>
+               <persName key="JP-004785">Wolffs</persName> lateinische Vorlesungen über den <persName key="JP-000134">Aristophanes</persName> in jeder Woche zweymal mit
+                    anhöre. Die Stunde von 1. Uhr Mittags ist so gewählt, daß ich doch die Feder
+                    niederlegen muß, indem ich von früh Morgens arbeite.</p>
+            <p>Zu meiner Dir übrigens noch unbekannten Lebens Weise gehört, daß ich, um meine
+                        Promenaden im Winter nicht einstellen zu dürfen,
+                    auf der <placeName key="JP-012999">Potsdammer Chaussee</placeName> nahe an der ersten Brüke, wo wir sonst zum <placeName key="JP-011099">Hof Jäger</placeName> gingen, im Hause des <persName key="JP-011906">Krieges Rath Gerhard</persName> im Dach Stübchen nebst kleinem Holtz Gelaß gemiethet habe; und wenn
+                    es nicht Keulen regnet, täglich hingehe, auch aus Akten, die sich bequem transportiren laßen, oft des Vormittags dort arbeite.
+                    Ein Panorama der Gegend von <placeName key="JP-013010">Tempelhoff</placeName> auf der einen, und der <placeName key="JP-012999">Chaussee</placeName> auf der  andren Seite machen meine existentz dort sehr angenehm; u ich komme erheitert zurük.<anchor type="target" xml:id="stop_mp5_p42_knb"/>
+            </p>
+            <p>Was die Morgen Röthe einer beßren Zukunft sonst für mich mit sich führt, ist die
+                    Außicht unser rückständiges Gehalt wo nicht baar doch auf
+                    eine Art zu erhalten, die den Verlust immer erträglicher machen wird, je mehr
+                    man durch frugalitaet Zeit gewinnt, den hergestellten
+                    Staats Credit abzuwarten. <anchor type="target" xml:id="start_kkb_542_knb"/>Bey mir gehet diese frugalitaet so weit, daß ich seit dem 8. 1806. nur zweymal im
+                    Schauspiele gewesen bin. <persName key="JP-002709">Meine Frau</persName> auch
+                    lebt bloß im Zirkel ihrer Freunde.<anchor type="target" xml:id="stop_kkb_542_knb"/>
+            </p>
+            <closer>
+               <salute>So werden wir uns also hoffe ich bald wieder einmal sehen können, u soll
+                        mir Dein Anblick Ersatz für alle Leiden der Vergangenheit seyn. Lebe
+                        wohl u küße <persName key="JP-003483">Deine Kinder</persName>
+               </salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

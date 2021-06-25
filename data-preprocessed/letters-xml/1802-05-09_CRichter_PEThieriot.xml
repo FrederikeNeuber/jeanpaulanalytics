@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0600">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Paul Emile Thieriot. Meiningen, 9. Mai 1802, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-05-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004275">Paul Emile Thieriot</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012313">Thieriot-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012440">Fahrzeuge</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meining. 9. Mai
+                        1802</dateline>
+            </opener>
+            <p>Helfen Sie uns auf alle unzuverläßige Fuhrleute schmählen, denn wir sind heut das
+                    Opfer dieser race. Diesen Morgen um 4 ¾ Uhr springe ich
+                    erschrocken über das Verschlafen der Zeit aus dem Bette will eilig den Koffer
+                    packen der um 6 Uhr auf den Wagen geladen werden muß, tummle mich ängstlich mit
+                    den noch bleibenden Sorgen, und ein Mädchen tritt herauf mit der Nachricht, „der
+                    Wagen komme nicht, weil die Pferde die ihn ziehen sollen noch auf dem Wege von
+                        <placeName key="JP-005698">Eisenach</placeName> traben.</p>
+            <p>Denken Sie Sich meine Bestürzung, die sich aber augenblicklich in stille resignation verwandelte. Mehr meinem Mädchen als uns
+                    zur Liebe schike ich nach anderen Fuhrleuten – aber der Sontag, das  schöne Wetter nimmt uns alles, was es andern giebt, und wir bleiben. </p>
+            <p>Diese Neuigkeit wißen Sie nun schon seit diesen Mittag um 12. Wir sehnten uns
+                    sehr Sie zu sehen, und der Tag sollte einfach für uns drei verfließen bis Abends
+                    wo erst <persName key="JP-999999">mein Mann</persName> zur <persName key="JP-012749">Herzogin</persName> gehen wollte.</p>
+            <p>Wir kommen einmal – <hi rendition="#u" hand="#author">wann</hi>, wird
+                    der liebe Gott und Sie bestimmter sagen, wenn wir von Ihnen hören welches die
+                        schauspiel<hi rendition="#u" hand="#author">freien</hi> Tage
+                    sind. Wo nicht, sehen wir Sie vielleicht in <placeName key="JP-005649">Coburg</placeName>, denn  der Frage
+                    an unsern treulosen Fuhrman wegen des Preises unsrer Emballage nach <placeName key="JP-005832">Hildburgh</placeName>. war
+                        zugleich eine wegen des nach <placeName key="JP-005649">Coburg</placeName> beigefügt.</p>
+            <p> Sie sehen also, daß es Ernst war, aber ums Himmels willen bauen Sie
+                    nicht darauf, denn wir sind wo möglich noch unzuverläßiger als ein <placeName key="JP-006012">Meininger</placeName> Fuhrmann. </p>
+            <p>Ihren Briefbekamen wir am Donnerstag
+                        Abend als wir uns zu Tisch sezen wollten wir dankten Ihnen sehr für
+                    ihn.</p>
+            <p>Diese beiden Briefe mögen Eines Inhalts seyn, um Ihnen Freude zu machen. </p>
+            <closer>
+               <salute>Und nun leben Sie wohl, wir denken so oft an Sie, es war eine schöne Zeit.</salute>
+               <signed>Caroline</signed>
+            </closer>
+         </div>
+         <div n="2" hand="#JP-999999">
+            <p>Gott grüße euch. Lebt wohl! Adressiert die Briefe an Euch nicht an mich.</p>
+         </div>
+         <div n="3" hand="#author">
+            <p>Ein paar Strümpfe von Ihnen sind vergeßen worden, ich denke sie Ihnen selbst zu
+                    bringen, wo nicht, sie mit der Post zu schicken.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

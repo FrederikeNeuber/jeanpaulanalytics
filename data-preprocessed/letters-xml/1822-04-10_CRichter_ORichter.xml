@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0586">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 10. April 1822,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-04-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bair. Mitwoch den 9<hi rendition="#uu" hand="#author">ten</hi> April 1822.</dateline>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>Heute habe ich einen Brief von Dir erwartet Du wirst doch <ref type="letter" target="JP-UB0721">den meinigen von <placeName key="JP-005561">Bamberg</placeName>
+               </ref> bekommen haben? Wo er nicht unterwegs ist so
+                    schreibe bald, denn nach unserem letzten Abschiede kannst Du Dir denken, wie
+                    sehnlich ich nun ferner wissen muß, wie es Dir gehet, und ob die von allen
+                    Seiten beruhigende Anknüpfung wohlthuender Verhältnisse auch noch von Dir,
+                    freudig empfunden wird. Man kann der Eindrücke nicht gewis sein die Deine neue
+                    Lage auf Dich macht, aber ich habe den Glauben, daß Du mein theures Kind, unter
+                    so guten Menschen kaum Deine Mutter vermißt haben wirst. Sage mir das bald, Du
+                    brauchst nicht viel zu schreiben, aber <hi rendition="#u" hand="#author">offenherzig</hi>.</p>
+            <p>Dein Bild, meine Odilie hat dem <persName key="JP-999999">Vater</persName> die größeste Freude gemacht. Er findet es
+                    immer ähnlicher. Er kommt herüber und sieht Dich an, und findet immer Neues
+                    sprechenderes zu bemerken.</p>
+            <p> Schreibe auch ja dem <persName key="JP-999999">Vater</persName>. Zu <persName key="JP-003121">Ottos</persName> und
+                        <persName key="JP-003087">Emanuel</persName> nahm ich Dein Bild mit, und sie
+                    waren entzückt, und <persName key="JP-003086">Benedikt</persName> der Kleine
+                    küßte es sogleich. Mein Einfall Dich malen zu lassen wird von Allen gepriesen.
+                    Siehst Du, daß ich Recht hatte?</p>
+            <p>Am Sonntag um 4 Uhr kam ich an. Der
+                        <persName key="JP-999999">Vater</persName> war voller Freude, und alles was
+                    ich erzählte vermehrte dieselbe. <persName key="JP-003471">Emma</persName> war
+                    bezaubert von ihrem Tuche, und warf es noch an demselben Abend bei <persName key="JP-004656">Weldens</persName> um. Montag Mittag denke Dir aaßen wir
+                    alle dort. <persName key="JP-004655">Herr von Welden</persName> führte mich
+                    feierlichst zu Tische, und des Dankens für <persName key="JP-004659">Luise</persName> war kein Ende. <persName key="JP-004656">Weldens</persName> haben die ganze Herreise bezahlt.</p>
+            <p>Dienstag Abend war <persName key="JP-003108">Amöne</persName> bei mir die Dich herzlich grüßen läßt. und die auch so sehr erfreut über Dein
+                    liebes Bild ist. Gestern schrieb ich der <persName key="JP-002709">Großmutter</persName> die nun wohl bald
+                    kommen wird. Ich ordne alles zu ihrem Empfang, und Jedwedes von Grunde auf.</p>
+            <p> Heute wollte ich Dir schon Gaze
+                    und Wolle schicken wie auch das Pastellkästchen, allein da ich am Morgen eine
+                    kleine Wäsche einrichtete ist es zu spät, und ich schiebe es noch etwas auf, ich
+                    kann nicht fertig werden.</p>
+            <p>Sage doch an den vortreflichen <persName key="JP-001608">Herrn Heyne</persName> die wärmsten Grüße von mir und den
+                    innigsten Dank. <persName key="JP-004655">Herr v. Welden</persName>
+                    liebt Ihn auch recht sehr. Du wirst doch nach den Feiertagen Deine Maschine
+                    erhalten haben. Recht bange ist mirs, ob sie dich nicht zu sehr drückt, und wäre
+                    es noch nicht geschehen so bitte, flehe <persName key="JP-001608">Herrn
+                        Heyne</persName> sie Dir doch ja nun  anzulegen.</p>
+            <p>
+               <persName key="JP-012954">Die arme Rechnungsrevisor Hoffmann</persName>
+                    glaubt ihr <persName key="JP-012981">Sohn</persName>, <hi rendition="#u" hand="#author">sehne</hi> sich nach Hause. Sie will ihn abholen,
+                    ich bat sie aber es noch aufzuschieben, weil die gute <persName key="JP-003031">Auguste</persName> mir gesagt, daß <persName key="JP-001608">Herr Heyne</persName> ihn lieber unentgeldlich behalten, als jetzt  reisen
+                    lassen wolle. Grüße sie doch recht sehr von mir, und bitte Sie, mir über den
+                        <persName key="JP-012981">kleinen Hofmann</persName> bestimmte Antwort zu
+                    geben, da seine <persName key="JP-012954">Mutter</persName> in einer qualvollen
+                    Ungewisheit ist.</p>
+            <p>
+               <anchor type="target" xml:id="start_ifk_ysx_vmb"/>Sage der lieben
+                    schätzbaren <persName key="JP-003031">Auguste</persName> meinen Dank, und <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0639/#start_u5m_3gx_vmb">daß ich wegen der <persName key="JP-001764">Hirschberg</persName> heute an
+                        ihre <persName key="JP-002603">Tante "Mann"</persName> schreibe</ref>.<anchor type="target" xml:id="stop_ifk_ysx_vmb"/>
+            </p>
+            <p>Grüße die lieben <ref target="JP-UB0207/#nkmb_pkt_33b">Falks</ref>
+                    aufs innigste und Jeden der wohlthuend Dir naht. </p>
+            <closer>
+               <salute>Ich umarme Dich, Du Seelenkind, aber unterbrich bald Dein Schweigen
+                        gegen Deine Dich</salute>
+               <signed>so heißliebende Mutter</signed>
+            </closer>
+            <postscript>
+               <p>in größter Eil.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

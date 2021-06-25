@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0905">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Louise Henriette von Könitz. Meiningen, 9. August
+                    1809, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1809-08-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002187">Louise Henriette Könitz</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>d. 9. August 1809.</dateline>
+            </opener>
+            <p>Ihre Excellenz, in diesen festlichen Tagen<anchor type="target" xml:id="start_pty_ph5_4nb"/>mit einer ähnlichen Bitte
+                    beschweren zu <hi rendition="#u" hand="#author">können</hi>, wie im vorigen Jahre<anchor type="target" xml:id="stop_pty_ph5_4nb"/> – das glaubte ich
+                            noch im verfloßenen Merz kaum! Gott, und durch ihn ein Guter, Trefflicher, den wir Beide kennen, haben indessen meine Hoffnungen sogar beträchtlich auf
+                            die <hi rendition="#u" hand="#author">Zukunft</hi>
+                            erweitert; und so kommt es, beste verehrteste gnädige Frau, daß ich
+                    Sie jetzt um gütige Ueberreichung anliegender
+                            Herzensergießungen an meine hochverehrte <hi rendition="#u" hand="#author">
+                  <persName key="JP-002546">Herzogin</persName>
+               </hi> und an die liebenswürdige <persName key="JP-013076">Prinzessin <hi rendition="#u" hand="#author">Adelheid</hi>
+               </persName> bitten kann. Auch meine <hi rendition="#u" hand="#author">Unmündigen</hi> bringen, mit
+                    derselben Bitte hier ihre kleine Gabe dar.</p>
+            <p>
+               <persName key="JP-002186">Meinen geliebten Lebensretter</persName> den
+                    innigst-dankbaren Gruß! Möchte er in meine Seele schauen können!</p>
+            <p>Die neulich eintretende Hitze, die mich 3-4 Tage fürchten ließ, alle gute Wirkung
+                        der Arznei werde durch ihre afrikanische Ermattung
+                    wieder verloren sein, hat <hi rendition="#u" hand="#author">gar
+                        nichts</hi> geschadet, sondern in den ersten kühlen Tagen fand ich mit
+                    Wonne, daß die vorige Erleichterung geblieben, ja, still fortgeschritten war,
+                    und so schreitet sie bis diesen Augenblick fort. Am vorigen Sonntag bin ich zum
+                    ersten Male wieder zu <hi rendition="#u" hand="#author">Heims</hi> geritten; (dort ist für mich
+                    die beste Treppe unter allen, der mir befreundeten Häuser.) Alles ging
+                    vortrefflich, und viel besser, als es dort zum letzten Male vor 5 Monaten
+                    gegangen war. Ich machte verschiedene auffallende Kunststücke, und als ich
+                    endlich frei in die Mitte des Saales trat, meinen Stock weggab, und unter
+                    Aufsicht der Umstehenden mit der linken und rechten Hand mich zur Erde bückte,
+                    und allein wieder emporrichtete, da erscholl ein rührendes und glaubensvolles
+                    Bravo. <persName key="JP-001604">Die brave Hausmutter</persName> fiel mir mit
+                    hellüberquellenden Augen um den Hals, und es that mir innig, innig wohl, so frei
+                    dastehend zum erstenmal wieder <hi rendition="#u" hand="#author">eine Dame</hi> in die Arme zu schließen; und Eine, die es stets so treu mit
+                    mir gemeint hatte und die noch dazu bei ihrer Schwere auch nicht sehr fest auf
+                    den Füßen steht. Kurz, ich fühlte mich bis jetzt in jenem Augenblick doch am
+                    kräftigsten! Nur mager macht mich die Kur; – vielleicht gut!</p>
+            <closer>
+               <salute>Aber Verzeihung, gnädige Frau, daß ich so viel von mir rede! Nur die
+                        einzige Bitte noch, mich ewig nennen zu dürfen etc.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

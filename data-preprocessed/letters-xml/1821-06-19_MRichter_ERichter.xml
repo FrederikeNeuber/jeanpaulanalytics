@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Emma Richter. Heidelberg, 19. Juni 1821, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-06-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg am 19tenJuny 81</dateline>
+               <salute>Beste Emma!</salute>
+            </opener>
+            <p>Eben las ich einen Brief von langer Zeit (er ward von
+                            Dir am 12 Nov. 1820 geschrieben) und da steht denn,
+                    daß Du Dich so freuest, wenn ich "beste Emma" gesagt habe. Nun das habe ich auch dießmal und, wenn Du nicht sonst es willst, so brauchst
+                    Du eben nicht diese 2 Buchstaben besonders abzuschneiden. Da Kleinigkeiten mich
+                    u uns alle anziehen, so will ich Dir
+                    erst die Zeit melden, wo ich zu Dir spreche; Zeit ist es wohl immer, aber ob so
+                    schöne, das ist eine Frage! Aus meinem Fenster kann ich zum, nicht gestirnten,
+                    Himmel in der Nacht sehen u zugleich – auf meinem Tisch alle die Briefe, die
+                    liebende Seelen einmal mir geschrieben haben. Der ersten von <placeName key="JP-006040">München</placeName> sind wahrlich
+                    viele u noch mehrere, wenn ich eure Schonung gegen meine Unbedeutenheit halte.
+                    Noch eine Bitte, die mir, jedes mal wiederholt, schwerer wird, soll doch auch
+                    bei dir sich einfinden. Geliebte Emma! Du hast ja in <placeName key="JP-005574">Baireut</placeName> eine Menge Freundinnen, die, wenn gleich nur äußerlich,
+                    sich bilden wollen und jeder, zu oft unbedeutenden, Sache aufhelfen, doch innerlich ein gutes Herz
+                    haben u für unglückliche Menschen sorgen. Gib an Alle die nach der Reihe  ein solches Exemplar des
+                        Diffiko und nur
+                    meinetwegen, wenn Du auch <persName key="JP-001654">den Verfasser</persName>
+                    nicht kennst in seinem Wirken, thue das u laß Dir es recht, recht sehr
+                    angelegentlich sein. Denke, es gilt einer wichtigen Sache, eines teutschen
+                    Gesanges, der neu wieder leben soll in Aller Gemüther und nicht von stumpfem Aberglauben u
+                    Nichtglauben verworfen  werden. Ihr lest ja soviel, auch viele Romane, laßet das Neuere poetische Machwerk
+                    gehen u suchet, nach Urtheil gewichtiger Leute, das Alte, das die <placeName key="JP-011167">Teutschen</placeName> mit dem stolzen Deckmantel der
+                    Poeterei umhüllen; Ich las neulich einen Brief wieder von Dir u der bringt einen zweiten Wunsch
+                    vor, daß Du öfter an mich schreibst und immer, wie Dein gutes Herz Dir es
+                    eingibt. Was von Dobenek zu erzählen ist, bin ich
+                            erstaunt zu hören. Ein
+                    leises Ahnen läßt mich nichts gutes hoffen oder – etwas Herrliches für Dich. Aber ich
+                    schweige u Dein nächster Brief gibt mir gewiß
+                            Ausführlichkeit. Ist denn
+                        <persName key="JP-999999">der Vater</persName> recht wohl? <ref target="JP-UB0629/#nppg_kpm_rnb">
+                  <persName key="JP-004520">Voss</persName> will jeden Tag als den  der Ankunft
+                        hoffen</ref>; Sonst ist er in der größten Erwartung, ihn bald bei sich zu
+                    sehen. O käme er doch bald, der Gute u benutze noch die schöne Zeit, die
+                    vielleicht dem Septemb. vorgeht  Seinen täglichen Besuch am
+                        <placeName key="JP-005819">Heidelberg</placeName>
+                            Berg kenne ich u
+                    täglich kann ich hinaufsehen auf das kleine Stübchen, was die Aussicht zum
+                    Neckar gibt. Ich meine
+                    ein
+                    Wirthshaus, wodurch man hinauf zu sie gelang. Ich trinke  da täglich mein Brot u
+                    Bier um Acht Uhr u immer ist Erinnerung dabei. Was hat die <persName key="JP-003491">Odilie</persName> wohl gedacht, wie sie das kleine Päckchen bekam? Ist mein Brief an <persName key="JP-004291">Th.</persName> schon besorgt? D <persName key="JP-000587">Karové</persName> war nicht wenig erfreut <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0629/#start_ycp_cpm_rnb">über den Gruß der
+                            Eltern</ref>, wenig über <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0629/#start_g2m_npm_rnb">den Brief <persName key="JP-012172">des Malers</persName>
+               </ref>. Er foderte, wenn er
+                            ja umtauschen wolle, für eine neue Kopie des Bildes 7 fl. Welche Unverschämtheit! Dann will er sogar nicht glauben, daß das Bild <hi rendition="#u" hand="#author">vergriffen</hi> wurde, denn so etwas
+                    abscheuliches hätte <persName key="JP-000587">Carové</persName> nicht wählen können; auch erinnert er sich wohl
+                    des Vergleichs eines <hi rendition="#u" hand="#author">andern</hi>
+                    guten mit <hi rendition="#u" hand="#author">eurem</hi> Original. Ich glaube die Sache bei Gelegenheit
+                    wieder gut zu machen; vielleicht kann der Vater ein Exemplar mitbringen u das
+                    hiesige zurückschicken. Diese Hälfte leeren Papiers will ich nächstens
+                    ausfüllen. Die Postzeit nahet. Liebe Deinen Bruder, der Dich innig liebt. Küsse
+                    in meinem Namen unsere Guten Eltern u auch Emanuel. Was
+                    machen seine Kleinen? Von denen habe ich lange nichts gehört, eben so von Otto nicht. Da <persName key="JP-001671">Herder</persName> aus <placeName key="JP-005574">B–</placeName> weg ist, wen ersehnt denn noch der <persName key="JP-999999">Vater</persName> außer <persName key="JP-003087">Emanuel</persName>? Mir u
+                    vielen ist es nicht denkbar, wie der <persName key="JP-999999">Vater</persName>, abgesehen von der Gelehrsamkeit, nicht noch die
+                    Universität u <hi rendition="#u" hand="#author">Menschen</hi>
+                    genießen will. <placeName key="JP-005721">Erlangen</placeName>, <placeName key="JP-005819">Heidelberg</placeName>, <placeName key="JP-005586">Berlin</placeName>, müssen ihn noch einmal sehen u achten. Wahrlich mit so
+                    einer <placeName key="JP-005574">kleinen Stadt</placeName> ist es noch nicht
+                    gethan u jeder  Edle wird
+                    der Menschen mehr als der Gegenden reißen. Gott lehrte Dich nun, geliebte Emma,
+                    mache deinen Eltern viel Freude u messe Deine Bildung nach nach Deinesgleichen, sondern nach Dir seller u <hi rendition="#u" hand="#author">kann</hi> die <persName key="JP-003469">Mutter</persName> nicht mitreißen? – Leb wohl</p>
+            <closer>
+               <signed>Dein M.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0179">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Richard Otto Spazier an Caroline Richter. Dresden, 29. März 1825, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004107">Richard Otto Spazier</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1825-03-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+               <term xml:id="JP-012770">Familie Spazier</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Dresden den 29tenMärz 1825</dateline>
+               <salute>Liebe Tante!</salute>
+            </opener>
+            <p>Gestern Vormittag bin ich mit meiner Habe hier eingetroffen, um einen neuen Abschnitt in meinem Leben zu beginnen, gegen alle
+                            frühere Erwartung und Aussicht so ganz allein. – In der weiten öden Wohnung ist keine Spur mehr von dem <persName key="JP-004393">Wesen</persName> was früher hier sorgte und litt; – und
+                    seltsam ist’s, daß es einem ein großer Trost ist, daß es nicht mehr vorhanden
+                    ist; – denn schrecklich muß in der letzten Zeit die arme, tief Gebeugte geduldet
+                    haben; mir graust es wenn ich davon höre, so behutsam sich auch jeder darüber
+                    auszudrücken bestrebt; – ein Paar Griffe aber, die ich eben auf dem Instrumente
+                    that, das in der Stube steht, wo sie ganz zuletzt weilte, haben mich wieder mit
+                    einer tiefen Wehmuth erfüllt; – der Gedanke an die Töne die da verklungen sein
+                    mögen werden mich durch mein ganzes Leben beglei-  ten; – wäre ich nur
+                    in den letzten Weihnachtsfeiertagen um sie gewesen; – was gäbe ich nicht jetzt
+                    darum! –</p>
+            <p>
+               <persName key="JP-000009">Minona</persName> habe ich in ihren Gesichtszügen so
+                    merkwürdig verändert gefunden, daß ich nicht recht weiß, was ich dazu sagen
+                    soll: – aus dem runden Gesichte ist ein längliches geworden, obwohl interessant
+                    genug; – sie kränkelt sehr; – wenn sie die ihr bevorstehende Reise nur glücklich
+                    übersteht! – Sonst scheint der Standpunkt, auf den sie nun gestellt ist, eine große Veränderung zu ihrem Vortheil in ihr hervorgebracht zu haben;
+                    da sie das, was ihr früher gefehlt, errungen hat, wird sie vollkommen u vor  Vielen andren ganz das
+                    sein, was zu sein ihr obliegt; – auch <persName key="JP-000008">Abeken</persName> erscheint bestimmter, männlicher, umschauender als
+                    früher; – ein neuer Beleg dazu, wie jeder Mensch ganz anders wird, wenn er an
+                    die für ihn passende Stelle kommt; –  u  zugleich für die Erbärmlichkeit unsrer
+                    Zeit und unsrer Staaten, in denen fast keiner an seinem Platze ist. –</p>
+            <p>Was mich betrifft, so weiß ich vor der Hand noch gar nicht, wie sich meine
+                    Verhältnisse hier gestalten werden; – <persName key="JP-004390">Uthe</persName> wird heute mit einem jungen gescheuten Advokaten , mit dem er in Geschäften steht, mit <persName key="JP-011938">Plesch</persName>, den Sie wohl auch kennen, da er im Sommer neben der <persName key="JP-004393">Mutter</persName> wohnte, Rücksprache nehmen; – vielleicht
+                    kann ich bei ihm des Vormittags künftig arbeiten, (den Nachmittag will ich für
+                    mich und meine Studien behalten); er kann mich vielleicht später am ersten
+                    brauchen und bezahlen; – <persName key="JP-002301">Kuhn</persName> hat, glaub’
+                    ich, keinen Platz offen; auch ist mir das sehr lieb; ich möchte dort in eine
+                        poetische Affen und  Damen-Gesellschaft
+                    kommen, und mich auf meiner Art ziemlich derb darüber auszusprechen versucht
+                    sein. – sogenannten gesellschaftlichen Umgang mag ich auch nicht, vielmehr will
+                    ich im streng wissenschaftlichen Arbeiten das nachholen, was  früher
+                    nicht gut sich machen ließ. – manche interessante Menschen werde ich ohnehin bei
+                        <persName key="JP-003233">Pilgrim’s</persName> und <persName key="JP-003939">Schwarzens</persName> sehen, die mich mit vieler Güte, wieder aufgenommen
+                    haben, trotz dem, daß namentlich die <persName key="JP-003231">Pilgrim</persName> meist wegen früher manche harte Reden von der <persName key="JP-004393">Mutter</persName> hat hören müssen. –</p>
+            <p>
+               <persName key="JP-004390">Uthe</persName> ist sehr gut gegen mich und wahrscheinlich werde ich wohl den Sommer über
+                    bei ihm wohnen und essen; vielleicht letzteres gegen eine kleine Vergütung; – so
+                    viel ich jetzt ersehen kann, scheint seine Lage jetzt nicht ohne Aussichten; –
+                    wenn er es vielleicht nun noch ein Jahr so ansehen kann, dann wird das
+                    Knochenmehl gewiß guten Absatz finden und das kann ihn allein schon
+                    herausreißen. –</p>
+            <p>Zu den Feiertagen geht er in die <placeName key="JP-006271">Schweiz</placeName>;
+                    – die Reise wird auch ihm nach einen solchen Winter wohl thun; – ich sehne mich
+                    auch unendlich in Frühlingsluft und kleine Berge; – vielleicht kann ich eine
+                    Reise nach <placeName key="JP-006342">Tirol</placeName> machen mit Meier, der am Michaeli mit mir durch
+                        <placeName key="JP-005602">Böhmen</placeName> nach dem <placeName key="JP-005735">Fichtelgebirge</placeName> zog; –  es ist nicht
+                    nur jetzt die schicklichste Zeit, dergleichen ohne Aufschub in der Carriere zu
+                    machen, sondern auch in physischer Hinsicht habe ich eine Bergluftkur nöthig, da
+                    in diesem Winter, wenn auch nicht durch vieles Arbeiten, doch durch beständiges Stubensitzen meine Brust etwas gelitten hat.
+                    –</p>
+            <p>Was <persName key="JP-001686">Hering</persName> anlangt, nach dem Sie Sich so
+                    angelegentlich erkundigten, so  sind wir nicht ganz auseinander; im Gegentheil sind wir zuweilen
+                    zusammengekommen; – daß es nicht mehr und öfter geschah, daran ist eine
+                    Eigenheit von ihm schuld, daß er ungern da ist und sich gedrückt fühlt, wo er
+                    weiß, daß er Leute findet, die ihm an Wissenschaft und Geist  überlegen sind und ich in der letzten
+                    Zeit sehr interessante Bekanntschaften der Art gemacht hatte, wie namentlich
+                        Schulze’s u mehrern,  mit
+                    denen ich gern und sehr viel umging; – er fühlt sich da nur wohl, wo er wie eine
+                    Art Orakel betrachtet wird und allenfalls empfängliche Gemüther findet, die ihm
+                    gern zu hören und ihn verstehen; da er in seinen Ansichten und Trieben doch  im Ganzen eine Art Stereotype ist, die anhörende Gesellschaft mich
+                    weiter nicht interessirt, so sehen Sie leicht, daß unsere Wege nicht viel
+                    zusammentreffen; – für’s Haus u für’s Detail ist er sehr angenehm u originell, dabei wirklich treu und
+                    gut; – eine Frau wird er gewiß ganz glücklich machen, da sie ihn ganz und gar
+                    erfüllt und befriedigt, wenn er eben ihr ein solches
+                    Orakel ist, wie er es gern hat; – das weiß er auch sehr wohl und sucht sich daher ein <hi rendition="#u" hand="#author">rein</hi> weibliches, nicht eben
+                    geistig hochstehendes Wesen; – findet er eine solche einmal, was ich ihm
+                    herzlich gern wünsche, 
+                    ist und macht er gewiß sehr glücklich; – er stand mir übrigens in den letzten
+                    Tagen in <placeName key="JP-005948">Leipzig</placeName> doch treulich bei und brachte mich, da mir eine Art Unfall begegnete, der
+                    mich nöthigte sehr schnell und plötzlich abzureisen mit einem einspännigen Wagen
+                    bis nach <placeName key="JP-005761">Friedstein</placeName>, wo er mit mir die
+                    Nacht blieb und auch der <persName key="JP-003231">Pilgrim</persName> seines
+                    anspruchlosen und bescheidenen Wesens halber sehr gefiel, – es waren recht
+                    schöne Reisetage; ich mit ihm alleine in in einem bequemen Wagen in der
+                    herrlichsten Frühlingsbläue. –  er ging von dort wieder nach <placeName key="JP-005948">Leipzig</placeName> zurück, von wo aus er nach <placeName key="JP-005999">Marburg</placeName>
+                    zu gehen gedenkt, um dort zu promoviren, dann hierher kommt, den andren Examen
+                    zu machen, dann vielleicht nach <placeName key="JP-006431">Zittau</placeName>,
+                    im Herbst, wenn es möglich ist nach <placeName key="JP-012131">Messina</placeName> gehen will, wohin er eine Empfehlung hat; – nach
+                        <placeName key="JP-005574">Baireut</placeName> zu <persName key="JP-001761">Hirsch</persName> geht weder er noch <ref target="JP-UB0444/#nwhj_kqc_1lb">Schulze</ref>, da uns allen, die wir den Brief von <persName key="JP-001761">Herrn von Hirsch</persName> gelesen, der Mann, wenn auch die "Empfehlung von <ref target="JP-UB0444/#nwhj_kqc_1lb">Schulze’s</ref> Wünsche ihm wünschenswerth"
+                    erschienen sein mögen, ehrlich gesagt wenigstens als ein legitimer Pedant
+                    vorgekommen ist, und wir alle gesonnen sind, dergleichen Leuten aus dem Wege zu
+                    gehen; – <ref target="JP-UB0444/#nwhj_kqc_1lb">Schulze</ref> geht vielleicht nach <placeName key="JP-012677">Bischofsgrün</placeName>
+                    am <placeName key="JP-011865">Ochsenkopf</placeName>, oder nach dem <placeName key="JP-012193">Aargau</placeName> um diesen Sommer über in reiner Bergluft
+                    und unter kräftigen Menschen körperlich und geistig immer mehr zu gesunden;
+                    vielleicht wird er von dort aus der literarischen Welt etwas bekannt, die sich,
+                    glaube ich  etwas
+                    wundern wird. – vielleicht bin ich im Stande, Ihnen nächstens von einem andren
+                        neuen Freunde von mir, etwas
+                    mitzutheilen, das selbst dem <persName key="JP-999999">Onkel</persName> in
+                    vieler Hinsicht Freude und Befriedigung gewähren wird.</p>
+            <p>ich komme nun zu einer Bitte, die ich im Namen unsrer Aller an Sie thue; –
+                    nämlich mit nächster Post, mir wissen zu lassen, was für Verbindlichkeiten die
+                        <persName key="JP-004393">Mutter</persName> gegen Sie zu erfüllen gehabt hat, da wir gern noch vor <persName key="JP-004390">Uthe’s</persName> Abreise die kleinen Antheile
+                    eines Jeden bestimmen u Alles in Ordnung bringen wollen; – auch würde ich Sie
+                    ganz besonders ersuchen, mir doch alle wichtigen Papiere, die Sie etwa von der <persName key="JP-004393">Mutter</persName> in Händen haben, zu schicken oder von denen Sie etwas wissen, Nachricht zu ertheilen;
+                    – ich habe mit der Ubereinstimmung der Übrigen diesen Theil der Erbschaft übernommen; Sie können Sie später alle wieder
+                    von mir zurück erhalten; ich babsichtige nur den möglichsten Aufschluß über ihr
+                    Sein und ihre frühen Verhältnisse. – An
+                        Everd habe ich in gleicher Absicht heute geschrieben und am Donnerstag
+                    öffnen wir gemeinschaftlich ihr Schreibepult, da sie mehrmals von Papieren
+                    gesprochen, die dort liegen sollen.</p>
+            <closer>
+               <salute>Bewahren Sie uns nun ganz Verwaisten im freundlichen Sinn – und grüßen
+                            <persName key="JP-003482">Ihre Familie</persName> sorglich von uns
+                        Allen; – es geht ein finsterer Geist durch unser Haus; drum wollen wir Alle
+                        uns die Hände traulich reichen: – auch die <persName key="JP-004103">Emma</persName> streckt ihre Hand, nachdem sie wieder ein Kind
+                        verloren, nach uns aus; – wir nehmen sie freudig, eingedenk der großen
+                            <persName key="JP-004393">Todten</persName> da droben. –</salute>
+               <signed>Richard</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

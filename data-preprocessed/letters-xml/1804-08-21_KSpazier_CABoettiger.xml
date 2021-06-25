@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0365">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Carl August Böttiger. Leipzig, 21. August
+                    1804, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1804-08-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000400">Carl August Böttiger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012314">Empfehlungen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <placeName key="JP-005948">Leipzig</placeName> 21 Aug 4.</dateline>
+            </opener>
+            <p>Sollte es geschehen können, Hochzuehrender Freund, ohne daß Sie sich mehr als
+                    höchstens eines Stündchens ohne Schmerz entschlagen dürfen, so bitte ich Sie,
+                    beigehenden Herrn <persName key="JP-012588">Kammersekretair Bräunlich</persName> aus <placeName key="JP-005586">Berlin</placeName> (einen mir auch nur empfohlnen Freunde meines <persName key="JP-002703">Schwiegervaters, d Geh. Rath Mayer</persName>), nebst
+                    Gesellschaft ein wenig nützlich zu seyn. Es muß aber, wie gesagt, ganz ohne
+                    Unbequemlichkeit von Ihrer Seite geschehen. Ich bin dafür zu jeden mir möglichen
+                    Gegendienste herzlich gern bereit.</p>
+            <p>Wer war es denn, der mir hier  zu Zeiten Nachrichten aus <placeName key="JP-005687">Dresden</placeName> versprochen. Besorgen Sie Nichts: Sie haben mein <hi rendition="#u" hand="#author">Ehrenwort</hi> schlechterdings anonym zu bleiben.</p>
+            <p>Horstigs sind hier wieder durchgefahren u erzählten mir Sie gesehen zu
+                        haben. Sind Sie nun
+                    eingebürgert? Ich will mich sehr freuen, wenn Sie recht aus dem Herzen heraus
+                    sagen können: ich befinde mich wohl!</p>
+            <closer>Ihr ganz ergebenster<signed>Spazier</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

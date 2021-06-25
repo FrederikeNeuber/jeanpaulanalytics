@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0184">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Caroline Richter. Meiningen, 1. und 6. Juli 1808, Freitag und Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date from="1808-07-01" to="1808-07-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012728">Abschied</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#author">
+            <opener>
+               <dateline>Meiningen, Am 1<hi rendition="#uu" hand="#author">sten</hi> July <hi rendition="#u" hand="#author">1808</hi>
+               </dateline>
+            </opener>
+            <p>Geliebte Caroline! Die ersten ruhigen Augenblike meines
+                            Hierseyns gehören Dir. Ich kann Dir nicht sagen wie sehr Du
+                    mir fehlst und wie verwaiset ich mich hier fühle! – Dabey vergeße ich weder die
+                    Umgebung <persName key="JP-003966">meines edlen S.</persName>, noch die <hi rendition="#u" hand="#author">zarte</hi>
+               <persName key="JP-002936">meiner Antonie</persName> und die freundliche
+                        <persName key="JP-003967">der Kinder</persName>, aber Dich habe ich doch
+                    nicht. Wenn sich einmahl zwey weibliche Wesen vertrauen, wenn ihre gegenseitige
+                    Anhänglichkeit durch <hi rendition="#u" hand="#author">Treue</hi>,
+                    im vollen Sinne des Worts, geheiligt ist, wie eine solche Vereinigung auf Herz
+                    und Seele wirkt, es giebt keine Worte dafür. Daß man Dich nicht mehr lieben
+                    kann, als ich Dich liebe, daß <hi rendition="#u" hand="#author">Karoline</hi> hätte ich Dir es nur beßer sagen und beweisen können! Jetzt
+                    wo Dich meine Sehnsucht nicht mehr mit Auge und Mund erreichen kann, nun dünkt
+                    es mich, als habe ich Dir gar nichts von meiner Liebe, von meiner Achtung, für
+                        <hi rendition="#u" hand="#author">Deinen</hi>
+               <hi rendition="#u" hand="#author">individuellen</hi>
+               <hi rendition="#u" hand="#author">Werth</hi> gesagt. Du bist ein
+                    seltnes Weib, Du liebst wie ich nie lieben sah! Ohngeachtet ich Dich in diesem
+                    Grade nicht nachahmen kann, so kann ich Dich doch faßen. Aber, Geliebte Du
+                    liebst zu viel, und zu opfernd; – – – So wie Du mich kennst, kannst Du mich nie
+                    mißverstehen, meine Liebe zu Dir verpflichtet  mich zu dem Zusatz,
+                    indem Du stets Dich liebend opferst, foderst Du auch Opfer von <hi rendition="#u" hand="#author">Denen</hi> die Dich lieben. Wenn
+                    man Dich handeln sieht, wenn man Dich beobachtet, wie Du eigentlich, nur für
+                    Andre, <hi rendition="#u" hand="#author">nie</hi> für Dich lebst,
+                    wunderbar wird man von Deinem Wesen ergriffen, aber unendlich besorgt für die
+                    Ausdauer Deiner Kräfte, die Dir doch nur menschlich zugetheilt sind. Ich
+                    beschwöre Dich vor Gott, Caroline, <hi rendition="#u" hand="#author">schone Dich</hi>, <hi rendition="#u" hand="#author">und genieße
+                        selbst</hi>. <persName key="JP-999999">Richter</persName>, der Dich über <hi rendition="#u" hand="#author">Alle</hi> und <hi rendition="#u" hand="#author">über Alles</hi> liebt, er ist hier bey gewiß
+                    meiner Meinung. Wäre ich so glüklich, mir Dir an einem Ort zu wohnen, wo wir uns
+                    viel sehen könnten sehr oft würde ich erwähntes Thema zum Gegenstand unsrer Unterhaltung nehmen; und Du
+                    würdest Deiner Henriette nicht zürnen, <hi rendition="#u" hand="#author">wirst es auch nicht</hi>, wenn sie zuweilen schriftlich davon
+                    sprechen wird. Dein <hi rendition="#u" hand="#author">Wohl</hi>, und
+                    Deine <hi rendition="#u" hand="#author">Ruhe</hi>, ist genau mit meinem Glück verbunden, ich kann
+                    nicht viel Worte darüber sagen, <hi rendition="#uu" hand="#author">es ist aber so</hi>!! — — —</p>
+         </div>
+         <div hand="#author">
+            <p>Den 6<hi rendition="#uu" hand="#author">ten</hi>July. Nur erst heute vergönnen mir, – <anchor type="target" xml:id="start_sfs_chj_5mb"/>namenlose Störungen und
+                    Unterbrechungen, die die Hausfrau, <hi rendition="#u" hand="#author">Gärtnerinn</hi>, Mutter und Gattin, nicht umgehen kann<anchor type="target" xml:id="stop_sfs_chj_5mb"/>, – die Fortsetzung dieses Briefes. <anchor type="target" xml:id="start_v31_2hj_5mb"/>Ich mußte <persName key="JP-002936">Antoniens</persName> Briefe allein gehen laßen und ihnen nur
+                    Grüße für  <hi rendition="#u" hand="#author">meine
+                        Bayreuther</hi> mitgeben.<anchor type="target" xml:id="stop_v31_2hj_5mb"/>
+                    Die launige Witterung macht meiner kleinen Feld-oeconomie so viel zu schaffen und setzt mich selbst, zwar eben nicht
+                    in eine sehr <hi rendition="#u" hand="#author">geistreiche</hi>,
+                    aber doch recht geschäftige Thätigkeit. Auch waren in diesen Tagen vielerley
+                    Besuche abzugeben und zu empfangen. In jedes Geschäft mit einen Wort, in jedes
+                    was ich thue, mischt sich eine solche bange Sehnsucht nach Euch, meine Einzigen,
+                    daß ich mir oft nicht zu helfen weiß. Ich möchte den Raum durchbrechen, der uns
+                    von einander trennt und an Dein Herz fliegen, oh, was möchte ich nicht wiesen um Dir die Begebenheiten
+                    unsrer Reise zu erzählen. Mancherley Kämpfe hatten wir mit Regen und Wind, –
+                    unmittelbar als wir durch <placeName key="JP-005574">die Stadt</placeName>
+                    gefahren waren, – zu bestehen. Bis Rosenfeld, – den halben Weg
+                    nach <placeName key="JP-005929">Culmbach</placeName>, – war <persName key="JP-003749">Amanda</persName> und <persName key="JP-003966">mein
+                        S.</persName> ziemlich durchnäßt, zum Glük, daß es warm ward, und nun die
+                    Sonne anfieng zu scheinen. In <placeName key="JP-006266">Schwarzach</placeName>
+                    blieben wir eine Stunde bey Vogt’s. <persName key="JP-004498">Die
+                        herrliche Frau</persName>, <persName key="JP-003087">Emanuels</persName>
+               <hi rendition="#u" hand="#author">frühere</hi> und <hi rendition="#u" hand="#author">Eure Freundinn</hi>, wie innig
+                    ergriff sie mein Herz. Gerade in einen Augenblik, wo meine  Seele, so
+                    voll von Liebe und Schmerz war, da gerade ein Wesen zu finden, welches mich
+                    verstand, Euch liebt, und mich recht mütterlich liebend umfaßte, oh, ich werde
+                    den Augenblik nie vergeßen. Wir schieden voneinander, in meinem Herzen mit dem
+                    herzlichsten Wunsche sie wiederzusehen und länger ihren Umgang zu genießen. Bis
+                        <placeName key="JP-005649">Coburg</placeName> war unsre Reise ziemlich
+                    einförmig und schweigend. Körperlich war ich am meisten angegriffen, die
+                    Bewegungen in meinem Innern und dazu abscheuliche Wege, dieß machte auf Witterung. In der Nacht fiel ein
+                    fürchterlicher Platz-Regen und als wir am Morgen 5 Uhr die Reise fortsetzen
+                        wollten war das Wetter so
+                    tobend und gewaltsam, daß wir geradezu bleiben mußten. Mein lebhafter <persName key="JP-003966">S.</persName> war über diese Zögerung aber nicht sehr
+                    erfreut. Du hättest nur sehen sollen Caroline, mit welcher Industrie <persName key="JP-003966">Schwendler</persName> und der Kutscher ein Verdek an unsern
+                    Wagen anbrachten, gegen 8 Uhr verminderte sich der heftige Regen etwas und wir
+                    fuhren ab. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

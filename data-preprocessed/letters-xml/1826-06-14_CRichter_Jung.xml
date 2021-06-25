@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0723">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Franz Wilhelm Jung. Bayreuth, 14. Juni 1826,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1826-06-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001981">Franz Wilhelm Jung</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012539">Frankfurter Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bayreuth d. 14<hi rendition="#uu" hand="#author">ten</hi> Juni 1826.</dateline>
+               <salute>Verehrter Freund!</salute>
+            </opener>
+            <p>Ich bin in einiger Unruhe auf <ref type="letter" target="JP-UB0545">meinen
+                        letzten Brief an Sie</ref>, keine unmittelbare Nachricht von Ihrer Güte
+                    erhalten zu haben, obwohl durch <anchor type="target" xml:id="start_ymr_fbj_cnb"/>die Zusendung des Privilegi<anchor type="target" xml:id="stop_ymr_fbj_cnb"/>,
+                            eine mittelbare; und ich hatte mir vorgenommen
+                    Ihnen sogleich nach Empfang desselben meinen unendlichen Dank dafür zu sagen.
+                    Die Bestimmtheit desselben gegen die Misbräuche von Auszügen wogegen die
+                    Schriften <persName key="JP-999999">meines Mannes</persName> vorzüglich zu
+                    wahren sind, war mir eine wahre Himmelswohlthat, und ich bitte Sie,
+                    Verehrungswürdigster. dem Herrn <persName key="JP-012008">Minister von Grolmann</persName>wie Allen dazu wirkenden Personen meine Erkentlichkeit zu bezeigen.
+                    Ihnen, wird Gott die Mühe lohnen, die Sie dafür gehabt haben.</p>
+            <p>Möchte nur nicht Krankheit an Ihrem Schweigen Schuld sein, würdigster Mann! und
+                    Alle theueren Glieder <persName key="JP-001982">Ihrer Familie</persName>, im
+                    vollkommensten Wohlsein, und im Glücke sich befinden. Ich, mein Herrlicher!
+                    genieße jetzt eine Freude die Balsam auf die Wunden
+                            legt, welche mir Armen das Schicksal geschlagen. Meine
+                    und <persName key="JP-999999">Jean Pauls</persName> älteste Tocher, <persName key="JP-003471">Emma</persName>, ist einem  vortreflichen jungen Manne
+                            verlobt. Dem
+                        Maler<persName key="JP-001120">Ernst Förster</persName>aus <placeName key="JP-005521">Altenburg</placeName>. Eine vollkommene
+                    Gleichartigkeit des moralischen und geistigen Werthes, macht mir dieses vom
+                    Himmel gestiftete Bündnis zu dem unschäzbarsten von der Welt, denn durch
+                        <persName key="JP-999999">meinen hohen Seeligen</persName> habe ich es
+                    gelernt was <hi rendition="#u" hand="#author">wahre
+                        Glückseeligkeit</hi>,  und daß sie nur in den Charakteren der Menschen zu finden ist.
+                    Gott hat meine geliebten <persName key="JP-003483">Kinder</persName> in die Lage
+                    gesetzt, daß sie nicht nach Geld, Rang und Anstellung zu fragen brauchten und so
+                    können sie im Geist und in der Wahrheit fortleben wie sie erzogen und gebildet
+                    worden. Gott, und <persName key="JP-999999">ihr herrlicher Vater</persName> wird
+                    diesen wahrhaften <hi rendition="#uu" hand="#author">Seelen</hi>-bund segnen.</p>
+            <p>Im Oktober d. J. wird <persName key="JP-003471">Emma</persName> ihrem <persName key="JP-001120">künftigen
+                                Manne</persName> nach <placeName key="JP-006040">München</placeName>
+                            folgen wo ich sie
+                    aus meinen Händen, in die Mitte der ausgezeichnetesten Menschen, welche Freunde <persName key="JP-999999">ihres
+                        Vaters</persName> waren, versetzt sehe, weil Alle diese auch zugleich die
+                    Freunde meines <persName key="JP-001120">künftigen Sohnes</persName> sind. Seine Familie in <placeName key="JP-005586">Berlin</placeName>, <placeName key="JP-005687">Dresden</placeName>
+                            verzweigt: ist  mit der meinigen und
+                    den Freunden <persName key="JP-002703">meines seeligen Vaters</persName>
+                    verbunden, un so ist er mir wie ein alter lieber Bekannter, wie ein durchaus
+                    Verwandter zu betrachten, der nur den Bund der Freundschaft aufs Neue befestigt.
+                    O wie viel Sicherheit gewährt das fürs ganze Leben! –</p>
+            <p>Mit meinen übrigen Angelegenheiten habe ich unterdessen schwere Kämpfe zu
+                    bestehen, und auch hierin ist mir <persName key="JP-001120">Förster</persName>
+                    eine herrliche Stütze. Ich gehe nun weit beruhigter der Zukunft entgegen da die
+                    Welt eine Verpflichtung von meiner Seite anerkennen muß für das Wohl <persName key="JP-003483">meiner Kinder</persName> zu wachen, und für die Erhaltung
+                    dessen zu kämpfen, welches man bis dahin, wo wir allein standen für überflüssig
+                    hielt. Was hatte man für Rücksichten für eine Mutter und zwei Kinder zu nehmen,
+                    die durch den Seegen ihres Hauptes, unverdient zu großen GlücksgüternWie die Welt denkt gelangte? Freunde
+                    und Feinde misgönnten uns das, was wir nie anders als zu edeln Zwecken
+                    angewendet hätten. selbst wenn nicht die Gründung neuen Lebensglücks hätte Statt
+                    finden dürfen. Dies war mit, das bitterste was ich erfahren habe.</p>
+            <p> Außerdem weiß die Welt nicht, was wir abgeben müssen, denn sogar der
+                    reiche und mächtige <persName key="JP-000698">Cotta</persName>, nach meinem
+                    kindlichen Glauben der großherzigste der früheren Verleger, verlangt Entschädigung, und hat ein ganz förmliches Verfahren
+                            gegen mich eingeleitet, die ihm so vertrauensvoll schrieb, da ich so
+                            gern der Grosmuth und dem freien Willen eines Menschen das zu thun
+                            überlasse was ich vom <hi rendition="#u" hand="#author">Rechte</hi> fodern kann. Unverschuldet mußten wir <persName key="JP-003408">Herrn. Reimer</persName>die Werke überlassen, die ich ihm<persName key="JP-000698">Cotta'n</persName>
+               <hi rendition="#u" hand="#author">noch einmal angeboten</hi> hatte,
+                    und die Er hätte übernehmen können, wenn er sich zu der Niederschlagung der
+                        <persName key="JP-003408">Reimerschen</persName> Ansprüche hätte bequemen
+                    wollen, welches Ihm, ein Leichtes gewesen wäre. Allein er lehnte es ab, weil er
+                    sich nicht mit demselben befassen wollte. Ich glaube <persName key="JP-003408">Reimers</persName> Bezahlung war ihm zu hoch, und <hi rendition="#u" hand="#author">er</hi> wollte uns
+                    nicht so viel geben,
+                    obgleich
+                        <persName key="JP-001353">Göthe</persName> von ihm  1, 40 000 rth.
+                    erhält.</p>
+            <p>Man sagt allgemein, die <bibl sameAs="JP-010695" subtype="werke-jp">Flegeljahre</bibl> seien vergriffen, obwohl er sie in der Liste seiner
+                    vorräthigen Verlagsartikel mit, benennt. Es ist sehr wichtig darüber im Klaren
+                    zu sein.</p>
+            <closer>
+               <salute>Möchte ein gutes Geschick mir bald die frohesten Nachrichten von Ihnen
+                        und <persName key="JP-001982">den theuern Ihrigen</persName> bringen. Mit
+                        der ausgezeichnetesten Verehrung, ewig</salute>
+               <signed>Ihre Caroline Richter</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

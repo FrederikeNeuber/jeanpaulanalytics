@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0364">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 24. Mai
+                    1802, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-05-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Am 24.tenMay 1802.</dateline>
+            </opener>
+            <p>Mein theurer Vater Verzeihen Sie doch ja daß ich nicht
+                    früher Ihren lezten, durch<persName key="JP-003661">Madame Sander</persName> erhaltnenBrief beantwortete.
+                    Beyde, den an mich sowohl, wieden für <persName key="JP-003469">Caroline</persName>, habe ich nach<placeName key="JP-006012">Meiningen</placeName> geschickt –und<persName key="JP-003469">C.</persName> gebeten daß sie den
+                            Willen <persName key="JP-999999">ihres Mannes</persName> recht bald,
+                            Ihnen bestimmt schreiben möchte. Dies bezieht sich nemlich auf <ref target="JP-UB0362/#np43_zfd_ymb">Ihren beyderseitigen Plan zur Reise
+                        nach <placeName key="JP-005948">Leipzig</placeName>
+               </ref>, und besonders
+                    darauf –daß Caroline mir kürzlich geschrieben hatte<persName key="JP-999999">Ihrem Manne</persName> sey eigentlich jeder Termin zur
+                    Reise gleich. – 
+                    die Stelle in ihrem Briefe, welche dies ausdrückt, sage ich Ihnen wörtlich her.
+                    "Da unser Vater nun im Juny komt" (das hatte ich ihr nemlich geschrieben),
+                    "nachdem wir schon auf den August gefaßt waren, weil
+                        <persName key="JP-004275">Thieriot</persName> von <persName key="JP-004104">Spazier</persName> gehört hatte, daß der gute Vater erst dann käme, ist uns
+                    diese neue Ändrung sehr willkommen, und Du mußt um Dein selbst willen schon den
+                    Vater bitten die Zeit nicht mehr zu ändern, sonst  verschwindet für
+                    Deinen <persName key="JP-002583">lieben Mann</persName> und Dir der schöne
+                    Sommer vergeblich."</p>
+            <p>Auf diese Äußrung schrieb ich Ihnen mein liebster Vater,meinen lezten Brief – worinn ich Sie um die genaue Bestimmung des
+                            Termins zur Reise bat – ohne zu ahnden daß
+                        <persName key="JP-003482">Richters</persName>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0542/#start_tgv_wpj_1kb">dennoch schon den August bestimmt hätten</ref>, und Sie sich auch nach
+                    Diesen richten wollten. –</p>
+            <p>Nachdem ich jetzt Ihre beyden Briefe bekam, konnte ich doch nichts andres thun
+                    als an <persName key="JP-003482">Richters</persName> die Briefe schicken. <anchor type="target" xml:id="start_d2d_k12_ymb"/>Denn ich war in der Meinung, <persName key="JP-003469">Carolinens</persName>
+                    Außrung in dem Briefe an mich sey die spätere und gleichsam das endliche Resultat des so oft
+                    geänderten Willens, und sey nun weiter nichts nöthig als daß sie Ihnen denn
+                    selbst, und nicht bloß durch mich bekannt machte. – Dagegen erhalte ich aberheut beikommenden Brief – der nun wieder
+                    für den August entscheidet.  Doch sagt
+                        <persName key="JP-003469">Caroline</persName> im Briefe, sie wünsche zu
+                    wißen welche Zeit uns die liebste wäre und ich erklärte mich so unbestimmt
+                    darüber! Dieß ist aber nicht der Fall. Denn schon früher – in der Meinung daß
+                        <persName key="JP-003482">Richters</persName> nun gar nicht können, weil
+                    dieß in der Meße nicht geschehen war – schrieb ich daß wir nun die Gewißheit
+                    hätten, daß Sie, liebster Vater, im Juny zu uns kämen –
+                    und daß hernach – wenn Sie uns wieder verlaßen hätten der übrige Theil der
+                    schönen Jahrszeit, von <persName key="JP-002583">meinem Manne</persName> zu
+                    einer Reise nach <placeName key="JP-005687">Dresden</placeName> und <placeName key="JP-005754">Freiberg</placeName> bestimmt sey. Früher ist es auch nicht
+                        gut möglich, weil meines
+                    Mannes Schwester ihre Niederkunft nach Pfingsten erwartet. In den ersten 6
+                    Wochen nach dieser Epoche würden auch die genügsamsten Gäste, der Wöchnerinn,
+                    welche noch dazu in einer beschränkten Lage ist nicht willkommen seyn. Und also
+                    war eigentlich der Zeitpunkt von Ende July und Monat
+                        August der Termin  unsrer Reise. Da Sie
+                    mein guter Vater, <hi rendition="#u" hand="#author">freywillig</hi>
+                    den Monat Juny wählten, so werden Sie selbst in der
+                    Bestimmung der beyden andren Monat nichts unnatürliches finden.<anchor type="target" xml:id="stop_d2d_k12_ymb"/>
+            </p>
+            <p>Ich gestehe, daß ich mich jetzt in einiger Verlegenheit befinde. Ich glaube daß
+                    es Ihnen, mein liebster Vater, nicht unangenehm seyn kann wenn ich Sie bäte, es
+                    beym Juny zu laßen,  da Sie sich eimal schon für diesen bestimmt hatten,
+                    und auch ohne Zweifel Ihre Einrichtungen dazu getroffen hatten. Was mache ich
+                    aber mit Richters? – Daß ich gern den Plan zu unsrer Reise ganz aufgäbe
+                    (wenigstens daß nicht Selbstsucht, die Ursach ist warum ich sie wünsche) werden
+                    Sie mir ohne Versichrung glauben. Aber für <persName key="JP-002583">meinen
+                        guten Mann</persName> in einer ernstern Rücksicht, ist sie in der That
+                    nothwendig – und so kann ich es ja wohl hersagen, daß sie darum mir sehr am
+                    Herzen liegt. – Ich werde Ihre nächsten Antwort, meine liebster Vater, mit großer Sehnsucht, entgegensehn,
+                    und auch nicht  ehr an <persName key="JP-003482">Richters</persName>
+                    schreiben, wirklich, weil ich nicht weiß was ich schreiben soll. Denn <persName key="JP-999999">Richter</persName> schreibt so bestimmt – und ich möchte ihn
+                    doch nicht gern kränken! um keinen Preis!</p>
+            <p>Vielleicht mein guter Vater, können Sie das entscheidende Wort aussprechen! – </p>
+            <p>Noch einiges, als Commentar über einige Stellen in <persName key="JP-003469">C.</persName> Brief, welche Ihnen unverständlich seyn werden, will ich
+                    hinzufügen.</p>
+            <p>
+               <persName key="JP-003661">Die Sander</persName> hatte
+                    uns gesagt in <placeName key="JP-005586">Berlin</placeName> sey allgemein das
+                    Gerücht verbreitet, <persName key="JP-003469">Caroline</persName> habe schon
+                        einmalfausse-couche
+                    gemacht. Die Nachricht war mir zu wichtig, und, daß sie mir nur allein bis dahin Geheimniß geblieben war, zu befremdend, als daß ich nicht gleich <persName key="JP-003469">Caroline</persName> hätte darum befragen müßen. Dieß der Sinn des ersten
+                    Absagens im Briefe! –</p>
+            <p>Auf dem Lande wohnen wir nicht. – <persName key="JP-002583">Mein Mann</persName>
+                    hat zwar ein  kleines Stübchen gemiethet  in welchem wir zwar nicht wohnen doch
+                    zuweilen schlafen, und die Sonne aufgehen  sehen wollten – weil eine doppelte Ökonomie zu kostbar ist. Wir konnten es aber noch  nicht benuzen, weil während der Meße
+                    doch immer auf einige Tage auswärtige Verwandte meines Mannes bey uns logiren.
+                    Ich habe selbst jetzt ein kleines Mädchen von 9 Jahren
+                            eine Nièce<persName key="JP-002583">meines Mannes</persName> bey mir, deren Gesellschaft
+                    mir recht angenehm ist, da ich sonst gewöhnlich den ganzen Tag, so lange
+                        <persName key="JP-002583">meines Mannes</persName> Geschäfte dauern, allein
+                    bin. –</p>
+            <p>Gestern genoß ich den schönsten Tag; wenigstens gab er mir alles was der volle
+                    Genuß der schönen Natur uns geben kann! – Ich reißte mit <persName key="JP-002583">meinem Mann</persName> und noch einigen Freunden 3 Meilen
+                    von hier nach einem Städtchen<placeName key="JP-012662">G<hi rendition="#u" hand="#author">rimma</hi>
+               </placeName> genannt – welches in einer
+                    Paradisischen Gegend liegt. Zum erstenmal in meinem Leben sah ich eine
+                    eigentlich schöne Gegend. Hohe Felsen auf denen ich herumgeklettert bin wie eine
+                    Gemse. Das Städtchen liegt an der<placeName key="JP-012652">
+                  <hi rendition="#u" hand="#author">Muld</hi>e</placeName>; und
+                        es war ei sich also alles dazu um ein höchst romantisches Ganz  zu bilden. Sie können es sich denken wie ich entzückt war; mein
+                    liebster Vater! – Wir fuhren am Sonnabend Abend von hier weg, sodaß wir um 9 Uhr dort ankamen, die
+                    Nacht im Wirthshause zubrachten und den andern Morgen von 5 Uhr an bis zum Abend
+                    um 5 Uhr herumstreiften auf den Bergen und auf dem Waßer, und einen durchaus
+                    seeligen Tag genoßen. Schade, Schade, daß wir wieder zurückmußten nach
+                        <placeName key="JP-005948">Leipzig</placeName> – denn man hatte weiter
+                    keinen Wunsch übrig als  nur ewig dableiben zu können. Mir war der Ort noch darum
+                    merckwürdig weil er10 Jahre, auf der dortigen Fürstenschule, der Aufenthalt <persName key="JP-002583">meines Mannes</persName> war –
+                    nemlich von seinen 8ten bis zum 18ten Jahre! –</p>
+            <p>Ich habe Ihnen,  so viel
+                    vorgeschwazt, mein theurer Vater, daß Sie sich nach den Schluß meines Briefes
+                    sehnen werden. Mehr noch habe ich aber zu fürchten daß der Inhalt meines Briefes
+                    Ihnen vielleicht hin und wieder nicht ganz angenehm seyn könnte! Aber doch gebe
+                    ich mich Ihrem Vaterherzen hin, und hoffe auf Nachsicht und Vergebung und auch
+                    auf Ihre Liebe! Schreiben Sie mir doch recht bald, wenn Sie mich glücklich
+                    machen wollen!</p>
+            <closer>
+               <signed>Ihre treue Tochter E': M:</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-002583">Mein Mann</persName> weiß zwar nicht daß ich an Sie
+                        schreibe. Ich aber weiß daß er sich Ihrer immer mit kindlicher Liebe
+                        erinnert, darum nehmen Sie auch von ihm einen herzlichen Gruß! –</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

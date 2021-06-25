@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0695">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Heidelberg, 16. November 1820,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1820-11-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011948">Natur</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>16 November 1820.</dateline>
+               <salute>Theuerste Mutter!</salute>
+            </opener>
+            <p>Der Glaube, Du könntest vielleicht aus dem vorigen Brief, den ich nie zum zweitenmal so wiederholen
+                    werde, abnehmen, daß meine innigste Liebe gegen Dich nicht immer dieselbe sei,
+                    läßt mich jetzt nicht ruhen u ich muß gleich nach dem heutigen Empfang Eurer
+                            herrlichen Briefe antworten. Zwar bin ich jetzt
+                    nicht so gestimmt, wie mannigmal, d.h. so von Allem ergriffen, daß ich auf
+                    einmal mein ganzes Herz vor Euch Lieben ausschütten u alles, was in mir vorgeht,
+                    nennen könnte, allein gleich
+                    lieben kann ja der Mensch nicht immer und Gott wird mir noch genug Augenblicke
+                    schenken, wo ich etwas aussprechen kann bei Euch, ihr Geliebten, das nur der
+                    Allmächtige ganz versteht. Kann man denn alle seine Gedanken aussprechen? Ist
+                    ein Brief fortgeschickt, so wünsche ich jedesmal ihn zurück, um nur noch eine
+                    Zeile hinzusetzen u so geht es mit allem Vergangenen, bei dem man immer wünscht,
+                    ach! hätte ich es damals so gemacht. Gute Mutter! wie werde ich noch mehr an
+                    Dich denken können, wenn ich im Faß Deine Mühe u Arbeit sehe u anstaune
+                    Deine Liebe. Gott möge Dich lange noch erhalten u  so, wie ich Dich
+                    zum letztenmal, unten an der Thüre unseres Hauses sah. Deine Aehnlichkeit mit der <persName key="JP-003948">
+                  <hi rendition="#u" hand="#unknown">Krh.
+                            Schwarz</hi>
+               </persName> finde ich gar nicht groß, im Gegentheil,
+                    ich wünschte es von keiner Seite; die Tochter von <persName key="JP-001984">
+                  <hi rendition="#u" hand="#unknown">Jung
+                                Stilling</hi>
+               </persName> zu sein steckt ihr immer im Kopfe u
+                    sonst bemerke ich auch ein bischen Stolz. Ich lebe jetzt mit meinem Freund <persName key="JP-002773">Merk</persName>, der kürzlich
+                    von <placeName key="JP-006040">München</placeName> kam, in einem Logis, das weit
+                    schöner u größer, als das vorige, doch in eben demselben Haus befindlich ist,
+                    zusammen. Der Kaufmann <persName key="JP-001196">Fries</persName> u seine Familie lassen Dich, bester <persName key="JP-999999">Vater</persName>, recht sehr grüßen, so wie <persName key="JP-000755">Daub</persName>, <persName key="JP-000716">Kreuzer</persName> und <persName key="JP-003168">Paulus</persName>. Der
+                    jetzige schnell hereinbrechene Winter gibt noch immer Heidelberg einen schönen
+                    Anstrich und die Berge sind noch immer gar herrlich anzusehen u anzubeten; die
+                    schönen Aussichten sind hier nur dem bekannt, der diese göttlichen Höhen recht
+                    zu ersteigen vermag u sich an einer reineren Luft laben. Diese u die <placeName key="JP-006187">Rheingegenden</placeName> samt den Menschen sind
+                    Teutschlands Stolz. An dem jungen <hi rendition="#u" hand="#unknown">
+                  <persName key="JP-001068">Feuerbach</persName>
+               </hi>
+                    besitze <hi rendition="#u" hand="#author">ich</hi> einen recht
+                    innigen Freund, der sich Deiner noch recht warm erinnert, Du herrlicher Mann, u
+                    noch mehr Deiner Segenwünsche für
+                        Am Anfang sollen statt am Ende Ihr
+                        Geliebten Schwestern recht gegrüßt sein.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

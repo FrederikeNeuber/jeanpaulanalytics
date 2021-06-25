@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0508">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, 26. November 1819, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1819-11-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012728">Abschied</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireuth den 26<hi rendition="#uu" hand="#author">ten</hi>Nov. 19.</dateline>
+               <salute>Mein Max!</salute>
+            </opener>
+            <p>Zum Abschied von <placeName key="JP-005574">Baireuth</placeName> da ich in
+                    einer Stunde abreise, muß ich dir noch meinen Weihnachten geben, wofür Du Dir
+                    nur leichte Wünsche befriedigen sollst. Sag dem
+                    guten <persName key="JP-999999">Vater</persName> bei Zeiten, wenn  Haushaltungsgeld zu Ende geht. H kannst Du Dir eine Mütze kaufen.  was Du sonst wünschest, und das
+                    trage  Andenken Deiner Mutter. Wie
+                    wirst,  an mich denken und an den
+                        <persName key="JP-999999">Vater</persName>
+               <persName key="JP-003471">Emma</persName> und <persName key="JP-003491">Odilie</persName> werden ihn aufheitern. Ich gehe über <placeName key="JP-005687">Dresden</placeName> und sehe meine <persName key="JP-004393">Schwester</persName>. <persName key="JP-004106">Julius</persName> ist in <placeName key="JP-005586">Berlin</placeName>. In der Mitte Januars hoffe ich zurück zu sein. Bist Du gesund – mein Max! Gott erhalte Dich so. Eben so wie Du
+                    reistest ist  zu Muthe. Ich fahre
+                    mit einer wohlfeilen Gelegenheit zwei Tagreisen
+                    für 9 fl. bis  Die hat mir der
+                    Himmel geschickt.</p>
+            <closer>
+               <salute>Ich drücke Dich an mein Herz bester
+                        Sohn, liebe immer Deine</salute>
+               <signed>treue Mutter Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0423">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 25. September
+                    1808, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1808-09-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 25. 7ber
+                        8.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Dein Freund <persName key="JP-003112">HerrOtto</persName>, wird Dir mündlich von uns sprechen, welches ich bey der Kürtze der
+                    Zeit vor seiner Abreise von hier, als die Beylage meines Briefes anzusehen
+                    bitte. ich schreibe ihn nur um Dir zu sagen, daß Du nächstens auf zwey Deiner Briefe Antwort erhalten wirst.</p>
+            <p>
+               <persName key="JP-001089">Herr Kr. R. Fischer</persName> ist so gütig gewesen, u hat das ihm mitgegebene
+                    Packet bey mir bloß abgeben laßen.
+                    ich habe ihm hierauff unter Mitsendung <hi rendition="#u" hand="#author">einer Carte</hi> danken, und mich näher nach seinem Bleiben
+                    erkundigen laßen. Er war aber nicht zu Hause, und hat auch weiter keine Notitz
+                    von uns genommen. Es thut mir leyd, daß er sich auf diese Art der Gelegenheit
+                    entziehet, ihm eine Rückfracht an Dich anzumuthen. Man muß nun schon eine andere
+                    Gelegenheit abwarten.</p>
+            <p>
+               <anchor type="target" xml:id="start_g53_w2b_1jb"/>
+               <persName key="JP-002709">Meine Frau</persName> wünscht zu wißen, ob Du ihr gegen den Winter die von
+                    Dir erbetene Schmalzbutter schicken kannst<anchor type="target" xml:id="stop_g53_w2b_1jb"/>; Antworte doch hierauff bald.</p>
+            <closer>
+               <salute>Grüße <persName key="JP-999999">Deinen Mann</persName> u küße <persName key="JP-003483">Deine Kinder</persName>
+               </salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+            <postscript>
+               <p>Für die <bibl sameAs="JP-010713" subtype="werke-jp">Friedens Predigt</bibl>,
+                        danke ich; ich hatte sie schon gelesen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

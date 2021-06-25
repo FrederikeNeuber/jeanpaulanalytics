@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0945">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Arnold Brockhaus an Friedrich Bornträger. Leipzig, 15. Januar 1811, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000501">Friedrich Arnold Brockhaus</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1811-01-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012599"> Johann Friedrich Wilhelm Bornträger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Von meiner Reise nach <placeName key="JP-005586">Berlin</placeName> mit der armen
+                        <persName key="JP-004393">Minna</persName> in der furchtbarsten Kälte, von
+                    unsern Beschwerden auf derselben, meinen Sorgen und meinem Jammer, von unserer
+                    Ankunft im Hause des <persName key="JP-002703">Vaters</persName>, von der Scene
+                    der Zusammenkunft mit diesem und <persName key="JP-004106">Julius</persName>,
+                    von dem allgemeinen und besondern Benehmen <persName key="JP-002703">des
+                        Vaters</persName> und <persName key="JP-002709">der (Stief-)
+                        Mutter</persName>, endlich von der herzzerreißenden Stunde des Abschieds und
+                    der Trennung – von allem Diesem, lieber Schmidt, kann ich Ihnen nur einmal
+                    mündlich erzählen!</p>
+            <p>
+               <persName key="JP-004393">Minna</persName>'s Zustand ist immer derselbe noch:
+                    gänzliche Erschlaffung im Geistigen. Sie denkt und spricht fast immer richtig,
+                    und wann sie es nicht thut, so hat's Beziehung auf die Furcht, mich zu
+                    verlieren. Sonst ist ihr Alles gleichgültig, was um sie her ist, und ihre
+                    einzige Beschäftigung, wenn man sie nicht gleichsam gewaltsam darin unterbricht,
+                    fortwährendes Stricken, wobei sie denn immer so vor sich hin brütet und oft
+                    wehmüthig mit ihren schönen Augen zum Himmel aufsieht. Es ist herzzerschneidend.
+                    Meine Theilnahme an ihrem Schicksal ist, so sehr ich auch moralisch verletzt
+                    worden bin, unveränderlich, und kann ich es möglich machen, ohne darüber zu
+                    Grunde zu gehen, ihr Schicksal noch an das meinige zu ketten, so wird's
+                    geschehen, wenn sie nur geneset und in geistiger Energie wieder die alte
+                    göttliche <persName key="JP-004393">Minna</persName> wird.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

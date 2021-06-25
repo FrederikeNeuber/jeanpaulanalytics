@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0462">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. München, 27. Juni 1820, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1820-06-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-003471">Emma Richter</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>München am 27 Juny 20.</dateline>
+               <salute>Theuerste Mutter!</salute>
+            </opener>
+            <p>Mir that es recht weh im Herzen, daß ich dieses
+                            Blättchen nicht heute mit
+                    fortschicken konnte, da es <hi rendition="#u" hand="#author">so</hi>
+                    bestimmt war. Viel hätte ich drum gegeben, wenn es geschehen wäre. Wie geht es Dir
+                    jetzt? Ach, mir malt sich Dein ganzes Seelenherz in <hi rendition="#u" hand="#author">meine</hi> Seele, als Du am letzten Abend <hi rendition="#u" hand="#author">so</hi> Abschied nahmst, wenn ich
+                    Dich noch so erblicke? Wüßtest Du es, was ich bei <hi rendition="#u" hand="#author">Deinem</hi> Verlust empfand. Bist Du nur etwas
+                    glücklich in solchem Umgang? Kannst Du mir wol ein Blättchen zum Trost schicken.
+                    Wie geht es meiner <persName key="JP-003491">Odilie</persName> u <persName key="JP-003471">Emma</persName>. Seht! ich bin jetzt recht gestimmt, euch Allen
+                        <hi rendition="#u" hand="#author">Alles</hi> zu sagen und doch
+                    nur Eines: ich liebe Euch. Bist Du mir wirklich gut, Mutter? Die Feder sinkt mir
+                    u ich kann nur heute noch ein Lebewohl sagen.</p>
+            <closer>
+               <signed>Max</signed>
+            </closer>
+         </div>
+         <div>
+            <p> Auch dieses Blättchen muß vollgeschrieben werden u zwar mit
+                    närrischem Zeug. Ist die<persName key="JP-002482">Lochner</persName> noch in <placeName key="JP-005574">Baireut</placeName>. <persName key="JP-002601">Herr v
+                        Mann</persName> bekommt den <persName key="JP-999999">Vater</persName> nicht
+                    nach <placeName key="JP-012523">Starenberg</placeName>
+                    auf sein Gut, vielmehr Biblioth. <persName key="JP-003725">Scherer</persName>. <persName key="JP-000177">Franz Bader</persName> (mysticus) ist ein Weltmann (aber zugleich tief) deutete
+                    die Münchner sind freigebig, artig aber nicht herzlich; Ich wünschte nicht Euch in <placeName key="JP-006040">M.</placeName> zu sehen; der Zerstreuung würde zu viel u der
+                        Bildung zu wenig Stoff gegeben werden (einiges ausgenommen). <persName key="JP-003471">Emma</persName> fahre nur
+                    recht fort, das forte pianozu spielen; denn da sind die Münchner Mädchen Meisterinnen; ihr Gesang ist
+                    bezaubernd. Auf mehr kann man sich nicht einlassen. Der <persName key="JP-999999">Vat</persName>. erzählt alles.</p>
+            <closer>
+               <signed>E. Max</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

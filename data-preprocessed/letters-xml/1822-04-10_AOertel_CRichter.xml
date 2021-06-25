@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0639">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Auguste Oertel an Caroline Richter. Würzburg, zwischen 10. und 25. April
+                    1822, Sonntag und Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003031">Auguste Oertel</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+               <date notBefore="1822-04-10" notAfter="1822-04-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012235">Würzburger Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Theuerste Frau Legationsräthin</salute>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_u5m_3gx_vmb"/>Tausent Tausent Tank, sag ich
+                    Ihnen; für ihrn mir so theuren Brif; u in Hinsicht was Sie für mich, wegen der
+                                <persName key="JP-001764">Gräfin v Hirschberg</persName> gethan
+                            haben, ich glaube die gröste Sorge die ich je gehabt hab, ist nun
+                            abgethan, da die  Verwanden, in Keniß gesetzt sind wegen den betragen, der schon
+                                genanden<anchor type="target" xml:id="stop_u5m_3gx_vmb"/>;</p>
+            <p>Da mir heute zu wenig Zeit zum schreiben bleibt; so sagen ich Ihnen nur das
+                    nöthigste, u behalte mir das übrige noch vor,</p>
+            <p>Mit der Gesundheit des <persName key="JP-001608">Herrn Heine</persName>, geht es Gottlob recht
+                            gut das der Brifnoch zur verstärkerung der Krankheit etwas
+                        bey getragen hat, glaub ich nicht, (Nähmlich von <persName key="JP-002601">Herrn Präsetent</persName>) die Krankheit war zur selbigen
+                    Zeit gerade noch im steigen, das der selbe Brif, den <persName key="JP-001608">H
+                        Heine</persName> kante nicht so gleich güldig sein; glaube ich nun nicht das
+                    der Krankheit verschlimmert hat; übrigens war das, was in selbigen Brif gesagt
+                    wurde; für die Zukunft recht gut</p>
+            <p>Nun zur Hauptsache: Mit <persName key="JP-003491">Fräulein Ottilijen</persName>
+                    geht es Gott sey tank recht gut, u ich merke zu meiner grösten Freude schon eine
+                    bedeutente veränderung, im ihrn Rückrad,; so wie das das ganze aussehen schon
+                    blünder u gesünder ist; ich hoffe mit Gotte Sie sollen Sich lieben Elltern einer rechten geraden, u
+                    wohl gestalltete Tochter wieder freuen, <persName key="JP-003491">Otilijen</persName> ist auch zu lieb u gut, fügt sich recht gern in alles
+                    was sein muß; u ist auch recht Munter u Vergnügt.</p>
+            <p>Mit der bitte mich allen den lieben Ihrigen zu Empfehlen. Emppfiehlt sich
+                    ergebenst</p>
+            <closer>
+               <signed>Auguste Oertel</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

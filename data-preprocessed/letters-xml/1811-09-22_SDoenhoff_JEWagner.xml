@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0969">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Stanislaus Otto von Dönhoff an Johann Ernst Wagner. Berlin, 22. September
+                    1811, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-013104">Stanislaus Otto von Dönhoff</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1811-09-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Tief gerührt und bewegt, beendige ich eben Ihren <bibl sameAs="JP-010022" subtype="werk">Wilibald</bibl>, und gleich greife ich nach Papier
+                    und Feder, um dem Autor deßelben meinen innigen herzlichen Dank, für die frohen
+                    Stunden, die er mir dadurch gewährte, abzustatten. Ja es waren wahrlich recht
+                    frohe Stunden, und ich werde stets mit Freude daran zurück denken. Ich dachte
+                    mich ganz in die Familie hinein; mir kam  es vor, als sey ich ein
+                    Glied derselben. Ich freute mich ihres Glücks; ich weinte mit ihnen an Mariannes und Minelli's Grabe. Nicht
+                    nur wachend, war ich mit ihnen beschäftigt; nein! auch im Taume umschwebten mich
+                        Hainbergs herrliche Gefilde mit seinen
+                    Bewohnern. O wie glücklich würde ich seyn, wenn es ein Hainberg, einen Wilibald,
+                    eine Mathilde gäbe. 
+                    Diese Ungewißheit plagt mich schrecklich, und deshalb wage ich es Sie zu fragen,
+                    ob Sie sich unter diesem Ort und diesen Menschen, etwas aus der Wirklichkeit
+                    dachten? O dann sagen Sie es mir; nennen Sie mir den Ort des  Friedens
+                    und häuslichen Glücks, und seine Bewohner, damit, wenn das Schicksal mich einst
+                    in jene Gegend führen sollte, ich ihm nicht vorübergehe. Diese theuren Namen, sie sollen auf ewig von
+                    mir verschwiegen bleiben.</p>
+            <closer>
+               <salute>Sowohl Ihres Ranges und als Ihres Titels unbewußt, hoffe ich nur allein,
+                        auf Ihre Nachsicht und Güte, und bin mit aller Ehrfurcht,</salute>
+               <signed>Ihr ganz ergebener Graf Dönhoff.</signed>
+               <dateline>Berlin, den 22st: Sept: 11. <hi rendition="#u" hand="#author">Wilhelmstraße No: 63.</hi>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

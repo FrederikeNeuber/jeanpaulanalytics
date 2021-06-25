@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0648">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Voß an Caroline Richter. Heidelberg, 26. September 1821,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004516">Ernestine Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-09-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012692">Bildung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg den 26 September 1821.</dateline>
+            </opener>
+            <p>Recht herzlich danken wir alle, Ihnen geliebte Freundin, daß Sie uns die glückliche Ankunft Ihres <persName key="JP-003490">lieben Sohnes</persName>, dessen wohl uns so ernstlich am Herzen
+                    liegt, so gleich gemeldet haben. Es war gewiß daß beste was er wählen konnte so
+                    bald es der Arzt erlaubte zu Ihnen zu eilen, und ohne diese Erlaubniß hätten
+                         gewiß nicht reisen lassen.
+                    Die Zeit bis Ihr Brief ankam hat uns
+                    ausschließend nur der Gedanke beschäftigt wie es ihm gehen möchte. – Die lezten
+                    Tage hier, war er Fieber frey, aber sehr matt, und ängstlich bey allen was er
+                    vernahm. Wir hoffen fest daß er unter treuer Mütterlicher, und schwesterlicher
+                    Pflege sich bald völlig erholen wird, und daß sein Geist unter Väterlicher
+                    Leitung eine feste Richtung erlange, deren er sehr bedarf, um in den Jahren die
+                    für sein ganzes Leben so wichtig sind, sich nicht auf Nebenwege zu verirren,
+                    deren es hier so manche giebt, Dis liegt uns fast mehr am Herzen, als sein
+                    körperliches wohl, denn er hat ein höres
+                    streben in sich daß beste zu wohlen.  Der schnelle Wachsthum des lezten Jahres hat natürlich seine
+                    Körperkraft geschwächt. Gewiß hat er auch sich zu sehr angestrengt und verwirrt
+                    durch die vielen Collegia die er durcheinander gehört. Unaufgefodert haben
+                    natürlich, weder <persName key="JP-003168">Paulus</persName> noch <persName key="JP-004520">mein Sohn</persName> ihn bey der Wahl seiner zu hörenden
+                        Fächerwollen weil sie die Grundlagen auf die
+                    gebaut werden solte nicht genau kannten. – </p>
+            <p>Auch <persName key="JP-004524">Voß</persName> der sich einen jungen Mann als leitender nie aufdrängt, hat <persName key="JP-001068">Feuerbach</persName> (der ihn durch die <persName key="JP-000948">Frau von
+                        der Ende</persName> dringend
+                    empfohlen war) und bey <persName key="JP-003490">Max</persName> der ihn sein
+                    Herz empfahl,  Anfang einen
+                         gemacht, bey der
+                        Fähigigkeit auf eigne Anstrengung zu
+                    lenken, und sie für zu grelle Abwege zu
+                    warnen. Diese bemerkungen wird eine liebende Mutter aufnehmen wie sie gemeint
+                    sind, und der <persName key="JP-999999">liebende Vater</persName> wird sie
+                    nutzen, oder berichtigen wie es ihn  sein Herz eingiebt. Gewiß fühle ich in diesen Augenblik, daß
+                        <persName key="JP-003490">Ihres Sohnes</persName> wahrs Wohl uns allen an
+                    Herzen liegt, denn wir haben ihn als einen kindlich unschuldigen sehr lieb
+                    gewonnen, und wünschen von ganzen Herzen daß er bald zu der Festigkeit gelange
+                    daß er prüfe ehe er wähle. Dringend bitte Sie auch noch uns recht bald Nachricht
+                    zu geben, wiees fort fährt mit seiner
+                    Gesundheit zu gehn, wir hoffen daß nur die
+                    nicht kleine Anstrengung der Reise, sein Fieber wieder kehren gemacht. <persName key="JP-003490">Unsern
+                        Freund</persName> ist es mit seiner Reise gegangen wie uns, wir haben noch
+                    bis Anfang September gehoft sie aus führen zu können. Es sind hier nicht wenige
+                    denen diese vereitelte Hofnung traurig war. <persName key="JP-004520">Heinrich</persName> wäre gar zu gerne in seiner Gesellschaft nach
+                        <placeName key="JP-005924">Kreuznach</placeName> gereist, wo auch so viele
+                    hoften, jezso ist allein gereißt, und sehr
+                         heiter dort. Mit geht es jezt recht leidlich, nach einen sehr
+                    schmerz vollen Sommer, erst nach Johannis kam ich wieder an die Luft, um mich
+                    unsres schönen Gartens zu freuen. Das gehen wird mir freylich noch sehr schwer,
+                    aber die freundliche Theilnahme in und ausser dem Hause erhält mir Muth und
+                    Hofnung bessrer Zeiten. Die herzlichsten Grüße von uns alle, an Sie und die
+                    Ihnen nahe stehen, vorzüglich an den lieben <persName key="JP-003490">Max</persName>, den Sie noch erzählen können daß ein Myrtenreis welches er
+                    mir in einen Blumenstrauß schenkte, von mir eingepflanzt, jezt eigne Wurzel
+                    geschlagen, und von mir zum Bäumchen gepflegt werden soll.</p>
+            <closer>
+               <signed>Ihre Freundin E. Voß.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

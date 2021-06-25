@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1115">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Christian Freiherr Truchseß von Wetzhausen. Meiningen, 14. November 1811, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-11-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 14<hi rendition="#uu" hand="#author">n</hi> Nov. 1811.</dateline>
+            </opener>
+            <p>Mein verehrtester Freund! Dein liebevoller
+                            Briefesgruß wurde mir gestern von <persName key="JP-002186">dem braven Köniz</persName> – der besser im Herzen als auf den Füssen ist –
+                    in einer Stunde gesandt, wo ich ein wenig trübselig auf die <hi rendition="#u" hand="#author">Zeit</hi> blickte. Ein ehrlicher Mann (und ich
+                    selber) weiß doch jetzt wahrlich bey dieser verdammten Geldnoth endlich nicht
+                    mehr, wie er Kleider und Schuhe für fünf Menschen schaffen soll – geschweige
+                    denn am Sonntage eine <hi rendition="#u" hand="#author">Rademacher</hi>'sche
+                            Kalbskeule! (Bruder, <hi rendition="#u" hand="#author">den</hi>
+               <hi rendition="#u" hand="#author">rechtlichen</hi>
+               <hi rendition="#u" hand="#author">Mann</hi> möcht' ich kennen –
+                        <persName key="JP-004208">Studniz</persName> hat mir erst kürzlich seine
+                    Verfahrungsart entdeckt – und seit dem habe ich <persName key="JP-001522">die
+                        liebliche Hanstein</persName> noch einmal so lieb!) Nun kurz, ich fluchte
+                    einmal recht nach Herzenslust und es war ausgemacht, daß ich zu Grunde gehen muß
+                    u. s. w. Da kam Dein holdes Briefchen, Du sehr- und
+                    hoch- und Vielgeliebter! Da sprang ein Tropfe der Ewigkeit in meinem Herzen auf,
+                    und ich war plötzlich wieder verjüngt. (Sieh doch um Gotteswillen den Artikel <hi rendition="#u" hand="#author">Quelle</hi>
+               <hi rendition="#u" hand="#author">der</hi>
+               <hi rendition="#u" hand="#author">Jugend</hi> in meinem
+                                <bibl sameAs="JP-010016" subtype="werk">ABC</bibl>
+                    nach, das das Beste von all meinem Geschreibsel ist und bleiben wird.) – Dein
+                    Gruß erregte nemlich meine <hi rendition="#u" hand="#author">Phantasie</hi> wieder – und ich war geheilt. Ich dachte zwar noch immer an
+                    das – <hi rendition="#u" hand="#author">liebe</hi>
+               <hi rendition="#u" hand="#author">Geld</hi>, (denn so <hi rendition="#u" hand="#author">lieb</hi> wird es mir ewig
+                    bleiben, wie der Artikel <hi rendition="#u" hand="#author">Geld</hi>
+                    im ABC besagt) aber ich verband nun den Gedanken an Dich mit demselben – ich
+                    schaute im Geist auf Dich und Deine eignen Geldnöthe hin, die ja wohl in <hi rendition="#u" hand="#author">dieser</hi> Zeit <hi rendition="#u" hand="#author">auch</hi> nicht fehlen können, und
+                    zwanzigmal mehr ins Grosse gehen müssen, als die meinigen. Darüber kam ich ganz
+                    in Deine herrliche Wirthschaft hinein – ich stand endlich ganz froh in ihrem
+                    schönen häußlichen Sonnenglanze da, welchen nichts trübte, als <persName key="JP-013470">des liebenswürdigen Klärchens</persName>
+                    kränkelndes Bild – was aber jetzt hoffentlich auch wieder zur alten Kraft
+                    aufgeblüht ist.  Kurz, Geliebter, Deine holden Zeilen haben mich
+                    gesund gemacht. Ein Bild das sich gegen das unsrige (ich will bey obigem
+                    Geldmaaßstabe bleiben) in so vieler Rücksicht wie <hi rendition="#u" hand="#author">zwanzig</hi> zu <hi rendition="#u" hand="#author">eins</hi> verhält, vermag uns doch ausserordentlich zu
+                    stärken!!! Z. E. Du bist offenbar 20mal besser, klüger, ordentlicher,
+                    rechtlicher, wackrer, tapferer, menschlicher und herrlicher als ich – und ich
+                    dagegen habe zum umgekehrten Verhältniß gar nichts aufzuweisen, als etwa, daß
+                    ich noch 20mal poëtischer – d. h. beym Licht besehen doch nur, daß ich ein 20mal
+                    grösserer Narr bin als mit Respekt gesprochen Sie,
+                    gnädiger Herr! Woraus ich mir übrigens, unter uns gesprochen, allerdings vor
+                    Gott und der Welt ein wahres <hi rendition="#u" hand="#author">Vergnügen</hi> mache. – </p>
+            <p>
+               <persName key="JP-003964">Die bußfertige Schwendlerin</persName> wird Dir ja wohl
+                    nun das Unglück gemeldet haben,
+                    das
+                    ihr mit Correggio passirt ist. Zürne ihr nicht zu sehr – – –
+                    du glaubst nicht, wie sehr sich die erhitzte Magdalena
+                            sehnt, an deinem Busen Busse zu thun. Wahrlich, sie ist es werth, daß ein kräftiger
+                    Ritter, wie Du, ihr verzeihe und eine Thräne weihe —</p>
+            <p>
+               <bibl sameAs="JP-013524" subtype="werk">Correggio</bibl> gefällt mir wirklich
+                    recht wohl. Aber helfen kann ich Dir nicht: <bibl sameAs="JP-009302" subtype="werk">Aladdin</bibl> sprach mich mehr an. Es sind im <bibl sameAs="JP-013524" subtype="werk">Correggio</bibl> recht hübsche romantische Sachen und
+                    Gedanken – aber wir haben sie alle nur schon gar zu oft gehört – und du könntest
+                    sie insgesammt viel schöner in den Originalen nachlesen, bey <persName key="JP-003757">Schlegeln</persName> und meinem göttlichen <persName key="JP-004302">Tiek</persName>, <persName key="JP-001353">Göthe</persName>
+                    u. A., wenn Du nur wolltest. Neue Charaktere, Gedanken und Situationen habe ich
+                    nicht gefunden – – – aber daß ihn <placeName key="JP-005872">Italien</placeName>
+                    erwärmt und von seinen nordischkalten Axeln und
+                            Harlen zurückbringen wird, dazu macht dieser <bibl sameAs="JP-013524" subtype="werk">Correggio</bibl> viele Hoffnung. Am Ende wird aber doch schwerlich etwas Grosses
+                    herauskommen, das alle Geister ergreift.</p>
+            <p>Ich bin ziemlich wohl und fleissig, <persName key="JP-001400">Griesbach</persName>, <persName key="JP-004520">Voß</persName>, <persName key="JP-003944">Schwarz</persName> und
+                                <persName key="JP-999999">Richter</persName> haben sich viele Mühe
+                            mit <bibl sameAs="JP-010018" subtype="werk">meinem heiligen
+                                Manuscripte</bibl> gegeben – wie soll ich es ihnen verdanken! Ich
+                    Armer!</p>
+            <p>
+               <persName key="JP-004570">Anton</persName> freut sich auf Dein Sitzen. Mein Gott,
+                    es <hi rendition="#u" hand="#author">ist</hi> ja nun Winter – siehst
+                    Du denn den Schnee nicht, guter Engel? Und <persName key="JP-013470">Klärchen</persName>, die ich von Herzen küsse, ist ja auch längst wohl,
+                    wenn du diese Zeilen liesest. Was hält Dich also noch ab, an unsere Herzen zu
+                    kommen, guter Ritter?</p>
+            <closer>
+               <signed>Ewig, ewig Dein JEWagner.</signed>
+            </closer>
+            <postscript>
+               <p>Es wird doch wohl nichts helfen: Der
+                            Ritter Chr. von T. wird doch wohl mit seinem Schlosse <placeName key="JP-005591">Bettenburg</placeName> und einigen Landschaften um
+                            dieselbe her, in meinem <hi rendition="#u" hand="#author">"Thalheim, ein Roman von E.
+                                        W."</hi>als Idylle auftreten müssen. Doch mündlich
+                            erst das Nähere und Ewr. Hochfreyherrlichen Gnaden Erlaubniß. Der ich übrigens
+                            in unterthäniger Ehrfurcht mir die Freyheit nehme zu seyn, Ewr.
+                                Hochfreiherrliche Gnaden unterthänig gehorsamster Johann Ernst Wagner.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

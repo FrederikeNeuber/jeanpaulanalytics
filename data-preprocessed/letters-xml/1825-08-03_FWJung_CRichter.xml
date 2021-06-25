@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0752">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Franz Wilhelm Jung an Caroline Richter. Mainz, 3. August 1825, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001981">Franz Wilhelm Jung</persName>
+               <placeName key="JP-005990">Mainz 
+               </placeName>
+               <date when="1825-08-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012539">Frankfurter Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Mainz, am 3ten August 1825.</dateline>
+            </opener>
+            <p>Noch immer, verehrungwürdigste Freundin,bin ich ausser Stande, anders als mit der peinlichsten Anstrengung zu
+                            lesen, kaum das was ich selber geschrieben. So erklären Sie sich’s,wenn ich mich seit so langer Zeit abhalten lassen, mich in ein so
+                            theures Gedächtnis wie das Ihrige und unseres herrlichen Freundes, wäre
+                            es auch nur selten, zurükzurufen. Mündliche
+                    Nachrichten habe ich zwar zuweilen erhalten, und namentlich durch <persName key="JP-012510">Hrn. Assessor von Löwe</persName>, welchen ich bitten
+                    werde, den gegenwärigen Brief in Ihre Hände zu legen; ich sehne mich aber nach
+                    etwas bestimmteren, etwas umständlichern, und so wende ich mich an Sie, würdige
+                    Frau, mit der angelegentlichen Bitte, mich in einer freieren Viertelstunde damit
+                    zu erfreuen. Sie haben mir schon so viele Beweise des ehrenvollsten und
+                    gütigsten Wohlwollens gegeben; fügen Sie noch diesen neuen hinzu.</p>
+            <p> Sie kennen meinen tiefen Antheil an unserem theuren <persName key="JP-999999">Richter</persName>, an allem was er der Welt und Nachwelt
+                    schon ist, und was er ihr, seinen Jahren und seiner Thätigkeit nach, noch sein
+                    sollte. Sie können sich also vorstellen, wie schmerzlich es für mich gewesen
+                    sein müsse, eben durch <persName key="JP-012510">Hrn. von Löwe</persName>
+                    im vorigen Jahre zu hören, welche Unfälle ihn betroffen, wie er, an einem
+                    bedeutenden Augenübel leidend, Lust und Eifer an jeder Geistesbeschäftigung
+                    verloren. Welche Prüfung für ihn, und Sie, theure Freundin, und <persName key="JP-003483">Ihre treflichen Kinder</persName>! Welch ein Verlust für die
+                    Menschheit! Als ich vor wenigen Tagen <persName key="JP-012510">Hrn. von
+                        Löwe</persName> zufällig wieder sah, war es mein erster Gedanke, meine erste
+                    Frage, wie er ihn verlassen, und zu meiner großen Freude gab er mir die
+                    Versicherung, sein krankes Auge habe sich gebessert, er könne sich wieder
+                    beschäftigen. Sie werden sich wahrhaft verdient um mich und die Meinigen, wenn
+                    Sie diese günstige Nachricht bestättigen, und mir überhaupt etwas
+                    Ausführlicheres über Ihre bisherigen Schiksale  sagen wollen. Was mein
+                    Herz für Sie Alle fühlet, berechtiget mich gewissermaßen zu dieser Bitte. Sie
+                    kommt aus seinem Innersten, und das Ihrige, das so gut und edel fühlet, kommt
+                    ihr ohne Zweifel mit vieljähriger Güte freundlich entgegen.</p>
+            <p>Ich geniesse Gottlob einer besseren Gesundheit als seit vielen Jahren; allein ich
+                    kann mich nicht mehr beschäftigen, und dies gibt oft meinem Zustand etwas
+                    peinliches. Doch, ich muß an das denken, was mir bleibt, nicht an das was ich
+                    verloren. Und so finde ich noch
+                    unendlich viel, der allgütigen Vorsehung, sie anbetend, zu danken.</p>
+            <p>Meine trefliche Agnes leidet zwar noch immer sehr an
+                            ihren Nerven,
+                    doch bewährt sich fortdauernd ihr klarer und tiefer Geist, ihr eben so klares
+                    und tiefes Gemüt. <persName key="JP-011830">Ihr ältester Bruder, der
+                        Maler</persName>, ist noch bei mir; <persName key="JP-012158">sein
+                        jüngerer Bruder, der hiesige Staatsanwalt-Substitut</persName>,ist verheirathet, und verspricht mir den ersten Enkel; <persName key="JP-011982">sein jüngster
+                        Bruder, der Kaufmann</persName>, ist in <placeName key="JP-006122">Paris</placeName> wohnhaft, seine Gattin ist eine <persName key="JP-012289">Tochter</persName> des dortigen Buchhändlers <persName key="JP-012636">Treuttel</persName>. Wenn er noch bei mir  wäre, so würde mir zur
+                        <hi rendition="#u" hand="#author">ersten</hi> Glückseligkeit
+                    nichts mehr fehlen.</p>
+            <p>Aber eine Hauptfrage. Werden Sie denn im Herbste keine Reise machen, in
+                    Begleitung Ihres theuren <persName key="JP-999999">Gatten</persName>? Sie würde
+                    ihm zuverlässig sehr wohl bekommen. Dann führt der Weg Sie auch an den schönen
+                        <placeName key="JP-006187">Rhein</placeName>, in das alterthümliche
+                        <placeName key="JP-005990">Mainz</placeName>, zu Ihrem herzensvollsten
+                    Freunde. Welch ein Genuß für uns Alle! <hi rendition="#u" hand="#author">Sie</hi> Alle drükke ich mit aller meiner Liebe an mein
+                    unwandelbares Herz.</p>
+            <closer>
+               <signed>Jung.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

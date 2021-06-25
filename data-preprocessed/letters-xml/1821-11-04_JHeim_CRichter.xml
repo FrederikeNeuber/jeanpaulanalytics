@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0293">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johanna Heim an Caroline Richter. Welkershausen, 4. November 1821,
+                    Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001604">Johanna Heim</persName>
+               <placeName key="JP-006399"/>
+               <date when="1821-11-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011840">Meininger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Welkershaußen bey Meiningen der 4 Nov.
+                        21</dateline>
+               <salute>Theure Freundin!</salute>
+            </opener>
+            <p>Ihr Brief von 16ten Oct. d. J. erhielt ich den 29ten d.
+                        M. Wie sehr erfreut war ich als ich Ihre Aufschrift erblickte, des
+                    trauer Siegels ohngeachtet, da ich nichts so fürchtete, als der Inhalt war. Gott
+                    wird mit Ihnen sein Sie trösten über den Verlust <persName key="JP-003490">Ihres
+                        einzigen Sohnes</persName>! Ich hatte oft von
+                    diesen
+                    Jüngling sprechen hören, ich frage immer nach Euch mir immer ewig theure
+                    Geliebte Freunde. Euer schönes Gärdchen des Lebens war so lange Jahre vor allen
+                    Stürmen gesichert, es endblüht alles so frisch u rein – die liebste Blume wurde
+                    welk – starb! Gebt Gott gerne das Liebste, er gab Euch ja auch viel Gutes – noch
+                    lebt <persName key="JP-999999">der herrliche Richter</persName>, dem
+                    Gott noch lange, alle denen so ihn lieben zum Genuß leben laßen möge Noch
+                    Geliebte Richter! Sie sind noch Mutter von 2 sanften Wesen, Töchterdenen Gott  Gott der Mutter fromes Herz und Gemüth verleihe – die
+                    Zeit liebe verehrte Freundin führt uns wieder ins Leben ein, der Schmerz lößt
+                    sich in stille Wehmuth, auf, die ein schönes Gefühl ins trauernd Herz bringt.
+                    Die geliebte die der Todt uns nimt,
+                    streifen ja
+                    uns einige Augenblicke früher v. uns, was fühl ich bey meinem
+                    bald 65 verlebten Jahren – als ein Traum – viele Stunden – Tage die mir um Trost
+                    bange war – aber doch dünkt mir ein schöner Traum. Ich bin nun ganz allein auf
+                    meinem bauerhof, ein liebes Mädchen war nun bald 4 Jahr bey mir, fast scheint es daß sie des Mädchens Bestimung endgegen gehen wird, dann
+                    bin ich wieder allein, den nicht immer findet sich ein Wesen, wo mann nicht
+                    lieber allein als in fremter Gesellschaft zu sein. Ich lebe unter Bauern mit
+                    denen mann nicht weider kommen kann, wenn mann sich auch Mühe giebt, einen
+                        gewöhnlichen Vernünftigen Grundsatz ihnen bey zu bringen In die Stadt gehen, ist für mich zu beschwerlich u. zum Fahren zu kostbar.
+                    Ich habe aber öfters Besuch von Herzensfreunden. Auch unsere Herrschaft besucht mich des Jahres einmal. Wir lesen viel, u. ich schreibe an meine
+                    abwesende PflegKinder u. Freunde. Von <placeName key="JP-005586">Berlin</placeName> aus werden Sie wohl auch erfahren haben, das die 2te
+                    Tochter von <persName key="JP-001600">meinem Schwager</persName>
+               <persName key="JP-012336">hennriette</persName>, die Gattin des <persName key="JP-012714">Präsident v. Grollmann</persName>zu Ende v. Jahr im Kindbett starb – die schönste Blume in den Kranz der 5 Töchter, eine frome liebende Frau. Noch nie hatte mehr trauer die Freude der
+                    Familie gestöhrt. Die 4te Tochter <persName key="JP-011954">Auguste</persName> die Frau von <persName key="JP-002088">Georg Keßler</persName> bekam schon
+                    im Frühjahr d. J. Anfälle v. Schwäche, sie war schwanger, der Vatter glaubte bey
+                    einer glücklichen Endbindung würde sich alles geben, sie kam nieder mit
+                        einer Tochter allein nach den Wochenbett, kam die völlige Auszehrung dazu, das jung
+                    Weib, Mutter v. 3 herrlichen Knaben, (das lezte Kind starb nach 2 Monath wieder) starb im August d. J. so ganz Gottergeben, mit  so vieler Ruhe und Freudigkeit in
+                    ihren Erlöser. <persName key="JP-002088">Georg</persName> war tief betrübt aber
+                    nicht ohne Trost, da ihm sein Göttliches Weib so schön vorbereidet hat. Ich weis
+                    nicht ob ich Ihnen – den Verlust gemeldet hab, den vor länger als 2 Jahren mein
+                    theurer Freund der <persName key="JP-004425">General Superintendent
+                        Vierling</persName> erlitten, da <persName key="JP-012879">sein
+                        einziger Sohn</persName> die Freude seines Alters, der als Stadtgeistlicher
+                    angestellt war, ein herrlich feuriger Prediger wo alt u. jung zu seiner
+                    Kirche eilte – er starb schnell an einen Erkälten in 24ten Jahr Noch will die Wunde nicht ganz heilen, bey den alten Vatter,
+                    der in meinem Alter ist. So finden Sie Beyspiele, aber nicht Trost, da jeder
+                    Fromme wünscht daß der Freund auch keine Leiden habe. Grüßen Sie Ihren <persName key="JP-999999">lieben Mann</persName> meinem hochverehrten Freund,
+                        <persName key="JP-003484">Ihre Töchter</persName>, die Ihnen rechte schöne
+                    Freude geben mögen, Gott erhalte sie Gesund u. bewahre sie den theuren Eltern.
+                        <persName key="JP-011923">Fr. v. Reitzenstein</persName> meinem Gruß,
+                    mich freuts daß ihr Loos so gut gefallen, sie war als Mädchen mehrmals bey mir.
+                    Gott sey mit Ihnen, wir werden uns wieder finden, wenn wir uns hier auch nicht
+                    wieder sehen, die Liebe wird uns auch dort wieder zueinander führen </p>
+            <p>und so lange wir leben in Liebe und
+                        Freundschaft an einander denken.</p>
+            <closer>
+               <signed>Ihre theilnehmende Heim</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-001605">Louise Heim</persName>
+                            hat
+                            Ihr  B. betrübt, <persName key="JP-004425">Vierling</persName> nahm großen Antheil, gleiches Schiksal
+                            verbindet die Gemüther</p>
+            </postscript>
+            <postscript>
+               <p>Denkt <persName key="JP-003087">Emanuel</persName> auch noch meiner? grüßen Sie ihn recht schön. In
+                            der Zeitung stand ohnlängst: Der Jud Imanuel
+                                    in <placeName key="JP-005574">B.</placeName> sey Christ
+                                    geworden, ist es unser <persName key="JP-003087">Imanuel</persName>?</p>
+            </postscript>
+            <postscript>
+               <p>die gute frome <persName key="JP-002292">Fr. v. Künsberg</persName> ist nun näher bey Ihnen,
+                            da haben Sie einen Schatz v. einem weiblichen Wesen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

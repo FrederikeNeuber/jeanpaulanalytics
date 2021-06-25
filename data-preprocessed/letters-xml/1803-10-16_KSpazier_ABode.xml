@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0837">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig,
+                    16. Oktober 1803, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-10-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipz 16 8tbr 3.</dateline>
+            </opener>
+            <p>Ich schreibe Ihnen sogleich, liebster B. ob Sie gleich kaum die Reisestiefeln
+                    ausgezogen haben werden. <anchor type="target" xml:id="start_ubl_rzs_h4b"/>Erstlich, um Ihnen zu sagen, daß ich <persName key="JP-012665">Darnmann</persName>
+                            bereits die Proposition gemacht<anchor type="target" xml:id="stop_ubl_rzs_h4b"/>.<anchor type="target" xml:id="start_vk3_1yz_f4b"/>
+                    Fürs andere um Sie andie Anzeige der <bibl sameAs="JP-013243" subtype="werk">Burslesken</bibl> u des <bibl sameAs="JP-013248" subtype="werk">Taschenbuchs</bibl> v. <persName key="JP-000602">Chamisso</persName>
+                    zu erinnern.<anchor type="target" xml:id="stop_vk3_1yz_f4b"/> Zugleich aber
+                    auch, Sie nochmals um einen (nicht gar zu langen) Aufsatz über <bibl sameAs="JP-008519" subtype="werk">Eugenie</bibl> zu
+                    bitten. Ich habe sie eben flüchtig gelesen u bin ergriffen, von der Hoheit des
+                    Plans, u der ruhig, stillen Schönheit, die manche kalte Langweiligkeit der
+                    Sermonen  hinlänglich vergütet. Etwas muß doch darüber in dem <bibl sameAs="JP-009809" subtype="werk">Blatte</bibl> gesagt werden; es würde sonst
+                    eine Lücke entstehen. Auch muss ein Contrepoids bei solchen wichtigen
+                    Erscheinungen gegen die <persName key="JP-002228">bu
+                            bu</persName>– u <persName key="JP-002774">Merkel</persName>schaft
+                    seyn.</p>
+            <p>Gewiß, lieber Bode, es ist mein Ernst; wenn Sie einmal wieder einen Zug nach
+                        <placeName key="JP-005948">Leipzig</placeName> her haben, so nehmen Sie ohne
+                    Umstände bey mir Quartier. </p>
+            <p>Noch ist es bey mir, wie Sies verlaßen haben; aber gestern Abend war ich Angst um
+                    meine <persName key="JP-004393">Frau</persName>. In
+                            Zeit von acht Tagen aber kömmt, allen Anschein nach, das kleine
+                            Thierchen gewiß hervor. Das
+                    giebt neue Sorgen,  neue Kosten – doch aber auch neue Freuden.</p>
+            <p>Wollen Sie mir nicht auch bisweilen eine Neue Nachricht aus <placeName key="JP-006395">Weimar</placeName> schicken? – Man schickt mir freilich von
+                    daher manches, was ich lieber ungeschickt wünschte.</p>
+            <p>Doch verzeihen Sie der ewigen Eindringlichkeit. Es ist eine wahre Fatalität,
+                    einen Redigirenden Freunde zu haben.</p>
+            <closer>
+               <salute>Adieu!</salute>
+               <signed>Spazir.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

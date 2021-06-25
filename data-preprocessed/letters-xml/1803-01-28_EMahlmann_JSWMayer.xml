@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0137">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 28. Januar 1803, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-01-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011937">Kunst</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig. den 28 Januar
+                        1803.</dateline>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_wkn_whl_1nb"/>Mein theuerster Vater, welch
+                    eine Freude der Empfang Ihres lezten Briefes in Begleitung 
+                    unsrer <persName key="JP-002702">Auguste</persName> liebem Bildniß, mir machte, kann ich Ihnen nicht ausdrücken. Da es grade an dem Todes-Tage der Verstorbnen in meine Hände kam, war der erste Eindruck, wohl um so lebhafter und
+                        schmerzlicher, doch meinem
+                    Herzen werth! – Man könnte vielleicht manches wieder die
+                    Ähnlichkeit des Bildes einzuwenden haben. Doch, glaube ich, denen die sie in der
+                    lezten Zeit ihrer Krankheit sahen, wird das matte Auge, und die etwas
+                    verlängerten Gesichtszüge, <hi rendition="#u" hand="#author">jenes</hi> Bild um so lebhafter darstellen. <anchor type="target" xml:id="start_eph_fvx_4jb"/>Indem ich Ihnen für das mir
+                    zugefallne Exemplar den innigsten Dank sage,<anchor type="target" xml:id="stop_wkn_whl_1nb"/> bin ich so unbescheiden, Sie, wenn Sie
+                    vielleicht noch einige übrig hätten, auch noch um ein zweytes zu bitten.<anchor type="target" xml:id="stop_eph_fvx_4jb"/>Eine meiner hiesigen Freundinnen, welche sich für Die, die mir angehörn intereßirt und besonders an das
+                    Schicksal dieser zu früh zerknickten  Blüthe einigen Antheil  nimmt,
+                    äußerte in der Rührung beym Anschauen dieses Bildes, den Wunsch nach dem Besiz
+                    eines ähnlichen. Es würde mir Freude machen wenn es mir erlaubt sein könnte, sie noch damit zu
+                    überraschen!. Wenn Sie mein bester Vater, noch etwa eins entbehren können?. so
+                    haben Sie die Güte es mir  zu schicken!
+                    –</p>
+            <p>Ohngeachtet, des vielen Hin und Herreisens  mancher meiner
+                    hiesigen Bekannten, hat mir keiner etwas näheres von Ihnen, mitzurückbringen
+                    können.</p>
+            <p>Der <persName key="JP-000984">Assessor Erhardt</persName> welcher in Begleitung von <persName key="JP-000712">Mad. Cray</persName> nach <placeName key="JP-005586">Berlin</placeName> gieng, hat Sie nur
+                    einmal flüchtig in einem Conzerte gesehen – nicht gesprochen! – Der
+                    Sohn des
+                        Herrn v. Lordenstern
+                    weiß mir auch nichts von Ihnen zu sagen; und es scheint, als habe zwischen Ihnen
+                    und dieser Familie, wieder keine Annäherung, Statt gefunden? – Ganz zufällig,
+                    hörte ich nur neulich von einem ganz fremdem Wesen, daß  durch die <hi rendition="#u" hand="#author">
+                  <persName key="JP-012526">Bernhardi</persName>
+               </hi> Ihre Bekanntschaft gemacht hatte.
+                    Das Wesen ist eine Demoiselle
+                                Spilker, welche mit einem andern Wesen; hier in
+                        <placeName key="JP-005948">L.</placeName> in Correspondenz steht, und  von Ihnen geschrieben hatte.</p>
+            <p>Man hört aus der Ferne jetzt so viel. Schönes und  Einladendes von
+                        <placeName key="JP-005586">Berlin</placeName>, daß einem wohl das Herz
+                    zuweilen ein wenig schwer wird! Doch war es nicht unsre Idee, wie Sie, guter Vater, nach Ihrem Briefe, zu vermuthen scheinen, diesen Winter die Reise zu unternehmen. Eine
+                    Reise im Sommer ist wohl zweckmäßiger – und es ist möglich – wie wohl noch nicht
+                    fest bestimmt daß – <persName key="JP-999999">Richters</persName> künftiger
+                    Wohnort – <placeName key="JP-005649">Coburg</placeName>, das lezte Ziel unsrer Reise
+                    sein könnte – weil <persName key="JP-002583">mein Mann</persName> die Idee hat,
+                    mit mir das <placeName key="JP-005956">Liebensteiner Bad</placeName> zu besuchen, von
+                    welchem <placeName key="JP-005649">Coburg</placeName> aus eine Tagereise entfernt liegt. – Dies Alles sind Aussichten, die
+                    dadurch ihren höchsten Reiz erhalten, wenn ich mir einbilde daß der Himmel uns alle in so einer so
+                    reizenden Gegend, wie die Gegend bey <placeName key="JP-005649">Coburg</placeName> seyn sollte; <hi rendition="#u" hand="#author">uns Alle</hi>!
+                    meine ich auf einen Punkt vereinigte. So schön war es im vorigen Sommer; aber doch blutete das Herz bey der Erinnerung an denen die fehlten!
+                    –</p>
+            <p>Laßen Sie doch bald wieder etwas von sich hören, mein bester Vater! Wenn auch
+                    noch jetzt nichts über die lezten Ihnen zur nähren Uberlegung hingworfenen Iden
+                    einer Reise die Sie vielleicht diesen Sommer, mir Ihrer lieben Frau unternehmen würden. – Wenn Sie wieder schreiben, sagen Sie uns doch
+                    welchen Eindruck die <hi rendition="#u" hand="#author">
+                  <persName key="JP-012603">Mara</persName>
+               </hi> auf Sie gemacht hat. Hier im <placeName key="JP-005948">L.</placeName> hat sie unbeschreiblich entzückt!</p>
+            <p>Leben Sie nun wohl, mein bester Vater! <persName key="JP-002583">Mein
+                        Mann</persName> läßt sich Ihnen herzlich empfelen.</p>
+            <p>
+               <persName key="JP-002709">Ihrer lieben Frau</persName> versichern Sie unsrer
+                    Hochachtung und lieben Sie ewig</p>
+            <closer>
+               <signed>Ihre treue Tochter E'.
+                                M.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

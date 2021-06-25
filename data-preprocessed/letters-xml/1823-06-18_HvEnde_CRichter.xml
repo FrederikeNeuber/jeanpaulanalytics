@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0565">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Dresden, 18. Juni 1823,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1823-06-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Dresden d. 18.ten Jun. 1823.</dateline>
+            </opener>
+            <p>Mit Freuden benutze ich, werthe Frau, die Gelegenheit, Ihnen für Ihren lieben Brief vom 10.ten März d. J. herzlich zu danken und Ihnen Allerseits in
+                    schwarz auf weiß, bunt auf weiß und bunt auf bunt, (es gilt ja überhaupt viele
+                    Farben, bey einem reichhaltigen Stoff, wenn man ihn im Geiste vor sich hat, wenn
+                    sie gleich sich im Ganzen in eine Grundfarbe vereinigen) zu sagen, mit welchem
+                    Vergnügen ich in Gedanken jetzt in Ihren lieben Familienkreis eintrete. Ich
+                    freue mich daß der vortreffliche <persName key="JP-000073">Ammon</persName> mit <persName key="JP-000075">seiner
+                        liebenswürdigen Gefährthin</persName>, die ich zwar noch nicht persönlich,
+                    aber schon sehr viel, durch die so seltene Uebereinstimmung aller Urtheile über
+                    ihren Werth, kenne, mit Ihnen seyn wird. Zur Genesung der lieben <persName key="JP-003491">Ottilie</persName>, statte
+                    ich Ihnen meinen herzlichen Glückwunsch ab; Gott gebe,  daß <persName key="JP-003484">beyde liebe Kinder</persName>, mit beyden Eltern, recht
+                    gesund und so glücklich als möglich seyn mögen!</p>
+            <p>Der Tod der <persName key="JP-003830">Gräfin Schönburg</persName>, hat gewiß unter den Freunden, welche diese Frau
+                    durch ihre Liebenswürdigkeit, sich leicht zu erwerben wußte, einen schmerzlichen
+                    Eindruck gemacht, in ihren letzten Wohnort. <persName key="JP-003370">Frau von
+                        der Recke</persName> und <persName key="JP-004311">Tiedge</persName>, welche beyde mich vor
+                    Kurzem besuchten und Gott Lob recht munter sind, gedenken Ihrer und <persName key="JP-999999">Ihres lieben Mannes</persName> mit steter Liebe; beyde
+                    freuten sich zu hören, daß der Aufsatz der
+                            ersten,
+                    über den Tod ihrer Schwester, Ihr
+                    Herz so angesprochen hat.</p>
+            <p>Von <persName key="JP-000949">meinem lieben Sohn</persName>, kann ich Ihnen heute
+                    keine Grüße, außer denen in seinem Herzen stets bestehenden ausrichten, denn er
+                    hat den angenehmen Plan wieder nach <placeName key="JP-005715">England</placeName> und <placeName key="JP-006259">Schottland</placeName>
+                    zurückzukehren, diesen Sommer in Ausführung begonnen; zu Ende April reisete er
+                    ab und im Spätherbst gedachte er, so Gott will, wiederzukommen; er nahm dieses
+                    Mal den Weg über <placeName key="JP-005812">Hamburg</placeName>; schon erfeuten mich 6. Briefe von ihm, der
+                    letzte vom 24. May von<placeName key="JP-005659">Cuxhafen</placeName>, wo er
+                    schon seit mehrern Tagen eingeschifft, einen günstigen Wind zur Ueberfahrth
+                    erwartete; die Nachricht daß sie glücklich zurückgelegt ist, fehlt meinem
+                    Herzen, schon seit mehrern Tagen, wo ich sie erwartete doch beherrscht diese
+                    Sehnsucht der feste Glaube, daß er bey dieser Ueberfarth, nicht weniger leicht
+                    von Gott behütet werden konnte, wenn es sein heiliger Wille war, als wenn ich
+                    ihn wie sonst, in diesem Augenblick auf dem Weg nach meinen Garten wüßte;  der Abschied wurde uns beyden schwer; ich fand aber seinen Plan so
+                    unschuldig, so vernünftig in seiner Lage, daß ich selbst ihm noch zuredete, ihn
+                    nicht aufzugeben, als er sich beym Wahrnehmen, wie leid mir seine lange
+                    Entfernung in einem so fernen Lande thät, sich fast verpflichtet glaubte, sie
+                    aufzugeben, dies war wirklich noch der Fall am Abschieds-Abend, wo ich durch
+                    Gottes Beystand aber mit hinlänglicher Standhaftigkeit selbst, durch den
+                    Ausdruck meiner Zustimmung und meines Segens zu dieser Reise, ihm wieder
+                    beruhigte und so reisete er nach dem rührendsten Abschied ab und hat auch nicht
+                    erfahren, daß ich noch in der nehmlichen Nacht, ein heftiges Bluterbrechen
+                    bekam, wobey mir die Brust wie zum zerspringen wehe that; da das Uebel von einer
+                    moralischen Ursache, welcher ein schwacher Theil des Körpers erlag herkam,
+                    hütete ich mich vor Allem, eine Krankheit daraus bilden zu laßen und ganz in der
+                    Stille, nahm ich nur ein einfaches beruhigendes Mittel und durch Gottes Hülfe
+                    bekam das Gemüth wieder den Schwung der Heiterkeit, der den Körper gleich wieder
+                    ins Gleichgewicht brachte; meine Gesundheit würde vielleicht nicht am Ende
+                    untergelegen haben, wenn ich nicht noch beym innern Kampfe, den äußeren hätte zu
+                    bestehen gehabt, gegen mehrere gute Bekannte, welche mir Vorwürfe machten, wie
+                    ich zu dieser Reise meine Einwilligung geben könnte, da mein Glück bey derselben
+                    so gefährdet seyn könnte. ich bekämpfte dies nun muthig, durch den wahren
+                    mütterlichen Egoismus, welcher die gerechte Freude der Kinder, weit über die
+                    eigene ohne ihr, setzt, aber dies griff mich doch auch an; wer kann mich in
+                    allem diesen beßer verstehen, als so zärtliche Eltern  wie die sind an
+                    denen mein Brief gerichtet ist!</p>
+            <p>Nun muß ich Ihnen sagen, was die beyfolgende kleine Rolle enthält; für Sie eine
+                    Ihnen liebe Stadt, für <persName key="JP-999999">Ihren lieben Mann</persName>
+                    ein Stückchen Wachsleinwand aus <placeName key="JP-005687">Dresdner</placeName>
+                        Fabrick, welches ich ihn dringend
+                    bitte, auf seinen Schreibetisch zu befestigen; es soll ja denselben schonen,
+                    denn es fängt jeden möglichen Fleck auf, ohne ihn zu behalten; die Einsiedeley
+                    am Waßer, in einer Gegend wie ich deren unzählige in der <placeName key="JP-006271">Schweiz</placeName> und in <placeName key="JP-006342">Tyrol</placeName> sah, soll den lieben äußern Augen
+                    einen freundlichen Ruhepunkt darbieten, während die innern in ganz andern Höhen
+                    sind. Dem Wachsblatt zur weichen Unterlage, so wie jenes dieser der gewöhnliche
+                    Schutz wiederum ist, befinden sich zwey Flohrtüchel zur jetzigen Jahreszeit, für
+                        <persName key="JP-003484">die beyden lieben Töchter</persName>; nur beym
+                    Bestand so freundschaftlich freundlicher Verhältniße wie unter uns, können
+                    solche Kleinigkeiten mit Werthgefühl sich auf den Weg machen; ja ich gestehe daß
+                    ich mich sogar im Voraus daran weide, daß Ihre allerseitigen Gesinnungen gegen
+                    mich, Ihnen dieselben lieb machen werden und so habe ich während des Schreibens
+                    sie wohlgefällig vor den Augen.</p>
+            <p>Dankbar werde ich noch mehr Details über den guten <persName key="JP-004520">Heinrich Voss</persName>
+                    empfangen. Nun leben Sie Allerseits wohl, recht wohl und erhalten Sie Ihre Liebe
+                    Ihrer Ihnen herzlich ergebenen</p>
+            <closer>
+               <signed>HEnde</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

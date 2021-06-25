@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0380">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 26. August
+                    1804, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1804-08-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Baireuth den 26<hi rendition="#uu" hand="#author">ten</hi> Aug  1804</hi>
+               </dateline>
+               <salute>Mein geliebter Vater.</salute>
+            </opener>
+            <p>Die Ursach meines langen Schweigens auf Ihren lezten
+                            Brief,
+                    werden Sie Sich leicht aus unserm Abzug von <placeName key="JP-005649">Coburg</placeName> erklärt haben, der in dieser Zeit bestimmt war.
+                    Fast bin ich schon 14 Tage hier – aber eine solche Umwälzung des alten Lebens
+                    fodert fast eben so viel Nach- als Vorarbeit, und ich fühle mich noch nicht ganz
+                    einheimisch, so lange nur ein gewohntes Meuble fehlt,
+                    das einem unentbehrlich geworden ist. </p>
+            <p>Man kann in den ersten Wochen einer solchen neuen Lebensepoche fast nicht zu sich
+                    kommen, und unsere hiesigen Freunde zerstreuen noch durch ihre unzählige
+                    Aufmerksamkeiten die Zeit, die für ein eignes Sammeln übrig bliebe.  Aber der Gewinn eines wahrhaften Familienlebens den wir
+                    errungen haben, ist unendlich, nach der Entbehrung von unwilkürlicher Theilnahme
+                    in der ich mit seit drei Jahren finden muste, und ich fühle es recht dankbar,
+                    daß ich jezt in der Mitte der vortreflichsten Menschen lebe.  Man liebt meine Kinder und sie gehören allen an, die grenzenlose Freundschaft für <persName key="JP-999999">Richter</persName>, giebt unsern Freunden ein väterliches
+                    Recht auf sie – und das fehlte so sehr meinem Herzen – denn ich  konnte mich leichter um mein selbst willen beruhigen, da ich ja in meinen<persName key="JP-999999">Mann</persName> und Kindern, die glüklichste Frau
+                    bin.</p>
+            <p>Nun zu Ihrem Briefe, theurer Vater, worin <anchor type="target" xml:id="start_w3j_3hs_1nb"/>die
+                            Nachricht daß Sie Ihre Reise aufgeschoben haben<anchor type="target" xml:id="stop_w3j_3hs_1nb"/>, mir eine
+                    wahre Last vom Herzen nahm, indem sie mir wieder die Hofnung auf das Höchste
+                    giebt, was ich erleben kann. Es hätte mich über alles unglüklich gemacht, wenn
+                    Sie jezt gereist wären, da es für uns nicht möglich war, Ihnen entgegen zu
+                    gehen, und wenn gleich Ihre Reise jezt, zu einer zu für mich kritischen Zeit
+                    geschieht, so bleibt mir doch immer noch die <hi rendition="#u" hand="#author">Möglichkeit</hi> Sie zu sehen, denn wenn ich auch nicht
+                    begreife, Wie? Ich muß rechnen im Octobr niederzukommen
+                    – spätstens <hi rendition="#u" hand="#author">Anfang</hi>Nov. und dürfte ich es wagen so spät in meinem Zustand zu reisen – in diese
+                    Gegenden, wo die Wege so ungebahnt sind, bis auf wenige Ausnahmen? Der Gedanke
+                    stößt sich mir oft auf, <hi rendition="#u" hand="#author">Sie
+                        könnten vielleicht wohl gar bis <placeName key="JP-005574">Baireuth</placeName> reisen wollen</hi> – aber schnell unterdrüke ich
+                    ihn wieder weil ich für Sie, die Schwierigkeiten einer so weiten Reise fürchte.
+                    Aber Gott, wie himmlisch wäre es, Sie mit Ihrer theuren <persName key="JP-002709">Frau</persName>, in <hi rendition="#u" hand="#author">unserm</hi> Hause zu haben – aber, solches Glük, wird nicht
+                    wirklich werden. – – – – – – </p>
+            <p> Unsere jezige Wohnung wäre geräumig genug Sie zu logiren – wir wohnen
+                    recht schön, und haben für unser Bedürfnis, mehr als Überflus. Der <persName key="JP-003203">G. R. Pfeifer</persName> wird die Wohnung kennen, sie ist im Hause der <persName key="JP-002924">
+                  <hi rendition="#u" hand="#unknown">Justizräthin Munnich</hi>
+               </persName>
+            </p>
+            <p>Ihre alten hiesigen Freunde, <persName key="JP-003878">Schukmann</persName> und <persName key="JP-012529">Philippi</persName> haben wir mit der Karte besucht, und waren schon eingeladen. Beide stehen sich
+                    ungefähr wie ein <placeName key="JP-005586">Berliner</placeName> Minister – es
+                    ist auch natürlich, da ihre Einnahme beim wohlfeilen Preise der Lebensmittel um
+                    ein Drittel mehr leisten muß, als bei den theuren Preisen in <placeName key="JP-005586">Berlin</placeName>.</p>
+            <p>Eben kömmt ein Besuch, der diesen Brief schneller endet muß, als ich glaubte, und
+                    ich schike ihn deshalb fort, weil Sie sonst länger warten müsten, indem die
+                    Poststunde schon geschlagen hat. Vergebung, geliebtester
+                    Vater, bald schreibe ich Ihnen länger – Gott erhalte Sie mit Ihrer edeln
+                        <persName key="JP-002709">Frau</persName>, die ich innigst grüße, gesund,
+                    und mich in Ihrem Andenken. mein <persName key="JP-999999">Mann</persName> grüßt Sie herzlich.</p>
+            <closer>
+               <signed>Ewig ewig Ihre treuste Tochter Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

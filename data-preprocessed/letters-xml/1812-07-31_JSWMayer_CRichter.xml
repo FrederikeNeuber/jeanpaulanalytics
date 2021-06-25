@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0439">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 31. Juli
+                    1812, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1812-07-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 31. July
+                        12</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>ich habe Deinen lieben Brief vom 20. mit Vergnügen
+                    erhalten, und danke Dir für Deine hertzliche Gesinnungen gegen mich; auch für das mir geschickte Geschenk.</p>
+            <p>Den Brief an <persName key="JP-002709">meine
+                                Frau</persName> habe ich ihr nach <placeName key="JP-012338">Neustadt an d Doße</placeName>, wohin sie auf 14. Tage zu ihrer Gesundheit
+                    gereiset ist, übersendet, u sie wird Dir selbst antworten.</p>
+            <p>Solltest Du von <persName key="JP-004393">Minna</persName> nicht schon selbst Nachricht haben, so melde ich Dir, daß die Ungewißheit, worinn sie bey ihrer Ankunft in
+                        <placeName key="JP-006071">Strelitz</placeName> darüber versetzt wurde, ob man sie auch annehmen würde? (denn ihre
+                    Hinbescheidung war gewißer maaßen voreilig, ohne daß sie diß ahnden konnte) sich
+                    jetzt gehoben hat, indem sie wenigstens auf 6. Monath engagirt, auch förmlich u feyerlich installirt ist.</p>
+            <p>Ihre Conservation hängt nun von ihr selbst  ab, u wir wollen hoffen, daß sie dahin streben wird. An Aufmunterung u Protection daselbst fehlt es ihr nicht.</p>
+            <p>In
+                            Absicht des <persName key="JP-003488">Richter</persName>schen Capitals wäre deßen Einziehung allerdings eine wünschenswerthe
+                    Sache. Allein eine Kündigung würde jetzt die Folge haben, daß man bis zum 24. Juny
+                        1815. statt baarer Zahlung Pfandbriefe der hiesigen Provintz annehmen
+                    müßte, die beynahe die Hälfte im Course verlieren.</p>
+            <p>Wenn also <persName key="JP-003488">HerrRichter</persName> nur die Zinsen richtig zahlt, so scheint es mir beßer, den Ablauf
+                    jener Frist abzuwarten<anchor type="target" xml:id="stop_lss_zmn_knb"/>
+            </p>
+            <p>Übrigens entstehet eben jetzt durch die Entrichtung der Vermögens Steuern, (wenn
+                    ich gleich dem <persName key="JP-003488">Kaufmann Richter</persName> nachgewiesen habe, daß Du als Ausländerin davon frey bist), eine
+                    Stockung in der Zinß Zahlung, weil er sich an meine Anweisung nicht gekehrt, u
+                    die Steuer für Dich mit bezahlt hat, die er nun auf die Zinsen abrechnen will.
+                    ich werde  Dir den Erfolg melden, um darnach Maaß Regeln über die Capitals Kündigung zu nehmen.</p>
+            <p>ich freue mich auf die neue Ausgabe der Aesthetic<persName key="JP-999999">Deines Mannes</persName>, die ich mir anschaffen
+                    werde. ich hatte lange nichts von neuen Productionen
+                    deßelben gehört, u wundere mich nun darüber nicht.</p>
+            <closer>
+               <salute>Lebe wohl. Grüße <persName key="JP-999999">Deinen Mann</persName>, u
+                        küße <persName key="JP-003483">Deine Kinder</persName>
+               </salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+            <postscript>
+               <p>Hiebey eine Einlage von <persName key="JP-002007">Frau von Kalb</persName>. Die Deinige an <persName key="JP-002004">die
+                                    Tochter</persName> ist besorgt.</p>
+            </postscript>
+            <postscript>
+               <p>So eben schickt <persName key="JP-003488">HerrRichter</persName> die Zinsen für den 1. July, nachdem er sich hat bedeuten laßen. Vor dißmal also hat die Fehde
+                        ein Ende; u ich werde nur den 1. 8<hi rendition="#u" hand="#author">ber</hi> abwarten, um mich mit Dir zu berechnen; wenn die als dann felligen
+                        Wittwen Cassen Gelder bezahlt sind.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

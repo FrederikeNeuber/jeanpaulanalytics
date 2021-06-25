@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0800">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 25. Dezember
+                    1810, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1810-12-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 25. X.ber
+                        10.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Den ersten Brief, deßen Du als aus <placeName key="JP-005521">A</placeName>. an mich geschrieben, erwehnst, habe ich gar nicht erhalten, und wenn er
+                    wirklich zur Post gekommen ist, so ist er an mich nicht abgegangen. Denn auf der
+                    hiesigen Post weiß man davon nichts.</p>
+            <p>Dagegen ist <ref type="letter" target="JP-UB0550">ein Brief von mir an
+                        Dich</ref>, mit den <persName key="JP-003488">Richter</persName>schen Weyhnachts Zinsen, u einigen Kleinigkeiten
+                    für Dich u <persName key="JP-003483">Deine Kinder</persName> nach <placeName key="JP-005574">Bayreuth</placeName> abgegangen, der in Deiner Abwesenheit daselbst von <persName key="JP-999999">Deinem Mann</persName> in Empfang genommen seyn wird.</p>
+            <p>Dein letzter Brief, und besonders <persName key="JP-004393">Minnas</persName> eigenhändige Beylage beruhigen mich über die Situation der letztern,
+                    indem in <persName key="JP-004393">Minnas</persName> Briefe eine mit Geistes Verwirrung nicht zu vereinbarende Geistes
+                    Gegenwart herrscht. ich zweyfle also gar nicht an ihrer Herstellung; es sey denn
+                    daß dieselben Verlegenheiten, die ihre Geistes Verwirrung herbey geführt haben, sie immer von neuen darüber brüten laßen. In diesem
+                    Fall ist Hebung dieser Verlegenheiten das eintzige Mittel zur radical Cur.</p>
+            <p> Auf jeden Fall ist es ein Glück, daß <persName key="JP-004393">Minna</persName> in die Hände so edler Menschen gefallen ist; und ich bitte Dich <persName key="JP-002527">HerrnLudwig</persName> und seiner <persName key="JP-002533">Frau Gemahlin</persName>, auch
+                    Familie meine innigste Erkenntlichkeit dafür zu wiederholen.</p>
+            <p>Kannst Du übrigens dahin kommen, <persName key="JP-004393">Minnas</persName> eigentliche Verlegenheiten, denen sie doch so weit es Geld Verlegenheiten
+                    sind, durch Aufopferung der Hülffe ihres ärmlichen Capital Vermögens, zum Theil abgeholfen hat,
+                        zu entdecken, und mich darüber klar sehen zu laßen, so glaube ich
+                    wohl, ein Recht darauff zu haben. Denn bisher hat <persName key="JP-004393">Minna</persName> mich hierinn noch nicht initiirt, da doch für ein
+                    Vater Hertz Raum zu allen Confessions eines Vertrauen
+                    vollen Kindes ist.</p>
+            <p>Vorjetzt kann ich der <persName key="JP-004393">Minna</persName> aus eignen Mitteln nichts geben. ich avancire
+                    eben, so wie ich es bey Dir gethan habe, die <persName key="JP-003488">Richter</persName>schen Weyhnachts Zinsen, die doch
+                    in diesen Tagen von <persName key="JP-003488">HerrnRichter</persName> eingehen müßen.</p>
+            <p> ich schicke Dir also hiebey 10 rthRichtersche Zinsen von 1000 rth Gold für die Zeit vom 1. October bis Ende December
+                                10, u bitte sie
+                    der <persName key="JP-004393">Minna</persName> zuzustellen, und zwar mit beyliegenden Zeilen, die ich unmittelbar an sie richte; u womit Du ihr zugleich den ebenfalß
+                    für <persName key="JP-004103">Emma</persName> erfolgenden 1/2 Fridr. d’or zustellen kannst, den
+                    ich für letztere nützlich zu verwenden bitte.</p>
+            <p>Alles übrige erwarte ich von <persName key="JP-002527">HerrnLudwig</persName>, der selbst finden wird, worin mir in Absicht der <persName key="JP-004393">Minna</persName>, und ihres Aufenthalts in <placeName key="JP-005521">Altenburg</placeName> gelegen seyn muß. Dich will ich mit allen meinen Sorgen nicht
+                    belasten. Du hast durch Deine Gegenwart in <placeName key="JP-005521">Altenburg</placeName> schon genug geleistet.</p>
+            <closer>
+               <salute> auch <persName key="JP-000501">Herrn Br</persName>. u liebe</salute>
+               <signed>Deinen treuen Vater Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

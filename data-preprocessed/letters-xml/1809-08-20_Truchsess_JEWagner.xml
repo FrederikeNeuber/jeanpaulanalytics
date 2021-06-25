@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0908">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Christian Freiherr Truchseß von Wetzhausen an Johann Ernst Wagner.
+                    Bettenburg, 20. August 1809, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+               <placeName key="JP-005591">Bettenburg</placeName>
+               <date when="1809-08-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012533">Lektüre(n)</term>
+               <term xml:id="JP-012430">Religion</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bettenburg, d. 20. Aug. 1809.</dateline>
+            </opener>
+            <p>Ich wurde in manche Zerstreuung wider Willen hineingezogen, gab mich auch mancher
+                    selbst hin; daher die Verspätung meiner Antwort ob mir gleich mein lieber,
+                    lieber <hi rendition="#u" hand="#author">Ernst</hi> sehr oft
+                    gegenwärtig war.</p>
+            <p>
+               <anchor type="target" xml:id="start_nl2_tfr_xnb"/>Mein "Gott sei gelobt!" über
+                    die Wiederkehr Ihrer Gesundheit wird Ihnen <persName key="JP-013077">Antonie</persName> überbracht haben, und Sie konnten es aus keinem
+                    würdigern, reinern, mitbetenden Munde erhalten.<anchor type="target" xml:id="stop_nl2_tfr_xnb"/>
+            </p>
+            <p>Jetzt, liebster Ernst! nehmen Sie meinen innigsten Dank für mehrere höchstgeniale
+                    Stellen des 2ten Theils Ihrer "Reise." Auch
+                    im "Walde von Myra" weht mich hier und da
+                        <persName key="JP-004029">Shakespear's</persName> Geist an, ob mir gleich
+                    das <hi rendition="#u" hand="#author">Ganze</hi> nicht gefallen
+                    konnte, und Sie auch schwerlich darüber einem Lobe von mir entgegen sehen. Erst
+                    dann danke ich Ihnen für diesen 2ten Theil mit Kopf und Herz, wenn Sie – noch einen 3ten schreiben. In
+                    demselben begleiten Sie, – sofern mein Rath etwas gilt, – <hi rendition="#u" hand="#author">Klotilden</hi>
+                    durch <placeName key="JP-005872">Italien</placeName>, lassen sie viele Klöster,
+                    nicht blos von der gleißnerischen Außenseite, sondern so recht im geheimsten
+                    Innern, beschauen, und dadurch zur Erkenntniß kommen: "daß es ein reineres,
+                    höheres Christenthum gebe, als eines, das sich im Widerstreben gegen die
+                    heiligsten Bande der Liebe empört." Klotilde kehre in diesem Gefühl zurück, mit
+                    Abneigung erfüllt gegen alles Unwesentliche und Unheilige, was die Hierarchie in
+                    das Ur-Christenthum hineinpfuschte, und gebe dem Geliebten, zum Ersatz für die
+                    Freuden, welche ihm die schändlich geopferte <hi rendition="#u" hand="#author">Lydia</hi> hätte geben können, die frei gewordene Hand.
+                    Und wollen Sie sich den edleren, besseren Theil des Publikums noch mehr
+                    verpflichten, so führen Sie dann den Leser noch eine gute Strecke weiter ins
+                    häusliche Leben der Gattin und Mutter. So wird das Halbe ganz und ein geprüfter,
+                    aber in der Probe bestandener weiblicher Charakter steht in seiner Tüchtigkeit
+                    vor uns da.</p>
+            <p>Ich meines Theils stehe noch immer bei meiner
+                            Vernunft-Religion, gegründet auf <hi rendition="#u" hand="#author">Liebe</hi>, fest, und mag einer andern
+                    Grundlage nimmer vertrauen. Nur dadurch wurde meiner Ueberzeugung nach <hi rendition="#u" hand="#author">Jesus</hi> ein <hi rendition="#u" hand="#author">
+                  <persName key="JP-000634">Christus</persName>
+               </hi>, – nicht durch blos Uebersinnliches, auf ein
+                    dunkles Ahnungsvermögen Gegründetes. Gerade das hat auch <persName key="JP-002555">Luther</persName> aus dem Schlamm und Unrath einer
+                    verdunkelten Zeit wieder herauszuziehen versucht; und was Er mit Riesenkraft
+                    begonnen, dabei sollen wir nicht stehen bleiben, sondern mit Geist und Liebe,
+                    immer in Demuth, weitergehn. Das war sein Wille; <anchor type="target" xml:id="start_rgb_1hq_xnb"/>und eben deshalb muß
+                            ich Sie nochmals bitten, den noch nicht nach Würden von Ihnen
+                            geschätzten <hi rendition="#u" hand="#author">
+                  <persName key="JP-004437">Villers</persName>
+               </hi> aufmerksam zu
+                            betrachten, und das
+                    geprüfte Gute daraus zu behalten<anchor type="target" xml:id="stop_rgb_1hq_xnb"/>. Er wird Ihnen sicherlich kein Hinderniß bei dem Werk, was Sie mit Lob, Dank
+                    und Preiß begonnen haben, wie mir <persName key="JP-013077">Antonie</persName> sagt. – Hier mag ein Punktum statt der wärmsten
+                    brüderlichen Umarmung stehen.</p>
+            <p>Was sagen Sie zu dem Fragment aus den <bibl sameAs="JP-010576" subtype="werke-jp">Dämmerungen</bibl> von unserm <hi rendition="#u" hand="#author">
+                  <persName key="JP-999999">Richter</persName>
+               </hi>? Wir drei, <persName key="JP-002882">Mosengeil</persName> mit uns, müssen das einmal zusammen genießen! Nach der
+                    ersten und zweiten Ueberhörung war eine heilige Rührung über mich ausgegossen,
+                    die noch wohlthätig fortwirkt.</p>
+            <closer>
+               <salute>Grüssen und küssen Sie <persName key="JP-013219">die
+                            Ihrigen</persName> recht väterlich von mir. Es
+                                that mir wohl, zu erfahren, daß der ehrliche Knabe, den Sie uns im
+                                2ten Theil vorführen, <hi rendition="#u" hand="#author">Ihr</hi>
+                  <persName key="JP-004570">Anton</persName> ist. – Vor dem Winter sehen wir uns schwerlich, aber
+                        dann mit der alten wahren, und immer wachsenden Herzlichkeit.</salute>
+               <signed>Tr.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

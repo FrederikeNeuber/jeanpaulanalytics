@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0742">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. München, 21. Juni 1820, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1820-06-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-003471">Emma Richter</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012721">Dessauer Familienstipendium</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>München am 21 Juny 1820.</dateline>
+               <salute>Theuerste Mutter!</salute>
+            </opener>
+            <p>Schon wieder <ref type="letter" target="JP-UB0147">einen Brief</ref>, Du
+                    herrliche Mutter! Wie könnt ihr uns  zur Besinnung eines gelesenen Briefs kommen
+                    lassen? Doch der Dank gebührt Euch immer zuerst. Der <persName key="JP-999999">Vater</persName> ist jetzt größtentheils gesund; nicht die Witterung; kalt,
+                    rauh, regnerisch. Wie treflich u mütterlich sorgte die gute <persName key="JP-004653">Welden</persName> für jene Nachricht;
+                    sie verdient immer mehr Liebe; auch ihr <persName key="JP-004654">Sohn</persName>, der gestern d. <persName key="JP-999999">Vat</persName>.
+                    besuchte.</p>
+            <p>Heute Abend ist eine Theegesellschaft bei <persName key="JP-003681">Fr. v. Schaden</persName> (aus <placeName key="JP-006085">Nürnberg</placeName>). Das Wetter nimmt in der Rauheit immer zu. Die
+                        Kleidertrümmer sollen bald zum
+                    Schneider kommen. Ich frage Dich jetzt um Rath, wie ich es mit meinen Sachen
+                    machen soll. Einige Kleider, Wäsche p. brauchten eine kleine Ausbesserung u ‒
+                    des Waschens. Ich dächte, man könnte es auch über <placeName key="JP-005574">Baireut</placeName> nach <placeName key="JP-005819">Heid</placeName>. neu geordnet u
+                    gepflegt bringen. <persName key="JP-004655">Welden</persName> hat wieder einen Brief fortgeschickt u er
+                    beklagt sich über die F..l...ht seiner Leute. Schokolade
+                    schmeckt ihm besser als Kaffee u er bittet sich diese auch in <placeName key="JP-005574">Bair</placeName>.  zum Morgengericht aus. Der junge Schallern begegnete heute dem <persName key="JP-999999">Vater</persName> u will ihn ohne Weiteres besuchen. Die
+                    Besuche sind kaum zur Hälfte abgethan; das <placeName key="JP-005665">Dessauer</placeName> Familienstipendium muß nun bald
+                            geholt werden. Ich bitte Dich daher, liebe
+                    M., mir einiges darüber zu schreiben, ob u wann ich ein Attest oder ein
+                    Absolutorium eingeben muß. <persName key="JP-003112">Otto</persName> u <persName key="JP-003087">Emanuel</persName> grüße recht sehr. Lebt wol, <persName key="JP-003471">Emma</persName> u <persName key="JP-003491">Odilie</persName>. Seit dem der
+                        <persName key="JP-999999">Vater</persName> hier lebt, fallen die Briefe
+                    miserabel klein u schlecht aus. Schreibt wieder so geschwind u schön,</p>
+            <closer>
+               <signed>Euer Max R.</signed>
+            </closer>
+            <milestone unit="section" rendition="#hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

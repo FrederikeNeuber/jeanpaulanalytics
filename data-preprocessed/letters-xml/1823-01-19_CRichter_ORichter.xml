@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0424">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 19. und 20. Januar 1823,
+                    Sonntag und Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1823-01-19" to="1823-01-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012033">Textilien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Sontag den 19<hi rendition="#uu" hand="#author">ten</hi> J:</dateline>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>Heute bekamen wir Deinen Brief worin Du Deinen
+                    Wunsch ausdrückst lieber zurückgereist zu sein, als dort zu bleiben. Der
+                        <persName key="JP-999999">Vater</persName> und ich freuen uns Deiner Liebe,
+                    die uns höher achtet als alle Freuden die Du dort haben könntest, allein jetzt
+                    ist es uns ganz recht, daß alles so gekommen ist, und Du wirst gewis auch
+                    zufrieden sein. Indem unsre Brief hin und herlaufen ist schon wieder etwas von
+                    der Trennungs Zeit verstrichen, und indem die Beeilung Deiner Maschinen die Folge
+                    unseres Drängens war ist doch Etwas Gutes daraus entsproßen. Nun bist Du frei
+                    und gewis sollst Du am 1<hi rendition="#uu" hand="#author">ten</hi> bis 3–4<hi rendition="#u" hand="#author">ten</hi>
+                        Februar abgeholt werden. Ganz recht ist es
+                            uns mit dem Mädchen – mit Freuden bezahlen wir ihre Verköstigung
+                            unterwegs und logiren sie. Ich werde morgen mit dem
+                        <persName key="JP-011926">Kutscher</persName> sprechen, damit Du nur 1
+                    Nacht unterwegs bleibst. <hi rendition="#u" hand="#author">
+                  <placeName key="JP-012528">Burg Ebrach</placeName>
+               </hi> ist der beste Ort, zum Nachtquartier. Morgen schicken wir mit der fahrenden Post das
+                            Band – da wird <persName key="JP-003471">Emma</persName> und <persName key="JP-011864">Fanny</persName> Dir
+                    schreiben. Bis dahin lebe wohl geliebtes bestes Kind, in Eile – ewig Deine
+                    treuste Mutter</p>
+         </div>
+         <div>
+            <p> Gestern wollte ich diesen Brief abschicken <anchor type="target" xml:id="start_b4g_2s4_gnb"/>als ich einen mir ganz fremden Besuch bekam.
+                        Herr<persName key="JP-001608">Heine</persName> hat Dir
+                    gewis von einer Frau erzählt, die mit Dir hätte reisen können, und wirklich ist
+                    es Schade, daß Du um solche Reisegesellschaft gekommen bist. Es ist die Frau eines englischen Arztes der in <placeName key="JP-005907">Königsberg</placeName> wohnt.
+                    Sie ist zwar häßlich, und man kann ihr Alter nicht errathen, aber sie scheint
+                    höchst intereßant zu sein<anchor type="target" xml:id="stop_b4g_2s4_gnb"/>, und
+                    betet den <persName key="JP-999999">Vater</persName> an, sie küßte ihm die Hand
+                    und wollte durchaus nicht <hi rendition="#u" hand="#author">neben
+                        ihm</hi> aufs Canapee sitzen vor lauter Ehrfurcht. </p>
+            <p>Hier ist das blaue Band, die Spitzen sollst du um den Ausschnitt des Kleides
+                    einreihen, aber nicht <hi rendition="#u" hand="#author">auseinanderschneiden</hi> Du bringst mir dann beides wieder mit. Alles was
+                    Du mir noch zu besorgen aufgeben mußt, sage mir nur im  nächsten Briefe ganz offen, mein geliebtes Kind, ohne die
+                    geringste Furcht unbescheiden zu sein. Das ist die schönste Eigenschaft, das unbegrenzte Vertrauen zu
+                    einem Menschen zu seiner Liebe. Was für Wäsche, Lichter und dergleichen
+                    zu zahlen ist, ehe du abreisest und wieviel Du an Gelde noch in Cassa hast, Alles muß ich wissen. Es ist mir nie zu
+                    viel, was die Nothwendigkeit erheischt. Lebe wohl, süßes theures Leben. Gott
+                    beschütze Deine Gesundheit daß wir froh uns wiedersehen.</p>
+            <closer>
+               <signed>Ewig Deine treuste Mutter Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

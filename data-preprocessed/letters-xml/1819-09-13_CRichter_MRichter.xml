@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0585">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, 13. September 1819, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1819-09-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireuth den 13<hi rendition="#uu" hand="#author">ten</hi>Sept 19.</dateline>
+               <salute>Guter Max!</salute>
+            </opener>
+            <p>Du kannst wohl denken, welche Freude mir Nachrichten von Dir machen mußten. Habe
+                    Dank daß Du so schön und ordentlich nach Hause schreibst, da Deine Existenz in
+                    der weiten Welt den Deinigen recht am Herzen liegen muß. Vor allem ist es mir
+                    lieb, daß Du mein mütterliches Gefühl durch Deine Anerkennung so schön belohnst.
+                    Welch eine Beruhigung ist es mir daß Du so glücklich durchgekommen bist, und
+                    besonders freut mich der Wagen, der Euch armen Ermüdeten, eine wahre
+                    HimmelsWohlthat gewesen sein muß. Ja man darf auf Reisen auf glückliche Zufälle
+                    rechnen, und ich erkenne immer darin die Güte der Vorsehung, und der Menschheit.
+                    Möchtet Ihr ferner recht viel Erleichterungen haben – wie sehr wünsche ich
+                    das!</p>
+            <p>Mich beunruhigte Manches, als Du weggiengst vorzüglich Dein leichter Anzug. Der
+                    alte grüne Rock von dem ich mir nicht denken kann, daß er mit seinen mürben
+                    Taschen, die Strapazen der  Reise aushalten kann. Hätte ich doch
+                    meinem Kopf gefolgt und Dir einen Neuen machen lassen. Wenn man gewis wissen
+                    könnte, daß Du ihn hübsch trügest, würde ich dir durch Fräulein Barner einen recht soliden Rock nach <placeName key="JP-006040">München</placeName> bescheiden allein ich zweifle daß Du es
+                    thätest, und so muß ich es Gott anheim stellen wie Du auskömmst. Ist Deine Mütze
+                    auch nicht recht so kaufe Dir in<placeName key="JP-005548">Augsburg</placeName>doch eine Neue. Fehlt es an Geld, so darfst Du ja nur schreiben. Vor Allem,
+                    iß Dich nur satt. – Wirst Du auch wohl einen einsamen Augenblick finden um öfter
+                    das nachzuholen was ich leider am letzten Morgen nicht vollenden konnte? Thue es
+                    ja, mein guter Junge!</p>
+            <p>Der <persName key="JP-999999">Vater</persName> schrieb
+                            am Sonnabend daß er abgeholt sein wollte.Vielleicht ist er Donnerstag oder Freitag den 17<hi rendition="#uu" hand="#author">ten</hi>schon zu Hause, und Du kannst dann auch
+                    an ihn schreiben. Natürlich geht sein Leben so in Seeligkeit fort, wie es  angefangen hatte, und im Gegentheil wird die Vertraulichkeit der Fürstinnen immer inniger gegen ihn. Die
+                        <persName key="JP-000853">Herzogin</persName> reißt am 20<hi rendition="#uu" hand="#author">ten</hi> nach<placeName key="JP-005994">Manheim</placeName>, und der Vater schreibt,
+                    sie bleibe 1 Tag in <placeName key="JP-005574">Baireuth</placeName> und besuche
+                    uns.</p>
+            <p>
+               <persName key="JP-003471">Emma</persName> soll mit dem Vater von<placeName key="JP-005846">Hohenberg</placeName>wieder zurückommen, und dann wird die arme einsame<persName key="JP-003491">Odilie</persName>wieder Unterhaltung haben. Heute ist <persName key="JP-000818">Fanny
+                        Weldens</persName> Geburtstag der auf dem <placeName key="JP-013004">Riedelschen Berg</placeName> gefeiert wird wozu<persName key="JP-003491">Odilie</persName>sich sehr freut.</p>
+            <p>Es ist auch hier wunderschönes Wetter ich freue mich um Deinetwillen
+                        außerordentlich.<persName key="JP-000822">Louis</persName>und <persName key="JP-000821">Karl
+                        Dobenek</persName> sind auch auf der Reise nach <placeName key="JP-005586">Berlin</placeName>. Vielleicht hörst Du in<placeName key="JP-006040">München</placeName>etwas von <persName key="JP-004106">Julius</persName>. Der arme <persName key="JP-002703">Großvater</persName> ist recht gekränkt daß er so weit geht.
+                    Wie wird er mit Gelde versorgt sein!</p>
+            <p>Hier ist ein Brief an <persName key="JP-002482">Frau von Lochner</persName>,
+                    ziehe Dich nur ja immer gut in <placeName key="JP-006040">München</placeName>
+                    an, und wasche Dich mit Seife. Vielleicht findest Du dort  auch<persName key="JP-000662">Flamin Klöter</persName>der mit seiner ganzen Klasse <placeName key="JP-006040">Münchens</placeName> Herrlichkeiten sehen will.</p>
+            <p>Sonst ist nichts hier vorgefallen.Emanuelsfreuen sich recht über Deinen Aufenthalt bei den ihrigen. Gott beschütze Dich mein lieber Max, und gebe Dir so
+                    viel Freuden als Du durch Deinen Fleiß so sehr verdient hast. Ich drücke Dich an
+                    mein Herz und bin ewig</p>
+            <closer>
+               <signed>Deine treue Mutter Caroline Richter.</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>
+               <persName key="JP-003491">Odilie</persName>grüßt Dich mit  unendlicher Liebe. Schreib  bald, wenn auch nicht
+                    viel  so du nicht Zeit haben solltest.</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

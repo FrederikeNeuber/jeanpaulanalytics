@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0519">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 21. und 27.
+                    November 1814, Montag und Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date from="1814-11-21" to="1814-11-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012553">Wissenschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 21.9.ber 14.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>ich glaube zwar, daß ich Dir <ref type="letter" target="JP-UB0617">im
+                        letzten meiner Briefe</ref> an Dich, einen umständlicheren versprochen habe,
+                        <anchor type="target" xml:id="start_iks_vdm_kjb"/>allein immer bleibt es mir
+                    auffallend, daß Du seit dem 22. July<hi rendition="#u" hand="#author">mir</hi> nicht schreibst; und ich
+                    nehme also irgend ein bedrükendes Hinderniß viel eher an, als gleichgültiges
+                    Buchhalten zwischen Dir u mir.<anchor type="target" xml:id="stop_iks_vdm_kjb"/>
+                    Gott gebe, daß es von keinen weitern Folgen ist.</p>
+            <p>
+               <anchor type="target" xml:id="start_ol4_321_qjb"/>Das für Dein Hertz wichtigere
+                    was ich Dir heute zu melden habe, betrift ein für die <persName key="JP-004103">Emma</persName> zu Stande gekommenes engagement als Lehrerin zweyer kleiner Mädchen, Töchter des Obristen von Platen auf der Insel <placeName key="JP-006214">Rügen</placeName>. Auf der <ref target="JP-UB0544/#nu5p_j2d_y3b">Louisen Stiftung</ref> konnte <persName key="JP-004103">Emma</persName> höchstens nur bis Ostern bleiben, u die Direction
+                    hat Sich also selbst Mühe gegeben, ihr eine selbstständige existentz zu schaffen, da ich, während ich den <persName key="JP-004106">Julius</persName> bey mir habe, die <persName key="JP-004103">Emma</persName> nicht zu mir nehmen konnte, wenn ich mich auch sonst dazu hätte
+                    entschließen wollen.</p>
+            <p>Das Engagement findet von Seiten einer vortreflichen
+                    Familie, u in Gefolge einer sehr beruhigenden Correspondentz zwischen dem Obristen von Platen u mir statt, u gibt der <persName key="JP-004103">Emma</persName> bey freyer Station u Behandlung als Kind im
+                    Hause, ein Jahrgehalt von 20 Fridr. d’or.<anchor type="target" xml:id="stop_ol4_321_qjb"/>
+            </p>
+            <p> Sie ist unter Begleitung einer D<hi rendition="#u" hand="#author">lle</hi>Tischer, die Du nicht
+                    kennst, die aber eine Hauß Freundin <persName key="JP-002709">meiner
+                        Frau</persName>, u eine vortrefliche Person ist, über <placeName key="JP-006071">Strelitz</placeName> u <placeName key="JP-006309">Stralsund</placeName> nach ihrer Bestimmung abgegangen; u daselbst am 9ten
+                                9ber angekommen, auch meldet sie mir, daß sie einsehe, dort sehr glücklich
+                    seyn zu können.</p>
+            <p>In <placeName key="JP-006071">Strelitz</placeName> hat sie einen Tag bey <persName key="JP-004393">Ihrer
+                                Mutter</persName> verweilt u die letztere sehr zufrieden mit ihrer
+                            Lage angetroffen. Gott sey also gedankt, daß mir
+                    diese Sorge von meinem Kummer belasteten Hertzen genommen ist; u daß ich hoffen
+                    kann, <persName key="JP-004103">Emma</persName> werde sich in Ihrer Station so  lange erhalten, bis sie
+                    gleich ihrer Vorgängerin durch eine Heyrath von dort abgelöset wird. Gern
+                    schickte ich Dir <persName key="JP-004103">Emmas</persName> Brief, wenn nicht dergleichen Mitteilungen durch Hin u Herschicken so
+                    umständlich wären.</p>
+            <p>Nun habe ich noch über Dein Geld interesse mich mit Dir
+                    zu unterhalten:</p>
+            <p>Nach anliegendem Rechnungs Abschluß beträgt Dein
+                            Bestand 20 rth Gold, die hiebey erfolgen, u
+                            worüber ich mir Quittung erbitte.</p>
+            <p>Von der <ref target="JP-UB0817/#nezl_ytv_2jb">Pensions Angelegenheit <persName key="JP-999999">Deines Mannes</persName>
+               </ref> erfahre ich seit <persName key="JP-004126">HerrnStaegemanns</persName> Abwesenheit in <placeName key="JP-006405">Wien</placeName> nichts.  Da <persName key="JP-004683">Herr Werner</persName> die seinige sehr eyfrig betreibt, so wird <persName key="JP-999999">Dein Mann</persName> darüber nicht vergeßen werden.</p>
+            <p>Mein persönliches Befinden ist trotz meiner mehr als 67 Jahre sehr gut;  auch thue ich alles,
+                    um mich dadurch für die mir obliegenden Anstrengungen des Geistes, u für die energie des Willens zu stählen. Auch habe ich noch ein
+                    immer reges interesse für wißenschaftliche Ausbildung,
+                    und höre noch jetzt ein Collegium beym <persName key="JP-012082">Prof. Erman</persName> über Magnetismus (nicht den <persName key="JP-002780">Mesmer</persName>schen) und über Electricitaet ud Galvanismus.</p>
+            <p>
+               <persName key="JP-002709">Meine Frau</persName> ist ebenfalß in der Regel
+                    gesund, u <persName key="JP-004106">Julius</persName> bleibt sich im Fleiß u in der Aufführung gleich.</p>
+            <p>Nechstens wird er zum <ref target="JP-UB0166/#nnnq_ln2_kjb">Conducteur</ref> examinirt
+                    werden; aber so lange bey mir bleiben, als er sein cameralistisches Studium nicht absolvirt hat.
+                    Überhaupt wird er ein ausgezeichneter Mensch werden.</p>
+            <p>Mein <persName key="JP-002715">Neveu Mayer</persName> ist vom <placeName key="JP-006187">Rhein</placeName> herab hier durch nach
+                    Hause gegangen, u producirt sich in der That recht
+                    gut.</p>
+            <p>Die <persName key="JP-002779">Tante Mertzdorff</persName> fällt sehr zusammen; u lebt so wie die <persName key="JP-012105">Sommern</persName>, gantz isolirt. </p>
+            <closer>
+               <salute>
+                  <persName key="JP-004106">lius</persName> grüßen. Dein treuer Vater Mayer.</salute>
+            </closer>
+         </div>
+         <div>
+            <opener>
+               <dateline>27.ter 9.ber 14.
+                    </dateline>
+            </opener>
+            <p>So eben erhalte ich durch <persName key="JP-002709">meine Frau</persName>, den
+                        Brief, der von HerrnErnest in meiner Abwesenheit an dieselbe abgegeben
+                    ist.</p>
+            <p>ich freue mich, daß kein Unfall Dein Stillschweigen veranlaßt hat. Aber Du hast
+                    Dir doch viel Zeit gelaßen.</p>
+            <p>Dein Brief an <persName key="JP-004393">Minna</persName> gehet in einigen
+                    Tagen an sie ab.</p>
+            <p>Jetzt lege ich nur noch eine Assignation des <persName key="JP-002357">Herrn Geheimen Rath Langermann</persName> auf 30 rth Gold bey, wovon 20 rth in der Zinß Berechnung Dir als Bestand gehören, u
+                    10 rth eine Kleinigkeit zum Feste für <persName key="JP-003483">Deine Kinder</persName> sind. Künftig mehr.</p>
+            <closer>
+               <signed>Dein treuer Vater  Mayer</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-002357">Herr g Langermann</persName> hat mir die Anweisung nicht ertheilen
+                        können; daher erfolgt das Geld baar.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

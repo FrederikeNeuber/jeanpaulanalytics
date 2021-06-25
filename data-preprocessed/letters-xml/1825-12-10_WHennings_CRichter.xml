@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0567">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Wilhelm Christoph Hennings an Caroline Richter. Gotha, 10.
+                    Dezember 1825, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001657">Johann Wilhelm Christoph Hennings</persName>
+               <placeName key="JP-005791">Gotha</placeName>
+               <date when="1825-12-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012434">Nachruhm Jean Pauls</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>WohlgeboreneHochzuverehrende Frau Legationsräthin!</salute>
+            </opener>
+            <p>Wenn ich es wage und Sie durch einige Zeilen belästige, so bitte ich um
+                    Verzeihung wenn anders meine Bitte mich nicht selbst entschuldigt –</p>
+            <p>Ich und<persName key="JP-011875">
+                  <persName key="JP-011875">der Dichter Doctor
+                            Döring</persName>
+               </persName> - derselbe so <bibl sameAs="JP-012220" subtype="werk">Schillers</bibl>, <persName key="JP-004710">Wielands</persName>p meisterhafte Biographien  p -
+                    geliefert hat, ist mit der Bearbeitung der <persName key="JP-999999">Ihres
+                        würdigen unsterblichen Gatten</persName> beschäftigt -</p>
+            <p>Dieses veranlaßt mich um die ganz ergebenste Bitte,ob Sie wohl die Gewogenheit hätten und uns aus des Seligen Nachlaße
+                            oder aus dessen Briefwechsel p einiges mittheilen die Güte haben
+                            wollten? Auch frage ich an, ob Sie, Verehrungswürdige Frau, in Besitz
+                            eines guten Portraits sind u. ob Sie mir dieses
+                            auf kurze Zeit zukommen lassen wollen.</p>
+            <p>
+               <bibl sameAs="JP-008304" subtype="werk">Die Biographie</bibl> soll sich durch
+                    höchste Eleganz in gr 4<hi rendition="#uu" hand="#author">°</hi> auf Velin-Papier mitPortrait p auszeichnen.</p>
+            <p>Ich hoffe u. bitte um so mehr um Ihre gütige Erklärung,da ich selbst einiges v. Seligen verlegte und für Ihn stets die ungeheuchelste
+                    Achtung bewarhte.</p>
+            <closer>
+               <salute>Mit aller Hochachtung</salute>
+               <signed>Ihr  gehorsamster Hennings Geheimer LegationsRath  Eigenthümer der Henningsschen
+                             Buchhandlung</signed>
+               <dateline>Gotha den 10. Dbr.
+                        25.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

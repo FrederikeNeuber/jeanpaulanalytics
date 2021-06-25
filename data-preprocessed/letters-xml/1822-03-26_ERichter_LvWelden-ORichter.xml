@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0437">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Luise von Welden und Odilie Richter. Bayreuth, zwischen
+                    26. und 30. März 1822, Dienstag und Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1822-03-26" to="1822-03-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-004659">Luise von Welden</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012728">Abschied</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Siehst Du, liebste beste Moulli, daß ich Wort halte. Die faule <persName key="JP-000818">Fanny</persName>
+                    die ich heute Morgen besuchte, war viel zu bequem Dir zu schreiben, auch nur ein
+                    paar Worte wie ich, denn zu vielen habe ich keine Zeit. Wie ich heute Morgen zu
+                        <persName key="JP-000818">Fanny</persName> um <hi rendition="#uu" hand="#author">¾ 9 Uhr</hi> zu <persName key="JP-000818">Fanny</persName> kam war sie eben den Bett entstiegen, und noch ganz en negligé. Sie ist wieder wol doch hat der zweite
+                    Feuerlärm sie so erschreckt daß sie unwohl wurde und man ihr Thee machen mußte.
+                    Heute Abend kommt sie zu mir und wenn  etwa da  Deine Ohren klingen so wirst Du schon wissen warum,
+                    wenn Du den Brief bekommst. Dein heldenmuthiger <persName key="JP-004654">Bruder</persName> war so hülfreich bein Einreissen des Hauses daß ein
+                    Balken auf seinen Fuß fiel, und er selbst durch die Erschutterung auf die Erde,
+                    doch hat es ihm Gottlob nichts geschadet.</p>
+            <p>Hast Du denn wol in <placeName key="JP-005561">Bamberg</placeName>Deinen Vetter gesehen? Ich vergaß ganz die
+                        <persName key="JP-003469">Mutter</persName> zu fragen ob sie sich dort ein
+                    wenig aufhält.</p>
+            <p>Ich mußte heute Früh <persName key="JP-000818">Fanny</persName> und der
+                            Sixtus noch alle unsere
+                    Nachtbegebenheiten erzählen, sie lassen Dich Beide tausendmal grüßen. Die Briefe
+                    werden recht ärmlich, aber was läßt sich von einigen
+                            Stunden erzählen, zumal durch eine so schläfrige  Erzählerin. Aber Du bist nicht böse, nicht wahr Moulli, ich schreibe blos
+                    damit ihr wißt daß es zu Hause gut und still zugeht, und ihr in keiner Angst
+                    seid. Zu der Brandstätte wallfahrtet jetzt Alles, eine Menge Menschen umgibt sie
+                    noch. Sage doch der <persName key="JP-003469">Mutter</persName> daß ich heute
+                    Vormittag abgeschrieben und daß ich diesen Nachmittag mein Kleid will anfangen
+                    zu nähen. Ich will es überhaupt jetzt so eintheilen, es müßte denn schönes
+                    Wetter und dadurch Spazierengehn mich daran hindern. Jetzt muß ich <persName key="JP-003491">Odilien</persName> auch ein paar Zeilen schreiben. Lebe wol
+                    Herzensmoulli, und nimm ja nicht übel daß ich so schlecht geschrieben.</p>
+            <closer>Ich küsse Dich.<signed>Deine treue Emma  </signed>
+            </closer>
+         </div>
+         <div>
+            <opener>
+               <salute> Liebste beste Diezo!</salute>
+            </opener>
+            <p>Denkst Du jetzt vielleicht auch an mich? Ich habe es heute den ganzen Tag gethan,
+                    an die guten Sachen die Du mir dagelassen haben auch ihren Theil an diesem
+                    Gedenken. Ich habe Dich gar nicht verstanden, und Dir darum gar nicht gedankt
+                    für das Konfekt, aber ich war ordentlich erschrocken daß so viel vor mir sah,
+                    wärst Du noch da gewesen ich hätte gewiß nicht alles genommen. Wie leid thut es
+                    mir daß ich Dir nicht dafür gedankt.</p>
+            <p>Mein Kästchen hast Du auch nicht mitgenommen war das mit Fleiß oder war es
+                    Vergessenheit? Der gute Kümpel grüßt Dich herzlich,
+                    er war heute Vormittag eine halbe Stunde bei mir, es kam mir gar so leer im
+                    Zimmmer vor da nicht einmal Dein Vogel darin
+                            ist. Aber Du solltest das Zimmer sehen Diezo! es
+                    ist prächtig aufgeräumt, und ich werde suchen Dich und <persName key="JP-004659">Luise</persName> in Magnetischen Schlaf zu versetzen damit ihr mein Zimmer
+                    von <placeName key="JP-006422">Würzburg</placeName> aus seht.</p>
+            <p>Hast Du  Dich nicht auch geärgert über den
+                    zurükgelassnen Haferkuchen? Es ist ordentlich als hättet ihr keinen bekommen
+                    sollen, wenn ich die großen Stüke sehe und denke ihr habt nicht davon, so thut
+                    mir ganz wörtlich, das Herz weh.</p>
+            <p> Wie freue ich mich auf euere
+                            Briefe. Uebermorgen können welche da sein wenn die <persName key="JP-003469">Mutter</persName> heute noch schreibt, und dann wird schnell
+                    geantwortet!</p>
+            <p>
+               <persName key="JP-004659">Luise</persName> soll mir verzeihen daß ich an sie und
+                    Dich auf ein Blatt geschrieben, aber da sie die Schwesterrolle spielt, so thu
+                    ichs auch gegen sie und schreibe so.</p>
+            <p>Ich küsse Euch alle drei, und denkt an den guten Willen nicht an die Ausführung,
+                    beim Schreiben der Briefe.</p>
+            <closer>
+               <salute>Adieu Diezo. Sei vergnügt.</salute>
+               <signed>Deine treue Sippe.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

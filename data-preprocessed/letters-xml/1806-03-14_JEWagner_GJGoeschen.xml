@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1048">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen, 14. März 1806,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1806-03-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 14<hi rendition="#uu" hand="#author">n</hi> März. 1806.</dateline>
+               <salute>Hochzuverehrender Herr und Freund!</salute>
+            </opener>
+            <anchor type="target" xml:id="start_o22_y3c_v4b"/>
+            <p>Versprochenermassen übersende ich Ewr. Wohlgeboren hierbey das
+                    MSC. zum 2<hi rendition="#uu" hand="#author">ten</hi> Bande meiner <bibl sameAs="JP-010020" subtype="werk">"reisenden Maler"<anchor type="target" xml:id="stop_o22_y3c_v4b"/>
+               </bibl>,
+                    von dem ich ewig bedauern werde, daß ihm die Beylage
+                            fehlen muß.</p>
+            <p>Hoffentlich haben Sie meinen letztern Brief erhalten, und zu diesem habe ich noch die
+                    Bitte um<table rows="4" cols="2">
+                  <row>
+                     <cell> den März</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell> – Oct.,</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell> – Nov., und</cell>
+                     <cell> des <bibl sameAs="JP-010280" subtype="werk">Journ. für d.
+                                    Frauen</bibl>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> – Dec.</cell>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+            <p>nachzutragen, wenn Sie noch diese 4 Hefte vorräthig haben. Die meinigen sind mir
+                    so sehr beschmuzt worden.</p>
+            <p>Ich wünsche guten Empfang des MSC. und bitte fußfällig um baldigen Druck, damit
+                    das Ganze in der O. Messe erscheinen möge.</p>
+            <closer>
+               <salute>Nächstens mehr. Heute nur mein Lebewohl und die Versicherung, daß ich
+                        stets mit bekannter Treue bin</salute>
+               <signed>Ewr. WohlgeborenganzgehorsamsterDiener JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

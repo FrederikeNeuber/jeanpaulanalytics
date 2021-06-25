@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0312">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Meiningen, 10. September 1802, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-09-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012520">Stimulantien</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>M. d. 10. Sept 1802.</dateline>
+            </opener>
+            <p>Eilig, da ich todt bin vom Briefstellern.</p>
+            <p>Eben wil ich das Paquet an<persName key="JP-003112">Otto</persName>schliessen u. Ihres kömt. Ich habe wieder Freude über Ihre Freude an
+                    meiner; u. so schlägt das schöne Echo ewig hin u. her. Über das <placeName key="JP-011034">Bier</placeName> hat<persName key="JP-003112">Otto</persName>etwas zu sagen. – Im künftigen Jahre zieh ich entschieden Ihrem
+                    Brau- und eignen Hause näher. – <persName key="JP-003469">Meine Frau</persName>
+                    blüht als wäre sie die Blüte, und nicht der Stam derselben. Vielleicht schon im September trägt sie ihre schöne Last schon <hi rendition="#u" hand="#author">am</hi> Herzen.</p>
+            <p> Ich bin Ihnen verdamt viel Geld schuldig u. ich wolte, ich könte es
+                    wie meine meisten Schuldner machen, die mich passen lassen. Ich harre auf Dosen
+                    u. dergleichen, um abzutragen. – Wie der Reichthum furchtsam macht! Wenn ich nur 150 rtl.
+                    im Hause habe: ängstige ich mich vor Zufällen und sorge, daß es nicht lange. Sonst gieng ich mit 150 gr. in
+                        der Tasche kek durch alle Thore und hatte Mitleiden mit armen Teufeln, sagte mir aber, sei
+                    demüthig. – Ihr Gedanke  über Versöhnung in Liebe u in Freundschaft
+                    steht auch in den <bibl sameAs="JP-010648" subtype="werke-jp">Mumien</bibl>. Leben
+                    Sie wohl, lieber Liebender! Gott gebe Ihnen d. h. andern viel Freude!</p>
+            <closer>
+               <signed>R.</signed>
+            </closer>
+            <postscript>
+               <p>N. S.<persName key="JP-003118">Christ.</persName> Schenkung ist ja nur ein ¼;
+                        die ¾ gehören den andern? Auch  das Lob auf ihn
+                            ist Verwechslung. – Finden nicht viele die <placeName key="JP-006166">preuss</placeName>. Feder-Eroberungen unrechtmässig,
+                        hingegen die <placeName key="JP-011308">gallischen Degen-Eroberungen</placeName> recht?
+                        Und doch ergänzt dort die Feder den
+                        Degen, und hier der Degen die Feder. Ich bin mit diesem <placeName key="JP-011720">westphälischen Frieden</placeName> ganz zufrieden. Ist
+                        einmal Krieg nöthig (d. h. ein Staaten-Laster) so ist der friedliche mir der liebste. – Als ich den Brief an die <persName key="JP-004756">Postmeisterin</persName> schrieb, waren warlich noch schöne und dumme Zeiten.
+                        Das Dumme hass' ich jezt bitter und mich dazu.</p>
+            </postscript>
+         </div>
+         <div hand="#JP-003469">
+            <opener>
+               <salute> Lieber lieber Emanuel,</salute>
+            </opener>
+            <p>Wenn das Verlangen nach einem Briefe von Ihnen <persName key="JP-999999">meinen
+                        Mann</persName> überfiel, dachte ich an meine Schuld, dachte an sie, u
+                    machte sie nicht wieder gut – aber jezt verzeih ich mir selbst leichter, weil
+                    meine Sorgen für die Zukunft wirklich recht dringend sind, und ich nun einmal so
+                    eigensinnig bin, alles was ich für <persName key="JP-003471">unser liebes
+                        Wesen</persName> bedarf selbst zu arbeiten, so sehr <persName key="JP-999999">mein Mann</persName> mich zu fremder Hülfe treibt. Ich lebe
+                    jezt blos dafür u bin unaussprechlich glüklich.</p>
+            <p>Wie gern schike ich Ihnen <persName key="JP-999999">den besten
+                        Menschen</persName> nach<placeName key="JP-005649">Coburg</placeName>zu, u verlange nicht das seelige Wiederfinden mit zu feiern, aber <hi rendition="#u" hand="#author">Sie müßen</hi> kommen, wenn <hi rendition="#u" hand="#author">er</hi> kömmt. <persName key="JP-001601">Heims</persName> führen ihn vielleicht dorthin sie werden
+                    das original des lieblichen Bildes in La besuchen.</p>
+            <p>Gute Nacht, Emanuel – ich gehe wieder zur Arbeit – ich laße waschen u s.
+                    w. Denken Sie an mich mit Liebe, ich schreibe bald – Die <persName key="JP-003964">Schwendler</persName> hat ein <persName key="JP-003971">gesundes Kind</persName>, ein Mädchen; Richter ist Montag
+                        Gevatter!<persName key="JP-001605">Luise Heim</persName>ist wohl u glüklich. Gute Nacht!</p>
+            <closer>
+               <signed>Caroline</signed>
+            </closer>
+         </div>
+         <div hand="#JP-999999">
+            <p>Schwerlich komm' ich jezt nach<placeName key="JP-005649">Coburg</placeName>wegen Sorge u. Hofnung über meine<persName key="JP-003469">C.</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

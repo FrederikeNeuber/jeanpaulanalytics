@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1095">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Heinrich Voß an Christian Freiherr Truchseß von Wetzhausen. Heidelberg,
+                    20. März 1811, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004520">Heinrich Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1811-03-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg, 20. März 1811.</dateline>
+            </opener>
+            <p>Endlich kann ich die Zeit bestimmen, wo ich Dich wiedersehen soll, Du Herrlicher!
+                    Den 25. März reise ich von hier nach <placeName key="JP-006422">Würzburg</placeName>. Ob es von da nach <placeName key="JP-006270">Schweinfurt</placeName>, oder erst nach <placeName key="JP-006012">Meiningen</placeName> gehn soll, ist noch unentschieden. Ich habe eine
+                    große Sehnsucht, <persName key="JP-004556">Ernst Wagner</persName> kennen zu
+                    lernen, zumal da ich weiß, ich werde ihm willkommen sein. Sind wir doch in Einem
+                    Stücke, in der Liebe zu unserm Truchseß, völlig eins, und so werden wir’s ja
+                    auch in anderen sein. Wann ich unter diesen Umständen
+                            auf der <placeName key="JP-005591">Bettenburg</placeName> anlange, weißt
+                            Du wol besser als ich.</p>
+            <p>Dank für Deine Warnung. Nein, ich will gewiß nicht zu viel arbeiten. Das will ich
+                    Dir mit Kuß und Handschlag versprechen. Ach! ich habe nur zu viel in meinem
+                    Leben unthätig sein müssen! Ganze Jahre sind mir schon durch Krankheit geraubt
+                    worden.</p>
+            <closer>
+               <salute>Deinen Brief kann ich heute nicht beantworten.
+                        Ich bin zu unruhig dazu. Lebe wohl, Du theurer Truchseß. In kurzer Zeit bin
+                        ich bei Dir.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0393">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm und Henriette Mayer an Caroline Richter. Berlin,
+                    9. August 1819, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1819-08-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012440">Fahrzeuge</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-002703">
+            <opener>
+               <dateline>Berlin d. 9. August
+                        19.</dateline>
+               <salute>Meine innigst geliebte Caroline!</salute>
+            </opener>
+            <p>ich melde Dir, daß wir am 1.tenAugust hier wieder glücklich, und wenigstens, innerlich gesund
+                            angelangt sind. Selbst die Folgen eines Unfalls, der uns kurtz vor unsrer Ankunft in <placeName key="JP-006162">Potsdam</placeName> betraf, und der in einer andern felsigten Gegend sehr übel hätte ablaufen
+                    können, ist von der Vorsehung so glüklich geleitet worden, daß wir ohne
+                    körperlichen Schaden davon gekommen sind. Unser Wagen brach nehmlich, und mußte
+                    mit Stökken so weit in Stand gesetzt werden, daß <persName key="JP-002709">meine
+                        Frau</persName> sicher nach <placeName key="JP-006162">Potsdam</placeName> fahren konnte, nachdem mich ein fremder Reise Wagen besonders aufgeladen,
+                    u nach <placeName key="JP-006162">Potsdam</placeName> gebracht hatte. – Jetzt laben wir uns  an den angenehmen
+                    Erinnerungen der mit Deinem so hertzlich gefundenen <persName key="JP-003475">Mann</persName>, mit Dir u mit <persName key="JP-003483">Deinen so lieben
+                        Kindern</persName> zugebrachten Stunden, und freuen uns der Zukunft, die uns
+                    nach dem Versprechen <persName key="JP-999999">Deines lieben Mannes</persName>
+                    wieder vereinigen soll.</p>
+            <p>Übrigens beziehe ich mich auf das inliegende Schreiben <persName key="JP-002709">meiner Frau</persName>, welches Dir besonders über unsern Aufenthalt in <placeName key="JP-005948">Leipzig</placeName> Nachricht geben wird, wo wir gantz dem Andenken unserer guten <persName key="JP-002581">Ernestine</persName> gelebt haben. Mein Befinden ist genau so, wie ich es mir auf dem hiesigen Stein Pflaster dachte. ich
+                    bin gelähmter als jemals; u zu einer sehr kostbaren existentz verdammt.</p>
+            <p> Übrigens wünschte ich, daß Du mir die letzte Dir übersandte u bezahlte Zinß Rechnung abschriftlich übersenden möchtest, um diese Sache auch für die Folge in
+                    Ordnung zu bringen. Noch bitte ich Dich uns Deinen <placeName key="JP-005574">Bayreuther</placeName> Freunden besonders der <persName key="JP-003117">Ottoschen</persName> u <persName key="JP-003089">Emanuelschen Familie</persName> zu empfehlen, auch
+                    die <persName key="JP-003561">Frau Rollwetzeln</persName> (so hieß, wo ich nicht  irre, die freundliche  Besitzerin eines  von Deinem lieben <persName key="JP-999999">Mann</persName> täglich
+                    besuchten <placeName key="JP-011072">Gartens</placeName>) hertzlich zu
+                        grüßenauch von seiner Frau, besonders
+                    aber auch den in der Gesellschaft bey ihr anwesenden Herr Prediger,
+                    deßen Nahme mir entfallen
+                    ist.</p>
+            <closer>
+               <salute>Verzeihe übrigens, daß ich für heute abbreche</salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+         </div>
+         <div hand="#JP-002709">
+            <p>ich mögte Dich, liebe Caroline, nicht gern länger auf
+                    diesen Brief Deines Vaters warten laßen, und doch wird es mir heute schwer zu
+                    schreiben; nur so viel, daß wir, bis auf den Unfall mit dem Wagen, deßen <persName key="JP-002703">Mayer</persName> erwähnt, ganz glücklich die Herreise gemacht haben.</p>
+            <p> Wir kahmen Donnerstag
+                        den 29. in <placeName key="JP-005948">Leipzig</placeName> an, blieben
+                    den ganzen Freitag da; wir
+                    besuchten den dortigen <placeName key="JP-012892">Kirchhof</placeName>. mit Hülfe des Todtengräber
+                    fanden wir das Grab der seeligen <persName key="JP-002581">Ernestine</persName>
+                    das durch 4 Accacien bezeichnet ist; auch das Grab
+                    Deiner seeligen <persName key="JP-002711">Mutter</persName> ließ sich Mayer zeigen. Daß wir übrigens auf der Reise von nichts
+                    anders beinah sprachen als von <persName key="JP-003482">Euch</persName> Ihr
+                    Lieben, wirst Du ohne meine Versicherung glauben und wir haben noch lange Freude
+                    in Vorrath durch unser Zusammensein mit Euch,, Ihr Lieben..</p>
+            <p>Ist der <hi rendition="#u" hand="#author">Ponto</hi>
+               <persName key="JP-999999">Deines Mannes</persName> noch würklich bei Euch? ich
+                    weiß nicht was ich davon glauben soll. ich habe mich hier sogleich nach seinem
+                        representanten erkundigt. Dessen Papiere sind
+                    versiegelt, er selbst ist in der <placeName key="JP-006271">Schweitz</placeName>, und auf die Gesichter der Befragten konnte ich nicht
+                    recht lesen ob man ihn für schuldig hielt oder nicht.</p>
+            <p> Du hast mir versprochen Deine wenigen Aufträge noch schriftlich zu
+                    wiederhohlen, und darum bitte ich, um mein Hasengedächtniß zür Hülfe zu kommen.
+                    Was machen <persName key="JP-003483">Deine geliebten Kinder</persName>, Du
+                    Beneidenswerthe! ich küße sie in Gedanken und auch Dich und <persName key="JP-999999">Deinen Mann</persName>; <persName key="JP-004103">Ema Spazier</persName>, ohne an irgend Jemand vorher zuschreiben, ist hier mit der ordinairen Post angekommen,
+                                <placeName key="JP-012811">in unserer vorigen
+                                Wohnung</placeName> abgestiegen, und nachdem sie <placeName key="JP-012914">die neue</placeName> ausgefragt, ganz
+                            verwundert gewesen unsere Abwesenheit zu vernehmen. Aus ihrer wirklich großen Verlegenheit,  denn sie hätte im Wirtshause wohnen müßen, hat sie
+                        <persName key="JP-012253">meine Schwester</persName> gezogen bei der
+                    sie 14 Tage logirt hat. Jetzt ist sie in <placeName key="JP-005687">Dresden</placeName>.</p>
+            <p>ich wünsche einen sanften Übergang!</p>
+            <p>Von <persName key="JP-004106">Julius</persName> haben wir gar keine Nachricht</p>
+            <closer>
+               <salute>Leb wohl geliebte Freundinn, erfreue uns bald mit einem Brief.</salute>
+               <signed>H. Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

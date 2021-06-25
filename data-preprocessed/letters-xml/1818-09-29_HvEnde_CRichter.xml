@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0272">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Landshut und München, 29.
+                    September und 5. Oktober 1818, Dienstag und Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005936">Landshut</placeName>
+               <placeName key="JP-006040">München</placeName>
+               <date from="1818-09-29" to="1818-10-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011807">Jean Paul-Verehrung</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Landshut den 29. Sept. 1818.</dateline>
+            </opener>
+            <p>Indem ich, verehrte Freundin, diesen Brief hier anfange, um ihn in <placeName key="JP-006040">München</placeName> zu
+                    schließen, denke ich gar nicht weit an Sie,<persName key="JP-999999"> Ihren
+                        lieben Mann</persName> und <persName key="JP-003483">lieben
+                        Kinder</persName> zurück, denn sehr lebendig
+                            vergegenwärtiget waren Sie alle mit mir auf der Reise, in fortwährender Entfaltung und
+                            Wiederholung der gar lieben Stunden die Sie uns schenkten
+                    und für welche <persName key="JP-000949">mein Sohn</persName> und ich, Ihnen
+                    beyderseits den innigsten Dank sagen; oft fällt mir dies oder jenes ein, was ich
+                        <persName key="JP-999999">Ihren lieben Mann</persName> noch hätte sagen
+                        oder anders sagen
+                    mögen und da denke ich mir, was er darauf wohl geantwortet hätte, nehmlich nach
+                    dem weiten und so schönen Felde seiner mir zu meiner großen Freude schon
+                    bekannten Denkungsart; freylich kann ich nur letztere mir selbst hervorrufen,
+                    sein unvergleichlicher Geist den kann man nicht vorgreifen; sehr freue ich mich,
+                    den 4.ten Band des <bibl sameAs="JP-010897" subtype="werke-jp">Titan</bibl> zu lesen, allein <persName key="JP-999999">Jean Paul </persName>selbst
+                    lese ich doch unendlich lieber, so sehr ich auch den kürzern zu ziehen schien,
+                    als <persName key="JP-999999">Ihr lieber Mann</persName>, mit angeborner
+                    Ueberlegenheit, meine Behauptung anfocht. Daß ich den
+                    lieben <persName key="JP-003490">Max</persName> gesehen
+                    und auch nicht gesehen habe, thut mir unendlich leid, gesehen nehmlich höchst
+                    wahrscheinlich im schnellen vorbeyfahren, wo der Anblick von drey Jünglingen
+                    unter denen er seyn konnte, obgleich nach seinen letzten Nachrichten er noch in
+                        <placeName key="JP-006179">Regensburg</placeName> war, meine Blicke spähend richtete, jedoch ohne daß ich<persName key="JP-003490">ihn</persName> darunter zu erkennen vermochte. In <placeName key="JP-006179">Regensburg</placeName>
+                    schickte ich sogleich in die Lilie, erfuhr aber
+                    leider seine Abreise, sagen Sie <persName key="JP-003490">ihm</persName> doch
+                    ja, wie leid es mir thut, <persName key="JP-003490">ihn</persName> verfehlt zu
+                        haben. Hier schicke ich mit tausendfachen Dank, die mitgetheilten Briefe zurück, die
+                    mich unendlich intereßiert haben. <persName key="JP-004520">Voss</persName>ens Schilderungen sind einzig, es war mir, als sey
+                    ich bey Allem was er beschreibt gegenwärtig gewesen, auch seine Worte über die
+                        <persName key="JP-003839">Schopenhauer</persName>,
+                    die ich kenne, sind ganz treffend und ich weiß ihm Dank, daß er meinem Gefühl
+                    über <persName key="JP-003839">ihr</persName>, Worte gab durch den höchst
+                    paßenden Ausdruck "bis zur Verzertheit affectirt und das unter der Miene der Natürlichkeit" es
+                    ist mir wirklich lieb, in diesen Worten die Auflösung meines Gefühls über
+                        <persName key="JP-003839">diese Frau</persName> gefunden zu haben, denn
+                    unausstehlich war mir ihre affectation und dann dachte ich wieder, sie ist ja auch
+                    natürlich und doch war mir ihre Natürlichkeit so reizlos. Auch der Brief <persName key="JP-004516">der alten
+                                    Voss</persName> hat mich gefreut, er hat viel
+                        Gemüthliches. In <placeName key="JP-006179">Regensburg</placeName>, wo wir den gestrigen Tag
+                    zubrachten und am Ufer der <placeName key="JP-005682">Donau</placeName> wohnten, gedachte ich recht viel zu schreiben,
+                    allein unser gemeinschaftliches Lieblings-Element, wie wir in <placeName key="JP-005574">Baireuth</placeName> uns
+                    darüber besprachen, das Wohlwollen, kam und änderte meinen Plan; <persName key="JP-000949">mein Sohn</persName> suchte <placeName key="JP-005819">Heidelberger</placeName> Universitätsfreunde, die Söhne des Herrnv. Herfeld auf, von welchen
+                    aber nur einer gegenwärtig war, dieser, nachdem er uns im <placeName key="JP-011625">Dom</placeName> und um die Stadt
+                    herumgeführt hatte und dann wieder meinen  <persName key="JP-000949">Sohn</persName> abholte um ihn nach Stauffen zu führen, brachte mir die freundlichste
+                    Einladung <persName key="JP-012848">seiner Mutter</persName>,  (die mir ganz unbekannt
+                    war), mit ihr nach <placeName key="JP-006167">Prüflingen</placeName> zu fahren und dann mit <persName key="JP-000949">meinen Sohn</persName> in ihrem Hause Thé zu trinken und so verbrachten wir in einer zahlreichen, angenehmen
+                    Familie, deren existenz bis auf die beyden Söhne, uns
+                    zuvor unbekannt war, eine heitere Zeit und trennten uns wie alte Bekannte. In <placeName key="JP-006265">Schwandorf</placeName>, wo wir vorgestern Pferde wechselten, hatte
+                    sich eben ein seltsames Unglück zugetragen, deßen Eindruck die Bewohner stark
+                    ergriffen hatte; in der Kirche auf den
+                            Berge war Wallfarth und ungeheure
+                    Volksmenge; eine alte Frau ängstigt sich in dem Gedränge und schreit Feuer,
+                    dieses Wort sogleich von unzähligen Zungen wiederholt, bringt die ganze
+                    Versammlung in namenlose Verwirrung, alles will zugleich fort, auf die zu Boden Stürzenden, treten die Fliehenden, natürlich erfolgen tödliche
+                    Beschädigungen; ein Paar Menschen kommen dem Rade nah, Aerme und Beine werden
+                    gebrochen, der Magd im Posthaus war auf das Herz getreten worden und sie war in
+                    einen sehr gefährlichen Zustand; nun hieß es, von Mund zu Mund, der böse Feind
+                    habe dies gemacht; der Prediger auf der Canzel hatte vergebens zur Ruhe
+                    vermahnt, draußen schlug das  zur Feyer des Festes aufgestellte Bürger-Militär mit Stöcken in die tobende
+                    Menge und nun am Ende kamen Aerzte
+                    und ließen den Beschädigten zur Ader; der Spectakel soll der Beschreibung nach
+                    unbändig gewesen  seyn. <placeName key="JP-006040">München</placeName> den 5.ten October. Bis heute verspätete sich die Vollendung
+                    dieses Briefes; dadurch kann ich noch um so mehr hinzufügen und auch von der
+                    Gelegenheit profitiren welche <persName key="JP-002482">Fr. v. Lochner</persName> durch die
+                    zurückreisenden <placeName key="JP-005574">Baireuther</placeName> Damen, zu Abschickung dieses Briefes, mir
+                    bekannt gemacht hat. Vor allen Dingen nun, den Ausdruck
+                    meines herzlichen Dankes für alle frohe Stunden die ich und <persName key="JP-000949">mein Sohn</persName> Ihrem und <persName key="JP-999999">Ihres lieben Mannes</persName> Wohlwollen gegen uns zu verdanken haben und
+                    wodurch <persName key="JP-002482">Fr. v.
+                        Lochner</persName> und ihre
+                            Töchter
+                    und ihr Schwiegersohn uns mit außerordentlicher Güte empfingen und
+                    jede Gelegenheit ergriffen unsern Aufenthalt angenehm zu machen; ihnen verdanken
+                    wir die heitersten Augenblicke die wir hier verlebten und dieser Genuß wurde
+                    erhöht durch die Freude daß Sie Beyderseits die Urheber davon waren. <persName key="JP-999999">Ihren lieben Mann</persName> habe ich  auch noch besonders, außer seinen
+                    Geiste, hier begegnet, nehmlich seine Büste in den Zimmern der <persName key="JP-000584">Königin</persName> und darüber nebst<persName key="JP-000949"> meinem Sohn</persName> große Freude gehabt. In <placeName key="JP-005758">Freysingen</placeName> haben wir <persName key="JP-003872">Fr. v. Schubert</persName> besucht, sie freute sich
+                    sehr Nachricht von Ihnen zu bekommen. In <placeName key="JP-005936">Landshut</placeName> hat
+                    Ihrem gütigen Rath zu Folge, mein Sohn, den <persName key="JP-004583">D. Walter</persName> wegen seiner Augen befragt, er
+                    verordnete ein Waßer und Verhaltungsregeln und bey Schonung der Augen, diesen
+                    Winter hindurch gab er gute Hoffnung zur gänzlichen Heilung; er erklärte das
+                    Mittel des Alauns mit Eyweiß für nachtheilig, so wie
+                    auch die Schirme über das Licht, statt ihrer solle man einen Schirm über die
+                    Augen befestigen; ich setze dieses hier hinzu, da es in Ihrem lieben Hause, oder
+                    sonst von Nutzen seyn könnte<persName key="JP-002482"> Fr.
+                            v. Lochner</persName> hat ein wahrhaft
+                    verklärtes Gemüth <persName key="JP-002483">ihre Töchter</persName> hier viel
+                    Liebenswürdigkeit u. <persName key="JP-002601">ihr Schwiegersohn</persName> eine
+                    sehr angenehme Lebendigkeit des Geistes, so erschienen mir diese sehr
+                    intereßanten Personen. Daß wir</p>
+            <p>hier emsig Sehenswürdigkeiten besuchten,
+                        sage ich Ihnen nicht ausführlich. Morgen gedenken wir,
+                        so Gott will, nach <placeName key="JP-006230">Salzburg</placeName> abzureisen, dann nach <placeName key="JP-005861">Inspruck</placeName> und <placeName key="JP-006367">Venedig</placeName>.
+                        Nochmals tausend herzliche Empfelungen von <persName key="JP-000949">meinem
+                            Sohn</persName> an Sie, theure Freundin, und von uns beyden an Ihren von
+                        uns so innig verehrten lieben <persName key="JP-999999">Mann</persName>. Tausend Schönes an <persName key="JP-003483">Ihre lieben Kinder</persName>. Erhalten Sie mir Ihre
+                        Liebe und Freundschaft. So Gott will, schreibe ich Ihnen wieder. Ganz dieIhrige. Ende.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

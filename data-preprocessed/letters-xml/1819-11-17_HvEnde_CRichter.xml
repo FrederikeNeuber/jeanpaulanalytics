@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0743">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Leipzig, 17. November 1819,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1819-11-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Noch ehe mein Brief, liebe Freundin, bey Ihnen angekommen seyn wird, erfahre ich,
+                    daß das, wozu ich Ihnen Glück wünschte, nicht mehr in Ihrem Besitz ist und daß Sie
+                        den Schmerz erfahren haben, <persName key="JP-002703">Ihren lieben <persName key="JP-002703">Herrn
+                                    Vater</persName>
+               </persName> zu verlieren. Ich eile in dem
+                    nehmlichen Gefühl jener Theilnahme, Ihnen zu sagen, wie eben so herzlich, aber
+                    nun wehmütig, ich mich jetzt an Ihre Stelle setze und Ihren Kummer empfinde, mit
+                    gewiß recht aufrichtigen Bedauern: Gott helfe Ihnen denselben tragen  und bald und leicht in Ihrem Herzen, bey fortdauerndgeweiheten Andenken des
+                    theuern Verstorbenen, überstimmt werden, durch das Glück, von <persName key="JP-999999">geliebten Mann</persName> und <persName key="JP-003483">Kindern</persName> sich umgeben zu sehen, wodurch der Sehnsucht, nach dem
+                    Verlornen, reiche Fülle entgegenfließt, wenn gleich Ihr jetzt tief verwundetes
+                    kindliches Herz die traurigen Beziehungen am meisten fühlt. Es thut mir so leid,
+                    nur schriftlich mich Ihnen bey dieser ergreiffenden Gelegenheit nähern zu
+                    können, es tröstet mich aber, Sie von so viel nahen Lieben und Freundinnen,
+                    umgeben zu wißen die gewiß alles aufbieten werden, um Ihr so tief als fein
+                    fühlendes Herz wieder aufzurichten. Wie viel mehr würde
+                    Ihr Schmerz sehnsüchtig seyn, wenn Sie <persName key="JP-002703">den lieben
+                        Vater</persName>, nicht noch in diesem Jahr gesehen und daher noch beynah so
+                    spät als möglich, den süßen Austausch der  Liebe zu und von ihm
+                    genoßen hätten; dies erfüllt nun im Andenken, alle Zeit des Nichtgesehenhabens
+                    bis dahin und ist ein schöner Schlußstein im innigen Verhältniß, in dem Sie zu
+                    ihm standen; jetzt erhebt sich daßelbe in's Unsichtbare, und wird noch
+                    heiliger.</p>
+            <p>
+               <persName key="JP-000949">Mein Sohn</persName> trägt mir auf, Ihnen die
+                    Versicherungen seiner aufrichtigen Theilnahme darzubringen, wir beyde empfelen
+                    uns <persName key="JP-999999">Ihrem lieben Mann</persName> und <persName key="JP-003483">lieben Kindern</persName>, auf's herzlichste.</p>
+            <p>Es wird mir schwer, Ihnen nun ein Lebewohl zu sagen, daß ich nicht so wiederholen
+                    kann, als wenn ich mit Ihnen an einem Ort wäre. </p>
+            <p>Mit aufrichtiger Liebe und Freundschaft stets die Ihrige</p>
+            <p>HEnde.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

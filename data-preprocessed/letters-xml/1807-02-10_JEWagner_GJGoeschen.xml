@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1055">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen, 10. Februar
+                    1807, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1807-02-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 10<hi rendition="#uu" hand="#author">n</hi>Febr. 1807.</dateline>
+            </opener>
+            <p>Werthester Freund! Ein blosses Versehen ist Schuld, daß ich <bibl sameAs="JP-010280" subtype="werk">das Frauen-Journal</bibl> für <persName key="JP-002546">meine
+                            Serenissima</persName> nicht bestellt habe. Ich
+                    bekam doch 2 Exemplare von Ihnen. Das eine
+                    senden Sie ferner an mich, für die <persName key="JP-002546">Hzg</persName>. – Das zweyte habe ich auf Bitte einem
+                    Freunde abgegeben, der es aber auch bereits bey Ihrer
+                    Expedition bestellt hat. – Ich hoffe indessen, daß dieses schöne Büchlein ferner
+                    fortgesetzt wird, welches nunmehr schon entschieden
+                            seyn muß,
+                    und werde, sobald ich das erste Heft erhalte, das Geld sogleich übermachen.</p>
+            <p>Ach Gott, ich lese freylich keine guten Nachrichten von
+                                <placeName key="JP-005948">Leipzig</placeName>. Der
+                    Himmel helfe Ihnen, bester Mann, und mir! Mein Verleger ist <persName key="JP-001518">Hanisch</persName> wieder geworden! Gott helfe auch ihm – die Zeiten sind
+                    verdrießlich! Ich wollte, es wäre Frühling und ich wieder bey meinen Aurikeln
+                    und Primeln im warmen trocknen Garten. – Bleiben Sie gesund mit den lieben
+                    Ihrigen. Mein Übel hat wieder etwas zugenommen.</p>
+            <closer>
+               <signed>Ihrtreuer JEWagner</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

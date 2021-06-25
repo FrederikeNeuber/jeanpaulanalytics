@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0490">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Freiberg, 19. Juli
+                    1802, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005754">Freiberg in Sachsen</placeName>
+               <date when="1802-07-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012212">Liebesleben / Ehe</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Freiberg. den 19ten July 1802.</dateline>
+            </opener>
+            <p>Mein theurer unaussprechlich geliebter Vater, ich schreibe Ihnen diese Zeilen
+                        am Tage<hi rendition="#u" hand="#author">vor</hi>ihren Geburtstag, aber eigentlich <hi rendition="#u" hand="#author">für</hi> diesen Tag. – Werden sie gleich erst
+                    später ihr Ziel erreichen, so müßen sich unsre Seelen doch <hi rendition="#u" hand="#author">früher</hi> begegnet seyn – denn die Meinige wird
+                    Sie bey dem Aufgehen dieses feyerlich-schönen Morgens umschweben – und alle
+                    meine Wünsche – die Sie kennen – und mein Gebet! – Ich
+                    habe eine Kleinigkeit für Sie gearbeitet; eine große <hi rendition="#u" hand="#author">Kleinigkeit</hi>, mein theurer Vater! – Wird
+                    Ihnen das Hemdchen, wohl Spaß machen? Werden Sie mir zum Andenken und zur Liebe
+                    – vielleicht es tragen?</p>
+            <p>Ihren Brief, auf den ich mit
+                    einem bangen Gefühl der Erwartung harrte, habe ich erhalten! Mit Wehmuth sah ich
+                    mich getäuscht – denn ich hieng schon, wie an einem meiner liebsten Wünsche, an
+                    Ihrem Wunsch und Plan, und ich sehe ein, daß er nicht in Erfüllung gehen <hi rendition="#u" hand="#author">kann</hi>.  Ihr Blick irrt nun wieder umher, einen Gegenstand zu finden, auf welchen er <hi rendition="#u" hand="#author">ruhen</hi> möchte. Wollte doch der
+                    Himmel Ihnen einen zuführen der dieses Blicks ganz würdig ist.</p>
+            <p>
+               <anchor type="target" xml:id="start_qn3_44t_ymb"/>Sie nennen mir die<persName key="JP-002709">Cäsar</persName>, – keine <hi rendition="#u" hand="#author">Schwester</hi>, sonderneine <hi rendition="#u" hand="#author">Niece</hi>der <persName key="JP-000712">Mad. Cray</persName>.
+                    Diese ist mir von allen ihren Schwestern
+                    die fremdeste. Ich sah sie nie; hörte aber immer  mit ausgezeichneter Achtung von ihr sprechen, und
+                    es wäre also wohl möglich daß sie den Charackter ihrer Familie nicht an sich
+                        trüge.<anchor type="target" xml:id="stop_qn3_44t_ymb"/> Das dritte Wesen, über welches Sie den Schleyer des Geheimnißes ziehen,
+                    errathe ich nicht! – Ich fiel auf die<persName key="JP-012283">Eichmannsche Tochter</persName> – doch, sie sagten
+                    in <placeName key="JP-005687">Dresden</placeName>, daß sie <persName key="JP-012757">ihre verheirathete Schwester</persName>nach <placeName key="JP-006316">Südpreußen</placeName>
+                            begleite.Sagen Sie mir immer, liebster Vater, wer das Wesen ist? –</p>
+            <p>Der Brief von <persName key="JP-003469">Caroline</persName> hat sehr unangenehm auf mich
+                            gewürckt. Schongleich nach  meiner Ankunft hier, schrieb ich an sie,
+                    und so weitläuftig und ausführlich von unsrer Reise und unserm unerwartetem
+                    Zusammentreffen mit Ihnen; daß ich wircklich glauben muß, sie zürnt im Ernst auf
+                    mich – da ich noch keine Zeile seitdem von ihr gesehen habe. Ich denke aber
+                    auch, daßihr Aufenthalt in<placeName key="JP-006395">Weimar</placeName> sie zu sehr
+                    zerstreut – und will ihr nächstens noch einmal schreiben.Im vorigen Briefefrug ich sie ob wir noch darauf rechnen
+                    dürften, sie noch in diesem Jahre in<placeName key="JP-005948">L.</placeName> zu sehen, und machte es ihr
+                    wahrscheinlich – daß auch Sie, liebster Vater, sich vielleicht dazu würden berreden laßen! <ref target="JP-UB0362/#np43_zfd_ymb">Denken Sie sich, daß ich so glücklich
+                        war von hier aus eine Fahrt nach <placeName key="JP-005687">Dresden</placeName> zu machen.</ref> Wenn gleich nur wenige Tage darauf
+                    verwandt werden konnten, war es doch ein hoher Genuß – weil die Erinnerung die Gegenwart noch verschönerte! Auch auf
+                    einer andern Seite des sächsischen Paradieses war ich, in einem Städtchen,<placeName key="JP-012534">Frankenberg</placeName> genannt –
+                    welches eine zauberrische Lage hat; aber nur einen einzigen Tag!  Alle
+                    diese Freuden habe ich einer lieben
+                            Bekanntschaft zu verdanken, welche mir der Himmel in <placeName key="JP-005754">Freiberg</placeName> zuführte. <anchor type="target" xml:id="start_wrs_wdg_gjb"/>Dies weibliche Wesen werden Sie auch kennen
+                    lernen – denn es ist eine <placeName key="JP-005931">Curländerin</placeName>
+                    welche nach ihrem <placeName key="JP-005931">Vaterlande</placeName> über
+                        <placeName key="JP-005586">Berlin</placeName> zurückkehrt<anchor type="target" xml:id="stop_wrs_wdg_gjb"/> – nach dem sie hiereinen geliebten Manne nach einem Jahre
+                    ihrer Verbindung mit ihm, <hi rendition="#u" hand="#author">begraben</hi> ließ! – Sie ist dort eine neue Verbindung eingegangen, und
+                    nimt da sie <placeName key="JP-005668">Deutschland</placeName>das ihr sehr lieb ist
+                    wahrscheinlich für immer verläßt – noch von jeder schönen Gegend feyerlich
+                    Abschied. Dies die Veranlaßung der kleinen Reisen. Sie hält sich bey ihrer
+                    Durchreise einige Tage in <placeName key="JP-005586">Berlin</placeName> auf –
+                    und wird Ihnen dann einen Brief von mir bringen –
+                    weil sie Ihre Bekanntschaft zu machen wünscht. – Auch die<hi rendition="#u" hand="#author">
+                  <persName key="JP-012771">May</persName>
+               </hi> wird sie aufsuchen. Denn sie kennt den
+                        <persName key="JP-012975">Bruder der May</persName> sehr genau. <hi rendition="#u" hand="#author">Ihm</hi> verdankt sie ihre ganze geistige Bildung, und schäzt
+                    ihn unendlich. Wollen Sie <persName key="JP-012771">die May</persName> immer auf diese intereßante Bekanntschaft
+                    präpariren, so  nennen
+                    Sie ihr den Namen Baumbach. Gewiß kennt sie die Familie welche so heißt
+                    und in welcher ihr Bruder viele Jahre lebte! Das Ende meines Blattes, erinnert
+                    mich daß ich zu weitläuftig gewesen bin!</p>
+            <closer>Leben Sie wohl mein theurer Vater, der
+                        Himmel sey mit Ihnen, und laßen Sie bald wieder etwas von sich hören Ihrer
+                        treuen Tochter Ernestine.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

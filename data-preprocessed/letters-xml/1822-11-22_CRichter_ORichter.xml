@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0756">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 22. November 1822, Freitag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-11-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">B. den 22<hi rendition="#uu" hand="#author">ten</hi>Nov. Sontags</hi>
+               </dateline>
+               <salute>Geliebtes bestes Kind!</salute>
+            </opener>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0190/#start_g2c_1q3_qlb">Deine Backe ängstigt mich entsezlich.</ref> Warum mußte ich gerade da nicht
+                    bei Dir sein, wo ich Dir wohlthun konnte. Meine arme Odilie wie magst Du gelitten haben! Du schreibst es sei ein Geschwür
+                    aufgegangen, aber nicht ob nach Außen oder nach Innen. Ersteres wird doch nicht
+                    der Fall sein? Du würdest dann mit einer langen Wunde zu thun haben. Schreib mir
+                    es doch ja gleich wie es jetzt ist. Daß die verständige <persName key="JP-003031">Auguste</persName>
+               <persName key="JP-012275">Durouf</persName> hat
+                    kommen lassen, dafür doch ihr doch recht sehr, es war sehr gut, daß überhaupt
+                    ein Arzt geholt wurde, der doch gleich den ganzen Zustand erkannte. Freilich
+                    hast Du in Deiner Kur Einhalt thun müssen, aber vielleicht hast Du doch das <hi rendition="#u" hand="#author">Liegen nicht</hi> zu unterbrechen
+                    gebraucht, da ich das für das Gesündeste und Beste halte. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0190/#start_h4d_qq3_qlb">Wenn Du, was
+                        mich sehr freut der guten <persName key="JP-003031">Auguste</persName> bei den Puppen hilfst</ref> so sei es nur
+                    im Liegen. Bleibe deswegen ja nicht länger auf, als es die eigentlichen Gesetze
+                    der Kur wollen, ich weiß zwar, daß  Du zu vernünftig denkst, als
+                    irgend einer Freude Deine Pflicht aufzuopfern, aber ich weiß auch, daß der
+                    Wunsch für Anderer Vergnügen thätig zu sein, Dich jene Pflicht vergessen machen
+                    kann. Daher bitte ich Dich mein Kind, diese noch übrige Zeit Deines dortigen
+                    Aufenthalts nicht durch muthwillige Vernachlässigung Deiner körperlichen Pflege
+                    zu-verkürzen, sonst hätte ich Dich ja mitnehmen können. Denke an Deine Eltern, an ihre großen Opfer, wenn Du Dich auch selbst
+                    vergessen wolltest. Thue alles für die Andern, <hi rendition="#u" hand="#author">indem Du auf Deinem Bette liegst</hi>, was Du ihnen nur an den
+                    Augen absehen kannst – ich verlange nichts von Dir. Es versteht sich daß Du den
+                        Louis d’Or wechseln läßt, dazu ist er ja. Ich werde
+                    Dir auch mehr Taschengeld schicken – <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0241/#start_e55_gwm_plb">ich hinterließ Dir eigentlich nur
+                        4 Kronth. da die anderen 2, gleich auf die <ref target="JP-UB0446/#nesv_2bq_xlb">Blonden</ref> gerechnet
+                        waren</ref>. </p>
+            <p>
+               <anchor type="target" xml:id="start_whq_3yn_rlb"/>Bitte doch die Auguste, ob sie nicht von <persName key="JP-011877">Mlle Behrs</persName> ein Stück Blonden, oder
+                    einen Rest von 9 Ellen erhalten kann<anchor type="target" xml:id="stop_whq_3yn_rlb"/>, welches sie wenn sie nicht gefielen wohl wieder
+                    annähmen.  Du glaubst nicht wie viel Beifall meine Blonden finden.
+                        <persName key="JP-012369">Gräfin Henkel</persName>, und <persName key="JP-001882">FräuleinImhof</persName> wollen so gern welche in der Art.
+                    Ich fand sie bei <hi rendition="#u" hand="#author">
+                  <persName key="JP-011877">Behrs</persName>
+               </hi> etwas theurer – 1 fl. 24 –
+                    forderten sie, vielleicht ließen sie sich noch etwas abhandeln. Es müsste aber
+                    ein geschmakvollesDehsein
+                    sein. <anchor type="target" xml:id="start_gnj_xwn_rlb"/>Oder was noch besser
+                    wäre, Du bötest die gute <persName key="JP-012608">Dürouf</persName> sie zu
+                    kaufen, da sie es noch besser verstehen wird. Ich habe ihr geschrieben und
+                    schicke ihr <ref target="JP-UB0227/#ncrt_gy3_2nb">des <persName key="JP-999999">Vaters</persName> Kupferstich</ref> um ihn für
+                        Herrn<persName key="JP-001608">Heine</persName> zu
+                    Weihnachten in einen Rahmen zu lassen.<anchor type="target" xml:id="stop_gnj_xwn_rlb"/> Es geht nur bis Dienstag keine fahrende Post. Vielleicht bekömmt auch die
+                    Putzmacherin <persName key="JP-012366">Hofmann</persName> wieder andere Blonden, die <persName key="JP-003934">Schwabacher</persName> quält mich in Einemfort darum. Wenn der Fuhrmann die Kiste noch nicht abgeholt hat, so
+                            packe doch auch Deinen neuen <hi rendition="#u" hand="#author">gestreiften</hi>lilas Mantel darein, den  ich Dir zuerst schenkte –  Du kannst ihn doch jetzt nicht
+                    brauchen. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0190/#start_bqs_2s3_qlb">Wenn das gute Mädchen aus <placeName key="JP-006363">Ulm</placeName> es ohne
+                        viele Mühe kann so soll sie dem Vater 6 Buch von dem Papiere kommen
+                        lassen.</ref>
+            </p>
+            <p> Ach wenn Du nur gesund wärest meine theure Seele! Wenn Du mir Jetzt,
+                    Jetzt in dem Augenblik das ich dieses schreibe, keine Schmerzen hättest! Du
+                    lieber guter Engel! Dein Brief an <persName key="JP-003471">Emma</persName> machte mir viel Freude – <hi rendition="#u" hand="#author">so</hi> ist es Recht, wenn
+                    Schwestern sich lieben, Dein schönes erwachendes Gefühl für das Bessere im
+                    Menschen, öfnet mir den Himmel schöner Aussichten für Dich! Gott erhalte Dich
+                    nur uns! </p>
+            <p>
+               <anchor type="target" xml:id="start_atc_rxn_rlb"/>Der <persName key="JP-003031">Auguste</persName> Spitzengrund-Haube
+                    habe ich schon angefangen.<anchor type="target" xml:id="stop_atc_rxn_rlb"/> Du
+                    wirst ganz damit zufrieden sein. <anchor type="target" xml:id="start_tkv_fds_rlb"/>In Rücksicht des anderen bedeutendern Geschenks
+                    will ich, statt Silberzeugs, ihr 3 Loui d’Or in einem
+                    goldnen Beutelchen das Du kennst, verehren.<anchor type="target" xml:id="stop_tkv_fds_rlb"/> Gewis wird sie nicht davon beleidigt sein, und
+                    es ist ihr Nützlicher. <anchor type="target" xml:id="start_x4n_qxn_rlb"/>Die
+                    Hosen für den <persName key="JP-999999">Vater</persName> sind über die Hälfte
+                    fertig, ich stricke immer daran.<anchor type="target" xml:id="stop_x4n_qxn_rlb"/> Sie freuen mich noch sehr. Ich werde viel zum Ausgehen und Zerstreuungen
+                    versucht und bitte Gott täglich mir Kraft zum <hi rendition="#u" hand="#author">Festhalten</hi> an die nothwendigen Arbeiten zu geben, die mir
+                         obliegen, da so vieles noch gethan werden muß. Die Haube, und die
+                    Hosen sind das Wichtigste. <hi rendition="#u" hand="#author">Dir</hi> schenke ich in Gedanken den rosa Hut – der Dich hier in <placeName key="JP-005574">Baireuth</placeName> schmüken soll, aber ehe er <hi rendition="#u" hand="#author">gemacht</hi> wird must Du hier
+                    sein, damit er paßt. Für <persName key="JP-003471">Emma</persName> habe ich ein
+                    anderes Seidenzeug von pikanten Farben gekauft, aber noch immer keine Zeit zum
+                    Machen genommen. Heute ist der <persName key="JP-999999">Vater</persName> mit
+                        <persName key="JP-003471">Emma</persName> wieder bei <persName key="JP-003351">Ranzows</persName>, ich habe abgesagt. </p>
+            <p>Eben geht die Post. Adieu Adieu mein Leben! <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0190/#start_upt_ss3_qlb">Sage an Herrn <persName key="JP-012545">Menna</persName> ich hätte
+                        mich umgesehen für <persName key="JP-012821">seinen
+                            Sohn</persName> aber hier braucht Niemand einen jungen Menschen, daß es
+                        mir sehr leid thäte.</ref> Lebe wohl Geliebte</p>
+            <closer>
+               <salute>Der <persName key="JP-999999">Vater</persName> ist sehr wohl, und grüßt
+                        herzlich mit <persName key="JP-003471">Emma</persName>
+               </salute>
+               <signed>Deine Mutter C.</signed>
+            </closer>
+         </div>
+         <div hand="#JP-003471">
+            <opener>
+               <dateline>Baireut den 21<hi rendition="#u" hand="#author">ten</hi> November 1822.</dateline>
+            </opener>
+            <p>Herzlichen Dank, meine geliebte <persName key="JP-003873">Marie</persName>, für
+                        Deine beiden Briefe, freilich hätte
+                    ich den zweiten nicht erwarten sollen und wollte es auch nicht, aber so oft ich
+                    schreiben wollte kam etwas dazwischen und ich konnte es nur in Gedanken thun,
+                    übrigens ist es besser man läßt Dich ein Bischen zappeln so bekömmt man doch
+                    etwas zu hören von Dir.</p>
+            <p>Das Aeußere <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0708/#start_bhf_2mt_ylb">Deiner Hochzeit</ref> hast Du mir
+                    wol beschrieben, liebe <persName key="JP-003873">Marie</persName>, aber nicht
+                    wie Dir dabei zu Muthe war</p>
+         </div>
+      </body>
+   </text>
+</TEI>

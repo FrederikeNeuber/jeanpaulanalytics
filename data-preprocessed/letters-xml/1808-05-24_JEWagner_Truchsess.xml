@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0880">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Christian Freiherr Truchseß von Wetzhausen.
+                    Meiningen, 24. Mai 1808, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-05-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011840">Meininger Freundeskreis</term>
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012314">Empfehlungen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 24<hi rendition="#uu" hand="#author">n</hi> Mai 1808.</dateline>
+            </opener>
+            <p>Mein verehrtester Freund! <anchor type="target" xml:id="start_rlf_xdp_nnb"/>Diesen Brief bringt Ihnen der Cammerreferendar
+                        <persName key="JP-002088">Georg Keßler</persName> aus <placeName key="JP-005586">Berlin<anchor type="target" xml:id="stop_rlf_xdp_nnb"/>
+               </placeName>, von Geburt ein <placeName key="JP-005739">Franke</placeName>, am Herzen ein wahrhaft leidenschaftlicher Deutscher. In
+                    jener grossen verderbten <placeName key="JP-005553">Babel</placeName> hat er
+                    sich ein edles, warmes, ungemein reines und jungfräuliches Herz zu bewahren
+                    gewußt, wie Ihnen schon sein redliches Gesicht zeigen
+                    muß. Ich liebe ihn von ganzem Herzen. Literatur, Sprachen, besonders aber eine
+                    schön und frey ausgebildete Menschheit – das sind die Eigenschaften an ihm,
+                    derenthalben ich es getrost wage, Sie um ein gastliches
+                    Nachtlager für ihn zu bitten. Denn er hat, als ich ihm <placeName key="JP-005591">Bettenburg</placeName> schilderte, recht darnach
+                    geschmachtet, Ihre liebe Hand einmal zu fassen, indem er durch Ihre Gegend nach der <placeName key="JP-006271">Schweiz</placeName> reist.</p>
+            <p>Unsre Hieherreise war gerade so glücklich und ohne
+                            Anstoß als die Hinreise. <anchor type="target" xml:id="start_acy_fbd_4nb"/>Leider konnten wir von Ihrer gütigen Empfehlung an <persName key="JP-013091">Herrn Burkhardt</persName> keinen Gebrauch machen, da
+                    wir eben zur Kirchenzeit durch <placeName key="JP-013061">Mellerstadt</placeName> kamen.<anchor type="target" xml:id="stop_acy_fbd_4nb"/> — Zu einer andern Zeit würde uns der Verlust
+                    einer so lieben Bekanntschaft viel näher gegangen seyn, als an jenem Tage, aber
+                    damals waren unsre Herzen viel zu voll von Ihrem eignen
+                    Bilde, ewig verehrter Mann, als daß die Sache tiefen Eindruck auf uns hätte
+                    machen können. O tausend Dank, Bester, für Ihre Liebe – für die Geduld, mit der Sie mich ertrugen – für all die seligen Augenblicke,
+                    die mir an Ihrer Hand, an Ihrem Herzen zu Theil wurden – für die Freundlichkeit, mit der Sie uns Ihr schönes Leben
+                    beschauen und geniessen liessen – mit der Sie uns die
+                    Vorhänge Ihrer herrlichen, köstlichen Natur und jenes
+                    idealischen Landlebens aufrollten, das mir ewig unvergeßlich bleibt! – Ja, ich
+                    bin nunmehr zufrieden. Ihr Bild,  Ihr Ganzes,
+                    Geliebter, lebt nun vollständig und in allen seinen <placeName key="JP-005591">Bettenburger</placeName>
+                    häuslichen und thätigen schönen Bewegungen, lebendig und frisch in meiner Seele
+                    – und so soll es leben, bis mich die Zeit verändert zur wiederaufflatternden
+                    Psyche einer heiligern Welt. – Vergessen Sie meiner
+                    ewig nicht!</p>
+            <p>
+               <anchor type="target" xml:id="start_szb_sfp_nnb"/>Über die Innschrift an IhrMinnesingerdenkmal habe ich viel nachgedacht, und wohl zehn
+                    verschiedene Innschriften gemacht. Aber die beste und einzig schickliche bleibt
+                    mir immer die:</p>
+            <p>
+               <anchor type="target" xml:id="start_bpc_ljw_xnb"/>Wer nicht liebt Wein, Weiber und
+                                    Gesang<anchor type="target" xml:id="stop_bpc_ljw_xnb"/>, Der
+                                bleibt ein Narr sein Leben lang.</p>
+            <p>
+               <persName key="JP-002555">D.
+                            Martin Luther</persName>.<anchor type="target" xml:id="stop_szb_sfp_nnb"/>
+            </p>
+            <p>Denn ich habe über dem Dichten gefunden, daß so Etwas gar nicht jetzt erst
+                    gedichtet werden muß, sondern einzig, als schon vorhanden, zu wählen ist aus dem
+                    Vorrathe jener abgeblühten Zeit, deren Mitgenoß der brave <persName key="JP-002555">Luther</persName> selber war. Und wie schön ist nicht der
+                    Gedanke – und wie passend sind nicht gerade die  berühmten Worte für
+                    diese Stelle! — Dixi! –</p>
+            <closer>
+               <salute>Leben Sie wohl, edler, reiner Mensch!
+                        Ewig</salute>
+               <signed>Ihrtreuer und dankbarer JEWagner</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

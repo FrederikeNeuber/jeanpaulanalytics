@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0677">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 28.
+                    Februar 1803, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1803-02-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 28ten Februar</dateline>
+               <salute>Mein theuerster Vater</salute>
+            </opener>
+            <p>Ich kann es nun nicht länger aufschieben Sie um den Grund Ihres mir
+                    unbegreiflichen Stillschweigens gegen mich zu fragen, welches mich nun schon
+                    seit sechs Wochen beunruhigt, und welches ich früher gebrochen hätte, wenn nicht
+                    die Hofnung auf jeden nächsten Posttag mich hingehalten hätte. Nun scheint es
+                    aber als wollten Sie absichtlich schweigen, denn wie auch Ihre Verhältniße seyn
+                    mögen, so kenne ich Ihr Herz zu gut, als daß ich an Ihre Vergeßenheit meiner –
+                    glauben kann.</p>
+            <p>Wären Sie krank, so würden Sie es mir durch eine dritte Person gesagt haben, alle
+                        äußern Vorfälle konnten Sie nicht hindern an mich zu
+                    denken.</p>
+            <p>Es muß also ein innrer Grund vorhanden seyn, und so wenig ich es zu verdienen
+                    glaube, zürnen Sie mit mir.</p>
+            <p>Einen Irrthum der für mich so unendlich kränkend ist, daß er mich, nicht der
+                    Liebe meines Vaters, aber wohl ihrer Zeichen beraubt muß ich auflösen, und Sie
+                    müssen ihn mir nennen, damit ich mich rechtfertigen kann. </p>
+            <p>
+               <anchor type="target" xml:id="start_uw5_mcl_1nb"/>Ich hatte während
+                        die AnzeigeIhrer in einigen Tagen zu volziehenden
+                            Verbindung an mich unterwegs war, <ref type="letter" target="JP-UB0457">einen langen Brief</ref> durch <persName key="JP-002678">Matzdorf</persName> an Sie abgesendet.<anchor type="target" xml:id="stop_uw5_mcl_1nb"/>Ich beantwortete daher nicht auf der Stelle
+                            diese, sondern nach acht oder 14 Tagen darauf erhielt
+                    ich durch <persName key="JP-002581">Ernestines</persName> Hand Ihr
+                    überraschendes Weihnachtsgeschenk ohne Worte von Ihnen, die mir noch theurer
+                    gewesen wären, und dankte Ihnen auf der Stelle, legte <ref type="letter" target="JP-UB0255">den Brief</ref> an <persName key="JP-002581">Ernestine</persName>oder <persName key="JP-004393">Minna</persName> ein die ihn sogleich absenden sollte: Ob Sie nun diesen nicht erhalten
+                    haben, und mich der Undankbarkeit beschuldigen muß ich fast annehmen, weil ich
+                    mich nur dieser scheinbaren Schuld gegen Sie bewußt
+                    bin.</p>
+            <p>Es macht mich sehr unglüklich, daß auch Sie vielleicht mein ewig geliebter Vater,
+                    in Rüksicht meiner, unangenehme Empfindung gehabt haben – so glüklich Sie seyn
+                    mögen – Ihre <persName key="JP-002706">Kinder</persName> behaupten gewis ewig
+                    den Platz in Ihrem Herzen, den Sorge u Liebe u Aufopferungen so vieler Jahre
+                    ihnen eingeräumt haben. Dis ist nicht bloßer Glaube, sondern  Überzeugung, die jedes Misverständnis daher doppelt empfindlich macht.</p>
+            <p>Nun sag ich weiter nichts, bis ich wieder von Ihnen höre. Gott wird Sie durch
+                        <persName key="JP-002709">Ihre Frau</persName> mit Glük gesegnet haben.
+                    Grüßen Sie Sie innig von mir – u glauben Sie daß ein eignes Kind die Gefühle für
+                    Eltern schärft.</p>
+            <p>
+               <persName key="JP-003471">Mein Kind</persName> macht mir unendliche Freude, seine
+                    Natur ist eine der kräftigsten, u es ist, ohne mütterliche Eitelkeit, gesagt
+                    eins der liebenswürdigsten Wesen, in drei Wochen wird sie ein halbes Jahr. Ich
+                    empfehle es Ihrer Liebe, u uns beide Ihrem Seegen.</p>
+            <closer>
+               <signed>Ihre  treuste Tochter Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

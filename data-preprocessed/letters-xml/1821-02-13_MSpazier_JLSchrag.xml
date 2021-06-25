@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Uthe-Spazier an Johann Leonhard Schrag. Dresden, 13. Februar 1821, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <date when="1821-02-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003846">Johann Leonhard Schrag</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013033">Minna Spazier-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Dresden
+                                13tenFebruar 1821.</dateline>
+               <salute>Ew. Wohlgeb.</salute>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_g4v_hhm_14b"/>melde hierdurch, daß ich Ihrer
+                    geehrten Aufforderung gemäß, für den <persName key="JP-001138">Fouqué</persName>schen <bibl sameAs="JP-010243" subtype="werk">Almanach</bibl>, eine <hi rendition="#u" hand="#author">Historisch</hi>
+               <hi rendition="#u" hand="#author">romantische</hi>
+               <hi rendition="#u" hand="#author">Darstellung</hi>, aus den
+                                <hi rendition="#u" hand="#author">Jugendjahren</hi>
+               <persName key="JP-013162">
+                  <hi rendition="#u" hand="#author">Kaiser</hi>
+                  <hi rendition="#u" hand="#author">Maximilian</hi>
+                  <hi rendition="#u" hand="#author">des</hi>
+                  <hi rendition="#u" hand="#author">I</hi>
+               </persName> einsenden werde, und bitte für den nächsten Jahrgang,
+                    den Raum von vier bis fünf Bogen, für meine Arbeit offen zu halten.<anchor type="target" xml:id="stop_g4v_hhm_14b"/>
+            </p>
+            <p>Von <persName key="JP-000619">Frau von Chezy</persName>
+                    hör' ich, daß Sie die mir zudedacht gewesne
+                            Darstellung der der deutschen Frauen Vereinefür den nächsten Jahrgangnunmehr wirklich übernommen
+                    habe.</p>
+            <p>Ew. Wohlgeb. dürfen in dieser Hinsicht, daher auch etwas Gediegenes, über diesen
+                    Gegenstand, mit Gewißheit rechen.</p>
+            <closer>
+               <salute>Mit Versicherungen gebührender Achtung Ganz
+                            ergebenst</salute>
+               <signed>J.C.W. UtheSpazier geb. Mayer</signed>
+            </closer>
+            <postscript>
+               <p>Da ich die obenerwähnte Arbeit, nach der besten Quellen, wie sie mir auf der
+                        hiesigen Bibliothek, zu Gebote stehen  so eben  zu schreiben, den
+                        Anfang gemacht, so werden bis zu Einsendung des Mskpts leicht  zwei Monate noch mir Frist ausbitten
+                        müssen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

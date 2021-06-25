@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0696">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl Spazier an Johann Friedrich Frauenholz. Leipzig, 12. September 1802,
+                    Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-09-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-011884">Johann Friedrich Frauenholz</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-011937">Kunst</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig 12 Septbr
+                        1802.</dateline>
+            </opener>
+            <p>Für die übersandten vortreflichen Sachen aus Ihrer Kunsthandlung sage ich Ihnen,
+                    mein sehr hochgeschätzter Herr Frauenholz, den verbindlichsten Dank. Vor Allem
+                    habe ich bereits Anzeige, so wie der Werth dieser Artikel es erheischt,
+                    aufgesetzt u die beiden Kupferstiche v. <persName key="JP-001857">Hufeland</persName> u
+                                <persName key="JP-002486">Loder</persName> werden unfehlbar noch in dieser Woche angezeigt. Allein wegen der Zeichen-Werke habe ich die Idee, zu Ihrem
+                    Besten noch eine Weile mit der Anzeige zu warten. Es rückt nehmlich die Zeit
+                    näher, wo man sich nach Präsenten umsieht, um seinen Lieben zum Weihnachten
+                    Freud zu machen. Da denke ich um es zum Besten zu
+                            machen, wenn ich im Oktober (oder November) mit einer warmen Empfehlung
+                            dieser Werke hervortrete u
+                    gradehin zugleich die Aufmerksamkeit auf jenes Bedürfniß lenke. Haben Sie zu dem
+                    Ende die Gefälligkeit, mich zuvor noch von den Preisen eines jeden dieser Werke
+                    zu unterrichten u mir zugleich anzugeben, wo man, Namentlich also in welchen
+                    Kunsthandlungen  der hauptsächlichen Städte <placeName key="JP-005668">Deutschlands</placeName>, außer bey Ihnen, dieselben haben kann.</p>
+            <p>Zugleich bin ich so frey Ihnen zwey Briefe für
+                                <persName key="JP-003418">HerrnReinhardt</persName> in <placeName key="JP-006203">Rom</placeName> einzulegen, mit der Bitte, sie
+                    gelegentlich Ihren Sendungen dorthin beizuschließen. Sollten Sie dafür besonders
+                    Porto dafür auslegen müssen, so ersuche ich Sie, selbiges mir zu notiren es mir
+                    anzugeben, als wenn ich es hier zu entrichten habe, wenn ich nicht etwa das
+                    Vergnügen habe, Sie in der <placeName key="JP-011521">Michaelmesse</placeName>
+                    hier zu sehen.</p>
+            <closer>
+               <salute>Mit vieler Hochachtung Ihr</salute>ergebenster Diener Spazier</closer>
+            <postscript>
+               <p>Es steht in Ihrem Ermessen, ob Sie Ein Kouvert um beide Briefe schlagen
+                        wollen. Doch ich habe es lieber selbst besorgt.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

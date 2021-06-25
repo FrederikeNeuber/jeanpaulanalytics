@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0638">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 7. Oktober
+                    1807, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1807-10-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 7.8<hi rendition="#u" hand="#author">ber</hi>
+                  
+                        1807</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>ich habe Dir nach Empfang der Richterschen Zinsen für den 1. dieses, Deinen Rechnungs Abschluß seit dem
+                        1. 7.ten 1806 versprochen. Er liegt auf umstehender Seite bey;
+                    und Du hast darnach (ohne Abrechnung für das Neßel Garn, u Färber Lohn, <anchor type="target" xml:id="start_qpf_whh_3nb"/>dafür Du mir einmal wieder ein
+                        Paar Pariser schicken magst<anchor type="target" xml:id="stop_qpf_whh_3nb"/>) noch
+                    einen Bestand von 19 rth –,– Gold zu fordern. ich schicke um der Weitläuftigkeit der Berechnung willen, statt
+                    deßen 20 rth Gold; und bitte mir über die 19 rth Gold Quittung aus. Für den überschießenden Thaler
+                    laß die Bücher binden, die ich Dir geschickt habe.</p>
+            <p>ich u <persName key="JP-002709">Deine Mutter</persName> sind gesund; sonst aber
+                        in der unangenehmen Lage einer zunehmenden
+                            Noth.</p>
+            <p>In Bezug auf <persName key="JP-004393">Minna</persName>
+                    habe ich mich bey dem wahrscheinlich schon erfolgten Tode des <persName key="JP-012488">Professor Tillich</persName>
+                    entschloßen, den <persName key="JP-004106">Julius</persName> zu mir zu nehmen,
+                    den ich nun erwarte.</p>
+            <p>Dadurch wird der <persName key="JP-004393">Minna</persName> eine große Sorge abgenommen.</p>
+            <closer>
+               <salute>Lebe wohl, grüße Deinen Mann, u küße Deine Kinder. Meine Frau
+                        grüßt.</salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <anchor type="target" xml:id="start_o4j_2hh_3nb"/>Nun habe ich
+                        eine Parthie Schulbücher zu rechte gelegt; und kann sie bey Gelegenheit an
+                        Dich schicken.<anchor type="target" xml:id="stop_o4j_2hh_3nb"/> Denke daran.  </p>
+               <milestone unit="section" rendition="#hr"/>
+            </postscript>
+         </div>
+         <div>
+            <table rows="2" cols="2">
+               <head> Einnahme</head>
+               <row>
+                  <cell>Richtersche Zinsen von 1000 rth Gold auf ein Jahr und drei Monath</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>vom 1. July 1806. – 1. October 1807.</cell>
+                  <cell>50 rth, –,–––</cell>
+               </row>
+               <row>
+                  <cell>dito von 100 rth Gold
+                                Capital</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1. July 1806. – 1. October 1807.</cell>
+                  <cell>5 rth –,–––</cell>
+               </row>
+               <row rend="sum">
+                  <cell/>
+                  <cell>summa 55 rth —,–––</cell>
+               </row>
+            </table>
+            <closer>
+               <salute>
+                  <table rows="2" cols="2">
+                     <head>Ausgabe</head>
+                     <row>
+                        <cell>Zur Wittwen Casse</cell>
+                        <cell/>
+                     </row>
+                     <row>
+                        <cell>pro <hi rendition="#u" hand="#author">24.7.ber 1806 </hi>
+                        </cell>
+                        <cell>12 rth –, Gold.</cell>
+                     </row>
+                     <row>
+                        <cell>pro 24. Märtz
+                                        1807</cell>
+                        <cell>12 rth –, </cell>
+                     </row>
+                     <row>
+                        <cell>pro 24. 7.ber 1807</cell>
+                        <cell>12 rth –</cell>
+                     </row>
+                     <row rend="sum">
+                        <cell>summa</cell>
+                        <cell>36 rth</cell>
+                     </row>
+                  </table>
+               </salute>
+               <signed>
+                  <table rows="2" cols="2">
+                     <head/>
+                     <row>
+                        <cell>Einnahme</cell>
+                        <cell>55 rth</cell>
+                     </row>
+                     <row>
+                        <cell>Ausgabe</cell>
+                        <cell>36 rth</cell>
+                     </row>
+                     <row rend="sum">
+                        <cell>Bestand</cell>
+                        <cell>19 rth Gold</cell>
+                     </row>
+                  </table>
+               </signed>
+               <signed>Mayer d. 7.8.ber
+                            1807.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

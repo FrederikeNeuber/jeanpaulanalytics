@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0338">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 11. Mai 1822, Sonnabend </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-05-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Sonnabends den 9<hi rendition="#uu" hand="#author">ten </hi>
+                  <hi rendition="#u" hand="#author">Mai
+                            1822.</hi>
+               </dateline>
+               <salute>Beste liebste Odilie</salute>
+            </opener>
+            <p>Heute bekam ich Deinen Brief, der eine süße
+                    Belohnung für vieles häusliche Arbeiten wie Wäsche, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0669/#start_rxm_clk_4mb">Maurer
+                        Aufsicht</ref>e.t.c. war, und wobei ich mich recht schön niedersetzte
+                    und ausruhte als ihn der Briefträger heute früh um 9 Uhr brachte, alles der
+                        <persName key="JP-003471">Emma</persName> vorlesend. Ich antworte Dir
+                    gleich, weil <persName key="JP-003933">Schwabaches</persName> morgen früh nach
+                        <placeName key="JP-005561">Bamberg</placeName> fährt und meinen Brief dort
+                    auf die Post geben kann. Hier ist des <persName key="JP-999999">Vaters</persName>
+               <ref type="missingLetter"
+                    target="https://www.jeanpaul-edition.de/brief.html?num=VIII_278">erster
+                        Brief</ref>. Du siehst
+                    daraus wie gut es ihm gefällt, nun bin ich begierig auf <ref type="missingLetter"
+                    target="https://www.jeanpaul-edition.de/brief.html?num=VIII_279">den
+                        Zweiten</ref>, den ich Dir auch schicken werde, wie freue ich mich daß es
+                    ihm bei <persName key="JP-004393">Minna</persName> so gefällt. Wenn du dem
+                        <persName key="JP-999999">Vater</persName> schreibst schicke es nur an mich,
+                    ich besorge es gewis.</p>
+            <p>
+               <persName key="JP-003522">Fräulein Ritter</persName> soll dir
+                    das Camisol
+                        mitbringen. Dein
+                    Entbehren desselben thut mir leid, es that mir aber, als die <persName key="JP-002709">Grosmutter</persName> hier war sehr gute Dienste.</p>
+            <p>
+               <persName key="JP-003471">Emma</persName> freute sich sehr über Deinen Brief und läßt Dir tausendmal danken, aber damit Du
+                    geliebtes Kind Dich mit dem Schreiben nicht so sehr abquälst und es Dir zu einer
+                    allzu sauren Pflicht machst so schicke nur die
+                            Briefe
+                    die Du noch an <persName key="JP-011864">Fanny</persName> und <persName key="JP-001632">Helene</persName> zu
+                    schicken hast, <hi rendition="#u" hand="#author">offen</hi> dann
+                    siegle ich sie zu, und lese mir dann selbst Dein Wohlergehen heraus. Wenn ich
+                    nur überhaupt von Dir erfahre so verlange ich <hi rendition="#u" hand="#author">jedes mal</hi> keine besonders für mich bestimmte Briefe. Du liebe beste Seele must
+                    sonst nichts thun, als schreiben.</p>
+            <p>
+               <persName key="JP-001608">Herr Heyne</persName>hat neulich an <persName key="JP-004659">Luise Welden</persName>
+                    geschrieben, mich grüßen, und mir sagen lassen, daß Du sehr wohl, und vergnügt
+                    wärest, und er von Deiner Heilung das Beste hoffte. Wie freut es mich daß er
+                    eine Reise machen will; von <persName key="JP-002603">Frau von Mann</persName> habe ich wieder einen sehr  guten Brief bekommen, worin sie sagt <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0100/#start_uxt_cbk_4mb">daß <persName key="JP-002601">ihr Mann</persName> den Eindruck des ersten Briefes bei dem guten </ref>
+               <persName key="JP-001608">
+                  <ref type="letter"
+                       subtype="passage"
+                       target="JP-UB0100/#start_uxt_cbk_4mb">Herrn Heyne</ref>
+               </persName> wieder gut gemacht habe, durch einen
+                            zweiten, besseren. Daß Du ihn beschenkt hast, freut mich
+                    sehr. Auch daß Du für <persName key="JP-003031">Auguste</persName> eine Garnirung nähst. Der Kragen ist Nebensache, aber wenn Du ja, daran
+                    kömmst, so darfst Du nur die <hi rendition="#u" hand="#author">Hauptblume</hi> und großen Blätter unterlegen, nicht alles. Nähe mir nicht
+                        <hi rendition="#u" hand="#author">zu</hi> viel. Dein Vorlesen
+                    freut mich sehr – Miete Dir ja ein Klavier – Schreibe mir wie viel Du jetzt
+                    ausgegeben hast denn ich werde Dir wohl bald etwas schicken müssen. Das eine
+                    Häubchen habe ich in <hi rendition="#u" hand="#author">Deinem
+                        Namen</hi> an <persName key="JP-004393">Minna</persName> geschickt. Gestern
+                    war <persName key="JP-012334">Clara Ranzow</persName> mit <persName key="JP-004656">Weldens</persName> bei <persName key="JP-003471">Emma</persName>. Es kam so, sie wollte diese besuchen,
+                    welche bei <persName key="JP-003471">Emma</persName> waren  und kam
+                    dann her. Ich war die Woche schon 2 mal Abends bei <persName key="JP-004656">Weldens</persName> wo vorgelesen wurde, und <persName key="JP-003471">Emma</persName> 1 mal bei der Musik. Allein am liebsten bin ich mit
+                        <persName key="JP-004653">Fr. v. W.</persName> allein. Ich bin nicht traurig
+                    mein Odilichen, ich bin auch 2 mal bei der <persName key="JP-011923">Kammerherrin</persName> gewesen. Aber ich habe viel
+                    Sorge bis alles wieder in Ordnung ist. Des <persName key="JP-999999">Vaters</persName> Stube ist nun auch gemalt. Wieder grün. Wenn wir uns nur
+                    zu Pfingsten sehen könnten! Doch hoff‘ ich Du wirst vergnügt sein.
+                    Schadet es denn nichts wenn Du <persName key="JP-012368">den kleinen Falk</persName> im Garten fährst? Schicke doch den ersten besten Pastellkopf zu uns. Lebe wohl,
+                    Küsse, Seegen, Liebe und Sehnsucht begleiten diese flüchtigen Zeilen, von
+                    Deiner</p>
+            <closer>
+               <signed>Treusten Mutter Carolin</signed>
+            </closer>
+            <postscript>
+               <p>Unzählige Grüße von allen Seiten auch von der <persName key="JP-012609">Bach</persName>, welche ausgezogen sind und <persName key="JP-012334">Clara Ranzow</persName>.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

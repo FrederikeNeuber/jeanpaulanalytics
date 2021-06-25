@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0356">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Auguste Mayer. Meiningen, im Dezember 1801 (?)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002702">Auguste Mayer</persName>
+               <date notBefore="1801-12-01" notAfter="1801-12-31"/>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine gute liebe Guste, kaum kann ich es verlangen daß du fleißiger im Schreiben
+                    an mich bist, da ich Dir solange keinen ordentlichen Brief geschrieben habe.
+                    denn die wenigen Zeilen die ich Dir doch fast immer gebe, rechnest Du mir nicht an, und Du sollst es auch nicht. Wir denken recht
+                    viel an Dich, und Du kannst wohl glauben, daß Du mir die an Dich so gewöhnt ist,
+                    in mancher einsamen Stunde recht sehr fehlst. Schreib mir doch nächstens wie es auch mit Deiner Gesundheit
+                            steht. Hast du jezt mehr Beharrlichkeit die Vorschriften des Arztes zu befolgen bist Du
+                    schon bedachtsamer und ernsthafter geworden? Sei ja recht streng, besonders aus
+                    Rüksicht für den guten <persName key="JP-002703">Vater</persName>, dem die
+                    Besorgnis für Dich so schmerzlich ist. Könnte ich Dich doch mündlich fragen
+                    meine gute Guste wie Dir ist?</p>
+            <p>Das Herannahen der <hi rendition="#u" hand="#author">Weihnachtsfeyer</hi> führt mich in <placeName key="JP-012936">unser Haus</placeName> so lebendig
+                            zurück, daß ich ganz in den Tagen bei <hi rendition="#u" hand="#author">uns</hi> (so mus ich sagen) seyn werde. Wäre es möglich gewesen,
+                    daß Du die Akziese d Postausgaben allein hättest besorgen können, so schikte ich <hi rendition="#u" hand="#author">Dir</hi> die Weste für den besten
+                        <persName key="JP-002703">Vater</persName> allein zu, und Du legtest sie am
+                    Weihnachtsmorgen heimlich auf sein Bett – aber wahrscheinlich werden
+                    diese viel Umstände machen, und so muß ich es ganz prosaisch einrichten. Wenn doch die Freude über die
+                    völlige Verfertigung derselben – die einigen Tadel die diese verdient bei Ihm überwöge, wie wollte ich
+                    mich freuen. Schreib mir wenigstens <hi rendition="#u" hand="#author">das</hi>, recht ehrlich wie zufrieden der gute <persName key="JP-002703">Vater</persName> damit ist.  </p>
+            <p> Dir, mein Herz hätte ich gern eine kleine Freude gemacht aber
+                    für Deinen Geschmack finde ich nichts <placeName key="JP-006012">hier</placeName>, daß Du in <placeName key="JP-005586">Berlin</placeName>
+                    nicht viel beßer haben könntest – daher wähle Dir für den Thaler den ich an der
+                         rechten Westentasche
+                    eingenäht habe etwas zu meinem Andenken aus, das Dir lieb ist, u verzeih daß es
+                    nicht mehr ist. Die weißen Handschuhe habe ich für die gute <persName key="JP-012044">Tante Siegfried</persName> gestrikt, aber es ist ein so
+                    unbedeutend Geschenk, daß ich mich schäme sie ihr zu geben. <anchor type="target" xml:id="start_ebx_qnd_ymb"/>Ich weis daß Du eine so unendliche
+                    Freude darin finden wirst ihr ein kleines Geschenk zu machen,  daher gieb Du sie in
+                    Deinem Namen.<anchor type="target" xml:id="stop_ebx_qnd_ymb"/> Du glaubst nicht
+                    wie ich mich freue, daß Dir das wilkommen seyn wird. <persName key="JP-999999">Meinem Mann</persName> habe ich bis jezt noch nichts bestimmtes denn man kann
+                    hier nicht so gute und wohlfeile Waaren haben, als in <placeName key="JP-005586">Berlin</placeName>, sonst machte ich ihm einen <hi rendition="#u" hand="#author">neuen Schlafrock</hi>. <ref target="JP-UB0362/#np43_zfd_ymb">Die Aussicht des Wiedersehens in
+                            <placeName key="JP-005948">Leipzig</placeName>
+               </ref> welches nun fast
+                    gewis ist, da <persName key="JP-002703">Papa</persName> sich losmachen will
+                    macht Dich gewis auch unaussprechlich glüklich. Wie seelig werden wir alle seyn!
+                    Bis dahin denke an mich, und schreibe mir bald – viel – und <hi rendition="#u" hand="#author">Geschichte</hi> von Deinem Leben Deinen Umgang –
+                        <persName key="JP-999999">mein Mann</persName> ist halb böse auf Dich –
+                    versöhne ihn mit einem weitläuftigen langen Brief – Er küßt Dich herzlich, und
+                    wünscht oft daß Du ihn einmal necken möchtest an seinen Krauskopf.</p>
+            <p/>
+            <p/>
+            <closer>
+               <salute>Behalte mich lieb, u glaube daß ich Dich ewig liebe, Du gutes gutes
+                        Herz.</salute>
+               <signed>Deine treuste Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

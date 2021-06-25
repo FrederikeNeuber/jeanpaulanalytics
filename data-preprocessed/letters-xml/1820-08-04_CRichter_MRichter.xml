@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0771">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, 4. August 1820, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-08-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-011807">Jean Paul-Verehrung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireuth den 4tenAug: 20</dateline>
+               <salute>Geliebter Max!</salute>
+            </opener>
+            <p>
+               <ref type="letter" subtype="document" target="4-VIII_57">Dein Briefchen über
+                            <persName key="JP-000587">Carové</persName>
+               </ref> haben wir erhalten,
+                    wir freuten uns sehr über Alles was Du darin sagst. Da wir die Gewisheit Deines
+                    baldigen Wiedersehens haben schmerzt uns ein Aufschub
+                            von einigen Wochen nicht mehr da Du nun
+                    des <persName key="JP-004654">jungen Welden</persName> willen trotz Deiner
+                    jetzigen Freiheit etwas später kommst. Du wirst immer Deine Zeit zu Deiner
+                    Bildung und edlem Genuß anwenden. Bald werde ich also Deine Sachen in Empfang
+                    nehmen, als Vorboten und Theile von Dir und gewis wirds mich mit
+                    unaussprechlicher Wehmuth erfüllen wenn ich ein Stück nach dem anderen entfalte
+                    was Du getragen, worin Du gelitten und Dich erfreuet hast. Könnte ich nur
+                    allgegenwärtig sein, um Dir beim Einpacken und Besorgen zum Transport zu helfen, Du armer Mensch wirst Dich recht abquälen. Sorge
+                    nur für vernünftig warme Bekleidung unterwegs, darum bitte ich Dich bei Deiner
+                    kindlichen Liebe.</p>
+            <p>
+               <ref type="letter"
+                    subtype="text"
+                    target="4-VIII_57"
+                    corresp="#117-9">Deine Atteste schicke doch bald</ref>, in jedem Falle ist
+                    es vortheilhafter diese Sache je eher je lieber in Gang gebracht zu haben.</p>
+            <p>
+               <anchor type="target" xml:id="start_ynz_13n_wnb"/>Wenn Prof. <persName key="JP-000587">Carové</persName> noch in <placeName key="JP-006040">München</placeName> ist, so  gieb ihm diesen Brief von Fräulein
+                            Schuckmann die ihn recht liebt, und die Er verehrt, wo
+                    nicht so weißt Du vielleicht seinen jetzigen Aufenthalt, oder schickst ihn nach
+                        <placeName key="JP-005819">Heidelberg</placeName>, verliere ihn ja nicht.<anchor type="target" xml:id="stop_ynz_13n_wnb"/>
+            </p>
+            <p> Grüße den edeln <persName key="JP-000587">Carove</persName> auch vom
+                        <persName key="JP-999999">Vater</persName> und mir,  und bitte ihn, wenn es nicht schon
+                            geschehen, der <persName key="JP-000948">Frau von Ende</persName>in <placeName key="JP-005687">Dresden</placeName> doch
+                            Erklärung über das von <persName key="JP-000949">ihrem Sohn</persName>
+                            Entlehnte, aber nicht Wiedererstattete zu geben. Wovon die Rede ist,
+                            wird unser Freund schon wissen. <persName key="JP-000948">Fr. v Ende</persName> schrieb mir darüber, als von einem räthselhaften Benehmen, und glaubte
+                    vielleicht Prof. <persName key="JP-000587">Carové</persName> wäre lange genug in
+                        <placeName key="JP-005574">Baireuth</placeName>, um von hier aus durch mich
+                    Aufklärung darüber zu erhalten. In jedem Falle intereßirt mich diese Sache selbst, recht sehr, und ich wünsche wenn
+                    auch nicht unterrichtet doch die gute <persName key="JP-000948">Fr. v
+                        Ende</persName>
+               <hi rendition="#u" hand="#author">vollkommen beruhigt</hi> und
+                        ausgesöhnt zu wissen. Am Dienstage waren
+                    wir wieder in <placeName key="JP-011048">Fantaisie</placeName>wo es C. recht gefiel, und lasen da in einem Felsen eingegraben, folgende Worte vom Herzoge
+                                Alexander von Würtemberg.</p>
+            <p>
+               <hi rendition="#f" hand="#author">
+                  <hi rendition="#u" hand="#author">
+                     <persName key="JP-999999">Jean Paul</persName>!</hi> Dem sinnigen und erhabenen Dichter  <placeName key="JP-005668">Deutschlands</placeName> vorzüglichstem
+                                Musensohne  Dem Freunde der Natur und Kunst <placeName key="JP-005668"> Deutschlands</placeName> Zierde, <placeName key="JP-005668">Deutschlands</placeName> Stolz!!</hi>
+            </p>
+            <p>So drükte der den <persName key="JP-999999">Vater</persName> nicht genug liebende
+                        <persName key="JP-000057">Herzog</persName> seine Gesinnungen öffentlich
+                    aus, und wir wurden alle mit der größten Auszeichnung von ihm behandelt. Er
+                    sprach viel von Dir, und seine <persName key="JP-000055">Prinzen</persName>
+                    hatten die herzlichste Freude von Dir erzählen zu hören. Lebe wohl mein theurer
+                    Sohn.</p>
+            <p>Forsche doch nach, ob Cadet v. Bomhardt, den Brief seiner Eltern
+                        den der <persName key="JP-999999">Vater</persName>
+               <hi rendition="#u" hand="#author">mitgebracht</hi> erhalten. sie
+                        haben keine Antwort.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

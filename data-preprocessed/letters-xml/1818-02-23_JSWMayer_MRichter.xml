@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0245">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Max Richter. Berlin, vermutlich 23.
+                    Februar 1818, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1818-02-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012633">Grüße</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Mein lieber Max!</salute>
+            </opener>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0824/#start_xjd_phg_5jb">Dein Brief, der sich als
+                        Neujahrs Brief selbst datirt hat, ist mir besonders durch den Wunsch
+                        angenehm, Dich mir gelegentlich persönlich zu nähern.</ref> So nahe, als wir
+                    uns angehören kann mir warlich nichts angenehmer seyn; da ich überall nur gutes
+                    von Dir höre; und nichts trostloseres kenne, als die selbst getriebenen Zweige
+                    neben dem Stamm verwelcken zu sehen. Möchte ich nur nicht schon über 70. Jahr
+                    seyn. Doch desto wohlthätiger wird mir die Wärme seyn, die Du über mein Alter
+                    noch verbreiten kannst. Lebe in der Versicherung meines hertzlichsten Antheils
+                    an Dir, wohl, und liebe Deinen</p>
+            <closer>
+               <salute>treuen Groß Vater Mayer</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0921">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an August Böckh. Meiningen, 23. Januar 1810,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1810-01-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000393">Philipp August Böckh</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>Herrn Prof. Aug. Böckh in Heidelberg. <dateline>Meiningen den
+                            23<hi rendition="#uu" hand="#author">n</hi> Jan. 1810.</dateline>
+            </opener>
+            <p>Tausend Dank, verehrter Mann, für Ihre gütige Zuschrift vom 25<hi rendition="#uu" hand="#author">n</hi> v.
+                            M.,
+                    die ich erst heute erhielt!</p>
+            <p>
+               <anchor type="target" xml:id="start_qtz_zpk_ynb"/>Gern wollte ich noch länger an
+                        Ihrem verehrten
+                            Institut Theil nehmen – allein meine Kränklichkeit
+                    nimmt schneller zu, die Kräfte ab – und mein letztes Stündlein beginnt so
+                    allmählig zu nahen, daß ich jeden Augenblick noch auf die Beschickung meines
+                    eignen Hauses verwenden muß. Also – Ade!<anchor type="target" xml:id="stop_qtz_zpk_ynb"/>
+            </p>
+            <p>Göthe ist bey <persName key="JP-003757">A. W.</persName> oder
+                        <persName key="JP-003760">Fr. Schegel</persName>, diesen göttlichen
+                    kritischen Seelen, in den besten Händen – möchte ich doch die Recension
+                    noch lesen!</p>
+            <p>
+               <persName key="JP-000141">Herr A. v. Arnim</persName>hat mir selbst geschrieben und
+                        sich als Recensenten meiner frühern Werke
+                            genannt. Aber er meldete mir, daß er die Rec. über den 2<hi rendition="#uu" hand="#author">n</hi> Band meiner <bibl sameAs="JP-010019" subtype="werk">Reisen</bibl>
+               <hi rendition="#u" hand="#author">abgelehnt</hi> habe, wovon Ewr.
+                        Wohlgeboren nichts zu wissen scheinen. – Nun, Sie werden schon meine übrigen Bücher einem auch guten
+                    und schöndenkenden Manne zur Beurtheilung anvertrauen – im Nothfalle thut es ja
+                    wohl der prächtige <persName key="JP-999999">Jean Paul</persName>. – Wenn der
+                    Mensch einem <hi rendition="#u" hand="#author">höhern</hi>
+                    Richterstuhle naht, so verliert sich doch, wie ich finde, die Begierde auf das
+                    Urtheil der Welt gar merklich. – Gut habe ich es wohl <hi rendition="#u" hand="#author">gemeynt</hi>! – </p>
+            <p>Wollten Sie, Verehrtester, vielleicht mit Herrn <persName key="JP-002843">Mohr und
+                                Zimmer</persName> für mich meine kleine Rechnung
+                    gütigst abmachen? Ich habe von ihnen nichts als die "<hi rendition="#u" hand="#author">
+                  <bibl sameAs="JP-013240" subtype="werk">Trösteinsamkeit</bibl>
+               </hi>." Es wird ja wenigstens
+                    Null von Null aufgehen, hoffe ich? – Aber Verzeihung für diese Bitte! Schließen
+                        Sie den ehrlich bewahrten Namen eines heitern
+                    Menschen in das Gedächtniß eines Biedermannes ein, und leben Sie froh und glückselig! Ewig Ihr</p>
+            <closer>
+               <signed>JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

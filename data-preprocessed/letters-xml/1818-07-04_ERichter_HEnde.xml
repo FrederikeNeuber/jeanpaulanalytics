@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0089">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Henriette von Ende (?). Bayreuth, nach dem 4. Juli
+                    1818</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <date notBefore="1817-01-01" notAfter="1817-12-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Innigsten Dank, verehrungswürdigste Frau für das schöne Geschenk und den
+                    herrlichen lieben Brief worin Sie mir einen Namen gaben den ich gewiß verdienen
+                    will durch meine Liebe gegen Sie. Meine <persName key="JP-003491">Schwester</persName> dankt Ihnen auch recht sehr, <hi rendition="#u" hand="#author">sie</hi> hat das grüne Band bekommen. Aber auf
+                    einen Strohhut, zumal auf meinen ist das blaue Band zu schön.</p>
+            <p>Die schöne uns gegebene Hoffnung
+                    Sie diesen Herbst hier zu sehen, verwandeln Sie doch in Gewißheit. Wir freuen
+                         uns schon so
+                    darauf.</p>
+            <p>Die Freude über des <persName key="JP-999999">Vaters</persName> Ankunft wurde durch Verfehlen (da <persName key="JP-003491">Odilie</persName> u ich) ihm entgegen gegangen
+                            waren)  sehr
+                            gestört, aber jetzt ist Alles nachgeholt, und wir
+                    sind nur froher.</p>
+            <p>Ich hoffe daß wir auch einmal in das <placeName key="JP-005819">Rheinparadies</placeName> kommen, und dann des <persName key="JP-999999">Vaters</persName>Freunde auch unsere werden.</p>
+            <closer>
+               <salute>Jetzt muß ich leider schließen, aber ich bin ewig Ihre Sie
+                        dankbarliebende Tochter</salute>
+               <signed>Emma.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

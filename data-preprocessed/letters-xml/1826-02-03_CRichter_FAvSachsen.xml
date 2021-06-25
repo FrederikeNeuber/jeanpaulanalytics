@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1155">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Friedrich August I. von Sachsen. Bayreuth, 3. Februar
+                    1826, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1826-02-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001175"> Friedrich August I.</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012104">Amtskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Allerdurchlauchtigster, großmächtigster König, allergädigster König und
+                        Herr,</salute>
+            </opener>
+            <p>Dem gerechtesten und menschenfreundlichsten der Könige, welche Gott zu
+                    Stellvertretern seiner Macht und seiner Liebe auf die Throne der Erde gesetzet
+                    hat, wagt es die Wittwe eines geliebten deutschen Schriftstellers, welcher vor wenigen Monaten von der Erde zu Gott durch
+                            den Tod abgerufen worden ist, um eine Gnade anzuflehen. <persName key="JP-999999">Jean Paul Friedrich Richter</persName>, ist der Name des
+                    Verewigten, dessen Gattin zu sein ich das Glück hatte. Wenn die Welt den Verlust
+                    seines Geistes betrauert, der ein halbes Jahrhundert hindurch für die Bildung
+                    und Veredlung der Menschheit mit großem Erfolge thätig war, so beweine ich mit
+                        <persName key="JP-003483">meinen Kindern</persName> in ihm, den Verlust des
+                    edelsten Menschen, und man ist bei ihm zweifelhaft, ob sein moralischer Werth
+                    nicht noch den intellektuellen übertraf.</p>
+            <p>Es giebt nun jetzt für seine Hinterbliebenen keine heiligere Aufgabe, als durch
+                    Herausgabe seiner <bibl sameAs="JP-010983" subtype="werke-jp">sämmtlichen
+                        Schriften</bibl> ihm ein bleibendes Denkmal der Anerkennung für die deutsche
+                    Nation zu errichten. Noch bei seinem Leben wurde er vielfach zur Sammlung aller
+                    seiner Werke aufgefordert und er hatte noch Zeit, die Anordnung derselben trotz
+                    seiner Körperschwäche und den herannahenden Tod selbst zu machen. Allein er
+                    erlebte die Vollziehung seines Beschlusses nicht mehr, der Todesengel rief ihn
+                    in der Mitte seines schönen Werkes <bibl sameAs="JP-010885" subtype="werke-jp">"über die Unsterblichkeit der Seele"</bibl> ab, und führte ihn in das Land
+                    der Vergeltung.</p>
+            <p>Wir sind nun damit beschäftigt, das Werk zu seiner Ehre und zu seinem Ruhme
+                    auszuführen, sehen uns aber von allen Seiten durch Nachdrucker und unrechtmäßige
+                    Verleger seines und jetzt unseres heiligen Eigenthums bedroht und
+                    beeinträchtigt. Die Fürsten des <placeName key="JP-011173">südlichen
+                        Deutschlands</placeName>, namentlich <placeName key="JP-005569">Bayern</placeName>, <placeName key="JP-006421">Würtemberg</placeName> und <placeName key="JP-005557">Baden</placeName>
+                    haben uns für ihre Lande, wo der Nachdruck vorzüglich herrschte, Privilegien für
+                    die Herausgabe der <bibl sameAs="JP-010983" subtype="werke-jp">Gesammtwerke</bibl>,
+                    gleichwie dem Dichter <persName key="JP-001353">Goethe</persName>, gegeben,
+                    allein, da neuerlich in den <placeName key="JP-006222">Königlich Sächsischen
+                        Staaten</placeName>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1154/#start_oh2_ggy_s4b">Ankündigungen aller Art von einzelnen Sammlungen geschehen, die man, ohne
+                        unsere Zustimmung will drucken lassen</ref>, so sehe ich mich genöthigt, Ew.
+                    Königlichen Majestät Gnade und Schutz dagegen anzurufen.</p>
+            <p>Die Werke <persName key="JP-999999">meines verehrten seeligen Mannes</persName>,
+                    werden zu Ostern 1826 bei dem Buchhändler <persName key="JP-003408">Georg
+                        Reimer</persName> in <placeName key="JP-005948">Leipzig</placeName> unter
+                    dem Titel:</p>
+            <p>
+               <bibl sameAs="JP-010983" subtype="werke-jp">"Jean Pauls
+                            sämmtliche Werke"</bibl>
+            </p>
+            <p>in 60 Bänden herauskommen. Diese Unternehmung, die nebst der Ehre für <persName key="JP-999999">den verewigten Mann</persName>, welcher vierzig Jahre seines
+                    Lebens mit beispielloser Thätigkeit und Gewissenhaftigkeit für die Verbreitung
+                    der Wahrheit und des Rechst nur lebte und der keinen andern Genuß kannte, als
+                    über Gott und Unsterblichkeit nachzudenken, soll zugleich den Unterhalt und das
+                    Glück <persName key="JP-003482">seiner Familie</persName> begründen, darum flehe
+                    ich zu Ew. Königlichen Majestät unnachahmlicher Menschenliebe und Gerechtigkeit,
+                    uns ein Privilegium gegen den Nachdruck der <bibl sameAs="JP-010983" subtype="werke-jp">sämmtlichen Werke Jean Pauls</bibl>, für einen Zeitraum
+                    von zwanzig Jahren in Ihren Königlichen Staaten allerhuldreichst angedeihen zu
+                    lassen.</p>
+            <p>Gott erhalte Eurer Königlichen Majestät theures verehrungswürdiges Leben bis auf
+                    den höchsten Punkt menschlicher Jahre, und lasse Sie mit göttlicher Milde und
+                    Nachsicht den verwegenen Schritt einer Unglücklichen verzeihen.</p>
+            <closer>
+               <salute/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0256">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Caroline Richter. Leipzig, nach dem 22. September 1802</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date notBefore="1802-09-22" notAfter="1802-09-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine geliebte Caroline, Du hättest schon längst wieder einen Brief von mir, für
+                        die beyden lezten von Dir erhalten, wenn 
+                    nicht einige Unruhe in meinem Hause mich vom schreiben abgehalten hätte. Es
+                    logierten auswärtige Verwandte<persName key="JP-002583">meines Mannes</persName> einige Wochen bey uns. –
+                        Dein erster Briefgiebt mir die Versichrung daß Du Dich wohl und gesund fühlst, – und, Gott
+                    sey Dank nicht auf mich zürnst.Dein zweyter Brief empfielt mir
+                        eine Person, welche
+                    Gelegenheit hatte, Dich oft und in bedeutenden Situationen zu sehen. Es müßte
+                        mir daher sehr intereßant
+                    seyn, sie kennen zu lernen, und – als völlig so achtungswerth, wie Du sie mir
+                    schilderst – und – mir recht viel von Dir erzählen zu laßen. Außer dem ersten
+                    Besuch den sie mir machte, ladete ich sie noch zu einem zweyten zu mir ein, wo
+                    sie einen Mittag mit uns 
+                    zu Tische war, und den 
+                    übrigen Theil des Tages bey mir blieb, wo sie sich dann beinah in Mittheilung
+                    jeder Kleinigkeit die Dich betraf, erschöpft hat. Sie versprach mir noch einige
+                    mal ehe sie <placeName key="JP-005948">L.</placeName>
+                    verließ, zu mir zu kommen doch hat sie bis jetzt, und wie ich glaube aus
+                    Bescheidenheit nicht Wort gehalten. Ich kann nicht sagen, wie sehr dies Mädchen
+                    mir gefallen hat.  <anchor type="target" xml:id="start_xb3_ztf_3jb"/>Daß ich Deine Wünsche in
+                    Rücksicht eines gestrickten Polrocks und
+                    Müzchen mit Freuden erfüllen werde, und schon 
+                    das Werk angefangen habe,
+                    daran wirst Du nicht zweifeln!<anchor type="target" xml:id="stop_xb3_ztf_3jb"/>
+                    – Aber daß Du mir die <hi rendition="#u" hand="#author">Baumwolle</hi> dazu <hi rendition="#u" hand="#author">schickst</hi>, mußt ich beinah übelnehmen. Und es bleibt mir nun nichts
+                    übrig als sie Dir gelegentlich wieder zurückzuschicken, denn Du wirst mir doch
+                    die Freude gönnen wollen, Dir für dein kleines Wesen im eigentlichen  Sinne etwas zu g<hi rendition="#u" hand="#author">eben</hi>. Und auf die Art wäre es ja ganz
+                    komisch! –</p>
+            <p>Ich lege Dir hier den Brief vom Vaterbey den ich gestern Abend erhielt. Die Nachricht welche in ihm enthalten
+                    ist wird Dich überraschen und auch nicht. Daß er heirathen wollte wußtest Du ja
+                    längst. Doch der Gegenstand seiner Wahl war Dir ganz fremd. Mir hatte er – in einem Briefefrüher davon geschrieben, doch unter dem Siegel der Verschwiegenheit. –
+                    Wir kennen beyde diese <persName key="JP-002709">Henriette Cäsar</persName> gar nicht oder nur dem Rufe nach. Gesehen haben wir sie wenn Du dich erinnerst einmal in der französischen Kirche. Gott gebe daß <persName key="JP-002703">der Vater</persName> glücklich ist wird! Schreibe Du mir doch recht bald
+                    Deine Meinung.</p>
+            <p>Den Brief sey so gut mir bald, oder gleich zurück zu schicken, wegen der darinn
+                    enthaltnen Aufträge.</p>
+            <p> Du frugst schon einige mal, was <persName key="JP-004393">Minna</persName>, zu Deinem Glück, sagt? – Wenn Du ihr  schreiben willst so thue es doch
+                    bald. Denn du kannst wohl voraussezen, daß sie das von Dir erwartet. – Ich war noch in <placeName key="JP-005754">Freiberg</placeName>als sie von <persName key="JP-002583">meinem Manne</persName> zuerst die
+                    Nachricht empfieng. Wie er mir sagt, ist ihre Freude groß und unverstellt
+                    gewesen. Auch wollte sie Dir damals gleich schreiben, um Dich vor den
+                    Unbesonnenheiten zu warnen, durch welche sie sich in ihren ersten Wochen so
+                    schreckliche Folgen zu zog. Warum sie es aber doch unterlaßen hat – läßt sich
+                    wohl denken. <anchor type="target" xml:id="start_b33_45f_3jb"/>Wenn Du überhaupt
+                    von ihr Nachrichten wünschst, so thust Du nicht beßer als selbst an sie zu
+                    schreiben. Ich sehe sie in der That zu selten. Schreibst Du, so bitte ich Dich
+                    den Brief grade zu an sie zu addreßiren, und nicht erst durch meine Hand gehen
+                    zu laßen.<anchor type="target" xml:id="stop_b33_45f_3jb"/> Ihre Addreße ist: vor
+                    dem <placeName key="JP-011505">
+                  <hi rendition="#u" hand="#author">Peters-Thore</hi>
+               </placeName>, im <placeName key="JP-012843">
+                  <hi rendition="#u" hand="#author">Karthauseschen</hi> Hause</placeName>.</p>
+            <p>Nun meine liebste Caroline, muß ich schließen. Du wirst es dem Briefe anmerken,
+                    daß er etwas eilig geschrieben ist. Um ihn noch heute zur Post zu spedieren
+                    geschieht es. <anchor type="target" xml:id="start_rvx_jtf_3jb"/>Den Kattun zum
+                        Kleide<anchor type="target" xml:id="stop_rvx_jtf_3jb"/> besorge ich Dir und
+                    was Du noch sonst wünschest schreib es mir kurz meine liebste Seele! Lebe recht wohl.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

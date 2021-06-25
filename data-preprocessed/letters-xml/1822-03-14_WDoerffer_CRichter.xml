@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0289">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Wilhelmine Dörffer an Caroline Richter. Potsdam, 14. März und 3. April
+                    1822, Donnerstag und Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000830">Wilhelmine Doerffer</persName>
+               <placeName key="JP-006162">Potsdam</placeName>
+               <date when="1822-03-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#author">
+            <opener>
+               <dateline>Potsdam den 14 März </dateline>
+            </opener>
+            <p>Schwerlich würde es mir gelingen Dir meine geliebte Freundin den Eindruk
+                    schildern zu wollen, den gestern der Anblik Deiner mir
+                            so theuren Schriftzüge in mir erregten. Schon so lange habe ich Deine Stimme nicht
+                    mehr gehört, so lange nichts von Dir durch Dich selbst vernommen, daß ich von
+                    Deinen Zeilen tief bewegt, mich auf's Neue zu Dir meine theure Karoline
+                    hingezogen fühle.</p>
+            <p>Daß ich Dein Andenken immer treu in meiner Brust bewahrte, daß ich nie der
+                    schönen Jugendzeit  die uns so innig verband vergessen konte wirst Du
+                    mir gern glauben eben so, wie Du meiner innigen Theilnahme an den schmerzlichen Prüfungen die Dir das Schiksal
+                            auferlegte, gewiß bist.</p>
+            <p>Nur Dein frommer Gottergebener Sinn kann Dich erheben, u stärken, bey einem solchen Verlust
+                    wie er Dich traf, u Deine Worte an mich sprechen so wahrhaft den Trost aus, den
+                    nur diese stille Demuth uns giebt.</p>
+            <p>Dich meine geliebte Freundin in diesem Leben noch einmal zu sehn war immer mein
+                    inniger Wunsch. Durch die Präsidentin v
+                            Gerlach hörte ich vor zwey Jahren daß  Du in <placeName key="JP-005586">Berlin</placeName> seyst, u den Vorsatz hättest über <placeName key="JP-006162">Potsdam</placeName> zurükzufahren, um <persName key="JP-000225">die Bassewiz</persName> u mich zu sehn. Da es mir in dieser
+                    Zeit nicht möglich war selbst nach <placeName key="JP-005586">Berlin</placeName>
+                    zu kommen so hoffte ich Dich in Deinem freundlichen Vorsaz noch mehr zu
+                    bestärken, wenn ich Dir meinen Wunsch Dich hier zu sehn noch besonders bittend
+                    schriftlich vortruge. In dem Augenblick wo ich nur diese flüchtige Zeilen
+                    schreiben wollte, wurde ich von einem unwiederstehlichen Gefühl gedrängt Dir so
+                    recht aus tiefster Seele über die Zeit die zwischen unserer Trennung lag mein
+                    Herz zu eröffnen. </p>
+            <p> Ich hatte Dich seit Deinem Hochtszeits-Tage nicht
+                    wiedergesehn, das frische Bild unserer Jugend trat lebhaft vor meine Seele, u so
+                    gelang es mir durch Zufall was durch Vorsatz unmöglich gewesen wäre, Dir eine
+                    treue Darstellung meines Lebens u seiner mancherley Verkettungen zu geben. Ich
+                    fühlte daß unser Wiedersehn so noch schöner, u reiner die Freude daran seyn
+                    würde, wenn Du einen klaren Blick in alle meine Verhältniße gethan hättest.</p>
+            <p>Dieser Brief dem ich mehr anvertraut hatte als man gewöhnlich zu thun pflegt, kam
+                         aber wie ich hernach hörte 2 Tage nach
+                            Deiner Abreise in <placeName key="JP-005586">B.</placeName>.
+                    an, u ich glaubte er würde dem gewöhnlichen Gange der Post-Einrichtung nach Dir
+                    nach <placeName key="JP-005574">Bareuth</placeName> gesendet werden. Von Deiner
+                    Liebe für mich erwartete ich wohl Theilnahme über alles was ich Dir von mir
+                    sagte, indessen keine eigentliche Antwort auf diesen Brief, der nur auf unser
+                    Wiedersehn berechnet war.</p>
+            <p>Wie schmerzlich mir die Nachricht von dem Verluste dieses Briefes ist kann ich
+                    Dir gar nicht sagen  u ich werde diese Zeilen die ich Dir heute  nach meines
+                    Herzens Neigung schreiben muß so lange zurükhalten bis daß ich Dir sagen kann ob
+                    es mir geglükt ist ihn aufzufinden.</p>
+            <p>Doch nun genug hiervon; hat mir doch dieser Verlust die Freude geschenkt recht
+                    viel von Dir u den Deinen zu hören. Durch die <persName key="JP-000861">Gräfin
+                        Düben</persName> die ich zuweilen in gesellschaftlichen Kreisen sehe, erfuhr
+                    ich zufällig daß sie Dich näher kenne u Du kannst denken wie beglükend es für
+                    mich  war mir von Dir von <persName key="JP-999999">Deinem theuren
+                        Mann</persName> u <persName key="JP-003483">Deinen Kindern</persName>
+                    erzählen zu laßen! –</p>
+            <p>Werde ich Dich denn nie wiedersehn meine theure innig geliebte Freundin nie
+                        <persName key="JP-003483">Deine Kinder</persName> kennen lernen <persName key="JP-003484">die so liebliche herrliche Mädchen</persName> seyn sollen? –
+                    nie <persName key="JP-999999">Deinem mir so theuren Manne</persName> in diesem
+                    Leben wieder begegnen durch den Du Dich so beglükt fühlst u der so viele durch
+                    seinen Geist u sein Talent ermuthigt u belebt? – Nein meine theure  Freundin Du kannst mir nie wieder so nahe seyn ohne mich zu sehn. Das Schiksal hat mir zwar viel genommen, aber auch viel
+                    gegeben, u so wirst Du mich ruhig, heiter, u in meinen Verhältnißen glüklich
+                    finden.</p>
+         </div>
+         <div hand="#author">
+            <opener>
+               <dateline>den 3ten Aprill</dateline>
+            </opener>
+            <p>Jede Nachforschung meines Briefes war vergebens da ich den Tag an welchen ich ihn
+                    zur Post sandte nicht mehr weiß u nur auf diese Weise eine Ausmittlung möglich
+                    wäre.</p>
+            <milestone unit="section" rendition="#hr"/>
+            <closer>
+               <salute>Mit wahrer inniger Liebe werde ich immer Deiner gedenken bewahre auch
+                        mir im treuen Herzen Deiner mich  beglükenden Freundschaft</salute>
+               <signed>Wilhemine Dörffer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

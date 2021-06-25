@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0048">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Adelheid von Bassewitz an Caroline Richter. Potsdam, 20. August 1810, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000225">Adelheid Henriette von Bassewitz</persName>
+               <placeName key="JP-006162">Potsdam</placeName>
+               <date when="1810-08-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Aus der verzögerten Antwort, auf Ihr liebes
+                            Schreiben, haben Sie, meine theure Caroline, vielleicht den
+                    Schluß gezogen, daß Ihr Andenken, nicht sehr lebhaft in meinem Herzen geblieben
+                    sein müßte. Mit Freuden und inniger Bewegung bin ich es mir aber bewußt, daß
+                    meine herzliche Freundschaft für Sie ganz unverändert ist, daß ich mit der
+                    wahrsten Theilnahme jede Nachricht von Ihnen aufgenommen habe, u daß die liebe
+                    Zeilen welche mir <persName key="JP-001296">Wilhelm Gerlach</persName>
+                    überbrachte, mich mit einer Freude erfüllten, die fast über jede Beschreibung
+                    ist. Wie durfte ich hoffen, daß Sie theuerste Caroline bei der vielfachen
+                    Veränderung des Orts und der Lage die eine so große Zerstreuung und eine
+                    ausgebreitete Bekanntschaft mit vielen treflichen Menschen gewöhnlich mit sich
+                    führt  mein Bild in Ihrem Herzen bewahrt hätten; und daß mein Andenken
+                    Ihnen werth geblieben sei.</p>
+            <p>Die Fröhlichkeit und Unbefangenheit der Zeit die wir miteinander verlebten, wurde
+                    lebendig hervorgerufen in meiner Seele, durch jedes Ihrer lieben Worte; und der
+                    feierliche ergreifende Tag an welchen ich Ihre liebe Zeilen empfing, wurde mir
+                    durch das Bewustsein Ihres Andenkens und Ihrer Liebe verherrlicht und verklärt.
+                    Es war gerade der Tauftag meines 4ten kleinen
+                            Mädchens an welchen ich
+                    Ihren Brief empfing; ein großer Theil meiner Freunde hatte sich um mich
+                    versammelt, um Taufzeugen bei
+                    meiner kleinen <persName key="JP-012247">Auguste</persName> zu sein,
+                        <persName key="JP-001296">Wilhelm Gerlach</persName> kam wie gerufen, und
+                    durch Ihre liebe Zeilen waren Sie theure Caroline mit einem mal auch  in meiner Nähe
+                    versetzt. Gewiß hätte ich Ihnen sehr bald und noch ergriffen  vom dem Eindruck den Ihre
+                    Zeilen auf mich gemacht haben geantwortet, wäre nicht meine Freundinn <hi rendition="#u" hand="#author">
+                  <persName key="JP-000830">Minchen Dörfer</persName>
+               </hi>, die sich
+                    schon seit einigen Jahren, bei mir aufhält und mich bei der Erziehung <persName key="JP-012884">meiner Kinder</persName> unterstützt den Tag nach
+                    der Taufe in eine langwierige Krankheit verfallen, von welcher sie jetzt erst
+                    anfängt sich zu erholen. Meine häusliche Geschäfte häuften sich so an und meine Kräfte waren noch so gering, daß ich mich anstrengen mußte
+                    um nur das nothwendigste zu thun u so kam es daß die Beantwortung Ihres lieben Briefes von einer Woche zur andern verschoben
+                    wurde. Sie haben in diesen Zeilen nun bereits gesehen daß ich vier Töchter habe, und daß eine
+                    Freundinn die wir beide 
+                    in der Blüthe unserer Freundschaft mit Herzlichkeit u Liebe umfaßten sich bei
+                    mir aufhält und durch eine nützliche Thätigkeit  sich über vieles, was
+                    sie im Leben erfahren u leiden mußte, erhebt. Außer den <ref target="JP-UB0048/#nu4p_ljl_klb">4 Mädchen</ref> habe ich <persName key="JP-012403">einen Sohn</persName>, der jetzt im siebenten Jahre
+                    ist, der aber obgleich er der Einzige ist, gewiß nicht verzogen und ungerecht
+                    vorgezogen wird. <persName key="JP-012199">Meine älteste Tochter</persName>
+                    ist sehr schwachen Körperbaues, sie hat mir unendlichen Kummer und große Sorge
+                    durch ihre Schwächlichkeit verursacht; doch ersetzt sie dieses jetzt alles,
+                    durch ihre große Zärtlichkeit für mich, u durch recht ausgezeichnete Fähigkeiten
+                    und Anlagen die meine größte Freude ausmachen. <persName key="JP-012624">Meine zweite Tochter</persName> ist ein liebes sanftes freundliches Kind
+                    vielmehr läßt sich noch nicht von ihr sagen. Die
+                            beiden jüngsten Mädchen wovon das Eine zwei Jahr <ref target="JP-UB0048/#nwwt_1wh_klb">das andere 3 Monat alt</ref> ist sind die
+                    Spielpuppen im Hause für Mutter <persName key="JP-012364">Vater</persName>
+                    u Tante (so nennen alle Kinder <persName key="JP-000830">Minch Dör</persName>).
+                         <persName key="JP-011855">Marie</persName> die älteste von
+                    den beiden Kleinen ist ein gar drolliges u sehr lebhaftes Kind und eigentlich
+                    der Verzug von uns allen! Hier haben Sie beste Caroline, ein Bild von meinem Hausstande freilich
+                    ist es gar unvollständig, doch die Lückken welche durch eine so lange Trennung,
+                    wie die unsrige ist, entstehen, laßen sich mit einem Briefe, nicht ausfüllen.
+                    Wie glücklich könnte es mich machen wenn Sie mit <persName key="JP-003482">Ihrer
+                        ganzen Familie</persName>, wie es schon einige mal hieß, zum Besuch nach
+                        <placeName key="JP-005586">Berlin</placeName>, kämen, u die Freundinn hier
+                    in <placeName key="JP-006162">Potsdam</placeName> mit Ihrem u der Ihrigen
+                    Anblick erfreuten. Das lebhafte Intereße was <persName key="JP-999999">Ihr
+                        theurer Mann</persName> mir durch alles was ich früher von ihm wußte
+                    einflößte, ist durch die fortgesetzte Bekanntschaft mit seinen
+                    schriftstellerischen Arbeiten, u durch die Kunde von dem häuslichem Glücke was
+                    er den  Seinen bereitet, ehr erhöht, als verringert. Und ich darf mich
+                    ihm mit dem Bewußtsein empfehlen, jetzt seiner Freundschaft würdiger zu sein,
+                    als in früherer Zeit, wo er uns alle mit so vieler Nachsicht u Zartheit
+                    behandelte. Daß ich häuslich <hi rendition="#u" hand="#author">sehr</hi>
+               <hi rendition="#u" hand="#author">sehr</hi> glücklich lebe, daß
+                    sagte Ihnen wohl <persName key="JP-001296">Wilhelm Gerlach</persName>. Ich habe
+                    hier in <placeName key="JP-006162">Potsdam</placeName> wenig Umgang, aber viel
+                    Genuß in der Natur und in den herrlichen Umgebungen, die diesen Ort vor so
+                    vielen auszeichnen. Den Zusammenhang mit meinen Freunden in Berlin unterhalte
+                    ich lebhaft – es sind immer dieselben, welche die liebe Caroline früher kannten
+                    / Stubenrauchs /
+                    wovon <persName key="JP-012248">die Zweite</persName> an einen treflichen
+                    Mann, dem <persName key="JP-011793">Staats Rath Borsche</persName>
+                    verheirathet ist, die <persName key="JP-012431">Eimbeck</persName>. / eine
+                        <persName key="JP-001600">Heimsche</persName> Tochter / <persName key="JP-012254">die jüngste Stubenrauch, Auguste</persName>, ist zu
+                    einem treflichen Mädchen erwachsen. Von der Bülow bin ich durch manche Verhältniße äußerlich getrennt; meine Liebe für
+                    sie ist aber immer dieselbe, ich zweifle nicht an die ihre u obgleich wir uns
+                    seit Jahren nicht geschrieben haben, würde uns eine Stunde freien
+                    Gesprächs in Herzlichkeit u Liebe vereinen. <persName key="JP-000437">Die
+                        älteste Stubenrauch; Wilhelmine</persName>, hält sich in <placeName key="JP-012522">Sonnenburg</placeName> bei ihrer altesten
+                            Schwester auf, und erzieht u
+                    unterrichtet <persName key="JP-012852">ihre kleine Nichten</persName>
+                    deren sie fünfe dort hat. <persName key="JP-000830">Minchen Dörfer</persName>würde sehr erfreut werden durch die Versichrung, daß Sie, meine liebe Caroline ihrer mit Liebe
+                    gedenken, das Schicksal was Ihnen <persName key="JP-002581">die theure
+                        Schwester</persName> raubte, hat ihr zugleich die zärtlich geliebteste
+                    Freundinn genommen. Wollen Sie, meine beste Caroline, den Zusammenhang unter
+                    uns, zuweilen durch einige Zeilen unterhalten so werden Sie mich dadurch sehr
+                    glücklich machen; mögten diese Zeilen Ihnen ein Zeugniß sein wie sehr ich es
+                    wünsche  mögte sie mit ähnlichen Gesinnungen u Empfindungen von Ihnen
+                    empfangen werden als die Ihrigen bei mir hervorbrachten. Von ganzem Herzen und
+                    mit ewig unveränderter Freundschaft die Ihrige</p>
+            <closer>
+               <signed>Adelheid v Baßewitz geborne v Gerlach.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

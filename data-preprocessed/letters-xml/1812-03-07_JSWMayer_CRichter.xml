@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0055">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 7. März
+                    1812, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1812-03-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Dein letzter Brief ist vom 21. January und ich bitte Dich um Entschuldigung, wenn ich erst jetzt antworte. Auch
+                    hast Du durch <persName key="JP-004393">Minna</persName> in der Zwischen Zeit Nachricht von
+                            mir.</p>
+            <p>Erst also innigste Theilnahme an der Zufriedenheit mit Deinem Schiksal; die ich
+                    auch nicht einmal durch irgend eine Äußerung über mich unterbrechen will. Gott
+                    erhalte mir nur Stärke der Seele, so kann der letzte Rand meines Lebens noch
+                    Blumen für mich tragen. Möge er doch zum besten derer, deren Augen auf mich
+                    harren, noch fern seyn. Denn ich will ja gern bloß für andere gelebt haben.</p>
+            <p>Gern hätte ich gesehen, wenn <persName key="JP-999999">Dein Mann</persName> die vielleicht eintzige Gelegenheit, sich die
+                                Pension des <persName key="JP-000742">Herrn Fürsten Primas</persName> zu sichern, auch wenn dieser nicht mehr seyn wird, hätte
+                            benuzen könnenAllein er hat gewiß gute Gründe gehabtMöchte ihm nur hier die verheißene Pension zu
+                            theil werden<persName key="JP-003878">Herrv. Schukmann</persName> meynte neulich, es stände alles gut.</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0318/#start_scp_f5z_bjb"> Wenn Du mir schreibst, so
+                        erwehne doch, ob Du die zu Weyhnachten assignirten
+                        10 rth nun endlich von des <persName key="JP-003203">Geheimen R.
+                                Pfeiffers</persName> Geschäfts Träger erhoben hast.</ref> ich wollte <persName key="JP-003203">HerrnPfeiffer</persName> gern das Geld zahlen, u er will es nicht eher annehmen, als bis er
+                    weiß, daß Du es erhalten hast. Vergiß diß nicht.</p>
+            <p>
+               <persName key="JP-002709">Meine Frau</persName> ist gesund; auch <persName key="JP-004393">Minna</persName> u <persName key="JP-004394">ihre
+                        Kinder</persName>.</p>
+            <closer>
+               <salute>ich drüke Dich an mein Hertz, bitte <persName key="JP-999999">Deinen
+                            Mann</persName> u <persName key="JP-003990">HerrnProf. Seebek</persName> zu grüßen, u küße
+                            <persName key="JP-003483">Deine Kinder</persName>.</salute>
+               <signed>Dein  treuer Vater Mayer</signed>
+               <dateline>Berlin d. 7. Märtz
+                        1812.</dateline>
+               <persName key="JP-002709">Meine Frau</persName> grüßt hertzlich. – Sie
+                        leydet jetzt bey der Lebens Gefahr Ihrer kranken Freundin Spalding.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

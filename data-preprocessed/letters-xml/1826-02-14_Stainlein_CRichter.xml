@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0786">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Gottlieb Eduard von Stainlein an Caroline Richter. München, 14.
+                    Februar 1826, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-011935">Johann Gottlieb Eduard von Stainlein</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1826-02-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012104">Amtskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <hi rendition="#u" hand="#author">Abschrift des Briefes des Gesandten
+                        Stainlein</hi>
+            </p>
+            <p>
+               <hi rendition="#u" hand="#author">München d. 14<hi rendition="#uu" hand="#author">ten</hi> Febr.
+                        1826.</hi>
+            </p>
+            <p>Ich möchte beinahe auf Ew. Hochwohlgeboren zürnen
+                        wenn Sie wirklich
+                    vermuthen sollten, daß ich erst einer äußeren Aufforderung bedarf, um mich dem
+                    Andenken Ihres <persName key="JP-999999">verewigten Gemahles</persName> zu
+                    widmen und nach Kräften zur Beförderung des Nazionaldenkmals beizutragen, das
+                    ihm durch Herausgabe <bibl sameAs="JP-010983" subtype="werke-jp">seiner
+                        vortrefflichen Werke</bibl> gegründet werden soll.</p>
+            <p>Ich beehre mich vor allem auf Ihre schäzbare Zuschrift
+                            vom 4<hi rendition="#uu" hand="#author">ten</hi> d. M. zu erwiedern, daß
+                            die unmittelbare Verwendung <persName key="JP-002694">Sr Majestät des
+                                Königs</persName> bei dem <persName key="JP-001155">Kaiser</persName> bereits Früchte getragen hat daß der
+                    Polizeipräsident <persName key="JP-012059">Graf Sedlnietzky</persName> mir
+                    selbst die Versichrung gab, es stehe <ref type="letter" target="JP-UB0459">dem
+                        erbetenen <ref target="JP-UB0459/#nklx_yrs_r4b">Privilegium</ref>
+               </ref> für
+                    die österreichischen Staaten durchaus kein Hinderniß im Wege, daß ich ferner die
+                    Zusage erhalten habe, die baldige Eröffnung desselben so viel als möglich zu
+                    befördern, daß die verspätete Expedition ganz allein durch die vorgeschriebenen
+                    Formen und Zirkel des Geschäftsganges begründet sein können, und daß es
+                    jedenfalls eines meiner ersten Geschäfte sein wird, Ihre Angelegenheiten wieder
+                    halt persönlich zu betreiben  Ich kann jedoch nicht umhin zu bemerken,
+                    daß vor mehreren Jahren theils in <placeName key="JP-005793">Grätz</placeName>,
+                    theils in andern Städten der <placeName key="JP-006097">oesterreichischen
+                        Monarchie</placeName>eben so schlechte als wohlfeile Auszüge aus den
+                            Werken Ihres <persName key="JP-999999">seeligen
+                        Gemahls</persName> erschienen sind deren Konkurrenz den Absatz der neuen
+                    Original-Ausgabe in <placeName key="JP-006097">Oesterreich</placeName>
+                    einigermaßen beschränken dürfte.</p>
+            <p>Ich ergreife übrigens diese Veranlassung Ihnen zu versichern, daß es mir ein ganz
+                    besonderes Vergnügen gewähren wird, Ihrer Angelegenheit zu dienen, und die
+                    Hochachtung zu bethätigen pp.</p>
+            <closer>
+               <signed>Frhrr von Stainlein</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

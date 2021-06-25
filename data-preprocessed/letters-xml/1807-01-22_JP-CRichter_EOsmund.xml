@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0465">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Bayreuth, 22. Januar
+                    1807, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1807-01-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-003469">
+            <p>Ich freue mich sehr, daß Sie Ihre Reise<hi rendition="#u" hand="#author">glücklich</hi> vollendet
+                        haben. Woher wuste Ihr guter <persName key="JP-000970">Bruder</persName> daß
+                            <persName key="JP-003491">Odilie</persName>gestern schon beßer war? Im Gegentheil hat sie mir gestern große Angst
+                        gemacht, wie die<persName key="JP-002075">Köhler</persName> und  wißen werden. Doch
+                        heute ist sie es wirklich, und ich hoffe daß sie bald beßer seyn wird. Dank
+                        Lieber! Gern schike ich Ihnen <persName key="JP-003471">Emma</persName>.</p>
+         </div>
+         <div hand="#JP-999999">
+            <p>Guten Morgen! Indeß meine Frau mir stehend gegenüber schreibt, thu’ ichs auch. Es
+                    ist ein schöner Einfall. Unsere gegeneinander laufenden Federn begegnen sich
+                    immer in der Mitte wie immer die Menschen. Indeß hat sie mehr Papier, folgl.
+                    mehr Worte. So einig sei stets die Ehe; denn keines weiß von des andern
+                    Thun.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0882">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 11. Juni 1808,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-06-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 11<hi rendition="#uu" hand="#author">n</hi> Jun. 1808.</dateline>
+            </opener>
+            <p>Wie soll ich Ihnen, Trefflicher, würdig genug für <ref type="letter" target="JP-UB0879">Ihren so gar
+                        lieben Brief</ref> danken? – <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0879/#start_yhx_5n4_n4b">Ich, zürnen auf einen so
+                        geplagten Freund?</ref> O wie erkennen Sie mein
+                    Herz! Wenn der Staatsmann mein kleines
+                            Buch<hi rendition="#u" hand="#author">liest</hi>, mit so vieler Liebe
+                    liest, so ist ja dieß in unsrer Zeit schon ein halbes Wunder – aber, wenn mich
+                    der <hi rendition="#u" hand="#author">Freund</hi>, auch mitten in
+                    meinem (vielleicht allerdings sträflichen) Enthusiasmus <hi rendition="#u" hand="#author">lieber</hi> dadurch gewinnt, welch
+                    unaussprechliches Glück!</p>
+            <p>Ja, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0879/#start_w3k_244_n4b">allerdings komme ich, um Sie ans Herz zu drücken</ref> und in die blauen
+                    Augen <persName key="JP-012266">Ihres lieblichen
+                        Minchens</persName> zu sehen, wenigstens auf ein
+                            Paar Tage nach <placeName key="JP-005956">Liebenstein</placeName>, und hoffe, daß dort die starken Arme meiner geliebten
+                    Freunde meine Schwäche stützen werden. <persName key="JP-004208">Studniz</persName> hat mich 2 mal besucht, und kommt auch dort hin.</p>
+            <p>Die <bibl sameAs="JP-010023" subtype="werk">Kunstschulplan</bibl>sache geht immer
+                    weit über Erwarten gut. Ich freue mich recht innig, mit Ihnen und <persName key="JP-004208">Studniz</persName> (zwey Zweiflern der ersten Grösse) ein Stündchen
+                    darüber zu scherzen, und mich bey'm Weine bekehren zu lassen!</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0879/#start_epx_wp4_n4b">Im Urtheil des erhabnen <persName key="JP-001353">Göthe</persName> über
+                        mich, das Sie die Güte haben mir in einigen Worten
+                        zu geben, fühle ich gar wohl den juckenden Stich dieser heiligen hybläischen Biene, der in den Kopf meines Planes eindringt,
+                        ohne sein Herz zu verletzen!</ref> (was er ohnehin gewiß nie thut, dieser,
+                    ach, schon längst nur in den höchsten Höhen spielende und dort Blumen und
+                    Spottblitze handhabende Geist!) Aber untröstlich würde ich seyn wenn Er (man
+                    sollte ihn stets mit einem grossen Buchstaben schreiben) in dieser Operation
+                    nicht bloß ein liebendes herzliches <hi rendition="#u" hand="#author">Streben</hi>, sondern einen Anspruch (vel quasi, als glaubte ich "<hi rendition="#u" hand="#author">ich könne Etwas</hi>") sähe! – Mich treibt der
+                    Geist – <hi rendition="#u" hand="#author">kann</hi> man ihm
+                    widerstehen? – Wenn ich irgend eine Tugend habe, so ist es Bescheidenheit. Daher
+                    wagte ich an Ihn auch noch keine Bitte um Theilnahme. – Aber, sobald mir der
+                    Himmel Etwas Grosses und Zusammenhängendes beschert – dann verzeiht Er mir
+                    gewiß, wenn ich sage: Sieh freundlich her, du Grosser – das ist mir geglückt –
+                    diese Baukosten sind zur Disposition erworben; nun betrachte meinen Plan: er ist
+                        <hi rendition="#u" hand="#author">liberal</hi>, meynt es <hi rendition="#u" hand="#author">rein so</hi>, <hi rendition="#u" hand="#author">wie er spricht</hi> und ist noch empfänglich für
+                        <hi rendition="#u" hand="#author">jedes Gute</hi>: nun fange an
+                    und  vollende, du schöner Riese!" – Das, edler Freund, war von jeher
+                    mein Plan, schon als die <bibl sameAs="JP-013259" subtype="werk">Propyläen</bibl> entstanden. – Ich selbst habe nie Geschick und Kraft dazu
+                    gefühlt, noch weniger das Begehren zu hegen gewagt, auf irgend eine Art bey solchem "artistischen Schnepfenthal" (wie es <persName key="JP-000400">Herr Böttiger</persName> verruchter Weise und zu meinem bittersten Ärger
+                    nennt) angestellt zu werden. Will man einst <persName key="JP-004557">meinen
+                        Kindern</persName> die 420
+                    xx.,
+                    die mich alle Versendungen kosten, aus dem Fonds zurückzahlen, so – muß ich dieß
+                    wohl als ein <hi rendition="#u" hand="#author">armer Vater</hi>
+                    wünschen, hoffe aber, daß <persName key="JP-004557">meine Kinder</persName>
+                    keine <hi rendition="#u" hand="#author">armen Kinder</hi>
+               <hi rendition="#u" hand="#author">bleiben werden</hi>.</p>
+            <p>Sehen Sie, Bester, der Gedanke, <persName key="JP-001353">G.</persName> könnte in meinem Streben eine <hi rendition="#u" hand="#author">Anmaassung</hi> sehen – ist mir
+                    unerträglich und wahrhaft fürchterlich – und wenn Sie
+                    mich von ihm auf irgend eine Art befreyen könnten, so würde ich wie neugeboren
+                    seyn!</p>
+            <p>Aber kein Wort mehr vom <bibl sameAs="JP-010023" subtype="werk">Kunstplan</bibl> –
+                    wir sehen uns ja. Ich wünschte nur, den Tag Ihrer
+                    Ankunft in <placeName key="JP-005956">L.</placeName> zu erfahren, damit ich mich
+                    danach einrichten könne. <persName key="JP-003149">Panzerbieter</persName> sagt, Sie würden
+                            später kommen.</p>
+            <p>Des armen <persName key="JP-012266">Minchens</persName> Winterübelseyn hat mir
+                    Kummer gemacht. Ich küsse ihre Hände tausendmal.</p>
+            <p>Schwendlers
+                    freuen sich auch herzlich auf Sie. Sie werden Ihnen geschrieben haben.</p>
+            <p>Dem guten <persName key="JP-000332">Bertuch</persName> sagen Sie doch meinen herzlichen innigen Dank für seine freundliche Anzeige im Modejournal. Ich hoffe es in
+                        <placeName key="JP-005956">L.</placeName> mündlich zu wiederholen.</p>
+            <closer>
+               <salute>EwigIhr</salute>
+               <signed>treuerJEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

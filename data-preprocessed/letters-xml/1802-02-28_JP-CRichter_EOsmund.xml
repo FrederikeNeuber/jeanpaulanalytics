@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0331">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Meiningen, 28. Februar 1802, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-02-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>Meining. d. 28. Febr 1802.</dateline>
+            </opener>
+            <p>Eiligst</p>
+            <p>Vortreflicher Mensch! Dank für alles, u. besonders für Ihre lezte Emanuelsthat! Lassen Sie Ihr Herz  nicht irre machen durch<persName key="JP-003112">O.</persName> Sträuben, aus der süssen
+                    Unabhängigkeit und Lese- u. Schreibe-Schwelgerei herauszugehen in ein bindendes
+                    Verhältnis. Sie bekommen nach dem Dank auf Sicht den grössern a uso. Er mus durchaus einmal von seinem dünnen
+                    schwankenden  Brette genommen  und ihm eine Laufbahn<hi rendition="#u" hand="#author"> aufge</hi>macht werden. </p>
+            <p>Was wagen Sie, wenn anders das beste Gewissen wagen kan? Höchstens daß er einmal
+                         abdankt. Und ferner, steht denn jezt nicht sein ganzes Ja oder Nein bei ihm selber?</p>
+            <closer>
+               <salute>Gott segne Ihre Engels Hand. Möchten Sie sie einmal  einer weiblichen geben können! – Alle Grüsse von mir
+                            u<persName key="JP-003469">C.</persName> –</salute>
+               <signed>R.</signed>
+            </closer>
+         </div>
+         <div hand="#JP-999999">
+            <p>DieRöntgeniana hab' ich nur überlaufen. Wozu aber
+                    etwas überpichen, was ein so oft rezensierter Autor schon gewohnt ist? – Betrift
+                    es meinen moralischen Karakter oder meinen
+                    litterarischen? Nur das sagen Sie mir, dan wil ich Ihnen das Übrige selber
+                    ergänzen u vermehren.</p>
+         </div>
+         <div hand="#JP-003469">
+            <p> Ich muß Sie selbst grüßen, Engel, deßen Güte einem Thränen auspreßt.
+                    Gott segne Sie doch durch kleine Glükseeligkeiten, denn die höchste giebt Ihnen
+                    Ihr Herz!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

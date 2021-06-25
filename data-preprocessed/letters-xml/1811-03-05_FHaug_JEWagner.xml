@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0951">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Haug an Johann Ernst Wagner. Stuttgart, vor dem 6. März
+                    1811</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001572">Friedrich Haug</persName>
+               <placeName key="JP-006315">Stuttgart (Studtgardt, Studtgart, Stuttgard,
+                        Stutgard)</placeName>
+               <date notBefore="1811-02-05" notAfter="1811-03-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-013034">Wangenheim-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012543">Dank</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <hi rendition="#u" hand="#author">An Ernst Wagner. Mit Johannes
+                        Bilde.</hi>
+            </p>
+            <p>Gruß Dir, Gesundheit Dir und Frieden,  Du Liebling der <hi rendition="#u" hand="#author">Helikoniden</hi>!  Du <hi rendition="#u" hand="#author">Kranich</hi>, den  Tasliman  Zum Adler
+                    wandeln soll und kann!  Heil Dir! – Du bist es werth, Geliebter,  In
+                    stillen Leiden Vielgeübter!  Daß Dich der deutsche Vorweltmann, <persName key="JP-004347"> Der Bettenburger</persName>, liebgewann. <ref type="letter" target="JP-UB0949"> Gerührten Dank für Deine gold'nen
+                        Zeilen,</ref> Du Stral aus Gottes Lichte! Freund!  Nun trennen künftig uns nicht
+                    Meilen,  Nicht Berg und Thal – Wir sind vereint,  Und unsre Herzen, mehr
+                    als Ehrensäulen:  Sie feiern Deinen Geist, Dein Herz und unser Glück.
+                     Dank für <persName key="JP-004570">des
+                                Sohnes</persName> Meisterstück,  Bei dem
+                    mit sehnsuchtsvollem Blick  Wir oft im Abendkreise weilen.  Stell'
+                    unbemerkt (klein ist die Gabe zwar,  Doch lieb <persName key="JP-004570">dem
+                        genialen, wackern Jungen</persName>)  Johannes
+                            Bild auf seinen Kunstaltar,  Daß er von den
+                    Begeisterungen <persName key="JP-013228">
+                  <hi rendition="#u" hand="#author">Domenichino's</hi>
+               </persName> ganz durchdrungen,  Einst
+                    Kennern <hi rendition="#u" hand="#author">sei</hi>, was dieser <hi rendition="#u" hand="#author">war</hi>.  Dank, <hi rendition="#u" hand="#author">Wagner</hi>, für die Freudenkunde,
+                         <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0949/#start_egr_zkx_vnb">Daß <persName key="JP-004558">Deine
+                            Söhn</persName>, im schönen Bunde,  Die Künstlerwallfahrt zu
+                        besteh'n,  Auch Stuttgart's Mauern nicht umgehn.</ref> O schlüge bald die hochwillkomm'ne Stunde,  Daß wir an uns'rer
+                    Tafelrunde  Die <hi rendition="#u" hand="#author">reisenden geliebten Maler</hi>
+                    säh'n!  Dich aber – <hi rendition="#u" hand="#author">fliege noch nicht
+                                himmelan</hi>!  Dich fesseln lang' noch süße
+                    Vaterbande,  Dich neue Freundesbande. Vom Geschick  Erflehen wir's zum
+                    Segenspfande:  <hi rendition="#u" hand="#author">Du reisest aus dem fremden Lande  In Deine
+                                Heimath</hi> spät zurück.  Du
+                    lebst, bis jubelnd <hi rendition="#u" hand="#author">Isidoren</hi> Sich <persName key="JP-004558">Deine Maler</persName> auserkoren,  Bis
+                    ihren Lorbeerkranz Du siehst  Und Enkel noch zu Biedermännern ziehst.
+                     Vertraue kühn der Muse Prophezeiung,  Und sing' in hoher Krafterneuung,
+                     Und tritt – O Tag der Benedeiung!  Ein theurer Gast, bei Dämmerschein,
+                         In unsern Kreis zur Bruder-Weihung,  <anchor type="target" xml:id="start_amz_2sr_x4b"/>An <hi rendition="#u" hand="#author">
+                  <persName key="JP-004347">Truchseß</persName>
+               </hi> Hand<anchor type="target" xml:id="stop_amz_2sr_x4b"/>, genesen ein!</p>
+            <closer>**. ****.<dateline>Stuttgart, den 9. März, 1811.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

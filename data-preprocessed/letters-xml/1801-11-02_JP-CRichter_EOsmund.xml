@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0501">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Meiningen 2. November 1801, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1801-11-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-003112">Georg Christian Otto</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>Meining. d. 2. Nov. 1801.</dateline>
+            </opener>
+            <p>Mein Emanuel! Die Quarto-Briefe sol<persName key="JP-003112">Otto</persName> – Sie ohnehin auch – durchlesen. Sie sind von der <persName key="JP-002126">Fr. v. Klenke</persName> in <placeName key="JP-005586">Berlin</placeName>, der Tochter der<persName key="JP-002056">Karschin</persName>, die sie mir – für 2 rtl.
+                        porto – gesandt zum Edieren u. Emendieren; und <persName key="JP-003112">Otto</persName> sol seine Meinung sagen. <persName key="JP-002126">Die Frau</persName>
+                    selber besteht aus Flammen, Strahlen und aus dem Undsoweiter.</p>
+            <p>Meine C. passet auf Ihre Antwort. – Ihr Schweigen über
+                        <persName key="JP-002581">die Schwester</persName> lässet mir nur die
+                    trübsten Auflösungen dieses Räthsels zu. – <persName key="JP-001665">Ihr
+                        Beleidiger</persName> selber muste aus Ihren Beleidigern wieder Ihre
+                    Beichtkinder machen, ich meine dieHerders, die jezt alles
+                    zurüknehmen. Mich freuet Ihr bester Defensor, die Zeit.</p>
+            <p> Ich lebe in alter Lust dahin, einsam, fleissig, seelig. Grüssen Sie
+                        Otto<persName key="JP-003108">Amoene</persName> recht und Ihre lieben Brüder. Meine C. sol
+                    nun, da ich A gesagt u. B., auch gar C sagen. Adieu
+                    Guter! – </p>
+            <closer>
+               <signed>R.</signed>
+            </closer>
+         </div>
+         <div hand="#JP-003469">
+            <p> Die C paßet wohl freilich auf Ihre Antwort, einzig
+                    guter Emanuel, aber sie will nur, daß Sie ihrer so gedenken, wenn alle älteren Fodrungen der
+                    Freundschaft abgethan sind – ich wünsche, daß der herrlichste Mensch recht innig glücklich seyn möchte … meine <persName key="JP-002581">Ernestine</persName> schreibt mir eben so wenig als
+                    Sie, mein Bruder, und ich hatte mich doch so sehr auf das goldne Fest der Fantasie gefreut, die aus Euren Erinnerungen mir eine geliebte
+                    Gegenwart gestaltet hätte. <persName key="JP-002581">meine Schwester</persName>
+                    ist ein gutes Mädchen das sag ich dem Guten ins Auge – Sie müßen sie nicht verkennen.</p>
+            <closer>
+               <signed>Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

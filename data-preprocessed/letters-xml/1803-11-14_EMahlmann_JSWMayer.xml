@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0310">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Coburg, 14. November 1803, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005649">Coburg 
+               </placeName>
+               <date when="1803-11-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Coburg. den 14<hi rendition="#u" hand="#author">ten</hi> November 1803</dateline>
+            </opener>
+            <p>Der <hi rendition="#u" hand="#author">eine</hi> unbedeutende Name an
+                    der Stirn dieses Briefes, faßt eine Reihe mannigfaltiger Begebenheiten in sich,
+                    die Ihnen, mein geliebter Vater, nicht ganz unintereßant seyn werden, weil Sie
+                    sich auf mich beziehen. Aber ohne einer
+                    wortreichen Darstellung derselben, wird in Ihrer Seele ein Bild stehen vom
+                    Ganzen;  den Freuden und
+                    von den Schmerz der lezten Zeit.</p>
+            <p>Schade, daß nie ein Genuß vollkommen seyn darf, und daß auch mir die lang
+                    ersehnte Freude <persName key="JP-003469">Carolinen</persName> einmal wieder
+                    nahe zu seyn, durch die Trennung vom <persName key="JP-002583">geliebten
+                        Manne</persName> halb verloren geht.</p>
+            <p>Es gab mir für diesen Schmerz nur einen Ersaz; den, in
+                            zwey dankbaren Gemüthern Das Opfer das <persName key="JP-002583">mein Mann</persName> ihnen brachte, <hi rendition="#u" hand="#author">erkannt</hi> zu wißen. Sie fühlen es, was es ihm
+                    kosten mußte, das Wesen, das im höchsten Sinne des Worts eng mit ihm verbunden
+                    ist, – zu einer Zeit von sich zu laßen, in  welcher Menschen die
+                    einmal mit und für einander leben, ihr höchstes Glück nur im <hi rendition="#u" hand="#author">häuslichen</hi> Verein finden können – in dieser
+                    winterlichen Jahrszeit – auf der weiten Reise dem Geleit fremder Menschen,
+                    überlaßen – und endlich – wenn gleich im Schooß ihrer Freundin aufgehoben – doch
+                    in Hinsicht des Orts, und der übrigen Menschen, in  ihmdurchaus<hi rendition="#u" hand="#author">unbekannten</hi> Umgebungen.</p>
+            <p>Die Zeit meines hiesigen Aufenthalts ist nun schon bis zur
+                            Hälfte verlaufen.<persName key="JP-003469">Caroline</persName> wurde mit dem Ende der
+                            ersten vier Wochen die ich bey ihr lebe, <hi rendition="#u" hand="#author">glücklich</hi> von ihrer Bürde
+                            befreyt. Sie befindet sich so wohl, daß man das ganze Wochenbett für Spas nehmen
+                    möchte; und ist auch so glücklich, diesmal ihr Kind selbst stillen zu können –
+                    und so wird wohl mit dem Ende dieses Monats meine Rückreise möglich
+                            seyn. <persName key="JP-999999">Richter</persName> wird die Güte haben mich
+                    die Hälfte des Weges zu begleiten, und die andre Hälfte, <persName key="JP-002583">mein Mann</persName> mir entgegenkommen.</p>
+            <p> Ich bin recht froh daß <persName key="JP-004393">Minna</persName> und
+                        <persName key="JP-003469">Caroline</persName>jede mit einem <hi rendition="#u" hand="#author">Knaben</hi>ihre Männer und die
+                    Welt beschenkt haben. <persName key="JP-003469">Caroline</persName> hat nun ein
+                        <hi rendition="#u" hand="#author">hübsches</hi>Paar! Zwar läßt sich von der kurzen
+                    Existenz <persName key="JP-003490">des kleinen Sohnes</persName> noch nicht viel
+                    sagen – aber ihre <persName key="JP-003471">Emma</persName> ist ein wahrer
+                    Engel! Indem ich Ihnen schreibe, ruft <persName key="JP-003469">Caroline</persName> aus dem Bette mir zu, Ihnen doch ja recht viel von der
+                        <persName key="JP-003471">Emma</persName> zu erzählen! Wenn sich nur das,
+                        <hi rendition="#u" hand="#author">erzählen</hi> ließe – was
+                    Liebenswürdiges und Intereßantes schon jetzt in
+                    dem
+                    kleinen Wesen liegt.</p>
+            <p>Während unserm Beisammenseyn hat sich die Möglichkeit einer dauernden
+                        Vereinigungeder drey Schwestern in
+                        <placeName key="JP-005948">Leipzig</placeName> recht klar vor unserer Seele
+                    gestellt.</p>
+            <p>Ich kenne wircklich nichts für uns Alle so wünschenswerthes, als daß <persName key="JP-999999">Richter</persName>, der in der That nicht ganz abgeneigt
+                    ist, eimal <placeName key="JP-005948">Leipzig</placeName> zum Wohnort zu wählen,
+                    sich wircklich dazu entschließe. <persName key="JP-004393">Minna</persName> ist doch littera- rischer
+                            Verhältniße wegen an <placeName key="JP-005948">Leipzig</placeName>
+                            gebunden.
+                    Ich <hi rendition="#u" hand="#author">liebe</hi> es sogar – und
+                    möchte so lange <persName key="JP-002583">mein Mann</persName> sich in seiner Situation gefällt,
+                    keinen
+                    andern Wohnort, kein anderes Haus, keine freundlichern
+                    Umgebungen, als ich sie nun schon über drittehalb mein nenne! Aber <persName key="JP-003469">Caroline</persName>, ob sie gleich Kinder hat und glücklich ist, lebt doch
+                    wahrlich zu isolirt, zu abgeschnitten, von allem was sie noch außer <persName key="JP-999999">ihrem Manne</persName> und ihren <persName key="JP-003483">Kindern</persName> lieb haben könnte. –</p>
+            <p>Leben Sie recht wohl, mein geliebter Vater! und verzeihen Sie mein schnelles
+                    Abbrechen! Die Zeit ist mir ein wenig kurz zugemeßen, denn ich muß mich theilen
+                    in der Aufsicht über das Hauswesen und über <persName key="JP-003469">Caroline</persName>. Empfelen Sie mich <persName key="JP-002709">Ihrer
+                        lieben Frau</persName> – und lieben Sie ferner Ihre</p>
+            <closer>
+               <signed>treue Tochter E'. Mahlmann</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

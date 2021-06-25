@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0292">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Caroline Richter. Meiningen, 28. August 1811, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1811-08-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 28<hi rendition="#uu" hand="#author">ten</hi> August <hi rendition="#u" hand="#author">1811</hi>
+               </dateline>
+            </opener>
+            <p>Wie bist Du doch so himlisch gut, meine Caroline mir der <hi rendition="#u" hand="#author">reuigen Sünderin</hi>abermals zu schreiben und
+                    mit den eigentlichen Zauber der Liebe auf einmahl, mein verstektes Schweigen –
+                    so sieht es wenigstens aus – zu lösen. Aber, Caroline, ich bin doch ganz <hi rendition="#u" hand="#author">Dein</hi> und Deiner Liebe nicht
+                    unwerth. Du standest immer in meinen Herzen zwischen meinen zwey liebsten
+                    Schwestern meiner verklärten <persName key="JP-012570">Friederique</persName> und
+                        <persName key="JP-002936">Antonie</persName> jetzt unter den irdischen Wesen
+                    liebe ich Dich und <persName key="JP-002936">Antonie</persName> am meisten.</p>
+            <p>In dem Tagebuche meiner vorjährigen Reise welches Dir
+                                <persName key="JP-003087">Emanuel</persName> mittheilen
+                            wird wirst Du manches finden was mein stumm sein wohl
+                    eigentlich nicht entschuldigen soll, wodurch Dir aber klar wird werden, wie man
+                    so still so in sich gekehrt werden kann. Ueber <persName key="JP-003753">Leopold</persName> klage mit mir, und <persName key="JP-999999">Richter</persName> soll mir ein aufrichtendes Wort sagen.</p>
+            <p>Nun verlor ich meine <persName key="JP-012570">Friederique</persName> und
+                        <persName key="JP-002936">Antonie</persName> mußte
+                            ich von mir laßen, oh da wards ganz elend, das treue Herz
+                    Deiner Henriette Von <persName key="JP-012570">meiner verstorbnen
+                        Schwester</persName> theile ich  Dir anliegend ihre <ref type="letter" target="JP-UB0291">Vermächtniße an <persName key="JP-002936">Antonie</persName>
+               </ref>
+               <ref type="letter" target="JP-UB0388">und <persName key="JP-012187">ihren Gatten</persName>
+               </ref> mit. Den seltnen Werth dieser hohen Frau
+                    wirst Du daraus erkennen sie war Einzig in ihrer Art, ich war immer überzeugt
+                    daß sie der Erde nicht lange angehören könnte, ihre Wohnung war eigentlich am
+                    Throne Gottes. Auch theile ich Dir, Du schwesterlich geliebte Freundinn, die Briefe <persName key="JP-012187">meines
+                                Schwagers</persName> mit, den auch in diesen  mußt Du den würdigen <persName key="JP-012187">Gatten</persName> meiner <persName key="JP-012570">F.</persName> erkennen. Schike mir aber die Briefe bald wieder zurük, sie
+                    sind ein Heiligthum meines Herzens, nur um sie Dir mitzutheilen kann ich sie von
+                    mir laßen. Laß sie an <persName key="JP-003087">Emanuel</persName> der <persName key="JP-003884">Henriette S.</persName> und wenn es die zarte <persName key="JP-000817">Dovenek</persName> nicht zu
+                            schmerzlich errinnert, auch diesen
+                    lesen. Ach könnte ich jetzt bey Dir sein, sieh Liebe, es giebt Augenblike da
+                    kann ich meinen Schmerz über den Verlust einer solchen <persName key="JP-012570">Schwester</persName> nur ausweinen, nicht aussprechen!
+                    —</p>
+            <p>Aber, ich mache Dich weich Caroline, ich fühle wie Du wirst angegriffen werden
+                    und wir werden aber beyde wieder stark  wenn wir das schöne Bild
+                    weiblicher Resignation in unsrer <persName key="JP-012570">Friederique</persName> bewundern, wir freuen uns ihrer Erscheinung auf
+                    Erden und wagen nicht mehr sie aus <hi rendition="#u" hand="#author">ihrer Heimath</hi> herab zu wünschen – – – – –</p>
+            <p>
+               <persName key="JP-002936">
+                  <anchor type="target" xml:id="start_xlh_rqr_4lb"/>Antonie</persName> ist jetzt an ihrer Stelle, die schöne
+                    Thätigkeit die ihr <persName key="JP-012570">die Verklärte</persName>
+                    angewiesen hat paßt für sie.<anchor type="target" xml:id="stop_xlh_rqr_4lb"/>
+                    Mit unendlicher Sehnsucht ließ ich sie von mir scheiden aber es war gut! Ob
+                    jemals die <hi rendition="#u" hand="#author">Deutung</hi> die Du in <persName key="JP-012570">Friediriquens</persName> Vermächtniß nicht mißverstehen wirst, ob
+                            dieße jemals wird in Erfüllung gehen, bezweifle ich,
+                    ich glaube sogar daß es beßer ist <persName key="JP-002936">Antonie</persName>
+                    bleibe immer, die schwesterliche Freundinn meines <persName key="JP-012187">Schwagers</persName>. Den Spätherbst wollen Sie mich besuchen, oh Caroline
+                    könntest Du auch zu mir kommen, Herrn <persName key="JP-002153">Knippenberg</persName> ist nicht zu uns gekommen,
+                    er hat mich geärgert weil ich so gern viel von Dir gehört hätte und von
+                        <persName key="JP-003483">Deinen lieben Kindern</persName>. <persName key="JP-003967">Die Meinigen</persName> sind wohl und jedes nach der Reihe
+                    soll vor Dir auftreten. <persName key="JP-003749">Amanda</persName> ist brav,
+                         manches ekigte in ihrem Carakter schleift sich nach und nach ab,
+                    und auch ihr weniger Hang zur Häuslichkeit wird jetzt durch eine klärere Ansicht
+                    die sie von der Nothwendigkeit deßelben erhalten hat, bestimter und thätiger.
+                    Uebrigens waren für sie die bittern Erfahrungen der Reise nothwendig um den
+                    Werth zu erkennen den ihr das Mutterhaus und <persName key="JP-003966">der treue
+                        edle Stiefvater</persName> anbieten.</p>
+            <p>
+               <persName key="JP-003971">Pauline</persName> ist ein
+                    herrliches Kind, voller Gemüth und Liebe, ihr mütterlicher Sinn für ihre kleinen Geschwister die Duldung die sie allen beweiset die
+                    ihre Gedult prüfen und die unendliche Anhänglichkeit an mich machen sie mir sehr
+                    werth. Als sie vor einigen Tagen hörte <persName key="JP-011792">Demoiselle Romberg</persName> reiste nach
+                        <placeName key="JP-005574">Bayreuth</placeName> kam sie schnell gelaufen
+                    mich zu fragen ob es sich wohl zieme Dir, ihrer guten Freundinn etwas von ihrer
+                    Hand gearbeitetes mitzuschiken. Ich genehmigte es in Deiner Seele und da
+                    entstanden beykommende Strumpfbänder, nim das kindliche Opfer der Liebe
+                    freundlich auf —</p>
+            <p>
+               <persName key="JP-003965">Reinhold</persName> der Engelsknabe, was soll ich Dir
+                    denn von diesem sagen; Von diesem  wunderbaren Kinde was ich oft
+                    fürchte, nicht zu faßen so vielseitig ist es schon in einem Alter von 2¼tel Jahre. Ich kann Dir die äußere Anmuth des Kleinen
+                    nicht beschreiben, <persName key="JP-003860">Schroeder</persName> sagte mir
+                    neulig es sey ihm nie ein Kinderköpfchen vorgekommen in dem so viel Phiesionomie
+                    und Harmonie vereint wäre. Wenn <persName key="JP-003860">Schroeder</persName> nicht an der Brustwaßersucht
+                            stirbt, welches man befürchtet, so will er mir <persName key="JP-003965">Reinhold</persName> mahlen, als Cherub aus den Wolken schauend. Er gleicht
+                        <persName key="JP-003966">seinen Vater</persName> in Allem die höchste
+                    Lebendigkeit, eine außerordentliche Heftigkeit die aber gleich wieder besänftigt
+                    ist. Kurz es ist ein himlischer Knabe, deßen Erziehung mich mehr als Alles
+                    beschäftigt und wobey mir <persName key="JP-999999">Richters</persName>
+               <bibl sameAs="JP-010811" subtype="werke-jp">Levana</bibl>
+                    von außerordentlichen Nutzen ist. Ich denke ihn gefaßt zu haben um seine Lehren
+                    anwenden zu können. <persName key="JP-012469">Antonie</persName> mein
+                    jüngstes Kind, ein närrisches Dikerchen, so unbedeutend ihr Alter von 13
+                    Monathen so auch ihr Wesen. Gottlob aber daß mir die Kleine nicht so
+                    außerordentlich erscheint wie ihr Bruder, zwey  solche Kinder wie
+                        <persName key="JP-003965">Reinhold</persName>, ich würde nicht fertig
+                    werden.</p>
+            <p>Von mir selbst kann ich Dir nicht viel erbauliges sagen. Die Africanische Sommer
+                    Hitze hat mich sehr angegriffen, ich mag wohl ein wenig an der Brust leiden,
+                    wenigstens ist ein böser Husten der mich plagt und der nach vielen Mitteln immer
+                    nicht weichen will kein gutes Simptom. Die Meinigen ahnden nichts davon und daß
+                    ist mir lieb, ich lebe gern das Leben lacht mich freundlich in meiner nächsten
+                    Umgebung an, ich würde es ungern hingeben, soll es aber früher sein als in dem
+                    gewöhnlichen Zeitlauf, nun dann soll mir <persName key="JP-012570">Friederique</persName> vom Himmel ihren Genius
+                    der Resignation senden.</p>
+            <p>
+               <persName key="JP-003966">Schwendler</persName> der ewige sich gleich bleibende
+                    frohsinnige Mensch grüßt Euch herzlich. Mein Verhältniß zu ihm ist
+                    ununterbrochen glüklich, ich liebe ihn unendlich und ich bin ihm so gern
+                    gehorsam.</p>
+            <p>In meiner oeconomischen Laage habe ich manchen Verlust gemacht, mein unglükliches Vaterland hat auch von meinem Vermögen  geraubt, darum muß ich mich in mancherley Hinsicht einschränken. Da
+                    indeßen <persName key="JP-003966">Schwendlers</persName> bürgerliche Existenz
+                    bedeutender geworden, seit er Mitglied des Geheimenraths Collegiums ist und wenn
+                    es Irgend möglich ist ich überhaupt selbst Hand anlege, so ist mein Haus das
+                    Einzige wo zuweilen Gesellschaft ist wohin wenigstens jeder Fremde komt der sich
+                    hier aufhält. Manche vorzügliche Bekanntschaft ist mir dadurch geworden,  den Du mir empfohlen war ein feiner Mann.
+                        <persName key="JP-004556">Wagner</persName>, die Reinwalds und <persName key="JP-001605">Louise</persName> und <persName key="JP-001603">ihr
+                        Vater</persName>, sind mein einziger vertrauter Umgang. <persName key="JP-004556">Wagner</persName> ist ein herrlicher Mensch, so klar und
+                    rein. Er ist gleichsam mit der Erde fertig und doch verweilt er gern auf
+                    derselben. Die Gesellschaft bey der diken
+                            Heimin
+                    ist so gesunken daß ich beynahe gar nicht mehr hingehe.</p>
+            <p>Eine himlische Anlage haben wir uns im Freyen geschaffen an der <placeName key="JP-012040">Werra</placeName> dem Schloß Garten gerade über in dem
+                    sogenanten  <placeName key="JP-012893">Herrnberg</placeName>. Mit
+                        <persName key="JP-003967">den Kindern</persName> bin ich fast immer drüber
+                    und ergötze mich an der köstlichen Aussicht. <persName key="JP-003966">Schwendler</persName> ist zwar kein Gärtner dazu fehlt ihm Gesicht aber
+                    desto mehr Geschmak hat er bey Anlagen, ich helfe auch ein wenig. Die ganze
+                    Besitzung kostet uns 2000 rtl. man sagt sie sey nicht theuer.</p>
+            <p>Nun Caroline bin ich endlich fertig nim den langen Brief als Sühn Opfer an.
+                    Schreibe mir von Dir selbst und von <persName key="JP-003483">Deinen
+                        Kindern</persName> recht viel. Auch könntest Du die rükfahrende Gelegenheit
+                    der <persName key="JP-011792">Romberg</persName>
+                    benutzen und mit <persName key="JP-003483">den Kindern</persName> zu mir kommen,
+                    oh Gott Caroline wenn Du oder <persName key="JP-003087">Emanuel</persName> oder
+                        <persName key="JP-999999">Richter</persName>, Himmel wenn jemand von Euch
+                    käme. Bedenkt es doch Ihr Lieben <persName key="JP-999999">Richtern</persName>
+                    meinen Gruß alter treuer Liebe in meinem Tagebuch habe ich das Andenken unserer nun 12 Jährigen Bekanntschaft gefeyert. Vor Gott behaupte ich, auf der Erde
+                    liebt Euch Niemand mehr</p>
+            <closer>
+               <signed>als Eure Henriette</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

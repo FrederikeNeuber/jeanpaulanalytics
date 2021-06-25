@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0759">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Uthe-Spazier an Caroline Richter. Dresden, 17. Juni 1820,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1820-06-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012721">Dessauer Familienstipendium</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Liebe Karoline</salute>
+            </opener>
+            <p>ich weiß bereits von Herrn Troschel
+                    selber daß noch eine gerichtliche Procedur,
+                            deinetwegen für uns nothwendig ist,
+                    und du kannst dich darauf verlaßen daß die desfalls nöthigen Papiere,
+                    übermorgen, also am 19<hi rendition="#u" hand="#author">ten</hi>
+                        dieses, von hier aus, nach <placeName key="JP-005586">Berlin</placeName> abgehen werde. <persName key="JP-004106">Julius</persName> hat mir nur erst wenig über
+                            seinen Entschluß zu schreiben,
+                    Zeit übrig gehabt, und deshalb wahrscheinlich vergeßen mir zu schreiben, daß
+                    noch Miethe in <placeName key="JP-006431">Zittau</placeName>, abzutragen sey.
+                    Meinen Antheil an dieser Zahlung, wird nun wohl Herr <persName key="JP-004344">Troschel</persName>, von den Merzdorfschen
+                            Erbgeldern nehmen müßen,
+                    denn sonst ist von meinen Finanzen nichts mehr  in <placeName key="JP-005586">Berlin</placeName> vorhanden. Denn <persName key="JP-004106">Julius</persName> hat für sich 250 rtl. zum
+                    Antritt seiner Unternehmung, von dem Meinigen nehmen müßen. Das übrige besteht
+                    in Papieren die ich nicht zerstückeln kann.</p>
+            <p>Auch weiß ich noch nicht das Schicksal des Ringes, von dem Du in Deinem letzten Briefe aus <placeName key="JP-005586">Berlin</placeName> mir meldest, daß Du ihn an Dich genommen, und sehen
+                    werdest ihn in <placeName key="JP-005574">Baireuth</placeName> für höhern Preis,
+                    als das Auktions Gebot betrüge, zu verkaufen, wonach denn der Rest von dem summiert werden müße, den
+                    ich Euch von so lange her noch schuldig verblieb.</p>
+            <p>Auch dieser Gegenstand, muß  von dem Erbe der <persName key="JP-002779">Merzdorfin</persName> beseitigt werden da ich kein ander Geld mehr in <placeName key="JP-005586">Berlin</placeName> besitze.</p>
+            <p>Du fragst nach meinem Befinden. Um mich von einem heftigen Krankheits Anfall, der
+                    mich im Februar überraschte zu erholen, rechnete ich sehr auf diesen Sommer. Er
+                    fällt aber so kalt aus in hiesiger Gegend, daß ich mich sehr getäuscht
+                    fühle.</p>
+            <p>Dennoch brauche ich eine tägliche Bade Kur, in einer hiesigen Bade Anstalt, die
+                    für sehr heilsam gehalten wird. Man wird nun sehen, ob ich dadurch wieder zum
+                    vollen Besitz meiner Kräfte gelangen werde. Verzeih die Flüchtigkeit  des Schreibens. ich benutze wenige Augenblicke vor Abgang der Post dich nur
+                    eiligst über Deine Geldangelegenheiten zu beruhigen.</p>
+            <p>DieMädgen grüßen Euch
+                    herzlich ich bin mit unveränderter Gesinnung, Deine treue
+                        Schwester M. Uthe Spazir geb. Mayer</p>
+            <closer>
+               <dateline>Dresden am 17<hi rendition="#u" hand="#author">ten</hi> Juny 1820
+                        </dateline>
+               <anchor type="target" xml:id="start_c55_5xs_fnb"/>Wegen
+                        <persName key="JP-004107">Richards</persName> Universitäts Antritt werden
+                    wir uns dann erst entscheiden können, wenn Euer <persName key="JP-003490">Max</persName>, das Stipendium hinreichend benutzt haben wird. Sonst weiß
+                    ich keinen Ausweg in dieser Sache.<anchor type="target" xml:id="stop_c55_5xs_fnb"/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

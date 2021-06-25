@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0092">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, zwischen Ende
+                    Juli und Anfang November 1811 </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1811-07-20" notAfter="1811-11-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Liebe Caroline!</salute>
+            </opener>
+            <p>Du mußt wohl krank oder abwesend von <placeName key="JP-005574">Bayreuth</placeName> seyn, weil Du mir <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0561/#start_myt_33r_y3b">den Empfang der kleinen Assignation zur Deckung Deiner Porto Auslagen für die Porcellain Kiste
+                        nicht</ref> gemeldet hast. Freylich habe ich Dir auch noch nicht den Empfang
+                    der mir zu meinem Geburtstage übersandten Weste gemeldet; allein unsere Briefe
+                    hätten sich doch begegnen können; u am Ende bin ich immer der erste, der das
+                    Stillschweigen bricht. Unterhalte es nun auch nicht länger, u schreib mir, wie
+                    es Dir u <persName key="JP-003482">den Deinigen</persName> gehet.</p>
+            <p>Einen Justitz Rath (ich
+                            glaube Schultz) aus <placeName key="JP-006424">Wunsiedel</placeName> habe ich hier kennen lernen, der  <persName key="JP-999999">Deinen Mann</persName> auf der Reise nach <placeName key="JP-005721">Erlangen</placeName> gesprochen hat, und der Dich auch wohl schon gesehen haben muß. Es ist der
+                    letzte von dem ich Nachricht von Euch habe. Eine frühere ist die, <persName key="JP-999999">Deinem Mann</persName>
+                            nun auch schon bekannte, von den guten Absichten des <persName key="JP-001530">HerrnMinisterv. Hardenberg</persName> für letztern.<persName key="JP-003878">Herrv. Schukmann</persName> hat mir den Gang der Sache erzählt, und es ist an guten Erfolgen
+                    nicht zu zweyfeln, wozu ich zum Voraus gratulire.</p>
+            <p>
+               <persName key="JP-004393">Minna </persName>war einige Tage krank, aber bloß durch <hi rendition="#u" hand="#author">Rehumatisme</hi>, u ich hoffe es soll bald keine Spur davon übrig seyn. Auch sie klagt, daß
+                    Du ihr nicht antwortest.</p>
+            <closer>
+               <salute> Lebe wohl; grüße <persName key="JP-999999">Deinen
+                            Mann</persName>, u küße <persName key="JP-003483">Deine
+                            Kinder</persName>
+               </salute>
+               <signed>Dein  treuer Vater Mayer</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-002709">Die Mutter</persName> grüßt hertzlich.</p>
+               <p>Deine Weste muß ich wegen meiner Corpulenz für <persName key="JP-004106">Julius</persName>
+                        aufheben. Auch so bleibt mir Deine gute Absicht werth.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

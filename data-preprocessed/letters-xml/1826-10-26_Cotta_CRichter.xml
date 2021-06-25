@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0622">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Friedrich Freiherr Cotta von Cottendorf an Caroline Richter.
+                    Stuttgart, 26. Oktober 1826, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000698">Johann Friedrich Freiherr Cotta von Cottendorf</persName>
+               <placeName key="JP-006315">Stuttgart 
+               </placeName>
+               <date when="1826-10-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Stuttgart den 26. Octbr. 1826.</dateline>
+               <salute>Euer Wohlgebohren</salute>
+            </opener>
+            <p>irren sich, wenn Sie in <ref type="letter" target="JP-UB0662">Ihrem Schreiben vom 21.–</ref> annehmen, es seye
+                            mir <hi rendition="#u" hand="#author">nicht gefällig
+                                gewesen</hi>, Ihre Fragen zu beantworten, – da es ganz der Mehrheit und der Sache gemäß ist, daß ohne Kentniß Ihres
+                    Vertrags mit <persName key="JP-003408">Herrn Reimer</persName> ich sie
+                    nicht beantworten kann, indem ich Ihre gegen diesen eingegangenen
+                    Verbindlichkeiten nicht kenne, und die Beantwortung doch davon abhängt.</p>
+            <p>Sie können versichert seyn, daß ich <ref type="letter" target="JP-UB0613">jenes Schreiben</ref> ganz unbefangen und mit redlicher Gesinnung schrieb:
+                    mir ist jeder Streit und Uneinigkeit ein Eckel, und Sie können keinen größern
+                    Schmerz über diese Verhandlungen fühlen als ich – nur mit dem Unterschied, daß
+                    ich sie nicht so herbeigeführt habe, daß ich Schaden und großen Schaden leide,
+                    der von Ihnen hätte leicht abgewendet werden können, und den der verewigte
+                        <persName key="JP-999999">Jean Paul</persName> nie würde zugegeben haben;
+                    wie seine Briefe beweisen werden, wenn ich sie publicire.</p>
+            <p>Sie können auch aus demjenigen was ich wegen der <bibl sameAs="JP-010885" subtype="werke-jp">Selina</bibl> schrieb, abnehmen, daß ich nur nach
+                    Vermuthungen hätte jene Fragen beantworten können, aber annahm, daß "da Sie wegen der Selina nicht genirt seyen," Sie auch über den einzelnen Verlag nicht geniert seyn werden, welches
+                    andere Werk es auch beträffe.</p>
+            <p>Nun bin ich freilich durch <ref type="letter" target="JP-UB0662">Ihre
+                        Erklärung vom 21.</ref> ganz ins Klare gesetzt, da Sie schrieben, daß Sie
+                        <persName key="JP-000704">meiner Handlung</persName> keine weitere Auflagen,
+                    die in Ihrem Verlag erscheinen werden, übertragen können, und daß Sie sich hiezu
+                    bestimmt sehen weil ich Ihre Fragen, nicht beantwortet hätte.</p>
+            <p>Sie konnten also darüber verfügen. Sie wollen diß nicht zu Gunsten <persName key="JP-000704">meiner Handlung</persName> – diß muß diese und ich mir
+                    gefallen laßen, und <ref target="JP-UB0622/#nbdx_dw3_vkb">ich habe dabei
+                        nur zu bedauern, daß ich mir diesen Unwillen durch die gutmüthigste aber mit
+                        Gründen belegte Nichtbeantwortung von Fragen zugezogen habe, die ich ohne
+                        die Beantwortung der Ihnen vorgelegten  Vorfrage nicht verfaßen
+                        konnte.</ref>
+            </p>
+            <p>Ich gestehe dabei daß mir diese Erklärung aus diesen Gründen das unerwartetste
+                    war.</p>
+            <p>Was die <bibl sameAs="JP-010885" subtype="werke-jp">Selina</bibl> betrift so habe
+                    ich auf diese durch die oben bemerkte Aeußerung gar nicht verzichtet, und ich
+                    stelle es Ihrem Ermeßen anheim, ob Sie, nachdem der seelige<persName key="JP-999999">Jean Paul</persName> deren Verlag mir zugesagt, Sie diß auch in Ihrem Schreiben anerkant haben, nun ohne weiters anders darüber zu verfügen berechtigt sind – ich
+                    verzichte nicht darauf dann es ist eine Zusage Ihres verewigten <persName key="JP-999999">Gemahls</persName>, deren ich öffentlich schon erwähnt habe,
+                    und worüber meiner Ansicht nach kein anderer Anders verfügen kann.</p>
+            <p>
+               <persName key="JP-000704">Meine Handlung</persName> kann nur durch Ihre
+                    Erklärung, daß das <ref target="JP-UB0459/#nklx_yrs_r4b">Privilegium</ref> nicht
+                    auf diejenige einzelne Werke rückwärts ausgedehnt werden sollte, hinlänglich
+                    beruhigt seyn – was den Punkt des Rechts betrift –. <ref target="JP-UB0662/#ntts_dp3_vkb">Zu streiten mit <persName key="JP-003408">Herrn Reimer</persName> daß <hi rendition="#u" hand="#author">er</hi> hiebei nicht beobachtete was
+                            <persName key="JP-000704">diese Handlung</persName> gegen ihn
+                        beobachtet, ligt nicht in unserem Sinn.</ref> Mag jeder seine Handlungsweise verfolgen: das Rechte gibt
+                    doch nur Segen.</p>
+            <p>Die f 511. 12 x sind sogleich von <persName key="JP-000704">meiner Handlung</persName>
+                    bezahlt die eine bestimmte Quittung für was diese
+                            Zahlung war wünscht – Ihr indeßen eingegangenes Schreiben kann
+                            genügen.</p>
+            <p>Da Sie jene Zahlung als aus den Händen eines <hi rendition="#u" hand="#author">Freundes</hi> des <persName key="JP-999999">Seligen</persName>
+                    gekommen betrachteten, so weiß ich mir um so weniger das Weitere, zu erklären,
+                    je richtiger Sie jenes ansahen.</p>
+            <closer>
+               <salute>Mit dem besten Wunsch Ihres und der <persName key="JP-003484">Ihrigen</persName> WohlErgehens</salute>
+               <signed>Ew. Wohlgeboren pp</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0621">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Caroline Richter. Meiningen, 8. August 1809, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1809-08-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 8ten August <hi rendition="#u" hand="#author">1809</hi>
+               </dateline>
+               <salute>Geliebte, Unvergeßliche Caroline!</salute>
+            </opener>
+            <p>Durch <persName key="JP-002482">Frau von Lochner</persName> begrüßte ich Dich, jetzt Geliebte, durch diese Zeilen.
+                    Daß ich reicher geworden bin, weißt Du durch meine <persName key="JP-002936">Antonie</persName>, ja liebe Caroline, <persName key="JP-003965">ein lieblicher Knabe</persName>, macht mich
+                    jetzt
+                    zu einer reichen und frohen Mutter.</p>
+            <p>Viel Zeit kostet mir freylich <persName key="JP-003965">der liebe
+                        Kleine</persName>, und darum bekomme ich viel Schelte. Aber er bedarf auch
+                    großer Sorgfalt und Pflege; er kam ungewöhnlich klein und zart zur Welt; meine
+                    erste Freude war zugleich ein stiller Schmerz, weil ich glaubte der geringste
+                    Unfall könne mir den Liebling rauben. Nun fängt er an zu gedeihen, er wird stark
+                    und kräftig. Er gleicht ungemein <persName key="JP-003966">seinem
+                        Vater</persName> ein braunes Härchen, große blaue Augen und ein überaus
+                    freundliches Gesichtchen, so denke Dir meinen <hi rendition="#u" hand="#author">
+                  <persName key="JP-003965">Reinhold</persName>
+               </hi>, habe ihn
+                    lieb und unser <persName key="JP-999999">Richter</persName> soll ihn auch lieb
+                    haben.</p>
+            <p>
+               <persName key="JP-002482">Die Lochner</persName> schreibt mir,
+                        <persName key="JP-999999">Richter</persName> habe das kalte Fieber, dieses
+                    Fieber ist so überall herrschend in <placeName key="JP-005668">Deutschland</placeName>, doch möchte ich, daß  es Unsern
+                        <persName key="JP-999999">R.</persName> bald verließe, um so mehr, da es
+                    hier bey den Kranken eine lange Schwäche nachläßt. Der trefliche <persName key="JP-002357">Langermann</persName> wird
+                    alles anwenden, Du sagst es mir aber bald, wenn <persName key="JP-999999">unser
+                        Guter</persName>, wieder hergestellt ist. Wie geht es Dir, meine Caroline?
+                    was machen <persName key="JP-003483">Deine Lieblinge</persName>? Oh, Liebe, wenn
+                    ich gleich ein wenig faul im Schreiben war, so sind diese Fragen meinem Herzen
+                    immer gleich nahe und die Sehnsucht nach ihrer Beantwortung gleich stark. <hi rendition="#u" hand="#author">Du</hi>
+               <hi rendition="#u" hand="#author">und Alles was </hi>
+               <hi rendition="#uu" hand="#author">Dein</hi> ist, gehört mir auf <hi rendition="#u" hand="#author">ewig</hi>, und ich gehöre Dir eben
+                    so, mit treuer Ergebenheit.</p>
+            <p>Es ist jetzt alles vergeßen, aber meine Schwangerschaft war sehr beschwerlich,
+                    besonders konnte und durfte ich mich wenig anhaltend beschäftigen, deshalb
+                    schrieb ich beynahe an niemand.</p>
+            <p>
+               <persName key="JP-002936">
+                  <anchor type="target" xml:id="start_hgs_mqz_wmb"/>Antonie</persName> reißt in vierzehn Tagen <anchor type="target" xml:id="start_q55_dbq_2mb"/>mit Hendrichs<anchor type="target" xml:id="stop_q55_dbq_2mb"/>
+                    in die <placeName key="JP-006271">Schweiz</placeName>. Die Glükliche, sie wird
+                    den AltVater <placeName key="JP-006187">Rhein</placeName> stürzen sehen  wird <placeName key="JP-005518">Alpen</placeName> Röschen pfüken, –
+                    wenn nicht die Blume doch Blätter von ihrem Strauche - <anchor type="target" xml:id="start_ydn_vmq_2mb"/>sie wird <persName key="JP-003192">Pestalozzi</persName> sehen und bey ihm wohnen und
+                    in seinem Institute lehren<anchor type="target" xml:id="stop_ydn_vmq_2mb"/> kurz
+                    sie wird genießen in Fülle und vollen Zügen.<anchor type="target" xml:id="stop_hgs_mqz_wmb"/> Ich gönne es <persName key="JP-002936">ihr</persName> mit inniger
+                    Schwester liebe, wir Liebe, Du und ich Caroline, werden wohl schwerlich die
+                        <placeName key="JP-006271">Schweitz</placeName> sehen, dafür haben wir unsre
+                    Kinder, und diese Natur, diese zu studieren und beobachten, ja das ist das
+                    höchste! —</p>
+            <p>Der Sommer war nicht schön, immer rauh ich sehne mich um <persName key="JP-003965">meines Kleinen</persName> willen mehr wie je nach warmer
+                    Luft, damit er immer im Freyen seyn kann. Seit 2 Monathen bin ich Besitzerin
+                    eines der schönsten Berge in der hiesigen Umgebung. Da habe ich recht viel
+                    anzuordnen und zu arbeiten, dabey mein Garten und <persName key="JP-003967">die
+                        Kinder</persName>. Nicht wahr, Gute, Du glaubst das ich recht beschäftigt
+                    bin, und wenig  Zeit übrig habe. Es muß aber so sein, besonders in
+                        <placeName key="JP-006012">Meiningen</placeName> wo man außer dem Crayse der
+                    Seinen <hi rendition="#u" hand="#author">nichts</hi> hat.</p>
+            <p>Eine angenehme Erscheinung hier, darf ich dir offen nicht verschweigen, denn Du
+                    mußt <placeName key="JP-006012">Meiningen</placeName> um Deines ersten
+                    Aufenthalts willen und um Deiner Henriette immer ein wenig lieb behalten.
+                        <anchor type="target" xml:id="start_kqc_gpm_4lb"/>Ein Schwieger Sohn von
+                        <persName key="JP-003649">Salzmann</persName> mit Namens <persName key="JP-012061">Mercker</persName> hat sich hier
+                    etabliret, um eine halbe und ganze Pensions Anstalt
+                            anzufangen. Ich
+                    schike <persName key="JP-003971">Pauline</persName> hin
+                    und bin mit dem Unterricht außerordentlich zufrieden.<anchor type="target" xml:id="stop_kqc_gpm_4lb"/>
+               <persName key="JP-012061">Mercker</persName> ist
+                    ein Mann voller Talent und besonders gemacht Mädchens‘ zu unterrichten. Er ist
+                    fest und sanft. <persName key="JP-012203">Seine Frau</persName> ist sehr
+                    liebenswürdig, ohne sie geistig mit Dir vergleichen zu können, so hat sie doch
+                    von der Wahrheit Deines Carakters, und Deiner schönen Weiblichkeit vieles was
+                    mich so freundlich an Dich erinnert, dazu Deine Gestalt, daß ich das liebe Wesen
+                        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

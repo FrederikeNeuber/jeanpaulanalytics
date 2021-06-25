@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0939">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Arnold Brockhaus an Friedrich Bornträger. Altenburg, 9. Dezember 1810, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000501">Friedrich Arnold Brockhaus</persName>
+               <placeName key="JP-005521">Altenburg</placeName>
+               <date when="1810-12-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012599"> Johann Friedrich Wilhelm Bornträger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <persName key="JP-004393">Minna</persName>'s Zustand bleibt bessernd, aber er ist
+                    immer noch herzerschütternd. Ihre Nervenreizbarkeit ist wahrhaft sublimirt, wie
+                    ihr Geist nie in solcher Blüte und Ueppigkeit gewesen. Ihre fixen Ideen haben
+                    noch immer denselben Zirkel: Liebe, Eifersucht, Besorgniß mich zu verlieren,
+                    Glauben, daß ich schon anderwärts verheirathet sei, daß ich ein Zauberer wäre,
+                    auch andere: daß wir mit überirdischen Wesen in Verbindung ständen u. dgl. Sie
+                    spricht eine Stunde wie ein Gott, und in einer Minute, wenn sie auf irgendeine
+                    Idee kommt, die sie an einer ihrer schwachen Seiten berührt, ist ihre
+                    Besonnenheit auf einmal hin. Wir hoffen Alle indessen das Beste.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

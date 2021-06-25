@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0601">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter und Jean Paul an Johanna Heim. Bayreuth, 17. März 1814,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1814-03-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001604">Johanna Heim</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-003469">
+            <opener>
+               <dateline> Baireuth den 17<hi rendition="#uu" hand="#author">ten</hi>März 1814 _______________________ </dateline>
+            </opener>
+            <p>Mit innigem Schmerz, meine geliebte ewig verehrte Freundinn, habe ich in Ihrem Briefe an <persName key="JP-003087">Emanuel</persName>, Ihren großen
+                            Verlust
+                    erfahren. – – Die Entfernung hat nicht die rührende Erinnerung Ihres
+                    gegenseitigen Glückes bei mir schwächen
+                    können, welches mir in dieser mangelhaften Welt,
+                    als das RReinste und Ungetrübteste vorschwebte. Wie selten ist eine so vollkommene
+                    Ubereinstimmung aller Wünsche und Neigungen, wie bei Ihnen gegenseitig der Fall
+                    war! Allein das muß auch jetzt für Sie der kräftigste Trost sein, daß Sie Ihren
+                    geliebten <persName key="JP-001599">Mann</persName> so glücklich gemacht haben
+                    wie wenige Menschen es werden können. Wie kamen Sie alle seinen Wünschen zuvor,
+                    wie wahrhaft mütterlich sorgten Sie immer und überall für ihn! O Gott wird Sie
+                    dafür segnen durch alle Ewigkeiten! – – – –</p>
+            <p> Theure verehrte Frau! wie fühle ich es mit Ihnen, wie groß in manchen
+                    Minuten Ihre Sehnsucht nach dem immer geliebten <persName key="JP-001599">Mann</persName> sein mag – ich kann mich so ganz in Ihrem Fall hineindenken, und es Ihnen
+                    nachfühlen wie Ihnen zu Muthe sein muß,! Ach die Trennung durch Tod ist doch das
+                    Härteste was uns das Leben zu tragen aufgelegt hat. –</p>
+            <p>Schon im vergangenen Sommer als <persName key="JP-001600">der Doktor</persName> durch <placeName key="JP-005574">Baireuth</placeName>
+                    reißte, erfuhr ich von ihm die Kränklichkeit des trefflichen <persName key="JP-001599">Mannes</persName>. Unbegreiflich war es mir damals, wie ein so gesunder
+                    kräftiger Körper von einer solchen Krankheit
+                    ergriffen sein konnte. Die wärmsten Grüße trug ich damals dem <persName key="JP-001600">Doktor</persName> an Sie auf, und bat ihn recht
+                    angelegentlich, Ihnen zu sagen, daß ich mit derselben Liebe und Theilnahme  wie ehemals, Ihnen ergeben wäre. Daß ich Ihnen nach den Tode <persName key="JP-004556">Wagners</persName> nicht antwortete ist freilich unverzeihlich – aber rechnen Sie es meinem
+                    Herzen nicht zu. Man sollte nie etwas aufschieben, weil jeder Aufschub am Ende
+                    zur gänzlichen Unterlassung führt.  Wir fühlten schmerzlich seinen Verlust, der
+                    durch die rührende Art, wie er vom Leben Abschied nahm, noch erhöht wurde.</p>
+            <p>Möchten wir Sie doch einmal noch wiedersehen können herrliche treue Seele! Wie
+                    oft habe ich mich in das trauliche <placeName key="JP-006012">Meinungen</placeName> zurükgesehnt, in dem wir
+                            durch Ihre Liebe und Güte so viele frohe Stunden hatten.
+                    Was ist seitdem auf dieser unruhigen Welt vorgegangen, und warum haben Sie Gute,
+                    so sehr unter dem Druk der Zeiten leiden müßen, deren Haus ein Tempel der
+                    Gastfreiheit war?! – – –</p>
+            <p>|4| Bin ich Ihnen noch ein wenig lieb, beste Seele, so schreiben Sie mir doch
+                    recht bald, unterdeßen empfehle ich mich Ihrem Andenken mit <persName key="JP-999999">meinem Mann</persName> und <persName key="JP-003483">Kindern</persName>, die jetzt bald große Menschen sein werden, und mir
+                    unendliche Freude machen, denn sie sind ganz <hi rendition="#u" hand="#author">
+                  <persName key="JP-003483">Kinder</persName> ihres <persName key="JP-999999">Vaters</persName>
+               </hi>. Gott seegne Sie und erhalten Sie
+                    mir Ihre Freundschaft – –  Caroline
+                        Richter</p>
+         </div>
+         <div hand="#JP-999999">
+            <p>Auch mir, liebe Freundin, hat Ihr zerrissenes Glück wehe gethan. Ihr Trost ist,
+                    daß Sie <hi rendition="#u" hand="#author">
+                  <persName key="JP-001599">Ihm</persName>
+               </hi> einen frühern Himmel gegeben,  noch eh er den andern fand. Könnte man
+                    aber droben trauern, so würde Er es gewiß, daß Er seine Pflegerin auf einer für
+                    sie immer mehr aussterbenden Erde einsam zurück gelassen. – Man sollte doch
+                    Reisen am wenigsten verschieben; wie oft wollt ich nach <placeName key="JP-006012">M</placeName>! – Grüßen Sie <persName key="JP-001600">Ihren Heim</persName> u die Schwendlers. Gott tröste Sie.</p>
+            <closer>Ihr Jean Paul Fr
+                            Richter.</closer>
+         </div>
+         <div hand="#JP-003469">
+            <p>
+               <hi rendition="#u" hand="#author">Alle alten Freunde und Bekannte grüßen Sie herzlich von
+                            mir.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

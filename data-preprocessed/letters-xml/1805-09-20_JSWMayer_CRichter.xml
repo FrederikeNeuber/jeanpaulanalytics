@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0351">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 20. September
+                    1805, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1805-09-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 20.7.ber
+                        1805</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Herr v. Engelbronner hat
+                    am 14.7.<hi rendition="#u" hand="#author">ber</hi>
+                    Deinen Brief vom 11. August an mich abgegeben; u sich gestern, als er bey
+                    mir aß, mit dem Verlust seines Porte feuille
+                    entschuldigt. Wundere Dich also nicht, daß ich Dich um Antwort gemahnt habe.
+                    Auch hat <persName key="JP-002709">meine Frau</persName>Deinen Brief, den Du dem<persName key="JP-000831">Criminal Rath Dörffler</persName> mitgegeben hast, erst vor 8 Tagen,
+                    durch <persName key="JP-003203">Herrn Geheimen R. Pfeiffer</persName> erhalten, der für gut gefunden
+                    hat, dem <persName key="JP-000831">HerrnDöffler</persName> die Mühe der eignen Einhändigung
+                    zu ersparen. – Von einem Briefe durch den<persName key="JP-002269">Generalvon Kropff</persName> ist mir gar nichts
+                    zugekommen.</p>
+            <p>
+               <anchor type="target" xml:id="start_r1h_zsf_3nb"/>Nun zu Deinem Briefe vom 11. August – Es ist mir äußerst unangenehm, daß
+                        <persName key="JP-002583">HerrMahlmann</persName> Dir noch nicht geschrieben hat;
+                    u ich begreife ihn nicht, da er auch mir nicht antwortet. Wenn Genialitaet u Geschäfts Scheu immer so verbunden wären,
+                    so möchte man sich die Genies überall verbitten, oder
+                    es müßen Ihnen Curatoren gesetzt werden. – Fast aber
+                    halte ich auch Dich in Verdacht der Geschäfts Scheu. Denn ich denke, Du müßtest
+                    aus dem was vor Deiner Abreise aus<placeName key="JP-005586">Berlin</placeName> niedergeschrieben ist, u was Du
+                    besitzest, Dich leicht von demjenigen haben unterrichten können, was jetzt  zur Grundlage meiner Auseinandersetzung mit
+                                <persName key="JP-002583">HerrnMahlmann</persName>
+                    gehört. Wie kannstu also sagen: <hi rendition="#u" hand="#author">ich weiß nicht was ich habe</hi>. Willst Du also auch aus andern
+                    Rücksichten blindlings unterschreiben, worüber ich Dein Gefühl ehre; so thue mir
+                    doch in Bezug auf mich die Freundschaft, und informire
+                    Dich genau. Sonst sollte es mich reuen, daß ich mir
+                            die Mühe gegeben habe, Dich u <persName key="JP-002706">Deine
+                                Schwestern</persName> über <persName key="JP-002711">Euer
+                                Mutter</persName> Guth auseinanderzusetzen. Theile auch
+                    Deine Überzeugung an <persName key="JP-002583">HerrnMahlmann</persName> mit. Denn ich will nicht von
+                    den Allmosen eines bloßen Vertrauens des <persName key="JP-002583">HerrnMahlmann</persName> leben, u gleichwohl wird er
+                    sich gewiß nicht die Mühe geben, die Papiere seiner verstorbenen <persName key="JP-002581">Frau</persName> zu untersuchen.<anchor type="target" xml:id="stop_r1h_zsf_3nb"/>
+            </p>
+            <p>Die verlangten Taßen  erhältst Du mit
+                    diesem Briefe; u bitte ich sie als ein Geburtstags Geschenk von mir anzunehmen.
+                    Mögen sie Dich spät an die Vergänglichkeit aller Dinge erinnern.</p>
+            <p>Deine Nachricht von den<persName key="JP-012786">Stubenrauchschen Töchtern</persName> ist nicht
+                    gantz richtig. – <anchor type="target" xml:id="start_c1x_gjp_3nb"/>
+               <persName key="JP-000437">Die älteste</persName> ist
+                            nur noch, und auch noch nicht einmal öffentlich genannte, Braut
+                                <persName key="JP-003360">des ältesten von
+                                    Raumer</persName> aus<placeName key="JP-005665">Dessau</placeName>, der hier Cammer Assessor ist. <persName key="JP-012248">Die 2te</persName> ist
+                        in<placeName key="JP-012612">Heiligenstadt</placeName> an den <persName key="JP-011793">Cammer DirectorBorsche</persName> verheyrathet, u <persName key="JP-011922">die 3te</persName> an einen
+                    hiesigen  <persName key="JP-011795">Assesor Ludolff</persName>. </p>
+            <p>Andere
+                    Neuigkeiten bestehen in dem unglücklichen Tode der ältesten von den
+                    verheyratheten Scheiblerschen
+                            Töchtern, die sich in einem Anfall von Wahnsinn aus dem Fenster
+                    gestürzt hat.</p>
+            <p>Ferner in der 3ten Heyrath des <persName key="JP-012382">Geheimen Rath Le
+                        Coq</persName>, der eine<persName key="JP-012455">Dlle Müller</persName> zur<persName key="JP-012986">Struenseeschen Familie</persName> gehörig
+                    geheyrathet hat. – </p>
+            <p>
+               <persName key="JP-012529">HerrPhilippi</persName> ist noch nicht hier; u wir
+                    sehnen uns nach ihm, weil die Arbeit überhäuft ist.</p>
+            <p>Deinen HerrnRuprecht haben wir hier so viel an uns ist, zu
+                    empfehlen gesucht; u ich glaube, er wird mit der Zeit seine Rechnung hier wohl
+                    finden. – Freylich ist er noch kein<persName key="JP-003860">Schröder</persName>.</p>
+            <p>Er hat <persName key="JP-002709">meine Frau</persName> in Pastel gemahlt; soll auch mich mahlen; u Du sollst Zeichnungen von
+                    seiner Arbeit von uns beyden erhalten.</p>
+            <p>Herrv. Engelbrönner hat mir sehr gefallen; u mir viel Liebes
+                    von <persName key="JP-999999">Deinem Mann</persName> u <persName key="JP-003483">Kindern</persName> gesagt.</p>
+            <p>
+               <hi rendition="#f" hand="#unknown">– In diesem Augenblick,
+                        liebe Caroline, erhalte ich den SchlußStein meines
+                        fünfjährigen Gebäudes. Die Unterthanen zu<placeName key="JP-012108">Sanne</placeName> haben sich auf meine Klage
+                        erklärt, daß sie keinen Prozeß haben, sondern  die ErbPacht
+                        aufgeben wollen, u in diesem Augenblick hat das Cammergericht die Rükgabe
+                        des Guths an mich verfügt. ich gehe deßhalb in einigen Tagen nach der
+                            <placeName key="JP-012312">Altmark</placeName>; u in 4. Wochen
+                        wirst Du von mir nichts hören. Freue Dich mit mir des glücklich bestandenen
+                        Übels, welches uns bloß 800 rth kostet, die wir auf
+                        Bitte der Unterthanen aufopfern, um sie nicht zu ruiniren. Jetzt gehts zum Verkauf des Guths, welches bey den
+                        jetzigen Preißen der Grund Stücke, meine bloß für Euch übernommene
+                        Bemühungen, wohl belohnen wird. Auf alle Fälle können wir es doch nun
+                        verkauffen, wogegen sich bisher niemand darauf einlaßen konnte; so daß eine
+                        unseelige Gemeinschaft geblieben wäre, die vollends alle meine schon ins
+                        Weiß grinsenden Haare gebleicht hätte.</hi>
+            </p>
+            <closer>
+               <salute>Lebe wohl; grüße <persName key="JP-999999">Deinen lieben Mann</persName>
+                        u <persName key="JP-003483">Kinder</persName> u liebe </salute>
+               <signed>Deinen treuen Vater Mayer</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>
+               <persName key="JP-002709">Meine Frau</persName> grüßt hertzlich. Sie gehet nach
+                        <placeName key="JP-006010">Meklenburg</placeName> zu einer Freundin, und ich
+                    hole sie aus<placeName key="JP-012338">Neustadt an der Dosse</placeName> wieder ab.</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

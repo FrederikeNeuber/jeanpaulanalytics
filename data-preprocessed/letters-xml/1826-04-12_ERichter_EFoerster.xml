@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0168">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Ernst Förster. Bayreuth, 12. (?) und 13. April
+                    1826, Mittwoch und Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1826-04-12" notAfter="1826-04-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001120">Ernst Joachim Förster</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Die <persName key="JP-003469">Mutter</persName> kann dießmal leider nicht
+                    mitschreiben, wie haben Maurer im Haus, also auch Geschäfte; aber sie grüßt Sie
+                    herzlich und erfüllt mit Freuden ihre Wünsche, um deren nähere Bestimmung sie
+                    nur bittet. Es thut mir sehr leid, daß dießmal Ihre Erwartung getäuscht wird und
+                    mein Brief allein läuft; ich könnte wohl warten, aber wer weiß wie lange, und
+                    dann muß ich die Antwort, die allemal gleich fertig im Kopfe liegt, immer darin
+                    herumtragen, also – – – gute Miene zum bösen Spiel, ich weiß keinen Ausweg. Aber
+                    denken Sie’s noch einmal recht durch, was Sie hier erwarten; wollen Sie
+                        <placeName key="JP-005574">Bayreuth</placeName> nur statt eines
+                    Landaufenthaltes besuchen, so kommen Sie, und ich weise jeden schönen Tag ab,
+                    und bitte ihn im Mai zu erscheinen; denken Sie aber an gesellige Unterhaltung,
+                    so laufen Sie nur durch, nach <placeName key="JP-005918">Konradsreuth</placeName>. Die Gesellschaft besteht hier nicht aus Kreisen,
+                    sondern aus einem Kreis, und der nimmt einen Fremden, besonders wenn er nicht
+                    spielt, so bissig auf, wie ein Truthühnerschwarm einen vermehrenden Gesellen.
+                    Mir wird ganz angst, denke ich mir, daß Sie sich langweilen hier. Außer unserm
+                        <persName key="JP-003087">Emanuel</persName> und <persName key="JP-003112">Otto</persName> wüßte ich wenig Männer hier, die für Sie paßten, junge gar
+                    nicht. Wer wie wir schon so eingebürgert hier ist, und zumal wer wie ich eine
+                        <persName key="JP-004659">Louise</persName> und <persName key="JP-011864">Fanny Welden</persName> hat, und einen <persName key="JP-003087">Emanuel</persName>, die er alle auf der übrigen Erde nicht
+                    wieder zu finden glaubt, dem gefällt’s; doch wer andere Ansprüche hat –. Ich
+                    sage Ihnen das alles voraus, damit Sie sich um Gottes Willen nicht täuschen. Bei
+                    uns sollen Sie übrigens immer Freunde und Freude finden, erstere für sich,
+                    letztere für uns!</p>
+            <p>13. April. Hoffentlich wird heute der Brief fertig für die morgende Post. Sagen
+                    Sie mir, wie fangen Sie’s an, so lange Briefe zu schreiben? Ich mag mich drehen
+                    und wenden wie ich will, meine längsten haben nur sechs Seiten. Ueberhaupt ist
+                    mir’s gar nicht gleich, an wen ich schreibe; bei Ihnen geht’s mir leicht, bei
+                        <persName key="JP-004656">Weldens</persName> auch; aber bei Solchen, wo ich
+                    gescheit sein will, wo ich nicht alles wie’s kommt sagen darf, wird es mir
+                    unendlich schwer. Ihre Abhandlung über die
+                            Eitelkeit gefiel mir sehr. Solche Teufelsspiele der
+                    Phantasie müssen wie die Träume sein, in denen wir ja auch Sachen begehen, die
+                    im Wachen nie in unsere Seele kommen. Die Angst vor der männlichen Eitelkeit
+                    jagte mir ein junger Vetter ein, ein
+                    gutmüthiger, gescheiter, talentvoller Mensch, aber alles Schöne in ihm durch die
+                    böse Eigenschaft überdeckt. Daß Sie aber einen halben Scherz für ganzen Ernst
+                    nehmen, ist ärgerlich. Die Thräne des Schmerzes erlasse ich jedem Mann, fast
+                    auch jeder Frau, aber die der Rührung, Erhebung und Freude keinem Menschen! Was
+                    ist denn das für eine Novelle, die Ihnen
+                    im Kopf steckt? Kommen Sie nur und lesen Sie vor. <anchor type="target" xml:id="start_agw_d4d_1lb"/>Die <persName key="JP-003469">Mutter</persName>
+                    sprach mit einer unserer Bekannten, <persName key="JP-001679">Frau v.
+                        Herder</persName> (der Schwiegertochter <persName key="JP-001675">des
+                        berühmten</persName>), wegen eines Quartiers für Sie. Dort können Sie ein
+                    Logis bekommen<anchor type="target" xml:id="stop_agw_d4d_1lb"/>, und nun ist mir
+                    nicht mehr bange für Ihre Unterhaltung. Das Haus liegt in einem Garten, nach
+                    allen Seiten frische Aussicht, und in Herders finden Sie die beste Gesellschaft.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0146">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Antonie von Mützschefahl an Caroline Richter. Meiningen, 25. März 1810, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-03-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012533">Lektüre(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meinungen den 25ten Märtz <hi rendition="#u" hand="#author">1810</hi>
+               </dateline>
+               <salute>Geliebte Caroline,</salute>
+            </opener>
+            <p>schon mehremale versuchte ich an Dich zu schreiben, allein mein Unwohlseyn
+                    verrieth sich gar zu sehr durch einen mir ungewöhnlichen Trübsinn der lange Zeit
+                    unüberwindlich blieb. Deiner Theilnahme bewußt, versagte ich mir daher Dir zu
+                    schreiben und tröstete mich mit dem Vorsatz, Dir, die erste heitere Stimmung zu
+                    weihen. Dein liebevoller Brief an unsere
+                            Henriette erfreuete uns alle auf die wohlthuendste Weise. –
+                    Nim unseren innigen Dank dafür.</p>
+            <p>In <placeName key="JP-006422">Würzburg</placeName> erhielt ich durch <persName key="JP-002603">Lucrece Lockner</persName>
+                    ausführliche Nachrichten von Dir und den Deinen Mein ganzes Herz freuete sich
+                    der Genesung unsers lieben <persName key="JP-999999">Richters</persName>, und
+                    die Erzählungen der lieblichen <persName key="JP-002603">Lucrece</persName>, gaben dem schönen Familiengemälde, was mein
+                    Gemüth von Euch Lieben bewahrt, lebendigere Farben. Gott sey Dank! daß <persName key="JP-999999">Richter</persName> wieder wohl ist, ach, ich konnte Deinen
+                    Schmerz wohl nachfühlen und theile jezt so ganz Deine Freude. Recht oft wünsche
+                    ich mich zu Dir, und schon lange sinne ich über die Möglichkeit einer  Fußreise nach <placeName key="JP-005574">Bayreuth</placeName>; bis jezt
+                    ermüdet mich zwar noch der kleinste Spaziergang, überhaupt die geringste
+                    Anstrengung; doch geht es im Ganzen täglich besser und ich hoffe viel vom
+                    nächsten Sommer. Meine Krankheit war ein Erzeugnis der Feuchtigkeit des vorigen
+                    Sommers, der ich mich wiederhohlt und zuweilen höchst unvorsichtig
+                    aussetzte.</p>
+            <p>Viele gute Menschen pflegten meiner, <persName key="JP-003192">Pestalozzi</persName> und <persName key="JP-012189">seine
+                        Frau</persName> sorgten mit Elterntreue für mich und gestatten mir noch jezt
+                    Kindesrechte. O, liebe Caroline könnte ich doch Worte finden Dir zu beschreiben
+                    wie gut <persName key="JP-003192">Pestalozzi</persName> ist. Die <persName key="JP-012189">Mutter P.</persName> ist eine siebzigjährige schöne
+                    Matrone aus deren Augen ein Himmel voll Milde leuchtet. O, könnte ich sie zu Dir
+                    führen, wie würdest Du, und <persName key="JP-999999">Richter</persName>, und
+                        <persName key="JP-003483">die Kinder</persName> sie lieben. – – – </p>
+            <p>Ich verdanke jezt unserm lieben <persName key="JP-999999">Richter</persName>
+                    einen ganz eignen herrlichen Genuß: ich lese nehmlich den <bibl sameAs="JP-010897" subtype="werke-jp">Titan</bibl> bey unserm Freund <persName key="JP-004556">Wagner</persName>. Wenn ich nun ganz entzückt bin von dem Reichthum der
+                    schönen Dichtung, und mein Gefühl in Mittheilung überströmen möchte dann ist es
+                    mir unbeschreiblich wohlthuend in dem schon halb verklärten Angesicht des  <persName key="JP-004556">Freundes</persName>, sein tief erregtes
+                    Schönheitsgefühl strahlen zu sehen. Daheim in meinem Stübchen lese ich Richters
+                        <bibl sameAs="JP-010576" subtype="werke-jp">Dämmerungen</bibl>; wohl verdienen
+                    sie den schönen Namen mit der That.</p>
+            <p>Gieb unserm lieben <mod type="variant">WärwölfchenWehr wölfchen</mod>so nannt' ich mich ihr gewöhnlich aus
+                        hinlänglichen Gründen Seltsam kontrastiert die so prosaische Handschrift mit
+                        der poetischen Seele.</p>
+            <p>einen recht herzlichen Kuß von seinem treuen Schäfchen, grüß Deine Engelchen,
+                    Deine Freunde und behalte mich nur halb so lieb wie ich Dich ewig Deine </p>
+            <closer>
+               <signed>treue Antonie</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0513">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 30. September
+                    1819, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1819-09-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline> d. 30. 7.ber 19.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Deinen lieben Brief vom 20ten dieses Monaths habe ich richtig erhalten, u danke Dir für Deine darinn geäußerte
+                    liebreiche Gesinnungen.</p>
+            <p>Leyder befinde ich mich indeßen, in einem solchen Grade der äußeren Schwächung
+                    meines Cörpers, daß ich selbst von Deiner gütigen Bewilligung, die liebe <persName key="JP-003491">Odilie</persName> bey mir aufzunehmen, jetzt keinen, mit dem Interesse<persName key="JP-003491">des Kindes</persName> vereinbaren, Gebrauch machen
+                    kan; sondern diß vor der Hand aufgeben muß. Entschuldige mich bey ihr, und wende
+                    Dich überhaupt bey der ferneren Correspondentz mit mir,
+                    an <persName key="JP-003469">meine Frau</persName>, die Dir in meinem Nahmen
+                    antworten wird.</p>
+            <p>– <persName key="JP-004106">Julius</persName> ist noch nicht hier, sondern in der <placeName key="JP-006271">Schweitz</placeName>, von wo er über <placeName key="JP-005687">Dresden</placeName> nach <placeName key="JP-005586">Berlin</placeName> zurük zu kommen denkt. Er wird sich wundern, daß ich ihn bey der jetzigen
+                    Einrichtung zum Winter nicht wieder bey mir aufnehmen kann, sondern ihm die
+                    Sorge überlaßen muß, sich selbst ein Quartier zu schaffen, wogegen ich ihm noch
+                    ferner den Tisch geben will. ich brauche nehmlich den früher von ihm beseßenen
+                    Raum für meinen <persName key="JP-012088">Johann</persName>, um ihn näher zu mich zu haben. Vorläufig hat <persName key="JP-002709">meine Frau</persName> für <persName key="JP-004106">Julius</persName> in der Nachbarschafft ein Stübchen ausersehen, und wenn er fleißig ist,
+                    wird er sich seine  Bedürfniße überhaupt leicht schaffen können, ohne irgend jemand zur Last zu
+                    fallen.</p>
+            <p>Übrigens schicke ich Dir den hertzlichen u launigten Brief <persName key="JP-999999">Deines
+                                Mannes</persName> hiebey zurük, und bitte ich nebst Deine <persName key="JP-003471">Emma</persName>, u alle Deine Freunde zu grüßen.</p>
+            <closer>
+               <signed>Deintreuer VaterMayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

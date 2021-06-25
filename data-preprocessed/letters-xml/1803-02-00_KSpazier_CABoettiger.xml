@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0176">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Carl August Böttiger. Leipzig, Februar
+                    1803</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date notBefore="1803-02-01" notAfter="1803-02-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000400">Carl August Böttiger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Ew Hochwürden</salute>
+            </opener>
+            <p>Haben für gut gefunden, einer Anmerkung zum Januar-Stück Ihres <bibl sameAs="JP-010303" subtype="werk">Journals London u Paris</bibl> folgende
+                    Stelle beizufügen:</p>
+            <p>– den Nerv der Nation, derwahrlich nicht in <hi rendition="#u" hand="#author">der</hi>
+                            Welt besteht, für welche <hi rendition="#u" hand="#author">
+                  <bibl sameAs="JP-009809" subtype="werk">elegante
+                                    Zeitungen</bibl> u <bibl sameAs="JP-010177" subtype="werk">Meßkataloge</bibl>
+               </hi> gedruckt werden, trift dieser Vorwurf
+                            der Charakterlosigkeit, dem Himmel sey Dank, nicht.</p>
+            <p>Da Sie, in sofern Sie ein freilich auserwähltes <bibl sameAs="JP-008436" subtype="werk">Mode Journal</bibl>, <bibl sameAs="JP-010303" subtype="werk">Journal   v. London u Paris</bibl> u was weiter von Flugblättern
+                    für die gebildetere Welt erscheinen mag, hierbey ausschließen, ein verächtliches
+                    Licht auf die <bibl sameAs="JP-009809" subtype="werk">elegante Zeitung</bibl>
+                    fallen laßen u sie in die Nachbarschaft der <bibl sameAs="JP-010177" subtype="werk">Meßkataloge</bibl> bringen so sehe ich dies für einen neuen beleidigenden
+                    Ausfall auf <bibl sameAs="JP-009809" subtype="werk">dieses Blatt</bibl> an, und
+                    fordere Ew Hochwürden hiermit privatim auf, Sich
+                        darum näher zu
+                        erklären. Es steht gänzlich bey Ihnen von <bibl sameAs="JP-009809" subtype="werk">meiner Zeitung</bibl> u deren Publikum so   verächtlich zu denken, als Sie wollen: aber ich muß die Ehre haben
+                    Ihnen zu sagen, daß solche öffentliche Äußerung, zumal so ohne allen Muth
+                    hingeworfen, weder das Mittel sind endlich einmal ein rechtliches Verhältnis
+                    unter unsere Journal Herren zubringen, noch Sie selber vor unangenehmen
+                    Erwiederungen sicher zu stellen.</p>
+            <p>In meinem gegenwärtigen Schritt liegt eben so sehr die Erklärung Ihnen nichts
+                    schuldig zu bleiben, als der Ausdruck meines Wunsches   die
+                    unendlichen Redereien, die zu nichts als Erbitterung
+                    führen, wenigstens an Männern, die ich sonst aufrichtig schätze eingestellt zu sehen. Es kommt
+                    blos darauf an, wie Sie ihn aufnehmen wolln.</p>
+            <closer>
+               <signed>Spazier</signed>
+               <dateline>Leipzig Februar 1803</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

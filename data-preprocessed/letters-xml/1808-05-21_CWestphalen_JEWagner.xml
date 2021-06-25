@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0878">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Engel Christine Westphalen an Johann Ernst Wagner. Hamburg, 21. Mai 1808,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-013215">Engel Christine Westphalen</persName>
+               <placeName key="JP-005812">Hamburg</placeName>
+               <date when="1808-05-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012543">Dank</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Hamburg d 21 May 1808.</dateline>
+            </opener>
+            <p>Es hat mich sehr beunruhigt daß ich mich genöthigt sah, Ihnenn Herr Kabinetssecretair erst izt für eine
+                            Gabe zu danken wodurch Sie mir einen recht frohen
+                    Genuß verschaften. Sie werden aber, wenn Sie die Ursachen dieser Zögerung
+                    erfahren mich hinlänglich entschuldigt halten. Anfangs wollte ich Ihnen nicht
+                    eher schreiben, bis ich Ihren, mit so viel hinreißender Wärme abgefaßten <bibl sameAs="JP-010023" subtype="werk">Kunstschulplan</bibl> einigen meiner
+                    hiesigen, der Sache kundigen Freunden, <persName key="JP-013108">Ebeling</persName>, <persName key="JP-013130">Gurlitt</persName>,
+                        <persName key="JP-001853">S<hi rendition="#u" hand="#author">r</hi> Hudtwalcker</persName>, Doct.
+                            Meyer,
+                    Reinhold,
+                    den hier anwesenden <persName key="JP-004054">S<hi rendition="#u" hand="#author">r</hi>
+                        Schmid</persName> aus <placeName key="JP-005620">Bremen</placeName>, u
+                    anderen mitgetheilt hatte, um Ihnen das Gutachten dieser Männer zugleich zu melden. Wärend Ihr Buch noch in Cirkulation war,
+                    befiel ich, gerade in den ersten schönen Frühlingstagen, mit einem hier
+                    herrschenden kalten Fieber, welches mich ungeschickt zu allen
+                    Geistesbeschäftigungen ließ; und von dem ich nur noch kaum erstehe.</p>
+            <p>Sie, Herr Kabinetssecretair, wären die Vertretung jener genandten Freunde, für
+                    eine so gute Anstalt wie die Ihrige gesichert gewesen, wenn nicht die Zeitereigniße einen jeden zurückschreckten, in diesem Augenblick
+                    etwas dafür zu wagen. Vielleicht
+                            sind Ihnen die Bedrängniße unserer Stadt weniger bekannt. Die Sorge die nicht allein mehr oder weniger
+                        <placeName key="JP-005669">Deutschland</placeName>, sondern auch, ich möchte
+                    sagen, alle Länder <placeName key="JP-005728">Europens</placeName> ängstet, die,
+                    des persönlichen Fortkommens, ist in unserer, sonst so blühenden, izt gänzlich
+                    brach liegenden Handelsstadt von sehr bedeutender Wichtigkeit. Die bekanntlich
+                    so wohlthätigen Bürger <placeName key="JP-005812">Hamburgs</placeName> sehen
+                    sogar dem Augenblick mit Trauer  entgegen, wo sie vielleicht genöthigt
+                    werden eine ihrer schönsten Anstalten, die
+                            Armenordnung, untergehen zu laßen,
+                    weil die Anzahl der Armen sich aus Mangel am Erwerb stündlich vermehrt, der
+                    wohlhabendere und der Reiche die gesammelten Schätze hergeben müßen, die Lasten
+                    des Staats zu mindern, wenn nicht Alles sich zum Untergang neigen soll. Bedenken
+                    Sie selbst ob unter diesen Umständen hier etwas für die Kunst auszurichten
+                        sey? Ach wer könnte ihr Altäre bauen, bey dem Wehruf
+                    des allgemeinen Elends? Was für Fortschritte könnten ihre Zöglinge machen, auf
+                    einem Boden wo die Wilkür fremder Gesetze herrscht? Woher den Muth zur
+                    Aufrechthaltung ihrer nehmen, wenn der gebeugte Geist, kämpfend mit des Lebens
+                    verstärkter Mühsal, kaum die eigenen Lasten trägt? Wo den Geschmack am Zarten
+                    und Schönen nähren, wenn das Rohe, das Wilde, mit zügelloser Kraft ihre Keime,
+                    Blüthen und Früchte zerstört? <placeName key="JP-005669">Deutschland</placeName> muß die Schmach die es izt erduldet mit Würde
+                    tragen, und in Stille hoffen. Es werden Zeiten kommen wo es sich von seinem
+                    Sturz erheben wird; denn das eigentliche <placeName key="JP-005669">Deutschland</placeName>, der echte Deutsche, wird unter keiner
+                    Regierungsform untergehen, und dann werden die Söhne <placeName key="JP-005669">Teutonia's</placeName> mit verstärkter Kraft auch für Kunst und Wißenschaft
+                    handeln. – Bis dahin sehe ich <bibl sameAs="JP-010023" subtype="werk">Ihren schönen
+                        Plan</bibl> an als ein gesundes Korn einem kräftigen Boden anvertraut das
+                    keimen und wachsen wird wenn die von aussen auf ihm feindlich wirkenden Elemente
+                    ihren Zorn besänftigt haben und  mildere Wärme es hervorlocken
+                    wird.</p>
+            <p>Einem so warmherzigen, vertrauensvollen Beschützer des Schönen muß es für den
+                    Augenblick betrüben seine überaus schöne Idee nicht verwirklicht zu sehen, aber
+                    ihm bleibt doch immer der stärkende Gedanke, daß Er der erste war der eine so
+                    gute Sache in Anregung brachte.</p>
+            <closer>
+               <salute>Nehmen Sie die Versicherung meiner aufrichtigen
+                            Achtung.</salute>
+               <signed>Christine Westphalen. g. v. Axen.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

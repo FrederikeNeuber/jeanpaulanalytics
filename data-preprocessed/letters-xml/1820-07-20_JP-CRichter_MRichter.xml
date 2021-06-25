@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0156">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Max Richter. Bayreuth, 20. und 21. Juli 1820, Donnerstag und Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1820-07-20" to="1820-07-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>Bair. d. 20. Jul. 1820</dateline>
+            </opener>
+            <p>Mein guter Max! Wir passen wahrscheinlich wechselseitig
+                    auf einander. –Glücklich bin ich zwar angelangt, aber über den langweiligsten Weg von der Welt;
+                    der über <placeName key="JP-005524">Amberg</placeName> u. <placeName key="JP-006179">Regensburg</placeName> wäre eine Regenbogenstraße dagegen
+                    gewesen. Desto seeliger leb’ ich dafür zu Hause u. dieß mal ist mir die Heimath
+                    das schöne Fremdland. <anchor type="target" xml:id="start_wr4_521_34b"/>Alles
+                    was meine gute<persName key="JP-003469">Caroline</persName>gethan u. thut, entschädigt mich für <placeName key="JP-006040">Münchens</placeName> Wolkentage, von den verbesserten Zimmern an bis zu den
+                    Briefbündeln, in welche sie das ungeheuere Briefchaos mehrer Koffer geordnet,
+                    gesammelt u. überschrieben hat. Alle Zimmer lachen, sogar die Küche.<anchor type="target" xml:id="stop_wr4_521_34b"/> Seit Jahren war ich nicht so
+                    häuslich-seelig. Auch <persName key="JP-003484">deine Schwestern</persName> sind
+                    schön fortgeschritten u geflogen. Sie  können deine Ankunft nicht
+                    erwarten u. denken Wunder, was du geworden; du wirst sie aber schon über dieses
+                    wie über anderes eines bessern belehren. – Eben singt mir meine<persName key="JP-003471">Emma</persName>,  deren Spiel u Stimme in  meiner Abwesenheit über
+                    Erwarten gereift sind, das herrliche Bach-Himmellied von der <persName key="JP-000113">Luise v. <hi rendition="#u" hand="#author">Schaden</hi>
+               </persName>. Gehe doch zur
+                    freundlichen <persName key="JP-012908">Familie</persName> u. bitte noch um
+                        dasGondellied<persName key="JP-004213">der andern verheiratheten Schwester</persName>, das deine u.
+                    meine Ohren über die Wolken gen Himmel getragen.Und der <persName key="JP-003681">Mutter</persName> sage, daß  ich ihre Bitte
+                            um das Epitaphium gewiß erfülle. – Gehe zu <persName key="JP-003771">Schlichtegroll</persName> u. danke ihm für volles Herz u. volle Hand u. für all sein Geben; und dann
+                    sage doch noch der wahrhaften Grazie der Ehe, <persName key="JP-003778">der
+                        Frau</persName>, einen neuen Nebendank. – Ich wollte, du  könntest
+                    auch <hi rendition="#u" hand="#author">meinem</hi> unvergeßlichen
+                        <persName key="JP-004066">Sömmering</persName> eine Erinnerung an mich und
+                        sich zubringen.</p>
+         </div>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>21ten</dateline>
+            </opener>
+            <p>Antworte recht bald. Schreibe auch einmal wenigstens an <persName key="JP-003087">Eman</persName>., wenn nicht auch an<persName key="JP-003112">Otto</persName>. Grüß die<persName key="JP-001239">Gailischen</persName>, was macht die <persName key="JP-001241">Pazientin</persName>. – Die <persName key="JP-003469">Mutter</persName> wird
+                        fortfahren. Lebe wol!</p>
+         </div>
+         <div hand="#JP-003469">
+            <p>Geliebter Max! Ich wollte dir sogleich am Tage der Ankunft des <persName key="JP-999999">Vaters</persName> schreiben, um dich sobald als möglich für die Trennung von ihm zu
+                    entschädigen, allein der <persName key="JP-999999">Vater</persName> wollte es
+                    nicht, und mich macht es so glücklich ihm in Allem gehorsam zu sein, daß ich es
+                    aufgab. Desto mehr haben wir aber von Dir gesprochen nicht allein <hi rendition="#u" hand="#author">unter uns</hi>, sondern auch zu
+                    anderen Lieben, die sich Alle so sehr für dich intereßiren. Besonders wird <hi rendition="#u" hand="#author">
+                  <persName key="JP-000587">Carové</persName>
+               </hi> aus <placeName key="JP-005819">Heidelberg</placeName> Dich mit seiner
+                    Liebe erfreuen  der in wenigen Tagen Dir
+                            einen Brief von Emma, die <hi rendition="#u" hand="#author">allein</hi> Zeit Dir zu schreiben hatte, geben wird. Wir haben
+                    ihn an <persName key="JP-001240">M Gail</persName> adreßirt, erkundige Dich also immer dort, nach ihm. Er hat viele
+                    Freunde in <placeName key="JP-006040">München</placeName>, namentlich den
+                        jungen<persName key="JP-003006">Niethammer</persName>, den Du wohl auch
+                    kennst. Künftig kannst Du in<placeName key="JP-005819">Heidelberg</placeName>bei ihm Collegia hören er bleibt fürs Erste
+                    dort.</p>
+            <p>Daß der <persName key="JP-999999">Vater</persName> mit
+                            allen meinen Einrichtungen so vollkommen zufrieden war, ist
+                            herrlich. Wir leben wie im Himmel und ich
+                    kann mir beinahe nicht die <hi rendition="#u" hand="#author">Möglichkeit</hi> einer Verstimmung denken; so sicher und schön ist mein
+                    Gefühl von der Zukunft. Der liebe <persName key="JP-999999">Vater</persName> ist
+                    so recht kindlich glücklich – Gott erhalte ihn uns nur noch lange.</p>
+            <p>Ein <persName key="JP-000057">Herzog von Würtemberg</persName> logirt jetzt in<placeName key="JP-011048">Fantaisie</placeName>. Heute morgen kam
+                        <hi rendition="#u" hand="#author">
+                  <persName key="JP-000368">Birkel</persName>
+               </hi> recht früh und brachte dem <persName key="JP-999999">Vater</persName> eine allgemeine Einladung am Mittag bei <persName key="JP-000057">ihm</persName> zu essen und die Frage <hi rendition="#u" hand="#author">wann</hi> der Wagen ihn holen dürfe. Das Väterchen nahm es zum
+                        <hi rendition="#u" hand="#author">Sontag</hi> an. Die <persName key="JP-000100">Mutter Herzogin</persName> kömmt in 8
+                    Tagen. <persName key="JP-000055">Die Söhne</persName> frugen <persName key="JP-000368">Birkel</persName>: ob sie wohl <hi rendition="#u" hand="#author">wagen dürfen den</hi>
+               <hi rendition="#u" hand="#author">
+                  <persName key="JP-999999">Vater</persName>
+               </hi> zu bitten?</p>
+         </div>
+      </body>
+   </text>
+</TEI>

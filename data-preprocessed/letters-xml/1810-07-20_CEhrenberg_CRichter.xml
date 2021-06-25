@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0193">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline von Ehrenberg an Caroline Richter. Altenburg, zwischen 20. Juli
+                    1810 und 2. März 1811</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000898">Caroline Auguste Eleonore von Ehrenberg</persName>
+               <placeName key="JP-005521">Altenburg</placeName>
+               <date notBefore="1810-07-20" notAfter="1811-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Theure Geliebte</salute>
+            </opener>
+            <p>Ihr Brief hat mich sehr ergriffen – Sie schreiben so
+                    wahr und ich finde und fühle mich immer mehr durch die Aehnlichkeit unsrer
+                    Charactere, an Sie gezogen. —</p>
+            <p>Die Gefühle die Sie im ersten Theile Ihres Briefes schildern, habe ich ohngefähr
+                    um dieselbe Zeit empfunden, da sie Sie beherrschten – itzt genug davon, da Sie
+                    mir die Berührung untersagen: Ich habe unter der Zeit eine kleine Reise gemacht.
+                    – Meine <persName key="JP-012995">Schwester</persName> hat sich endlich
+                    entschlossen nach<placeName key="JP-005586">Berlin</placeName> mit der <persName key="JP-012921">Mutter</persName> zu ziehen, und ihren längst Versprochenen, zu heirathen. – Sie schrieb mir daher mich im
+                    Betreff meines <persName key="JP-012773">Kindes</persName> zu bestimmen ob ich
+                    ihr ganz meine Mutterrechte abtreten, oder ihn sogleich selbst nehmen wollte. –
+                    ich erhielt die Erlaubniß mich auf 8 Tage vom <placeName key="JP-012902">Stift</placeName> entfernen zu dürfen, um alles mündlich abzumachen. – Gern
+                    wär ich wieder einen Theil des Weges wie die Apostel gereist – allein es ging
+                    nicht da ich hier in einem Wagen fortgehen, und in <placeName key="JP-006020">Merseburg</placeName>, wo ich von Hofrath Frank-s erwartet wurde, auch
+                    ehrenvoll ankommen mußte. – Wohlfeil sollte es seyn ich hatte mir daher einen
+                    Einspänner gemiethet von   den mir sein Herr versicherte – es wär ein
+                    Wägelchen der den herzoglichen Kutschen Schande mache – und ein Pferdchen – das
+                    lief wie ein Mäuschen. – Ich war, mich freuend, neugierig auf meine Equipage –
+                    setze mich aber ganz dehmüthig auf die Fleischerkarre, denn viel mehr war der
+                    Gepriesene nicht – Ich bat den Kutscher sich manchmahl nach mir umzusehen, ob
+                    ich auch noch auf meinen <placeName key="JP-006102">Olimp</placeName> säß oder
+                    ob mich <persName key="JP-011907">Zephyrus</persName> entführt hätte, ich mußte mich nehmlich
+                    mit allen stemmbaren Theilen des Leibes anklammern um nicht herunter zu fliegen.
+                    Das Pferd lief aus Verzweiflung wirklich recht rasch, und gab mir zu mancher
+                    physischen und moralischen Bemerkung Stoff. In <placeName key="JP-006129">Pegau</placeName> aß ich Mittagbrod an der table
+                        d’hote, wo ein Officier Kälteschäle verlangte – und Präger Musikänten
+                    kommen ließ um den zähen Hammelbraten hinunter zu geigen. – Ich konnte die Zeit
+                    nicht erwarten um wieder auf meinen Sonnenwagen zu kommen und mußte nach einer
+                    Stunde Wegs wieder umkehren um den von den Kutscher vergessenen Kasten zu holen.
+                    – Das Pferd dauerte ihn und mir, er fuhr mich daher bis am Galgen und lief, mich
+                    meinem Schicksal überlassend in die Stadt – ich hatte in einer halben Stunde
+                    nichts angelegentlicheres zu thun als Gras aus den Graben zu pflücken, und das
+                    Pferd damit  zu füttern, welches auch meine Gabe nicht verschmähte.
+                    Endlich kamen wir – das Pferd der Kutscher und ich nähmlich – recht glücklich in
+                        <placeName key="JP-006020">Merseburg</placeName> an, wo ich mit
+                    außerordentlicher Liebe aufgenommen wurde. So angenehm mir aber auch die
+                    herrlichen Menschen die Zeit zu machen suchten – so sehnte ich mich doch weiter
+                    und ging den andern Nachmittag durch eine schöne Aue den alten <placeName key="JP-005809">Halle</placeName> zu. – Auf der Hälfte Weges kam mir meine
+                        <persName key="JP-012995">Schwester</persName> und die Westphal entgegen die
+                    frohsten Scherze, und die reinste Freude brachten mich in meine Vaterstadt, wo
+                    meine geliebte <persName key="JP-012921">Mutter</persName> mich mit offnen Armen
+                    erwartete. – Mein <persName key="JP-012773">Ferdinand</persName> schloß sich erst den folgenden Tag recht an
+                    mich, und wollte immer bey mir seyn. – Es fielen einige kleine Uneinigkeiten
+                    zwischen meiner <persName key="JP-012921">Mutter</persName> und <persName key="JP-012995">Schwester</persName> die Erziehung meines <persName key="JP-012773">Kindes</persName> betreffend vor, und ließen mir den
+                    Entschluß schnell fassen, ihn in <placeName key="JP-005809">Halle</placeName>
+                    bey einen Prediger der selbst Familie hat, und sehr geachtet ist,
+                    in Pension zu geben. – ich berichtigte alles, und reiste in Begleitung der
+                        <persName key="JP-012697">Westphal</persName> und meiner <persName key="JP-012995">Schwester</persName> mit schweren Mutterherzen und Sorgen
+                    nach 4 Tagen wieder ab. Der <persName key="JP-012468">Hofrath</persName> kam uns
+                    entgegen – wir stiegen aus und gingen zu Fuß. – Der <persName key="JP-012468">Hofrath Frank</persName> – Cousin von der
+                        <persName key="JP-000847">Fr v Donop</persName>.
+                    ist der liebenswürdigste alte Mann den ich kenne, er hat so viel Sinn und Gefühl
+                    für den höhern Lebensgenuß, und ist so gebildet daß man sich in seiner
+                    Geselschaft glüklich fühlen  muß. – Seine <persName key="JP-012945">Frau</persName> – eine eben so gebildete als kluge Frau erwartete uns mit
+                    den Thee – nach welchen ein kleines Concert zu stande
+                    kam. – Unter der Gesellschaft die uns zu Ehren eingeladen war befand sich eine
+                    Dame, eine Art Halbmann – sie hatte einen blauen Tuchüberrock, halb mänlich
+                    gemacht, eine Weste und eine Halsbinde an – einen runden Filzhuth trug sie immer
+                    unter den Arm, und war nicht viel großer als ich. – Die <persName key="JP-012697">Westphal</persName> hatte uns schon bey ihren Anblick
+                    zugeflüßtert – Junker Louischen, sie machte sich
+                        uns aber bald durch ihr Betragen noch
+                    merkwürdiger, indem sie mich mit glühenden Blicken verfolgte – und immer in
+                    meine Nähe zu kommen suchte – sie drückte mir die Hand so feurig, daß ich mich
+                    anfing zu fürchten – beym Souper versteckte ich mich
+                    hinter den dicksten Haufen der Gesellschaft. – zu Ende desselben erreichte sie
+                    mich aber doch, und drückte mir ein Billet in die Hand – indem sie sagte: –
+                    Morgen reisen Sie ab? – wann kommen Sie wieder – ich muß es wissen, meine Ruhe
+                    hängt davon ab da ich ihr ganz gleichgültig sagte: von den Umständen hängt meine
+                    Reise ab – drückte sie mir nochmahls die Hand sagte – Schlafen Sie wohl – besser
+                    als ich – ach! – sie schwenkte ihren runden Huth und ging. – Den andern Morgen
+                    begleitete mich der <persName key="JP-012468">Hofrath</persName> die Hälfte Weg,
+                    und erzählte mir so viel Gutes von den sonderbaren Wesen welches eine
+                    weitläuftige Verwande von den  Hause ist – daß ich es gar nicht wagte,
+                    mit meinem Urtheil hervorzubrechen. – Das Billet war von folgenden Inhalt: –
+                    Sich sehen, sich erkennen, und sich lieben ist das Vorrecht edler Seelen, die in
+                    zarten Vorgefühl ihres Werthes, Ahndung tragen. – Dianasore. – Das Blatt war aus einen Schreibebuche gerissen –– Was
+                    sagen Sie zu dieser Bekanntschaft und Eroberung – Sie beneiden mich doch wohl
+                    nicht? –– Als ich wieder hier in meine lebhafte Einsamkeit kam war es mir als
+                    wär ich Jahre lang entfernt gewesen, ich mußte mich an alles erst wieder
+                    gewöhnen. – Meine <persName key="JP-012995">Schwester</persName> machte mir noch
+                    in derselben Woche die Freude, mich auf 2 Tage zu besuchen – auch diese sind
+                    vorüber, mein Glück liegt hinter mir! – Sie sind sehr gütig, geliebteste
+                    Freundin – so geduldig die Mittheilungen meiner kleinen Begebenheiten zu
+                    vernehmen – Sie können zwar den Brief mehr als einmahl wegwerfen, allein Sie
+                    nähmen ihn auch in der Erwartung wieder, etwas besseres zu finden. – Ihre Liebe
+                    theilt meine Einsamkeit, und ich bin um so glücklicher, und fühle sie nicht
+                    mehr, wenn ich Ihren lieben lebhaften Brief zur Seite nehme – Sie interessiren
+                    sich auch sogar für meine Caffeevisiten – glücklicherweise erlebe ich deren
+                    nicht viel – denn neulich bin ich zur  gebeten worden, die Magd
+                    hat sich an die Fr Pröbstin gewendet – welche es in
+                    meinen Namen rund abgeschlagen hat. – ich sah <persName key="JP-012967">die gute
+                        Sindicus</persName> kurz da- rauf – sie bedauerte sehr den Verlust
+                    meiner Gesellschaft und meinte – so gut würde es sich nun nicht wieder treffen,
+                    mit der Gesellschaft weil sie noch vor den Winter hätte den Auskehrig machen
+                    wollen. Sie können sich vorstellen wie ich mich über dieses verlorne Paradies
+                    gegrämt habe. — Um der Entleibung auch zu gedenken – so sage ich Ihnen daß mein
+                    Herz ein wahres Preceptor Herz geworden ist. – ich bin ganz Herr meiner
+                    Herzensfiebel und sehe in allen Männern – (freylich sehe ich derer nicht viel)
+                    Fiebelsöhne, des verbesserten A B C Buchs – nämlich mit 4 Federn sie rühren mich
+                    alle nicht – und das Seitenstück von <persName key="JP-002153">Knippenberg</persName> ist auch so
+                    theologisch daß ich ihm gegenüber noch zur Apostelgeschichte werde. – – Mein
+                        <persName key="JP-011828">Mann</persName> hat mich gebeten mich wieder mit
+                    ihn zu vereinigen, und die Vorstellung, auf diese Art wieder die wirkliche
+                    Mutter meines <persName key="JP-012773">Kindes</persName> zu werden – hat so
+                    viel Reitz für mich, daß ich seinen Bitten nachgeben
+                            werde – obgleich ich das eheliche Paradies
+                    mit allen seinen Aussichten kenne – Was meinen Sie dazu? – das könnte aber erst auf Ostern, oder über
+                        das Jahr geschehen alle meine Freunde rathen mir zur ganzlichen
+                    Trennung – doch ich habe einen Abscheu dafür – es kömt mir unnatürlich vor.
+                    –</p>
+            <p>Die gute <persName key="JP-001542">Harmes</persName>
+                    – daß sie sich meiner erinnert. ich möchte ihr gern schreiben, doch wird sie
+                    sich nicht nach meiner Unterhaltung sehnen – und es Ihnen schlechten Dank wissen
+                    daß  Sie mir die Adresse gaben. – Wird mein <persName key="JP-999999">Richter</persName> Wort halten? – wohl in jener Welt – da werde ich wohl
+                    den versprochenen Brief erhalten, nun wenn es nur zugleich ein Freybrief wird
+                    ihn so gut seyn zu dürfen wie ich will. – Küssen Sie ihn tausendmahl von mir.
+                        –<persName key="JP-003490">Max</persName>
+               <persName key="JP-003491">Ottilie</persName> und Emilie
+                    drücken Sie an Ihr Herz mit der großten Innigkeit, und glauben Sie daß ich es
+                    eben so thun würde wenn ich bey Ihnen wär. – Erinnert sich die <persName key="JP-000817">Fr v Doberneck</persName> noch
+                    meiner – ich grüße sie herzlich, so wie alle Ihre und meine Bekannte — Leben Sie
+                    wohl, theureste Seele, und behalten Sie mich lieb – ich verehr Sie mit der
+                    großten Verehrung – und bin ewig </p>
+            <closer>
+               <salute>Ihre</salute>Caroline.</closer>
+         </div>
+         <postscript>
+            <p>Lassen Sie mir keinen Mahnbrief wieder schreiben Ich habe es Ihnen schon so oft
+                    gesagt daß Ihre Briefe zu meiner intellectuellen Nahrung gehören also –
+                    bitte bitte.</p>
+            <p>Die Minerva der
+                                M.O. habe ich noch nicht erhalten
+                        können.</p>
+            <p>Sie werden mich sehr verbunden wenn Sie
+                            Fr
+                                v Planitz die Einlage bald schicken! –</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

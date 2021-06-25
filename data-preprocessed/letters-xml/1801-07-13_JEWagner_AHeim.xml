@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Anton Christoph Heim. Meiningen, 13. Juli 1801,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1801-07-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001599">Anton Christoph Heim</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-011840">Meininger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>An Anton Christoph Heim den 13. Juli 1801.</salute>
+            </opener>
+            <p>Der Seele Fried' und Ruhe früh zu finden, Hat dich der Gott die sichern
+                    Felsenmassen Der Emsigkeit, der Ordnung wählen lassen, Des Lebensplanes
+                    Grundstein d'rauf zu gründen.</p>
+            <p>Des Rechtes Wachs zu rechter Form zu ründen, Ist liebend Streben dir, ob's
+                    Viele hassen. Wer darf, wie du, sich kühn damit
+                            befassen, Durch Acten Lebensmelodie'n zu winden?</p>
+            <p>Gelassen siehst du Themis'
+                    Aftersöhn, Die Legulejer ihren Witz entladen In leeren Formeln. Dein
+                    Bemüh'n ist: Klarheit.</p>
+            <p>Zieh' du hervor die alte, ew'ge Wahrheit, Und leite recht geplagter
+                    Menschheit Töne! Dir lächeln selbst die himmlischen Hyaden.</p>
+            <closer>
+               <signed>Ernst Wagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

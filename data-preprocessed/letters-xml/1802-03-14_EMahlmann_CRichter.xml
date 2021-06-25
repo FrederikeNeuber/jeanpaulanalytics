@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0362">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Caroline Richter. Leipzig, 14. und 16. März 1802, Sonntag und Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date notBefore="1802-03-14" notAfter="1802-03-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012430">Religion</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Was habe ich Dir nicht alles geschrieben, meine liebste Caroline, wirst Du denn
+                    Geduld haben das alles zu lesen?</p>
+            <p>Es ist heut eigentlich ein großer Tag für mich! Es ist Sonntag, und ich bin
+                    diesen Morgen in der Kirche gewesen, und (kannst du es faßen) zum erstenmal hier
+                    in <placeName key="JP-005948">L.</placeName> und außer meiner Trauung zum erstenmal  so lange ich <persName key="JP-002583">meinen Mann</persName> kenne. Der
+                    Grund warum ich seit meiner Verheirathung hier nicht herein ging ist kein andrer, als eine gewiße
+                    Schüchternheit, die du an mir kennst, meine liebste Caroline, an einem
+                    öffentlichen Ort der mir durchaus fremd war allein zu seyn. Die Furcht daß ich
+                    kein Plaz finden möchte; daß man darüber sprechen möchte wie hier über alles;
+                    genug wie ich selbst einsehe, die erbärmlichsten Gründe hielten mich davon ab!
+                    Mit meiner Freundin, der Ludwig wollte ich immer hereingehen;
+                    doch sie
+                    wohnt in der Stadt, ich in der Vorstadt, das ist sehr
+                    weitläuftig. So unterdrückte ich oft die Sehnsucht, welche von Zeit zu Zeit in
+                    mir erwachte. Doch Dein Brief neulich beschämte
+                    mich recht in der Tiefe meines Herzens, und ich nahm mir fest vor, diesen Sonntag  hereinzugehen, und ich habe zu meiner Freude den
+                    Vorsaz  ausgeführt. Wie
+                    ich heut eintrat in den großen heilgen Tempel, da fühlte ich erst recht meine
+                    Kleinheit. Mich zu scheuen hinzutreten mit allen denen welche vor Ihm alle
+                    gleich sind und mein Herz zu Ihm zu erheben in Anbetung und Liebe und Dank! – Mir ist seit langer
+                    Zeit nicht so feyerlich wohl gewesen, so tief erschüttert in meinem Innren. Ich
+                    sang mit lauter und inniger Stimme und mir fehlte nichts als ein Winkel in welchem ich der Menge unsichtbar mich recht satt weinen konnte, und ein weibliches
+                    Wesen oder vielmehr <hi rendition="#u" hand="#author">Du</hi>, der
+                    ich die Hand recht fest gedrückt hätte. Die Predigt, welche auch eine Gebhardtsche war machte mich wieder lauer und kälter, und ich
+                    machte mir selbst Vorwürfe daß  sie meine Aufmerksamkeit nicht feßeln konnte. Doch habe ich mir
+                    nun fest vorgenommen keinen Sonntag zu versäumen.</p>
+            <p>Wenn du diesen Brief erhälst, ist <persName key="JP-003087">Emanuel</persName> wohl schon bey
+                            Dir! Wie glücklich wird es dich machen, einen Gast, und einen solchen in
+                    Deinem Hause zu hegen und zu
+                    pflegen. Es muß die  größte Wonne seyn Menschen bey sich auf zu nehmen
+                    die man liebt. Und Ihr bösen Menschen wolltet mir die Freude rauben? —</p>
+            <p>den 14tenMärz</p>
+         </div>
+         <div>
+            <p>So viel hatte ich neulich geschrieben, meine liebste Caroline heut füge ich nur
+                    noch wenige Zeilen hinzu, weil ich den Brief auf die Post schicken will. Auch an den <persName key="JP-002703">Vater</persName> habe ich
+                            geschrieben, Deinem Briefe an ihn zur Begleitung. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0768/#start_j2s_2xh_2jb">Den <persName key="JP-002703">Vater</persName> habe ich gebeten mir mit seiner
+                                nächsten Antwort, die Gewisheit zu geben daß wir ihn bey uns
+                                sehen!</ref> Und dich und <persName key="JP-999999">deinen lieben
+                                Mann</persName> bitte ich daßelbe!</p>
+            <p>Dir lege ich noch einen <anchor type="target" xml:id="start_ybl_3xh_2jb"/>Brief von der
+                                <persName key="JP-000437">Stubenrauch</persName>
+               <anchor type="target" xml:id="stop_ybl_3xh_2jb"/> bey – weil ich den Auftrag habe dir eine Nachricht mitzutheilen welche
+                         er enthält und die
+                        <persName key="JP-000830">Dörffer</persName> betrift. Die Nachricht ist
+                    schrecklich – und keine andre, als daß ihre Heyrath mit <persName key="JP-001789">H:</persName> (Gott
+                            weiß aus welchen Gründen) zurückgegangen ist.</p>
+            <p>Ließ den Brief, und er wird  dich erschüttern, so wie mich! –</p>
+            <p>Wie brauch ich Dir noch zu versichern daß ich jeden Auftrag gern übernehme den Du
+                    mir geben willst! Lebe wohl Du einzige gute Caroline Lebe recht wohl, und
+                    schreib mir bald! <persName key="JP-999999">Deinen Lieben Mann</persName> grüße
+                    herzlich von mir, <persName key="JP-002583">der Meinige</persName> dankt Eurem
+                    mit der innigsten Liebe, ich bin ewig Deine alte Tine! Lebe recht wohl! Du
+                    Liebe!</p>
+            <closer>
+               <signed>E.'</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

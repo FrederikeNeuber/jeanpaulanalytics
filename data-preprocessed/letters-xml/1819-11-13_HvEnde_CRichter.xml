@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0619">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Leipzig, 13. November 1819,
+                    Sonnabend </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1819-11-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig d. 13. Nov.
+                        1819.</dateline>
+            </opener>
+            <p>Mit Vielerley zugleich, möchte ich, meine werthe Freundin; diesen Brief anfangen
+                    und da dies nicht seyn kann, so schicke ich dem Vereinzeln, den Hauptton voran:
+                    den Ausdruck meiner herzlichen Liebe zu Ihnen Allen.</p>
+            <p>Nun sage ich Ihnen grade heraus, daß Sie meine Feder etwas entfernt hatten, durch
+                        Ihren Brief vom 17. Sept. der keine
+                    allseitige Beantwortung des meinigen von <placeName key="JP-005969">Löbichau</placeName> war, durch welchen ich Ihnen,
+                    so zu sagen im Geist Ihrer eigenen Augen, Nachricht von den Aufenthalt <persName key="JP-999999">Ihres lieben Mannes</persName> daselbst mit warmer
+                    Theilnahme an Ihrer Freude, gab, und Sie, erwiedern mir dies, mit einen "Dank
+                    für meine Güte, ihren Mann durch die Einlage an seine Frau erfreuen zu wollen",
+                    darüber war ich nun ernstlich böse; da Sie aber zu denenjenigen ge- hören, auf die ich böse werden kann, ohne darum aufzuhören sie zu lieben, so bin ich es nun nicht einmal mehr, nachdem ich es Ihnen
+                    grade heraus gesagt habe. Neuerlich wurde mir das
+                    Schreiben, durch eine Unpäßlichkeit erschwert; ich war ziemlich bedeutend krank,
+                    an einem bösen Hals, und habe einige Wochen das Zimmer gehütet und gedenke erst
+                    morgen wieder auszugehen. Daß Sie die Freude hatten, Ihren <persName key="JP-002703">Herrn Vater
+                            </persName>wiederzusehen, habe ich mit
+                    herzlicher Theilnahme vernommen und wenn Sie auch nicht mit <persName key="JP-002703">ihm</persName> bleiben können, so ist schon der Gedanke
+                    erquickend, daß <persName key="JP-002703">er</persName> noch lebt; ich habe solche Freude schon lange nicht
+                            mehr. Die Durchreise der <persName key="JP-000853">Herzogin
+                                von Curland</persName> durch <placeName key="JP-005574">Baireuth</placeName>
+                            mit <persName key="JP-011974">ihrer Tochter Hohenzollern</persName> und der <persName key="JP-000614">Gr. Chassepot</persName>, wird
+                        <persName key="JP-999999">Ihrem lieben Mann</persName> und auch Ihnen, das
+                    erlebte und beschriebene <placeName key="JP-005969">Löbichau</placeName> wieder erneuert haben; auch ich hatte eine
+                    angenehme Erneuerung jenes Aufenthalts, durch die Erscheinung  <persName key="JP-004731">der ältesten Tochter</persName> der <persName key="JP-000853">Herzogin</persName>, den Tag nach
+                            ihrer Trauung
+                    mit dem <persName key="JP-003912">Graf</persName>
+               <persName key="JP-003912">Schulenburg</persName>, ein
+                    Ereigniß daß mir Freude machte; es ist mir lieb, <persName key="JP-004731">diese
+                        liebenswürdige Frau</persName>, nun in reellen
+                    Verhältnißen zu wißen, über die sie sich mit rühmlicher Ansicht, sehr offen
+                    gegen mich äußerte; sie brachte mit<persName key="JP-003912"> ihren
+                        Mann</persName>, einen halben Tag bey mir zu und meine besten Wünsche
+                    empfingen und begleiteten sie. Der alte <persName key="JP-003744">Schink</persName> und <persName key="JP-001083">H.
+                        v. Firks</persName> verweilten auch bey uns, bey
+                    ihrer Rückreise. Der schwarze Herr, von dem
+                    Ihnen <persName key="JP-999999">Ihr lieber Mann</persName> auch wird erzählt
+                    haben, soll ganz außer sich vor Betrübniß gewesen sein, als er den Schauplatz seiner Grobheit und
+                    Weichleichkeit hat endlich verlaßen müßen; mehrere Scenen  von ihm, sind noch bis hierher
+                    erschollen, wovon die eine, eben nicht sehr von geistlicher Farbe war. Ich
+                    hörte, daß <persName key="JP-999999">Ihr lieber Mann</persName>, noch so schöne Aufsätze in <placeName key="JP-005969">Löbichau</placeName>
+                            mittheilte, als ich schon abgereiset war.  Darum
+                    gekommen zu seyn, thut mir sehr leid; unendlich lieb und schätzbar bleiben mir
+                    die paar Wochen, die <persName key="JP-999999">seine</persName> Gegenwart in <placeName key="JP-005969">Löbichau</placeName>, so
+                    gehaltvoll machte; sagen Sie ihm doch, nebst den herzlichsten Grüßen von mir und <persName key="JP-000949">meinem Sohn</persName> der sich auch Ihnen aufs
+                    Angelegentlichste empfielt, daß der arme Student
+                            wirklich den Freytisch bekommen hat, zu deßen Verwendungsbrief, er so
+                    freundlich das Licht verschaffte; ich erzählte dem armen Menschen diesen Umstand
+                    und machte ihm Freude damit, noch ehe die Erfüllung seiner Bitte erfolgte; nun
+                    sieht er nicht mehr verhungert aus und kann sorgloser studieren. Der Winter
+                    kömmt mir recht unbehaglich vor, nachdem wir drey Sommer nach einander, durch
+                    den Aufenthalt in <placeName key="JP-005872">Italien</placeName> gewannen; die Luft ist so wenig belebend.</p>
+            <p>Sagen sie mir doch ja recht bald etwas von Sich und allen lieben
+                        Ihrigen.<persName key="JP-003483"> Ihre lieben Kinder</persName> grüße ich
+                    erst alle zusammen und dann jedes einzeln, eben so wie ich sie liebe.</p>
+            <p>Neulich machte ich die Bekanntschaft des alten <persName key="JP-002669">Leg.R.
+                            Mathei</persName>, ich freute mich in ihm einen
+                    warmen Verehrer <persName key="JP-999999">Ihres lieben Mannes</persName> zu
+                    sehen und übernahm gern die Erfüllung seines Wunsches seine frohe dankbare
+                    Erinnerung an die Freude über den so freundlichen
+                            Empfang in Ihrem lieben Hause auszudrücken.</p>
+            <p>Nun sagt Ihnen ein herzliches Lebewohl Ihre treue Freundin Ende.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0116">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emma und Odilie Richter. Berlin, 27. Dezember
+                    1819, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1819-12-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Liebe Emma und Odilie seid Ihr denn recht glücklich am
+                    Weihnachtsabend gewesen? Hatte ich recht für Euch genähet? Dein Kleid meine Odilie hätte schon ein wenig mehr verziert sein können,
+                    allein von meiner Eile und Angst habt Ihr keinen Begriff daß nur die Sachen zu
+                    rechter Zeit fortkommen würden. Du bekömmst noch zu dem
+                        Kleide was Dir gefällt. Ihr werdet noch immer Eure schwarzen Kleider
+                    bis zu meiner Rückehr tragen, dann werde ich grauen Merino mitbringen, weil nun die tiefe Trauerzeit um
+                    ist.</p>
+            <p>Seebecks die mir noch liebenswürdiger scheinen als sonst, haben herrliche
+                    Weihnachten bekommen. Shawls – Handschuh – und Maniso-Kleider. Sie aber
+                        schenktenihren Eltern so feinweiche und geschmackvolle Sachen, daß man sowohl ihre
+                    Erfindsamkeit als ihre Ausführung bewundern muß.</p>
+            <p> Mich freut es sehr, durch meine Bekanntschaften <persName key="JP-003991">Seebecks</persName> mehr in Verbindungen zu bringen, die
+                        Töchter waren noch gar
+                    zu einsam.</p>
+            <p>Sind die Lieder nicht schön die ich Euch geschickt habe? Hier findet man sie
+                    überall wo Musik geliebt wird. Durch  lerne ich sie
+                    kennen, welche sie recht lieblich vortragen. Wie gern wünschte ich Euch diese
+                    Bekanntschaft. Sage doch Fräulein Schuckmann Grüße von <persName key="JP-003727">Frau von Scheve</persName>, und
+                        <persName key="JP-003236">von Pirch</persName> und von mir – ist sie denn
+                    wohl wieder beruhigt, und was wird sie mit ihrer Zukunft thun?</p>
+            <p>Entschuldige mich bei <persName key="JP-003434">Fr. v. Reizenstein</persName> und
+                    der guten <persName key="JP-003108">Amöne</persName>,
+                    und der <persName key="JP-000845">Donauer</persName> daß ich ihn nicht schreibe. Es ist nicht möglich. Entweder sinds
+                    Geschäfte oder Besuche die mich nicht zu mir selbst kommen lassen. Empfiehl mich Allen aufs Angelegentlichste und bringe ihnen meine Wünsche fürs neue
+                    Jahr.</p>
+            <p>Daß ich im Wiedersehen meiner alten Freunde glücklich bin, könnt Ihr Euch denken.
+                    Ach es ist  doch etwas ganz andres wenn man so ganz um sein selbst
+                    willen geliebt wird – als wenn man erst durch Verhältniße und Gunst nach
+                    Freundschaft ringen muß. Hier wohnt ein festes unzerstörbares Vertrauen welches
+                    die innige Bekanntschaft von Kindesbeinen an gegründet hat. Aber ich sehne mich
+                    doch unaussprechlich nach Euch zurük – ohne Euch genieße ich nur halb.</p>
+            <p>Den lieben Weldens, <persName key="JP-004659">Luise</persName> und <persName key="JP-011864">Fanny</persName>, sage recht viele Grüße von mir, und
+                    küsse sie herzlich in meiner Seele. <persName key="JP-004653">Ihrer
+                        Mutter</persName> und älteren
+                            Schwestern bringe meine Wünsche und die
+                    Versichrungen der unwandelbarsten Ehrfurcht.</p>
+            <closer>
+               <salute>Grüße <persName key="JP-003121">Otto's</persName> – <persName key="JP-003089">Emanuels</persName> – Alles was Du siehst. <ref type="letter"
+                       subtype="passage"
+                       target="JP-UB0528/#start_sq3_jfg_gnb">Grüße <persName key="JP-003490">Max</persName> auf dessen Briefe ich mich nach
+                            meiner Rückunft freue.</ref> Lebt wohl Ihr guten Geschöpfe, möchte Alles
+                        wohl gelingen was Ihr unternehmt. Gottes Seegen über den lieben <persName key="JP-999999">Vater</persName> und Euch!</salute>
+               <signed>Euretreue Mutter.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

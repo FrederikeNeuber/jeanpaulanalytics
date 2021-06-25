@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0440">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ludwig Gentz an Caroline Richter. Berlin (?), 19. Oktober 1811,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-012057">Ludwig Gentz</persName>
+               <date when="1811-10-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Die Ihrigen meine theure Freundinn, mahnen mich an
+                    eine leider nur zu lang verschobene Pflicht; ihre Aufforderung wird durch eigne
+                    Vorwände dringend unterstüzt, u ich würde mein Gewißen gleich jezt reinigen,
+                    wenn ich nicht besonders wünschte, noch <hi rendition="#u" hand="#author">einige</hi> Nachsicht von Ihnen zu erhalten.</p>
+            <p>Ich habe vor 14 Tagen <persName key="JP-001287">meinen
+                                redlichen Bruder</persName> verlohren, u will gegen Ende dieses Monats <persName key="JP-012092">seine
+                        Wittwe</persName> zu einer Freundin nach <placeName key="JP-006156">Pommern</placeName> geleiten, wo sie den
+                    Winter zubringen will. Bisher sehe ich <hi rendition="#u" hand="#author">keinem</hi>Interesse bey dieser Reise entgegen. Die Noth macht
+                    erfinderisch. Wie man sich offt von jemanden trennt, um ihn mehr zu lieben, so
+                    habe ich offt gerade darum an Freunde geschrieben,  weil das Schicksal
+                    eine weitere Entfernung zwischen uns warf, als die gewöhnliche. Erlauben Sie mir
+                    daher, Ihnen von der Reise aus zu schreiben. Indem ich diesem Vergnügen
+                    entgegengehe, werde ich eine lebhaftere Rückerinnerung der innigen Freude haben,
+                    die ich genoß als ich Sie dieses Jahr wiedersah, u meine Mittheilung wird mich
+                    vielleicht so täuschen, daß ich glauben könnte, ich erzählte Ihnen mündlich aber
+                    verblindet, u müßte dabey nur des Anblicks Ihres redlichen Gesichts entbehren,
+                    nicht Ihrer Theilnahme.</p>
+            <closer>
+               <salute>Leben Sie wohl u glücklich</salute>
+               <signed>Gentz</signed>d 19 Oct. 11.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0459">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Franz I. Kaiser von Österreich, Bayreuth, 20.
+                    November 1825, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1825-11-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001155"> Franz II. / I.</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012104">Amtskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bayreuth, 20. November 1825</dateline>
+               <salute>Allergroßmächtigster Kaiser! Allergnädigster Kaiser und
+                        Herr!</salute>
+            </opener>
+            <p>Eure Kaiserliche Majastät geruhen Allerhöchst Sich die Bitte einer verwaisten
+                    Familie vortragen zu lassen, die vor Kurzem ihren <persName key="JP-999999">Vater</persName> und Beschützer durch den Tod verlor. Der in ganz
+                    Deutschland bekannte und geliebte Dichter und Schriftsteller <persName key="JP-999999">Jean Paul Friedrich Richter</persName>, der der fühlenden
+                    Menschheit durch seine unsterblichen Schriften eine höhere Welt aufschloß, ist
+                    zu früh für die Welt und seine Angehörigen im 63ten Jahre seines Lebens am 14ten November uns durch die
+                    Hand der Allmacht entrissen worden. Eben damit beschäftigt, die erste Ausgabe
+                    Seiner <bibl sameAs="JP-010983" subtype="werke-jp">sämmtlichen Werke</bibl> zu
+                    veranstalten, wozu er von seiner Nazion und auch vom Auslande dringend
+                    aufgefordert wurde und wodurch er im Stande war, einen Lohn seiner
+                    vierzigjährigen litterarischen Bemühungen für Sich und die Seinen zu erndten;
+                    der Ihm umso nothwendiger war, als eine Erblindung beider Augen ihn des einzigen
+                    Glückes, wofür Er lebte, für Wahrheit und Tugend zu schreiben – beraubte. Seine
+                    hohe Seele kannte nichts Anderes. Seine auch von Ihro Majestät der
+                    allergnädigsten <persName key="JP-002052">Frau Kaiserin</persName> geliebte
+                    Schriften sind nun das einzige Erbtheil <persName key="JP-003482">Seiner
+                        Familie</persName>. Um es unverkümmert überliefert zu bekommen, müssen wir
+                    die Gunst Eurer Kaiserlichen Majestät anflehen, die kürzlich erst dem großen Dichter <persName key="JP-001353">Goethe</persName> für die Herausgabe seiner <bibl sameAs="JP-012072" subtype="werk">Schriften</bibl> gewährt
+                            wurde. Wir bitten ebenfalls um ein Privilegium gegen
+                            den Nachdruck in Eurer Kaiserlichen Majestät weiten
+                    Erbstaaten. Wir zweifeln umso weniger an der Allerhuldreichsten Gewährung
+                    unserer demütigsten Bitte, als beide Dichter und Schriftsteller in gleichem
+                    Grade um die Bildung und Veredlung der deutschen Nazion Verdienste haben. Eine
+                    Überzeugung, wovon ihm während Seines musterhaften Lebens von den Hohen der Erde
+                    so oft die Zusicherung gegeben wurde.</p>
+            <p>In vertrauensvoller Hoffnung, daß Eure Kaiserliche Majestät uns Verwaisten in
+                    dieser Hinsicht Vater sein werde, ersterbe ich in tiefster Ehrfurcht</p>
+            <closer>
+               <salute>Ew. Kaiserlicher Majestät allerunterthänigste
+                            treugehorsamste</salute>
+               <signed>Caroline Richter geborene Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

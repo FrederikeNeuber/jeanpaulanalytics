@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0685">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Heidelberg, 6. Januar 1821,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-01-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012265">Geschlechterrollen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg am 6 Januar 1821.</dateline>
+               <salute>Theuerste Mutter!</salute>
+            </opener>
+            <p>Gott segne Dich, gute Mutter. Hast Du mir eine Freude gemacht? wirst Du
+                    vielleicht fragen. Ach die größte u noch größer wäre sie, wenn der Brief allein sie mir ausdrücken ließ. Im
+                    Augenblick, wo ich alle die Sachen bekam, erstaunte ich u war weniger
+                    froh, allein bald besänftigte ich mich u dachte, du bist ja noch ein Kind u zu
+                    jener Zeit, wo dir noch christlich bescheert war, wußtest du auch Freude u Dank
+                    nicht auszudrücken. Ich hatte nun lange nicht geschrieben, aber daran ist blos
+                    eine innere Zerstreuung schuld gewesen u viele ärgerliche Hindernisse. Wenn
+                    etwas wichtiges vorgeht, ist es mein erstes, euch Alles zu beschreiben. Seid ihr
+                    alle doch recht gesund? Das Wetter ist hier gelind u frühlingmäßig und die
+                    Gegend ist auch im Winter himmlisch. Hast Du wohl den
+                                <persName key="JP-999999">Vater</persName> wieder gefragt, wie es
+                            mit der Reise nach <placeName key="JP-005819">H</placeName>.
+                            aussieht? Alle
+                    Leute sind darauf gespannt u der gute <persName key="JP-004520">Voss</persName> will es sich nicht aus dem Sinn
+                    treiben lassen; in <placeName key="JP-005924">Kreuznach</placeName> trifft er
+                    beinahe schon jetzt Anstalten bei seinem <persName key="JP-004507">Bruder</persName>. Ich will nun ein wenig von den Heidelberger u
+                    Heidelbergerinnen sprechen, soweit ich sie kenne. Die <persName key="JP-000749">Dapping</persName>
+                    stelle Dir vor wie die Gräfin, die das schöne kleine
+                            Kind hat, ich weiß nicht gleich, wie sie heißt; sie ist Hofdame
+                    gewesen u Hofsitte herrscht also noch fort; daher ist es mir sehr übel genommen
+                    worden, als ich ein Gedicht ein paar Tage länger als nöthig behielt. Die <placeName key="JP-013051">Lesegesellschaft</placeName> besteht noch, aber ich habe mich davon losgemacht,
+                    denn von einer solchen unausstehlichen <hi rendition="#u" hand="#author">Freigeisterei</hi>, die ich hier nicht erwartete, mag ich nichts
+                    wissen. Abgerechnet, daß über jeden Schriftsteller, er sei so groß wie
+                    irgendeiner, in Gesellschaft von erwachsenen Mädchen fein, in zierlich
+                    gesponnenen Redensarten ein Lob, das dann  jedes Mädchen ergreift,
+                    ausgesprochen wird, werden jede Stellen, die eben zufälliges Einnehmen haben,
+                    einem in die Ohren durch hundertfaches Lobpreisen eingeprägt; die Herren müssen
+                    dann ihr Schärflein beitragen u ein bischen Gelehrsamkeit mit einmischen. Das
+                    findet buchstäblich bei der <persName key="JP-000749">Dapping</persName> so
+                    statt u eine Steifheit in der Gesellschaft nimmt sich hier am
+                    allerlächerlichsten aus, wenn man sogenannte feine Menschen neben sogenannten
+                    plumpen oder unbeholfenen sieht. Besonders ist mir hier die <persName key="JP-000752">Tochter</persName> zuwider, die die Schönheiten der freien Natur an allen Ecken u Enden in der
+                    Teegesellschaft lobt. Daher sind auch alle Mädchen, die in das Institut gehen,
+                    geziert u steif. Nimm u glaube das so von mir, wie ich es eben erzähle, ich will
+                    nicht zu viel sagen. Daraus erkläre ich mir auch, warum <persName key="JP-004524">Voß</persName> u <persName key="JP-000750">Dappings</persName> nie zusammenkommen, auch der <persName key="JP-004520">Heinr. Voss</persName> war, so lange ich hier bin, noch kein einzigesmal bei
+                    ihnen; alle Leute, nicht ich allein, beurtheilen sie so. Das Gegentheil finde
+                    ich bei der Paulus, wo eine Zurückgezogenheit auch im Reden
+                    sich kund thut u tausendmal lieber bin ich bei diesen; neulich weinte die
+                        <persName key="JP-003172">Tochter</persName> u <persName key="JP-003171">Mutter</persName>, als ich hinkam; es war der Abend im letzten Jahr u von
+                    dem <bibl sameAs="JP-010605" subtype="werke-jp">Kometen</bibl> wollen sie weiter
+                    nichts wissen; ich glaube kaum, daß sie den 2ten Theil noch lesen werden; der
+                        alle<persName key="JP-003168">Paulus</persName> sucht immer einige Laune in die Rede
+                    zu bringen u dann fangen <persName key="JP-003171">Mutter</persName> u <persName key="JP-003172">Tochter</persName> auch zu saterisiren an. Jene liest jetzt
+                        Herders Leben
+                    zum erstenmal u "lernt ihn" auf einer andern Seite kennen, als damals, wie sie noch in
+                        <placeName key="JP-006395">Weimar</placeName> war; die <persName key="JP-003172">Tochter</persName> wartet, bis die <persName key="JP-003171">Mutter</persName> es gelesen u dann liest sie auch. Wenn ich einen Gruß
+                    überbringe, sind beide selig; der alle<persName key="JP-003168">Paulus</persName> wird von manchen Studenten bis in
+                    den Himmel gehoben, von andern nicht. Religiosität, die man ihm sonst immer
+                    abspricht, hat er gewiß; auch glaube ich, daß  viele paradoxe Sätze in
+                    der Theologie jetzt nicht mehr vom Katheder spricht. Seine <persName key="JP-003172">Tochter</persName> kann sehr viel gewinnen u viele Menschen
+                    einnehmen; aber sie passte z.b. am allerwenigsten zum <persName key="JP-004520">H. Voss</persName>, der von der Welt noch wenig
+                    erfahren hat u auch bei seiner himmlischen Liebe Niemanden Arges zumuthet. So
+                    ein Mann, wie <persName key="JP-001353">Göthe</persName>, muß von ihr  ergriffen sein; aus
+                    ihrem Auge leuchtet der hellste Verstand u ein wiederfahrnes Leben, eine
+                    Menschenkenntniß; die <persName key="JP-003171">Mutter</persName> würde
+                    vielleicht aus Gram nicht lange mehr leben, wenn  jene nicht immer aufheiterte. Die
+                    <persName key="JP-003948">Schwarz</persName> ist eine herrliche Frau in Hinsicht
+                    ihres Charakters; allein der <persName key="JP-001984">Stilling</persName>
+                    steckt ihr noch im Kopf; ihre Eintracht mit dem noch bessern Manne ist
+                    segensreich für die <persName key="JP-012789">Kinder</persName>, die die
+                    herrlichsten Menschen von der Welt sind; <persName key="JP-003947">die älteste
+                        Tochter</persName> möchte ich mit der
+                        <persName key="JP-003471">Emma</persName> vergleichen; sie weiß eben so das
+                    Lächerliche jedem wirklich Lächerlichen abzugewinnen u so jede Eigenschaft
+                    gründlich zu wissen; ihre Häuslichkeit u Wirthaftlichkeit ist, wie bei allen
+                    Heidelbergerinnen, Muster für andere. Leider zieht mich ein feindlicher Dämon zu
+                    Menschenmenge hin u ich besuchte vor kurzem die Gesellschaft bei Heinz; der alle<persName key="JP-000755">Daub</persName> war zugegen u erkundigte sich recht
+                    freundlich nach unserm lieben <persName key="JP-999999">Vater</persName>. Mehr
+                    will ich von diesem dem <persName key="JP-999999">Vater</persName> erzählen. Die
+                    Häuslichkeit schmeckt einem hier ganz herrlich; alles ist recht freundlich; Ich
+                    glaube kaum, daß in <placeName key="JP-005574">B</placeName>.  Veilchen im Januar zu finden sind; hier blüht Alles; u rechten
+                    Zwang wird es kosten, den Sommer geistig so zu benutzen, wie den Winter. <anchor type="target" xml:id="start_uhp_xhm_j4b"/>Die alle<persName key="JP-004516">Voss</persName> ist Gottlob
+                    jetzt gesund, ich war recht beängstigt<anchor type="target" xml:id="stop_uhp_xhm_j4b"/>; ihr <persName key="JP-004522">Sohn</persName>
+                    aus <placeName key="JP-006100">Offenburg</placeName> bei <placeName key="JP-006310">Straßburg</placeName> ist mit <persName key="JP-013213">seiner Frau</persName> schon abgereist d.h. sie braucht solch eine Hülfe u
+                    Pflege nicht mehr. Die Rechnung will ich gleich nächstens ablegen; die Zeit eilt
+                    u dieser Brief muß so bald als möglich zu Euch. Das Wetter ist immer noch
+                    frühlingmäßig.  Kommst Du etwa zu Ostern hieher? Ach! wie gern wollte
+                    ich Dich u den <persName key="JP-999999">Vater</persName> hier sehen; ihr fändet
+                    gewiß die höchste Freude an den <placeName key="JP-006052">Neckar</placeName> u <placeName key="JP-006187">Rhein</placeName>bergen. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0634/#start_hxl_zlm_j4b">Kannst Du mir wohl
+                        einmal den Brief von <persName key="JP-004106">Julius</persName> mittheilen, ich ermuntere mich so gern durch
+                        fremder Leute Tugenden.</ref> Ist die liebe <persName key="JP-002709">Gros
+                        mutter</persName> jetzt in <placeName key="JP-005586">Berlin</placeName>?
+                    Sag mir doch, wo sie wohnt. Ich möchte den <persName key="JP-004291">Thüngen</persName> einmal hinbringen, der auch hinter Folianten vergraben
+                    scheint. Wie lange blieb <persName key="JP-004654">Welden</persName> in
+                        <placeName key="JP-005574">Baireuth</placeName>? Bei solchen Fragen kann ich
+                    ja auch wohl durch Euch erfahren, wie <persName key="JP-003713">Schelling</persName> in <placeName key="JP-005721">Erlangen</placeName> lebt. Ein Professor
+                                <persName key="JP-002058">Kastner</persName> kommt aus <placeName key="JP-005607">Bonn</placeName> dahin. Kürzlich sah ich ein herrliches
+                    Schauspiel. Der <placeName key="JP-006187">Rhein</placeName> brachte bei einem
+                    Thauwetter ganze Berge von Eis auf seinem Rücken entlang u das sah majestätisch
+                    aus. Eben so der <placeName key="JP-006052">Neckar</placeName>. Sage doch der
+                        <persName key="JP-003471">Emma</persName>, sie soll
+                    mir lad einmal wieder schreiben u
+                         verkünde ihr, daß
+                    ich nichts von ihren Sachen u Arbeiten mitgenommen habe, wohl thäte es mich
+                    freuen, wenn ich etwas bekäme. Seid ihr Alle recht vergnügt? Die Stiefel meines
+                    geliebten <persName key="JP-002703">Grosvaters</persName> thun mir noch recht
+                    gute Dienste. Hat die <persName key="JP-004653">Welden</persName> etwa hier eine
+                    Anverwandte? Ihr bekommt doch die Briefe, die vom Mittwoch datirt sind, immer am
+                    Sonnabend? Du siehst, ich eile gewaltig; Leb nun wohl u grüße meinen <persName key="JP-003112">Otto</persName> u <persName key="JP-003087">Emanuel</persName> so, wie
+                    meine geliebten Schwestern.
+                    Ich will bald neues geben. Wenn Du an die <persName key="JP-000948">Ende</persName> schreibst, so sei auch ein Gruß von mir eingeschlossen;
+                    hier ging er durch <persName key="JP-003945">Schwarzens</persName> Brief zu ihr.
+                        <persName key="JP-004520">Voss</persName> u Andere,
+                    wie <persName key="JP-003168">Paulus</persName>, grüßen Euch Alle. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

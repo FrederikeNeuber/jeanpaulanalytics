@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Heidelberg, 7. Mai 1821, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-05-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg am 7 Mai. 1821.</dateline>
+               <salute>Beste Mutter!</salute>
+            </opener>
+            <p>
+               <ref type="letter" target="JP-UB0470">Dein</ref> und der <persName key="JP-003471">Emma</persName> Brief machte mir, da ich
+                    heute zum erstenmal nach 5wöchigen Ferien in das collegium ging, unendliche Freude. Unsern
+                            lieben <persName key="JP-000970">Enzel</persName> suchte ich gleich auf, lief in der größten Eile auf's
+                    Schloß und fand ihn endlich in dem <placeName key="JP-013054">Badischen Hof</placeName>. Nichts konnte ihn bewegen, einen Tag hier zu
+                    bleiben, selbst die Natur nicht, außer seiner eigenen. Von da an wirst Du Alles
+                    hören von ihm selbst. <persName key="JP-004520">
+                  <anchor type="target" xml:id="start_j1q_y35_j4b"/>Voss</persName> war
+                    schon lange gespannt auf einen Brief und das dritte Wort in seinem Munde war:
+                    Ach! wenn nur der liebe <persName key="JP-999999">Jean
+                            Paul</persName> schon da wäre.<anchor type="target" xml:id="stop_j1q_y35_j4b"/> Was ihn bis jetzt abhielt, dem <persName key="JP-999999">Vater</persName> noch einmal zu schreiben, war die kranke
+                        <persName key="JP-004516">Mutter</persName>
+                    (sie leidet schrecklich u verbirgt den Schmerz standhaft. Jetzt geht es
+                    bedeutend besser.) und ein <persName key="JP-013177">Professor Petersohn</persName>, den der <persName key="JP-999999">Vater</persName> in <placeName key="JP-005924">Kreuznach</placeName> besuchen wird, geliebt von der ganzen <persName key="JP-004526">Voßischen Familie</persName>; auch ich achte ihn außerordentlich u als er wegging von Heidelberg, begleitete ich ihn mit noch einem Studenten rund
+                    eine Stunde über <placeName key="JP-006396">Weinheim</placeName> hinaus. Die Gegend dort ist das wahre
+                    Paradies; der <persName key="JP-999999">Vater</persName> kennt ja <persName key="JP-001404">Grimm</persName> dort, den
+                    Volksfreund u Märchenverfasser. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0470/#start_bft_1bb_snb">
+                  <anchor type="target" xml:id="start_k3h_fd5_j4b"/>Der Osterkuchen ist leider etwas schimmlicht
+                        geworden</ref>
+               <anchor type="target" xml:id="stop_k3h_fd5_j4b"/>, aber er
+                    schmeckt doch gut. Du schreibst, daß der <persName key="JP-999999">Vater</persName> auf einen Brief von <persName key="JP-004520">Voss</persName> wartet; er hat ihm ja kürzlich geschrieben. Über die
+                            Möglichkeit eines Duells bin ich ganz ruhig; wer Veranlassung dazu gibt,
+                            dem gebührt es, diese Sitte mit zu machen; jeder kann sich davon
+                            zurückhalten, außer wenn fremde Leute es darauf anlegen. Darin seid auch ihr ganz besorgt. <hi rendition="#u" hand="#author">Hierin</hi> bin ich, glaube ich,
+                    so weit mit mir ins Reine, wie ich mich gegen <hi rendition="#u" hand="#author">Jeden</hi> zu betragen habe. Es ist aber schwerer, als man  glaubt. Sonst ist auch der Ton unter den Studenten so, daß jeder dem
+                    andern höflich begegnet u man mit jedem sprechen darf. <anchor type="target" xml:id="start_cgm_vg5_j4b"/>Wie hat sich <persName key="JP-002820">Miedel</persName> herausgebildet?<anchor type="target" xml:id="stop_cgm_vg5_j4b"/> und <persName key="JP-004654">Welden</persName>? Doch bei Euch kann man das nicht
+                    so merken, als wenn man unter seines Gleichen ist; dann ist es eine Aufgabe. Was
+                    das Geld anbetrifft, so bin ich nie in einer solchen peinlichen Lage gewesen;
+                    ich kann zwar von Landfrieds borgen, aber ich thue es nicht gern. Bei
+                        <persName key="JP-004520">Voss</persName> bin ich
+                    die letzte Zeit recht oft gewesen; auch bei <persName key="JP-003168">Paulus</persName>. <anchor type="target" xml:id="start_yw2_v35_j4b"/>Hier ist ein Briefchen von <persName key="JP-000587">Carové</persName> an <persName key="JP-012172">Layriz</persName>, das Bild des
+                        <persName key="JP-999999">Vaters</persName> betreffend.<anchor type="target" xml:id="stop_yw2_v35_j4b"/> Ach könnte ich dem guten <persName key="JP-004520">Voss</persName> auch eines geben, oder
+                    der <persName key="JP-003168">Paulus</persName>. Beide verdienen es auf gleiche
+                    Weise. Der <persName key="JP-999999">Vater</persName>, so hat es <persName key="JP-004520">Voss</persName> ausgemacht,
+                    soll wegen vieler Ursachen, die besser mündlich zu sagen sind, durchaus in dem
+                        <placeName key="JP-011385">König von Portugal</placeName> bei Guttmann logiren.
+                    Der Frau am Thore ist es schon gesagt, im Fall er früher, als dieser Brief
+                    euch trifft, ankäme. Der <persName key="JP-002159">Wirt</persName> im <placeName key="JP-011386">Carlsberg</placeName> ist
+                    nur hohen Herrn (von Stand) hold. Danke der lieben <persName key="JP-003471">Emma</persName>, daß sie so freundlich an mich
+                    gedacht hat, und Dir, beste Mutter, lege ich es ans Herz, daß erstens mir <persName key="JP-003491">Odilie</persName> schreibt,
+                        daß der gute <persName key="JP-999999">Vater</persName> doch ungefähr den Tag seiner Ankunft melden soll,
+                            dann kann manches vorbereitet werden, und überhaupt etwas Näheres der
+                            Reise. Ich habe jetzt das untere Quartier in meinem
+                    Hause bezogen (es kostet 24 fl.) ich muß diesen Sommer  ganz allein
+                    sein. Hauptcollegia bringen mich zum Sitzen. Deiner
+                        <persName key="JP-002709">Mutter</persName> kannst Du einstweilen mich
+                    anmelden in <placeName key="JP-005586">Berlin</placeName>; denn mehr als noch 1 Jahr kann ich nicht hier
+                    bleiben. Das rechne ich immer nach neuen Colleg. aus.
+                        Gott gebe es, daß der
+                        <persName key="JP-999999">Vater</persName> mir dieses erlaubt. Daß <persName key="JP-003112">Otto</persName> in <placeName key="JP-006040">München</placeName> so gerne ist, freut mich wegen des festen Standpunktes
+                    des Mannes, aber da<persName key="JP-001671">Herder</persName> weggeht, kann ja wenig mehr bei Euch zu suchen sein.
+                        <hi rendition="#u" hand="#author">Hier</hi> bin ich überall von
+                    den ersten Gelehrten umgeben; der <persName key="JP-999999">Vater</persName>
+                    könnte erst dann das schöne Treiben auf der <placeName key="JP-011378">Universität</placeName> kennen lernen, wenn er da gelebt hätte. – Die
+                        <persName key="JP-000853">Herzoginn von Curland</persName> kommt Morgen bestimmt. <persName key="JP-004520">Voss</persName> u ich werden sie
+                    besuchen. – Nun lebt alle recht wohl. Gerade wird es 4 Uhr schlagen und da muß
+                    ich  bei <persName key="JP-004836">Zachariae</persName> im
+                    Staatsrecht hospitiren. Grüße Du, Herrliche, meinen <persName key="JP-999999">Vater</persName>. Ein Brief von ihm kann mir nur allein Vertrauen geben,
+                    ihm für seine Liebe zu danken. Grüßt <persName key="JP-003087">Emanuel</persName> u <persName key="JP-003112">Otto</persName>; und schreibt ja recht bald. <persName key="JP-004520">Voss</persName>, <persName key="JP-003168">Paulus</persName> u alle
+                    Freunde grüßen. <anchor type="target" xml:id="start_tyk_qsx_j4b"/>Dem Rendanten werde ich nächstens schreiben.<anchor type="target" xml:id="stop_tyk_qsx_j4b"/> Die besten Grüße an <persName key="JP-004654">Welden</persName> und
+                    zugleich Ermahnungen, daß er doch das erbärmliche <placeName key="JP-006422">Würzburg</placeName> verlassen soll und ins freie
+                        <placeName key="JP-005819">Heidelberg</placeName>
+                    gehen. Hier wagt man nie einen <persName key="JP-004267">Thibaut</persName> abzusetzen, wohl aber dort einen <persName key="JP-013081">Bähr</persName>. Nun
+                    lebt wohl. Ihr sehet, daß dieß Blatt unbeschrieben bleibt. Die Zeit ist zu kurz.
+                         Es sollte ja blos der Dank für das <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0470/#start_bft_1bb_snb">Paket</ref> u den <ref type="letter" target="JP-UB0470">Brief</ref> ausgedrückt sein. Mit inniger Liebe </p>
+            <closer>
+               <signed>Dein M.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

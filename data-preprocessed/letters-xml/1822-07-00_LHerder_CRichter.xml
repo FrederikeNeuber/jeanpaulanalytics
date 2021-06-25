@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0150">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Luise Herder an Caroline Richter. Bayreuth, Juli 1822</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001679">Luise von Herder</persName>
+               <date notBefore="1822-07-01" notAfter="1822-07-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine verehrte Freundinn, – nach so vielen Beweisen Ihrer Güte gegen mich,
+                    erlauben Sie mir wohl Sie so zu nennen? – gestern während meiner Abwesenheit sind meine Waschgeschäfte so unerwartet
+                    fortgerückt, daß der Plätte-Actus schon heute, statt morgen wie ich glaubte, statt
+                    findet – dabei darf ich nun aber allerdings nicht helfen und muß daher der
+                    Freude entsagen Sie zu sehen, wollen Sie mir aber erlauben morgen Ihre Güte in
+                    Anspruch zu nehmen, so werde ich gegen 12 Uhr mich bei Ihnen einfinden. doch
+                    bitte ich Sie dringend es mir aufrichtig abzuschlagen wenn es Ihnen ungelegen
+                    sein sollte.</p>
+            <closer>
+               <signed>Ihre ergebene Luise.</signed>
+               <dateline>Donnerstag</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0190">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Odilie Richter an Caroline Richter. Würzburg, 21. November 1822, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+               <date when="1822-11-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Würzburg den 21tenNovember <hi rendition="#u" hand="#author">1822</hi>
+               </dateline>
+               <salute>Geliebte Mutter!</salute>
+            </opener>
+            <p>Habe herzlichen Dank für <ref type="letter" target="JP-UB0430">Deinen lieben
+                        Brief</ref>, er machte mir, wie immer, die größte Freude. <anchor type="target" xml:id="start_g2c_1q3_qlb"/>Meine Backe ist schlimmer geworden
+                    als ich dachte. Es ist eine ganze große Beule, die steinhart war und worüber ich
+                    immer Uberschläge machen mußte; ich durfte mich daher weder spannen noch
+                    manipuliren lassen.<anchor type="target" xml:id="stop_g2c_1q3_qlb"/> Das ist mir
+                    das allerärgerlichste. Da es immer schlimmer wurde, so ließ <persName key="JP-003031">Auguste</persName> den <persName key="JP-012275">Düruf</persName> kommen und jetzt
+                    geht es um vieles besser. Es ist jetzt offen und darf nur noch abgewartet
+                    werden; doch darf ich mich noch nicht einspannen. <persName key="JP-003031">Auguste</persName> meinte nun, da ich dadurch so viel versäume, solltest Du
+                    mich lieber noch acht Tage später abholen. Rückwärts werde ich dadurch nicht
+                        kommen, allein es ist
+                    doch besser  das
+                    Versäumte nachzuholen. Wenn Ihr es auch für besser findet, so will ich auch
+                    gerne noch   so eine kurze Zeit entbehren, was ich so lange nicht hatte. Um desto
+                    größer ist die Freude. Ich möchte gerne recht zu Eurer Zufriedenheit
+                    zurückkehren, und wenn ich dann immer bei Euch geliebten Ältern sein
+                    kann, so kann ich mir  kein glücklicheres Dasein vorstellen. Die neue
+                            Einrichtung die gemacht wird hat mich ganz entzückt. So schön hätte ich
+                            es mir nie vorstellen können. Gerade jetzt, wo mir die
+                    Freude immer näher liegt, vergeht die Zeit so  langsam.</p>
+            <p>
+               <anchor type="target" xml:id="start_h4d_qq3_qlb"/>Ich helfe jetzt der <persName key="JP-003031">Auguste</persName> am Puppenputzen für Weihnachten<anchor type="target" xml:id="stop_h4d_qq3_qlb"/>. Das Weihnachtsfest wird hier
+                    recht schön sein, da so viele bescheert bekommen. Es sind eine menge Kinder
+                    hier, deren Bescheeren besonders viel Freude macht. Das erstemal in meinem Leben
+                    muß ich es ohne Euch feiern aber gewiß auch das letztemal.  </p>
+            <p>
+               <persName key="JP-001608">Hr. Heine</persName> zögert noch immer mit meinem
+                    Bett. Täglich bitte und erinnere ich ihm daran und jedesmal verspricht er es auf
+                    den  nächsten Tag und doch dauert es so lange. Ich weiß gar kein Mittel mehr
+                    es zu  erlangen. Da er noch so eine lange Zeit vor Augen sieht,  glaubt er keinen Grund zu haben, das Fortschicken zu beschleunigen.
+                        <anchor type="target" xml:id="start_bqs_2s3_qlb"/>Das Papier habe ich
+                    gekauft. Das Mädchen aus <placeName key="JP-006363">Ulm</placeName> will aber,
+                    wenn es der liebe <persName key="JP-999999">Vater</persName> wünscht, dasselbe
+                    wieder von daher kommen lassen.<anchor type="target" xml:id="stop_bqs_2s3_qlb"/>
+                    Ich kann es dann selbst mit nach Hause bringen.</p>
+            <p>
+               <persName key="JP-003031">Auguste</persName> läßt Euch herzlich grüßen.</p>
+            <p>Gestern besuchte mich die <persName key="JP-012608">Fr. v. Düruf</persName>
+                    die Dich auch aufs innigste grüßen läßt. an <persName key="JP-003121">Ottos</persName>, <persName key="JP-003089">Emanuels</persName>, <persName key="JP-004656">Weldens</persName>, <persName key="JP-001632">Helene</persName>, <persName key="JP-002667">Mathilde</persName>, tausend Grüße von mir. Meinem lieben guten <persName key="JP-999999">Vater</persName> und meiner <persName key="JP-003471">Sübse</persName> gebe ich tausend Küsse. Möchte Gott Euch Alle recht gesund
+                    und vergnügt erhalten, bis zur Wiederkehr Eurer treuen</p>
+            <closer>
+               <signed>Odilie </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <anchor type="target" xml:id="start_upt_ss3_qlb"/>Der Maler
+                            <persName key="JP-012545">Menna</persName> frug mich neulich, ob Du
+                        noch nichts von <persName key="JP-012821">seinem Sohn</persName>
+                        geschrieben hättest, ich sollte Dich doch daran erinnern, liebes
+                            Mütterchen.<anchor type="target" xml:id="stop_upt_ss3_qlb"/>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

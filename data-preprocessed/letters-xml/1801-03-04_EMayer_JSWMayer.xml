@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0228">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mayer an Johann Siegfried Wilhelm Mayer. Leipzig, 4. März
+                    1801, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1801-03-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>den 4tenMarz 1801.</dateline>
+            </opener>
+            <p>Gewiß, liebster Vater, erwarten Sie mich selbst wohl eher als noch diesen Brief.
+                    – Aber zu meinem großen Verdruß muß ich Ihnen sagen daß es mit der Ihnen zulezt
+                    gemeldeten Gelegenheit nun auch nichts ist – und sich aller Bemühungen
+                    ungeachtet, sich jetzt durchaus gar keine finden will. – Der <persName key="JP-012100">rußische Consul</persName> der mich wirklich mitnehmen wollte mußte mit einenmale statt nach<placeName key="JP-005586">Berlin</placeName> nach <placeName key="JP-005687">Dresden</placeName>und meine schöne Hoffnung war vereitelt. Es ist jetzt so schwierig eine zu
+                    finden da Frauenzimmer in dieser Jahrzeit – bey den schlechten Wegen selten
+                    reisen.</p>
+            <p>Wenn es anginge, daß Sie dmir die Hälfte des Weges einen Wagen entgegen schickten, worinn mir
+                    irgend eine sichre Begleitung – Ihr Bedienter etwa? sich befände, so könnte ich
+                    ja wohl von hier aus mit <persName key="JP-004104">Spazier</persName> die erste Hälfte zurücklegen – nemlich bis <placeName key="JP-006415">Wittenberg</placeName>.  So ungern, wie ich wohl sehe, <persName key="JP-004104">Spazier</persName> sich auch dazu verstehen würde,
+                    da seine Geschäfte eine Abwesenheit von wenigen Tagen nur,
+                    fast nicht zulaßen, so weiß ich doch keinen andern Rath, wenn ich nicht noch
+                    Monate hier zubringen will. – Und wenn ich gar an die Kosten denke, die es doch
+                    natürlich unendlich mehr macht – als wenn ich mit einer Gelegenheit führe! –</p>
+            <p>Wenn Sie jetzt nur die Güte haben mir mit nächster Post Ihren Willen bekannt zu
+                    machen. Ich werde noch immer nicht aufhören mich nach Gelegenheiten umzusehen. –
+                    Ihr Brief wird aber dann entscheiden – und wenn Ihnen selbst, etwas daran liegt
+                    mich bald wieder bey sich zu sehen, so erlauben Sie mir gewiß einen schnellen
+                    Entschluß zu faßen. – Sollte es vielleicht  sich doch nicht thun laßen
+                    daß <persName key="JP-004104">Spazier</persName> mit
+                    reisen könnte, so gienge es ja wohl an daß ich eine weibliche Begleitung –
+                        <persName key="JP-012142">dieselbe Person</persName>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0240/#start_flb_l45_2jb">die  schon einmal dazu bestimmt war</ref> – mitnähme. –</p>
+            <p>Schreiben Sie mir doch ja recht bald liebster Vater; denn es giebt keinen
+                    unerträglichen Zustand, als den der Unschlüßigkeit, noch dazu wenn er nicht in
+                    uns selbst, sondern nur in äußern Verhältnißen liegt. Ich sehe nicht ein warum
+                    ich nicht ganz alleine reisen könnte – wer würde mir denn
+                    etwas thun? – Doch geht es freylich nun einmal nicht an!</p>
+            <p>Ich habe noch nicht dazu kommen können Ihren Wunsch wegen taration der bijouterien, Münzen und Kleider <persName key="JP-002711">der
+                        Mutter</persName> zu befriedigen. Sie werden es gewiß entschuldigen wenn ich
+                    Ihnen die Gründe anführe, daß es bis jetzt noch unterblieb. –  Die
+                    Hauptursache ist wohl die, daß wir alle zu sehr mit der <persName key="JP-004393">Wöchnerin</persName>, und den Angelegenheiten des
+                    Hauses beschäftigt waren um ernstlich zu etwas anderen zu kommen. Nachdem wir
+                    nun wieder  in Ruhe sind, die Taufe vorbey ist etc: so haben wir
+                    es alle hin und her überlegt und scheint es doch der Kleinigkeiten wegen fast
+                    nicht der Mühe werth hier das vorzunehmen. Seyn Sie nur
+                    nicht böse, liebster Vater, wenn Sie unsre Meinung unüberlegt finden. Ich dachte
+                    nur da ich doch das Benannte mit nach <placeName key="JP-005586">Berlin</placeName> zurückbringen muß und nur das zurücklaße was wie Sie
+                    selbst sagten zu unbedeutend ist um taxirt werden zu
+                    müßen so komt es ja auf eins heraus. Da ich doch einen Koffer mitbringe so geht
+                    leicht alles hinein was sich hier von den Sachen der <persName key="JP-002711">Mutter</persName> befindet. – Die Zeit ist zu kurz um mehr zu schreiben
+                    Zürnen Sie nur nicht auf mich, liebster Vater und glauben Sie fest an die
+                    treue</p>
+            <closer>Liebe Ihre Ernestine</closer>
+         </div>
+         <postscript>
+            <p>Herzliche Grüße von <persName key="JP-004393">Minna</persName>, und die kleine <persName key="JP-000009">Laura</persName> bittet
+                        um Ihren großväterlichen Segen. Auch <persName key="JP-004104">Spazier</persName> empfielt sich.</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

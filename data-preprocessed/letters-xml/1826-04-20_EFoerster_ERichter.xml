@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0262">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernst Förster an Emma Richter. München, 20. April 1826, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001120">Ernst Joachim Förster</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1826-04-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011948">Natur</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Vor allem herzlichen Dank, liebe Emma, für <ref type="letter" target="JP-UB0168">Ihren lieben Brief</ref> und die Grüße der <persName key="JP-003469">Mutter</persName> und <persName key="JP-003491">Schwester</persName>, vielen Dank für die mir geschenkte Sorgfalt <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0168/#start_agw_d4d_1lb">wegen einer so vortrefflichen Wohnung</ref>. Mir ist’s, als träte ich eine
+                    Reise ins Paradies an. Und Sie, Emma! kennen oder verkennen mich gut, wenn Sie
+                    über das, was ich von der Welt erwarte, im Zweifel sind. Dem Nichts Erwartenden
+                    ist das Leben in allen Erscheinungen unendlich reich. Noch hat das Leben jede,
+                    selbst die kühnste meiner Hoffnungen übertroffen. Heute habe ich Briefe aus <placeName key="JP-005918">Konradsreuth</placeName>, die meinen Entschluß, eine kurze Zeit – etwa 4 Wochen – in <placeName key="JP-005574">Bayreuth</placeName> zu verweilen, befestigen, weßhalb ich
+                    also die Wohnung bei Herders mit Dank und Freude annehme. Am Montag, Dienstag oder Mittwoch werde ich
+                    hier abreisen und – gibt Gott seinen Segen – Ende Mai bei Ihnen sein.</p>
+            <p>In Beziehung auf Ihre Bekenntnisse, und daß Sie mir sie unbefangen mittheilen,
+                    gilt mir als hinreichender Beweis, daß Sie mich zu denen zählen, die den Werth
+                    geistiger, schriftstellerischer wie jeder künstlerischer Begabung bei dem
+                    weiblichen sowie beim männlichen Geschlecht mit inniger Freude und Hochachtung
+                    wahrnehmen.</p>
+            <p>Nicht nur der Mensch in seiner Gottanbetung wendet seine Blicke nach dem Himmel,
+                    auch auf grünem Grunde die bunte Blumenwelt kehrt die entfalteten Kronen dem
+                    ewigen Lichte zu. Wer möchte dem kleinen Veilchen den erquickenden Duft, der
+                    Rose ihre entzückende Pracht, der Perle auf dem finstern Grunde des Meeres den
+                    himmlischen Lichtglanz wehren mögen! Jeder Mensch ist Dichter, wenigstens einmal
+                    im Leben; wohl dem, der dem Augenblicke der Glückseligkeit Ewigkeit zu verleihen
+                    vermag! Daran wollen wir denken und danach leben und handeln! Der ihrige</p>
+            <closer>
+               <signed>E. Förster.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

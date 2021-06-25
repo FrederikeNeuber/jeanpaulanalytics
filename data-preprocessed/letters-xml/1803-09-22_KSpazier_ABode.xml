@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0836">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig, 22. September 1803, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-09-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipz. 22 Septbr
+                        3.</dateline>
+            </opener>
+            <p>Ich kann mir nicht helfen, lieber Freund ich muß Ihnen sagen, daß mich die
+                    Lektüre Ihrer <bibl sameAs="JP-013243" subtype="werk">Burlesken</bibl>, die
+                    ich Bogenweise aus der Druckerey zu sehn bekomme, gar sehr ergötzt. Mit dem Däumeling bin ich noch nicht aus,
+                    aber er ist charmant u muß sich interessant beschließen. Vom Genius der Kunst habe ich noch nichts
+                    gesehen, aber <persName key="JP-002583">Mahlmann</persName> sagt mir viel davon. Eben habe ich den Prologus des Theaterdirektors abdrucken laßen.</p>
+            <p>
+               <anchor type="target" xml:id="start_vn3_yxz_f4b"/>Wollen Sie nicht selber
+                    vorläufig eine lustige Anzeige von den <bibl sameAs="JP-013243" subtype="werk">Burlesken</bibl> aufsetzen, die
+                    ich, daß man nicht merke wo sie herkommen, gleich einrücken kann, sobald sie
+                    versandt werden?<anchor type="target" xml:id="stop_vn3_yxz_f4b"/>
+            </p>
+            <p> Sie können sich wahrhaftig loben, u wenn Sies nicht thun, thu ichs.
+                        Laßen Sie dabey die Parallelen mit den vorjährigen
+                                <persName key="JP-002228">Kotzebueschen</persName>
+               <bibl sameAs="JP-013269" subtype="werk">Karikaturen</bibl> nicht aus:
+                            welch mattes, frostiges Zeug sind diese gegen Ihre frischen, lebendigen
+                            Marionetten! Thun Sie, worum ich bitte.</p>
+            <p>Überhaupt aber, Freund, jetzt gehe ich Sie ernstlich um Beiträge an. Ich muß die
+                        <hi rendition="#u" hand="#author">lezten</hi> Eindrücke für mein
+                        <bibl sameAs="JP-009809" subtype="werk">Blatt</bibl> zu gewinnen suchen, dann
+                    ist für das kommende Jahr gewonnen Spiel. Fürs Erste hätte ich große Lust, Sie
+                    um ein gescheites Wort über <persName key="JP-001353">Göthes</persName>
+               <hi rendition="#u" hand="#author">
+                  <bibl sameAs="JP-008519" subtype="werk">Eugenie</bibl>
+               </hi> zu ersuchen. <persName key="JP-003757">Schlegel</persName> hatte mir schon vor 6 Monaten etwas
+                    darüber  zugesagt; aber er steckt in seinem
+                                <persName key="JP-000568">Calderon</persName>, und es
+                    ist nun an nichts zu denken. Er entschuldigte sich ein mal über das Andere. Jetzt da das Buch als Almanach erscheint, wäre mir
+                            etwas Gutes darüber <hi rendition="#u" hand="#author">sehr
+                                lieb</hi>.</p>
+            <p>Wollen sie auch etwas über des alten, frischen
+                                <persName key="JP-004710">Wielands</persName>
+               <bibl sameAs="JP-013300" subtype="werk">
+                  <hi rendition="#u" hand="#author">Menander</hi> und <hi rendition="#u" hand="#author">Glycer.</hi>
+               </bibl> sagen? Sollte es wohl wahr seyn, daß
+                        <persName key="JP-002805">Meyer</persName> die abscheulichen Dinger darin
+                    gezeichnet hat?</p>
+            <p>Indem ich Sie um Unterstützung ersuche, bin ich gewiß nicht Willens sündlich mit
+                    Ihrer Zeit umzugehen, Sie sind Schriftsteller, Sie haben das Recht Vergütung
+                    durch Honorar zu verlangen. Viel kann ich, armer Teufel, nicht geben, aber das
+                    Wenige herzlich gern.</p>
+            <p> Wollen Sie mit 2 Ldor pr. Bogen, aus
+                    Freundschaft zu mir u aus Theilnehmung an den lieben <persName key="JP-012898">Meinigen</persName>, zufrieden seyn? Sagen Sie!</p>
+            <p>Noch einen Wunsch hätte ich, oder zwey. Wäre es nicht hübsch, wenn dies
+                    Fehde-Jahr für meine <bibl sameAs="JP-009809" subtype="werk">Zeitung</bibl> mit
+                    einem hübsch witzigen <hi rendition="#u" hand="#author">Epilogus</hi>
+                    beschlossen würde? Sie dürften das <bibl sameAs="JP-009809" subtype="werk">Blatt</bibl> auch eben nicht schonen, könnte ihm immer auch eins anhängen,
+                    wenns nur nicht zu heidnisch wäre.</p>
+            <p>Dann bin ich wegen einer <hi rendition="#u" hand="#author">Idee zum
+                        Titelkupfer</hi> des neuen Jahrgangs verlegen. Die Ausstechungen müssten
+                    aber nicht viel kosten. Am besten wären leichte Skizzen. Der Gegenstand könnte
+                    Komisch sein. Sinnen Sie einmal nach. Ich habe schon so mancherley verworfen, u
+                    die Zeit rückt heran, daß man ernstlich daran denken muß.</p>
+            <p>Haben Sie die Güte, mir recht bald auf diesen Brief zu antworten. Apropos, ließe sich der jetzige <hi rendition="#u" hand="#author">Streit der beiden Literatur
+                            Zeitungen</hi> nicht lustig machen, nicht in eine kleine Burleske
+                        verkehren? Antwort, Antwort! Ihrem Sp.</p>
+            <postscript>
+               <p> Noch eins. Ihr übersandter Monolog ist gar sehr gut; aber wo
+                        denken sie hin, wenn Sie mir den Abdruck zumuthen? Es ist der strengste
+                        Befehl vom <placeName key="JP-005687">Dresdner</placeName> Ministerium hier
+                        an den Censor gegangen, nicht passiren zu laßen, was <persName key="JP-002955">Bonap</persName>. u die <placeName key="JP-005745">franz</placeName>. Regierung betrifft. Letztlich ließ ich etwas aus
+                            <persName key="JP-003383">Reichardts</persName>
+                  <bibl sameAs="JP-009466" subtype="werk">gedr. Briefen aus Paris</bibl>: eine
+                        hübsche unschuldige Schilderung von <persName key="JP-002955">Bonap</persName>. Person, seiner Art sich zu tragen, im Hause zu leben,
+                        abdrucken u markirte selbst die Seitenzahl aus dem Buche. Das Blatt, wovon schon ein paar hundert Ex.
+                                gedruckt waren, mußte umgedruckt werden u die wöchentliche
+                        Lieferung wurde unterbrochen. Ich habe den Monol. aber an <persName key="JP-000119">Archenholz</persName> gesandt, der ihn wohl aufnehmen
+                        wird.</p>
+               <p> Lesen
+                        Sie doch <persName key="JP-002774">Merkels</persName> Ankündigungen in
+                        seinem <bibl sameAs="JP-013276" subtype="werk">Ernst und
+                        Scherz</bibl>. Er will, der anmaßende Mensch die
+                        Recensionen aus beiden Liter.
+                                Zeitungen
+                        recensiren, u sich wie ein Lachsfänger vor den Durchzug stellen, eine
+                        Barbierstube anlegen, wie alle Recensenten über den Daumen barbirt werden sollen. Der petit arrogant muß mit
+                        Lächerlichkeit bedekt werden.  Aber sollten Sie etwas wollen, so scheuen Sie sich nicht
+                        weiter, Ihren Namen dabey zu nennen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

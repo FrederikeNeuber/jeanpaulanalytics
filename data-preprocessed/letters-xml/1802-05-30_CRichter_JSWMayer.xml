@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0492">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 30. Mai 1802,
+                    Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-05-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011937">Kunst</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den
+                                30tenMay 1802</dateline>
+               <salute>Theuerster Vater!</salute>
+            </opener>
+            <p>Ihren Brief mit derZeichnung habe ich vor zwei Tagen erhalten und ich danke Ihnen recht innig daß Sie
+                    meine Bitte erfüllt haben. Ob ich aber dem <persName key="JP-001504">Zeichner</persName> nüzlich seyn kann, glaube ich nicht – denn die
+                    Erinnrung giebt mir nur ein schwankendes kein festes Bild, und nur dunkel fliegt
+                    das wahrevor meiner Seele vorüber. Ich habe sogleich einige Versuche
+                    gemacht, allein keines ist mir gelungen – es ist sonderbar, daß mir die
+                    überschikte Zeichnung so sehr von der Natur abzuweichen scheint – das Auge
+                    allein scheint mir ähnlich, aber die Einbiegung von der Stirn zur Nase zu tief –
+                    die übrigen Züge scheinen mir durchaus unähnlich, es müste denn die Krankheit
+                    die unentwikletern  herausgehoben haben. Es war
+                    aber nicht meine Absicht, liebster Vater eine künstlerische Hand unterstüzen zu
+                    wollen – ich meynte mit meinem Wunsch nur einen Genus für mich zu verbinden.
+                    Aber unendlich würde es mich freuen nur eine Spur der Wirklichkeit zu
+                    erhaschen.</p>
+            <p>Nichts kann Ihnen mehr Freude machen, als beiliegender Brief des alten ehrwürdigen <persName key="JP-001328">Gleim</persName> an mich, mit dem er mir gestern wie Sie sehen werden das Bild unsrer <persName key="JP-002712">Grosmutter</persName> zusandte. Die <persName key="JP-002712">Grosmutter</persName> in meinen Händen und mit ihr die Springfeder aller Familienbilder in
+                    meiner Seele! </p>
+            <p>Fast kann ich es selbst nicht begreifen, und die Überraschung des ersten
+                    Augenbliks kann ich Ihnen nicht beschreiben. Werden Sie, und noch mehr die
+                        <persName key="JP-002779">Tante Merzdorf</persName> mich nicht beneiden? Ich fürchte sogar daß Sie oder diese mir es nehmen möchten, wenn Sie nicht
+                    Beide ein eignes Bild besäßen – aber nein freiwillig würde ich es Ihnen mein
+                    theurer Vater geben, wenn Sie keines hätten, oder auch sobald Sie es nur leise
+                    wünschen. <ref target="JP-UB0362/#np43_zfd_ymb">Nach <placeName key="JP-005948">Leipzig</placeName>
+               </ref> bringe ich es mit, und Sie sollen darüber entscheiden.</p>
+            <p>In meinem Zimmer habe ich es aufgehängt und es schaut so sanft auf alles was ich
+                    thue – wenn wir eßen ist es gerade über uns – mir ist oft als wäre
+                    ihr Ausdruk des Wohlwollens ihrer jezigen Empfindung abgenommen wenn sie auf
+                    unser stilles glükliches Leben sieht. Mein <persName key="JP-999999">Mann</persName> findet das Gesicht auch so schön und liebt es wahrhaft.</p>
+            <p>
+               <ref type="letter" target="JP-UB0542">Mein lezter Brief</ref> war nur eine
+                    Nachschrift <ref type="letter"
+                    subtype="document"
+                    target="https://www.jeanpaul-edition.de/brief.html?num=IV_274">dem <persName key="JP-999999">meines Mannes</persName>
+               </ref> beigefügt – für die ich noch einmal um Entschuldigung bitte – ich war in
+                    der That jenen Tag zu beschäftigt als daß ich weitläufiger hätte seyn können.
+                        <hi rendition="#u" hand="#unknown">Die
+                                kleine Reise nach <placeName key="JP-005832">Hildburghausen</placeName>
+               </hi>, obwohl nur von 2 Tagen, hat
+                            uns sehr viel Vergnügen gegeben. Das Wetter war so unendlich schön, so daß die eigentliche Reise die wieder an die vorjährigen erinnerte einen
+                    großen Genus gab – wir wurden zwar umgeworfen, allein ohne allen Schaden für uns
+                    – die erste Erfahrung dieser Art für mich. In <placeName key="JP-005832">Hildburgh</placeName>. sahen wir nur <persName key="JP-012872">die herzogliche Familie</persName> die so liebenswürdig einig
+                    häuslich ist als Sie Sich irgend eine gebildete privat
+                        famili denken können. Einen Nachmittag und Abend waren wir den ersten
+                    Tag dort – die Etiquette verlezt aber doch noch recht hart
+                    die Achtung für die Menschheit. Denn, denken Sie, daß
+                            man die Dreistigkeit hatte mich während der Tafel sehr fein von
+                                <persName key="JP-999999">meinem Mann</persName> zu trennen, indem
+                            mich die <persName key="JP-004811">Oberhofmeisterin</persName> auf eine
+                                partie fine mit ihr
+                            und der <persName key="JP-000610">ältesten Prinzeßin</persName> (15 Jahr
+                            alt) einlud. Und
+                            wir waren beide zur Tafel geladen. Nach ihr kamen wir wieder im allgemeinen Zimmer
+                    zusammen und es war, als wären wir nicht getrent gewesen. – Am zweiten Tag waren
+                    wir zum Frühstük dort, und die <persName key="JP-000608">Herzogin</persName>
+                    sang – und wie! Diese Stimme ist einzig, und ihre <persName key="JP-000610">älteste Tochter</persName> wird ihr nachkommen. Aber schon jezt macht die
+                    Unschuld ihres Gesangs einen sehr rührenden Eindruck.</p>
+            <p>Die <persName key="JP-000608">Herzogin</persName> beschämte mich im lezten
+                    Augenblik unsres Dortseyns durch ein Geschenk – Es war eine goldne kleine Leyer
+                    an einer langen feinen Kette die mir die <persName key="JP-004811">Oberhofmeisterin</persName> umhängen muste – Sie selbst  nahm sich auf eine so schöne Art – als ein Andenken an sie sollte
+                    ich es tragen –  ich wurde so bewegt, daß ich nichts sagen konte.</p>
+            <p>
+               <ref target="JP-UB0362/#np43_zfd_ymb">Wie wird es doch mit unsrer <placeName key="JP-005948">Leipziger</placeName> Reise werden</ref>. <persName key="JP-002581">Tinchen</persName> hat mir seit unsrer Entscheidung des
+                    August noch nicht geantwortet, und ich fürchte fast, wir zerstören durch diese
+                    Wahl ihre Pläne. </p>
+            <p>Eine allgemeine Krankheit zieht hier umher von der wir beide, <persName key="JP-999999">mein Mann</persName> und ich zwar  befreit geblieben sind – Ein Fieber welches an sich nicht gefährlich ist.
+                    Doch nicht auch bei Ihnen?, und sind Sie wohl, geliebter Vater, Sie schreiben so
+                    wenig von Sich, daß ich wünschte ein treuer Copist Ihres Lebens gäbe mir eine
+                    Abschrift davon. Kürzlich war ein <persName key="JP-004353">Herr von
+                        Türk</persName> der in <placeName key="JP-005586">Berlin</placeName> mit der
+                        <persName key="JP-000225">Fr. v Bassewiz</persName> umgegangen war bei uns,
+                        <persName key="JP-999999">mein Mann</persName> der allein zu Haus war frug
+                    nach Ihnen, aber er wuste nur zu sagen, daß er Sie in einer großen Gesellschaft
+                    gesehen habe, und nach genauern Fragen verrieth er eine gewiße Allgemein
+                    Gefälligkeit u log sich daher nur in Bekantschaften hinein. Am Himmelfahrtstag feierten wir recht
+                    schön u still unsern 1jährigen Hochzeittag, und gestern war es ein Jahr, daß ich
+                    von Ihnen getrennt bin! – – –</p>
+            <p>O mein theurer Vater, wann werde ich Sie wiedersehen? – Wie oft begleite
+                    ich Sie auf Ihren Spaziergängen mit meiner Seele - wie lebhaft u schauerlich
+                    steht Ihr Dasein vor mir! – ach wären Sie doch glücklich, würden Sie es
+                    doch bald durch ein liebendes Herz! </p>
+            <closer>
+               <salute>Gott erhalte Sie mein ewig geliebter Vater, schreiben Sie uns bald u
+                        lieben Sie ferner.</salute>
+               <signed>Ihre treuste Caroline</signed>
+            </closer>
+            <closer>
+               <persName key="JP-003469">mein Mann</persName> grüßt Sie voll heißer Liebe,
+                        haben Sie den 3<hi rendition="#uu" hand="#author">ten</hi>
+               <bibl sameAs="JP-010897" subtype="werke-jp">Titan</bibl>, von <persName key="JP-002678">Mazdorf</persName> bekommen? Lesen Sie ihn ja, und auch das <bibl sameAs="JP-010585" subtype="werke-jp">
+                  <hi rendition="#u" hand="#author">Campaner</hi> Thal</bibl> ich las es kürzlich und dachte
+                        daß Sie es </closer>
+            <closer>Den Brief von <persName key="JP-001328">Gleim</persName> schiken Sie mir bald wieder? Heute habe ich dem ehrwürdigen Greis geantwortet – diese Güte gegen <hi rendition="#u" hand="#author">mich</hi> Unbedeutende, hat mich <hi rendition="#u" hand="#author">an sich</hi> schon unendlich gerührt.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

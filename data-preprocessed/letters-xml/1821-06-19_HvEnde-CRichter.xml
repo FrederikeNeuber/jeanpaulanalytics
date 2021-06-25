@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0720">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Dresden, 19. Juni 1821,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1821-06-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012693">Personalien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Dresden den 19.ten Junius 1821</dateline>
+            </opener>
+            <p>Wenn die Freude über Ihren mir so lieben
+                            Brief,
+                    meine theure Freundin, nicht mehr Raum und Zeit ausgefüllt hätte, als das
+                    Schreiben eines Briefes bewiese, so müßte ich verlegen seyn, den Ihrigen so
+                    lange unbeantwortet gelaßen zu haben, so aber, habe ich Ihrem Herzen, welches
+                    das meinige kennt, keine Entschuldigungen zu machen, auch nicht einmal darüber,
+                    daß dieser Brief zwey Inlagen und zwey Bitten
+                    enthält; er enthält aber auch die Mittheilung einer mich schon längst
+                    ergötzenden Aussicht, nehmlich die, Sie Allerseits, so
+                            Gott will, im Laufe des künftigen Monats, bey meiner vorhabenden Reise
+                            über <placeName key="JP-005819">Heidelberg</placeName> nach <placeName key="JP-006244">Schlangenbad</placeName>, in <placeName key="JP-005574">Baireuth</placeName>
+                            zu sehen;
+                    schon längst, sahe ich dieser Reise mit meinem Sohne, mit vielem Vergnügen, wenn
+                    Gott das Gelingen verleiht, entgegen und da kann ich wohl sagen, daß seitdem,
+                    kein Tag vergangen ist und vergeht an dem ich nicht schon im Voraus in Gedanken,
+                    in <placeName key="JP-005574">Baireuth</placeName> bin
+                         und mich in Ihrer Aller lieben Gesellschaft sehe und erfreue. Nun
+                    kommen meine Bitten, nehmlich die eine Inlage der <persName key="JP-002482">Frau
+                        v. Lochner</persName> gefälligst zuzustellen und
+                    die andre, der <persName key="JP-003884">Fräul. Schuckmann</persName>, der ich sie darum nicht gradezu adressiren konnte, weil sie die Todesnachricht einer
+                    ihr sehr lieben Person enthält, <persName key="JP-011869">meiner Cousine der Ministerin von Globig</persName>, und ich durch die <persName key="JP-003830">Gräfin Schönburg</persName>, welche mir sehr
+                    herzliche Empfehlungen an Sie, meine theure Freundin, aufgetragen hat, als sie
+                    mich bey ihrer Anwesenheit in <placeName key="JP-005687">Dresden</placeName> besuchte, erfahren habe, daß sich die
+                        <persName key="JP-003884">Fräul. Schuckmann</persName> übel befindet; da ich ihre Anhänglichkeit an
+                    meine verstorbene <persName key="JP-011869">Cousine</persName> kannte, so hielt ich es für Pflicht, sie nicht
+                    dem Zufall auszusetzen, die Nachricht von diesen Todesfall in ihrem jetzigen
+                    leidenden Zustand ohne diejenige Schonung zu vernehmen, welche irgend eine ihrer
+                        <placeName key="JP-005574">Baireuther</placeName> Bekannten, durch Ihre Wahl
+                    derselben, da Sie sie vielleicht nicht selbst sehen, mit der Uebergabe meines
+                    Briefes verbinden wird; nicht wahr bey Ihnen bedarf dieser Auftrag keiner
+                    Entschuldigung, so gut ich auch weiß, daß Sie einander nicht nahe sind?</p>
+            <p>Es freut mich recht, kürzlich durch die Zurückkunft der <persName key="JP-013090">Herrn v. Budberg</persName> und
+                    v. Zedlitz Kunde von Ihrem lieben Hause
+                    bekommen zu haben; <persName key="JP-000949">mein Sohn</persName> sprach beyde,
+                    und vernahm wie sie es zu schätzen wußten, den lieben <persName key="JP-999999">Jean Paul</persName> gesehen zu haben,
+                    sie wiederholten mehrere seiner intereßanten Worte und sagten zu unsrer Freude,
+                    wie freundlich <persName key="JP-999999">er</persName> unser gedachte, herzlicher Dank sey <persName key="JP-999999">ihm</persName>
+                    dafür von uns gesagt!  Daß das überschickte
+                            Band, Ihnen Allen so gefiel, hat mich mit kindischer oder vielmehr
+                            kindlicher Freude erfüllt; solch ein <hi rendition="#u" hand="#author">Nehmen</hi>, wie viel <hi rendition="#u" hand="#author">giebt</hi> dies nicht!  Von ihren lieben <persName key="JP-003490">Max</persName>, habe ich mit Vergnügen Nachricht
+                    erfragt, bey den Sohn meines jüngsten Bruders, der bey
+                                <persName key="JP-003944">Schwarz</persName> in <placeName key="JP-005819">Heidelberg</placeName> war,nun aber nebst seinen Geschwistern hier ist, da <persName key="JP-012102">mein Bruder</persName> zu meiner großen Freude, von <placeName key="JP-005743">Frankfurt</placeName>
+                    abberufen wurde, um hier das Amt <persName key="JP-012300">unsres seligen
+                        Vaters</persName>, der auch Ober Consist.
+                        Praesident war, anzunehmen ich kenne keine intereßantere Stelle im
+                    ganzen Lande als diese, indem ihr Haupt-Gebiet, Geist und Himmel ist. Die <persName key="JP-000853">Herzogin von Curland</persName> war sehr
+                            krank an einem Schleimfieber in <placeName key="JP-005969">Löbigau</placeName>, ist aber außer Gefahr und
+                    sollte nach <placeName key="JP-005696">Eger</placeName>
+                        gehen. Die arme <persName key="JP-004443">Gräfin Vitzthum</persName>, ist im diesen Augenblick wieder hier, um
+                            den Kampf weiter zu bestehen, der ihr Leben untergräbt; selbst
+                    diejenigen, welche herzlos, ihr nützlich zu seyn sich entziehen, fanden es doch
+                    zu arg, daß<persName key="JP-012243"> ihr
+                                Mann</persName> sich für ihr mögliches Schuldenmachen auf seinen
+                            Namen, durch die Zeitungen so
+                            unverschämt verwahrte; unauslöschlich bleibt in ihrem Herzen, der Dank und die Liebe welche Sie ihr einflösten, mit
+                            großer Rührung spricht sie oft diese Gesinnungen aus. <persName key="JP-003370">Fr. v.d. Reck</persName> und <persName key="JP-004311">Tiedge</persName> sind schon längst nach <placeName key="JP-005969">Löbigau</placeName> abgereiset,
+                    vielleicht nun von da in die <placeName key="JP-005602">böhmischen</placeName> Bäder;da <persName key="JP-004311">Tiedge</persName> bey mir solch Band sah, wie Sie
+                            haben, und ihm Ihr allerseitiger Beyfall den
+                    sie ihn vergönnten, was ich ihm mit Freuden erzählte und den er theilte, so
+                    intereßierte und er mich frug wo es nur zu haben wäre, schenkte ich ihm zu einer
+                    Schleife für die  <persName key="JP-003370">Frau v. d. Reck</persName> der die ganzen Beziehungen davon,
+                    gewiß was auch <persName key="JP-004311">Tiedge</persName> voraussah, viel Freude gemacht haben werden. Könnte
+                    ich Ihnen doch einen Blick auf die herrliche Gegend die mich umgiebt, indem ich
+                    diesen Brief auf meinem Altan schreibe, unter einer schönen Linde, die ihn auf der Mittagsseite
+                    beschattet mit einsiegeln! wie gern möchte ich dies! <persName key="JP-000949">Mein Sohn</persName> empfielt sich Ihnen,
+                        <persName key="JP-999999">Ihrem lieben Mann</persName> und <persName key="JP-003483">lieben Kindern</persName>, so wie auch ich auf's
+                        Herzlichste. Nun leben Sie wohl, recht wohl, meine
+                    theure Freundin, und erhalten Sie ja stets Ihre Liebe Ihrer innig ergebenen</p>
+            <closer>
+               <signed>HEnde.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

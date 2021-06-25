@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0528">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Odilie Richter an Caroline Richter. 23. Dezember 1819, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <date when="1819-12-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Donnerstag den 22<hi rendition="#uu" hand="#author">ten</hi> Dezembr 1819</dateline>
+            </opener>
+            <p>Habe tausend Dank, geliebte Mutter, für Deinen schönen liebevollen Brief; er machte mir unendliche Freude. <ref target="JP-UB0463/#nkmt_cbt_pkb">Wie sehr werden wir Dich morgen
+                        entbehren</ref>
+               <ref target="JP-UB0463/#neh5_cwr_whb">und den guten <persName key="JP-003490">Max</persName>
+               </ref>! <anchor type="target" xml:id="start_sq3_jfg_gnb"/>Er schreibt es auch, wie weh es ihm thut nicht
+                    hier zu seyn.<anchor type="target" xml:id="stop_sq3_jfg_gnb"/> Wir freuen uns
+                    sehr auf morgen und zumal da wir uns gar nichts denken können. Denn obgleich der
+                        <persName key="JP-999999">Vater</persName> allerlei Anspielungen macht, so
+                    sind sie doch so räthselhaft, daß wir auch nicht das Geringste errathen.</p>
+            <p>Ich dachte mir's wohl daß Du sehr viel zu thun hast und länger ausbleibst. Wie
+                    freue ich mich auf Deine Wiederkunft. Sie wird uns ein zweites Weihnachten
+                    seyn.</p>
+            <p>Diese Woche ist ziemlich ruhig. Nur am Montag wurden wir zur Kindtaufe bei <persName key="JP-012807">Bachs</persName> gebeten, die sehr
+                    lustig war. Sonst blieben wir zu Haus. Heute hat die <persName key="JP-003471">Emma</persName> die Stollen gebacken, und sie sind auch herrlich
+                    gerathen.</p>
+            <p>Arbeiten habe ich nicht viel für uns gemacht, denn <persName key="JP-001091">Fischers</persName> baten mich einen Puppen- überrock zu sticken
+                    und die <persName key="JP-000845">Donauer</persName> bat mich auch für ihre
+                            Enkel in <placeName key="JP-005929">Culmbach</placeName> eine Puppe zu putzen. Beides konnte ich
+                    nicht abschlagen.</p>
+            <p>Am Sonntag waren wir bei der Engel. Sie hat sich sehr
+                    nach Dir erkundigt und bittet Dich die Strümpfe nur färben zu lassen, so gut wie
+                    möglich. Die <persName key="JP-000212">Fr. v. Barner</persName> wünscht auch
+                    eine halbe Schattirung Wolle zum Nähen. Verzeihe, meine beste Mutter, diesem
+                    schlechten Schreiben. Die Feder hat  etwas mehr Schuld wie ich. Grüße die gute <persName key="JP-002709">Grosmutter</persName> und <persName key="JP-004106">Julius</persName> und bleibe recht gesund wie</p>
+            <closer>
+               <signed>es wünscht  mit aller Liebe Deine Odilie.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

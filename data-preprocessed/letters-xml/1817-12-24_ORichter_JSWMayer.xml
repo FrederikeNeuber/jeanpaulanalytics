@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0576">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Odilie Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, zwischen 24.
+                    Dezember 1817 und 22. Januar 1818</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <date notBefore="1817-12-24" notAfter="1818-01-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Theuerster Grosvater!</salute>
+            </opener>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0243/#start_s1c_1tf_5jb">Ihr liebes Weihnachtsgeschenk, mein bester Grosvater, hat mir viel Freude
+                        gemacht.</ref> Wie gütig sind Sie auch entfernt an uns zu denken. Möchten
+                    wir doch auch die Freuden erwiedern können, die Sie uns geben; allein wie wenig
+                    ist es was wir vermögen. <anchor type="target" xml:id="start_e5g_52g_5jb"/>Ich
+                    habe eine dieser Halsbinden genäht lieber Grosvater; nehmen Sie diese
+                    unbedeutende Arbeit mit Nachsicht an<anchor type="target" xml:id="stop_e5g_52g_5jb"/>, wenn ich größer bin werde ich schon etwas
+                    Besseres arbeiten können. Gott erhalte Sie in kommenden Jahre gesund und froh;
+                    das ist mein innigster Wunsch für Sie und die liebe <persName key="JP-002709">Grosmutter</persName>. Entziehen Sie nie Ihre Liebe Ihrer gehorsamsten</p>
+            <closer>
+               <signed>Enkelin Odilie Richter</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0713">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, nach dem 24. Dezember
+                    1822</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1822-12-24" notAfter="1822-12-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012033">Textilien</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wenn Du keinen Mantel willst, so kann ich die Ausgabe ersparen, vielleicht ist
+                    Dir ein Kleid lieber. <persName key="JP-003471">Emma</persName> hat ein solches
+                         wie beikommende
+                    Probe bekommen. Solltest Du ein hübscheres Zeug in der Art wünschen, wenn
+                    vielleicht eines der jungen Mädchen mit Solchen beschenkt worden ist, was Dir
+                    sehr gefällt, so soll es in <placeName key="JP-006422">Würzburg</placeName>
+                    gekauft werden. Ich glaube wohl, daß Dir ein Kleid nothwendig ist, da Du doch vielen der Deinigen  entwachsen bist.</p>
+            <p>Für <persName key="JP-003031">Auguste</persName> will ich nun meinetwegen
+                    silberne Dessert-Messer besorgen, da Du es für zweckmäßig hältst. Jetzt
+                    erkundige Dich nur recht ob und wie
+                        viel die Manipuleurs beim Weggehen bekommen müssen. <persName key="JP-004659">Luise Welden</persName> hat ihnen zwar Nichts gegeben.
+                    Überhaupt  wissen <persName key="JP-004656">Weldens</persName> und
+                        <persName key="JP-011837">Vetterlein</persName> nicht viel von
+                    Geschenken. Damals als <persName key="JP-004659">Luise</persName> da war war es noch nicht so eingeführt, , denn sie gab unter andern der <persName key="JP-003031">Auguste</persName> blos einen silbernen Strickring. Du
+                    antwortest mir nicht auf mein Vorhaben auch für <persName key="JP-011977">M. Heine</persName> eine solche Haube zu sticken, ist es nicht passend so
+                    erspare ich die Mühe. Schreib mir doch Deine Meinung. Und überhaupt auf einem
+                    besonderen Blatt, ein <hi rendition="#u" hand="#author">Verzeichnis</hi> alles dessen was ich noch zu thun habe. Zum Einpacken
+                    Deiner Sachen, muß ich wenn ich nicht selbst reise, Dir einen Koffer schicken.
+                    Vergiß nur nichts, und lasse nicht etwa Deine Wäsche zuvor machen. <anchor type="target" xml:id="start_o2y_wzn_2nb"/>Den
+                            Rahmen für den <persName key="JP-999999">Vater</persName> wird man wohl im Wagen legen müssen weil unser Koffer nur schmal ist.
+                    Daher muß er sorgfältig mit weichem und dann starken Papier umwikelt werden,
+                    Zuletzt kann man ihn in ein Tuch schlagen.<anchor type="target" xml:id="stop_o2y_wzn_2nb"/>
+            </p>
+            <p>Da ich heute noch der <persName key="JP-002709">Grosmutter</persName> und meiner
+                        <persName key="JP-004393">Schwester</persName> schreiben muß, will ich jetzt
+                    aufhören, und bitte Gott nur daß er Dich gesund erhalte. Ich ängstige mich
+                    recht, daß wenn Du ausfährst Du nicht warm genug bist. Du mußt auch noch ein
+                    flanellnes Leibchen haben.
+                    ich hatte damals nur zu wenig Zeit. Fußsack und Pelz wird mir wohl die <persName key="JP-000845">Donauer</persName> die uns am heil Abend mit einem Stollen
+                    und Pfefferkuchen überraschte, zur Reise leihen. Heute hat <persName key="JP-003471">Emma</persName> Mädchengesellschaft, und ich gehe zur
+                        <persName key="JP-012606">Ilsette
+                        Barner</persName> die krank ist. <persName key="JP-011953">Caroline Fischer</persName> war eben hier, und
+                    sagte mir, daß die Amalie auch schief
+                    wäre. <persName key="JP-011953">Caroline</persName> ist auch Braut mit einem Herrn v. Brieser. Ihre Schwester Luise die bei <placeName key="JP-006363">Ulm</placeName> verheirathet
+                    ist, ist recht glücklich. </p>
+            <p>Schreibe mir ja gleich wieder, denn nun werden wohl wenige Briefe mehr unter uns
+                    gewechselt werden und es ist nothwendig daß Du meine Fragen beantwortest. Der
+                        <persName key="JP-999999">Vater</persName> küßt Dich innigst und <persName key="JP-003471">Emma</persName> grüßt Dich</p>
+            <closer>
+               <salute>Gottes Seegen über mein geliebtes Kind.</salute>
+               <signed>Deine treuste Mutter. C.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

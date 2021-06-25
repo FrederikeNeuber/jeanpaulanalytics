@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0843">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig, 9. November 1803, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-11-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipz. 9 Nvbr 1803</dateline>
+            </opener>
+            <p>Die Idee mit den Profil Medaillons gefällt mir
+                    sehr gut, u es wird viel dadurch gewonnen. <persName key="JP-013229">Hrn.
+                        Zimmermann</persName> bleibe die Ausführung völlig überlaßen. Ich schicke
+                        das Blatt von <persName key="JP-012120">Schnorr</persName> darum mit, um den Umfang der Platte von dem
+                    Format er <bibl sameAs="JP-009809" subtype="werk">Zeitung</bibl> darnach zu
+                    vermessen. Nein! Bewahre! kein rad. Umriß, sondern ausgezeichnet u
+                    ausgearbeitet. Wegen des Schustergesichts, ist mir von Mehreren eingegeben
+                    worden, das Blatt doch nicht damit zu verderben. Doch aber kann ich nicht  so recht davon loskommen, da diese Schälkeley das Blatt pikant machen
+                    würde. Laßen Sie erst <persName key="JP-013229">Hr. Z.</persName> die 3
+                    Medaillons vollenden u die Anlagen zum Ganzen machen, unterdeß schaffe ich wohl
+                    das Bildnis von <persName key="JP-002228">K</persName>. Es wird sich dann am
+                    besten ausmachen laßen, wo es zu placiren ist, so daß es mehr <hi rendition="#u" hand="#author">errathen</hi> wird, als grell in die Augen fällt.
+                    Ist es damit so weit, so ist <persName key="JP-013229">Hr. Z.</persName>
+                    wohl so gütig, eine sehr flüchtig hingeworfene Skizze (blos mit Angabe der
+                    Contours von den Medaillons) zu überschicken, damit ich ungefähr sehen kann, wie
+                    das Ding, nach seiner Idee,  ausfallen soll. Laßen Sie sich, liebster
+                    Bode, diese Affaire doch ja nicht verdrießen.</p>
+            <p>Was den Preis betrift, so soll <persName key="JP-013229">Hr. Z.</persName>
+                    seine Forderung erhalten. Könnten es 3 Louis d’or,
+                    statt Carolins seyn, so wäre es mir freilich lieber. Doch bewahre! ich will
+                    keinen Künstler handlen.</p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Haben Sie nicht wieder etwas für die <bibl sameAs="JP-009809" subtype="werk">Zeitung</bibl>, l. B? Sie lesen doch wohl mancherley, durchblättern es
+                    wenigstens. Wenn Sie sich die kleine Mühe gäben, dann u wann etwas drüber
+                    aufzuschreiben, so würd ich immer etwas haben, was ich so u anders placiren
+                    könnte.</p>
+            <p>Haben Sie den <hi rendition="#u" hand="#author">
+                  <persName key="JP-004734">Willmannschen</persName>
+               </hi>
+               <bibl sameAs="JP-010364" subtype="werk">Almanach für Freundsch. u Liebe</bibl>
+                    gesehen? Ich habe ihn nicht mehr; unterdeß wünschte ich  doch etwas (u
+                    zwar, was dem <persName key="JP-004734">Verleger</persName> zu Gute käme)
+                    darüber gesagt, wenn auch nur kurz. Mit dem <persName key="JP-004734">Wilmanns</persName> läßt sich gelegentlich etwas anfangen, weil er einer
+                    der solidesten Buchhändler ist.</p>
+            <p>
+               <anchor type="target" xml:id="start_qmx_pzs_h4b"/>Von
+                                <persName key="JP-012665">Darnmann</persName> habe ich noch keine
+                            Antwort. Ich wundere mich darüber.</p>
+            <closer>
+               <salute>Leben Sie recht wohl und behalten lieb</salute>
+               <signed>Ihren Freund Sp.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <bibl sameAs="JP-009145" subtype="werk">Herodes vor Bethlehem</bibl>
+                        ist zwei Mal hier gegeben. Aber es ist hier viel versteltes Gesindel, das
+                        dem <persName key="JP-002228">Kotzb</persName>. ergeben ist. Man hat
+                        Faktionen gemacht u also wurde auf u ab gepocht u geklatscht, ersteres fast
+                        am mehresten. Mir ist das leipziger Publikum ein wahrer
+                        Gräuel; Ellenreiter machen
+                        den Kern davon aus.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

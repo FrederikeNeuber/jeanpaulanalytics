@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0241">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Würzburg, nach dem 25. Oktober und
+                    vor dem 1. November 1822</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+               <date notBefore="1822-10-25" notAfter="1822-11-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term>
+               <term xml:id="JP-012033">Textilien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Sei recht froh, mein geliebtes Kind, daß die Mutter wieder in Ruhe und Ordnung
+                    kommt. Dieser Gedanke muß Dich entschädigen wenn unsre Trennung Dich wehmütig
+                    stimmt. Da ich nun hier nichts weiter zu Deinem Glücke beitragen kann, so würde
+                    ich bei längrem Aufenthalt, unzufrieden mit mir selbst geworden sein, indem ich
+                    unnütz meine Zeit verbracht hätte. Also sei froh, auch über den <persName key="JP-999999">Vater</persName> daß er nun nicht mehr allein ist. Wie bald
+                    wird die Zeit vergehen die uns trennt um dann immer beisammen zu bleiben. Der
+                    Gedanke daß Du uns, die wir Dich über Alles lieben, so gesund und schön
+                    erscheinen wirst, als wir es für einem so geliebten Wesen wünschen, ermuntre
+                    Dich nur immer die kleinen Regeln zu befolgen die ich Dir gebe.</p>
+            <p>Schone Deine Augen und lasse Dich nicht zu fest einspannen und pressen. Sticke
+                    nicht ich bitte Dich innig darum.</p>
+            <p>Gib recht auf Dich Acht, nicht an die Stirn zu greifen, denn es ist gewis, daß
+                    man sich einen immerwährenden Ausschlag dadurch zuziehen kann, der so unangenehm
+                    und widerlich entstellt.</p>
+            <p> Denke immer daß Du durch gerade halten auch in den Augenblicken wo Du
+                    die Kopfstange nicht  festmachen kannst das Vermehren eines dicken Halses
+                    verhindern kannst. Da Du dir ohnehin so vielen Zwang gefallen lassen mußt, so
+                    ist es ein Leichtes auch diesen hinzuzufügen.</p>
+            <p>Ziehe jeden Abend Dein wollen Kamisol an, ich bitte Dich herzlich.</p>
+            <p>Wenn Du irgend Neigung und Lust hast so lasse Dir Caffee mit den jungen Mädchen
+                    holen, oder ein Küchelchen wie der Apfelkuchen war, das kann mich nur <hi rendition="#u" hand="#author">freuen</hi>. Ach mit wie schwerem
+                    Herzen werde ich an Dich denken, wenn ich zu Hause bin, daß ich Dir kein
+                    Vergnügen nun machen kann.</p>
+            <p>Wenn der <bibl sameAs="JP-010041" subtype="werk">Freischütz</bibl> gegeben wird,
+                    gehe hinein.</p>
+            <p>
+               <anchor type="target" xml:id="start_bhy_fd3_qlb"/>Pflege ja Dein Ohr<anchor type="target" xml:id="stop_bhy_fd3_qlb"/>, geliebte beste Seele und laße nur
+                    einige Tage, den Druck des Kopfkranzes nicht stark sein.</p>
+            <p> Ich lasse Dir noch 2 Kronthaler hier, im Ganzen 4, denn ich
+                    würde Dir ohnehin Geld schicken. Den Louis d’or wollen
+                    wir zu der Bezahlung für die Gräf. Henkel verwenden, welches ich
+                    Dir noch schreiben werde. </p>
+            <p>Gott beschütze Dich, und erhalte Dich gesund, mein theures Leben – die geringste
+                    Krankheit schreibst Du mir gleich. Den Krankheitsbericht des <persName key="JP-999999">Vaters</persName>
+                            und Fenks Urtheil schicke mir gleich mit der Post. Lebe wohl, sei heiter, ich
+                    werde schon recht gut nach Hause kommen.</p>
+            <p>Dies Bücherverzeichnis gib an <persName key="JP-012116">Jettchen
+                        Pagenstecher</persName>.</p>
+            <p>Grüße und danke <persName key="JP-001608">HerrnHeine</persName> und <persName key="JP-003031">Auguste</persName> recht innig.</p>
+            <p> Die Wäscherin hat</p>
+            <p>
+               <list>
+                  <item>2 Camisäler</item>
+                  <item>1 Unterrock</item>
+                  <item>2 Hemden</item>
+                  <item>3 p. Strümpfe und das alte baumwollne</item>
+                  <item>Halstuch</item>
+               </list>
+            </p>
+            <p>Schicke ihr <hi rendition="#u" hand="#author">noch heute</hi> die 2
+                    Schnupftücher, die in der Comode liegen.</p>
+            <p>Noch lasse ich Dir 2 Kronthaler. <anchor type="target" xml:id="start_e55_gwm_plb"/>Wenn ich Dir etwa schreiben sollte, daß Du zu der Putzmacherin <persName key="JP-012366">Hofmann</persName> gehen
+                        , und mir 4 Ellen
+                    von den <ref target="JP-UB0446/#nesv_2bq_xlb">Blonden</ref> die ich
+                    gesehen, kaufen sollst, Sie bietet sie, um 1 fl. 30 xr und hat sie mir zu 1 fl.
+                    15. gelassen aber warte damit bis Dir wieder schreibe<anchor type="target" xml:id="stop_e55_gwm_plb"/>. Du hast also in allem 6 Kronthaler.. </p>
+            <closer>
+               <salute>Adieu, Adieu, mein gutes Leben. Geliebtes gutes Engelskind!</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

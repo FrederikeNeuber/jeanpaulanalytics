@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0374">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 28. bis 30.
+                    März 1805, Donnerstag bis Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1805-03-28" to="1805-03-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Baireuth den 28<hi rendition="#uu" hand="#author">ten</hi> März 05</hi>
+               </dateline>
+               <salute>Mein geliebter Vater</salute>
+            </opener>
+            <p>Nur weil mein lezter Brief an Sie schon unterwegs war, der Ihrer liebevollen Frage nach meinem Daseyn
+                    entgegenkam, durfte ich die Antwort auf den Ihrigen
+                            lezten, bis heute verzögern. Ich hatte einige Sorgen, für
+                    mich von Bedeutung – ich entwöhnte mein kleinstes <persName key="JP-003491">Kind</persName>, das endlich doch die Amme verlieren muste, und war sehr
+                    beschäftigt, weil ich jezt wieder mit Einer Magd fertig werden will. Ich bin
+                    gesund, <persName key="JP-999999">mein Mann</persName> und <persName key="JP-003483">meine Kinder</persName> sind es auch, und ich könnte mich
+                    des seltensten Glücks freuen, wenn nicht das liebste und heiligste Wesen aus unserem Kreis entflohen
+                            wäre!</p>
+            <p>Dieser Gedanke an Sie, tönt durch alle meine Verhältniße hindurch, und wenn ich
+                    froh scheine, oder auch in einigen Momenten bin, so tritt das geliebte theure
+                    Bild vor mir – das Sonderbare eines solchen Todesfals, wenn wir schon getrennt
+                    hier auf der Erde waren, werden auch Sie, mein geliebter Vater empfinden,  man glaubt ihn nicht, man hält ihn für unmöglich,
+                    und die Uberzeugung daß er nun wirklich so ist, wird jedesmal neu, da wir uns
+                         sie lebhaft machen.</p>
+         </div>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">am 30<hi rendition="#uu" hand="#author">ten</hi> März</hi>.</dateline>
+            </opener>
+            <p>Soweit schrieb ich Ihnen vor einigen Tagen geliebtester Vater, wurde aber
+                    gestört, und seze heute noch einige Zeilen hinzu, weil ich am Morgen Ihren theuren Brief, das Geld, und das
+                            Neßelgarn erhalten habe. </p>
+            <p>Ich kann Ihnen heute nur danken, und Ihrer geliebten <persName key="JP-002709">Frau</persName> auch nur danken, und schreibe
+                            erst mit nächstem Posttag, weil ich für einen Thee den Abend bei mir
+                    noch einiges zu besorgen habe, Sie sollen aber nicht länger warten, und zugleich
+                    melde ich Ihnen, auf Ihre väterliche Besorgnis für die Existenz<persName key="JP-999999">meines Mannes</persName>, daß er schon vom <persName key="JP-001187">König</persName> eine resolution vor einigen Tagen erhalten hat, die ziemlich matt lautet, daß er nämlich
+                    nach Eintritt einervacanz bedacht werden soll, doch wären so viele Prätendenten. ich schreib sie Ihnen ab, wann ich Ihnen
+                    schreibe. Die Nachricht Ihrer verbeßerten Einahmen freut mich unendlich
+                    – </p>
+            <p> Genießen Sie sie nur recht, u Gott erhalte Sie lange</p>
+            <closer>
+               <salute>Leben Sie wohl Geliebter theurer Vater
+                            mit Ihrer edlen theuren <persName key="JP-002709">Frau</persName>
+               </salute>
+               <signed>Ihre Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

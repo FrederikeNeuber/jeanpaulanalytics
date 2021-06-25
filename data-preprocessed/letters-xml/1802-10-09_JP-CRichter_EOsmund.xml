@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0112">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Meiningen, 9. Oktober
+                    1802, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-999999">Jean Paul</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-10-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012520">Stimulantien</term>
+               <term xml:id="JP-012543">Dank</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <opener>
+               <dateline>M. d. 9. Okt. 1802.</dateline>
+            </opener>
+            <p>Lieber Gevatter! Denn jezt hör’ ich erst hier, daß es hier erlaubt ist, Sie so zu
+                    nennen und meine <persName key="JP-003471">Emma</persName> (so ist der Wochenname) auch im Kirchenbuch Emanuela. Also hiemit zieh' ich meinen alten guten Menschen herein in den häusl. und christl Bund.
+                    – Alles gieng herlich und – langsam; Himmel, wie zart wollen Wochenbetterinnen
+                         angefasset sein! Ein Kindesvater mus durchaus so
+                    perfekt in der Arzneikunde sein als ich es bin. – Ich werde vielleicht in 6, 8,
+                    10, 12 Tagen meinen Einspänner nach 6, 7 u. so viel Eimern
+                    schicken als der Gaul akzeptiert, der hier freilich allein votiert. Aber ich
+                    bitte um <placeName key="JP-011034">Bier</placeName> auf Hefen – u. um ein
+                    Rezept seiner Behandlung. – Kan der Fuhrmann auch kleine mehr weis als schwarze
+                    Rettiche aufladen für 4 gr.: desto besser.  hier ist nichts zu haben als Ehrlichkeit – Meine Frau sol nun
+                    fortfahren und ein verständiges Wort sagen. Adio, Caro!
+                    –</p>
+         </div>
+         <div hand="#JP-003469">
+            <opener>
+               <salute>Lieber lieber Emanuel!</salute>
+            </opener>
+            <p>Lange schon, und viel, wollte ich Ihnen schreiben aber eine fortdauernde
+                    Neigung zu Fieber gebietet meiner Seele ein höchst langweiliges phlegma, damit sie auf den Körper nichts wirke. Ich bin
+                    wohl und glüklicher als tausend Wöchnerinnen, aber nicht so glüklich
+                    als Eine, die ich vor meiner Niederkunft selbst zu seyn hofte. Unser <persName key="JP-003471">Kind</persName> ist sehr gesund, wenn Sie ein gegenwärtiger Gevatter wären, hätte ich Sie noch lieber
+                    als einen entfernten, und darum können Sie es machen daß Sie herkommen,
+                        undin einen Zirkel Ihrer erwählten hiesigen Freunde Seeligkeit verbreiten, denn die Taufe kömmt erst hinter meiner Genesung
+                    nach, troz der Verdamniß aller Christlichgesinnten der Stadt.  Ihr
+                    Brief als Ausdruk der höchsten lebendigsten Freude, hat mich unendlich
+                    gerührt – Dank Ihnen Herrlicher für diese Freundschaft, deren Grad ich dann zu
+                    verdienen glaube, wenn ich eine gute Mutter bin.</p>
+            <p>An <persName key="JP-003108"/> sagen Sie meinen Dank für ihren Antheil, einen herzlichen
+                    Gruß, und eine Entschuldigung daß ich heute noch nicht an sie schreibe. <persName key="JP-003112">Otto</persName> grüße ich verehrend – sagen Sie ihm daß seine einen hohen Werth für mich hat, und
+                        daß ich ihn sehr liebe.</p>
+            <p>Leben Sie wohl Heiligster, und Feinster, daß ich schlecht
+                    schreibe entschuldige ich nicht</p>
+            <closer>Caroline.</closer>
+         </div>
+         <postscript>
+            <p>Drei Fäßer bringt der Einspänner zurük.</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

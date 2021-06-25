@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0782">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Caroline Richter. Ohne Ort, zwischen 1. April und 23. Juli 1804</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <date notBefore="1804-04-01" notAfter="1804-07-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>son aufgefunden, die Jahr aus Jahr ein f spinnen soll. Meinem Rest von Flachs den wir  von der
+                            Mutter erbten, habe ich ihr schon
+                        gegeben man bezahlt fürs
+                    Stück 8 gr. Das Stück bot  aber so
+                    viel wie sechs Stück, nach Berliner Zahl. und ist also nicht zu theuer. So
+                    schafft man sich doch nach und nach etwas und, wird die Ausgabe kaum gewahr.
+                    Mein Mann nennt mich immer einen <hi rendition="#u" hand="#author">LeinewandsWurm</hi> aber es ist wahr, ich könnte für ein Stück Leinewand,
+                    einen Spizen Anzug hingeben.</p>
+            <p>
+               <anchor type="target" xml:id="start_bjv_nrv_bnb"/>
+               <persName key="JP-002703">Dem Vater</persName> scheint es ganz
+                            Ernst zu seyn daß er diesen Sommer zu uns kommen will.<anchor type="target" xml:id="stop_bjv_nrv_bnb"/> Ich lege Dir
+                    hier Briefe von ihm bey die neuesten die wir
+                    haben.</p>
+            <p>Deinen <persName key="JP-003490">Max</persName> zu sehen, gäbe ich viel. Ich kann
+                    mir gar keinen rechten Begriff von ihm machen. Warum gefällt er denn aber den
+                    Leuten beßer als die <persName key="JP-003471">Emma</persName>. Meine himmlische
+                        <persName key="JP-003471">Emma</persName>?</p>
+            <p>Sagst Du noch zu ihr, gieb Küßechen, und giebt sie noch so gutmüthig ihr Mäulchen
+                    her! Das liebe Kind. – Wer wird Dich in denn nun in
+                            Deinen Wochen pflegen, meine liebe Caroline? Und wo wirst
+                    Du sie halten, wahrscheinlich bist  Du dann nicht mehr in
+                        <placeName key="JP-005649">Coburg</placeName>? Fällt es nicht wieder im Ocktober oder November? –</p>
+            <p>Wenn <persName key="JP-002583">mein Mann</persName> mit seinen Wünschen nach
+                        <placeName key="JP-005586">Berlin</placeName> zu kommen, rëußiren sollte,
+                    dann fällt vollends alle Aussicht weg, daß wir uns wiedersehen. Denn eine Reise
+                    nach <placeName key="JP-005586">Berlin</placeName>, ist doch noch kostspieliger
+                    als eine jede andre. Und nach <placeName key="JP-005948">Leipzig</placeName>
+                    wird <persName key="JP-999999">Dein Mann</persName> nie reisen, das ist mir so
+                    gewiß wie mein Leben! – Weißt Du ich habe <persName key="JP-002703">dem
+                        Vater</persName> schon deshalb einen
+                            Brief
+                    geschrieben so wie <persName key="JP-002583">mein Mann</persName> es wünschte. Aber davon laß Dir ja
+                    gegen keinen Menschen etwas merken. Schreib auch nichts davon in einem Briefe an
+                    mich. – </p>
+            <p>
+               <persName key="JP-004104">Spazier</persName> klagt so oft ich ihn sehe, daß
+                        <persName key="JP-999999">Dein Mann</persName> seine Versprechen nicht hält
+                    ihm etwas für <bibl sameAs="JP-009809" subtype="werk">die Zeitung</bibl> zu geben.
+                        Rede doch <persName key="JP-999999">Deinem Mann</persName> zu daß er
+                            etwas schickt. Er hat ja so viel!</p>
+            <p> Du meinst ich hielte zurück, mit meinen Meinungen über <persName key="JP-004393">Minna</persName>. Es thut mir jedesmal leyd, wenn ich etwas über sie schrieb. daß Dir einen
+                    nachtheiligen Eindruck von ihr giebt. Man muß nicht an allen Menschen einen
+                    gleichen Maasstab legen – sie ist mir – troz ihrer Herzlosigkeit – die Dich ja
+                    nicht <hi rendition="#u" hand="#author">verwundern</hi> sollte – da
+                    Du sie ja an ihr kennst seit ihrer Geburt – gleich lieb. Ich achte ihren
+                    Verstand – und alle Gaben kann der Himmel nicht gleich vertheilen. Es ist ja ein
+                    zu oft bewährter Saz daß das Herz oft, oder gewöhnlich auf Kosten des Verstandes leer ausgeht, und wieder
+                    umgekehrt. <hi rendition="#u" hand="#author">Wir</hi> paßen freylich
+                    gar wenig für einander, doch leben wir ganz artig zusammen und ich wäre nur
+                    neugierig wie Du Dich mit ihr, und dem originellen <hi rendition="#u" hand="#author">Deines</hi> und <hi rendition="#u" hand="#author">ihres</hi> Wesens vertragen würdest – wenn ihr euch eimal
+                    wiedersähet. Es scheint als ob Dir das wahre Bild von <persName key="JP-004393">Minna</persName> ganz aus der Seele verschwunden ist – ihr habt Euch jede
+                    neu kennen zu lernen. <persName key="JP-004393">Minna</persName> ist sich immer
+                    gleich geblieben – Dir  haben neues Leben und neue
+                    Verhältniße – neue Züge
+                    aufgedrückt – und Dein Charackter spricht sich schärfer und bestimmter aus, als
+                    ehedem. Des gegenseitigen Effeckts wäre ich sehr begierig.</p>
+            <p>Ich habe den Wellins den Du mir meine
+                    liebste Caroline zugedacht hattest, wirklich behalten wollen. Es fehlte mir aber
+                    beym lezten Einpacken, an Stoff den Kasten gehörig zu füllen, und so griff ich
+                    in der Eil nach dem Zeuge, gleich denkend, daß du es misverstehen könntest. Ich
+                    wußte mir aber nicht zu helfen.</p>
+            <p>Die Spu will ich dir besorgen, So wie Du es
+                    wünschest. <persName key="JP-004393">Minna</persName> scheint geneigt welche
+                    davon zu nehmen. Schreib doch einmal an sie! Ich weiß wohl, daß sie Dir
+                    eigentlich einen Brief schuldig ist aber sammle immer glühende Kohlen auf ihr
+                    Haupt Dein Herz trägt den Seegen davon. –</p>
+            <p>Am ersten Oster-Feiertag waren Spaziers Abends bey uns. Weil <persName key="JP-002583">mein Mann</persName> sich
+                    zu leicht mit ihm <hi rendition="#u" hand="#author">allein</hi>
+                    ausspricht, wo wird immer ein alter Hofrath   Wolke</p>
+         </div>
+      </body>
+   </text>
+</TEI>

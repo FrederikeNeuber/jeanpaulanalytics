@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich Haug. Meiningen, 16. April 1811,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-04-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001572">Friedrich Haug</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-013034">Wangenheim-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 16<hi rendition="#uu" hand="#author">n</hi> April 1811.</dateline>
+            </opener>
+            <p>Nein, mein verehrter, würdiger Mann – so viel Liebe, so große Güte werde ich
+                    niemals zu verdienen vermögen! Was habe ich Armer auf <ref type="letter" target="JP-UB0951">jene süßen und wohllautreichen Grüsse zu erwiedern, die
+                        Sie mir (und meinen kleinen Versuchen zu
+                                Erheiterung der Deutschen Lesewelt) gütig sandten</ref>?
+                    Ich, der spät und wenig gebildete Prosaiker, dem nur einzig die schüchterne
+                    Landmuse sich zuweilen ergab – was soll ich dem Dichter, dem wirklichen,
+                    korrekten Künstler sagen, den schon längst die hehrsten und besten der Musen
+                    liebend umschlangen? Dessen sanfte Poesie mir von jeher behend und klug, wie die
+                    Schlange, aber harmlos und sanft wie die reine Taube erschien? – Aber still von
+                    allen literarischen Grüssen! Jeder von Uns ist ein <hi rendition="#u" hand="#author">ehrlicher</hi>
+               <hi rendition="#u" hand="#author">Mann</hi> – <hi rendition="#u" hand="#author">das ist das beste</hi> – und, daß wir es sind,
+                    dafür bürgte Jedem von uns der göttliche <persName key="JP-004347">Bettenburger</persName> – (ein holder Gewährsmann, dessen theures Bild jetzt so viele redliche deutsche Herzen im
+                            Norden und Süden einander vereint hat, als an seinem schlugen!) und so
+                    fanden Wir Uns – und <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0951/#start_amz_2sr_x4b">so nehme ich die liebevoll
+                        dargereichte Hand</ref> mit Entzücken an und drücke sie im Geist an das
+                    innig bewegte Herz. Kann ich Euch, Ihr holden Seelen, nicht geben, was Eure
+                    Liebe vermag, so nehme ich doch Alles an, was Ihr mir zusagt – und, verdiene ich
+                    Eure Liebe nicht, so bin ich ihrer doch von Herzen bedürftig.</p>
+            <p>Ach, ich ward bisher in mancherley Stürmen umgetrieben – aber <hi rendition="#u" hand="#author">
+                  <persName key="JP-004347">Truchseß</persName>
+               </hi>, (in dessen Nähe ich
+                            stets eine gewisse stille Ruhe und Sicherheit empfinde) erschien, und
+                            mit ihm die beiden trefflichen <hi rendition="#u" hand="#author">Vösse</hi> und der gewandte <hi rendition="#u" hand="#author">
+                  <persName key="JP-000007">Abeken</persName>
+               </hi> – und <hi rendition="#u" hand="#author">sie</hi> haben mir die Ostertage zur halcyonisch heiligen Zeit umgeschaffen, die
+                    ich nie vergessen werde, und die durch <ref type="letter" target="JP-UB0951">Ihre so gar anmuthige Epistel</ref> sich endlich
+                    wieder zur alten Freudenzeit belebte. Gott lohne Ihnen das, verehrungswerther
+                    Mann! </p>
+            <p>An <persName key="JP-004520">Heinrich Voß</persName>
+                            habe ich (unter uns gesprochen – doch gern hätt' ich es ihm ins Gesicht
+                            gesagt!) mehr einen Engel, als einen sündigen Menschen zu finden
+                            geglaubt. Ich wüsste
+                    nicht, daß ein Gemüth und eine menschliche Gestalt zugleich, mich jemals so voll
+                    und rührend angesprochen hätte, wie  dieser wunderliebliche Mensch.
+                    Die Schönheit seines Herzens erschien mir bis zum Pedantischen göttlich!
+                    (Verzeihung – ich weiß mir dießmal nicht anders zu helfen, als durch einen
+                    neugenialen Ausdruck!) Leider konnte <hi rendition="#uu" hand="#author">ich</hi> allen den Lieben dießmal wenig oder nichts seyn und
+                    geben, weil mein Herz noch erst durch Ihre Liebe
+                    erheitert werden musste. Und zuletzt, da wir die Herzen noch so voll hatten,
+                    ward unsere Abschiedszusammenkunft gar unangenehm gestört. – Desto heisser
+                    konnte ich ihm nachweinen, dem neuen – Freunde. </p>
+            <p>Ach, zu Euch, Ihr guten Seelen, kann ich auf Erden nun <hi rendition="#u" hand="#author">nicht</hi> mehr wandern – denn schon hat der
+                    Alles zusammenrufende Mohrentrompeter der Zeit auch vor meinem irdischen
+                    Quartiere die ersten (hellschmetternden, aber nicht schrecklichen) Stösse
+                    gethan. Aber trätest Du, Er, Ihr, Sie – einmal in der
+                    Abenddämmerung <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0951/#start_amz_2sr_x4b">"<hi rendition="#u" hand="#author">an</hi>
+                  <hi rendition="#u" hand="#author">Truchseß</hi>
+                  <hi rendition="#u" hand="#author">Hand</hi>"</ref> in meine
+                    Hütte – (o wie himmlischrührend ist der Schluß, in welchem <ref type="letter" target="JP-UB0951">Ihr theurer Brief</ref> verhallt!) das wäre der
+                    abenddämmernden Seele ein süßer Sonnenstrahl! – – – </p>
+            <closer>
+               <salute>Ewig</salute>
+               <signed>Ihrgetreuer JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

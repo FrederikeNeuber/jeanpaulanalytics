@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0833">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig, 25. Juli 1803, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-07-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig 25 July
+                        1803.</dateline>
+            </opener>
+            <p>Eine Reise nach <placeName key="JP-005687">Dresden</placeName> u Geschäfte, die ich hinterher hier gefunden,
+                    haben mich abgehalten, Ihnen auf Ihr letztes
+                            Schreiben zu antworten. Sie fragen mich wegen <persName key="JP-003415">Rein</persName>. Ich weiß
+                    Ihnen weiter nichts von ihm zu sagen, als daß mir seine Lage eben auch nicht die
+                    beste scheint. Er sieht, so oft ich ihn sehe, – das geschieht zwar selten genug
+                    – nach lauter Kummer u Angst aus u sein Buchhandel kann wohl überhaupt nichts zu
+                    bedeuten haben. Seyen Sie froh, wenn Sie nicht viel von ihm zu erwarten haben.</p>
+            <p>
+               <anchor type="target" xml:id="start_mz2_f12_f4b"/>Wegen Ihres Almanachs, oder wie Sie Ihre Lustspiele jetzt nennen
+                            wollen, dürfen sie nicht besorgt seyn, dächt‘ ich. Ich schlage Ihnen zwey gute
+                    Handlungen vor, bey denen man wenigstens prompte Bezahlung zu erwarten hat, u
+                    die so etwas wohl nehmen: <persName key="JP-004734">Wilmans</persName> in <placeName key="JP-005743">Frankf</placeName>. am <placeName key="JP-005989">Mayn</placeName>, u <persName key="JP-012665">Darnemann</persName> in
+                        <placeName key="JP-012506">Züllichau</placeName>. Wollten Sie mir allenfalls
+                    Ihr Mpt. Anvertrauen? So will ich es an einen dieser beiden Herren
+                        besorgen.<anchor type="target" xml:id="stop_mz2_f12_f4b"/> Mit einem
+                    Almanach scheint es, der Kupfer wegen, für dieses Jahr auf jeden Fall zu spät zu
+                    seyn: also werden Sie  der Sache wohl eine allgemeine Form zugeben
+                    haben. Machen Sie aber ja den Titel hübsch auffallend.</p>
+            <p>Bey Ihrem Genie, lieber Bode, könnten Sie so <hi rendition="#u" hand="#author">viel</hi>, wenn Sie wollten! ich meine hier einmal, sich Platz
+                    machen im Publikum. das im Grund doch nur mittelmäßige Ding, der <hi rendition="#u" hand="#author">
+                  <bibl sameAs="JP-009145" subtype="werk">Herodes</bibl>
+               </hi>, hat schon die zweite Auflage erlebt,
+                    u die Buchhändler laßen es 100 weise kommen. Was vermögten <hi rendition="#u" hand="#author">Sie</hi> nicht, wenn Sie <hi rendition="#u" hand="#author">unsere Zeit</hi> travestiren wollten! Sie haben
+                    eine unendlich edlere Bahn, versteht sich; aber das <hi rendition="#u" hand="#author">Nebenher</hi> muß leider Gottes!
+                    unseren Beutel wenigstens aufhelfen.</p>
+            <p> Sie werden morgen (oder vielmehr heute,
+                            indem Sie dies lesen) die <persName key="JP-012603">Mara</persName>
+                            hören.
+                    Wollen Sie nicht ein satyrisches Aufsätzchen (lieber in Prosa, als in Versen,
+                    wünscht‘ ich diesmal) über Lauchstädts diesjährigen Verkehr in die Zeitung
+                    geben? Recht lustig, wo möglich?</p>
+            <p>Dieser Tage soll die Halle, mit noch einigen Blättern,
+                            an Göthe abgehen. Die
+                            Komödianten sind doch hier ein bischen toll geworden u sogar ist
+                                <persName key="JP-011986">Christ</persName> zu Rathhause drum
+                            gegangen. Der Zusammenhang ist, weil der Rath über das alte Haus
+                            inspicirt. <persName key="JP-012216">Opitz</persName> hat letzthin sich
+                            mit Anzüglichkeiten auf die Glossen, die über ihn gemacht wären, bedankt
+                            als er herausgerufen war. Item es hilft, wenigstens zum
+                            Ärger – zum Bessern aber schwerlich je.</p>
+            <closer>
+               <salute>Darf ich nicht bald auf etwas hoffen?</salute>
+               <signed>Ihr Spazier.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0780">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, nach dem 7. Juni 1820</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth
+                        (Stadt)</placeName>
+               <date notBefore="1820-06-07" notAfter="1820-07-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein Sohn, mein Max! Wie hast Du mich so glücklich gemacht, durch den Ausdruck
+                    Deiner Liebe. Ach könnte ich Dich an mein Herz drücken, Du warme Seele. Fast
+                    konnte ich vor Thränen Deine Worte den <persName key="JP-003484">Schwestern</persName> nicht vorlesen, als sie an
+                            meinem Geburtstagmorgen kamen. Bewahre mir dies Gefühl, mein theurer Max, es
+                    kann die Jahre die mir vom Schicksal zu leben bestimmt sind, beglücken. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0525/#start_wkp_rtm_wmb">Glaube nicht daß ich viele Mühen gehabt habe, und dießmal, wie gern
+                        bereitete ich vor, und pakte ein</ref>, da Du durch des <persName key="JP-999999">Vaters</persName>
+                            Abreise
+                    so glücklich werden solltest. Daß Du aber die Sachen,
+                            die nun einmal für Dich gekauft sind, und nicht wohl anders angewendet
+                            werden können, nicht tragen willst, ist übertrieben stoisch. Mein Max, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0525/#start_lmx_wvm_wmb">Du läßt Dir Rock und Beinkleider machen, indem Du hier annimmst schonst Du
+                        auf der anderen Seite das Vorhandene mehr, und es hält alles länger.</ref>
+                    Wie freue ich mich daß Du nun doch frühstücken und Abendbrod eßen <hi rendition="#u" hand="#author">must</hi>. wenn Du beim <persName key="JP-999999">Vater</persName> bist. Ich sehe Dich neben ihm auf jeden
+                    Wunsche durch Blick und Wort lauschend, und zur Vollführung laufend wo Du nur
+                    kannst. Bald sehe ich Dich auch, geliebter Sohn, denn Du kommst doch <hi rendition="#u" hand="#author">vor</hi>
+               <placeName key="JP-005819">Heidelberg</placeName> nach <placeName key="JP-005574">Baireuth</placeName>?<persName key="JP-003087">Emanuel</persName> liebt und schätzt Dich ganz
+                    unsäglich, wie auch Otto's.</p>
+            <p>Da es sonst zu spät wird für die Post, ende ich – <anchor type="target" xml:id="start_jhk_4br_h4b"/>aber ich bitte Dich meine Seele schreibe mir
+                    gleich allein wieder wie es dem <persName key="JP-999999">Vater</persName>
+                    ferner geht<anchor type="target" xml:id="stop_jhk_4br_h4b"/>. Deine treue
+                    Mutter.</p>
+            <p>
+               <persName key="JP-003491">Odilie</persName> und <persName key="JP-003471">Emma</persName> machen
+                        mir viel Freude.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

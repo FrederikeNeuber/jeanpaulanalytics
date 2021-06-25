@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xml:id="JP-UB0361">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Carl August Böttiger. Dresden, zwischen dem 17. Juni
+                    und 5. Juli 1824, Donnerstag und Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date notBefore="1824-06-17" notAfter="1824-07-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000400">Carl August Böttiger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012032">Dresdner Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p><s id="s1" next="#s1_2" pn="p5"><w id="w1" b="32 3" t="Die"><xlit isLatinExt="1" latin1Text="Die" isLatin1="1"/><moot lemma="d" tag="ART" word="Die"/>Die</w> <w id="w2" next="#w2_1" b="36 8" t="FrauJean"><moot tag="NE" lemma="Fraujean" word="FrauJean"/><xlit isLatinExt="1" isLatin1="1" latin1Text="FrauJean"/>Frau</w></s><persName key="JP-999999"><s id="s1_2" prev="#s1" next="#s1_3"><w id="w2_1" prev="#w2">Jean</w> <w id="w3" b="45 5" t="Pauls"><xlit isLatinExt="1" isLatin1="1" latin1Text="Pauls"/><moot lemma="Pauls" tag="NE" word="Pauls"/>Pauls</w></s></persName> <s id="s1_3" prev="#s1_2" next="#s1_4"><w id="w4" t="die" b="51 3"><moot tag="ART" lemma="d" word="die"/><xlit isLatinExt="1" isLatin1="1" latin1Text="die"/>die</w> <w id="w5" t="von" b="55 3"><xlit isLatin1="1" latin1Text="von" isLatinExt="1"/><moot word="von" lemma="von" tag="APPR"/>von</w> <w id="w6" b="59 5" t="ihrem"><moot tag="PPOSAT" lemma="ihr" word="ihrem"/><xlit isLatinExt="1" isLatin1="1" latin1Text="ihrem"/>ihrem</w> <w id="w7" b="65 4" t="Mann"><moot tag="NN" lemma="Mann" word="Mann"/><xlit latin1Text="Mann" isLatin1="1" isLatinExt="1"/>Mann</w>
+                    <w id="w8" t="unendlich" b="90 9"><xlit isLatinExt="1" latin1Text="unendlich" isLatin1="1"/><moot tag="ADJD" lemma="unendlich" word="unendlich"/>unendlich</w> <w id="w9" b="100 5" t="viele"><xlit latin1Text="viele" isLatin1="1" isLatinExt="1"/><moot word="viele" lemma="viel" tag="PIAT"/>viele</w> <w id="wa" b="106 12" t="Empfehlungen"><xlit isLatin1="1" latin1Text="Empfehlungen" isLatinExt="1"/><moot word="Empfehlungen" tag="NN" lemma="Empfehlung"/>Empfehlungen</w> <w id="wb" t="an" b="119 2"><moot tag="APPR" lemma="an" word="an"/><xlit isLatinExt="1" latin1Text="an" isLatin1="1"/>an</w> <w id="wc" b="122 3" t="den"><xlit isLatinExt="1" isLatin1="1" latin1Text="den"/><moot tag="ART" lemma="d" word="den"/>den</w> <w id="wd" b="126 5" t="Herrn"><moot tag="NN" lemma="Herr" word="Herrn"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Herrn"/>Herrn</w> <w id="we" t="Hofrath" b="132 7"><xlit isLatinExt="1" isLatin1="1" latin1Text="Hofrath"/><moot lemma="Hofrat" tag="NN" word="Hofrat"/>Hofrath</w> <w id="wf" b="140 3" t="hat"><xlit isLatin1="1" latin1Text="hat" isLatinExt="1"/><moot word="hat" lemma="haben" tag="VAFIN"/>hat</w><w id="w10" b="143 1" t=","><xlit isLatinExt="1" isLatin1="1" latin1Text=","/><moot word="," lemma="," tag="$,"/>,</w> <w id="w11" t="wünscht" b="145 8"><xlit isLatinExt="1" isLatin1="1" latin1Text="wünscht"/><moot word="wünscht" lemma="wünschen" tag="VVFIN"/>wünscht</w> <w id="w12" b="154 3" t="das"><moot word="das" lemma="d" tag="ART"/><xlit isLatin1="1" latin1Text="das" isLatinExt="1"/>das</w> <w id="w13" t="Glück" b="158 6"><moot word="Glück" lemma="Glück" tag="NN"/><xlit isLatin1="1" latin1Text="Glück" isLatinExt="1"/>Glück</w> <w id="w14" t="zu" b="165 2"><xlit isLatin1="1" latin1Text="zu" isLatinExt="1"/><moot word="zu" tag="PTKZU" lemma="zu"/>zu</w>
+                    <w id="w15" t="haben" b="188 5"><moot word="haben" lemma="haben" tag="VAINF"/><xlit latin1Text="haben" isLatin1="1" isLatinExt="1"/>haben</w><w id="w16" t="," b="193 1"><xlit isLatinExt="1" isLatin1="1" latin1Text=","/><moot word="," lemma="," tag="$,"/>,</w> <w id="w17" t="Ihnen" b="195 5"><moot word="Ihnen" tag="PPER" lemma="sie"/><xlit latin1Text="Ihnen" isLatin1="1" isLatinExt="1"/>Ihnen</w> <w id="w18" b="201 3" t="und"><xlit latin1Text="und" isLatin1="1" isLatinExt="1"/><moot word="und" lemma="und" tag="KON"/>und</w></s> <persName key="JP-000401"><s id="s1_4" prev="#s1_3" next="#s1_5"><w id="w19" t="Ihrer" b="205 5"><moot word="Ihrer" tag="PPOSAT" lemma="ihr"/><xlit latin1Text="Ihrer" isLatin1="1" isLatinExt="1"/>Ihrer</w> <w id="w1a" b="211 4" t="Frau"><xlit isLatin1="1" latin1Text="Frau" isLatinExt="1"/><moot word="Frau" lemma="Frau" tag="NN"/>Frau</w> <w id="w1b" t="Gemahlin" b="216 8"><moot tag="NN" lemma="Gemahlin" word="Gemahlin"/><xlit latin1Text="Gemahlin" isLatin1="1" isLatinExt="1"/>Gemahlin</w></s></persName> <s id="s1_5" prev="#s1_4" next="#s1_6"><w id="w1c" b="225 4" t="ihre"><xlit isLatinExt="1" isLatin1="1" latin1Text="ihre"/><moot tag="PPOSAT" lemma="ihr" word="ihre"/>ihre</w>
+                    <w id="w1d" b="250 10" t="Aufwartung"><moot lemma="Aufwartung" tag="NN" word="Aufwartung"/><xlit latin1Text="Aufwartung" isLatin1="1" isLatinExt="1"/>Aufwartung</w> <w id="w1e" b="261 6" t="machen"><moot tag="VVINF" lemma="machen" word="machen"/><xlit isLatin1="1" latin1Text="machen" isLatinExt="1"/>machen</w> <w id="w1f" b="268 2" t="zu"><xlit isLatin1="1" latin1Text="zu" isLatinExt="1"/><moot word="zu" tag="PTKZU" lemma="zu"/>zu</w> <w id="w20" b="271 7" t="dürfen"><xlit isLatin1="1" latin1Text="dürfen" isLatinExt="1"/><moot word="dürfen" tag="VMINF" lemma="dürfen"/>dürfen</w><w id="w21" t=";" b="278 1"><xlit latin1Text=";" isLatin1="1" isLatinExt="1"/><moot tag="$." lemma=";" word=";"/>;</w> <w id="w22" b="280 3" t="sie"><moot word="sie" tag="PPER" lemma="sie"/><xlit isLatin1="1" latin1Text="sie" isLatinExt="1"/>sie</w> <w id="w23" t="hat" b="284 3"><xlit isLatin1="1" latin1Text="hat" isLatinExt="1"/><moot word="hat" lemma="haben" tag="VAFIN"/>hat</w> <w id="w24" b="288 5" t="einen"><moot word="einen" lemma="eine" tag="ART"/><xlit isLatin1="1" latin1Text="einen" isLatinExt="1"/>einen</w> <w id="w25" t="Brief" b="294 5"><xlit isLatinExt="1" isLatin1="1" latin1Text="Brief"/><moot word="Brief" lemma="Brief" tag="NN"/>Brief</w> <w id="w26" b="300 2" t="an"><moot tag="APPR" lemma="an" word="an"/><xlit isLatinExt="1" latin1Text="an" isLatin1="1"/>an</w> <w id="w27" t="der" b="303 3"><moot word="der" tag="ART" lemma="d"/><xlit isLatinExt="1" latin1Text="der" isLatin1="1"/>der</w> <w id="w28" b="307 4" t="Frau"><xlit isLatin1="1" latin1Text="Frau" isLatinExt="1"/><moot word="Frau" lemma="Frau" tag="NN"/>Frau</w></s> <persName key="JP-003370"><s id="s1_6" prev="#s1_5" next="#s1_7"><w id="w29" t="Gräfin" b="312 7"><moot word="Gräfin" lemma="Gräfin" tag="NN"/><xlit isLatin1="1" latin1Text="Gräfin" isLatinExt="1"/>Gräfin</w> <w id="w2a" b="320 3" t="von"><moot word="von" lemma="von" tag="APPR"/><xlit isLatin1="1" latin1Text="von" isLatinExt="1"/>von</w> <w id="w2b" t="der" b="324 3"><moot tag="ART" lemma="d" word="der"/><xlit isLatinExt="1" latin1Text="der" isLatin1="1"/>der</w> <w id="w2c" b="328 5" t="Recke"><moot tag="NN" lemma="Recke" word="Recke"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Recke"/>Recke</w></s></persName><s id="s1_7" prev="#s1_6"><w id="w2d" t="," b="333 1"><xlit isLatinExt="1" isLatin1="1" latin1Text=","/><moot lemma="," tag="$," word=","/>,</w> <w id="w2e" b="335 3" t="und"><xlit latin1Text="und" isLatin1="1" isLatinExt="1"/><moot word="und" lemma="und" tag="KON"/>und</w> <w id="w2f" b="339 8" t="wünscht"><moot tag="VVFIN" lemma="wünschen" word="wünscht"/><xlit isLatinExt="1" isLatin1="1" latin1Text="wünscht"/>wünscht</w> <w id="w30" b="348 5" t="durch"><xlit isLatinExt="1" latin1Text="durch" isLatin1="1"/><moot tag="APPR" lemma="durch" word="durch"/>durch</w> <w id="w31" b="354 4" t="Ihre"><moot word="Ihre" lemma="ihr" tag="PPOSAT"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Ihre"/>Ihre</w> <w id="w32" t="Güte" b="359 5"><xlit isLatin1="1" latin1Text="Güte" isLatinExt="1"/><moot word="Güte" tag="NN" lemma="Güte"/>Güte</w><w id="w33" t="," b="364 1"><moot lemma="," tag="$," word=","/><xlit isLatinExt="1" isLatin1="1" latin1Text=","/>,</w>
+                    <w id="w34" t="deren" b="386 5"><xlit latin1Text="deren" isLatin1="1" isLatinExt="1"/><moot word="deren" lemma="die" tag="PRELAT"/>deren</w> <w id="w35" b="392 10" t="Aufenthalt"><xlit isLatinExt="1" latin1Text="Aufenthalt" isLatin1="1"/><moot word="Aufenthalt" tag="NN" lemma="Aufenthalt"/>Aufenthalt</w> <w id="w36" t="zu" b="403 2"><moot tag="PTKZU" lemma="zu" word="zu"/><xlit isLatin1="1" latin1Text="zu" isLatinExt="1"/>zu</w> <w id="w37" t="erfahren" b="406 8"><xlit isLatinExt="1" latin1Text="erfahren" isLatin1="1"/><moot word="erfahren" tag="VVINF" lemma="erfahren"/>erfahren</w><w id="w38" b="414 1" t="."><xlit latin1Text="." isLatin1="1" isLatinExt="1"/><moot lemma="." tag="$." word="."/>.</w></s></p>
+            <closer>
+               <signed><s id="s2" pn="p6"><w id="w39" b="437 8" t="Caroline"><moot lemma="Caroline" tag="NE" word="Caroline"/><xlit isLatinExt="1" latin1Text="Caroline" isLatin1="1"/>Caroline</w> <w id="w3a" t="Richter" b="446 7"><xlit isLatinExt="1" latin1Text="Richter" isLatin1="1"/><moot lemma="Richter" tag="NE" word="Richter"/>Richter</w> <w id="w3b" b="454 13" t="geboreneMayer"><xlit isLatinExt="1" isLatin1="1" latin1Text="geboreneMayer"/><moot tag="NE" lemma="Geborenemayer" word="geboreneMayer"/>geboreneMayer</w></s></signed>
+            </closer>
+            <postscript>
+               <p><s id="s3" next="#s3_2" pn="p7"><w id="w3c" b="491 3" t="ich"><xlit isLatinExt="1" isLatin1="1" latin1Text="ich"/><moot tag="PPER" lemma="ich" word="ich"/>ich</w> <w id="w3d" b="495 7" t="logiere"><xlit isLatinExt="1" latin1Text="logiere" isLatin1="1"/><moot word="logiere" lemma="logieren" tag="VVFIN"/>logiere</w> <w id="w3e" t="bei" b="503 3"><moot word="bei" lemma="bei" tag="APPR"/><xlit isLatin1="1" latin1Text="bei" isLatinExt="1"/>bei</w></s> <persName key="JP-004390"><s id="s3_2" prev="#s3" next="#s3_3"><w id="w3f" next="#w3f_1" t="DoktorUthe" b="507 10"><xlit isLatinExt="1" isLatin1="1" latin1Text="DoktorUthe"/><moot tag="NN" lemma="Doktorat" word="Doktorate"/>Doktor</w></s><hi rendition="#u" hand="#author"><s id="s3_3" prev="#s3_2" next="#s3_4"><w id="w3f_1" prev="#w3f">Uthe</w></s></hi>
+                  </persName><s id="s3_4" prev="#s3_3" next="#s3_5"><w id="w40" b="519 1" t=","><moot tag="$," lemma="," word=","/><xlit isLatinExt="1" isLatin1="1" latin1Text=","/>,</w></s> <hi rendition="#u" hand="#author">
+                     <placeName key="JP-012804"><s id="s3_5" prev="#s3_4" next="#s3_6"><w id="w41" next="#w41_1" t="Ostra-AlleeNr" b="523 13"><moot word="Ostra-AlleeNr" lemma="Ostra-Alleenr" tag="NE"/><xlit latin1Text="Ostra-AlleeNr" isLatin1="1" isLatinExt="1"/>Ostra-Allee</w></s></placeName><s id="s3_6" prev="#s3_5"><w id="w41_1" prev="#w41">Nr</w><w id="w42" b="536 1" t="."><moot lemma="." tag="$." word="."/><xlit latin1Text="." isLatin1="1" isLatinExt="1"/>.</w> <w id="w43" b="538 2" t="30"><xlit latin1Text="30" isLatin1="1" isLatinExt="1"/><moot lemma="30" tag="CARD" word="30"/>30</w></s></hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0079">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 20. Dezember 1822,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-12-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">
+                     <hi rendition="#u" hand="#author">Freitags</hi> – Bair. d. 20<hi rendition="#uu" hand="#author">ten</hi>Dec: 22.</hi>
+               </dateline>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>Gestern bekamen wirDeinen undHerrn Heine’s Brief. Liebes Kind, wir haben gar nichts dagegen wenn
+                    Du noch ein paar Wochen länger ausbleibst. Ich antwortete aus Zeitmangel, und
+                    weil ich so mit dem Abholen auf das Wetter gesehen hätte, noch nicht darauf,
+                    denn während so großer Kälte, als seit 6 Tagen in <placeName key="JP-005574">Bair</placeName>. ist, möchte ich mein geliebtes Kind nicht reisen lassen.
+                    Doch hatte ich schon mit dem Kutscher verabredet, am 7 oder 28, hier
+                    wegzufahren. Ein sonderbarer Zufall ist es, daß derselbe Kutscher, <persName key="JP-011926">Bergemann</persName> der
+                    uns mit <persName key="JP-004659">Louise Welden</persName> zuerst nach<placeName key="JP-006422">Würzburg</placeName> fuhr, am <hi rendition="#u" hand="#author">6<hi rendition="#uu" hand="#author">ten</hi>Januar</hi> eine hiesige Dame, nach
+                        <placeName key="JP-005743">Frankfurt</placeName> fährt, deren Jungfer mit
+                    ihm wieder zurückreißt, und daß er mir den Vorschlag that, Dich mit ihr von <placeName key="JP-006422">W.</placeName> kommen zu lassen.  Er würde am 12<hi rendition="#uu" hand="#author">ten</hi> od.
+                        14<hi rendition="#uu" hand="#author">ten</hi>Januar dann in <placeName key="JP-006422">W.</placeName> eintreffen und das wäre alsdann in der Mitte des Monats –
+                    ein sonderbares Zusammentreffen der Umstände.</p>
+            <p> wir haben uns indessen zu nichts verstanden, bis ich sie  kenne,
+                    und Deine Meinung weiß. Den ersten Reisetag ist weiter nichts zu fürchten allein
+                    des Abends wo Du in<hi rendition="#u" hand="#author">
+                  <placeName key="JP-012004">Ebrach</placeName>
+               </hi> wahrscheinlich
+                    übernachtest ist das Ausziehen, und Morgens das Anlegen der Maschine zu
+                    beachten, was eine ganz fremde Person doch nicht thun darf und kann.  sage mir recht aufrichtig mein theures Leben, was Du denkst.</p>
+            <p>Dein Kämmerchen ist jetzt fertig, und der <persName key="JP-999999">Vater</persName> sehr davon zufrieden. Es ist so groß daß Dein Bett in der
+                    Länge stehen , und mit
+                    Bequemlichkeit zum Manipuliren abgerückt werden kann. Es bekommt Rollen, damit
+                    es leicht zu schieben ist. Alsdann kommt eine Kommode, 1 Spiegel, 2 Stühle, und
+                    ein Tischchen herein. <persName key="JP-003471">Emma</persName> soll unterdessen
+                    darin schlafen, undWeldens nächstens Thee darin mit ihr trinken. Es
+                    ist ein halbes 4 eckiges Stübchen, der Verschlag geht jedoch nicht bis an die
+                    Stubendecke, sondern ist so hoch wie die Thüren, und wird weiß angestrichen
+                    meine Stubenthür wird immer offen sein, wen wir allein sind.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

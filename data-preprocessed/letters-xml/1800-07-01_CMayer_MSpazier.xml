@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0060">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Mayer an Minna Spazier. Berlin, Juli 1800 (?)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1800-06-28" notAfter="1800-09-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012533">Lektüre(n)</term>
+               <term xml:id="JP-012212">Liebesleben / Ehe</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Daß Du doch noch  unsre
+                    Schwester bist, und in Deinen Gefühlen so ganz mit uns übereinstimmst, hat
+                    meiner Liebe zu Dir einen neuen Schwung gegeben, so wie denn alles seit <persName key="JP-999999">Jean Pauls</persName> Erscheinung mir lieber geworden ist. Du himmlische liebe Minna – wie empfindest Du –
+                    alles was Du gezeichnet hast – gab uns lebendig die Erinnerung eben solcher
+                    Sinnen wieder – was sollt ich Dir nun schildern, was Dir jezt nicht alt und
+                    bekannt wäre – nur die Einkleidung Zeit und Ort wäre verschieden.  ich glaubte Anfangs nach seiner Abreise würde eine unausstehliche Leere in und außer uns seyn – aber nein, du
+                    glaubst nicht welch ein neues Leben, welch ein neues interesse jezt alles für mich hat. Am meisten mein Selbst an deßen
+                        Reinigung ich jezt arbeite – seine Bücher die ich jezt lese um gleichsam den Umgang mit ihm fortzusetzen, wo er doch  immer nur seine eigne hohe Seele enthüllt – erhalten mich in dieser
+                    Spannung die schon wunderbar und wohlthätig auf mich gewirkt hat. mit ihm und
+                    durch ihn müßte man ein Engel werden. –</p>
+            <p>Der <persName key="JP-000044">Ahlefeldt</persName> deßen <persName key="JP-004104">Sp.</persName> sich noch sehr gut erinnern
+                            wird, weil sie sich sonst gekannt haben, ist <persName key="JP-999999">Jean Pauls</persName> wärmster Freund – mehr kann ich Dir nicht über ihn sagen, um Dich  für ihn einzunehmen, und es natürlich zu
+                    finden, wie sein Umgang die schön verlebte Zeit – immer wieder erneuert. seine Gegenwart wirkt magisch auf uns, und nur
+                    der <hi rendition="#u" hand="#author">äußere</hi>
+               <persName key="JP-999999">Jean Paul</persName> fehlt, um uns durchaus zu täuschen. Der Schein seines Wesens erleuchtet
+                    uns noch, sein Geist ruht noch auf uns.</p>
+            <p> Urtheile wie uns nun der Umgang anderer Menschen beklemmt, da wir <hi rendition="#u" hand="#author">ihnen</hi> nie das, was unser
+                    ganzes Wesen füllt und beschäftigt, mitteilen können. Es gehört mit zu meinen
+                    schwersten Kraftäußerungen, daß ich mich verberge wenn von ihm die Rede ist. Die
+                    Menschen würden entweder lachen, oder mich anstaunen, wie eine Erscheinung aus
+                    einer andern Welt (nicht aus einer beßeren). Bei den gleichgültigen geht es
+                    recht gut zu sagen "es ist ein artiger charmanter <hi rendition="#u" hand="#author">Mann</hi>" aber bei denen die einiges interesse äußeren – vergißt man sich so leicht – weil
+                    man es so gern thut – und nur wenn die gezogne Grenzlinie übersprungen ist,
+                    erschrikt man über sich selbst – und wie kaltes Waßer überläuft einem ihre <hi rendition="#u" hand="#author">Feinheit</hi>, ihre Politur. Wie
+                    lieb also ein gleichempfindendes ofnes herzliches Wesen einem seyn muß – das
+                    alles verzeiht, weil es menschlich ist – und dem Natur im Menschen eine heilige
+                    Erscheinung ist – kannst Du gewis fühlen – was Wunder wenn die Stunden mit
+                        <persName key="JP-000044">Ahlefeldt</persName> zugebracht uns jezt die
+                    liebsten sind! Gestern war er zum erstenmal da bei <persName key="JP-002711">Maman</persName> – der Tag war so schön, er so empfänglich – u die Idylle
+                    vom <bibl sameAs="JP-010806" subtype="werke-jp">Schulmeisterlein Wutz</bibl> aus der <bibl sameAs="JP-010648" subtype="werke-jp">unsichtbaren
+                        Loge</bibl> von ihm gelesen auf einen schönen Platz am Berge gab uns einen
+                    wonnevollen Genus – ich gestehe, daß ich jezt glüklicher bin, als ich es je war.
+                    – <hi rendition="#u" hand="#author">ohne</hi> Schwärmerei – gewis.
+                    Wir lasen ihm Deinen Brief, liebste Minna, er entzückte ihn fast – die Schilderung Eures Abends in <placeName key="JP-006416">Wörlitz</placeName>,
+                        die Waßerfahrt rief uns einen  ähnlichen Abend zurük – – und wir glaubten mit Euch im Kahn zu sitzen. –</p>
+            <p>Wie er so sagt "es ist recht schön" und wie er einem das Haar von der Stirn
+                    streicht – u frägt ist Ihnen wohl? und wie sein Auge wie von einer Entzückung
+                    gehoben mit einer Thräne aufblickt, und wie ein scharfer Gedanke es dann wieder
+                    so hell erleuchtet! Gott, liebe Minna, dann möchte man vergehend vor ihm
+                    niederfallen. <hi rendition="#u" hand="#author">
+                  <persName key="JP-999999">Jean Paul</persName> nemlich </hi>Mir war nichts intereßanter als so den Wechsel seiner Ideen u Empfindungen zu beobachten, konnte man nicht alles auf seinem Gesicht
+                    lesen? – Ach und die Güte, die Liebe das ist mehr als alles! Jezt kann ich mir
+                    die von <persName key="JP-000634">Christus</persName> erzählten Wunder
+                    Geschichten erklären – </p>
+            <p>Die <persName key="JP-002681">Mazdorf</persName> schien mir eine sehr kalte
+                    steife Person zu seyn, bei all ihrer Güte gegen uns. Aber seitdem sie von Euch
+                    zurük ist scheint sie beseelt – der Abend auf dem Waßer, hat ihr Herz aufgethauet. Es ist recht gut, daß Ihr so offen zu ihr gewesen seyd,
+                    sie scheint sehr vielen Antheil an Eurem Schiksal zu nehmen und ich habe sie
+                    darum  viel lieber. </p>
+            <p>Ihr armen Menschen, wenn man einmal wieder so recht lebhaft an
+                    Eure Lage denkt, dann möchte man aber doch den Sinn für Alles andere verlieren
+                    und es sich zur Sünde rechnen – daß man glüklich ist. Ach warum hat man nichts
+                    als Wünsche für Euch, u Pläne die – immer scheitern. </p>
+            <p> Und doch wirst Du selbst oft <hi rendition="#u" hand="#author">über</hi> Deine Lage hinwegsehen, und die höhern Freuden die Du
+                    hast  überwiegend finden
+                    – <persName key="JP-004106">Julius</persName> muß Dich oft erheben, warum möcht
+                    ich immer weinen wenn ich an den Engel denke. Weist Du, daß ich ihn jezt  mit dem <bibl sameAs="JP-010762" subtype="werke-jp">Victor</bibl> vergleiche, wenn
+                            ich so in die Zukunft sehe? – und wer sein <bibl sameAs="JP-010728" subtype="werke-jp">Emanuel</bibl> ist, das erräthst Du leicht.</p>
+            <p>Malst Du Dir wohl zuweilen unser Wiedersehen aus? Ich kann es nicht – aber ich
+                    erwarte den höchsen Genus. Doch warum kannst Du nicht<persName key="JP-004103">Emma</persName>mitbringen damit er weniger flüchtig wäre – denk an den Schmerz, eine
+                    Freude,  durch ihre
+                    Kürze so pikant gemacht gleich wieder zu verlieren. Das wäre zu viel. Behilf
+                    dich doch immer ohne Mädchen. <persName key="JP-004103">Emma</persName> ist ja dann vielleicht schon so weit, daß sie läuft, und kann wenn sie
+                    gesund ist, Dich doch unmöglich so sehr beunruhigen.</p>
+            <p>Wie glücklich wirst Du seyn, mit ihm im Wagen zu sitzen, für ihn zu sorgen, und Dein ganzes Innre ihm
+                    aufzudecken – Du hast dann nicht die Sorge ihn durch andre Gegenstände von Dir
+                    abgezogen zu sehen – wie man hier immer hat. Das ist die einzige Furcht derer
+                    man sich bei ihm bewust ist, sonst verschwindet alles. 
+                    Sage <persName key="JP-004104">Spatzier</persName>, daßsein kleines Blättchenmir heilig ist, als ein Freibrief für meine Empfindungen, als ein Paß mit
+                    dem ich zuversichtlich einem jeden gemäßigten Menschen, unter die Augen treten
+                    will. Es war am Abend spät, da ich Deine </p>
+         </div>
+      </body>
+   </text>
+</TEI>

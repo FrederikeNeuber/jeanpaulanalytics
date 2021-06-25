@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0891">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl Theodor von Dalberg an Johann Ernst Wagner. Aschaffenburg, 6.
+                    September 1808, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000742">Karl Theodor Reichsfreiherr von Dalberg</persName>
+               <placeName key="JP-005539">Aschaffenburg</placeName>
+               <date when="1808-09-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012692">Bildung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Aschaffenburg den 6ten 7ber 1808.</dateline>
+               <salute>Ew. Wohlgebohrnen</salute>
+            </opener>
+            <p>Verzeihen gütigst die Verspätung meiner Antwort, einige kleine Reisen in hiesiger
+                    Gegend hinderten mich Ihnen früher für das
+                            überschickte Werk, welches Ich mit dem größten Interesse
+                    gelesen habe, zu danken. Ihr Genius den Ich indemim <bibl sameAs="JP-010313" subtype="werk">Morgenblatte</bibl> sich
+                            befindlichen
+                            Aufsatze schon liebte und bewunderte, zeigt
+                    Sich auch hier wieder mit hohem Schwunge und neuer Kraft.</p>
+            <p>Ihr <bibl sameAs="JP-010023" subtype="werk">KunstPlan</bibl> ist eine <hi rendition="#u" hand="#author">große</hi> Idee, aber vieleicht zu
+                    weitaussehend, und generell um allgemeinen Eingang zu finden. und im <hi rendition="#u" hand="#author">einzelnen</hi> geschieht doch in
+                    jedem Lande – nach Kräften und Umstanden schon viel gutes.</p>
+            <closer>
+               <salute>Mit dem Gefühl der vollkommensten Hochachtung verharrend</salute>
+               <signed>Ew. Wohlgeboren gehorsamster
+                                Diener F. von <hi rendition="#u" hand="#author">Dalberg</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

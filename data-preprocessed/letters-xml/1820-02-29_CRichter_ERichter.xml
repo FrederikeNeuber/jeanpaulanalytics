@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0064">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emma Richter. Bayreuth, 29. Februar 1820, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-02-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Baireuth den 29<hi rendition="#uu" hand="#author">ten</hi>. Februar</hi>
+               </dateline>
+               <salute>Liebste Emma!</salute>
+            </opener>
+            <p>Es thut mir so leid, daß Du noch keinen Brief von uns
+                            erhalten hast, da ich weiß wie sehr man in der Ferne darnach
+                    verlangt, und ehe ich Dich armes Kind länger warten lasse, will ich lieber die
+                        vorgenommnen Arbeiten gehen lassen. Hier erhältst Du die
+                    Noten,
+                    eine frühere Gelegenheit fand sich nicht. Den Brief
+                            nach <placeName key="JP-005586">Berlin</placeName> besorge gleich
+                    nach <placeName key="JP-005841">Hof</placeName> – und frankire ihn wenn Du
+                    kannst. Daß Du glüklich sein würdest wußte ich voraus, und ich freue mich daß Du
+                    die herrliche <persName key="JP-012363">Thienette</persName> so liebst, nur in solcher Begeisterung für
+                    ausgezeichnete Menschen besteht das höchste Erdenglück. Grüße <persName key="JP-012363">die Herrliche</persName> und die <persName key="JP-011923">Kammerherrin</persName>, recht heiß vom <persName key="JP-999999">Vater</persName> und mir, und bitte sie, uns bald mit ihrer
+                    Erscheinung zu erfreuen.</p>
+            <p>Wäre doch der kurze Aufenthalt<persName key="JP-011923"> der lieben
+                        Reizenstein</persName> eine Lockung zu längerem Genuße geworden. Alles von
+                    Bedeutung hier  beklagt sie nicht gesehen zu haben, und beneidet –
+                    Dich.</p>
+            <p>Vom <persName key="JP-003490">Max</persName>kam noch kein Brief, was
+                    unbegreiflich ist. Von <persName key="JP-004659">Luise</persName> und <persName key="JP-004660">Marie</persName>beifolgende – Schreibe bald an <persName key="JP-004659">Luise</persName>.</p>
+            <p>Uns gieng es gut. Die erste Woche brachte ich recht klösterlich zu – aus
+                    Ermattung und Pflichtgefühl. Am Sonnabend besuchte ich <persName key="JP-000861">die
+                        Düben</persName>, die am vergangenen Mitwoch bei mir gewesen war. Sontags wurde gespielt, und
+                        <persName key="JP-999999">der Vater</persName> ward einmal ganz befriedigt.
+                        <hi rendition="#u" hand="#author">
+                  <bibl sameAs="JP-013294" subtype="werk">Die Entdeckung</bibl>
+               </hi> von <persName key="JP-004136">Steigentesch</persName> ist ächt komisch und wurde meisterhaft gegeben. <persName key="JP-001432">
+                  <persName key="JP-001432">Grupen</persName>
+               </persName> – <persName key="JP-011980">Schweizer</persName> – <persName key="JP-012706">Amalie
+                        Bomhardt</persName> zierten das Ganze. Die liebe <persName key="JP-003830">Gr. Schönburg</persName> besuchte mich gestern früh, und lud uns zum Abend
+                    mit der guten <persName key="JP-004653">Welden</persName> ein wo der <persName key="JP-999999">Vater</persName> allerliebst war. Bald werden sie bei uns
+                    einen traulichen Abend zubringen. Die kleine <persName key="JP-012946">Tochter</persName> der <persName key="JP-000861">Düben</persName> ist ja
+                    ein liebes Kind, was ich  näher zu  kennen mich freue.</p>
+            <p>Ich sage Dir alles nur in kurzen Worten weil ich, wie Du weißt lieber handle als
+                    rede. Schreibe mir bald, und sage, wann Du abgeholt sein mußt. Dein richtiger
+                    Takt wird Dir eingeben, wenn es Zeit ist sich von, den lieben Menschen zu entfernen, denen Du keine Last sein
+                    sollst.</p>
+            <p>
+               <anchor type="target" xml:id="start_cff_33d_j4b"/>
+               <persName key="JP-003873">Marie
+                        Sch.</persName> wird von ihrer Grosmutteraus dem Stift geholt, und darf ¼tel Jahr bei ihr
+                        bleiben.<anchor type="target" xml:id="stop_cff_33d_j4b"/> Du wirst sie dann
+                    recht genießen.</p>
+            <p>
+               <persName key="JP-003870">Betty</persName> reißte gestern nach <placeName key="JP-005936">Landshut</placeName>und läßt Dich sehr grüßen, wie alle Deine jungen Freundinnen, besonders
+                        <persName key="JP-001319">Julchen Giech</persName>. Der <persName key="JP-999999">Vater</persName> ist heute Mittag und Abend aus. <persName key="JP-003108">Amöne</persName> kömmt zu mir. Ich nähe an Deinem grauen
+                    Kleide, nachdem ich mich eine halbe Woche mit Vorhängen herumgequält habe. Lebe
+                    wohl liebe Emma, und nimm alles Gute und Herrliche Deiner Beschützerinnen fest
+                    in Deine Seele auf.</p>
+            <closer>
+               <signed>Deine Caroline.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-003491">Odilie</persName> kann vor Fleiß nicht
+                        schreiben.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

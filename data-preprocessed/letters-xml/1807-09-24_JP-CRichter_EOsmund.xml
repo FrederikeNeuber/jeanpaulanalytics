@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0096">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Bayreuth, 24. September 1807, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1807-09-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-999999">
+            <p>Guten Morgen! Wir haben beide mit einander, nicht gegen einander Recht; ein
+                        seltener Rechtsfall zwischen blos <hi rendition="#u" hand="#author">zwei</hi>
+                    Menschen! – Einem Verschenker der Geschenke schenkt man eigentlich blos – ein
+                    Dutzend gute Thaten, womit er nachher den 
+                    Ur-Schenker am jüngsten Tage ausstechen will. – Mich haben Sie längst schon
+                    ausgestochen.</p>
+         </div>
+         <div hand="#JP-003469">
+            <p> Dank Emanuel, aber mehr noch für Ihre himmlische Güte gegen mich – ach, wenn
+                    ich sie verdiente!</p>
+            <p>Heute kommt wahrscheinlich die Kehler zu mir, sonst möchte ich mit Richter heute
+                    bei Ihnensein. Aber morgen vieleicht wenn Sie es wollen.</p>
+            <closer>Caroline</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

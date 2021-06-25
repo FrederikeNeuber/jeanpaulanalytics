@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0561">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 23. Juli
+                    1811, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1811-07-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_myt_33r_y3b"/>Es thut mir unendlich leyd,
+                    daß Du gegen meine Absicht so viel Kosten <ref target="JP-UB0114" type="letter">von der übersandten Kiste</ref> gehabt hast. ich habe indeßen
+                    doch auch würklich 68 gr., die in <placeName key="JP-011984">Coswig</placeName> durch Versehen doppelt berechnet sind, allhir wieder erhalten, und schicke
+                    Dir hiebey eine Assignation auf 4 rth 12 gr., damit Du Deine dortige Auslage
+                    gantz wieder errhaltest.<anchor type="target" xml:id="stop_myt_33r_y3b"/>
+            </p>
+            <p>
+               <persName key="JP-002954">Herr GeheimerSt. RathNagler</persName> wird Dich vielleicht einmal
+                    selbst schon gesprochen haben. Herrn <persName key="JP-003990">Professor Seebek</persName> habe ich verfehlt.</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0114/#start_nn2_w1r_y3b">
+                  <persName key="JP-004106">Julius</persName> ist in <placeName key="JP-006010">Mecklenburg</placeName>
+               </ref>, <persName key="JP-004107">Richard</persName> wieder beßer, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0114/#start_zfx_cbr_y3b">
+                  <persName key="JP-004103">Emma</persName> in der Stiftung</ref>; und so manches Übel beseitigt. <persName key="JP-004393">Minna</persName> ist wohl u fleißig; und <persName key="JP-002709">meine Frau</persName>
+                    gesund. Die letzte grüßt Dich hertzlich, so wie ich <persName key="JP-999999">Deinen Mann</persName> u <persName key="JP-003483">Kinder</persName>.</p>
+            <closer>
+               <signed>Dein treuer Vater Mayer</signed>
+               <dateline>Berlin d. 23. July 1800</dateline>
+            </closer>
+            <postscript>
+               <p>Den 20. Juli haben wir
+                        in <placeName key="JP-012878">Moabit</placeName> gefeiert.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0727">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 2. November
+                    1808, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1808-11-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012693">Personalien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 2. 9.ber
+                        8.</dateline>
+               <salute>Liebe Caroline!</salute>
+            </opener>
+            <p>Deinen letzten Brief habe ich richtig erhalten, und werde der
+                        <persName key="JP-002007">Frau von Kalb</persName> Deiner Ordre gemäß Zahlung leisten. Auch
+                    ist es schon mit den 18 gr., die Du ihr vor einiger
+                    Zeit assignirtest, von mir gleich damals geschehen; und kannst Du Dich darnach
+                    in Deiner Rechnung mit ihr richten.<anchor type="target" xml:id="stop_cgw_wl4_3pb"/>
+            </p>
+            <p>An <persName key="JP-001089">Herrn Kr. R. Fischer</persName> ist schon vor 14 Tagen ein Brief u Packet zur Bestellung an Dich
+                    abgegeben, wir hören aber daß sie noch hier sind; u wirst Du also ihre Ankunft
+                    abwarten müßen. Bey uns hat sich keiner von ihnen sehen laßen, obwohl meine Frau
+                    der <persName key="JP-012948">Dame</persName> sogar die Visite gemacht hat, um sie um
+                    Mitnehmen des Packets zu ersuchen.</p>
+            <p>
+               <hi rendition="#u" hand="#unknown">Deine Nachrichten von <persName key="JP-004393">Minna</persName> sind für</hi> mich Geheimniße. ich habe kein Geständniß von
+                            ihr erhalten, u da sie mich hiedurch belügt, so glaube ich auch an den
+                            vorgeblichen Tod <persName key="JP-013028">ihres Kindes</persName>
+                            nicht.<anchor type="target" xml:id="start_oyp_jjk_vnb"/>Nach
+                            ihrem neuesten Brief stehet sie
+                            mit <persName key="JP-001879">Herrn Iffland</persName> in tractaten wegen Eintritt als Schauspielerin, u ich habe nichts dagegen. Sollte sie auch in <placeName key="JP-005586">Berlin</placeName>debutiren, so werde ich doch das Theater nicht eher
+                    besuchen, bis ihr Ruf Sich zu ihrem Vortheil, bestimt hat.<anchor type="target" xml:id="stop_oyp_jjk_vnb"/> Nach zweyjähriger Entwöhnung vom Theater, kostet mir diß
+                    keine weitere Überwindung.</p>
+            <p>Über <persName key="JP-004394">die Kinder</persName> bin ich auch Deiner Meynung,
+                    daß es am besten ist, sie ihr zu überlaßen. Erzieht sie sie schlecht, so
+                    bereitet sie sich selbst ihre Strafe. Das Verdienst <persName key="JP-004394">die Kinder</persName> unter meine AufSicht zu nehmen, ist für mich zu
+                    theuer zu erwerben. ich habe genug an dem, was mir meine eigne Kinder bereiten, oder doch, wie Du,
+                    erhalten, wenn <persName key="JP-004393">Minna</persName> gleich auch diesen Crantz von meiner Schläfe reißt.</p>
+            <p>
+               <anchor type="target" xml:id="start_xtc_dqp_3nb"/>Noch erwarte ich von ihr den
+                    Todten Schein des <persName key="JP-013028">Kindes</persName>; und
+                    sollte es mir leyd thun, wann ich ihn in <placeName key="JP-005948">Leipzig</placeName> selbst abfordern sollte. Denn ich muß wißen, was aus dem <persName key="JP-013028">Kinde</persName> geworden, u wer deßen Vater ist,
+                    wenn anders <persName key="JP-004393">Minna</persName> nicht mit mehreren zugehalten habe.<anchor type="target" xml:id="stop_xtc_dqp_3nb"/>
+            </p>
+            <p> Meine Lage wird täglich drükender, weil
+                                <persName key="JP-001187">des Königs</persName> Hülfe, so lange
+                            dauret. ich habe über 3000 rth Gehalt zu
+                            fordern, und lebe von Schulden.?</p>
+            <p>Gott gebe, daß das Schicksal der dortigen Provintz bald entschieden werde. Denn
+                    der Zwischen Zustand ist unter allen der unerträglichste.</p>
+            <closer>
+               <persName key="JP-002709">Meine Frau</persName>, die Dich grüßt, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0423/#start_g53_w2b_1jb">freuet sich auf die Schmalz Butter</ref>. Lebe wohl; grüße <persName key="JP-999999">Deinen Mann</persName>, u küße <persName key="JP-003483">Deine Kinder</persName>. <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+            <postscript>
+               <p>Kennt <persName key="JP-999999">Dein Mann</persName>
+                  <bibl sameAs="JP-012656" subtype="werk">les oeuvres de <persName sameAs="JP-011946">
+                        <persName sameAs="JP-000001">Rivarol</persName>
+                     </persName>
+                  </bibl>? Sie würden ihn interessiren. Grüße <persName key="JP-003112">Herrn Otto</persName>.</p>
+            </postscript>
+            <postscript>
+               <p>
+                  <anchor type="target" xml:id="start_bcm_3jp_3nb"/>ich weiß nicht,
+                        ob ich Dir schon gemeldet habe, daß die Heyraths tractaten zwischen <persName key="JP-003360">Herrn v. R.</persName> u <persName key="JP-000437">D<hi rendition="#u" hand="#author">lle</hi>
+                  </persName>
+                  <persName key="JP-000437">Stubenr.</persName>wieder auseinandergegangen sind. Sie haben gefunden, daß sie zu genau
+                        für einander paßen.<anchor type="target" xml:id="stop_bcm_3jp_3nb"/>
+               </p>
+               <p>
+                  <persName key="JP-012977">Meine Schwester</persName> wohnet jetzt
+                        vor dem <placeName key="JP-012827">Schlesischen Thore</placeName>,
+                        dreyviertel Stunden von mir. Ihre Wohnung ist übrigens ein schönes Panorama; u wohlfeil. –</p>
+               <p>Aber die Entfernung! </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

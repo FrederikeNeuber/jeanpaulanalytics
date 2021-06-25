@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1098">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Heinrich Voß an Christian Freiherr Truchseß von Wetzhausen. Heidelberg,
+                    4. Mai 1811, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004520">Heinrich Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1811-05-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011948">Natur</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg, 4. Mai 1811.</dateline>
+            </opener>
+            <p>Endlich in meiner kleinen Stube erwache ich aus meinem
+                            schönen Reisetraum, und fühle es erst so recht, wie
+                    glücklich ich gewesen bin, und noch bin in der Erinnerung all des Schönen, das
+                    ich genossen. Die Reise hat mir an Leib und Seele wohl gethan. Mir ist ja das
+                    Höchste zu Theil geworden, das ich mir denken kann, Umgang mit Menschen, zu
+                    denen ich mit Liebe und Ehrfurcht emporschaue. Du Herrlicher, denke ich an unser
+                    friedliches Zusammenleben auf Deiner friedlichen Burg, an unsre Gespräche,
+                    Vorlesungen, an unsre Spaziergänge, kleine Reisen zu
+                            Verwandten, an Deine Erzählungen, an Deine aus der innersten Seele hervorgequollenen Worte in der
+                            Todtenkapelle, auf dem Grabe <persName key="JP-013473">Deines
+                                geliebten Vaters</persName>,
+                    an der Säule der Geschwisterliebe – o
+                    Dein eignes Herz muß Dir's sagen, wie ich dann bald von Freude, bald von stiller
+                    wohlthätiger Wehmuth durchdrungen bin. Dann möchte ich zu Dir fliegen, Dir die
+                    Hand drücken, an Deinem Herzen Thränen weinen. Habe Dank für Alles, für nichts
+                    aber so sehr, als für den Augenblick, wo Du mich und  in Deine Arme schlossest, und uns hießest
+                    Brüder bleiben unser Lebelang.</p>
+            <p>Als wir uns in <placeName key="JP-006012">Meiningen</placeName> trennten, saßen wir eine Zeitlang still und
+                    nachdenkend im Wagen; dann überließen wir uns im herzlichen Gespräche der Freude
+                    über das Genossene, und unsre Herzen schlugen warm für den geliebten
+                    Bettenburger.</p>
+            <p>Wie ist mir die Zeit meiner Reise so schnell verschwunden – und doch, wie groß
+                    ist ihr Raum, wenn ich ihn überschaue. Die fünf Wochen scheinen sich zu so viel
+                    Monaten auszudehnen. Als ich im vorigen Sommer fünf Monate krank lag, war es
+                    fast umgekehrt, außer wenn einige Lichtstrahlen, wie in <placeName key="JP-006315">Stuttgart</placeName>, die Finsterniß durchbrachen. Die
+                    Freude hat mich gesund gemacht, nicht die Ärzte Naphta und
+                    Phosphorus; drum will ich der Freude huldigen, bis mir der Genius des Todes naht
+                    und die Fackel löscht. Wie ist mir <persName key="JP-004556">unser
+                        Wagner</persName> bei seiner Lahmheit ehrwürdig geworden. „Solche
+                    Kleinigkeiten,“ sagte er, „muß man achten, wenn das Herz nur froh ist.“ So
+                    spricht auch mein geliebter Bettenburger bei seiner Blindheit und Taubheit. So
+                    hoffe auch ich einst sagen zu können, wenn ich mich noch mehr in der Schule des
+                    Lebens gebildet habe.</p>
+            <p>
+               <persName key="JP-004556">
+                  <anchor type="target" xml:id="start_tl3_zmw_z4b"/>Ernst
+                        Wagner</persName> ist ein herrlicher Mensch; sein großes, offenes, redliches
+                    Auge, sein biederes Wesen und die unwiderstehliche männliche Freundlichkeit in
+                    all seinen Mienen hätten mich angezogen, auch wenn ich noch nichts von ihm
+                    gewußt, mich nicht bereits sein <bibl sameAs="JP-010022" subtype="werk">Wilibald</bibl> erwärmt hätte. So aber <hi rendition="#u" hand="#author">sah</hi> ich nur, wie ich zu ihm trat, was ich
+                    schon kannte.<anchor type="target" xml:id="stop_tl3_zmw_z4b"/>
+            </p>
+            <p>In <placeName key="JP-006395">Weimar</placeName> fand ich alles beim Alten. Bei
+                    meinen Collegen und ehemaligen Schülern, beim wackern <persName key="JP-013480">Generalsuperintendenten Vogt</persName> stehe ich noch
+                    in gutem Andenken. <persName key="JP-003735">Die Schiller</persName> wollte mich
+                    durchaus herbergen. Zum erstenmale sah ich meines geliebten <persName key="JP-003737">Schillers</persName> Zimmer nach seinem Tode wieder, wo ich
+                    so oft fröhlich mit ihm war, wo wir den <bibl sameAs="JP-009772" subtype="werk">Othello</bibl> gemeinschaftlich bearbeiteten, wo wir manches Glas Wein
+                    tranken, wo ich ihn zuletzt erkranken, hinscheiden und sterben sah. Heil dem
+                    Guten, Unvergeßlichen!</p>
+            <p>Zu <persName key="JP-001353">Göthe</persName> ging ich mit sehr geringen
+                    Ansprüchen. Daß er mir noch gut war, wußte ich; daß er mir die alte Herzlichkeit
+                    sollte erhalten haben, durfte ich kaum hoffen, wie sehr ich's auch wünschte. Ich
+                    war ja seit 4½ Jahren sein Hausfreund nicht mehr, und in solcher Zeit ändert
+                    sich manches. Er empfing mich nicht eben herzlich, aber mit einer
+                    Freundlichkeit, die von Herzen kam, und ich ging vergnügt von ihm. Denk Dir nun
+                    meine Freude, als ich am folgenden Mittage bei ihm ganz den alten, väterlich
+                    gesinnten, liebenden Freund wiederfand. Nachher sah ich ihn noch zweimal in
+                    unvergeßlichen Stunden.</p>
+            <p>
+               <hi rendition="#u" hand="#author">Wieland</hi> ist recht alt
+                    geworden, ein liebenswürdiger, ruhiger Greis, der von seinem Elemente getragen
+                    wird, das er sich selbst gebildet hat, und wie <persName key="JP-001704">Herodots</persName>Makrobier einst sanft
+                    hinüberschlummern wird.</p>
+            <p>
+               <anchor type="target" xml:id="start_w4f_vnw_z4b"/>Man hat mich zum akademischen
+                    Senator erwählt und mir die Professur der Eloquenz neben meiner jetzigen
+                    übertragen. Das erste habe ich dankbar angenommen, das zweite höflichst
+                        abgelehnt.<anchor type="target" xml:id="stop_w4f_vnw_z4b"/> Es ist meine
+                    Sache nicht, jährlich zwei Programme zu schreiben und der Fürsten Lob in
+                    lateinischen Floskeln zu ertönen. Es sei eine große Ehre, sagt mein College Th., die ich nicht ausschlagen müsse. Allein
+                    ich denke, ich werde auch ohne diese Ehre noch ziemlich ehrenvoll durch die Welt
+                    kommen.</p>
+            <p>O Du Theurer, ich habe Dich noch einmal so lieb, seit ich Dich in Deiner
+                    Umgebung, in Deinem Elemente gesehen, und diese Liebe ist mir wohlthätig; sie
+                    spornt mich und macht mir das Gute und Schöne klarer und anschaulicher. Gewiß Du
+                    bist mir auch etwas gut. Deine freundlichen Blicke redeten Wahrheit, und wenn
+                    ich recht froh sein will, so vergegenwärtige ich sie mir. Ungerufen steht Dein
+                    Bild vor mir, und wo ich mich hinwende, da folgt es mir auf den leisesten
+                    Wink.</p>
+            <p>Der Frühling hat diesmal Riesenschritte vor mir gemacht, da ich von dem ziemlich
+                    luftigen <placeName key="JP-006395">Weimar</placeName> mit Windeseile nach dem
+                    warmen <placeName key="JP-006053">Neckarthale</placeName> kam. Es war mir, als
+                    säh' ich auf einem Taschenspielerteller Samenkörner in einigen Minuten keimen,
+                    blühen und Früchte tragen, denn in unserm Garten hangen die Bäume schon voll
+                    kleiner Früchte.</p>
+            <closer>
+               <salute>Ich umarme Dich von ganzer Seele.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

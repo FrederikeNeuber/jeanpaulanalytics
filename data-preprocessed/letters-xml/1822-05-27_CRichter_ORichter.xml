@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0429">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 27. Mai 1822, Montag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-05-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Baireuth den 27<hi rendition="#uu" hand="#author">ten</hi>Mai 1822.</hi>
+               </dateline>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>Gestern erhielt ich <ref type="letter" target="JP-UB0207">Deinen
+                    Brief</ref>, Es war der erste Feiertag wo ich rechtes Leid
+                    empfand Dir keinen Festkuchen geschickt haben zu können. In dieser Woche reißt
+                        <persName key="JP-003522">Fräulein v. Ritter</persName> ab, und
+                    diese wird Dir einen Stollen, ein
+                    Pfund
+                    gemahlnen Kaffee, und Zucker bringen. Wie leid es mir aber ist, daß Du in dem
+                    Augenblik, da ich dieses schreibe, gar nichts davon weißt, und Dich in den <hi rendition="#u" hand="#author">Feiertagen</hi> meines Andenkens
+                    nicht erfreuen kannst, ist nicht auszusprechen. Aber wenn Du dieses liesest,
+                    wirst du es selber zugeben müssen, daß es eine Thorheit gewesen wäre dieses
+                    Alles mit der Post zu schicken. Anfangs wollte sie noch dazu am <hi rendition="#u" hand="#author">Dienstag</hi> reisen und dafür packte ich
+                    schon alles ein – aber heute sagt mir <persName key="JP-011864">Fanny
+                        Welden</persName>, daß <persName key="JP-003522">die Tante</persName> noch
+                    ein paar Tage mehr, hier bleiben wolle, es ist mir recht ärgerlich, um meines
+                    lieben guten Kindes willen, welches sich nun so lange, <hi rendition="#u" hand="#author">vergessen</hi> glauben muß.</p>
+            <p> Mein einziger Trost ist, daß ja wohl auch bei <persName key="JP-001608">HerrnHeine</persName>, Festtag wird gehalten und
+                    gefeiert werden, die gute <persName key="JP-003031">Auguste</persName> wird ja auch wohl den Pflegkindern eine Freude
+                    bereitet haben, wodurch du geliebtes Kind wenigstens<hi rendition="#u" hand="#author">zerstreut</hi> worden bist.</p>
+            <p>Recht schwer wird es mir den Wagen der <persName key="JP-003522">Fräulein Ritter</persName> weder für mich noch <persName key="JP-003471">Emma</persName> benutzen zu können um das Eines von Uns Dich
+                    sähe und Du Dich, gutes Kind, recht aussprechen könntest. Allein, da der <persName key="JP-999999">Vater</persName>
+               <hi rendition="#u" hand="#author">Anfang Juni</hi> zurückommen will, und
+                    ich noch immer meine angefangenen Hausverbesserungen nicht vollendet habe, er
+                    auch in den 4 Tagen meiner Abwesenheit schreiben und den <hi rendition="#u" hand="#author">Tag</hi>
+               <hi rendition="#u" hand="#author">des Wagenabschickens ihn zu
+                        holen</hi> bestimmen könnte, so darf <hi rendition="#u" hand="#author">ich</hi> nicht von der Stelle. Und kann ich <persName key="JP-003471">Emma</persName>
+               <hi rendition="#u" hand="#author">allein</hi> zurückreisen lassen?
+                    und wenn sie 6-8 Tage bei Dir bliebe wer brächte sie zurück? Dann ist noch eine
+                    Ursache, die Kosten. Ich habe in dieser Zeit  wieder so viel Geld
+                    ausgegeben, daß es höchst sündlich wäre, ohne eine dringende Pflicht, als z.B.
+                        <hi rendition="#u" hand="#author">wenn Du krank wärest</hi> eine
+                    Ausgabe mehr zu machen. Dieses Geld zur Reise, zu Deinem Taschengelde
+                    angewendet, ist vernünftiger, aber wenn der <persName key="JP-999999">Vater</persName> zurück ist, geschieht es gewis. Zweifle nicht daran, daß er Dich nicht besuchte, nur
+                    weißt Du, daß er nie Wechsel auf Wechsel häuft, daß er sich erst von <hi rendition="#u" hand="#author">dieser</hi> Reise erholen muß, und
+                    die neue geliebte häusliche Ruhe erst wieder ausgenießen. Daher wird es wohl bis
+                    im August dauern. Wer weiß ob ich inzwischen nicht einmal mit der Post zu Dir
+                    reise, wo man Tag und Nacht unterwegs ist, ich thue es gewis.</p>
+            <p>Daß Du jetzt härteren Zwang Durch die doppelte Presse an Dir erdulden mußt, und
+                    das Manipulieren von 2 Männern  geht mir durch Mark und Bein. Gewis
+                    gehört zum Ertragen unendliche Ergebung und Geduld. Armes, liebes Kind! Könnte
+                    ich doch für Dich diese Martern ertragen, wie gerne wollte ich es! Meine gute
+                        Odilie, Gott stärke Dich, und laße Gott Deinen
+                    Trost sein. Nur gebe Er, der Allbarmherzige seinen Seegen, daß alle diese Leiden
+                    auch mit einem glüklichen Erfolg gekrönt werden. Du denkst ans
+                    herumwirthschaften wenn Du zu Haus bist! Wie wäre das möglich! Nein Du sollst
+                    geschont und gehüthet werden in Deinem Bette wie eine kleine Furstinn. Wenn der
+                        <persName key="JP-999999">Vater</persName> seine Einwilligung dazu gibt
+                    mache ich es so: In unserer Wohnstube giebt der Platz vom Eingang der großen
+                    Stubenthüre bis zur Fensterwand wo der Flügel stand ein schmales Kämmerchen ab,
+                    wenn man durch einen Vorhang der über einer langen Staange so hoch als die Thüre
+                    ist </p>
+            <closer>Schreibe doch mit Bleistift ich schicke
+                        Dir welche, nebst Papier Federn Oblate, Kafféseihere.t.c.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

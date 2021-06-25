@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1071">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Unbekannt. Meiningen, zwischen April und August
+                    1809</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date notBefore="1809-04-01" notAfter="1809-08-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004373">Unbekannte Korrespondent/innen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012314">Empfehlungen</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>In der vertraulichen Hoffnung, daß Ewr. Hochfrh. Excellenz mir noch ein
+                    gnädiges Andenken zu erhalten geruhet, wage ich es jetzt eine Sache unterthänig
+                    vorzutragen, die – falls in <placeName key="JP-006395">Weimar</placeName> in
+                    dieser Rücksicht das Terrain noch frey ist – mir
+                    ersprießlich scheint.</p>
+            <p>Ich wüßte nemlich, caeteris paribus, und falls Sich I. K. H. die <persName key="JP-002628">Großführstin</persName> noch nicht bestimmt hätten, eine Erzieherin für
+                        das geliebte Fürstenkind. Es ist Fräulein
+                        <persName key="JP-002936">Antoinette von Mützschefahl</persName> eine Schlesierin, die sich
+                    seit der Belagerung von <placeName key="JP-005622">Breßlau</placeName> hier bey einer an den
+                        <persName key="JP-003966">geheimen Assistenzrath Schwendler</persName>
+                    verheyratheten <persName key="JP-003964">Schwester</persName> aufhält und an
+                    unserm Hofe allgemeine Achtung und Freundschaft geniesst. <persName key="JP-013422">Ihre Mutter war eine geborne von Wechmar</persName>
+                    (welche Familie Ewr. Hochfh. Excellenz bekannt ist) und <persName key="JP-002937">der Vater</persName> war ein geachteter Diener <persName key="JP-001181">Friedrich des II.</persName>, dessen Familie eine der besten
+                    in <placeName key="JP-006247">Schlesien</placeName> ist, und deren Weiteres bey
+                        <persName key="JP-012649">ihrem Bruder</persName> dem gegenwärtigen Vorsteher
+                    der Lehengüter, zu erfahren wäre. So viel ich weiß,
+                            wohnt er in <placeName key="JP-005622">Breßlau</placeName>. Sie besitzt 12000 peußische
+                    rth unverkümmertes Vermögen, und bezieht jetzt hievon nach der dortigen
+                    Fideicommissarischen Einrichtung jährlich etwa
+                    700
+                    rth Zinsen, bis sie fixirt ist, oder das Capital
+                    erhebt. Ihr ist um 20 Jahre herum. Ihre Gestalt
+                    ist schlank und schön, die Haltung edel, das Gesicht nicht schön, aber angenehm,
+                    und gewinnt bei längerer Bekanntschaft an Interesse und Ausdruck der reinen
+                    Seele. Sie ist noch die Unschuld und Reinheit selbst, und wird es ewig bleiben.
+                    Ihr Charakter ist wohl in jeder Rücksicht vortrefflich. Ihre Bildung ist so
+                    ziemlich vollendet, und die weiteren Richtungen derselben, die verlangt werden
+                    sollten, würden bey der Bildsamkeit ihres Geistes, nirgends Schwierigkeiten
+                    finden. Sie hat kleine Anfänge im Italienischen und Englischen. Ihr
+                    Französische Aussprache ist, soviel mein Ohr beurtheilen kann, höchst rein und
+                    angenehm, so wie sie sich auch den genie de la langue eigen gemacht hat – schade nur,
+                    daß hier zu wenig die Sprache geübt wird, da der Ort hiefür zu klein ist. –
+                    Übrigens kennt sie sich kein edleres und begehrenswertheres Geschäft als die
+                    Erziehung einer Fürstin, und würde daher wenige Bedingungen machen. Ein Wunsch
+                    würde vielleicht seyn, daß sie im Anfange auch die Kammerfrau <persName key="JP-013421">der Prinzessin</persName> selbst machen, in der Folge
+                    die Maitres selbst wählen dürfte, sie würde im Anfange
+                    gern ohne Gage dienen. Auch die Erlaubniß "daß sie die
+                            Erziehung einer fast mannbaren Niece (einer
+                            Gräfin Slabberndorf, die interessant ist und
+                    sehr reich) in <placeName key="JP-006395">Weimar</placeName> vollenden dürfe"
+                    würde ihr besonders willkommen seyn –</p>
+            <p>Doch genug vorerst, gnädiger Herr, bis ich weiß, ob der Gedanke selbst einer ist,
+                    oder zu spät kommt! Auch würde <persName key="JP-002936">das Fräulein</persName>
+                    im ersten Fall sich gern in <placeName key="JP-006395">Weimar</placeName>,
+                        <placeName key="JP-006412">Wilhelmsthal</placeName> pp produziren, da sie
+                    ganz von sich abhängt. Ich füge daher nur noch die Bitte um gnädigste
+                    Verschwiegenheit, nebst der treuen Versichrung an, daß mich selbst hierbey
+                    wirklich keine schwächliche Emphase für eine Freundin, sondern die reinste Wärme
+                    für eine gute Sache und die tiefste Verehrung für <persName key="JP-002628">die
+                        angebetete Fürstin</persName> leitet, wenngleich ich nicht das Glück habe,
+                    deren Unterthan zu seyn. Denn ich kenne kein lieblicheres Fürstenbild in meiner
+                    Seele, als – <persName key="JP-002628">Maria, die Reine</persName>!</p>
+            <p>Beyliegend bin ich so frey, unsrer gnädigen Frau, der ich mich unterthänig  zu Gnaden empfehle, zwey Exemplare von der neuen Auflage meines <bibl sameAs="JP-010022" subtype="werk">Wilibalds</bibl> zu übersenden, wovon ich das
+                    eine Selbst gnädig anzunehmen, das zweyte aber in der Bibliothek <persName key="JP-002628">I. K. H. der Großfürstin</persName>heimlich mit jenem Exemplar zu
+                    vertauschen bitte, das in der Ostermesse 1806. <persName key="JP-001353">Herr
+                        </persName>
+               <hi rendition="#u" hand="#unknown">
+                  <persName key="JP-001353">Geh. Rath von Göthe</persName> I.</hi> K. H. von mir
+                    überreichte, wenn es nemlich unser lieblicher Gott nicht vergessen hat. – Denn ein Dichter, gnädiger Herr,
+                    ist immer ein eitles Ding, und Sie werden daher den
+                    Gedanken "<hi rendition="#uu" hand="#author">Wenn</hi> nun <hi rendition="#u" hand="#author">doch</hi>
+               <persName key="JP-002628">Maria</persName> einmal auf den Gedanken kommen
+                    sollte, einen <hi rendition="#u" hand="#author">deutschen Roman</hi>
+                    zu lesen und nun <hi rendition="#u" hand="#author">gerade nach
+                        Dir</hi> ärmstem Manne griffe, so würdest du doch <hi rendition="#u" hand="#author">untröstlich</hi> seyn, wenn dein opus nicht wenigstens in der <hi rendition="#u" hand="#author">neuesten</hi> und sehr gebesserten Form
+                    dastünde!" diesen Gedanken werden Ewr. Excellenz gewiß gnädig
+                    verzeihen!</p>
+            <closer>
+               <salute>In ewiger Treue und Verehrung</salute>
+               <signed>Ewr. hochfreiherrlichen
+                                Excellenzunterthänig dankbarer JEWagner</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

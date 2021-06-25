@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0036">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 7. Januar 1823,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1823-01-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012033">Textilien</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012440">Fahrzeuge</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Bair. den 7<hi rendition="#uu" hand="#author">ten</hi>Jan: 1823</hi>
+               </dateline>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>Es ist ein wahrer Donnerschlag für mich daß Du <hi rendition="#u" hand="#author">nicht</hi> kommst. Alles war so schön
+                            und günstig eingerichtet daß es nicht besser <hi rendition="#u" hand="#author">gewünscht</hi> werden konnte. Der sichre <hi rendition="#u" hand="#author">Glaswagen</hi> der Dich für Kälte schütze, der vorsichtige und
+                    kluge <persName key="JP-011926">Kutscher</persName>, der, weil er uns kennt
+                    eine Sorgfalt für Dich gehabt hätte die ich von einem Freunde nicht besser
+                    erwarten kann. Es ist entsetzlich. Wir sind doch nicht so reich daß wir das Geld
+                    so muthwillig wegschmeißen können wie andere <hi rendition="#u" hand="#author">Große</hi>, mit denen Herr<persName key="JP-001608">Heine</persName> in Verbindung ist. Herr<persName key="JP-001608">Heine</persName> kann in allem was Ihn selbst betrift,
+                    seine Foderungen an uns bestimmen, aber wenn wir in der Art und Weise wie wir in
+                    den Nebendingen unsere Verbindlichkeiten und Oekonomie einrichten, nach unserer
+                    Lage und der Vernunft verfahren, hört seine Gewalt auf. <anchor type="target" xml:id="start_y54_1lk_gnb"/>Was ist
+                            denn noch an den  Maschinen zu ändern <hi rendition="#u" hand="#author">was
+                                    nicht in 4 Tagen gemacht werden könnte?<anchor type="target" xml:id="stop_y54_1lk_gnb"/>
+               </hi> Sie hätten
+                        <hi rendition="#u" hand="#author">mit dem Bett</hi> sollen
+                    zugleich eingerichtet werden.</p>
+            <p>Niemand kann gewis mit so vieler Redlichkeit, Billigkeit und Achtung für Herrn
+                        <persName key="JP-001608">Heine</persName> verfahren, als ich es gethan und
+                    empfunden habe – allein solche Schwächlinge können wir nicht sein, die sich von
+                    Launen regieren lassen. Es war alles bestimmt – Deine Zeit ist um –
+                        Herr<persName key="JP-001608">Heine</persName> Selbst hat
+                    nur um einen Aufschub von einigen Wochen gebeten, und wenn auch noch 5 Tage an
+                    dem Termin fehlten, so ist dies zu unbedeutend als daß
+                    deswegen eine Weigerung bei einer solchen Reise, die <hi rendition="#u" hand="#author">mir</hi>
+               <hi rendition="#uu" hand="#author">Gesundheit</hi> und <hi rendition="#uu" hand="#author">Kosten</hi> erspart gelten
+                    könnte. Ich die ich jeden Augenblick <hi rendition="#u" hand="#author">Zeit</hi> so werth halte, die an Zahn
+                            und Augenweh von der vorigen Reise so gelitten hatte, ich war auch zu berücksichtigen für alle meine
+                    Liebe und Güte gegen das <persName key="JP-001608">Heinesche</persName>
+                    Haus!</p>
+            <p>
+               <anchor type="target" xml:id="start_dbn_m13_gnb"/>Eben so wenig
+                    erlaube ich, daß Du Dir ein weißes Kleid kaufst, und beim <hi rendition="#u" hand="#author">Schneider</hi> machen läßt. <hi rendition="#u" hand="#author">Ich befehle Dir</hi>, ein der <persName key="JP-003471">Emma</persName> ihrem, ähnliches wovon die Elle 41 xr kostet, wie ich schon gesagt zu kaufen (Ziehe die
+                        <persName key="JP-012608">Durouf</persName> zu
+                    Rathe) und es <hi rendition="#u" hand="#author">ungemacht</hi>
+                    mitzubringen. Warum soll ich auch hier wieder Geld wegwerfen, da alle unsere
+                    Kleider, der <persName key="JP-003471">Emma</persName> ihre, so vorzüglich schön
+                    sitzen, daß sie Bewunderung erregen? Bist Du hier, so nehme ich, wenn ja fremde
+                    Hülfe nöthig wäre, die <persName key="JP-012360">Eberhardine</persName>,
+                    die alles für die vornehmsten Damen macht. Ist der Battist gekauft, so
+                    tausche ihn wieder aus.<anchor type="target" xml:id="stop_dbn_m13_gnb"/>
+            </p>
+            <p>Es waren 10 Kr.th. im Wagen, bezahle nun die <persName key="JP-012608">Durouf</persName>. ich kann nicht recht lesen
+                    sind es 11 – oder 14 fl. Ersteres wäre nicht zu theuer. Halte Dein Geld
+                    zusammen, und  gib nichts weiter aus, als was Du für Wäsche und
+                    Lichter etwa brauchst und kaufe gar nichts  entbehrliches.</p>
+            <p>Es thut mir unendlich leid, daß die Lesung dieses Briefes Dich traurig machen
+                    wird, aber jeder Mensch von Gefühl muß gerührt davon werden, wie ich alles so
+                    schön und klug eingerichtet hatte, mir zu Weihnachten und Neujahr jedes
+                    Vergnügen versagt hatte, um nur <hi rendition="#u" hand="#author">für</hi>
+               <hi rendition="#u" hand="#author">Dich</hi>, und gleichsam um Dich
+                    auszulösen, gesorgt habe. Will Herr<persName key="JP-001608">Heine</persName> Dich etwa
+                    nicht eher reisen lassen ehe er seine Rechnungen bezahlt bekommen hat, so eile sie uns zu verschaffen – Er soll augenblicklich die Zahlung erhalten.</p>
+            <p>Verzeih meine Heftigkeit, ich kann nichts mehr sagen, denn ich bin wirklich tief
+                    verletzt daß man  den
+                        Eltern, solche Geringschätzung entgegensetzt. </p>
+            <closer>
+               <signed>Ewig Deine treue Mutter.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

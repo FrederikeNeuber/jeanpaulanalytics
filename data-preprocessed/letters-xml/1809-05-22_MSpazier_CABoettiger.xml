@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0609">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Carl August Böttiger. Leipzig, 22. Mai 1809, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1809-05-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000400">Carl August Böttiger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-011937">Kunst</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig 22 May 1809</dateline>
+            </opener>
+            <p>Ew. Wohlgebohren haben sich bereits vor einigen Monaten allzu lebhaft für die neue <bibl sameAs="JP-010375" subtype="werk">
+                  <ref target="JP-UB0552/#nvyl_shk_flb">Urania</ref>
+               </bibl> intereßiert, als daß ich nicht den Muth in mir
+                    fühlen sollte Sie in dieser Hinsicht um eine neue Gefälligkeit zu ersuchen. </p>
+            <p>Herr Maler <persName key="JP-011903">Hartman</persName>
+                            schreibt mir, daß es mir nur ein Wort kosten würde, um Ew. Wohlgebohren zu bewegen aus
+                    Ihrem <bibl sameAs="JP-012406" subtype="werk">Museo Pio Clementino</bibl>von dem Blatte der <bibl sameAs="JP-010375" subtype="werk">Urania</bibl> eine Kopie nehmen zu laßen, die<persName key="JP-000501">Herr Brockhauß</persName> als Titelvignette zu benutzen wünscht. Ich schmeichle mir mit der Hoffnung daß Ew.
+                    Wohlgebohren geneigt seyn mögten diesen Kupferstich, dem Herrn Maler <persName key="JP-011903">Hartman</persName> auf kurze Zeit anzuvertrauen, und habe die Ehre mit der größten Verehrung</p>
+            <p>zu verharren</p>
+            <closer>
+               <signed>Ihre ganz ergebensteM. Spazier</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

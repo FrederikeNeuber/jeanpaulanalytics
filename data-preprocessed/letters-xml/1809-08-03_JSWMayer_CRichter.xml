@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0527">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Mayer an Caroline Richter. Berlin, 3. August 1809,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1809-08-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 3. August 9.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Abermals haben Sich zwey unserer Briefe gekreutzt. ich melde Dir jetzt nur zu
+                    Deiner Beruhigung, den Empfang des
+                            Deinigen mit der Weste. Sie hat mir viel Vergnügen gemacht.
+                    Doch behalte ich mir vor, Dir gegen künftiges Jahr die Circumferentz meines Bauchs zu übersenden, um die Linie zu treffen,
+                    die Deine Stickereyen haben müßen, wenn sie ihren gehörigen effect machen sollen.</p>
+            <p>Die beyden Briefe denen Du erwehnst, u die Du Reisenden mitgegeben hast, habe ich nicht
+                    erhalten, worüber aber 2 1/2 Monathliches scheinbares Stillschweigen von Deiner
+                    Seite entstanden war.</p>
+            <p>Jetzt füge ich nur noch die Berechnung über <ref target="JP-UB0270" type="letter">die für Dich erhobnen Gelder bey</ref>; und erwarte Assignation, wie Du willst auf das berechnete Courant, oder auf reductions
+                    mäßiges Gold.</p>
+            <p> Daß <persName key="JP-999999">Dein
+                                Mann</persName> u Kind wiederhergestellet ist, freuet
+                            mich. Das Ende der öffentlichen Leiden
+                    muß man abwarten, und wird ja auch alle Tage abgestumpfter, bis die höchste Noth
+                    Verzweiflung hervorbringen, und wieder Blut ins Hertz treten wird.</p>
+            <p>
+               <persName key="JP-004106">Julius</persName> ist noch nicht hier. – Lebe wohl; grüße <persName key="JP-999999">Deinen Mann</persName>, u küße <persName key="JP-003483">Deine
+                        Kinder</persName>.</p>
+            <closer>
+               <salute>
+                  <persName key="JP-002709">Die Mutter</persName> grüßt
+                        hertzlich.</salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+            <postscript>
+               <p>Heute ist großer Jubel in <placeName key="JP-005586">Berlin</placeName> zur Feier des <persName key="JP-001187">König</persName>lichen Geburts Tages. Besonders werden die Armen
+                        gespeiset.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0483">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Richard Otto Spazier an Caroline Richter. Leipzig, 29. Oktober
+                    1823, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004107">Richard Otto Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1823-10-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Liebe Tante!</salute>
+            </opener>
+            <p>Schon vorgestern Abend bin ich hier in <placeName key="JP-005948">Leipzig</placeName> glücklich angekommen und befinde mich jetzt schon wohlbehalten nebst allen
+                    meinen Sachen, die meinem Fortkommen nicht das geringste Hinderniß in den Weg
+                    legte, sondern im Gegentheil zu meinem bequemen Sitzen im Wagen das Ihrige
+                    beitrugen, auf meinem Winterzimmerchen vor meinem Schreibpulte, von welchem aus
+                    dieser Brief, so Gott will, bald zu
+                        Ihnen gelangt. Ich wollte freilich lieber, ich könnte mich selbst in
+                    ein Couvert einsiegeln und selbst auf die Post geben, um statt des Briefs in <placeName key="JP-005574">Baireuth</placeName> einzulaufen; der Herr Graf Sperling von Spazenberg will aber dem Herrn Stud. juris Richard Otto Spazier zu <placeName key="JP-005948">Leipzig</placeName>, (welche beiden Chargen in bekanntlich bekleide) solches nicht erlauben,
+                    und da muß freilich der Student seiner Exellenz gehorchen. – Man kanns aber
+                    wahrlich dem Studenten nicht verdenken, daß er solche Wünsche hegt; denn
+                    anstatt, daß er vor wenig Tagen noch Abends der hinter den schönen Bergen
+                    untergehenden Sonne ins liebende Auge schaute, kukt er jetzt seinen Nachbarn
+                    gegenüber in die Öllampen und sehnt sich auf seinen Zimmer nach den herrlichen
+                    Menschen, die er zurückgelassen bei den Bergen und bei der Sonne; – hier hat er
+                    Niemand, der sich viel um ihn schert. – Aber warum verwöhnt  er sich
+                    auch gleich an Alles, Student, sagt der Graf; früher hat’s Ihm ja in <placeName key="JP-005948">Leipzig</placeName> recht gut gefallen; – aber so gehts, wenn man Leuten von Seinem  Gelichter Gutes geniesen läßt; – gleich wollen sie es immer haben; man
+                    muß sich zu deteriren wissen in seiner Sphäre." – der
+                    gute Graf; – man hörts ihm an, daß er vom Hofe ist. –</p>
+            <p>Ein Umstand ist’s besonders, liebe Tante, der mir beide Reisetage sehr trübte;
+                    die Sorge nämlich um die gute <persName key="JP-003471">Emma</persName>; – mein Kutscher erzählte mir nämlich, als wir schon 4 Stunden von
+                        <placeName key="JP-005841">Hof</placeName> waren, erst, daß der <placeName key="JP-005574">Baireuther</placeName> Kutscher erst den folgenden Tag
+                    zurückfahren und die <persName key="JP-003471">Emma</persName> in <placeName key="JP-005918">Konradsreuth</placeName> nicht abholen
+                    würde; – die Vorstellung von Ihnen Allen und besonders der <persName key="JP-003471">Emma</persName> Angst, und das Gefühl, die Sache nicht mehr ändern zu können,
+                    drückte mich fürchterlich; ich hätte meinen Kutscher beinah prügeln können, als
+                    er seine Freude über meinen Ärger nicht verbarg; – Mich tröstete nur der
+                    Gedanke, daß <persName key="JP-011923">Frau von Reizenstein</persName>
+                    vielleicht die <persName key="JP-003471">Emma</persName> würde fahren lassen; ich bin sehr neugierig zu erfahren, wie Alles noch
+                    geworden ist. –</p>
+            <p>Von der <persName key="JP-004393">Mutter</persName> fand ich bereits einen Brief und das Nöthige vor; – ihre Genesung geht vorwärts Gott bei Dank, wenn
+                    auch langsam; – <persName key="JP-000009">Minona</persName> ist jetzt ganz bei ihr und von ihrer  Pflege erwartet sie Alles;
+                    so werden hoffentlich auch von dieser Seite unsre Besorgnisse bald aufhören; –
+                    mit den Geshäften des <persName key="JP-004390">Uthe</persName> scheint es aber nicht nach Wünshen zu gehen; – die <persName key="JP-004393">Mutter</persName> wird Ihnen wohl auch darüber schreiben.
+                    –</p>
+            <p>
+               <persName key="JP-002583">Mahlmann</persName> ist von seinem Gute noch nicht wieder zurück; ich habe daher zu ihm nicht zu gehen gebraucht,
+                    was mir höchst angenehm war. – <persName key="JP-004170">Stieglitz</persName> und <persName key="JP-001420">Grosse</persName> sind auch von ihrer Reise noch nicht zurück, mein Stubencammerad auch
+                    nicht, eben so die wenigsten von meinen Freunden; – ich entbehre daher allen
+                    nähern Umgang; – da
+                    mein
+                    Instrument auch noch nicht da ist, so sind mir die
+                    mitgenommenen Bücher doppelt werth, wofür ich Ihrer Güte, liebe Tante, nicht
+                    genug danken kann; – ich exerpire daraus shon nach des guten <persName key="JP-999999">Onkels</persName> Rathe tüchtig; – mit dem Wassertrinken
+                    will es aber noch nicht recht gehn; aller Anfang ist ja aber schwer; es wird
+                    wohl werden. –</p>
+            <closer>
+               <salute>Mit dem unaussprechlichsten Dank für Ihre unendliche Liebe und Güte, mit
+                        der Sie mich während meines so glücklichen Aufenthalts bei Ihnen
+                        überhäuften, mit den herzlichsten Grüßen an den herrlichen <persName key="JP-999999">Onkel</persName> und mit der innigsten Bitte um gütige
+                        Nachricht von Ihnen Allen bleibe ich</salute>
+               <signed>Ihr Sie innig liebender dankbarer Neffe Richard Spazier</signed>
+               <dateline>Leipzig den 29tenOctbr 1823. Großes Joachimsthal in d Hainstraße 2 Treppen hoch.
+                        –</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

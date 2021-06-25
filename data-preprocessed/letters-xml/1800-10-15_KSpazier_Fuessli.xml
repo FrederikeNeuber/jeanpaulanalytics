@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0827">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Johann Heinrich Füssli. Leipzig, 15.
+                    Oktober 1800, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1800-10-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-013120">Johann (Hans) Heinrich Füssli</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012547">Zeitschriften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig 15terOctober 1800</dateline>
+            </opener>
+            <p>Erlauben Sie, sehr hochgeschätzter Herr Füßli, daß ich den Brief, den ich hier von Seiten des Herrn Vorstands Ihrer <persName key="JP-013172">Kunst- u
+                        Buchhandlung</persName> erhalte, benutze um mich wegen meiner <bibl sameAs="JP-009809" subtype="werk">Zeitung für die elegante Welt</bibl>, wovon
+                    Sie vermuthlich eine öffentliche Anzeige gesehen haben werden, an Sie besonders
+                    adressire. Es ist wohl Niemand, an den ich mich wegen meines Bedürfnisses nach
+                    Kunstnachrichten aus der <placeName key="JP-006271">Schweiz</placeName> mit
+                    mehrerem Zutraun wenden könnte, als Sie.</p>
+            <p>Ich schweige von dem Grund dieses meines Zutrauens, um Ihrer Bescheidenheit, die
+                    immer den ächten Künstler wie den bedeutenden Menschen überhaupt auszeichnet,
+                    nicht zu nahe zu treten.</p>
+            <p>
+               <bibl sameAs="JP-009809" subtype="werk">Mein Blatt</bibl> soll nur dem eigentlich
+                    vornehmen und begüterten Theile des Publikums von den Ereignißen, von den
+                    Fortschritten u Produktionen im Gebiete der Künste periodisch u schnell
+                    Nachweisung geben, wie auch von Büchern, welche  das moralische u
+                    artistische Schöne zum Inhalt haben. Es ist mir also sehr viel daran gelegen,
+                    wie auch Kunsthandlungen u, Künstlern u Schriftstellern selber daran ebenfalls
+                    gelegen seyn muß, daß mir schnelle u gründliche, wahre Nachrichten von alle dem
+                    Zukommen, was sich im Gebiete des Schönen ereignet. Ich wünsche also eine Art
+                    von Vertiefungen dieser Art unter uns, die Ihnen selber wo möglich Freude u im
+                    geringsten keine andre Unbequemlichkeit, als einige Bemühung zum Besten Ihres
+                    armen Vaterlandes in artistischer Hinsicht mache.  Wollten
+                    Sie wohl so geneigt seyn, u mir die Ehre gönnen, Sie unter meine Korrespondenten
+                    nehmen zu können? Ich meine so, daß Sie mir recht fleißig von dem Merkwürdigsten
+                    in obiger Bedeutung einen, u zwar durch Ihre schätzbare <hi rendition="#u" hand="#author">Urtheile</hi> bekräftigten periodischen Brief
+                    erstellen u, wenn es seyn kann, zugleich ihre u weitere Sachen, von welchen die
+                    Rede ist,  bloß zum jeweiligen kurzen Gebrauch, mit zukommen laßen. So
+                    habe ich bereits <bibl sameAs="JP-013277" subtype="werk">das Leben des Herrn
+                        Heß</bibl> in Händen. Wenn Sie erlauben, werde ich
+                            mein Publikum zu seiner Zeit mit der Erscheinung u dem Inhalte desselben
+                            näher, wenn auch nicht weitläufig, bekannt machen. Und so
+                    wünsche ich es mit mehreren Dingen. Also was nur irgend in das Fach der Künste u
+                    des guten (warum nicht auch schlechten?) Geschmacks einschlägt, soll mir lieb u
+                    angenehm seyn, wenn ich es, mit begleiteten Urtheilen, aus Ihrer Hand erhalte,
+                    auf welche ich mich sehr gut verlaßen kann.  Wollen Sie
+                    sich noch in weiterer Hinsicht für mich interessiren, u mir unter Ihren guten
+                    Schweizerköpfen einen geschickten, partheylosen Korrespondenten auswirken, der
+                    mir zu Zeiten Auskunft gebe über das eigentlich <hi rendition="#u" hand="#author">innere</hi> Schicksal Ihres ursprünglich
+                    herrlichen <placeName key="JP-006271">Vaterlandes</placeName>, das ich seit meiner Reise zärtlich liebe, von dem  Einfluße Ihrer beschwerlichen Gäste auf Ton u Sitten, von Sachen des Luxus u
+                    der Mode, die denn doch einmal dem Elende auf den Fuß nachzufolgen, ja es mit
+                    demselben sogar aufzunehmen pflegten, vom Zustand der Musik in der <placeName key="JP-006271">Schweiz</placeName> u was so weiter zum Genuß der großen u
+                    verderbten Welt gehört, so werden Sie mich sehr verbinden.</p>
+            <p>Haben Sie die Güte mit Ihren Nachrichten noch vor der Ausgabe meiner ersten
+                    Blätter, die mit dem neuen Jahr herauskommen werden, den Anfang zu machen, damit ich mit etwas Seltenerem u nicht Gewöhnlichen
+                            gleich hervortreten könne u laßen Sie uns
+                    überhaupt durch etwas Gutes zu etwas Gutem uns verbinden!</p>
+            <closer>
+               <salute>Viel herzliche Grüße dem armen, lieben  den ich, wie Sie ihm sagen mögen, nie
+                        vergessen habe u dem ich, wenn er je von uns will u muß, eine <hi rendition="#u" hand="#author">glückliche Reise</hi> wünsche!
+                        Auch bitte ich Pfarrer Heß u die lieben beiden
+                            Toblers, wenn sie noch unter Ihnen sind,
+                        herzlich von mir zu grüßen.  Ich emfehle mich u meine
+                        Angelegenheit zu gütigem Andenken.</salute>
+               <signed>Spazier.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

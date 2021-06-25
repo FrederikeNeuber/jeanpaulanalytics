@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1066">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Stephan Schütze an Johann Ernst Wagner. Weimar, 5. Januar 1809,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003908">Stephan Schütze</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+               <date when="1809-01-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Erlauben Sie, mein hochgeehrtester Herr, daß ich schriftlich Ihre Bekanntschaft
+                    mache. Sie Ihrer Seits sind durch Ihre geistvollen Produkte schon längst meinem
+                    Herzen ein willkommener Freund. Und mündlich kenne ich Sie durch unsern
+                        <persName key="JP-013109">Fernow</persName>, deßen
+                            Verlust wir
+                    leider zu früh betrauern müssen. Er hat mir von Ihnen und Ihrem gemeinschaftlichen Beisammensein in <placeName key="JP-005956">Liebenstein</placeName> viel erzählt, und gemacht, daß ich Sie
+                    noch lieber gewonnen habe. Diese Achtung theile ich hier mit mehrern andern, die
+                    meine Freunde sind. Meiner Seits möchte ich mich nun am liebsten auf <persName key="JP-013109">Fernow</persName> berufen, um mich bei Ihnen einzuführen,
+                    wenn er nur noch lebte! Aber vielleicht hat auch das Andenken an den
+                    Verstorbenen diese Kraft, und allerdings traue ich diese Wirkung auch
+                    entfernten, abgeschiedenen Geistern zu, deren Gedanken hienieden immer ein Band
+                    bleiben für getrennte Herzen, für welche sie gleichsam die Sprache führen. – –
+                    Tausend Wünsche für Ihr Wohlergehen! Möchten doch alle Besorgniße für Ihre
+                    Gesundheit schwinden! Laßen Sie mich etwas zur Beruhigung darüber hören! – –
+                    Vielleicht giebt mir 
+                    ein kleines Geschäft – der kürzlich erhaltene Auftrag, künftig die Herausgabe
+                    des <bibl sameAs="JP-010364" subtype="werk">Taschenbuches der Liebe und
+                        Freundschaft</bibl> zu besorgen – Gelegenheit zu einer nähern Verbindung mit
+                    Ihnen. Ich wünsche es recht sehr. Da ich Hofnung habe, etwas dazu von <persName key="JP-001353">Göthen</persName> zu bekommen, so möchte ich auch gern für
+                    ihn eine  Nachbarschaft haben, die seiner würdig ist. Ihre Schriften
+                    beweisen, wie genau, wie tief Sie das weibliche Herz kennen. Liebe und
+                    Freundschaft ist also ein Gegenstand, der sich am ersten von Ihnen seine
+                    Bemerkungen, Belehrungen und Rathschläge versprechen dürfte. Haben sie die Güte,
+                    mir solche mitzutheilen, mag es aphorisisch in einzelnen Sätzen oder in
+                    Abhandlungen oder in Briefen geschehen. Oder wollen Sie mir eine kleine
+                    Erzählung zukommen laßen, so wird es mir eben so lieb sein. Es wird mir und
+                    meinen Freunden einen großen Genuß gewähren. Geben sie der Liebe einen Trost,
+                    der Freundschaft einen Führer! Es ist doch schön, in den Herzen anderer zu
+                    leben. In diesem Gedanken erquickt uns eine Ewigkeit. Wie wir des gemeinsamen
+                    Lichts uns freuen, so laßen Sie Ihren Geist wirken, so lange es Tag ist, – – und
+                    niemals müsse es für Sie, für uns Abend werden! – Nur Gutes, nur Erfreuliches
+                    wünsche ich von Ihnen zu hören.</p>
+            <p>Vielleicht hat auch Sie die Nachricht von <placeName key="JP-006395">Weimar</placeName> beunruhigt, daß <persName key="JP-001353">Göthe</persName> die Direction des <placeName key="JP-011695">Theaters</placeName> niederlegen würde, welches in
+                    Rücksicht der Kunst, wofür auf unserm Theater so manches geschah, gewiß sehr zu
+                    beklagen wäre; aber jetzt kann ich Ihnen melden, daß
+                            alle Mißverständniße aufgehellt sind, und daß <persName key="JP-001353">Göthe</persName> auf seinem Posten bleibt, für welchen er nun seine
+                    Thätigkeit wohl verdoppeln wird. Leider geht aber noch manche nachtheilige
+                    Veränderung an unserer Bühne vor, denn ich höre, daß
+                            Becker den Abschied genommen hat, was mir sehr unlieb
+                    ist. Möchte doch auch dieses noch beigelegt, u alle Stöhrung im Kunstgenuß
+                    aufgehoben werden! Dieses hoffe ich eben so sehnlichst, als ich Ihnen zum Besten
+                    der Kunst ein noch recht langes, frisches Leben wünsche. Voll Hochachtung nenne
+                    ich mich</p>
+            <closer>
+               <signed>den Ihrigen St. Schütze</signed>
+               <dateline>Weimar den 5<hi rendition="#u" hand="#author">ten</hi> Jan. 1809.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

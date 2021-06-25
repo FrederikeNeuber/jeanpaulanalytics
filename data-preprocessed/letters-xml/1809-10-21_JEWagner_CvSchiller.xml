@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0911">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Charlotte von Schiller. Meiningen, 21. Oktober
+                    1809, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1809-10-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003735">Charlotte (von) Schiller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012590">Bittschreiben</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#author">
+            <opener>
+               <dateline>Meiningen den 21<hi rendition="#uu" hand="#author">n</hi>Oct. 1809.</dateline>
+               <salute>Meine gnädige Frau!</salute>
+            </opener>
+            <p>Dank, den innigsten Dank meines Herzens Ihrer Gnade und
+                    Güte für mich! Überrascht von dem prachtvollen
+                            Geschenke<persName key="JP-002628">der hohen reinen Maria</persName>, stand ich an, ob
+                    ich es wagen dürfe, Ihrer Kaiserlichen Hoheit schriftlich ein Wort von
+                    meiner so tiefen Rührung vorzutragen – ach, verzeihen Sie dieß dem Ungeübten! Wir sind, in dieser Zeit, des prosaischen
+                    Lebens so gewohnt geworden, daß wir stets selbst fürchten, mit unsern poetischen
+                    Worten am Throne der Grossen unwillkommen zu seyn. Aber, ein so hohes Ideal von
+                    der zartesten und reinsten Weiblichkeit wird auch die armen herzlichen Dankworte
+                    eines treuen Menschen Ihres höchsten Blickes zu würdigen nicht verschmähen; Ihre schönen Worte über <persName key="JP-002628">die Erhabne</persName> bürgen mir dafür – und so wage ich
+                    es, Ewr. Hochfreiherrlichen Gnaden um gnädige
+                    Überreichung der Innlage unterthänig zu bitten, an welcher nur der Homeruskopf mangelt, dessen
+                    gnädiges Aufdrücken Ihre Hand, gnädige Frau, gewähren
+                    möge!</p>
+            <p>Ach, ich wollte es einst wagen, <persName key="JP-002628">die allverehrte
+                        Großfürstin</persName> anzuflehen, durch Höchstihre Huld den kleinen Cyklus meiner ländlichen Romane dem herrlichen erhabnen Kaiser des Nordens, oder der allerhöchsten kaiserlichen Mutter zu Füssen legen zu
+                    dürfen. Vielleicht – so hoffte ich – wären meine darin für die Menschheit dargestellten Ideen in <placeName key="JP-006217">jenem
+                        grossen Reiche</placeName> eher zur Ausführung geeignet gefunden worden, als
+                        <placeName key="JP-005668">in meinem Vaterlande</placeName>, wo sie, ausser
+                    einer freundlichen Aufnahme, nichts gewinnen konnten – ach, vielleicht wären
+                    sogar durch die Gnade jenes großmüthigsten aller Höfe eine Paar hundert Rubel
+                    Pension für <persName key="JP-004551">meine Wittwe</persName> und <persName key="JP-004557">Kinder</persName> zugefallen, die
+                            ich nun bald, schweren Herzens – arm und ehrlich verlassen
+                            soll – –; doch, ich habe,
+                    aus stiller Furcht, diese Idee bald aufgegeben. Es ist ein
+                    guter Gott, an den ich <hi rendition="#uu" hand="#author">fest</hi>
+                    glaube; der den Guten und die, welche er liebt, <hi rendition="#u" hand="#author">noch</hi>
+               <hi rendition="#u" hand="#author">nie</hi> verlassen hat. Er wird
+                    auch <persName key="JP-013219">die Meinigen</persName> nicht dem Elende zur
+                    Beute dahin geben, wann seine heilige Hand mich nun dahin nimmt! – Und jene
+                    werthen, ewig theuren Gedanken, die ich in meine Gedichte – als das Beste meines
+                    Lebens – verwebte – o Er wird sie nicht untergehen, sondern einst wiederfinden
+                    lassen, sey es im <placeName key="JP-006217">fernsten Osten</placeName>, oder im
+                        <placeName key="JP-005668">trauten Vaterlande</placeName> – und so werfe ich
+                    sie </p>
+            <p>"schweigend in die unendliche
+                                Zeit!"</p>
+            <p>Ach heilige Worte <persName key="JP-003737">
+                  <hi rendition="#u" hand="#author">des</hi>
+                  <hi rendition="#u" hand="#author">Unvergeßlichen</hi>
+               </persName>, wie könnte ich Euch der Edlen verschweigen, die
+                    Ihn liebt! Verzeihung – Verzeihung! Aber, ich ver- mag es nicht, einem
+                    Herzen zu gebieten, das Ihn – nicht so würdig, aber wahrlich heisser als jedes
+                    andere that, liebte – Eins ausgenommen – ach, gute, verehrte Frau, wohin gerathe
+                    ich – o nehmen Sie mich unter Ihre Freunde auf, so darf
+                    ich Ihn einst noch heisser lieben! Stille, meine Seele!</p>
+            <p>Das fortwährende Übelbefinden
+                    unsers
+                    verehrten Herrn Geheimenraths von W. macht mir so tiefen
+                    Kummer! O Gott, warum eilst Du so sehr mit den Guten und Treuen – während die
+                    Bösen Zeit und Raum die Fülle für ihre Thaten gewinnen!</p>
+            <closer>
+               <salute>Leben Sie froh – fröhlich in Gott, meine herrliche verehrte gnädige
+                            Frau! Ewig</salute>
+               <signed>Ewr. Hochfreiherrlichen
+                                Gnaden unterthänigtreuer JEWagner</signed>
+            </closer>
+            <postscript>
+               <p>Verzeihung für diese Zeilen in  Ihr Buch des Andenkens, Gute!
+                         Verschmähen Sie nicht ein reines  Herz! –
+                        Verzeihung!</p>
+            </postscript>
+         </div>
+         <div n="2" hand="#author">
+            <opener>
+               <salute>An des edlen Schillers edle Gattin, 21<hi rendition="#uu" hand="#author">n</hi>Oct. 1809. —</salute>
+            </opener>
+            <p>
+               <table rows="4" cols="1">
+                  <head/>
+                  <row>
+                     <cell>Die Du einst <hi rendition="#u" hand="#author">
+                           <persName key="JP-003737">Ihn</persName>
+                        </hi> zum Gatten
+                                Dir erkorst,</cell>
+                  </row>
+                  <row>
+                     <cell>Der offne Himmel nur schliesst Deines Jammers Quellen zu,</cell>
+                  </row>
+                  <row>
+                     <cell>O theure, thränenwertheste von allen Wittwen Du,</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Wer kannte jemals mehr, als Du verlorst!</p>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <signed>Joh. Ernst Wagner.—</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

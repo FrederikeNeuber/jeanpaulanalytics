@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0271">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 14. Juni 1822, Freitag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-06-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Freitag den 15<hi rendition="#uu" hand="#author">ten</hi> Juni</dateline>
+            </opener>
+            <p>Geliebte Odilie! Lange habe ich nichts von Dir gehört.
+                    Freilich habe ich Deinen letzten Brief nicht beantwortet,
+                    allein ich müßte <hi rendition="#u" hand="#author">jede andere</hi>
+                    als meine Hauptbeschäftigungen unterlassen, und kann erst <hi rendition="#u" hand="#author">heute</hi> sagen: nun bin ich fertig. Diesmal
+                    dauerte das Arbeiten länger, und war mühsamer als je. Woher es kommt, weiß ich
+                    nicht. Alles Wiederwertige und Entgegnende vereinigte sich um meine Geduld auf
+                    die härtesten Proben zu setzen. Abends wenn ich zu Bett war dachte ich innig an
+                    Dich, und wie es Dir wohl gehen möchte. Doch hatte ich es nicht übers Herz
+                    bringen können, Dir <hi rendition="#u" hand="#author">nicht</hi> zu
+                    schreiben, wenn ich nicht in der Dich so weich erfreuenden Kiste, einen
+                    Beruhigungsgrund für mein Herz gefunden hätte. Sage uns nun sogleich es Dir geht
+                    mein theures Kind, und das mit aller Wahrheit und Offenheit die sich gehört.
+                    Jetzt kann auch einigermaaßen eine Veränderung mit Deinem Körperbau vorgegangen
+                    sein, auch <hi rendition="#u" hand="#author">das</hi> melde mir.</p>
+            <p> Laße in Gottes Namen einen Uberrock aus einem Kleide machen, wenn es
+                    geht, und schneide Deine Hemden auf, es muß alles geschehen was zweckmäßig für
+                    Deine Bequemlichkeit und Dein Wohl ist. Bald wird Eines von uns Dich besuchen.
+                    mein geliebtes Leben, darauf verlasse Dich.</p>
+            <p>
+               <ref target="JP-UB0429/#njtq_l25_wlb">Heute soll
+                                der <persName key="JP-999999">Vater</persName>
+                            kommen</ref>. Wie würdest Du alles stellen
+                    und ordnen damit er nichts vermisse – ich thue es auch – aber <persName key="JP-003471">Emma</persName> ist in <placeName key="JP-005918">Konradsreuth</placeName> um mit ihm zurückzufahren, und daher muß ich mich
+                    auf mich selbst verlassen. Seit 14 Tagen hatte der
+                                <persName key="JP-999999">Vater</persName> nicht
+                            geschrieben, wie wird es sein, wenn er kömmt, mir ist
+                    ordentlich bange vor dem Augenblik.</p>
+            <p>
+               <persName key="JP-001671">Herder</persName> besuchte mich heute mit seiner
+                        <persName key="JP-001679">Frau</persName> die mir sehr gefällt. Er war so
+                    gut und scheint einen innigen Umgang zwischen uns zu wünschen. Sie ist so klein
+                    wie die <persName key="JP-012614">Dieterich</persName>. 
+                    Unsre gelbe große Stube ist nun grün. Des <persName key="JP-999999">Vaters</persName>
+               <hi rendition="#u" hand="#author">Ofen</hi> habe ich heute gemalt
+                    und er sieht hübscher aus, als der unsrige jemals <hi rendition="#u" hand="#author">sonst</hi> war. Bald werde ich Dein Postgeld
+                    schicken. Ich drücke Dich meine geliebte Tochter an mein Herz, liebe Deine treue
+                    Mutter.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

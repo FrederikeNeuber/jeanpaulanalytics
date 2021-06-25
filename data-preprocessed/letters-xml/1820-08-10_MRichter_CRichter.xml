@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0507">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. München, 10. August 1820,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1820-08-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>M. am 10ten Aug. 1820.</dateline>
+               <salute>Theuerste Mutter!</salute>
+            </opener>
+            <p>
+               <ref type="letter" subtype="document" target="4-VIII_60">Der gestrige Brief</ref> fiel mir hart und nur im
+                            Vertrauen, Dir gehorsam zu sein, unternehme ich die Reise. Tausend
+                    Dank für den heutigen <ref type="letter" target="JP-UB0771">Brief</ref>. <persName key="JP-000587">Carové</persName> ist schon
+                    längst fort; er zog mich sehr mit nach der <placeName key="JP-006271">Schweiz</placeName> u einmal war ich ganz dazu entschlossen. Doch ich
+                    könnte Dich nicht wiedersehen u Euch alle, ihr Sorgsamen. <placeName key="JP-005819">Heidelberg</placeName> wäre dann der nächste Weg gewesen.
+                        <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0771/#start_ynz_13n_wnb">Den Brief von derSchuckmann schicke ich also nach
+                            <placeName key="JP-005819">Heidelberg</placeName>.</ref>
+               <persName key="JP-004281">Thiersch</persName> geht mit seiner <persName key="JP-004280">Frau</persName> Mittwoch statt nach <placeName key="JP-005872">Italien</placeName> nach <placeName key="JP-005791">Gotha</placeName>, <placeName key="JP-005687">Dresden</placeName>,
+                        <placeName key="JP-005586">Berlin</placeName> p, auf der Rückreise nach
+                        <placeName key="JP-005574">Baireut</placeName>. (Vielleicht) Morgen also trete ich eine Reise an, die mir wegen
+                    der außerordentlichen Entfernung von Euch u dem Alleinsein etwas störend wird.
+                    Doch meine Hände in Gott befohlen u <persName key="JP-002139">Klopstocks</persName> himmlische Oden in der Hand singe ich auf den
+                        <placeName key="JP-005518">Alpen</placeName>. <persName key="JP-000177">Baader</persName>, u <persName key="JP-003771">Schlichtegroll</persName>
+                    geben mir Empfehlungschreiben an <persName key="JP-012502">Weissenbach</persName>, dem bekannten Dichter (aber Pseudo-)
+                    mit nach <placeName key="JP-006230">Salzb</placeName>.
+                    Die Hitze ist gränzenlos. Lebt wohl, all ihr Theuren, bald unser Wiedersehen. Leb wohl, geliebter
+                        <persName key="JP-999999">Vater</persName>! Von <placeName key="JP-006230">Salzburg</placeName> aus soll euch ein freundlicher Brief Nachricht von mir geben. Grüße u Dank an die
+                    herzlichen Schwestern,
+                    an <persName key="JP-003087">Eman</persName>. u <persName key="JP-003112">Otto</persName>. Gott segne
+                    euch!</p>
+            <p>In Eile. </p>
+            <closer>
+               <signed>M. R.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

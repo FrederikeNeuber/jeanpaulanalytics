@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0668">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 14. und 15.
+                    Oktober 1815, Sonnabend und Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date from="1815-10-14" to="1815-10-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 14. 8.ber
+                        15.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>In der Hofnung, daß Du <ref type="letter" target="JP-UB0415">meinen letzten
+                        Brief</ref> erhalten haben, u nach Gelegenheit beantworten wirst, schicke
+                    ich Dir einstweilen anliegenden Rechnungs Abschluß
+                            über Deine Zinsen, u bitte Dich
+                    über die dem gemäß hiebey erfolgende 20 rthFridrichs d’or (die ich baar werde beyfügen müßen, wenn
+                    ich keine Assignation darauff erhalten, u Dir so das
+                        Porto ersparen kann) gelegentlich um Quittung.</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0415/#start_n4z_hck_mjb">Deinen Brief an <persName key="JP-002709">meine Frau</persName> hat <persName key="JP-012948">M<hi rendition="#u" hand="#author">me</hi> Fischer</persName> noch immer nicht wiedergefunden</ref>; u ich überlaße Dir, ob Du an
+                    seiner Stelle einen andern schreiben willst. <persName key="JP-002709">Meine
+                        Frau</persName>, die Dich grüßt, wünscht diß, unter ander auch wegen des
+                    Artikels der Schmaltz Butter.</p>
+            <p>Meine Zeit erlaubt mir heute nicht mehr zu sagen.</p>
+            <closer>
+               <salute>Lebe wohl. Gruß u Kuß an <persName key="JP-999999">Mann</persName> u
+                            <persName key="JP-003483">Kinder</persName>.</salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+         </div>
+         <div>
+            <opener>
+               <dateline>d. 15. 8.ber</dateline>
+            </opener>
+            <p>So eben erhalte ich Deinen lieben Brief.</p>
+            <p>ich behalte mir die Antwort darauf vor; u habe unmitteltst heute die Einlagen an <persName key="JP-004393">Minna</persName>
+                    gesendet.</p>
+            <p>Die Übersendung der 20 rth Fridr. d’or aber will ich lieber noch aussetzen, da ich wegen von <persName key="JP-002357">HerrnLangermann</persName> noch <persName key="JP-003203">Pfeiffer</persName> eine Assignation habe erhalten können.</p>
+            <p>Da Du doch eine Zahlung für Schmaltzbutter von hier einziehen mußt, so suche die
+                        Assignation auch auf obige 20 rth Fridr. d’or zu bewürken, so wird alles
+                    hier gezahlt.</p>
+            <p>
+               <persName key="JP-012720">M<hi rendition="#u" hand="#author">me</hi> Beseke</persName> wird Dir ein Andenken von <persName key="JP-012201">Ihrem
+                        Mann</persName> schicken. Sie hat Sich sehr Deines Wunsches gefreut. Es ist
+                    ein trefliches Weib. <table rows="0" cols="4">
+                  <row>
+                     <cell>Einnahme</cell>
+                     <cell>Gold</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>an <persName key="JP-003488">Richterschen</persName> Zinsen vom
+                                    1ten 8ber
+                                14/15</cell>
+                     <cell>44 rth,</cell>
+                     <cell>–,</cell>
+                     <cell>–</cell>
+                  </row>
+                  <row>
+                     <cell>Ausgabe</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>an Wittwen Pensions Beyträgen im Märtz u September
+                                15.</cell>
+                     <cell>24 rth</cell>
+                     <cell>–,</cell>
+                     <cell>–</cell>
+                  </row>
+                  <row rend="sum">
+                     <cell>Bestand</cell>
+                     <cell>20 rth</cell>
+                     <cell>–,</cell>
+                     <cell>–</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

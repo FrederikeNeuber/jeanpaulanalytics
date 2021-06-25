@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0608">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johanna Heim an Caroline Richter. Meiningen, 16. Januar 1810,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001604">Johanna Heim</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-01-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011840">Meininger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 16 Jan 1810</dateline>
+            </opener>
+            <p>So nahe ich immer mit meinem Herzen bey Ihnen geliebte Freunde! bin, so sehr
+                    wünsche ich Euch Edle Menschen nicht allein in Geist – sondern von Angesicht zu
+                    sehen, nichts hällt mich von diesen Entbehren schadlos alsIhre herrliche Briefe, die ich wenn
+                    ich bescheiden sein will nicht so oft erwarten kann.</p>
+            <p>Alle die Menschen die ich aus <placeName key="JP-005574">Bareuth</placeName>
+                    sehe, spreche – wißen nichts von Ihnen, als daß Sie da wohnen u sagen: ja es
+                    sind gar vortrefliche Leuthe wir kennen sie aber nicht – das genügt nicht.
+                    Diesen Brief schikke ich auch mit einem Juden der hier eine Glaubensge noßinn heyrathet, mir scheint dieser Jude doch weid gebildeter als unsere
+                    hiesigen, er bekomt ein artiges u. sehr gutmüthiges Mädchen u. recht reinlich
+                    artig und geschikt, die ich Ihnen empfelen will, sie verdient daß mann ihr gut
+                    ist, es war eine Freundinunserer Mädchen.
+                        <persName key="JP-001599">Mein Mann</persName> der sich Euch geliebte
+                    empfiehlt, befindet sich wohl nachdem er einen bösen Winter hatte der ihm mit
+                    Revmathismus endsezlich geplagt hat. jezt gehts wieder beßer u. er
+                    besteigt täglich seinen Berg.</p>
+            <p>Ich bin immer wohl und mache das alles so gut thut. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0608/#start_kyh_bxy_2lb">Meine
+                        Kinder</ref> wachsen auf, 2 Mädchen die Männer nehmen können habe ich, jede
+                    ist groß gut u. resp. auch schön, allein die Männer werden immer seldener die
+                    durch  Fleiß und Endlohnung einen eigenen Herd schaffen mögen.
+                        <persName key="JP-004556">Wagner</persName> geht noch immer seinen
+                    langsammen Gang, der Kopf und das Herz ist frisch und mann verweilt noch gerne
+                    an seiner Seite, seine Kinder wachsen herrlich empor,beide Junges wollen sich zu Künstler bilden. Aber mein Freund
+                        <persName key="JP-003149">Panzerbieder</persName>, der wakre der herrliche
+                    Kopf ist im Reiche der Todten sein Geist wandelt über Sternen – er starb an der
+                    Brustwaßersucht er sah seinen Todt mit schleppenten Schatten komen, wußte den
+                    Tag seines Todtes, kämpfte ritterlich zu erst als er über sich siegte –
+                    denn das Verlaßen <persName key="JP-013006">seiner Kinder 4</persName>
+                    – <persName key="JP-013019">seiner geliebten Frau</persName> – zu
+                    verlaßen die er alle so innig liebte – ach der Kampf war hart u. doch Gott
+                    trostete er stärkete ihn  nur er konnte seine Verlaßene <persName key="JP-013019">Frau</persName> aufrichten u. sie hinweisen auf
+                        göttliche Vorsehung der Fall war hart, er hinderlies <persName key="JP-013019">seine Frau</persName> mit <persName key="JP-013006">4 Unerzogene Kinder</persName> u keinen Heller
+                    Vermögen -. 2 älteste sind Knaben die jezt viel bedürfen die <persName key="JP-002546">Herzogin</persName> ist gütig u. will was thun mann rechnet
+                    viel auf edle Menschen <persName key="JP-003149">Panzerbieders</persName> Seegen
+                    wird noch auf sie kommen er war gut u. fromm. Ich habe viel gelitten, seid
+                    meinem 14 Jahr waren wir bekannt, u. nachher innige Freunde,Schwendlers verwenden sich viel um sie – ob v. Dauer
+                    –</p>
+            <p>Küßen Sie Ihren ganz <persName key="JP-999999">herrlichen
+                        Mann</persName> Ihre liebe <persName key="JP-003483">Kinder</persName> –
+                    Mondtags reisen die herrlichen in die
+                        <placeName key="JP-006271">Schweiz</placeName> – im September werden sie
+                    wieder erwardet. Wann machen Sie Ihr Versprechen wahr – wann kann ich hoffen Sie
+                    Ihren <persName key="JP-999999">Mann</persName> u. <persName key="JP-003483">Kinder</persName> zu sehen?</p>
+            <closer>
+               <signed>Ihre treue Freundin Heim</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-001605">
+                     <anchor type="target" xml:id="start_o33_qkm_4lb"/>Louise Heim</persName> ist wohl hergestellt, allein ihre
+                            völlige Gesundheit ist nicht wieder da<anchor type="target" xml:id="stop_o33_qkm_4lb"/>, immer liegt sie was – <persName key="JP-001603">der
+                                alte</persName> lebt nach seinen alten Ton. Von den Mädchen die
+                            ehemas bey Ihnen diente, habe ich nicht gehört, hies sie nichtLohre u. war aus <placeName key="JP-012409">Rohr</placeName> (wie Sie recht schön sagen
+                            wollten) aus Ruhr. Wo<persName key="JP-010990">Spiz</persName> her war.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

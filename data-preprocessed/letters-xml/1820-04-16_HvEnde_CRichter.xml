@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0076">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Dresden, 16. April 1820, Sonntag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1820-04-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012212">Liebesleben / Ehe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Dresden den 16.ten April 1820.</dateline>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_zx2_vgg_5nb"/>Schon längst hätte ich Ihnen,
+                    liebe gute Frau Legationsräthin, wieder geschrieben,
+                    wenn ich nicht dazu, die endliche bestimmte Antwort aus <placeName key="JP-006247">Schlesien</placeName>, <ref target="JP-UB0625/#nsgc_xmy_cnb">Ihre liebe Nichte</ref> betreffend, erwartet hätte; die Geläufigkeit des
+                    Französischsprechens, war der einzige schwierige Punkt in der Sache, da aber die
+                    liebe Nichte die Sprache selbst, kannte, so glaubte ich, die <persName key="JP-012369">Gräfin Henkel</persName> würde, da
+                    ihr übrigens die Sache, so sehr ansprach, jene Geläufigkeit zu geben, selbst
+                    übernehmen; noch habe ich keine Antwort deshalb,
+                            zugleich aber bey dieser Gelegenheit von zwey verschiedenen Seiten von
+                                <placeName key="JP-006247">Schlesien</placeName> aus, ver- nommen, mit welchem Enthsiasmus schon der Titel, <persName key="JP-999999">Jean Paul</persName>'s Nichte zu
+                            seyn, aufgenommen wird.<anchor type="target" xml:id="stop_zx2_vgg_5nb"/>
+               <anchor type="target" xml:id="start_cgm_t3w_2mb"/>Heute
+                    mußte ich Ihnen aber nun auf alle Fälle schreiben, da meine liebe <persName key="JP-004443">Gräfin Vitzthum</persName>, die
+                    sich mit Freuden Ihrer Bekanntschaft und Güte für Sie erinnert, jetzt nach <placeName key="JP-005574">Bayreuth</placeName> abreisen will, um
+                            einige Zeit daselbst zu verweilen. <anchor type="target" xml:id="start_hxx_zl5_kpb"/>Ganz gestörte eheliche Verhältniße deren Verbeßerung oder
+                    gänzliche Auflösung, unentschieden
+                        ist, machen für sie eine Entfernung
+                    nöthig; ich bedaure sie unendlich, ihre Lage ist in diesem Augenblick sehr
+                    beklagenswerth; unsre gegenseitige, seit den Kinderjahren bestehende Liebe, hat
+                    jetzt unsern Herzen doppelt wohlgethan.<anchor type="target" xml:id="stop_hxx_zl5_kpb"/> Ich bitte Sie, und <persName key="JP-999999">Ihren lieben Mann</persName>, dem kindlichen, reinen Herzen <persName key="JP-004443">meiner unglücklichen Freundin</persName>, mit liebender
+                    Theilname wohlzuthun und ich darf hoffen, daß<persName key="JP-012243"> Ihr
+                        lieber Mann</persName>, der sie noch nicht
+                            kennt, der unendlichen Unbefangenheit,
+                        Hingebung und Lebhaftigkeit
+                    ihres Gemüth's, wohlwollen  wird; diese drey bey ihr hervorstechenden
+                    oder beßer, hervorleuchtenden Eigenschaften, welche zu wenig fähig waren die
+                    nöthige Vor- und Ueberschau der Verhältniße der Welt, im Auge fest zu halten,
+                    sobald sie nicht liebend und leitend gehalten wurden, machen sie mehr zum
+                    Eigenthum einer beßern Welt, als der unvollkommenen, deren Unvollkommenheiten
+                    sie nicht mit der nöthigen Vorsicht zu verarbeiten vermag; sie belacht und
+                    bejaht es oft, wenn ich ihr vorwerfe, einen funfzehnjährigen Kopf, nebst dem
+                    Herzen für's Paradies zu haben; ihr seliger Vater der<persName key="JP-012227">Cabinet</persName>
+               <persName key="JP-012227">s-MinisterGrafHopfgarten</persName>, war der abgemeßendste Mann
+                    von der Welt und auch<persName key="JP-012243">ihr Mann</persName> gleicht ihr wenig und seitdem er
+                    nebst der Hofmarschall-Stelle, auch die der Direction
+                    der Theaters hat, scheint er öffentliche Familien-Scenen auch nicht mehr zu
+                    scheuen; sonst war er mir sehr zugethan; jetzt weiß er aber, daß meine
+                    Freundschaft für beyde, nur <persName key="JP-004443">seiner Frau</persName>
+                    zugetheilt bleibt; er hat sie von allen <persName key="JP-012875">ihren
+                        Kindern</persName>, deren sie zwölf ge- boren, getrennt, dies hat
+                    ihr oft schon eine Verzweiflung gegeben, die nur Zureden besänftigte; Dank sey
+                    es ihrer kindlichen Lebhaftigkeit, daß sie durch freundliche Begegnung sich
+                    leicht wieder heiter stimmen läßt und dann guten Rath mit kindlicher Lenksamkeit
+                        annimmt.<anchor type="target" xml:id="stop_cgm_t3w_2mb"/>
+               <persName key="JP-004653">Frau von Welden</persName>,
+                    der ich mich zu empfelen bitte, wird gewiß durch Sie und durch mich wieder durch
+                    Sie, die <persName key="JP-004443">Gräfin Vitzthum</persName> mit mehr Theilnahme, als eine neue Bekanntschaft,
+                    kennen lernen.</p>
+            <p>Nun noch ein Wort von mir und <persName key="JP-000949">meinem Sohn</persName>;
+                        letzterer hat sein Examen in <placeName key="JP-005948">Leipzig</placeName> Gott
+                    Lob, sehr rühmlich bestanden und die strengen Herren der dortigen Facultät, haben sich äußerst beyfällig darüber directe und indirecte
+                    geäußert, was mir denn große Freude gemacht hat; seit acht Tagen, haben wir nun
+                        <placeName key="JP-005948">Leipzig</placeName>
+                    verlaßen und zwar mit dankbaren Eindruck vieler Herzlichkeit die man uns dort
+                    noch bewiesen, vielleicht grade in der Beziehung, daß wir uns von den dortigen
+                    eigenthümlichen Formen befreyt erhielten. Wir bewohnen nun hier in <placeName key="JP-005687">Dresden</placeName> meinen
+                    Garten und genießen Gott Lob mit Freude deßen außerordentlich schöne Lage und
+                    den schönen Frühling. <anchor type="target" xml:id="start_c5y_y2g_5nb"/>Immer
+                    noch scheint es mir wahrscheinlich, daß wir <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0625/#start_rt3_c4y_cnb">im Herbst wieder nach <placeName key="JP-005872">Italien</placeName>
+               </ref> zurückkehren werden.<anchor type="target" xml:id="stop_c5y_y2g_5nb"/>Die <persName key="JP-003223">Frau von Piattoli</persName>, welche <persName key="JP-999999">Ihr lieber Mann</persName> kannte, ist vor Kurzem
+                            hier gestorben Die
+                        <persName key="JP-000853">Herz. v. Curland</persName> verliert an derselben ihre bewährteste älteste
+                    Freundin. <persName key="JP-000949">Mein Sohn</persName> empfielt sich Ihnen
+                    herzlich, so wie wir beyde <persName key="JP-999999">Ihrem lieben
+                        Mann</persName> und <persName key="JP-003483">lieben Kindern</persName>.
+                    Behalten Sie recht lieb Ihre ergebene Freundin</p>
+            <closer>
+               <signed>Henriette v Ende</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

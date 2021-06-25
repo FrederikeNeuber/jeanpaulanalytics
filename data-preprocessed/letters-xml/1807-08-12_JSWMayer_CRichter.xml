@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0671">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 12. August 1807, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1807-08-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-011893">Berufliches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 12. August
+                        1807.</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>ich habe Dein Andenken an meinen Geburts
+                            Tag mit vieler
+                    Freude erhalten, und bediene mich der übersandten börse
+                    zum täglichen Gebrauch. In der Zwischen Zeit wirst Du auch meinen Brief nebst den Einlagen erhalten haben, und ich bin
+                    begierig Deine Antwort darauff zu lesen. <persName key="JP-004393">Minna</persName> ist von hier nach <placeName key="JP-005665">Dessau</placeName> gereiset; u nach
+                        Ihrem letzten Briefe muß sie jetzt in <placeName key="JP-005948">Leipzig</placeName> seyn, weil ich ihr die von mir ausgesetzte Pension dahin habe schicken müßen. ich habe um so mehr darauf
+                    bestanden, daß sie nach <placeName key="JP-005948">Leipzig</placeName> zurükgehen solle, als es sehr ungewiß ist, ob ich sie in der Folge noch
+                    mit der bisherigen Pension werde unterstützen können –
+                        <anchor type="target" xml:id="start_gcj_t2h_3nb"/>denn seit dem 1. Märtz habe ich selbst kein
+                        Gehalt<anchor type="target" xml:id="stop_gcj_t2h_3nb"/>, u die letzte Pensions Gelder entbehre ich nun selbst am
+                    nothwendigen. <persName key="JP-004393">Minna</persName> hat Talent, um sich selbst fort zu helfen, u sie muß es. Auch ist <placeName key="JP-005586">Berlin</placeName> am wenigsten der Ort ihres Gedeyhens. Denn der Anläße zur Zerstreuung sind
+                    zu viel, u die Erziehung der <persName key="JP-004394">Kinder</persName> leydet
+                    darunter, die in <placeName key="JP-005948">Leipzig</placeName> mehr controllirt wird.</p>
+            <p>Nach ihrem letzten Briefe schien sie Neigung zum Aufenthalt in  <placeName key="JP-005574">Bayreuth</placeName> zu haben, wenn es anginge; u ich hätte gewiß keinen größeren Wunsch.
+                    Allein ich weiß nicht, wie ihr mit einander stehet?</p>
+            <p>Lebe wohl. Im October schicke
+                            ich Dir den Bestand Deiner Zinsen nach Abzug der bezahlten u noch zu
+                            bezahlenden Wittwen Pensions Gelder.</p>
+            <p>In Bezug auf <persName key="JP-999999">Deinen Mann</persName>, den ich zu grüßen
+                    bitte, glaubte ich, daß bey der neuen Eröfnung der <placeName key="JP-012934">Münchner Academie</placeName>
+                    seiner gedacht seyn würde. Allein ich höre nichts: ich habe eineConnexion beym <persName key="JP-002694">König von Bayern</persName>, in der Person seines favoriten des <persName key="JP-012459">Obrist Lieutenant von
+                        Jordan</persName>, Sohn meines ehemaligen <persName key="JP-012252">Collegen beym Tribunal</persName>. Käme es einmal auf solche
+                    Nachhülfe an, so stehe ich zu Diensten.</p>
+            <closer>
+               <salute>Lebe wohl, küße <persName key="JP-003483">Deine Kinder</persName> und
+                        liebe Deinen</salute>
+               <signed>treuen Vater Mayer</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-002709">Die Mutter</persName> grüßt hertzlich.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

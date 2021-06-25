@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0813">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Siegfried August Mahlmann an Johann Daniel Falk. Leipzig, 25. April 1806, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002583">Siegfried August Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1805-04-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Lieber Freund und Meistersänger</salute>
+            </opener>
+            <p>Ich bin ein fleißiger Leser Ihres Himmels und Ihrer
+                            Hölle und ob ich gleich
+                    Ihre Ansichten der Poesie und Ihr zu hohes Erheben des Characteristischen nicht
+                    mit meiner Ueberzeugung verbinden kann, so sehe ich doch ein daß es in der
+                    jetzigen Zeit wo mysteriöser Nebulismus und Abstraktion von Abstrakten zur
+                    Modekrankheit geworden ist, ein recht heilsames Wort seyn mag, was Ihre Blätter
+                    verkündigen. Da Sie übrigens <hi rendition="#u" hand="#author">mich</hi> und meine ganze Existenz kennen, so werden Sie überzeugt seyn,
+                    daß ich den glücklichen Fortgang Ihres Instituts <hi rendition="#u" hand="#author">mit Vergnügen sehe</hi>, und ihn nach meinen
+                    Kräften gern befördern will. – In einem Ihrer
+                    letzten Blätter bin ich auf eine recht <persName key="JP-002774">Merkelsche</persName> Art beleidigt worden, und da ich von Ihrer
+                    Freundschaft glauben darf, daß sie <hi rendition="#u" hand="#author">selbst</hi> nicht darum wißen, so erlauben Sie mir Ihnen das Ding
+                    auseinanderzusetzen. Wißen Sie aber darum und haben Sie es mit Fleiß gethan so
+                    bitte ich diesen Brief als nicht  empfangen anzusehen. Es wird nehmlich gesagt, zu dem Singspiel das man in <placeName key="JP-005994">Manheim</placeName> beym Einzuge <persName key="JP-012593">der
+                                Prinzeßin</persName> aufführen wollte, sey der Text <hi rendition="#u" hand="#author">in <placeName key="JP-005948">Leipzig</placeName> bestellt</hi>
+                            worden. Im <bibl sameAs="JP-008067" subtype="werk">Freimüthigen</bibl> würde mich eine solche Indiskretion nicht gewundert
+                    haben. – Vor 6 Wochen erhielt ich von einem Bekannten
+                            aus <placeName key="JP-005994">Manheim</placeName> und einem Freund aus
+                                <placeName key="JP-005819">Heidelberg</placeName> den Auftrag eine den
+                    Kräften des dortigen Theaters angemeßne u ausführbare Idee dazu anzugeben. Ich
+                    that es, nicht wie ein Schuster bey dem man Schuhe bestellt, oder wie ein
+                    armseeliger Reimer der Hochzeiten für Geld besingt, sondern als Versuch zu
+                    meiner eignen Uebung. Meine Ideen erhielten Beifall und die Arbeiten an
+                    Dekorationen, Tänzen, Maschinenwesen etc. wurden
+                    darnach unternommen. Ich unternahm es unter der Bedingung unbekannt zu bleiben,
+                    da das Ganze wegen lokaler Beschränkung (z. B. das einzige hervorstehende Talent
+                    auf dem dortigen Theater ist ein Kind von 9 Jahren) und dem Nahmen eines
+                    Kunstwerks, das aus <hi rendition="#u" hand="#author">Freiheit</hi>
+                    entsprungen seyn muß keinen Anspruch machen kann. Urtheilen sie daher  von meiner
+                    Ueberraschung mich so compromittirt zu sehen! Ich
+                    schreibe noch heute nach <placeName key="JP-005994">Mannheim</placeName> und
+                    mache den Direktor des Theaters <persName key="JP-004417">Baron
+                        Vanningen</persName> dafür verantwortlich.  Ich gestehe auch daß
+                    diese Beleidigung dadurch empfindlicher für mich wurde, daß sie durch Sie, den
+                    ich immer als ein braves redliches heiliges Gemüth geschätzt habe, mir zukam,
+                    und ich kann mich nicht überzeugen daß der Zeitungsteufel in Sie gefahren ist,
+                    der um pikant zu seyn, mit hämischer Freude beleidigt, und Dinge publizirt die
+                    zwischen Freunden verhandelt wurden. Schreiben Sie mir bald. Wie wenn wir einen
+                    Tauschkontrackt machten? Ich schicke Ihnen Beiträge für Ihre <bibl sameAs="JP-011918" subtype="werk">Himmels u Höllen Affichen</bibl>, Sie
+                    schreiben mir aus <placeName key="JP-006395">Weimar</placeName> was sich dort
+                    nicht gut drucken läßt.</p>
+            <closer>
+               <salute>Leben sie wohl. Grüße an <persName key="JP-012933">die liebe
+                            gute stille Frau</persName>, und an die <persName key="JP-012817">Kinder</persName>. Ich  stehe <hi rendition="#u" hand="#author">allein</hi> fürchterlich <hi rendition="#u" hand="#author">allein</hi> – und grüße Sie</salute>
+               <signed>Ihr Mahlmann</signed>
+               <dateline>Leipzig d. 25<hi rendition="#u" hand="#author">ten</hi> Apr. 1806.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

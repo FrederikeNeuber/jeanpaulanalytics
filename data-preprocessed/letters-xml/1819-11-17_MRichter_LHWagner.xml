@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0769">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Lorenz Heinrich Wagner. München, 17. November 1819,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1819-11-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004569">Lorenz Heinrich Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011952">Weiterer Bayreuther Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012692">Bildung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>München am 17 Nov. 1819</dateline>
+               <salute>Theuerster Lehrer!</salute>
+            </opener>
+            <p>Die vielen Arbeiten, die ich hier nothwendig verrichten mußte und der Umstand,
+                    daß ich bis jetzt noch fast gar keine Zeit hatte, nur etwas für mich zu thun,
+                    mögen mich entschuldigen, daß ich Ihnen, th. Lehrer, nicht längst schon ein paar
+                    Zeilen zugesendet und ihnen von meinem gegenwärtigen Verhältniß u Lage gesagt
+                    habe. Doch glauben Sie gewiß, daß ich immer an Sie, an ihre letzten u immer
+                    währenden Lehren dachte. Glauben Sie, der Mensch lernt nur dann den Menschen
+                    recht schätzen, wenn er nicht mehr mit ihm in Verbindung ist.</p>
+            <p>Was ich Ihnen etwa schreiben kann, betrifft nur geringfügige Gegenstände, da ich
+                    ja erst seit Kurzem hier bin. Die Vorlesungen von <persName key="JP-004281">Thiersch</persName> (über Kunstgeschichte und die Klassiker, wie <bibl sameAs="JP-009411" subtype="werk">Plato's
+                        Charmides</bibl>, <persName key="JP-004233">Tacitus</persName>, <persName key="JP-003234">Pindar</persName>, <persName key="JP-000641">Cicero</persName>, <persName key="JP-001833">Horaz</persName> p) u die von <persName key="JP-004630">Weiller</persName> (über Psychologie) sind die
+                    schönsten, doch auch die des Prof. <persName key="JP-002206">Kopp</persName> über Universal geschichte. Logik u
+                    Mathematik höre ich bei H. Prof. <persName key="JP-002744">Meilinger</persName> u <persName key="JP-004086">Späth</persName>. Außerdem nehme ich auch
+                    hebräische Stunden an, die wöchentlich 2–3 mal fallen; so daß ich täglich 5 öff. Stunden, außerdem aber auch
+                    das philol. Seminarium u jene hebräischen Vorles. zu besuchen habe. Mein Umgang
+                    beschränkt sich gegenwärtig auf sehr wenige, mit denen ich wöchentlich eine
+                    Zusammenkunft habe, worin ein Klassiker (<bibl sameAs="JP-012777" subtype="werk">Sophocles Ajax</bibl> jetzt)
+                    gelesen u erklärt wird. Der Lateinische Schriftsteller soll erst gewählt werden. </p>
+            <p>Den treflichen <persName key="JP-003007">Niethammer</persName> sprach ich zuerst
+                    bei <persName key="JP-004281">Thiersch</persName>. Er läßt ihnen viel Gutes
+                    sagen und lobt besonders das <placeName key="JP-011054">Baireulr
+                        Gymnasium</placeName>, das nur den Vorstand vermissen könnte. Die Rede fiel
+                    auf ihn (H. Kons. <persName key="JP-000768">Degen</persName>)und der ehrwürdige Greis sagte mir, es könnte noch
+                    nicht seine Dienstentlassung erfolgen, weil kein Geld dazu da wäre, einen andern
+                    zu ersetzen; doch ich will hier nichts gewisses entscheiden; ich verstand ihn
+                    damals gerade nicht. Der gefällige <persName key="JP-002099">Kiefhaber</persName> läßt sich Ihnen u <persName key="JP-004563">ihrer lieben
+                        Frau</persName> tausendmal empfehlen und fragte nach <persName key="JP-012594">Rudolf</persName> u grüßt ihn
+                    ebenfalls.</p>
+            <p>Die Zahl der hiesigen Studirenden (auf dem <placeName key="JP-011546">Lyceum</placeName>) beläuft sich auf 100.</p>
+            <p>Jährlich ist ein  sogenannter philol. Koncurs, dem künftige Philologen beiwohnen. Die
+                    Philologie hat hier ihren Hauptsitz. Studenten, die sich dem juristischen Fach
+                    in <placeName key="JP-005721">Erlangen</placeName>
+                    gewidmet hatten, kehrten von ihrer Bahn zurück und hören Collegia von <persName key="JP-004281">Thiersch</persName>: Sogar Studenten aus <placeName key="JP-005819">Heidelberg</placeName> siedeln sich hier an.</p>
+            <p>
+               <persName key="JP-004281">Thiersch</persName> liest äußerst gründlich u
+                    pünktlich; eben so wol Kunstgeschichte als Klassiker. Im philol. Seminar werden
+                    Disputirübungen gehalten in lat. Sprache über <persName key="JP-004293">Thucidydes</persName>, <persName key="JP-003234">Pindar</persName>,
+                        <persName key="JP-000641">Cicero</persName>, <persName key="JP-001833">Horaz</persName> p. Des <persName key="JP-003250">Platos</persName>
+                        Dialogen<bibl sameAs="JP-009411" subtype="werk">Charmides</bibl> u <persName key="JP-012427">Hippias d. A.</persName> und <bibl sameAs="JP-012062" subtype="werk">Tacitus Historien</bibl> werden im <placeName key="JP-011546">Lyceum</placeName> erklärt.</p>
+            <p>Zu meinem Hauptautor in griech Sp. habe ich <persName key="JP-004082">Sophocl.</persName> gemacht, an dem ich, wie oben
+                    erwähnt wurde, in jener Zusammenkunft arbeite.</p>
+            <p>Die <bibl sameAs="JP-012129" subtype="werk">Acta Monacensia
+                            philologorum</bibl> haben ihren gewöhnlichen Fortgang; auch liefern
+                    hiesige  Studirende bedeutende Beiträge. Zum Schulgebrauch steht mir
+                    die Gymnas. u Lyceumsbibliothek offen, die bedeutende Werke enthält. Mit Büchern
+                    bin ich versehen genug; aber nur nicht mit der Zeit.</p>
+            <p>
+               <persName key="JP-000215">Barth</persName> und <persName key="JP-003587">Roth</persName> sagen ihnen viele Grüße. Ersterer wird seine <bibl sameAs="JP-008090" subtype="werk">Urgeschichte</bibl> zu Ostern
+                            herausgeben, welche die Relig. u Sitten der Deutschen
+                            enthält. Letzterer setzt Breiers Geschichte fort.</p>
+            <p>Liegen denn noch immer alle Lasten auf Ihnen? Bekümmert sich denn der oben ihnen
+                    thronende Gott der Götter gar nichts für das florirende <placeName key="JP-011054">Gymnasium</placeName>? – Doch die Bildung Ihrer Schüler
+                    ist ihr höchster Lohn.</p>
+            <p>Wie gern möchte ich bei ihnen noch ein Jahr sein. Um <bibl sameAs="JP-009413" subtype="werk">Plato's Symposium</bibl> beneide ich
+                    alle Ihre Schüler, besondere den wackern <persName key="JP-004291">Thüngen</persName>, dem ich das Beste wünsche.</p>
+            <p>Die <bibl sameAs="JP-009885" subtype="werk">Abhandlung von Thiersch über die
+                        Künstlerepochen bei den Griechen</bibl> wird Ihnen <persName key="JP-999999">mein Vater</persName> schon zugeschickt haben; aber  ob sie Weillers Rede erhalten haben, das bezweifle ich. Lassen Sie sich sie von <persName key="JP-003112">Otto</persName> geben, er hat sie zuletzt gehabt. Die letzte Rede von ihm, welche er bei der Einweihung
+                            der hiesigen Studienkirche hielt, schicke ich meinem <persName key="JP-999999">Vater</persName> noch, der Sie ihnen dann gibt. Sie ist
+                    vortreflich.</p>
+            <p>
+               <persName key="JP-004281">Thiersch</persName> arbeitet jetzt fleißig an der <bibl sameAs="JP-009884" subtype="werk">Herausgabe seines Pindar</bibl> u an der
+                                Odyssee, die er, wie <persName key="JP-001745">Heyne</persName>, bearbeitet.<persName key="JP-004630">Weiller</persName> hat viele Feinde hier, u besonders
+                    unter seinen Herren Collegen.</p>
+            <p>Dieß ist alles, was ich Ihnen, theuerster Lehrer, im Flug u Eile etwa schreiben
+                    konnte. Verzeihen Sie meine Freimüthigkeit, aber denken Sie manchmal an</p>
+            <closer>
+               <signed>Ihrengehorsamen Schüler Max
+                                Richter.</signed>
+            </closer>
+            <postscript>
+               <p>Grüße an <persName key="JP-004291">Thüngen</persName>, <persName key="JP-012594">Rudolf</persName>,  Albert, <persName key="JP-004552">Emil</persName>,
+                            Karl p.  Grüße an Ihre <persName key="JP-004563">trefliche Frau</persName>.  Leben Sie glücklich mit Ihrer  Familie und bleiben Sie der  Freund
+                            <persName key="JP-999999">meines Vaters</persName>. </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

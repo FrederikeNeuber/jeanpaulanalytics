@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1102">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Christian Freiherr Truchseß von Wetzhausen.
+                    Meiningen, 22. Juni 1811, Sonabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-06-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 22<hi rendition="#uu" hand="#author">n</hi> Jun. 1811.</dateline>
+            </opener>
+            <p>Freundlichster aller Ritter! <anchor type="target" xml:id="start_qdg_wjt_x4b"/>Eigentlich sollten <persName key="JP-004558">meine Jungen</persName> schon morgen frühe bis
+                                <placeName key="JP-013063">Nordheim</placeName> – übermorgen bis
+                                <placeName key="JP-006386">Waltershausen</placeName> – Dienstags bis
+                                <placeName key="JP-013040">Bondorf</placeName> gehen, und Dich den
+                            Mittwoch mit dem Bilde <persName key="JP-013205">des geliebten
+                                Bruders</persName> in <placeName key="JP-005591">B.</placeName>
+                            unangemeldet überraschen. Allein
+                        <persName key="JP-002186">der gute Köniz</persName> sagte mir gestern,
+                    (versteht sich im engsten Vertrauen) daß Du wahrscheinlich in diesen Tagen
+                    hieher oder nach <placeName key="JP-005956">Liebenstein</placeName> kommen
+                    würdest, ich also nicht wohl thue,  die Jungen jetzt abgehen zu lassen.<anchor type="target" xml:id="stop_qdg_wjt_x4b"/> (Mögest Du, Allerbester, nur in
+                    erfreulichen Sachen kommen und Dir nicht etwa eine Unannehmlichkeit zugestossen
+                    seyn!) Dazu kommt mir jetzt auch deine herrliche Kirsch- und Freudenzeit in den Sinn, die ich auch nicht gern zu
+                    unterbrechen wünschte – nicht einmal durch <persName key="JP-004558">zwey kleine
+                        Jungen</persName>, denen Du doch am Ende <hi rendition="#u" hand="#author">viele</hi> Stunden sitzen müsstest. Und so denke ich, wir lassen
+                    Dich ungehudelt bis zum Nachsommer oder Herbst – und überdieß prophezeyhe ich
+                    dieses Jahr einen nicht heissen Sommer und einen herrlich kühlen Nachsommer, wo
+                    also die Wanderung für meinen noch immer zuweilen hustenden <persName key="JP-004564">Carl</persName> desto ersprießlicher seyn wird.</p>
+            <p>Hier sendet Dir <persName key="JP-004570">Anton</persName> – nebst heissen und
+                    wahrhaft sehnsüchtigen Grüssen von <persName key="JP-004556">beyden
+                        Brüdern</persName> – die zwey befohlnen <persName key="JP-003027">Öhlenschläger</persName>, woran er die
+                    bestellte Änderung noch so gut es ihm möglich, gemacht habe. Auch folgt das
+                    Original dankbarlichst zurück. Ich möchte wohl einmal das lebendige Original
+                    sehen.</p>
+            <p>Unserm lieben <persName key="JP-004520">Voß</persName>
+                            in <placeName key="JP-005819">H.</placeName> habe ich
+                            geschrieben und Dein <hi rendition="#u" hand="#author">sehr</hi> gut, ja
+                            vielleicht am <hi rendition="#u" hand="#author">besten</hi>
+                            gerathnes Bild
+                    gesandt. (Überhaupt kann ich <hi rendition="#u" hand="#author">Dein</hi>
+               <hi rendition="#u" hand="#author">Bild</hi>, du edle Gestalt, gewiß
+                        <hi rendition="#u" hand="#author">niemand</hi>
+               <hi rendition="#u" hand="#author">gutem</hi> versagen – und
+                        <persName key="JP-004570">Anton</persName> geht immer mit wahrer, ewig neuer
+                    und jugendlicher Lust daran, Dich von neuem aufzustellen, und freut sich
+                    kindisch, daß ihm nun  bald das freundliche Original wieder einmal
+                    sitzen wird!</p>
+            <p>
+               <anchor type="target" xml:id="start_q1w_dgj_z4b"/>Gegen <persName key="JP-004520">H. Voß</persName> habe ich mein Herz ausgeschüttet in Rücksicht der blossen
+                    Übersetz- und Nichtselbstschaffungslust. Nimmt er es übel, so – – <hi rendition="#u" hand="#author">hilft</hi> es doch
+                        vielleicht! <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1104/#start_cmz_kc4_npb">Auch habe ich ihm das, was von meinem <bibl sameAs="JP-010018" subtype="werk">J. v.
+                                    Nazareth</bibl> fertig von <persName key="JP-001400">Grießbach</persName> zurück ist, gesandt.</ref>
+               <anchor type="target" xml:id="stop_q1w_dgj_z4b"/>
+            </p>
+            <p>Ich hatte in meiner <bibl sameAs="JP-010017" subtype="werk">Isidora</bibl>, die nun
+                    geendigt ist, ein <hi rendition="#u" hand="#author">Gespräch
+                        zwischen dem Deutschen Ritter und dem Deutschen Dichter</hi> (d. i. zwischen
+                    Dir und Dagobert) <hi rendition="#u" hand="#author">über alte und moderne Zeit</hi>, vorbereitet, habe es aber nach
+                    reiflicher Überlegung herausgelassen und bis an einen andern Ort verspart. Du
+                    sollst aber einst nicht zanken,
+                    wann es Dir zu Gesichte kommt! – Hörst Du, Bester?</p>
+            <p>
+               <anchor type="target" xml:id="start_drq_qlt_x4b"/>Könizens
+                    nebst dem <persName key="JP-000317">Prinzen</persName> und dem übrigen noch hier
+                    gebliebnen Hofe sind so eben, morgens acht Uhr, nach <placeName key="JP-005522">Altenstein</placeName> abgereiset.<anchor type="target" xml:id="stop_drq_qlt_x4b"/>
+            </p>
+            <closer>
+               <salute>Ewig, ewigDein</salute>
+               <signed>treuester JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

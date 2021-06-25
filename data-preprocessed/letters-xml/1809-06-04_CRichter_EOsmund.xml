@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0744">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emanuel. Bayreuth, 4. Juni 1809, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1808-05-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireut den 4<hi rendition="#uu" hand="#author">ten</hi>Juni: 1808.</dateline>
+            </opener>
+            <p>Ihre Entfernung Emanuel giebt mir den Muth Ihnen eine Bitte zu thun die mündlich
+                    vorzutragen, mir fast unmöglich ist. Es nahetmein Geburtstag heran, den Ihre Liebe mir immer zu verschönern gewußt hat, so gern ich da
+                    den Antheil der Menschen zu entfliehen gewünscht habe. Ich wünsche nicht – ich
+                    hoffe nicht – daß Sie auch dismal durch Ihre Güte dem unbedeutendsten Tage einen
+                    Werth geben – aber die immer gewohnte gleichbleibende Sehnsucht Ihrer Seele,
+                    Sich in Gaben auszusprechen, könnte auch jetzt die Schonung überwiegen um die
+                    ich Sie lange gefleht habe. – – </p>
+            <p>Wenn ich aber in dem jetzigen Zustand meiner Seele Ihnen sage, daß es mir die
+                    tiefste Demüthigung sein würde wenn Sie mir ein Geschenk machten, wenn ich
+                    würklich dann wenn man mich dennoch nicht
+                    verschonte die undankbare Unzartheit haben müste – es zurückzugeben – in dem
+                    Moment zurückzugeben, wo Ihre  fromme  Liebe gegen die Menschen, Sie in die heiligste Stimmung versetzt hätte –
+                    Emanuel die Aufgabe wäre zu hart für mich, und dennoch ist mein Entschluß fest
+                    die harte That zu begehen.</p>
+            <p>Schonen Sie mich verehrter Mensch – und verzeihen Sie die Entschiedenheit meines
+                    Ausdrucks aber Ihr freier unbefangener Sinn, wird mich nicht misverstehen.</p>
+            <p>Geht es Ihnen gut Emanuel? Bald hoffe ich das aus Ihrem Munde zu hören denn nach
+                    so langer Entfernung werden wir Sie doch bald
+                    wiedersehen. <persName key="JP-999999">Mein Mann</persName> reißt wenn der
+                    Himmel so rein ist als Ihre Seele im Anfang Juni nach <placeName key="JP-005515">Alexandersbad</placeName> um sich ein rendez-vous
+                    mit der <persName key="JP-002482">Lochner</persName> zu geben – die auf 4 Tage
+                    dahin kommen will.</p>
+            <p>Die <persName key="JP-003964">Schwendler</persName> hat
+                            an <persName key="JP-003884">Henriette Schukmann</persName>
+                            geschrieben, uns alle grüßen | laßen, und gesagt das<persName key="JP-002936">Antonie</persName>im Juli nach der <placeName key="JP-006271">Schweitz</placeName>
+                            reisen wird.</p>
+            <p>Unsere<persName key="JP-003491">Odilie</persName>ist nicht wohl – sie hatte ein kleines Fieber – aber ich hoffe daß die nach Ihnen
+                    verlangenden <persName key="JP-003483">Kinder</persName> Ihnen entgegenlaufen
+                    werden.</p>
+            <p>Wann Sie zurükommen kehren Sie doch ein wenig bei <hi rendition="#u" hand="#author">
+                  <persName key="JP-002401">Lenz</persName>
+               </hi> in
+                        <placeName key="JP-005588">Bernek</placeName> ein.</p>
+            <p>Die <persName key="JP-003884">Schuckmann</persName> machte mir neulich ein
+                    rührendes Bild der einfachen Glückseeligkeitdieser Menschen mit denen sie einen Tag in
+                        <placeName key="JP-005588">Berneck</placeName> gelebt hatte. Dieser Sinn für
+                    das ächtmenschliche ist in der <persName key="JP-003884">H. Schukmann</persName>
+                    etwas ehrwürdiges – da die Welt-Verhältnisse
+                    so viel Rechte auf sie haben.</p>
+            <p>Leben Sie wohl bis ich Sie wiedersehe möge sich alles vereinigen um Ihr Dasein
+                    auf dem Lande und Ihre Rückreise zu einem wahrhaft frohen Genus zu erhöhen.</p>
+            <closer>
+               <salute>Mit unvergänglicher Liebe</salute>
+               <signed>Caroline.</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>
+               <persName key="JP-999999">mein Mann</persName> weiß nicht daß ich schreibe
+                    sonst grüßte er Sie, – – –</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

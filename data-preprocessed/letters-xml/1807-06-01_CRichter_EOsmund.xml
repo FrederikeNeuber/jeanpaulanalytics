@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0357">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emanuel. Bayreuth, 1. Juni 1807, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1807-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Guten Mittag Emanuel!</salute>
+            </opener>
+            <p>Wie einfältig war ich, nichts von Zwang zu merken, nicht von irgend einem! So
+                    viel ist gewis, daß es Ihnen gelungen ist, was Sie suchten, aber wie? auf Kosten
+                    der Behaglichkeit, in die wir uns alle hätten bemühen sollen, Sie zu setzen! – –
+                    – Es war mir, als wenn gestern Ihr Wahn schwinden müße, daß  die K.A. und
+                        J und C. nicht
+                    recht natürlich zu einander wären wenn sie beisammen sind.</p>
+            <p>Ich war sehr froh, und fand alles harmonisch. – –</p>
+            <p>Ein <persName key="JP-003765">bair. Offizier</persName>
+                            hat <persName key="JP-999999">Richter</persName> einen Brief seines
+                                <persName key="JP-003485">Bruders</persName> gebracht, der <hi rendition="#u" hand="#author">Sekretair</hi> eines Generals oder Obristen ist, vielleicht noch Offizier
+                    werden kann weil — er  noch lebt, das
+                    hätte ich zuerst sagen sollen.</p>
+            <p>Ich bin und war noch gestern Abend recht fleißig bei ziemlich vieler Wäsche, und
+                    Bleiche – das Geld werde ich an <persName key="JP-999999">R.</persName> geben,
+                    der im <placeName key="JP-012856">Harmonie garten</placeName>
+                    arbeitet.</p>
+            <closer>
+               <salute>Adieu Einziger!</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

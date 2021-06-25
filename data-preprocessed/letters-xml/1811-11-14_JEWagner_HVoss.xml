@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1114">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Heinrich Voß. Meiningen 14. November 1811, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-11-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004520">Heinrich Voß</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 14<hi rendition="#uu" hand="#author">n</hi> Nov. 1811.</dateline>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_bnb_p3f_mpb"/>Endlich, mein verehrter Freund,
+                    hat mir der faulste von meinen geliebten 4 kritischen Evangelisten – <persName key="JP-999999">Hans Paul</persName> – <bibl sameAs="JP-010018" subtype="werk">das MSC. zu meinem J. v. N.</bibl> mit <persName key="JP-001400">Griesbachs</persName>, Deinen, <persName key="JP-003944">des
+                        trefflichen Schwarz</persName> und seinen eignen Bemerkungen wieder
+                    zugesandt, und ich vermisse nichts bey den Akten als Griesbachs Briefe.<anchor type="target" xml:id="stop_bnb_p3f_mpb"/> Vielleicht habe ich Dir diese aber nur mitsenden
+                        <hi rendition="#u" hand="#author">wollen</hi>, und werde sie
+                    bey'm Nachsuchen noch selbst unter andern Papieren finden.</p>
+            <p>Gott vergelte Dir viele Liebe, die Ihr mir bewiesen
+                    habt! Weiter kann ich Armer nichts dazu sagen – als etwa: Es soll nächstens <hi rendition="#u" hand="#author">mehr</hi>
+               <hi rendition="#u" hand="#author">kommen</hi>, wenn <persName key="JP-001400">Griesbach</persName> wieder eine Lieferung expedirt! – Vier
+                    verschiedene Urtheile über meine vier Evangelisten – und <hi rendition="#u" hand="#author">solche</hi> Urtheile – von welchen selbst
+                        <persName key="JP-999999">der eigenwillige Richter</persName> die 3 ersten
+                    "vortrefflich" nennt und zu welchen auch
+                        er aus seinem eignen Schatz
+                    noch so vieles hinzuthut – was kann mir schätzbarer seyn! – Aber, theurer
+                    Bruder, des gar freundlichen und scharfsinnigen
+                                <persName key="JP-003944">Schwarz</persName> Addresse gieb mir
+                            doch, damit ich dieser herrlichen Seele selbst
+                    danken kann! Seine Worte sind so Schön und gediegen, daß ich ihn innigst
+                    verehren muß. Womit kann ich denn so grosse Liebe verdienen, Ihr theuren
+                    Menschen!</p>
+            <p>Was machen die jugendlichen Eltern, lieber Voß? Wir träumen <hi rendition="#u" hand="#author">tagtäglich</hi> ihre anmuthige Begegnung nach.<anchor type="target" xml:id="start_otw_cd4_npb"/>Sie
+                    hatten auf Ihrer Wiederkehr sogar die Güte, <persName key="JP-004570">meinem Anton</persName> zu einer kleinen Skizze zu sitzen.
+                    Da er seinen Zeichenapparat aber verliehen hatte, so wurde nichts daraus, als
+                    ein Paar weniggetroffene Umrisse, die  indessen für mein geschwächtes
+                    Gedächtniß <hi rendition="#u" hand="#author">vollkommen</hi>
+                        genügen.<anchor type="target" xml:id="stop_otw_cd4_npb"/> Du glaubst nicht,
+                    Bruder, wie mich diese ihre Güte gerührt hat. O wohl, selig und glücklich ergehe
+                    es dem herzigen heitern Paare. Grüsse sie aus tiefstem Herzen von mir und danke
+                    ihnen innigst für die wahrhaft <hi rendition="#u" hand="#author">heiligen</hi> Stunden, die sie mit ihrem schönen Gottesfrieden mir
+                    brachten. Ach Voß – meinen Knaben sind
+                    diese klassischen Gestalten eben so unvergeßlich, als mir! Verschmähe es nicht,
+                    auch <hi rendition="#u" hand="#author">ihre</hi> Grüsse, und die
+                        <persName key="JP-004548">meiner Luise</persName> und <persName key="JP-004551">der Mutter</persName> den Theuren zuzurufen. Es giebt jetzt
+                    für <persName key="JP-004557">meine Kinder</persName> keinen reizenderen
+                    Aufenthalt, als Euern Garten, mit den Reben, den ihnen <persName key="JP-004516">Deine sanfte Mutter</persName> mit wenigen Worten beschrieb. – Übrigens
+                    darfst Du Dich mit mir freuen, lieber Mensch. <persName key="JP-004558">Meine
+                        Jungen</persName> machen <hi rendition="#u" hand="#author">herrliche</hi> Fortschritte und bleiben gut und fromm. Ich darf es Dir wohl
+                    sagen, daß Du im Frühling (denn Du begegnest doch unserm <hi rendition="#u" hand="#author">
+                  <persName key="JP-002088">Keßler</persName>
+               </hi>
+                    noch <hi rendition="#u" hand="#author">hier</hi>?) über <persName key="JP-004570">Antons</persName> Besserung – erstaunen wirst! Selbst
+                    Kinderfiguren trifft er jetzt recht gut – und sein eignes Gemüth reinigt sich
+                    immer mehr zur Kindlichkeit. Das ist ein überaus braver und
+                    bescheiden-verständiger Mensch.</p>
+            <p>Noch vergaß ich oben, Dir zu sagen: Fürchte Dich doch ja (bey Deinen künftig
+                    gütigst zu machenden Bemerkungen) nicht vor der sogenannten Trivialität.
+                    Diejenigen dieser Bemerkungen, die Du trivial zu nennen scheinst, sind nur sehr
+                    oft die allernothwendigsten und nützlichsten.</p>
+            <closer>
+               <salute>Ich kann nicht mehr Bruder! Dank, Gruß und Lebewohl – wohl wohl! Ewig
+                            Deindankbarer Bruder</salute>
+               <signed>JEWagner</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

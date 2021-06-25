@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0050">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Eduard Pohl an Caroline Richter. Berlin, 24. November 1825, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003263">Eduard Pohl</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1825-11-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012222">andere Korrespondenten Jean Pauls</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin den 24ten
+                        November 1825.</dateline>
+               <salute>Verehrungwürdigste Frau Legationsräthin!</salute>
+            </opener>
+            <p>Voll tiefer Wehmuth blickte mein thränenfeuchtes Auge die welkenden Fluren an und
+                    den entblätterten Wald von Nebel und Wolken dicht umhangen und mein Herz
+                    trauerte über der großen Ruhestätte der Erde; da öffnet sich ihr dunkler Schooß
+                    und sie nimt auch den von unsrer Aller Herzen, den wir
+                            Alle so unendlich lieben! –
+                    Ich rufe den Engel der Tröstung, daß er komme und Frieden bringe, zumal Ihnen
+                    und den <persName key="JP-003483">theuren Kindern</persName>, die Seiner
+                    liebenden Brust am nächsten standen, aber dann auch mir und Allen, die
+                    tieferschüttert zur Seite des <persName key="JP-999999">Entschlummerten</persName> stehn und sich selbst beweinen, daß sie von Ihm
+                    verlassen sind. Vergangnen Sonntag feierten wir das allgemeine Todtenfest und
+                    meine Seele schwebte um die Gräber aller derer, die einst groß und herrlich über
+                    die Erde gegangen waren; – ich wußte noch nicht, daß auch der Theure sich ihnen
+                    angereiht hatte! – Da wurde ich recht schmerzlich bewegt über  des
+                    Menschen Loos; aber schnell that sich der düstre Wolkenschleier auf und die
+                    ewige Sonne der Liebe und Wahrheit erleuchtete und erwärmte das trauernde Herz.
+                    O nein, nein! diese Sehnsucht, die der allmächtige Vater uns gab nach seinem
+                    wunderbaren Lichte, sie kann nicht lügen! Wahrhaftig sind alle Offenbarungen des
+                    Wahrhaftigen in dem <persName key="JP-000634">Sohne</persName> seiner ewigen
+                    Vaterliebe, in der Natur und in der zitternden Menschenbrust! Ja, ich wurde
+                    aufgerichtet durch den himmlischen Trost seines Evangeliums und gestärkt und
+                    erhoben verließ ich, begleitet von dem glaubensvollen Gesange unsers seligen
+                        <persName key="JP-002139">Klopstocks</persName>: "Auferstehn, ja auferstehn
+                            wirst Du mein Staub nach kurzer Ruh! die dämmernden Hallen des Gotteshauses. Ja
+                    wir finden Ihn einst wieder! Er ging uns nur auf kurze Zeit voran zu den
+                    Wohnungen des ewigen Friedens, wo keine Trennung mehr die liebenden Seelen
+                    trübt, über die Jahre der Trauer fliegt Ihm unsre gläubige  Hoffnung
+                    nach und bald stehen sie hinter uns, wie ein kurzer schwühler Traum! O meine
+                    Hochverehrte! – lassen Sie mich Sie mit dem Namen nennen, den Ihnen in jener
+                    seligen Stunde des Friedens mein begeistertes Herz entgegenrief und welchen nun
+                    das trauernde zu gleichem Schmerzgefühl verbundene wiederholt, meine theure
+                    Mutter! kann das Wort eines Jünglings Ihren großen Schmerz mildern, der in dem
+                    Hingeschiedenen das Schönste beweint, was ihm auf Erden zu Theil ward? – Mögen
+                    doch unsre Thränen fließen: sie sind das Opfer unsrer Liebe; aber mögen sie Ihm
+                    würdig fließen und auf Seinem Grabhügel die Blumen der Hoffnung hervorrufen, die
+                    auch Sein seliger Geist hinieden pflegte und zu einem unverwelklichen Kranze
+                    verband. Ja, Sein hoher Geist lispelt mir vernehmlich zu: wir sehen uns alle
+                    einst wieder! Dort, wo das entschleierte Auge selig lächelnd den heitern Morgen
+                    der Ewigkeit begrüßt, wo Liebe unsre Seelen ewig beglückend verbindet!</p>
+            <p> Ach ich halte ja ein Blüthenblatt des
+                            unverwelklichen geistigen Frühlings der Seelen von <persName key="JP-999999">dem Herrlichen</persName> in meiner Hand und benetze es mit meinen Thränen! Es soll mich
+                    aufrichten die späte trübe Abenddämmerung des Erdenlebens hindurch, bis ich dort
+                    den Frühling der Liebe mit verklärten Blicken ewig schaue. Nein, das Grab ist
+                    nicht furchtbar, nicht ewig verschlossen! Es ist geheiligt durch den Heiligen
+                    Gottes, welcher auch einst darin geruht, geheiligt durch die Engelsgestalten,
+                    die einst dem trauernden Herzen einer Maria daraus zuriefen: den du suchest, der
+                    ist nicht hier, er ist auferstanden! – So ruft auch uns der Geist des Lebens zu:
+                    er ist nicht hier im Staube, den Eure Seele liebt, er ist bei Gott! Nur auf
+                    kurze Zeit verbarg uns die Wolke des Todes den Herrlichen und wir folgen der GlorieSeines Geistes bis Er uns jenseits des dunklen Gewölks mit neuem
+                    Strahlenglanze entgegentritt! Der Gott der Liebe und der Wahrheit sei mit Ihnen
+                    Allen, und des Verklärten Geist erhebe zu stiller Wiedersehens-Hoffnung Ihre
+                    trauernden Herzen! -</p>
+            <closer>
+               <salute>Mit Achtung und Ehrerbietung</salute>
+               <signed>Ihrmittrauernder Eduard Pohl.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

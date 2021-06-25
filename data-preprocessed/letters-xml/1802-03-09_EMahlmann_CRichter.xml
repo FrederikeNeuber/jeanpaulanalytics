@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0352">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Caroline Richter. Leipzig, zwischen 9. und 13. März
+                    1802</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-03-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Es giebt mir tausend Anläße, immer wieder zurück zu kommen in
+                    seinen Arbeiten. Ich nehme mir z. B. so oft vor nichts anders als grade das oder
+                    das zu arbeiten, vermeide so viel als mögliche jede frivolere Arbeit. Komt nun
+                    aber einmal eine Gelegenheit wo man sich zum Anzug etwas wünscht, so macht man
+                    es auch, und die schöne Zeit ist wieder gestohlen. Ich möchte wißen ob Dir es
+                    auch so geht? <anchor type="target" xml:id="start_ddx_pjh_2jb"/>Bey der
+                    Gelegenheit will ich Dich nun etwas bitten ehe ich es vergeße. Erstlich, um das
+                    Rezept, roth zu färben wie dein roth mousselin Kleid
+                    nach der Methode der May.
+                    Ferner: um das Rezept der hübschen Kuchen oder gekochten Eyern auch von der May: Drittens: wenn du es hast von dem blanc mangé was die May so
+                    göttlich macht. Was du überhaupt so hübsches hast von Rezepten etwa Mehlspeisen
+                    oder Eingemachten, das theile mir mit, liebe Caroline, und die Rezepte schicke
+                    mir doch im nächsten Briefe ich wollte gern solch ein Kleid mir machen.<anchor type="target" xml:id="stop_ddx_pjh_2jb"/>
+            </p>
+            <p>Was du schreibst über das Waschen in <placeName key="JP-006012">M.</placeName> das hat mir ordentlich Spaß gemacht, weil es derselbe Fall hier in <placeName key="JP-005948">L.</placeName> ist, und mich die lezte Wäsche fast zur Verzweiflung
+                    gebracht hat. Ich spare auch was ich nur
+                    kann, und habe den ganzen Winter nichts weißes getragen weil die Wäsche so
+                    kostbar, und so schlecht ist! Jetzt ist nun alles wieder rein im Spinde und da
+                    wird vor der Meße nichts davon angerührt.</p>
+            <p>Mein Verhältniß mit der <persName key="JP-004393">Minna</persName>, ist jetzt
+                    wieder, in einer Crise, oder vielmehr das, das <persName key="JP-004393">Minnas</persName>, mit dem meinigen. Wenn die vorüber ist, werde ich Dir
+                    schreiben wie sie sich entschieden hat. Mein Verhältniß mit <persName key="JP-004393">Minna</persName>, ist eigentlich immer gut. Sage auch das
+                    nicht daß wir einander so unahnlich waren. Die Menschen sind sich überhaupt  einander ähnlicher als man glaubt, und
+                    wenn <persName key="JP-004393">Minna</persName> in einer andern Lage wäre, so
+                    wäre sie unstreitig ein großes Weib! Ihre Kraft ist unendlich! Doch hier möchte
+                    ich auch sagen: les extrêmes
+                                Se touchent; auch ihre Schwäche ist oft
+                    groß!</p>
+            <p> Aber bey dem allen ist sie so unglücklich so unglücklich! Sonderbar
+                    daß  ich nicht an
+                        <persName key="JP-002711">die Mutter</persName> denken kann ohne auch an
+                        <persName key="JP-004393">Minna</persName> zu denken. Die arme gedrückte
+                        <persName key="JP-002711">Mutter</persName>! Die arme ewig verkannte
+                    verfolgte <persName key="JP-004393">Minna</persName>! Es ist doch immer eins!
+                    –</p>
+            <p>Nach den <persName key="JP-004394">Kindern</persName> frägst du mich. Ich sehe
+                    eigentlich die Kinder wenig. Worinn der Grund liegt weis ich selbst nicht so
+                    recht. Der <persName key="JP-004106">Julius</persName>
+                    ist jetzt ein großer lebendiger Knabe der den ganzen
+                            Tag beym<persName key="JP-003066">P. Olivier</persName> in der
+                            Schule ist und lesen kann wie ein Deus. Darum ist
+                    er aber auch nicht mehr so zum
+                    Hätscheln wie ehemals; das paßte auch nicht zur wilden rohen Knaben-Natur. Die <persName key="JP-004103">Emma</persName> war sonst eigentlich ein
+                    unausstehliches Kind! Immer kränklich, daher entsezlich verzogen und daher sehr
+                    unartig! Jetzt aber wird sie ein andres Wesen, und sehr intereßant und 
+                    schön, und ich ziehe sie der Jüngsten vor weil die noch ein bischen dümmlich
+                    ist. <persName key="JP-000009">Die
+                            Jüngste</persName> wurde vorigen Monat, den 12ten Februar, 1 Jahr und läuft auch schon allein. Die <persName key="JP-004103">Emma</persName>wird in Aprill 2 Jahr.</p>
+            <p> Du frägst ob <persName key="JP-004393">Minna</persName> wohl <hi rendition="#u" hand="#author">herzlich</hi> mit Dir ausgesöhnt
+                    sey? ich glaube es fast selbst nicht. Doch war sie mit Deinem lezten Briefe auch nicht recht zu frieden, und schien mir beßer gestimmt, <hi rendition="#u" hand="#author">vor</hi>, als <hi rendition="#u" hand="#author">nach</hi> Empfang deßelben. Sie zeigte mir Deinen
+                    Brief und sagte, daß auf einen solchen wie sie Dir geschrieben hätte, sie wohl hätte einen andern erwarten können. Nun weiß ich nicht, was sie
+                    Dir eigentlich geschrieben hat. Ich sage auch nie etwas dazu, und zeige ihr nie
+                    gern die Briefe die Du mir schreibst – weil ich fühle daß es kränkend für sie
+                    ist, wenn Du an mich herzlicher schreibst als an sie. Das hat mich schon oft in
+                    Verlegenheit gesezt! Denn sie liebt Dich eigentlich sehr. Mehr als irgend ein
+                    Wesen in der Welt! Doch ich glaube nicht, daß eine wahre Versöhnung (es sey denn
+                    durch mündliche Verständigung) je statt finden kann, weil ihr Stolz zu sehr
+                    gekränkt ist. Und man wird überall finden daß mit dem Druck der Stolz wächst,
+                    wenigstens bey Menschen von Kraft.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

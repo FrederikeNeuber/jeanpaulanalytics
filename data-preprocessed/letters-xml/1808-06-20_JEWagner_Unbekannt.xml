@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0883">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Unbekannt. Meiningen, 20. Juni 1808, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-06-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004373">Unbekannte Korrespondent/innen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein Brief hat <persName key="JP-000485">Herrn Brentano</persName>
+                    abermals
+                    verfehlt. Werden Sie nicht endlich
+                    doch zürnen, wenn ich Sie bitte, ihn in <placeName key="JP-005895">Cassel</placeName>, wo ich ihn vermuthe, gnädig bestellen zu
+                    lassen – im Notfalle nur durch seinen Freund, <persName key="JP-000141">Herrn
+                        von Arnim</persName>, und bey Gelegenheit.</p>
+            <p>Entschuldigen vor Ihnen kann ich mich nicht! Aber ich
+                    wage es, Ihren Herzen zuzurufen: Verzeihung!</p>
+            <closer>
+               <salute>In grösster Verehrung</salute>
+               <signed>Ewr. Gnadenunterth. dankbarer  JEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1156">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Konstantin Karl von Falkenstein. Bayreuth, 17.
+                    Februar 1826, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1826-02-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001034">Konstantin Karl von Falkenstein</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011807">Jean Paul-Verehrung</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireuth den 17<hi rendition="#uu" hand="#author">ten</hi> Febr. 26.</dateline>
+            </opener>
+            <p>Gestern erhielt ich Ihren Brief, lieber Herr
+                    Baron, dessen Inhalt in mir die freudigste Ueberraschung
+                            erregte.
+                    Vorzüglich aber ist es Ihre Güte, Ihre <hi rendition="#u" hand="#author">Freude</hi> an der <hi rendition="#u" hand="#author">Mittheilung</hi> so
+                    günstiger Constellationen für mich, die mich rührte und beglückte. Sie müssen
+                    sehr gut sein, aber Sie haben Menschen gefunden die es erkennen! Lassen Sie mich
+                    einstweilen nur mit Worten danken, bis ich es in der <hi rendition="#u" hand="#author">That</hi> kann.</p>
+            <p>
+               <anchor type="target" xml:id="start_ljh_c2d_t4b"/>Ich schicke Ihnen nun hier das unterdessen für Ihren unschuldigen liebenden Wunsch
+                                Gesammelte<anchor type="target" xml:id="stop_ljh_c2d_t4b"/>, und wünsche daß es Ihnen genügen möchte.
+                    Sollte es indessen nicht sein, so haben Sie die Offenheit es mir zu sagen. Immer
+                    werde ich die größeste Freude darin finden Ihnen gefällig zu sein, Sie können
+                    sicher und immer auf mich rechnen, ich verändere mich nicht, und bin eine Frau
+                    von Wort.</p>
+            <p>
+               <anchor type="target" xml:id="start_fbp_dg2_t4b"/>Erlauben Sie mir
+                    eine Frage!: Gehören Sie zu der Familie Falkenstein,
+                            welche früher auf einem Gute unweit <placeName key="JP-005687">Dresden</placeName> lebte, und erst
+                    seit 2 Jahren in <placeName key="JP-005687">D.</placeName> etablirt ist?<anchor type="target" xml:id="stop_fbp_dg2_t4b"/> In dieser Familie die ich meyne
+                    ist die Mutter eine geb. Gräfin König
+                    die durch eine seltene Vereinigung von häuslichen Tugenden mit den höheren Gaben der Poesie,
+                    merkwürdig ist; und ich kenne <hi rendition="#u" hand="#author">die
+                        Liebe dieser Familie</hi>, für <persName key="JP-999999">meinen verklärten
+                        Gatten</persName>. Durch eine nun auch gestorbene
+                            Schwester der Herrn von
+                            Falkenstein,
+                    ward ich genau mit den Tugenden derselben bekannt, und verehre sie innig.</p>
+            <p>
+               <anchor type="target" xml:id="start_hcb_tf2_t4b"/>Ich habe <persName key="JP-004107">einen Neffen</persName> in <placeName key="JP-005687">Dresden</placeName>, den Sohn des seel. <persName key="JP-004104">Hofrath
+                            Spazier</persName> – er selbst Cand. juris. Er ist zu erfragen beim Kaufmann <persName key="JP-000008">Abeken</persName> in der <placeName key="JP-013313">Rahmschen
+                                Gasse</placeName>seinem Schwager. Ich hätte wohl den Wunsch, ein so edler Mann wie Se, näherte sich ihm,
+                    denn er lebt verschloßen, weil er mit Recht und Unrecht, aus Bescheidenheit und
+                    Stolz und Mißtrauen gegen die Theilnahme der Menschen an ihn, der noch keinen
+                    bürgerlichen Rang als die kürzlich erhaltene Doktorwürde hat, keinen Schritt
+                    thut, um sich Freunde zu erwerben. Und doch  liegt so viel Schönes und
+                    Gutes <persName key="JP-004107">in dem jungen Menschen</persName>, daß ich einen
+                    Gärtner wünschte der diese einsame Pflanze mit dem Hauche des Wohlwollens und
+                    der Liebe erwärmte.<anchor type="target" xml:id="stop_hcb_tf2_t4b"/> Möchten
+                    Sie, mein edler unbekannter Freund dieser Gärtner sein wollen, so würden Sie
+                    wenigstens durch Etwas, Ihnen sehr Werthes dafür belohnt werden können, denn Er
+                    war es, der von <persName key="JP-999999">meinem leidenden Engel</persName> zur
+                    Hülfe hieher berufen wurde, die Zusammensetzung und Ordnung der <bibl sameAs="JP-010983" subtype="werke-jp">"Werke"</bibl> zu fördern, welches für den so unaussprechlich leidenden Kranken einen so schwere Aufgabe
+                    war. 14 Tage genoß er das wehmütige Glück<persName key="JP-999999">den Göttlichen</persName> zu hören, und voll
+                    Enthousiasmus für Ihn, der in der täglich steigenden Verklärung sowohl des
+                    Geistes als des Körpers einem <persName key="JP-003250">Plato</persName> glich,
+                    schrieb er jedes seiner Worte nieder. Wie unaussprechlich intereßant wären nun
+                    diese Mittheilungen welche <persName key="JP-004107">der junge Mann</persName>
+                    auch anfangs heraus geben wollten, allein eigne Verhätnisse brachten bei ihm
+                    eine solche Stimmung der Seele hervor, die auch dieses heilige Vorhaben
+                    unterdrückten.</p>
+            <p>Fänden Sie Wohlgefallen an dem wirklich sehr intereßanten aber <persName key="JP-004107">durch Kummer verstummten Menschen</persName>, so ziehen Sie
+                    ihn in die Welt hinaus – zu <persName key="JP-000196">Baggesen</persName>, der
+                    ein <hi rendition="#u" hand="#author">Freund</hi>
+               <persName key="JP-004104">seines Vaters</persName> war, zu <persName key="JP-004311">Tiedge</persName>, und  <persName key="JP-003370">der edeln Recke</persName>, welche seinen Besuch
+                        erwartet und wo möglich in
+                    einem liebenden Familienkreis unter gemüthlichen Menschen. Ein ungemeines
+                        musikalisches Talent, und
+                    eine schöne Tenor Stimme machen in zu einem willkomenen
+                    Gehülfen bei musikalischen Uebungen.</p>
+            <p>Allein eben so offen meine Bitte, und so groß mein Vertrauen zu Ihnen ist, eben
+                    so offen sagen Sie mir Ihre
+                    Meinung über ihn, wenn seine Individualität Sie nicht ansprechen sollte, oder
+                    Sie überhaupt Gründe hätten meinen ganzen Wunsch unerfüllt zu lassen. Alles ist
+                    zu ehren an einem <hi rendition="#u" hand="#author">Menschenfreunde</hi>.</p>
+            <closer>
+               <salute>Mit innigster Achtung und Dankbarkeit für Ihre Gesinnungen so wohl als
+                        Ihre Handlungen erlaube ich
+                        mir nur den Wunsch der Fortdauer Ihres Wohlwollens, und der Gelegenheit mehr als einmal
+                        Ihnen zu zeigen, wie sehr ich bin</salute>
+               <signed>Ihreergebenste Caroline Richter geboreneMayer Wittwe Jean Pauls</signed>
+            </closer>
+            <postscript>
+               <p>Kennen Sie <persName key="JP-000196">Baggesen</persName> und <persName key="JP-004311">Tiedge</persName> so
+                        danken Sie Letzteren für seinen schönen
+                                Brief, und den kranken
+                                leidenden <persName key="JP-000196">Baggesen</persName>, sagen Sie Grüße der Trauer
+                            <hi rendition="#u" hand="#author">um sein Leiden</hi>! Möge
+                        er auferstehen.</p>
+            </postscript>
+            <postscript>
+               <p>Dieses theure Fragment aus seiner <hi rendition="#u" hand="#author">Biographie</hi> bleibe Ihr
+                            Eigenthum, und Sie dürfen es Freunden vorlesen, aber nicht zum Drucke
+                            gebrauchen lassen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

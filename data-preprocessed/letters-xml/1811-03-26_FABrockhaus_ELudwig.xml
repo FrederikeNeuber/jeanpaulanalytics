@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0958">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Arnold Brockhaus an Ernst Karl Friedrich Ludwig. Muiden oder
+                    Amsterdam, 26. März 1811, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000501">Friedrich Arnold Brockhaus</persName>
+               <placeName key="JP-013060">Muiden</placeName>
+               <placeName key="JP-005528">Amsterdam</placeName>
+               <date when="1811-03-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002527">Ernst Karl Friedrich Ludwig</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Heute etwas über der armen <persName key="JP-004393">Minna</persName> Schicksal.
+                        <anchor type="target" xml:id="start_lzs_h21_5nb"/>Gestern erhielt ich von <persName key="JP-003469">Karolinen</persName>
+                            Briefe. Auch sie betrachtet unsere Trennung – <persName key="JP-004393">Minna’s</persName> und meine – als entschieden durch den
+                    Willen des <persName key="JP-002703">Vaters</persName>.<anchor type="target" xml:id="stop_lzs_h21_5nb"/> Mein Herz zuckt krampfhaft bei dieser
+                    Entscheidung, denn <persName key="JP-004393">Minna</persName> war mir unendlich
+                    und ist mir noch sehr theuer. Mein Verstand tritt aber der Entscheidung des
+                        <persName key="JP-002703">Vaters</persName> mit Beifall bei. Er sagt mir
+                    trocken weg, daß eine Ehe ohne Schönheit und Reinheit der Gefühle, ohne innige
+                    Achtung, ohne Vertrauen mich nur höchst unglücklich würde gemacht haben. "Der Wahn ist kurz, die Reu' ist lang", sagt <persName key="JP-003737">Schiller</persName> so bedeutend, und allerdings: das Leben
+                    ist zu ernst, als daß man poetische Gefühle allein Gewalt darin dürfte über sich
+                    ausüben lassen. Ich habe schweres Lehrgeld dafür gegeben!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

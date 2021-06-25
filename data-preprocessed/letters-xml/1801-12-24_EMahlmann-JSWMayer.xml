@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0783">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 24.
+                    Dezember 1801, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1801-12-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>den 24<hi rendition="#u" hand="#author">t</hi>
+                  <hi rendition="#u" hand="#author">Dezembr</hi> 1801.</dateline>
+            </opener>
+            <p>Mein geliebter Vater, es ist jetzt wieder die Zeit der allgemeinen Freude! – Wie
+                    gern möchte ich auch zu der Ihrigen recht viel beitragen können! Doch auch eine
+                    Kleinigkeit ist Ihnen als ein Zeichen meines kindichen Andenkens werth, und
+                    darum lege ich Ihnen an der Stelle jenes verlornen Geldbeutels einen bey den ich
+                    für Sie gestrickt habe! – Sie hätten ihn schon früher erhalten wenn nicht die
+                    Krankheit <persName key="JP-002583">meines Mannes</persName> mich abgehalten
+                    hätte. Dem Himmel sey Dank daß es mit dieser nun ganz vorbeye ist. Jetzt bin ich so ruhig, als ich vorher
+                    in Sorge war. Es war in der That gar Spaß – und mir stand das Bild des jungen <persName key="JP-012225">Gilly</persName> immer vor Augen. –</p>
+            <p>Mir liegt jetzt nichts mehr am Herzen als von <persName key="JP-002702">Gustchens</persName> Zustand bald wieder etwas zu hören. Diese Sorge
+                    schmälert mir den Genuß dieser schönen Zeit in der man so gern wieder zum Kinde
+                    wird. In unsrer Familie ist es ja so immer eine  bange Zeit – und ich wünsche nur
+                    daß der Neujahrs-Tag nur wieder glücklich vorbey wäre – der war ja immer ein
+                    UnglücksTag! – Nehmen Sie sich doch ja in Acht liebster Vater! – Wie gern wäre
+                    ich jetzt wieder in meinem väterlichen Hause!</p>
+            <p>So ist es doch gar nicht mehr, als
+                    wenn man im Kreise seiner Familie lebt! Ich habe ja doch keine Kinder denen ich bescheeren kann! Und
+                         worüber ich mich
+                    auch freuen kann – es ist mir doch alles so fremd! – </p>
+            <p>Mit <persName key="JP-004393">Minna</persName> ist es recht gut gegangen! Doch
+                    muß sie das Haus noch hüten und entbehrt daher das Vergnügen den Jubel in der
+                    Stadt zu sehen.</p>
+            <p>Doch mich dünkt die Menschen freuen sich hier doch eigentlich gar nicht so wie in <placeName key="JP-005586">Berlin</placeName>. Alles ist stiller, feierlicher! – Ich sehne mich ordentlich danach, die Knaben die mit ihren Knarren auf den
+                    Straßen umherlaufen, und sich vor jubelnder Freude nicht zu laßen wißen, einmal
+                    zu hören!</p>
+            <p>Ich bitte <persName key="JP-002702">Gustchen</persName> mir doch ja zu schreiben,
+                    was sie alles  geschenckt bekommen hat. – Ich lege diese Kleinigkeiten
+                    für sie bey und grüße sie recht herzlich. Die Zeit ist zu kurz nun auch ihr noch
+                    zu schreiben. Ich küße in Gedanken Ihre liebe Hand, mein bester Vater, und bin
+                    ewig  Ihre treue Tochter</p>
+            <closer>
+               <signed>E. M:</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-002583">Mein Mann</persName> empfielt  sich Ihnen und
+                            <persName key="JP-002702">Gustchen</persName> und allen, die sich  seiner erinnern.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0206">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karoline Wilhelmine von Giech-Schönburg an Caroline Richter. Thurnau, 13.
+                    November 1825, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001320">Karoline Wilhelmine von Giech-Schönburg</persName>
+               <placeName key="JP-011932">Thurnau</placeName>
+               <date when="1825-11-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Thurnau den 13. 9br 1825.</dateline>
+               <salute>Meine sehr verehrte Frau Legations-Räthin.</salute>
+            </opener>
+            <p>Mit tiefer Wehmuth trente ich mich
+                    Gestern von Ihnen, mit meinem Gebet und mit meinen Gedancken bin ich jedoch
+                    stets bei Ihnen und <persName key="JP-003482">den theuren Ihrigen</persName>.
+                    Gott stärcke Got erhalte Sie!!</p>
+            <p>Die Inlage fande ich Gestern Abend bei meiner Heimkehr.
+                    Ihr Inhalt sprach mir gleich an das Herz. Ihrer gedachte ich in diesem
+                    Augenblick besonders. Daher beschloße ich sogleich Sie Ihnen, verEhrte Freundin,
+                    mit zu theilen. Die herrlichen Worte des werthesten Geistlichen sind ganz dazu geeignet. Trost und Beruhigung
+                    dem trauernden Kumer vollen Herzen zu geben möchte auch Ihr schwerbelastetes
+                    Herz diesem Balsam in diesen finden Dieß ist der aufrichtige Wunsch derjenigen
+                    welche sich mit hoher Achtung für Sie nent</p>
+            <closer>
+               <signed>Ihre gehorsame Dienerin Karoline Giech
+                            Schönburg.</signed>
+            </closer>
+            <postscript>
+               <p>Nach Durchlesung der Beilage bitte ich mir sie  wieder zu
+                        schicken.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

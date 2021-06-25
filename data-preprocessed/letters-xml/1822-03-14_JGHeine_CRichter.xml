@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0705">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Georg Heine an Caroline Richter. Würzburg, 14. März 1822, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001608">Johann Georg Heine</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+               <date when="1822-03-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012235">Würzburger Kreis</term>
+               <term xml:id="JP-012567">Ärztekorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Würzburg den 14. März 1822</dateline>
+               <salute>Gnädige Frau!</salute>
+            </opener>
+            <p>Drang der Geschäften sind Ursache einer etwas späten Beantwortung Dero
+                        verehrtenZuschrift vom 1<hi rendition="#u" hand="#author">ten</hi>
+                            März. – In demselben zu vernehmen, daß Sie <persName key="JP-003491">Ihre
+                        Fräulein Tochter</persName> mir in die Kur anzuvertauen entschlossen haben,
+                    freuet mich sehr, und ich fühle mich dadurch in der Tochter eines so <persName key="JP-999999">berühmten, und verdienstvollen Mannes</persName>
+                    aufgemuntert, und geschmeichelt, ich werde gewiß mit aller Kunst, und mir zu
+                    Geboth stehenden Mittel hier handeln, und streben dieses schmeichelhafte
+                    Vertrauen in jeder Beziehung thätigst zu begründen. </p>
+            <p>Es ist für Sie gnädige Frau, und Dero <persName key="JP-003491">Fräulein
+                        Tochter</persName> zum Empfang alles Erforderliche in Bereitschaft, und ich
+                    lade Sie anmit ein bey Dero Ankunft, es sey bey Tag, oder Nacht, sogleich bey
+                    mir auszusteigen.</p>
+            <closer>
+               <salute>In der angenehmen Hofnung, Sie bald hier zu sehen, verharre ich mit
+                        besonderer Verehrung</salute>
+               <signed>Ihro Hochwohlgeborendienstwilliggehorsamster Diener Gr. Heine.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

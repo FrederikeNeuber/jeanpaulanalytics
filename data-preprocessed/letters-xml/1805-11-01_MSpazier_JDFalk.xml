@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0145">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Johannes Daniel Falk. Leipzig, 1. November 1805, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1805-11-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig den 1tenNovember 1805</dateline>
+            </opener>
+            <p>Was werden Sie von mir denken theuerster bester Freund, daß ich mit der Besorgung
+                    Ihres Auftrages so lange säumte. Wenn Sie nun gar gedacht hätten ich wäre mit
+                    Ihrem blanken Gelde in alle Welt gegangen. – So ist es nicht, und ich bin noch
+                    an Ort und Stelle, auch vergeht einem wohl das Durchgehn auf den durchnäßten eisigen Wegen, denen der liebe Gott so ungebührlich früh
+                    ihren Herbststaat ausgezogen hat. Ist es nicht schrecklich daß wir schon so viel
+                    Holz in den Ofen stecken müßen, und alle Pelze anziehen  die wir haben?</p>
+            <p>Tausend Dank theurer redlicher Freund für ihr Geschenk. Wir besitzen beyde Bücher in Kompagnon nicht wie etwa unsere Herzen, denn ein Jeder hat dasSeinige für sich; allein aus Wiederspruchs Geist lieset M. zu erst den <bibl sameAs="JP-011905" subtype="werk">Johannes</bibl>, und ich die <bibl sameAs="JP-011975" subtype="werk">Satyren</bibl>. Nicht umgekehrt, wie Eure Hoheiten es haben
+                    wollten.</p>
+            <p>Es giebt hier manchen guten Menschen mit dem man von so einen guten Menschen wie Sie sind, lieber Falk mitunter reden kann. Die
+                    Nahmen  thun nichts dabey – nicht wahr?</p>
+            <p>Ich hätte Ihnen gern ein Exemplar meines eleganten litterarisch frivolen, <bibl sameAs="JP-010371" subtype="werk">Toiletten Andachtsbuch</bibl>, mit
+                    beigelegt. Aber es fehlt noch am Buchbinder der sich gewaltig damit angreifen
+                    soll, wie ich gehört habe. So bald eins da ist, erhalten Sie oder vielmehr Ihre
+                    liebreizende <persName key="JP-012933">Frau</persName>, die ich nebst dem kleinen Zubehör der holdseeligen <persName key="JP-012316">Angelika</persName>, mit inniger Rührung
+                            begrüße – so wie auch <persName key="JP-003908">Schütz</persName>, sammtlich das Ihnen
+                            gebührende.</p>
+            <p>Gelesen habe ich noch nicht viel in Ihrem <bibl sameAs="JP-011975" subtype="werk">Buche</bibl>, aber doch genug um mich darüber zu freuen. DerArzt und die Tyrolerin, sind ungemein reizend
+                    gehalten. Ich mochte sagen das: „Ruh' mit der Gnad'“ der kleinen Verliebten, ist recht sinnverführend – wenn das nicht gegen die Decenz wäre.</p>
+            <closer>
+               <salute>Leben Sie wohl theurer Freund – schicken Sie mir nur recht viel Wechsel
+                        damit es Ihnen nie an Louis d'ors fehle; sie sind das Einzige
+                        womit man sich die elende ennuyante Welt, vom Halse halten kann.</salute>
+               <signed>Minna Spazier.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

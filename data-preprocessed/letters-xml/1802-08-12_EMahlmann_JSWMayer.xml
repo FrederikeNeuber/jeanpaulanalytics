@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0466">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Freiberg, 12.
+                    August 1802, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005754">Freiberg in Sachsen</placeName>
+               <date when="1802-08-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Freiberg. den 12<hi rendition="#u" hand="#author">t</hi> August 1802.</dateline>
+            </opener>
+            <p>ich bin unruhig, mein theurer geliebter Vater, ob Sie auch nuneinen Brief von mir, in Begleitung einer kleinen Schachtelerhalten haben; da nach den Nachrichten welche mir <persName key="JP-002583">mein Mann</persName> von Ihnen gegeben hat – irgend eine
+                    Unordnung damit vorgefallen seyn muß. ich lege Ihnen auch Carolinens Brief an Sie wieder bey. den ich neulich vergaß!
+                        – Sie haben nun gewiß die himmlische Nachricht empfangen, welche
+                            Carolinen eine so schöne Hoffnung zusagt, deren Erfüllung ihr Glück noch
+                            erhöhen wird! – Meine Freude
+                    darüber war unendlich! –</p>
+            <p>Wie geht es aber Ihnen, mein geliebter Vater? Hat sich Ihnen noch keine heitre
+                    Außicht für die Zukunft eröffnet? Schreiben Sie mir doch ja recht bald; <anchor type="target" xml:id="start_v15_gdg_gjb"/>Bis den 23ten August werde ich in <placeName key="JP-005754">Freiberg</placeName>
+                        verweilen.<anchor type="target" xml:id="stop_v15_gdg_gjb"/> Dann aber soll
+                    nichts mich abhalten, nach langer Sehnsucht in die Arme <persName key="JP-002583">meines geliebten Mannes</persName> zurückzukehren. Danach
+                    möchten Sie sich richten, mein liebster  Vater, damit mir nicht etwa
+                    einer von Ihren lieben Briefen entgeht. –</p>
+            <p>eine Vorbereitung zu einer Landpartie für
+                    den heutigen schönen Tag, macht es mir unmöglich – Ihnen  noch mehr zu schreiben! Leben Sie doch
+                    recht wohl mein theurer Vater, und erhalten Sie mir Ihre Liebe so wie ich ewig
+                    bin</p>
+            <closer>
+               <signed>Ihre treue Tochter E'rnestine</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

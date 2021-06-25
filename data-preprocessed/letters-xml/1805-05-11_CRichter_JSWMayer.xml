@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0219">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 11. Mai
+                    1805, Sonnabend </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1805-05-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012176">Jean Pauls Werke</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Baireuth den 11<hi rendition="#uu" hand="#author">ten</hi>Mai 1805</hi>
+               </dateline>
+               <salute>Mein geliebter Vater,</salute>
+            </opener>
+            <p>
+               <ref type="letter" target="JP-UB0530">Ihren lezten Brief</ref>, worin Sie
+                    mir <persName key="JP-001073">Fichtes</persName> Besuch verkündigen, habe ich
+                    absichtlich so lange unbeantwortet gelaßen, bis ich durch sie mehr von Ihnen
+                    hörte. Sie waren endlich bei uns, nachdem wir an ihrer Durchreise gezweifelt hatten, und überraschten uns
+                    sehr angenehm. Die<persName key="JP-001074"> Frau</persName> mußte mir so viel
+                    als sie nur vermogte von Ihnen erzählen, worunter mich besonders die
+                    Versicherung so glüklich machte, daß Sie in Ihrem Aussehn sich durchaus nicht
+                    verändert haben, und trotz dem gehäuften Ungemach, was Sie traf,
+                    unerschütterlich gesund waren!  Gott erhalte sie noch
+                    lange so kräftig!</p>
+            <p>Zu meinen Träumen gehört jezt vorzüglich die <hi rendition="#u" hand="#author">Möglichkeit</hi>, daß Sie wann der <persName key="JP-001187">König</persName>
+               <placeName key="JP-005574">Baireuth</placeName> und <placeName key="JP-006424">Wonsiedel</placeName> besucht, mit <persName key="JP-002709">Ihrer
+                        Frau</persName> ihm nachfolgen könnten. Lachen Sie nicht über meinen Wahn,
+                    der noch nicht zu einem Glauben gereift ist, aber ich kann unmöglich unterlaßen
+                    mir das recht leicht vorzustellen da, wie ich mir einbilde, sich für Sie –  etwa mit <persName key="JP-000297">Frau von Berg</persName>, oder
+                    sogar <persName key="JP-001288">Prinzen George</persName> eine Reisegelegenheit dadurch öfnete, die Ihnen das Kostbare einer
+                    solchen Reise zum Theil erleichterte. Erwägen Sie es einmal ob es nicht zu
+                    machen wäre! Einer Zerstreuung bedürfen Sie ja wohl sehr, und für die Gesundheit
+                        <persName key="JP-002709">Ihrer theuern Frau</persName> wäre es gewis
+                    zuträglich, die, wie ich durch <persName key="JP-001073">Fichte</persName>
+                    hörte, mehr als Sie mir sagten, an Ihrem Übel gelitten hat.</p>
+            <p>Die <ref type="letter" subtype="document" target="4-V_37">Cabinetsordre</ref>
+                    lege ich heute bei, die ich das vorigemal nur deshalb nicht abschrieb, weil Sie
+                    mündlich durch <persName key="JP-000358">Beyme</persName> die resolution schon kannten. Sie
+                            sind so thätig für diese Sache, mein guter Vater, und um Ihretwillen
+                            wünsche ich, daß sie gelingt. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0530/#start_h3j_dzx_hnb">Die Nachrichten der
+                            <persName key="JP-002007">Frau von Kalb</persName> nehmen Sie nicht so wichtig.</ref> Ein paar hingeworfenen Ideen
+                        <persName key="JP-999999">meines Mannes</persName>
+               <ref type="letter"
+                    subtype="document"
+                    target="https://www.jeanpaul-edition.de/brief.html?num=V_89">in einem Briefe
+                        an sie</ref>"daß er wohl <persName key="JP-001909">Jacobi</persName> nach <placeName key="JP-006040">München</placeName> nachziehn
+                            möchte" "daß eine Stelle dort als Akademiker ihm recht seyn
+                            könnte". müßte diese veranlaßt haben den Wunsch für die
+                    Gewisheit zu nehmen, weil sie so viel Phantasie hat, daß leider zu ihrem  Schaden im Leben sich Traum und Wirklichkeit zu sehr in ihrem Gemüth
+                    vermischen. Doch eben diese kindliche Täuschungsgabe, macht sie auf der andern
+                    Seite so ehrwürdig. Auch sie schreibt oft von Ihnen, und liebt besonders
+                        <persName key="JP-002709">Ihre Frau</persName> ganz ausgezeichnet. Sie
+                    wünscht so sehr, <persName key="JP-001909">Jakobi</persName>, dem <persName key="JP-999999">mein Mann</persName> sie, als seine
+                    Freundin empfolen hat, auch bei und mit Ihnen zu sehen,  ein Beisammenseyn, zu dem ich allein, <persName key="JP-999999">meinen
+                        Mann</persName> nach <placeName key="JP-005586">Berlin</placeName>
+                    wünschte!</p>
+            <p>Von einem lebaften Streite zwischen <persName key="JP-999999">meinen
+                        Mann</persName> und <persName key="JP-001073">Fichte</persName>, werden Sie
+                    vielleicht schon durch Frl. Altenstein gehört haben, denn so etwas fält sehr auf, zumal wenn die Zuhörer die
+                    Streiter nicht verstehen. Es betraf wieder den <bibl sameAs="JP-010571" subtype="werke-jp">clavis</bibl> und <persName key="JP-001073">Fichte</persName> hat ein wenig Unrecht,
+                    indem er troz seiner Schmähungen gegen denselben ihn nicht  gelesen zu haben, vorgab – was er da <persName key="JP-999999">mein Mann</persName> ihn in die Enge trieb, nach einigen Minuten,
+                    zurüknehmen muste . </p>
+            <p>Sonst waren sie sehr gut gegenander. <persName key="JP-001074">Die
+                        Frau</persName> sagte mir daß Sie mit ihm recht Freund waren.  </p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0530/#start_sjy_1by_hnb">Was Sie mir von <persName key="JP-004393">Minna</persName> sagen</ref>, finde ich ganz recht.
+                        <persName key="JP-004393">Minna</persName> muß nicht in <placeName key="JP-005586">Berlin</placeName> wohnen auch nicht in <placeName key="JP-005574">Baireuth</placeName> weil sie hier gar kein interesse des äußeren Lebens finden würde. Ich bin von
+                    meinem Wunsch zurükgekommen, weil er blos auf meinen Vortheil berechnet war –
+                    ich könte <persName key="JP-004393">Minna</persName> nicht ersezen was sie
+                    aufopfern müste. Sie schreibt mir nie etwas von Ihrer Lage, ich weis also auch
+                    nicht, in wiefern Sie Ihrer väterlichen Unterstüzung sehr bedürftig ist. Aber
+                    ich freue mich unendlich, daß Sie sie ihr geben wollen und denke dabei an die
+                    Freude <persName key="JP-002581">unserer verklärten Göttlichen</persName>, die
+                    nur im Geben das höchste Glük fand, und die es gewis weis was Sie thun! – auch
+                    haben Sie Dank, mein Vater, für die Anwendung des genannten Capitals für <persName key="JP-004106">Julius</persName>, die wir alle
+                    einstimmig billigen müßen. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0530/#start_c1t_gby_hnb">Die Grüße von der Tante <persName key="JP-002779">Merzdorf</persName>, <persName key="JP-012105">der guten Sommer</persName>, und <persName key="JP-002715">Wilhelm</persName> (der wie ich
+                        daraus sehe) noch bei Ihnen ist, habe ich dankbar angenommen, geben Sie sie
+                        ihnen herzlich wieder. ich habe im Calender gefunden, daß sie am ersten
+                        Ostertage bei Ihnen waren, es dauern also diese Familienfeste noch
+                        fort.</ref>
+            </p>
+            <closer>
+               <salute>Leben Sie wohl, mein geliebtester Vater, grüßen Sie innigst <persName key="JP-002709">Ihre verehrte Frau</persName> von mir, und <persName key="JP-999999">meinen Mann</persName> der sich Ihnen herzlich
+                        empfiehlt. Gott erhalte meinen theuren Vater!</salute>
+               <signed>Ihre Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

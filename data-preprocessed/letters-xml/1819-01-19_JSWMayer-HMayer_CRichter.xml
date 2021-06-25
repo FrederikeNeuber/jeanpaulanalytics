@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0543">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm und Henriette Mayer an Caroline Richter. Berlin,
+                    19. Januar 1819, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002709">Julie Henriette Mayer</persName>
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1819-01-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012533">Lektüre(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-002703">
+            <opener>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Nur drey Worte.<list>
+                  <item>1, Dank für die übersandten weiblichen Arbeiten, die ich mit Vergnügen
+                            verbrauchen werde.</item>
+                  <item>2, Anzeige, daß ich wahrscheinlich nach <placeName key="JP-006002">Marien Bad</placeName> gehen werde.</item>
+               </list>
+            </p>
+            <p>Noch sind die Ärtzte hier darüber nicht einig, ob ich nicht zuerst nach <placeName key="JP-006328">Töplitz</placeName> gehen
+                    muß. Auf beyde Fälle wünschte ich zu wißen, wann u bey <hi rendition="#u" hand="#author">wem</hi> ich mich wegen des <anchor type="target" xml:id="start_kx5_cfw_xjb"/>Unterkommens mit <persName key="JP-002709">meiner Frau</persName>, nebst weiblicher u männlicher Bedienung<anchor type="target" xml:id="stop_kx5_cfw_xjb"/>, zu melden habe. ich wünsche meublirte
+                    Stube u Cammer nebst Betten für mich u <persName key="JP-002709">meine
+                        Frau</persName>. u ditozwey Cammern nebst Betten für
+                    beyde domestiquen. Auch wünschte ich eine Küche, die
+                    zugleich wo möglich für HoltzGelaß, Raum enthalte. Sonst besondern Holtz Gelaß, u
+                    ein anständiges appartment. Überhaupt freye  Außicht; u  freundliche
+                    Gegend!</p>
+            <closer>
+               <salute>Mündlich Entschuldigung für diesen in Eyl geschriebenen  Brief.</salute>
+               <signed>Dein treuer Vater Mayer</signed>
+               <dateline>Berlin d. 19. Januar 19 </dateline>
+            </closer>
+         </div>
+         <div hand="#JP-002709">
+            <p>Theureste Caroline; ich bin Ihnen noch die Ausdrücke
+                    meines herzlichsten Danks schuldig, für die <bibl sameAs="JP-010540" subtype="werke-jp">Frucht und Dornenstücke</bibl>
+               <persName key="JP-999999">Ihres Mannes</persName>, die mir zugeschickt worden
+                    sind, und gewiß auf Ihr Geheiß; <bibl sameAs="JP-010540" subtype="werke-jp">dies
+                        Buch</bibl> gefiel mir immer ganz vorzüglich wie ich höre hat es noch sehr
+                    gewonnen; denn ich habe es selbst seit seiner Erweiterung nicht gelesen, da ich diesen Winter fast immer leidend und viel
+                    bettlägerig war, und besonders meine Augen, durch die Gichtschmerzen im Kopfe so
+                    angegriffen daß ich wenig oder nichts lese. ich will mich diesen Sommer an Ihrem
+                    lieben Buch ergötzen. <persName key="JP-004106">Julius Spazier</persName> ließt mir Abends häufig vor, jetzt <bibl sameAs="JP-010695" subtype="werke-jp">die Flegeljahre</bibl>, <persName key="JP-999999">Ihres
+                        Mannes</persName>, die ich zwar schon vor mehreren Jahren gelesen hatte  aber sie erscheinen mir ganz neu, und unterhalten mich auf das
+                    angenehmste. ich mache dieselbe Erfahrung bei <bibl sameAs="JP-010695" subtype="werke-jp">diesem Buch</bibl> als bei <bibl sameAs="JP-008545" subtype="werk">Meisters Lehrjahre</bibl> von <persName key="JP-001353">Göthe</persName>, wo ich jedes mahl, daß ich es wiederlese neue Schönheiten
+                    entdecke, die mir früher unbemerkt geblieben.</p>
+            <p>Sagen Sie mir, lieber Engel, ob Sie das <placeName key="JP-006002">Marienbad</placeName> kennen? ich habe es nie nennen hören da ich doch so
+                    oft in <placeName key="JP-005602">Böhmen</placeName> war. <persName key="JP-002703">Mayer</persName> wünscht sich dahin. wenn es nur nicht so sehr neu und daher wenig
+                    eingerichtet sei, und er, außer der Heilqelle, die ich voraussetze, Mangel an Umgang und
+                    wenig Bequemlichkeiten, finden wird.</p>
+            <p>Wie weit ist es von <placeName key="JP-005574">Baireuth</placeName>, würden wir Ihnen in
+                        <placeName key="JP-006328">Töpliz</placeName> näher sein? ich wage es nicht
+                    einen Plan zu machen; aber  ich wünsche, was Sie gewiß wünschen und
+                    auch <persName key="JP-002703">Mayer</persName>, eine Vereinigung mit Ihnen; da gebe der Himmel sein Gedeien, <hi rendition="#u" hand="#author">wie</hi> oder <hi rendition="#u" hand="#author">wo</hi> man muß schon alles anheim stellen. </p>
+            <p>Wie hübsch schreiben <persName key="JP-003483">Ihre Kinder</persName> auch selbst
+                        <persName key="JP-003491">die Jüngste</persName>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0099/#start_gth_gyv_xjb">mein liebes Patchen</ref>. ich küße sie alle in Gedanken und wie herzlich
+                    wenn wir uns vereinigen. Empfehlen Sie mich <persName key="JP-999999">Ihrem
+                        Mann</persName> und behalten Sie mich lieb, wie ich Sie</p>
+            <closer>
+               <signed>H. Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

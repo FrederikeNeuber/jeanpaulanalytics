@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 27. Oktober
+                    1818, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1818-10-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012693">Personalien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Wir sind hier zwar noch nicht gantz mit der Arrangirung<placeName key="JP-012914">im neuen Quartiere</placeName> (welches
+                    einen Theil der ehemaligen Blumen fabrique an der Gertraudten
+                            Brüke, deren local jetzt
+                        einem<persName key="JP-012112"> Brandwein Brenner Claude</persName> gehört, befaßet) fertig, aber doch grösten
+                    Theils, u ich will nicht länger anstehen, Dir auf <ref type="letter" target="JP-UB0413">Deinen letzten lieben Brief</ref>, etwas
+                    umständlicher zu antworten.</p>
+            <p>
+               <anchor type="target" xml:id="start_xn4_xjp_xjb"/>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0413/#start_qvw_wm4_xjb">Das
+                            Hauptthema betraf mein Befinden</ref>; und diß
+                    ist zwar <hi rendition="#u" hand="#author">innerlich</hi> sehr gut; allein äußerlich wird es bey zunehmender Kälte immer schlimmer,
+                    sodaß ich auf dem Stein Pflaster nicht ohne Hülfe fortkann. Gleichwohl ist
+                    fortgesetzte Bewegung, in freyer Luft ein unentbehrliches Stärkungs Mittel, u
+                    wenn ich auch die dadurch veranlaßten Kosten nicht scheue, so ist doch meine
+                    Abhängigkeit von fremder Hülfe mit einem drükenden Gefühl verbunden, welches die
+                    mir sonst eigne energie des Gemüths in eben dem Grade
+                    lähmt, als die Kraftlosigkeit meines Cörpers. ich werde daher auch im künftigen
+                    Jahre ein Bad von brauchbarer Stärke zu Hülfe nehmen müßen, um wo möglich wieder
+                    hergestellt zu werden; so weit es bey meinem Eintritt in das 72te Jahr möglich
+                        ist.<anchor type="target" xml:id="stop_xn4_xjp_xjb"/>
+            </p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0413/#start_dlh_1n4_xjb">Das zweyte thema betraf Dein Vorwort für <persName key="JP-000009">Minona</persName>, falst Sie Sich behufs ihrer Selbstständigkeit, der Malerey
+                        widmen sollte.</ref> Allein als Gewerbe kann ich diß doch nicht billigen;
+                    und werde es bloß als Geschmaks-Sache unterstützen. Diß habe ich ihr auch
+                    geschrieben, u erwarte darauf noch ihre Antwort.</p>
+            <p>Noch wünschte ich zu wißen, wie es mit dem Stipendien
+                    Gesuch <persName key="JP-999999">Deines Mannes</persName> in <placeName key="JP-005665">Dessau</placeName>
+               
+                    stehet?</p>
+            <p>Antworte mir hierauf; u sage mir, was ich dazu noch thun kann?</p>
+            <p>Daß der <persName key="JP-012512">Justitz Rath Fellisch</persName> in <placeName key="JP-005742">Frankfurth</placeName> todt, u <persName key="JP-012801">seine Frau</persName> nebst <persName key="JP-012980">6. Kindern</persName>, worunter doch 2. Stief
+                    Kinder sind, in elenden Umständen zurükgeblieben ist, gehört zu den neuen
+                    Unfällen in der Familie, wovon Du bisher wohl kaum den ersten gewust haben
+                    wirst. Traurig, daß diß bey meinem hohen Alter zutraff, wo ich keine Außicht
+                    mehr habe, meine Finantzen so zu verbeßern, daß ich auch hier die so benötigte
+                    Unterstützung leisten könnte.</p>
+            <p>Übrigens gibt es hier Personen, welche glauben, <persName key="JP-999999">Dein
+                        Mann</persName> werde nach <placeName key="JP-005607">Bonn</placeName> gehen. Melde mir doch ob etwas daran ist? und
+                    grüße <persName key="JP-999999">Deinen Mann</persName> u <persName key="JP-003483">Kinder</persName>. <persName key="JP-002709">Meine
+                        Frau</persName> grüßt ebenfalst.</p>
+            <closer>
+               <signed>Dein treuer Vater Mayer</signed>
+               <dateline>B. 27. 8.ber 18. </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <ref target="JP-UB0413/#nwg4_sl2_wjb">Die <persName key="JP-002779">Tante Mertzdorff</persName> hat so viel gewonnen, daß sie ohne Krüke in ihrer Stube, bloß auf
+                            einen Stab gelehnet, gehen kan.</ref> Da sie hoch wohnt, u eine steile
+                        Treppe zu ihr führt, so sehe ich sie selten. Auch wohne ich in größerer
+                        Entfernung von ihr; doch hören wir nicht auf, Antheil an ihr zu nehmen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

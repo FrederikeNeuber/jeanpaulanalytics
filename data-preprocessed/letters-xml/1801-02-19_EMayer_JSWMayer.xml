@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0240">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mayer an Johann Siegfried Wilhelm Mayer. Leipzig, 19. Februar
+                    1801, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1801-02-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>den 19ten Februar 1801</dateline>
+            </opener>
+            <p>Mein liebster Vater, ich nehme einen Augenblick wahr den ich grade frey habe (und
+                    das ist jetzt etwas selten) um Ihnen zu sagen daß die gute <persName key="JP-004393">Minna</persName> sich fortdauernd so wohl befindet als es
+                    die Umstände nur immer erlauben.Es ist heute der 7te Tag und wir freuen uns an jedem neuen daß alles so
+                    sehr glücklich geht, – über alle Erwartung. Wir haben jetzt eine rechte
+                    Sehnsucht nach Briefen von Ihnen, liebster Vater! – Es ist schon so lange daß
+                    wir keine erhielten. – Sie sind doch wohl und gesund? –</p>
+            <p>
+               <persName key="JP-002583">Mahlmann</persName> sagte mir
+                    gestern von einer Gelegenheit die sich vielleicht finden könnte, mich in einer
+                    Zeit von etwa 14 Tagen nach <placeName key="JP-005586">Berlin</placeName>
+                    zurückzuführen. <anchor type="target" xml:id="start_flb_l45_2jb"/>Die <persName key="JP-012142">Frau des<persName key="JP-012342">Banquier Küsner<anchor type="target" xml:id="stop_flb_l45_2jb"/>
+                  </persName>
+               </persName> will eine
+                    Reise dorthin machen, und wenn noch etwas daraus wird so bedürfte es
+                    wahrscheinlich nur Ihrer Erlaubniß – denn ich zweifle nicht, daß sie sich gern
+                    dazu verstehen würde neue ReiseGesellschaften
+                    anzunehmen. Doch wünsche ich aus Gründen daß Sie, liebster Vater, keinen
+                    Gebrauch von dieser Idee machen.  in <placeName key="JP-005586">Berlin</placeName> nemlich. – Es ist eine recht liebenswürdige alte Frau –
+                    auch im Clausiusschen
+                            Hause, wo Sie jetzt wohl auch
+                    zuweilen sind? – sehr bekannt.</p>
+            <p>ich habe nicht Zeit weitläuftiger zu seyn , denn <persName key="JP-004393">Minna</persName> verlangt nach mir. Laßen Sie uns doch bald etwas von sich hören und leben Sie so wohl und glücklich als es wünscht</p>
+            <closer>
+               <signed>Ihre treue Tochter Ernestine.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

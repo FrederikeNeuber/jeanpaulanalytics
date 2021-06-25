@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0066">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Unbekannt. Dessau, 2. Juni 1800, Montag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005665">Dessau</placeName>
+               <date when="1800-06-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004373">Unbekannte Korrespondent/innen</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-012745">August Eberhard Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Dess. 2ter Juny. 1800.</dateline>So zudringlich es Ihnen u Herrn Organist Müller scheinen mag, so kann ich doch nicht
+                    umhin meine letzthin geäusserte Bitte zu wiederholen. Die Umstände sind nicht mehr in meiner Gewalt, der Prozeß mit
+                                <persName key="JP-001753">Herrn H.</persName>, der seiner
+                            Klarheit wegen nicht lange wird dauern dürfen, muß eingeleitet
+                    werden u bevor ich die Zeugnisse meines Rechtsgrundes nicht habe, kann ich
+                    nichts anfangen. Ich wünschte so gern Sie der gerichtlichen Weitläuftigkeit zu
+                    überheben u ein hiesiger Jurist hat mir gesagt, daß dies vor der Hand dadurch
+                    geschehen könne, daß Sie beiderseits u wer sonst aus persönlicher Rücksicht kein
+                    Bedenken trägt der Wahrheit die Ehre zu geben, mir einfache untersiegelte
+                    Zeugnisse ausstellen u, um dem Leugnen des Beklagten zu  begegnen,
+                    zugleich dabey versichern, daß Sie nöthigenfalls erbötig wären, sie eidlich zu
+                    erhärten. Ich hoffe, daß Sie so gütig seyn werden, mich in dieser Ehrensache,
+                    die mir schlechterdings nicht mehr gleichgültig bleiben kann, zu unterstützen u
+                    daß Sie sich nicht aus Bedenklichkeiten davon zurückhalten laßen werden, die ich
+                    in dem Kampf für meine angegriffene Ehre, selbst Ihrer Verzeihung gewiß, für
+                    geringer als mein einmal beabsichtigtes Ziel halten müßte. <persName key="JP-003383">Reichardt</persName> kann mir doch nicht eine glatte
+                    Unwahrheit geschrieben haben. Ich bin überzeugt, daß wenn er geahndet hätte daß
+                    ich sie so ernstlich hätte aufnehmen müssen, er mir lieber nichts davon gesagt
+                    haben würde. Aber nun ich darum weiß, nun ich gegen den Beleidiger  schon davon gesprochen, ist kein anderes Mittel als die Sache, durchzusetzen,
+                    so äußerst unangenehm es mir auch ist, da ich noch nie in meinem Leben einen
+                    ähnlichen Fall gehabt noch jemals in gerichtliche Streitigkeiten verwickelt
+                    worden bin. Man kann in der Welt etwas besseres thun, als Injuriesprozesse
+                    führen. Aber ich kann meine Sache Menschen in <placeName key="JP-005586">Berlin</placeName> übergeben, die mir den größten Theil meiner Sorge
+                    abnehmen können u werden.</opener>
+            <p> Seyen Sie dennoch so gütig, diesen Brief Herrn
+                            Müller zu communiciren; er ist
+                    für ihn mit geschrieben u er wird mir zu Gute halten, daß ich, aus Zeitmangel,
+                    mich nicht noch besonders auch an Ihn wende.</p>
+            <closer>
+               <salute>Hochachtungs u Vertrauensvoll bin ich Ihrer beider</salute>
+               <signed>ergebenster Spazier</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1099">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Heinrich Voß an Christian Freiherr Truchsess von Wetzhausen. Heidelberg,
+                    19. Mai 1811, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004520">Heinrich Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1811-05-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg, 19. Mai 1811.</dateline>
+            </opener>
+            <p>Stelle ich Dich denn wirklich zu hoch, wie Du mehrmals
+                            geäußert hast? Ich verstehe das nicht;
+                    ich habe Dir nie eine Schmeichelei gesagt, zu keinem Menschen hab' ich's; ich
+                    habe nur gesprochen und geschrieben, wie mir's um's Herz war. Daß ich durch und
+                    durch warm bin, wenn ich an Dich denke, ist wahr; daß, wenn ich an Dich
+                    schreibe, und lieber bei Dir säße und durch einen Händedruck mehr sagte, als
+                    ich's in Worten kann, mitunter so ein Händedruck in meine Worte übergeht, mag
+                    auch wahr sein – und dies, Du lieber Alter, nennst Du "zu hoch stellen". Sei mir
+                    weniger als Du bist, so will ich Dich tiefer stellen – oder besser, bleibe mir
+                    was Du bist, damit ich immer denken und fühlen kann, wie ich's thue.</p>
+            <p>Mein Vater sagte vorigen Herbst zur Sch.... (als eine
+                    geistreiche Schriftstellerin ihn besuchen wollte): "um Gottes Willen, schildern
+                    Sie mich wie einen Bären." Es kann dazu kommen, daß ich auch Dich einmal als
+                    einen Bären darstelle. Sieh! und dann kommst Du tief genug zu stehen.</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1098/#start_w4f_vnw_z4b">Man will mir jetzt die Geschäfte des Professors der Beredsamkeit <hi rendition="#u" hand="#author">provisorisch</hi> aufladen.
+                        Ich habe auch dieses sehr höflich abgelehnt</ref>, und
+                    an
+                    den äsopischen Bauer erinnert, der das Pferd viel streichelte und bat, sich nur
+                    Einmal ins Joch spannen zu lassen. Als das gute Pferd darin war, mußte es darin
+                    bleiben, und sitzt vielleicht noch darin.</p>
+            <p>Von <persName key="JP-000292">Graf <hi rendition="#u" hand="#author">Benzel</hi>
+               </persName> ist es eben <bibl sameAs="JP-013502" subtype="werk">der Cid (nach <hi rendition="#u" hand="#author">Pierre Corneille</hi>)</bibl> erschienen. Die Arbeit ist brav, aber –
+                    Gott mag wissen, woher es kommt – mir will die französische Comödie nicht ein.
+                    Die Leute erzählen so viel von ihren Gefühlen, und das macht mich mißtrauisch.
+                    Wer fühlt und ist zu gleicher Zeit Selbstbeobachter und Darsteller seines
+                    Innern? – </p>
+         </div>
+      </body>
+   </text>
+</TEI>

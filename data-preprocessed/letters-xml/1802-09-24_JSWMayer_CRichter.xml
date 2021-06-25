@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0821">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 24. September
+                    1802, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1802-09-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012212">Liebesleben / Ehe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>Hiebey die Antwort auf die Deinem letzten lieben
+                            Briefe beygefügte Beylage.  Die
+                            Sache ist so wie sie dargestellt ist, richtig, und mir selbst vom Tribunal bekannt. Eben diese Beziehung aber
+                            berechtigt mich auch zu befürchten, daß wenn H. Johannes Jacob sonst nichts hat, als was er von H. v. Gensen und Schütz
+                            fordern will, von ihm nichts zu erwarten sey, da er gegen diese Herrn,
+                            die nur in officio gehandelt haben, so wenig
+                            etwas ausrichten kann, als gegen des Königs Mayestät, deren Committenden. Er scheint also seine Gläubiger
+                            nur zu amusirn.</p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>
+               <anchor type="target" xml:id="start_wsr_dtb_ckb"/>Übrigens wirst Du von <persName key="JP-002581">Ernestine</persName> hoffentlich einen Brief von mir mitgetheilt erhalten haben, worinn
+                            ich Euch allen die Nachricht von meiner Verlobung mit <persName key="JP-002709">Henriette Cesar</persName> gemeldet habe<anchor type="target" xml:id="stop_wsr_dtb_ckb"/>. ich wiederhole Dir diß mit dem Zusatz, daß in
+                        <placeName key="JP-005586">Berlin</placeName> über die Güte dieser Heyrath nur eine Stimme ist, und daß sie
+                    allgemein angenehme Sensation macht. Es ist auch in der
+                    That ein sehr liebenswürdiges Mädchen; und ich denke den Abend meines Lebens
+                    ruhig zurückzulegen. Thue mir doch die liebe, und schreib zwey Zeilen voll
+                    Herzlichkeit an das liebe Wesen. Nenne Sie Freundin!</p>
+            <p>Meine Kürtze aber rechne auf das gespannte meiner Lage, da ich im Ausziehen begriffen u zugleich an den Altar der Themis, u
+                    den der Liebe gefeßelt bin.</p>
+            <p>Sollte Deine Entbindungs Stunde schon gekommen seyn, so
+                            hoffe ich zu Gott, Du u Dein Kind seyd gesund; wünsche auf jeden Fall den besten Erfolg, u hoffe baldige Nachricht. </p>
+            <p> Dein letzter Brief ist  Nahmens einer aus <placeName key="JP-005809">Halle</placeName> gekommenen Familie  abgegeben. ich verstehe davon nichts, daß
+                    sich der Überbringer nicht selbst gemeldet hat.</p>
+            <closer>
+               <salute>Viele Grüße an Deinen <persName key="JP-999999">lieben
+                        Mann</persName>.</salute>
+               <signed>Dein treuer Vater Mayer</signed>
+               <dateline>Berlin d. 24.7.ber 1802.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

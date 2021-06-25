@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0964">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Ernst Karl Friedrich Ludwig. Berlin, 3. Juni 1811, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1811-06-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002527">Ernst Karl Friedrich Ludwig</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012648">Altenburger Bekannte</term>
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012693">Personalien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Den Eindruck zu schildern, den das unerwartete Wiedersehen <persName key="JP-000898">unserer Freundin</persName> auf mich hervorgebracht hat,
+                    vermag dies ohnmächtige Wort nicht, o mein theuerer Freund! Ich hatte mich am
+                    Freitag auf wenige Minuten aus meiner Wohnung entfernt, die eben von rüstigen
+                    Händen festtäglich gesäubert wurde, als ich beim Wiedereröffnen der Thür eine
+                    Gestalt erblickte, über die mein Herz auch nicht einen Augenblick zweifelhaft
+                    blieb. Es war <persName key="JP-000898">Frau von Ehrenberg</persName>! Ich
+                    schloß sie in meine Arme als eine theuere Bürgschaft <hi rendition="#u" hand="#author">Ihrer</hi> – als eine Bürgschaft der Gesinnungen
+                    so manches mir ewig unvergeßlichen Wesens aus Ihrer Mitte. Ich fühlte es, daß
+                    ihr Kommen mir die Gewähr leiste, wie ich Sie Alle früher oder später doch gewiß
+                    einmal wiedersehen und mit unbewölktem, freiem, leidenschaftslosem Sinne mich an
+                    Ihre Brust werfen werde.</p>
+            <p>Sie wollen von meinem Leben und Weben, von der Rückkehr meiner moralischen und
+                    physischen Kraft ein deutliches Bild haben? Ich bin wieder völlig wohl, und wenn
+                    mein voriges Sein wirklich etwas gewesen wäre, wovon man eine freudige
+                    Selbstanschauung haben könnte, so dürfte ich mich freuen, dieselbe wieder
+                    geworden zu sein, die ich war.</p>
+            <p>Dagegen sind die von Außen auf mich einstürmenden Uebel noch immer im
+                    lebhaftesten Wettstreit miteinander, welchem von ihnen es gelingen möchte, in
+                    meinem Gefühl als das vornehmste zu gelten.</p>
+            <p>Für meinen armen, noch immer in völliger Kraftlosigkeit hinschwindenden <persName key="JP-004106">Julius</persName> sind vor acht Tagen zwei Krücken vom
+                    Tischler geliefert worden – die er aber, als sie ankamen, als für jetzt noch
+                    unbrauchbar auf die Seite stellen ließ. Und als ich am zweiten Pfingstmorgen
+                    mich anschickte, mit <persName key="JP-000898">unserer lieben
+                        Angekommenen</persName> die Frische nach einem erquicklichen Regen in den
+                    schönsten Frühstunden auf einem Gange durch den <placeName key="JP-011137">Thiergarten</placeName> zu genießen, fand ich <persName key="JP-004107">meinen Richard</persName> in seinem Bette ächzend und in Fieberglut, und
+                    seit gestern hat er das Scharlachfieber. So bin ich denn außer den wenigen
+                    Stunden, die <persName key="JP-000898">unsere Freundin</persName> uns hier auf
+                    meinem Zimmer gönnen konnte, zu keinem vollständigen Genusse ihrer lieben
+                    Gegenwart gekommen.</p>
+            <p>Mit welchem Antheil ich dagegen nach allen Einzelnheiten des schönen
+                    Verhältnisses fragte, das zwischen ihr und Ihrem lieben Hause obwalte, wie
+                    freudig ich den Beschreibungen Ihrer Kunstgenüsse, Ihrer gesellschaftlichen
+                    Einrichtungen, Ihres Stilllebens mich hingab – das mag <persName key="JP-000898">Frau von Ehrenberg</persName>'s eigene seelenvolle Rede Ihnen sagen.</p>
+            <p>Ich hatte mich auf einen recht langen Brief an Sie gefreut, mein verehrter
+                    Freund, aber ich sehe nun doch, daß es anders kommt, als ich dachte, und ich
+                    eilen muß, wenn ich der Unruhe meines kranken <persName key="JP-004107">Richard</persName>, an dessen Bett ich dies schreibe, die paar ruhigen
+                    Augenblicke noch abgewinnen will, die ich dem leidigen Geschäftsinhalt unserer
+                    Correspondenz noch zu widmen habe.</p>
+            <p>Meine Antwort auf <persName key="JP-001642">Hempel's</persName> Brief, mein letztes
+                            Schreiben an <persName key="JP-000501">Brockhaus</persName> werden Sie gelesen
+                    haben. Nichts also mehr über meine allgemeine Ansicht, über die Entschließung,
+                    welche ich gefaßt haben würde, wenn ich freie Hand gehabt hätte. Mir däucht's,
+                    daß Sie Ihrem Sinne nach mit beiden Briefen zufrieden sein müßten. Diejenigen
+                    jedoch, an welche diese Briefe gerichtet waren, scheinen dies nicht; warum
+                    sollten sie mir nicht schon längst geantwortet haben? Denn auch den Brief von Brockhaus, worauf Sie
+                    mich als auf eine Bestätigung der frohen Hoffnung zur endlichen Ausgleichung
+                    verweisen, habe ich bis heute noch nicht erhalten. </p>
+            <p>
+               <persName key="JP-000898">Frau von Ehrenberg</persName> übernimmt es, mündlich
+                    hinzuzufügen, was meinen Worten versagt ist: den vollen, wahren Ausdruck der
+                    Liebe, des sehnsuchtsvollen Antheils, mit welchem ich ewig sein werde</p>
+            <closer>
+               <signed>Ihre M. Spazier, geb. Mayer.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

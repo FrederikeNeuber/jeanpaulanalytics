@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0690">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 22. März
+                    1806, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1806-03-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 22. März 1806</dateline>
+               <salute>Meine liebe Caroline!</salute>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_vcr_vhg_3nb"/>Um Dich über Deinen letzten Brief, worinn Du um 100 rth von Deinem bey der Seehandlung
+                            gestandenen (jetzt beym <persName key="JP-003488">Kaufmann Richter</persName>) placirten Capital bittest, nicht in
+                    Ungewißheit zu laßen, melde ich Dir, daß so wenig mir auch ein Recht zustehet,
+                    Deine dispositionen über das Deinige zu dirigiren, eben so wenig ich doch auch über Dein Kapital Vermögen ohne Genehmigung <persName key="JP-999999">Deines Mannes</persName>, disponiren kann. Freylich willst Du es zu seinem Vergnügen verwenden.
+                    Allein diß schließt seine Genehmigung nicht aus, für mich wenigstens nicht, da
+                    ich es hierunter nicht auf gut Glück ankommen laßen kann, wenn sich nach einem
+                    Todesfall nichts schriftliches fände. Verzeyhe also, wenn ich Dir die verlangten
+                    100 rth nicht schicke; gönne mir aber dagegen das
+                    Vergnügen Dir 100 rth zu einen Forte Piano zu schenken; und warte nur den Zeit Punkt ab, wo es mir
+                    bequemer als jetzt fällt.<anchor type="target" xml:id="stop_vcr_vhg_3nb"/>
+               <hi rendition="#f" hand="#author">Denn
+                        eben
+                        jetzt habe ich in der für mich und die meinigen so wichtigen
+                        <placeName key="JP-012108">Sanne</placeName>’schen Sache sehr
+                        bedeutende
+                        Ausgaben,
+                        die mich nötigen, alles zusammen zu halten.</hi>
+            </p>
+            <p>Überdem habe ich um <persName key="JP-002583">HerrnMahlmann</persName> abzufinden, ein
+                     Theil meines eignen Capitals zur Acquisition der <persName key="JP-003488">Richterschen</persName>Obligation verwenden müßen.</p>
+            <p>Ist indeßen das Bedürfniß der 100 rth etwan darum
+                    dringender, weil ein gutes Instrument wohlfeil zu haben
+                    ist, So melde es mir, u ich will auch diese 100 rth
+                    wohl herauspreßen.</p>
+            <p>Hoffentlich wirst Du nun schon <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0125/#start_e15_dxf_3nb">die Zeichnungen von <persName key="JP-002709">meiner Frau</persName> u  mir</ref> bekommen haben; u bitte ich nur wegen der abermals
+                    unterlaßenen Franquirung um Entschuldigung. Diß muß auf
+                    andere Art gut gemacht werden. Auf einen vor Absendung der Zeichnungen schon an
+                    Dich geschriebenen <ref type="letter" target="JP-UB0125">Brief</ref>,
+                    vermiße ich alle Anzeige des Empfangs. Doch werde ich noch Deinen vorletzten Brief nachsehen, wozu ich nur jetzt nicht Zeit
+                    habe.</p>
+            <p>ich bin äußerst durch Geschäfte gedrükt, besonders durch die sich auf den Besitz
+                    u Verkauf von <placeName key="JP-012108">Sanne</placeName> beziehenden.</p>
+            <p>Auf <persName key="JP-999999">Deines Mannes</persName>
+               <bibl sameAs="JP-010811" subtype="werke-jp">paedagogisches
+                            Product</bibl> freue ich mich zum Voraus. Grüße
+                    ihn von mir.</p>
+            <closer>
+               <salute>Lebe wohl. <persName key="JP-002709">Meine Frau</persName> grüßt von
+                        Hertzen; u ich werde mich freuen bald Nachricht von Dir u Deinen gar nicht
+                        erwehnten <persName key="JP-003483">Kindern</persName> zu hören,</salute>
+               <signed>Dein treuer Vater Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

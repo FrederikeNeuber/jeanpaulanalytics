@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0345">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 28. Juni
+                    1816, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1816-06-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireuth den 28tenJuni 1816</dateline>
+               <salute>Geliebter Vater!</salute>
+            </opener>
+            <p>Der Besuch des Herrn
+                            Geheimrath Stein überraschte mich auf
+                    die angenehmste Art doch nicht wenig erschrak ich, als er mir erzählte, daß er
+                    Sie krank verlassen habe! Beruhigend war es Ihm daß ich keine Nachricht von
+                    Ihnen hatte, indem es ihm ein Zeichen dünkt daß Ihr Übelbefinden sich nicht
+                    verschlimmert habe. Allein so tröstlich mir selbst das Schweigen von Ihrer und der theuren <persName key="JP-002709">Mutter</persName> Seite, sein kann, so ist doch eine Unruhe
+                    und Bangigkeit in mir, bis zu dem Augenblik da Einer von Ihnen Beiden mir
+                    schreiben wird, die ich nicht mäßigen kann. Gott wird ja nicht geben daß mein
+                    einziger geliebter Vater ernstlich oder gar gefährlich krank sei - Sie würden
+                    Ihrer Tochter doch schnell Nachricht von einem bedenklichen Zustande geben. Nein
+                    es ist nicht möglich daß Sie mich in Ungewisheit ließen, und daß ich das
+                    Theuerste auf der Erde unwissend zu verlieren in
+                    Gefahr wäre. Der<persName key="JP-001600"> G R. Heim</persName> sagt mir daß Sie bis dahin ganz gesund waren – stark – wohler als er
+                    selbst aussehend, der in einem Alter von 69 Jahren noch äußerst kräftig zu sein
+                    scheint. – Ihr vieles Arbeiten aber und mancher Verdruß griffen Sie an. Ach
+                    geliebter Vater schonen Sie Sich doch Ihr ganzes Leben war ja eine Kette von
+                    Aufopferungen und Entbehrungen[.] warum wollen Sie nicht endlich einmal ausruhen
+                    und die <persName key="JP-002704">Ihrer Familie</persName> so köstliche Zeit
+                    Ihres Alters nicht sorgenfrei zubringen? Ach warum muß ich so weit von Ihnen
+                    entfernt sein; und kann nicht dem geliebtesten Vater einige Stunden des Tages
+                    Erleichterungen anbieten, oder wenigstens  die treffliche <persName key="JP-002709">Mutter</persName> ablösen.</p>
+            <p>Gewis haben Sie unterdessen meinen Brief bekommen, schon
+                    fing ich an eine Antwort zu erwarten, die wenn mein Brief richtig besorgt ist,
+                    nun auch bald kommen muß. Gott gebe daß ich nicht lange mehr ohne Nachricht von
+                    Ihnen bleibe. Glauben Sie, daß ich bis dahin keinen ruhigen Augenblick haben
+                    werde. Aber Gott wird mein Gebet erhören – bald hoffe ich durch die
+                    beruhigendsten Nachrichten zu hören daß Sie theurer geliebter Vater meinem Glück
+                    erhalten sind. Gott segne Sie! Ich kann heute nichts mehr hinzusetzen, als daß
+                        <persName key="JP-999999">mein Mann</persName> so innig als ich Ihre
+                    Genesung hoffte, und Sie innigst grüßt.</p>
+            <closer>
+               <salute>Beruhigen Sie sobald als möglich</salute>
+               <signed>Ihre treuste Tochter Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

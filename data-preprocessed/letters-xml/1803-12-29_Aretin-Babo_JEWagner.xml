@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0846">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Christoph Freiherr von Aretin und Joseph Marius Franz von Babo an
+                    Johann Ernst Wagner. München, 29. Dezember 1803, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000123">Johann Christoph Aretin</persName>
+               <persName key="JP-012178">Joseph Marius Franz von Babo</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1803-12-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012778">Geschäftliches</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>P.
+                                        P.</salute>
+            </opener>
+            <p>Mit Bedauern erfahren wir aus Euer Wohlgebohren verehrlichen <anchor type="target" xml:id="start_bjq_tjv_pnb"/>Zuschrift vom 7 Decemb.<anchor type="target" xml:id="stop_bjq_tjv_pnb"/> daß Geschäfte Sie abhalten, uns baldigst einige Beiträge zu der <bibl sameAs="JP-010195" subtype="werk">Aurora</bibl> zu liefern; indessen erwarten wir nach Ihrer einmal gemachten Einrichtung
+                            desto mehr Einsendungen, die wir
+                    stets mit Dank annehmen, und nach Gebühr honoriren werden.</p>
+            <p>Die Bekanntschaft und Korrespondenz der beiden Herrn
+                            Freiherrn von Wechmar und
+                    des Herrn <persName key="JP-999999">Legat. Rath Richter</persName> kann uns
+                    nicht anders als sehr willkommen sein; wir ersuchen Sie daher, diese Herren in unserm Namen aufzufordern, und mit dem in unserer ersten Zuschrift
+                    enthaltenen Plane mit wenigem gefälligst bekannt zu machen.</p>
+            <closer>
+               <salute>Mit besonderer Hochachtung Ew Wohlgebohren</salute>
+               <dateline>München den 29 Decemb 1803.</dateline>
+               <signed>Chr. B. v. <hi rendition="#u" hand="#author">Aretin</hi>
+                  <hi rendition="#u" hand="#author">Babo</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

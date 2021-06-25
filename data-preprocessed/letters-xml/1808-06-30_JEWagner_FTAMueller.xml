@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0884">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 30. Juni 1808,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-06-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 30<hi rendition="#uu" hand="#author">n</hi> Jun. 1808.</dateline>
+            </opener>
+            <p>Willkommen dann, Allerbester, mit sammt dem gemüthlichsten und lieblichsten
+                    Weibchen das die Erde trägt – und möge doch Liebensteins Bad ihre Gesundheit
+                    fester machen als Stahl und Eisen! Ich küsse ihre Hände, die so wohlthätig für
+                    mich schafften als ich einst noch an Ärzte glaubte und viele gute Menschen
+                    plagte.</p>
+            <p>Tausend Dank für Ihre gütige Einladung – ich werde der
+                    freundlichen folgen! Da meine Lebenszeit etwas sparsam benutzt werden muß, da
+                    ich noch einige Freunde in Liebenstein zu treffen habe, und da ich mit meinem
+                    Verleger in einem sehr beschwerlichen Correctur-Accordwegen der
+                        zweyten bald vollendeten und schönern Auflage meines Wilibalds. stehe,
+                    den ich aber nicht füglich umgehen
+                    kann: so habe ich die Zeit vom 9<hi rendition="#uu" hand="#author">n</hi> bis 11<hi rendition="#uu" hand="#author">n</hi> Juli
+                    xxppte.,
+                    zu meiner Kunft nach <placeName key="JP-005956">L.</placeName> bestimmt, wo ich
+                    ja unstreitig alle die theuern, herrlichen Weimaraner mit -inen noch treffe!
+                    Denn auch <persName key="JP-000329">der liebenswürdige C. Bertuch</persName>
+                    kommt wie ich höre in diesen Tagen nach <placeName key="JP-005956">L.</placeName> – Auch <persName key="JP-004208">Studnizen</persName> werde
+                    ich sub praejudicio citiren – und Sie
+                    werden sehen, wie pünktlich er erscheint. Kurz, die Sache wird sich, vor
+                    menschlichen Augen, göttlich machen. Mein Schimmel kommt, besseres
+                    Communicierens zwischen den Bergen und mir halber, auch mit.</p>
+            <p>Die <persName key="JP-003964">Schwendlerin</persName> war gestern bey mir und
+                        notificirte ihre glückliche Rückkunft von <persName key="JP-999999">Jean
+                            Paul</persName>. Sie sind noch nicht ganz bestimmt,
+                    ob sie Hinreisen nach <placeName key="JP-005956">L.</placeName> – Das hindert
+                        <hi rendition="#u" hand="#author">mich</hi> aber alles nicht in
+                    meinen Vorsätzen.</p>
+            <closer>
+               <salute>Leben Sie denn wohl und froh, verehrtester
+                        Freund! Ewig mit dem alten Gemüth</salute>
+               <signed>IhrtreuerJEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

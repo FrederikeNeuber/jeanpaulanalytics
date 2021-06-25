@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0568">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Christian August Schwendler an Caroline Richter. Meiningen, 17. Juni 1808, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003966">Friedrich Christian August Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1808-06-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>M. den 17<hi rendition="#u" hand="#author">ten</hi> Jun.</dateline>
+            </opener>
+            <p>Empfangen Sie, meine verehrte Freundin, den herzlichsten Dank für Ihre gütevolle Aufnahme meiner lieben
+                            Ausgewanderten, und für alle
+                    Freuden, die Sie und unser theurer <persName key="JP-999999">Richter</persName> ihnen geben. Wie könnte ich mir, nach den
+                    vereinten HerzensErgießungen meiner lieben <persName key="JP-003964">Henriette</persName>, <persName key="JP-002936">Antonie</persName> u <persName key="JP-003749">Amanda</persName>, über die glücklichen Tage, die
+                    sie an Ihrer Seite u in Ihrem Kreise jezt verleben, – und nach einer so
+                        freundschaftlichen Einladung zum Mitgenuß, die Freude versagen, zu
+                    Ihnen zu kommen und insbesondere auch noch die kleinen liebenswürdigen Originale
+                    kennen zu lernen, die in der Schilderung, welche mir <persName key="JP-002936">Antonie</persName> von Ihnen, liebe
+                    Freundin, entworfen hat, – eine so bedeutende Stelle einnehmen! – Die zarte <persName key="JP-003471">Emma</persName> und den
+                    kräftigen <persName key="JP-003490">Max</persName>,
+                    stellt mir zwar meine Erinnerung noch lebhaft dar; denn wie könnte auch der Pathe seines Pathgens vergessen! – allein wie herrlich müssen
+                    sie inzwischen aufgeblüht seyn, unter der pflegenden Hand so seltener Eltern, –
+                    u die kleine Nachknospe <persName key="JP-003491">Ottilie</persName> hat sich erst entfaltet, seitdem ich Sie nicht
+                    wieder sah.</p>
+            <p>Ich komme also recht bald, u nunmehr ganz gewiß den 25<hi rendition="#u" hand="#author">sten</hi> d. M., (wird seyn
+                    der Sonnabend nach dem 1<hi rendition="#uu" hand="#author">sten</hi>post Trinitatis) wenn nicht ganz
+                        ausserordentliche Welt oder Naturbegebenheiten meinen Reiseplan
+                    abändern. Freilich  darf ich mir nur einen Tag bey Ihnen erlauben,
+                    ohnerachtet ich vor zwey Jahren um die Freude kam, Sie in <placeName key="JP-005929">Kulmbach</placeName> wieder zu sehen, u
+                    eigentlich das Wiedersehen auf 4. volle Jahre
+                            nachzuholen hätte; allein
+                    schon dieser unverhofft noch für mich nachkommende Genuß entschädigt mich desto
+                    reichlicher, je besorgter mich eine Aeusserung <persName key="JP-003964">meiner
+                        Frau</persName>, in ihrem ersten
+                            Briefe, gemacht hat, "daß Sie <hi rendition="#u" hand="#author">weit, weit</hi> von mir wegziehen würden!"</p>
+            <p>Ihrer, aus den alten, lieben Zeiten, so bewährten Herzlichkeit u Güte scheint
+                        <persName key="JP-003964">Henriette</persName> inzwischen auch von Seiten
+                    ihrer melancholischen Anwandlungen, Genesung zu verdanken, u Ihres edlen <persName key="JP-999999">Richters</persName> Humor,
+                    der die Kranken heilt u die Gesunden stärkt, scheint vorzüglich die
+                    SterbeGedanken verscheucht zu haben, mit welchen einige hartnäckige Rheumatismen
+                    die EinbildungsKraft <persName key="JP-003964">meiner Frau</persName> erfüllt
+                    hatten. Ich sehe wenigstens durch ihre Briefe wieder die Heiterkeit
+                    hindurchschimmern, die eigentlich ihre natürliche Stimmung ist,  die
+                    aber seit geraumer Zeit in eine übergroße Aengstlichkeit über ihre Gesundheit
+                    ausgeartet war. Mit Freuden bot ich daher die Hand zu einer Reise, die ihr
+                    physische u geistige Stärkung versprach u nun auch das Versprechen hält.</p>
+            <p>Wie soll ich Ihnen aber nur für alles dieses danken, u für so viele alte Schulden
+                    der Liebe u Güte! – Doch die Dankbarkeit macht ja stumm, u so soll sich die
+                    meinige zu Ihnen aussprechen!</p>
+            <p> Eigentlich konnte ich es mit Zuverläßigkeit erwarten, daß unsere holde
+                        <persName key="JP-002936">Antonie</persName> der
+                    herzvollen Caroline sehr bald mit eben so vieler
+                    Herzlichkeit ergeben seyn würde, als sie es uns ist,  u da <persName key="JP-002936">Antonie</persName> auf unser
+                    häusliches Glück einen sehr entschiedenen Einfluß hat: so durfte ich auch
+                    hoffen, daß sie von einem so edeln Paare gewiß nicht verkannt werden würde; – u
+                    dennoch überrascht mich Ihr u <persName key="JP-002936">Antoniens</persName> gegenseitiger Ausdruck Ihrer sich so schnell
+                    vereinenden Herzen, auf das angenehmste. – Doch man muß meine beiden Freundinnen
+                    im Kreise der Kinder sehen, um ihren vollen Werth kennen zu lernen u um ihr
+                    schnelles Sich entgegen kommen nicht mehr überraschend zu finden, – u dieser
+                    Genuß blüht mir ja in wenig Tagen.</p>
+            <p>Ihre Zufriedenheit mit <persName key="JP-003749">Amanda</persName> u Ihr doch wohl zu gütiges Urtheil über <persName key="JP-003971">Pauline</persName> hat mich
+                    sehr erfreut, weil beide meinem Herzen gleich theuer sind, wie unsere gute
+                        <persName key="JP-003964">Henriette</persName> mir gewiß bezeugen muß. Doch
+                    – etwas muß ja noch zu mündlichen HerzensErgießungen verbleiben, drum nur noch
+                    die innigste Versicherung meiner Verehrung u Liebe für Sie u alles, was Sie jezt
+                    umgibt, für Alt u Jung, Groß u Klein meine herzlichen Grüße.</p>
+            <closer>
+               <signed>Schwendler.</signed>
+            </closer>
+            <postscript>
+               <p>Vom <persName key="JP-001603">Geheimrath Heim</persName> werde ich einen schriftlichen Dank für die
+                        angenehme Ueberraschung mit dem ihm anfänglich ganz verborgenen Sinn der
+                        bewußten Güte für ihren, ihm sehr
+                        werthen Umprägen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

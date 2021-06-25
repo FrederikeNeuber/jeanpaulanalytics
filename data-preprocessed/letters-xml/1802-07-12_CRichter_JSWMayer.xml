@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0447">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, zwischen
+                    12. und 20. Juli 1802</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date notBefore="1802-07-12" notAfter="1802-07-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Mein theurer geliebter Vater</salute>
+            </opener>
+            <p>Ihren Brief und die einliegenden
+                            meiner <persName key="JP-002706">Schwestern</persName> habe ich <ref target="JP-UB0201/#niww_312_ymb">in <placeName key="JP-006395">Weimar</placeName>
+               </ref> gefunden und mich nach
+                    dem langen Entbehren Ihrer Mittheilung unaussprechlich gefreut. Auf der Stelle
+                    hätte ich ihn beantwortet, wenn ich meinem Briefe diese kleine Arbeit nicht
+                    hätte beifügen wollen, womit ich Sie an Ihrem Geburtstag anbinden möchte. – –</p>
+            <p>Vergeben Sie die Unbedeutenheit dieser Gabe – meine Wünsche und Gebete, und meine
+                    Gedanken an Sie sind tief und lebendig, und nur eine neue wichtige Aenderung
+                    meiner Lage konnte mich abhalten, mich länger für Sie zu beschäftigen. <anchor type="target" xml:id="start_nym_xgt_ymb"/>Wenn mein Glük Ihnen lieb ist, muß
+                    die Nachricht, daß ich Mutter seyn werde, an Ihrem Geburtstag ein willkomnes Angebinde seyn,
+                    und darum schob ich sie bis dahin auf.<anchor type="target" xml:id="stop_nym_xgt_ymb"/> Für Ihr väterliches Herz muß es eine große
+                    Freude seyn, daß Ihre Tochter nun die höchsten Güter des Lebens besizt. Ach,
+                    wenn auch Ihnen das Schiksal, den Kummer und die Aufopferungen Ihres ganzen
+                    Lebens belohnte! geliebter Vater! Wenn Sie doch von jezt an in eine neue
+                    sorgenfreie Periode Ihres Lebens träten! Dis ist es allein, was ich noch zu
+                    wünschen habe! – – </p>
+            <p> Wie unaussprechlich froh hätten wir Ihren Geburtstag mit Ihnen feiern können – <ref target="JP-UB0362/#np43_zfd_ymb">doch der Himmel hat es nicht so
+                        gewolt</ref>, aber die Anklage über meine Täuschung kam ja nicht aus einem erbitterten Herzen, sondern aus
+                    innigem Schmerz über eine fehlgeschlagne Hofnung an der meine  Seele wie ich schon gesagt, einen halben Winter
+                    hindurch mit Entzücken hing. Darum vergeben Sie mir den vielleicht nicht genug verhülten Mismuth in meinem lezten Briefe, deßen Quelle Sie misverstanden haben</p>
+            <p>Noch ist niemand von meinen <persName key="JP-002706">Schwestern</persName> von
+                    meinem Glück unterrichtet, weil Sie mein Vater das Recht auf mein erstes
+                    Vertrauen haben.  Seit der Mitte des Winters war ich
+                    in einem zweifelhaften Zustand, allein ich wagte nicht mir diese Seeligkeit zu
+                    gestehen, und deutete alle Zeichen auf eine vorübergehende Kränklichkeit. </p>
+            <p>Seit drei Wochen vielleicht, bin ich von der Gewisheit meiner Lage volkommen
+                    überzeugt, und nun muß ich glauben daß ich im MonatOctober den entscheidenden Augenblik erleben werde.
+                    Jezt habe ich nichts dringenderes zu thun, als die Vorbereitungen zum Empfang
+                    des neuen Wesens einzurichten – und dabei die Sorge für meine Gesundheit nicht
+                    zu vernachläßigen, von der die seinige abhängt. </p>
+            <p> Ein neues Leben scheint mir aufgegangen zu seyn! Das war es, wonach
+                    ich mich unaufhörlich sehnte, was mir selbst und meinem Leben eine Würde geben
+                    wird – woran ich die Liebe vergelten kann, die Sie mein Vater und <persName key="JP-002711">meine Mutter</persName> an mir bewiesen haben! Und <persName key="JP-999999">mein geliebter Mann</persName>, durfte dis Glük wofür seine
+                    ganze Seele geschaffen ist, nicht entbehren. Wie oft hat es mein Innerstes
+                    zerrißen, wenn er Kinder und Thiere liebkosete, gleichsam als Ableiter des
+                        Reichthums von Liebe, den er in sich hat. Die gute
+                        <persName key="JP-002581">Tine</persName> hat mir vor einigen Tagen aus
+                        <placeName key="JP-005754">Freiberg</placeName> geschrieben, aber keine
+                    Darstellung Ihres Beisammenseyns in <placeName key="JP-005687">Dresden</placeName> gegeben. Wenn ich etwas schmerzhaft finde
+                            so ist es der armen <persName key="JP-004393">Minna</persName> ihre Täuschung die nach einer so langen
+                                Trennung noch eher als ich verdiente an Ihrem
+                            Herzen zu liegen. Woher kömmt es aber, daß
+                    auch diese entbehren muste? Es ist mir als wenn die Ähnlichkeit unsere Schiksals
+                    in dieser Hinsicht uns wieder näher zusammen führte, und ich werde ihr schreiben
+                    – aber Gott weiß, wie treu schwesterlich ich gegen sie gesint bin, und wie oft
+                    ich schmerzlich um sie besorgt war. Unser jeziges Schweigen gegeneinander habe
+                    ich nicht verschuldet denn ich schrieb an <persName key="JP-004393">Minna</persName> zulezt. </p>
+            <p> Unsre Reise nach <placeName key="JP-006395">Weimar</placeName> hat einen Zeitraum von 14 Tagen eingenommen. Wir hielten uns in <placeName key="JP-005791">Gotha</placeName> einen Tag auf, wo ich viel intereßante Bekantschaften machte. In
+                        <placeName key="JP-006395">Weimar</placeName> fand ich alles unverändert,
+                    und man war sehr glüklich <persName key="JP-999999">meinen Mann</persName>
+                    wiederzusehen. Vor allen die <persName key="JP-002544">Herzogin</persName>, die
+                    sich zu unserer Gevatterin angeboten hat. In <placeName key="JP-005875">Jena</placeName> war ich auf einige Stunden als Begleiterin der <persName key="JP-002007">Frau v. Kalb</persName> die dort eine Freundin besuchte. Ich fand den Profeßor <persName key="JP-001287">Genz</persName> mit seiner
+                        <persName key="JP-012092">Frau</persName>in <placeName key="JP-006395">Weimar</placeName> wieder, und ich hörte viel von unseren Freunden, und von <persName key="JP-012505">Hainchelins</persName>.</p>
+            <p>Ihr Tagebuch welches ich Ihnen mit dem innigsten Dank
+                    wieder zurükgebe hat mich bis zu Thränen gerührt. Dieser schnelle Wechsel von
+                    Lebensszenen durch die Sie hindurch flogen, die kleinen
+                    Wiederwärtigkeiten auf der Reise, und Ihre verlorne Brieftasche am meisten!
+                    Viele Dinge sind mir unbegreiflich, und ich mus <persName key="JP-002581">Ernestine</persName> noch bitten, mir einen Kommentar dazu zu machen.</p>
+            <closer>
+               <salute>Gott segne Sie mein ewiggeliebter Vater mit der Erfüllung Ihrer Wünsche,
+                        und <persName key="JP-002706">Ihre Kinder</persName> mit Ihrer Erhaltung –
+                        Er gebe uns nur noch lange Ihr Leben – und Ihre Liebe wollen wir verdienen.
+                            <persName key="JP-999999">Mein guter Mann</persName> bittet mit mir für
+                        Sie um beßere Tage, und ich bitte für mich allein um Ihren Seegen und Ihre
+                        Liebe, ohne die kein Glück für mich auf der Erde ist. </salute>
+               <signed>Ihre ewig treue Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

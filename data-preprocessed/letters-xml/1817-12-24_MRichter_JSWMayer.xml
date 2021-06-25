@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1133">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, zwischen 24. Dezember 1817 und 22. Januar 1818</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date notBefore="1817-12-24" notAfter="1818-01-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Theuerster Grosvater!</salute>
+            </opener>
+            <p>Unmöglich kann ich die Briefe meiner
+                            Schwestern Ihnen, theuerster Grosvater, zusenden
+                    Laßen, ohne mich auch Ihrer Liebe zu empfehlen. Ich ergreife daher die
+                    Gelegenheit Ihnen zum neuen Jahr Glück zu wünschen. Möge der allgütige Himmel
+                    Ihnen, Friede, Ruhe, Gesundheit und ein langes Leben zur Freude ihrer Familie
+                    schenken, damit auch ich einst das Glück genieße, Ihnen persönlich meine
+                    aufrichtigen Wünsche zu sagen.</p>
+            <closer>
+               <salute>Ihr gehorsamster Enkel</salute>
+               <signed>Max Richter.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

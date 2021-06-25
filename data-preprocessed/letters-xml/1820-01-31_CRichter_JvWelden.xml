@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0142">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Josephine von Welden. Bayreuth, nach dem 31. Januar
+                    1820 (?)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1820-01-31" notAfter="1820-03-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004653">Josephine von Welden</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <address>
+                  <addrLine>A Madame Son Excellençe la Baronne de
+                                Welden.</addrLine>
+               </address>
+            </opener>
+            <p>ich wiederhole meine Bitte, mir gütigst einen Theil der schönen Arbeit zu gönnen,
+                    die Sie geliebte Frau, eben einzurichten im Begriff sind. Sie wollen mir auf so
+                    mannigfache Art Freude machen das fühle ich wohl und in der Freude mich zu Ihrer
+                    hohen Seele erheben – darum müssen Sie mir gerade das nicht versagen, was mich
+                    von Ihnen am meisten beglücken kann. Das himmlische Wohlwollen von Ihrer Seite
+                    gab mir ohnehin den Muth einen kleinen Plan auf Sie zu machen, der mich beschäftigt hätte.</p>
+            <p>Daß mein Enthusiasmus für Menschen Ihrer Himmelsruhe und Vollendung wehe thun
+                    kann, ist natürlich. Allein, sein Sie nicht so gütig gegen mich, ich bitte Sie –
+                    sonst ist es vergebens den Ausdruck
+                    der Verehrung, ja Anbetung zu unterdrücken, die ich für Sie empfinde. Das
+                    Element meiner Seele ist – Liebe, ich fühle mich auch besser, veredelter, wenn
+                    meine Seele von einem hohen Vorbild erfüllt ist. Nie werd ich getäuscht, wo ich
+                    – glaubte. Wie gern denke ich an die Freunde und
+                            Beschützer meiner Jugend deren Wieder Anblick keines der Bilder der
+                            Vergangenheit gestört hat. So wie ich
+                    sie verließ fand ich sie wieder, und auch sie erfreuten sich meiner Herzenswärme
+                    die in meinem Vaterlande Niemand für einen Fehler erkannte.</p>
+            <p>Für das Marienblümchen dankt <hi rendition="#u" hand="#author">der</hi> Ihnen der, der von uns beiden, allein Ihre Freundschaft
+                            verdient. Aber glauben Sie
+                    mir bei dem Allerheiligsten, daß ich auch nie anders,
+                            als eine Erde dieser Sonne mich dachte.</p>
+            <closer>
+               <signed>Caroline Richter.</signed>
+            </closer>
+            <postscript>
+               <p>Ihre liebe Antwort sei das Übersenden des Desseins
+                        das ich copiren will, und dann unterrichte ich mich in einer <hi rendition="#u" hand="#author">Ihnen</hi>
+                  <hi rendition="#u" hand="#author">bequemen</hi>
+                  <hi rendition="#u" hand="#author">Stunde</hi> von der Art wie
+                        die Stickerei eingerichtet werden muß. Wie freue ich mich!</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

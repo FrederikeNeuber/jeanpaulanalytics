@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0360">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Heidelberg, 13. April 1818,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1818-04-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg d. 13. April 1818.</dateline>
+            </opener>
+            <p>Ihr lieber Brief, verehrte Freundin, ist richtig zu meiner Freude
+                    angekommen und <ref type="letter" subtype="document" target="4-VII_107">den
+                        meinigen</ref> werden Sie auch längst erhalten haben. In einigen Tagen
+                    gedachte ich Ihnen einen recht langen Brief zu schreiben, da mich aber <persName key="JP-004520">Prof. Voss</persName>
+                    aufforderte, seinen Brief an <persName key="JP-999999">Ihren lieben Mann</persName>, einige Zeilen
+                    beyzufügen so war es mir, als wenn ich mich selbst um etwas brächte, wenn ich
+                    einen Aufschub ausspräche und troz des phisischen, nicht einmal moralischen
+                    Mangels an Zeit, muß doch ein Briefchen von mir, noch fertig werden, wenn gleich
+                    das abkürzen um so schwerer wird, ja mehr unser letztes Beysammenseyn unsere
+                    Sprache gegeneinander unendlich bereichert  hat. Ihre Liebe, theure
+                    Freundin; ist meinem Herzen ein wahres Kleinod, also wieder, auch in Liebe
+                    gefaßt; ich lebe noch im Geist mit Ihnen,<persName key="JP-999999">Ihrem lieben Mann</persName> und <persName key="JP-999999">lieben Kinder</persName>, und von Ihnen allen hier zu
+                    sprechen ist mir eine wahre Freude, auch durch die welche dadurch erregt wird.
+                    Alle Grüße sind mit freudigen Dank aufgenommen worden und <hi rendition="#u" hand="#author">allgemein</hi> möchte man gar zu gern daß Sie <hi rendition="#u" hand="#author">allerseits</hi> herkämen. <persName key="JP-004520">Voss</persName> ist meiner
+                    Meinung nach schon zuvorgekommen, daß die Wohnung in <placeName key="JP-011386">Carlsberg</placeName>, wo auch wir
+                    jetzt wohnen die beste wäre, namentlich meine Stube, sie ist sehr ruhig 2.
+                    Treppen hoch, die Eckstube am Thurm des Thores; die vordern Fenster gehen auf
+                    den <placeName key="JP-012960">Paradeplatz</placeName> mit <placeName key="JP-005910">den herrlichen Bergen</placeName> zum Hintergrund, vom
+                    Seitenfenster sieht man einen Theil <placeName key="JP-011377">des alten
+                        Schloßes</placeName>; neben dieser Stube ist ein ganz kleines Stübchen,
+                    deßen Besitz für die größere  Stube hinlänglichen Schutz für mögliche unruhige Nachbarschaft,
+                    gewährt; ohnweit der Stube, ist ein Gang, von welchem man auf den <placeName key="JP-006052">Neckar</placeName> und auf <placeName key="JP-012828">den
+                        heiligen Berg</placeName> sieht; die Speisen sind gut und einfach
+                    zubereitet, Ordnung herrscht im Hause und <persName key="JP-002160">die
+                        Wirthin</persName> hat schon gegen mehrere Personen ihren Wunsch geäusert
+                    und ihre Hoffnung, daß <persName key="JP-999999">Jean
+                            Paul</persName> in <placeName key="JP-011386">ihrem Hause</placeName> wohne und auf <persName key="JP-004520">Vossens</persName> vorläufige Erkundigungen,
+                    jede  Aussicht auf
+                    Zufriedenheit in jeder Art, gegeben. Die Lage <placeName key="JP-011386">dieses
+                        Hauses</placeName> ist zugleich die angenehmste,  weil es im Mittelpunct der <placeName key="JP-005819">Stadt</placeName> ist. <persName key="JP-004520">Vossen</persName> habe ich Vorwürfe
+                    über seinen, jedoch zugleich auch von mir sehr belachten, erfundenen Brief gemacht, er entschuldigt sich aber damit dies von <persName key="JP-004516">seiner Mutter</persName> gelernt zu haben. Als ich ihn wegen der Heyrath der <persName key="JP-001407">Räthin
+                                    Falk</persName> befrug, kam eine Entwicklung zum Vor- schein welche mich sehr divertirte, aber noch mehr
+                    mit der Sache versöhnte, da sie den Bewußten, nun nur in dem Lichte eines seine
+                        neu angenommene Rolle der Gleichgültigkeit übertreibenden darstellt; als nehmlich <persName key="JP-004520">Voss</persName> auf der Plettenburg ist und <persName key="JP-001404">Grimm</persName> lange vergebens dort
+                    auf  sich warten
+                    läßt, findet <persName key="JP-004520">Voss</persName>
+                    bey seiner intimität mit <persName key="JP-001404">Grimm</persName>, rathsam, aus einen an denselben angekommenen Brief,
+                    Auskunft über sein Wegbleiben möglicher Weise zu suchen, er erbricht den Brief,
+                    er ist von der <persName key="JP-001407">Räthin Falk</persName> in den zärtlichsten
+                    Ausdrücken und dem vertraulichen Du, abgefaßt. <persName key="JP-004520">Vossen</persName>, sich mit dieser Entdeckung,
+                    wegen der Heyraths-Nachricht legitimiren zu sehen, war
+                    mir äußerst belustigend und ich habe mit ihm selbst sehr darüber gelacht. Auf
+                    den Donnerstag gedenke ich selbst nach <placeName key="JP-006396">Weinheim</placeName> zu fahren. Morgen erlaubt mir
+                        <persName key="JP-003719">Schelver</persName> einen
+                        <persName key="JP-000175">blinden Somnambule</persName> zu sehen, was mich sehr intereßirt. Der Auftrag
+                    für Reitzenstein war noch
+                    nicht ausgerichtet. Ich habe noch Brustschmerzen, verzeihen Sie daher um so mehr
+                    dieses schlechte Geschreibe da es schon Mitternacht ist; wir kamen recht spät
+                    von <persName key="JP-003169">Paulussens</persName>
+                    nach Hause. <persName key="JP-000949">Mein Sohn</persName> empfielt sich
+                    herzlich, so wie auch ich mich Ihnen, <persName key="JP-999999">den lieben
+                        Mann</persName> und <persName key="JP-003483">den lieben Kindern</persName>.
+                    Ganz die Ihrige. Ende.</p>
+            <closer>Wir kamen den 8.ten hier an, und es ist die
+                        Ermüdung, über die Freuden des Wiedersehens, die uns hier mit der
+                        ergötzlichsten Herzlichkeit, den ganzen Tag erwiedert werden,  die meine
+                        Lebenskraft wieder angegriffen hat, ich stärke mich aber mit warmer
+                        Kuhmilch. Das beglückende Andenken an Ihr
+                                Haus, ist hier Begleiter jeder meiner
+                        Freuden.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

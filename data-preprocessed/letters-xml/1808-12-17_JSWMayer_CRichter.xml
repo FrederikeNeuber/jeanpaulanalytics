@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0522">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 17. Dezember
+                    1808, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1808-12-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 17. Xber 8.</dateline>
+               <salute>Liebe Caroline!</salute>
+            </opener>
+            <p>ich melde Dir den Empfang Deines lieben
+                            Briefes durch <persName key="JP-000561">HerrnButtmann</persName>, deßen mündliche Nachrichten über Dich, <persName key="JP-999999">Deinen Mann</persName> und <persName key="JP-003483">Kinder</persName> mir
+                    besonders angenehm waren.</p>
+            <p>– Die Erinnerung an Antwort auf Deinen Brief vom 21. 8ber ist erledigt, weil Du sie bereits in Händen hast.
+                    Einen späteren habe ich nicht von Dir. Die Antwort auf die durch <persName key="JP-000561">HerrnButtmann</persName> erhaltenen liegt theils in dem bey kommenden Zettel <persName key="JP-002709">meiner Frau</persName>; theils erfolgt sie hiemit. Ich bitte
+                    Dich nehmlich<list>
+                  <item>I<hi rendition="#u" hand="#author">°</hi>Sey nicht besorgt, daß ich Dich über <persName key="JP-004393">M</persName>. in <placeName key="JP-005948">L.</placeName>, compromittiren werde. ich bedurfte
+                                    ohnehin keines weitern Zeugnißes.</item>
+                  <item>II<hi rendition="#u" hand="#author">°</hi> Traue mir zu,
+                            daß nur meine Lage, <ref target="JP-UB0727/#nusk_zmp_3nb">die wohl
+                                nie drükender gewesen ist</ref>, mich abhält, mehr für die Zukunft
+                            von <persName key="JP-004393">M.</persName> zu thun. So wie die Sachen stehen, muß sie denken daß  ich nicht mehr bin. </item>
+               </list>
+            </p>
+            <p>ich habe um ihr behülflich zu seyn, auf meinen Credit 50
+                        rth aufgenommen, um ihr ihre Wittwen Pension vorzuschießen; und denke, sie wird sich damit
+                    hinhalten können.</p>
+            <p>Du wirst es lächerlich finden, daß Du in beykommenden Kästchen einige
+                    Kleinigkeiten bekömst; worunter das volumineuseste für
+                        <persName key="JP-003490">Deinen Sohn</persName> ist. ich möchte mir gern
+                    einbilden, ich könnte Geschenke austheilen, weil ich gern möchte. Nimm Vorlieb, und küße <persName key="JP-003483">Deine
+                        Kinder</persName>. Grüße auch <persName key="JP-999999">Deinen
+                        Mann</persName>.</p>
+            <closer>
+               <signed> Dein treuer Vater Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

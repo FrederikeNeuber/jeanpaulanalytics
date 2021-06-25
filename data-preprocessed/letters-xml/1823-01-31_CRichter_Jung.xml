@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0686">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Franz Wilhelm Jung. Bayreuth, nach dem 31. Januar
+                    1823</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1823-01-31" notAfter="1823-12-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001981">Franz Wilhelm Jung</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012539">Frankfurter Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Möchten Sie doch den Katalog der deutschen Bäder
+                            aufschlagen, und dieses in Ihrer Gegend vielleicht wenig bekannte Bad
+                            Ihnen mit allen seinen Eigenschaften empfohlen werden, um es des Versuchs für die Herstellung Ihrer lieben <persName key="JP-001980">Tochter</persName> werth zu
+                    achten. Das könnte uns ein sehnlich erwünschtes Wiedersehen verschaffen.
+                    Schwerlich wird <persName key="JP-999999">mein Mann</persName> eine <placeName key="JP-006187">Rhein</placeName>reise machen, wenigstens gehören wohl
+                    mehrere Jahre dazu, um das schmerzhafte der Erinnerungen einigermaaßen zu
+                    schwächen was dort die väterliche Brust durchstechen würde. Man kann nicht immer die
+                    lebhafte Überzeugung festhalten, daß dort, wo  der geliebte <persName key="JP-003490">Entflohene</persName> jetzt ist, schönere Paradiese ihn umgeben, als je die
+                    Erde besitzen kann und wenn man nun die erhabenen und blühenden Paradiese der
+                    Erde, denen er so nahe war, durchstreifte – müßte da nicht jeder entzückende   Anblick, einen Pfeil durch das Herz bohren? Zwar habe ich viel
+                    schmerzliches unternommen bin so gar dem lebendigen Grabe des <persName key="JP-003490">Theuern</persName> nachgereißt, habe Schritt vor Schritt die
+                    Schmerzen und die Sehnsucht nachempfunden die den armen <persName key="JP-003490">Kranken</persName> auf seiner <hi rendition="#u" hand="#author">letzten</hi> Reise von <placeName key="JP-005819">Heidelberg</placeName> zu den Eltern einnahmen – ich begreife es
+                    jetzt nicht wie ich es konnte, aber ich würde es doch wieder thun – aber es war
+                    im Dienste des Schmerzes – im Dienste der Freude, könnte ich nimmer, nimmer
+                        <placeName key="JP-005819">Heidelberg</placeName> wiedersehen. Dieser
+                    Zauberort kömmt mir wie süsses Gift vor – hätten wir ihn nie gekannt!</p>
+            <p>Doch, Vortreflichster warum soll ich Sie mit den Ansichten einer beschränkten
+                    Seele bekannt machen, die viel zu einseitig urtheilt? Wenn diese daraus entspringenden Gefühle eine
+                    Zeitlang in meiner Seele vorgeherrscht habten, dann kann sie sich auch zu der des Geistes
+                    würdigen Ansicht unserer   großen Bestimmung zur Geisterwelt erheben
+                    und schöpft daraus die einzige Beruhigung die Allen werden muß, die sich in diese großen Ideen vertiefen.</p>
+            <p>Sie werden gehört haben, daß unsre jüngste Tochter<persName key="JP-003491">Odilie</persName>in <placeName key="JP-006422">Würzburg</placeName> bei <persName key="JP-001608">HerrnHeine</persName> in der Kur war. Sie ist jetzt wieder in
+                            unserer Mitte. Ein sich vor
+                    wenigen Jahren erst bildendes Übel in der rechten Seite, machte eine kräftige
+                    Gegenwirkung nothwendig. Das erst kürzlich bekantgewordene <placeName key="JP-011740">orthopädische Institut</placeName> des <persName key="JP-001608">HerrnHeine</persName> bot die schnellste und zweckmäßigste Hülfe dar – wir konnten nicht
+                    zaudern, und trennten uns auf 10 Monat lang, von dem geliebten <persName key="JP-003491">Kinde</persName>. Es ging ihr dort wohl, sie war in der
+                    Mitte liebenswürdiger junger Mädchen, worunter sich eine <persName key="JP-012116">Tochter</persName> des <persName key="JP-011964">Präsidenten Pagenstecker</persName> aus <placeName key="JP-006406">Wiesbaden</placeName> sehr auszeichnete. Doch  
+                    legte es meinem Herzen vielfache Sorgen und Kummer auf. Es war ein hartes Jahr
+                    das, da es noch als Zukunft vor mir lag, mir
+                    als eine der bängsten Lebens Catastrophen vorschwebte welches folglich nach
+                    seinem Zurücklegen und mit günstigem Erfolge gekrönt, meine unbegrenzteste
+                    Dankbarkeit und Demüthigung gegen Gott erheischte. Mir ist, als wenn ich an einen tiefen verschlingenden
+                    Abgrund vorbeigegangen wäre. Doch habe ich noch zwei Jahre der gewissenhaftesten
+                    Wachsamkeit auf diese Cur zu widmen damit der erworbene Vortheil nicht wieder in sich selbst
+                    zerfalle, denn es ist natürlich, daß der zur Unregelmäßigkeit sich neigende
+                    Körper, nur durch Zwang kann der Regel gehorchen. Dann aber werde ich die Freude
+                    haben die sonst so schlanke Gestalt des lieben <persName key="JP-003491">Kindes</persName> ohne Besorgnis den Stürmen und Pflichten des Lebens,
+                    aussetzen zu können. Der edle zweite Vater meiner <persName key="JP-003483">Kinder</persName> wird diese vertrauliche Mittheilung im Herzen behalten
+                    aber dürfte ich etwas was das Wohl oder Unwohl der <persName key="JP-003482">Meinigen</persName> betrift, dem edelsten Manne verschweigenVerzeihung, meiner Weitschweifigkeit, ewig
+                        verehrend IhreCaroline Richter.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

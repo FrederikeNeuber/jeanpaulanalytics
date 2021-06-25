@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0111">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Heinrich Voß an Emanuel Osmund. Heidelberg, 23. Januar 1818, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004520">Heinrich Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1818-01-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-003112">Georg Christian Otto</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Heidelberg, den 23. Jenner 1818</dateline>
+            </opener>
+            <p>Mein theurer Emanuel! Wie dankt Ihnen mein ganzes Herz für die Seelenworte, die Sie mir Schrieben, die
+                    aber keiner las, als ich, denn ich schämt mich, Anderen Worte über mich zu
+                    zeigen, die höher sind, als mein Verdienst! Aber Sie wollten nicht schmeicheln,
+                    das fühl' ich, und so dankt Ihnen mein Herz doppelt.</p>
+            <p>Mit Rührung ergreif' ich die mir dargereichte Freundeshand. Nehmen Sie von mir
+                    über die weite Kluft den deutschen Druck der Rechten.</p>
+            <p>Welch ein schönes Band, einen gemeinschaftlichen Freund zu haben, wie unsern
+                    herrlichen <persName key="JP-999999">Jean Paul</persName>!</p>
+            <p>Ich schrieb viele Briefe über diesen Einzigen, die alle an <persName key="JP-004507">meinen Bruder Abraham</persName> gelangten. Der las sie der
+                        <persName key="JP-002055">Fürstin von Rudolstadt</persName> vor. Diese sagte
+                    zu <persName key="JP-004516">meiner Mutter</persName>: "Ich wünsche dem Heinrich
+                    eine Frau, die er liebt wie <persName key="JP-999999">Jean Paul</persName> und
+                        <persName key="JP-004347">Truchseß</persName>, dann werden beide glücklich
+                    seyn."</p>
+            <p>O thun Sie auch das Ihrige, daß <persName key="JP-999999">der
+                                Herrliche</persName> wieder zu uns komme! Ich fürchte immer noch, er möge zurückspringen, – nicht aus Vorsatz;
+                    aber das Schicksal hat manchmal seine Tücken. Stündlich denk' ich des gar zu
+                    lieben Mannes, den ich am liebsten nenne – den <hi rendition="#u" hand="#author">Guten</hi>. Einen bessern Mann zu finden, ist nicht möglich;
+                    aber <persName key="JP-004524">mein Vater</persName> ist eben so gut, und drum
+                    liebt er auch so den Guten, den ich ihm <hi rendition="#u" hand="#author">täglich</hi> von Neuem schildere.</p>
+            <p>Gewiß komm' ich auf ein paar Tag nach <placeName key="JP-005574">Baireuth</placeName>, wenn ich wieder zu meinem <persName key="JP-004507">Abraham</persName> reise. Ich muß ja auch die <persName key="JP-003469">liebe Frau Caroline</persName> kennen lernen, und <persName key="JP-003483">Jean Pauls Kinder</persName>, und Sie – d. H. persönlich – und <persName key="JP-003112">Otto</persName>. Bis diese Stunde weiß ich weder Ihren noch
+                        <persName key="JP-003112">Ottos</persName>
+                            Zunamen – denn Ihre Hand und die Unterschrift Ihrer
+                    Briefe entziffr' ich nicht – aber ich nenne Sie am liebsten Emanuel, wie ich
+                    mich am liebsten Heinrich genannt höre. –</p>
+            <p>Sehen Sie meine Briefe an unsere Theuern wie zugleich an Sie geschrieben an.</p>
+            <closer>
+               <salute>Grüßen Sie <persName key="JP-003092">Ihre Liebe Frau</persName> und
+                        küssen Sie <persName key="JP-003095">Ihr Töchterchen</persName> in meinem
+                        Namen.  Und somit sag' ich Ihnen gute Nacht, und nenne mich den Freund
+                            <persName key="JP-999999">Ihres Theuern Freundes</persName> und den
+                        Ihrigen.</salute>
+               <signed>
+                  <hi rendition="#u" hand="#author">Heinrich Voß</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

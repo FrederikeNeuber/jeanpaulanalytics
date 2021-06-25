@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1110">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Christian Freiherr Truchseß von Wetzhausen an Johann Ernst Wagner.
+                    Bettenburg, 14. September 1811, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+               <placeName key="JP-005591">Bettenburg</placeName>
+               <date when="1811-09-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bettenburg den 14<hi rendition="#uu" hand="#author">ten</hi>Septbr. 1811.</dateline>
+            </opener>
+            <p>Ist <persName key="JP-002186">Könitz</persName> schon wieder nach <placeName key="JP-006012">Meiningen</placeName> zurückgekehrt, so weißt Du auch,
+                    lieber Ernst! welche seelige Tage das Voßische Paar
+                            mir und meinem <persName key="JP-003913">Schuler</persName>
+                            gab, und wenn Dir auch Niemand
+                    etwas sagte, so weißt Du es doch: <anchor type="target" xml:id="start_tbm_3st_1pb"/>Sie blieben 14 Tage bey mir<anchor type="target" xml:id="stop_tbm_3st_1pb"/>, leider, litt ich einige Tage dazwischen  an einen argen bösen
+                    Hals.</p>
+            <p>Wenn <persName key="JP-004520">Heinrich</persName> mir schreibt so kommst Du ihn
+                    immer ins Herz und im Kopfe und so
+                    kommt auf das Papier so manches was noch mehr für Dich als für mich ist; was ich
+                    aber doch gerne und dankbarlich mitnehme, Dir aber doch nicht allzulange
+                    vorenthalten darf. Ich dictire daher, nachdem ich eine capitale Hammelskeule auf
+                    den Tisch, dann theilweise auf der Gabel, und nun größtentheils in
+                    Wiedervereinigungspunkt des Magens habe. Und Du mußt nun mit dem Uebersatten
+                    vorlieb nehmen. Der Hungrige machte durch allzulange Briefe vor dem Eßen seine
+                    Freunde <persName key="JP-002186">Könitz</persName> und <persName key="JP-004520">Heinrich Voß</persName> vielleicht auch übersatt. Liebst Du
+                    mich nicht eben so wie mich <persName key="JP-004520">Heinrich</persName> liebt,
+                    so müßen Heinrichs Briefe Dich auch übersättigen; aber ich wage es darauf hin
+                    und gebe Dir alles was ich von ihm habe. Auch des guten Heinrichs <persName key="JP-004516">gute Mutter</persName> mußt Du doch Schnacken hören. Die
+                    Frau ist mir so ehrwürdig und schien noch ehrwürdiger als <persName key="JP-004524">ihr Mann</persName>; lieb sind sie mir beyde gleich. Die
+                    kleine Zettelchen waren Beylagen zu <bibl sameAs="JP-013524" subtype="werk">Oehlenschlägers Correggio</bibl>, ich erwarte aber diese kleine Dinger auch
+                    wieder zurück.  Den <persName key="JP-001827">Homer</persName> und
+                    einen Brief von <persName key="JP-004520">Heinrich</persName> hat wahrscheinlich
+                    der Teufel geholt. Nicht Heinrichen allein sagten die
+                            Alten daß sie Dir gut sind, Dich herzlich
+                    lieben. Auch zu ihren <persName key="JP-004507">Abraham</persName> sprach
+                        <persName key="JP-004516">die Alte</persName> von Dir, wie ich aus einen Brief hörte, den ich mir so heraus
+                    häckelte, ehe er von hier nach <placeName key="JP-006213">Rudolstadt</placeName>
+                    abgesandt wurde.</p>
+            <p>Wenn Du den <bibl sameAs="JP-013524" subtype="werk">Correggio</bibl>
+                    geschrieben hättest, ich glaube, Du würdest ihn eben so liebend und schön
+                    behandelt haben als <persName key="JP-003027">Oehlenschläger</persName>; und
+                    spricht auch Dich dieser <bibl sameAs="JP-013524" subtype="werk">Correggio</bibl> nicht an, so ist die Zauberlampe wirklich eine
+                    Zauberlampe. In der kommenden Woche schicke ich <bibl sameAs="JP-013524" subtype="werk">Correggio</bibl> an <persName key="JP-003913">Schulern</persName> (der ganz Dein ist und es zu seyn verdient) und dieser
+                    soll ihn Dir senden. Hast Du einmal eine recht <hi rendition="#u" hand="#author">gemüthliche</hi> Stunde und magst nicht selbst produciren; so
+                    lese <bibl sameAs="JP-013525" subtype="werk">Axel und Walburg</bibl> doch noch
+                    einmal. <bibl sameAs="JP-013523" subtype="werk">Hackon Jarl</bibl> mußt Du in
+                    einer genialischen ergreifen. <persName key="JP-004558">Deine lieben
+                        Buben</persName> kommen nicht, und wenn sie endlich doch noch kommen
+                    sollten, so wird für den wackern <persName key="JP-004564">Karl</persName> wenig
+                    mehr zu thun seyn, denn durch die anhaltende Dürre ist fast die ganze Natur
+                    ihres Schmuks beraubt und viele Bäume sind jetzo schon fast blätterlos. Ueber
+                        <persName key="JP-004570">Antons</persName> Gemählde der <persName key="JP-013351">Oberjägermeisterin von Bibra</persName>hielt ich mit <persName key="JP-003913">Schulern</persName> manchen Zwiesprach. Ihn war alles so
+                    recht, mir fängt <persName key="JP-004570">der Bube</persName> zu bald an in die
+                    Kunst des Idealisirens einzugreifen. <persName key="JP-003913">Schuler</persName> versteht aber wohl mehr von der Kunst als ich. <persName key="JP-013351">Die alte Dame</persName> ist vergnügt wie – eine
+                    Verjüngte.</p>
+            <p>
+               <persName key="JP-004599">Wangenheim</persName> ist mit Deiner <bibl sameAs="JP-010017" subtype="werk">Isidora</bibl> ganz unendlich zufrieden,  er will Dir bey erster Muße selbst darüber
+                            schreiben. Eine Stelle seines Briefs mußt Du noch hören: "Schon die Aufgabe die
+                    sich unser Freund macht, ist originell und schön. Und wie lieblich, wie
+                    durchgreifend hat er die alte unerkannte Wahrheit, die Stimme des Gewißens auch
+                    in der Liebe aus dem Schutte, den der verfluchte Verstand über alle Schätze der
+                    Wahrheit herübergeschüttet u. aufgethürmt hat, hervorgezogen und dem geistigen
+                    Auge der Vernunft durch das Gemüth hindurch näher gebracht. Andere große damit
+                    in Verbindung stehende Gedanken haben ihn bewegt, und lebendig läßt er sie vor
+                    uns in großen Anschauungen stehen. Ich kann wohl sagen: ich weiß nicht ein
+                    Produkt in der Litteratur anzugeben, wo der Punkt der Wirklichkeit, an welchen
+                    die Herrlichkeit der Idee anzuknüpfen sey, so genügend angegeben wäre.
+                    Das Ideale scheint mir darin durchgängig realisirt, so wie das Reale idealisirt
+                    und dadurch eben das Höchste in der Kunst und im Leben erreicht".</p>
+            <p>Ueber <persName key="JP-004599">Wangenheims</persName> Versetzung nach <placeName key="JP-006358">Tübingen</placeName>, die mir in aller Hinsicht sehr
+                    erwünscht ist habe ich <persName key="JP-002186">Könitzen</persName>
+                    geschrieben, und jetzo nicht Zeit zu wiederholen.</p>
+            <p>A prospos;! wie fiel den die
+                            Probe mit dem Herrn Koob aus?
+                    nicht den kleinen Sohn des Hof-Laqueien, sondern den, den <persName key="JP-003964">die Schwendlern</persName> empfahl, oder nur auffand, und er
+                    bey dem Hoftrompeter logiren soll. Es ist mir jetzt  daran gelegen etwas davon zu wißen; denn der junge Mensch, den ich in hiesiger
+                    Gegend proben sollte bestand die Leseprobe so <hi rendition="#u" hand="#author">schlecht</hi>, daß ich auf die Schreibeprobe, die wahrscheinlich
+                    gut ausgefallen wäre, ganz renoncirte, und Herr<persName key="JP-013410">Languth, Schulseminarist zu
+                        Hildburghaußen</persName>, der mir bis auf etwas schwaches Sprach-Organ ganz
+                    zusagen würde, weiß wahrscheinlich nicht so recht ob er mir seine
+                    Zusage halten soll oder nicht, denn vor etwa 3. Wochen sandte ich einen Boten an
+                    ihn ab, um das Ultimatum zu erfahren, und erfuhr, daß er sich erst noch dies und
+                    jenes erkundigen müßte, daß er aber binnen 8. Tagen selbst kommen oder mir
+                    Antwort schicken würde, und nun warte ich noch auf beyde. Da ich nun keine Wahl
+                    habe so kann ich auch nicht mehr auf die höchste Vollkommenheit rechnen und Du
+                    hast die Güte mir über <persName key="JP-013407">Herrn
+                        Koob</persName> nächstens zu referiren und auch wieder umhorchen zu laßen.
+                    Möglich ist es aber doch daß <persName key="JP-013410">Languth</persName>
+                    noch zu mir zieht, u. Du erhältst auf disen Fall sogleich Kunde.</p>
+            <p>
+               <persName key="JP-001138">Fouquet</persName> hat sich durch seine vaterländische Schauspiele rückwärts gedichtet. Ein Kummer wird <hi rendition="#u" hand="#author">dies</hi>
+               <persName key="JP-002186">Könitzen</persName> seyn, weil ihm <bibl sameAs="JP-008413" subtype="werk">Sigurd</bibl> so anzog. Trotz meines vollen
+                    Bauches schnackte ich gerne noch weiter, denn ich komme jetzo doch im Zug, aber
+                    ich muß bey einer würzburgischen Behörde, die noch Excellenz dazu ist, und
+                    ehedem sehr viel war, bey Seyferten, einen Besuch ablegen. Lebe wohl Lieber,
+                    und grüße mir <persName key="JP-004551">Frau</persName> und <persName key="JP-004556">Kinder</persName> und wer zu Dir kommt und auch lieb hat</p>
+            <closer>
+               <salute>Dein</salute>
+               <signed>T.</signed>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

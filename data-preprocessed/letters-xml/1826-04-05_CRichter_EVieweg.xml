@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1157">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Eduard Vieweg. Bayreuth, 5. April 1826,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1826-04-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004430">Eduard Vieweg</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Gewis werden Sie, mein bester Herr Vieweg über mein Schweigen auf die Zusendung Ihrer Bücher, stutzig geworden sein und ich verdenke es
+                    Ihnen nicht, wenn Sie an mir irre geworden sind. Sie kamen einige Tage nach Absendung meines Pakets an Sie in meine Hände, und
+                    ich gestehe ich war sehr erfreut durch Ihre Güte; allein so wie die Sachen jetzt
+                    stehen, kann ich sie blos als dépositum betrachten das
+                    Sie zu anderweitigem Gebrauch mir anvertraut haben.</p>
+            <p>Ehe ich Ihnen Nachricht des Empfangs geben wollte, erwartete ich erst Antwort von
+                        <persName key="JP-000698">Herrn Cotta</persName>, der wie Sie
+                    wissen <ref target="JP-UB1153/#nggk_qgs_hpb">frühere Zusicherungen über die
+                            <bibl sameAs="JP-010885" subtype="werk">"Selina"</bibl> hatte</ref>. Seiner
+                    Entscheidung mußte ich es überlassen, ob er auch den Verlag derselben verzichten
+                    oder ihn behaupten wolle.</p>
+            <p>Lange ließ er mich auf seine Antwort warten, endlich erhielt ich vorige Woche
+                        <ref type="letter" target="JP-UB0372">einen Brief</ref>, der mich
+                    unabänderlich zwingt, sie in seine Hände zu geben.</p>
+            <p>Beklagen Sie mich, mein sehr geehrter junger Freund am meisten bei dieser
+                    Fehlschlagung Ihrer Wünsche, meine  schwache Seele kann sich
+                    wahrhaften Kummers darüber nicht erwehren, da meine Fantasie, sich die
+                    Ausstattung des Werks durch Ihren Geschmack so schön gedacht hatte, aber was
+                    kann ich thun? Andrerseits hat <persName key="JP-000698">Herr Cotta</persName>
+                    auch so viele Rechte auf unsere Hochachtung, denn Er war es, welcher in den
+                    Kriegsjahren des armen <placeName key="JP-005668">Deutschlands</placeName> jedes
+                    Werk <persName key="JP-999999">meines seeligen hochverdienten Gatten</persName>
+                    ohne Widerstreben und mit größter libéralität verlegte.
+                    Ich habe viel mit ihm zu kämpfen, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0372/#start_mzq_4q3_vkb">denn er ist doch sehr durch die
+                        Abtretung an <persName key="JP-003408">Reimer</persName> gekränkt</ref>. Ich
+                    muß sehr viel leiden, und muß oft <persName key="JP-999999">meinen
+                        Engel</persName> seelig preisen, daß er alle diesen Kämpfen entflohen
+                    ist.</p>
+            <p>Auch <persName key="JP-002693">Max Joseph</persName> habe ich keine Bereitwilligkeit den
+                    Verlag späterer Sammlungen mit Jemand zu theilen, erfahren, und aus dem Grunde
+                    weil ich sehe daß die Vervielfachung unserer Geschäftsführer nur eine Quelle der
+                    Sorgen und des Leidens für uns wird, halte ich jedes Versprechen darüber zurück,
+                    bis sich es näher entwickelt auf welche  Weise die Ruhe unserer
+                    Zukunft am wenigsten gefährdet ist. <persName key="JP-002693">Max
+                        Joseph</persName> begnügt sich auch bescheiden <ref target="JP-UB1153/#npcb_13s_hpb">mit der ihm von meinem Seeligen
+                        zugesicherten Biographie</ref>, und noch immer muß ich sagen daß er am
+                    meisten das Glück und den Frieden <persName key="JP-003482">unserer
+                        Familie</persName> zu schonen sucht, indem er allen Entschädigungsansprüchen
+                    entsagt, so bald wir sie tragen sollten. Möchte mein Glaube an seinen Edelmuth
+                    niemals getäuscht werden, es ist so schön den Menschen edle Absichten zutrauen
+                    zu dürfen, und mein Glück besteht in dem allgemeinen Wohlwollen.</p>
+            <p>Etwas sehr Wichtiges liegt mir noch zu berichtigen ob, in dem
+                            Fragment über den Vernunftglauben welches
+                    ich Ihnen für den Almanach schickte, bedarf eine Stelle notwendig einiger
+                    Änderungen. Haben Sie die Güte, ich beschwöre sie, beikommende Stelle desselben
+                    genau nach <hi rendition="#u" hand="#author">diesem Blatte</hi>
+                    abdrucken zu lassen wonach Einige, außer dem Zusammenhange, zu hart einstoßende
+                    Stellen gemildert werden. Gewis ist der Druck desselben noch nicht unternommen,
+                    daher kann die Abänderung recht gut statt finden.</p>
+            <p>Sehr begierig bin ich auf das was Sie über meine
+                            Sendung beschlossen haben werden, und
+                    erwarte sehnlichst Ihre Antwort. Mit wahrhaftester Liebe und Achtung</p>
+            <closer>
+               <signed>Ihreergebene Caroline Richter Wittwe Jean Pauls</signed>
+               <dateline>Baireuth 5<hi rendition="#uu" hand="#author">ter</hi> April 1826</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

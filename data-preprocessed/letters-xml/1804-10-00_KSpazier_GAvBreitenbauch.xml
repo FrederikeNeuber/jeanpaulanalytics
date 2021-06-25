@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0656">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl Spazier an Georg August von Breitenbauch. Leipzig, Anfang Oktober
+                    1804</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date notBefore="1804-10-06" notAfter="1804-10-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012618">Georg August von Breitenbauch</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Hochwohlgeborener Hochzuverehrender Herr Kammerrath</salute>
+            </opener>
+            <p>Die Anzeige von den beiden Denkmälern, welche Ew. Hochwohlgeb. dem guten<persName key="JP-002892">Müchler</persName> u der  Freundin errichtet haben, werden Sie abgekürzt
+                        inNo 121 der Zeitung fdeW finden. Was
+                    aber das Geschenk betrifft, welches Sie mir mit ihrem <bibl sameAs="JP-012016" subtype="werk">neuesten Buche</bibl> zu machen so geneigt gewesen sind, so
+                    danke ich dafür auf das verbindlichste, u wünsche ich nichts mehr, als
+                    Gelegenheit zu erhalten Ihnen mich irgend wodurch gefällig bezeigen zu können. </p>
+            <p>Da ich die Ehre habe mit besonderer Hochachtung zu sein </p>
+            <p>Ewr. Hochwohlgeb.</p>
+            <closer>
+               <salute>gehorsamster</salute>Spazier</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

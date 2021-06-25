@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0155">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Carl August Böttiger.
+                    Dessau,
+                    20. August 1800, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005665">Dessau</placeName>
+               <date when="1800-08-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000400">Carl August Böttiger</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline/>
+               <salute>Ewr Hochwürden</salute>
+            </opener>
+            <p>danke ich sehr verbindlich für Ihr lebhaftes Interesse, was Sie, Ihrer vielen Geschäfte ungeachtet, so ganz u so bald an
+                            meinen edirten Gretry genommen
+                            haben. Ihr Urtheil schmeichelt mir und ist mir sehr aufmunternd; ich weiß aber
+                    auch wohl, daß ich meiner Eigenliebe den Vorsprung nicht so weit gestatten darf,
+                    um nicht in der Milde desselben den Hang  des edelmüthigen Beurtheilens zur Schonung zu erkennen. </p>
+            <p>Was Ihre Aufforderung zur Theilnahme an dem <bibl sameAs="JP-008436" subtype="werk">Modejournal</bibl> betrifft, so finde ich mich dadurch
+                    allerdings geehrt u würde ich mit Vergnügen meine Beiträge dazu liefern, wie sie
+                    mir etwa ein günstiger Zufall Ihrem Wunsche gemäß zuführte. Allein erstlich bin
+                    ich  meiner Theilnehmung an der <bibl sameAs="JP-010171" subtype="werk">Leipz. mus. Zeitung</bibl> ungeachtet, seither doch zu sehr außer dem Centrum derselben gewesen, um gerade
+                    dergleichen historischen Notizen habhaft werden zu können; <anchor type="target" xml:id="start_rlk_v2g_plb"/>sodann habe ich die Ehre Ihnen anzuzeigen, was
+                    ich ohnehin auch ohne diese
+                    Veranlaßung zu thun und zur angenehmen Pflicht gemacht haben würde, daß ich von
+                    der Buchhandlung<persName key="JP-012389">
+                  <persName key="JP-004524">Voss</persName> u Comp.</persName> in <placeName key="JP-005948">Leipzig</placeName> zur Redaktion einer <bibl sameAs="JP-009809" subtype="werk">Zeitung für die elegante Wel</bibl>t
+                    aufgefordert worden bin, und also von jetzt an mehr die Verbindlichkeit habe,
+                    auch an meinem Theile dergleichen erzählende Nachrichten dem Blatte zunächst
+                    zuzuwenden. Die <persName key="JP-012389">Handlung</persName> glaubt, u ich
+                    glaube es mit ihr, daß <bibl sameAs="JP-009809" subtype="werk">diese
+                        Zeitung</bibl> neben den anderen Blättern dieser Art ihren bescheidentlichen
+                    Gang wird nehmen können, u ich bin fest, von Ihnen und  Herren
+                    Legations Rath <persName key="JP-000332">Bertuch</persName> überzeugt, daß Sie es gewiß nicht daran fehlen laßen werden, Gelegentlich
+                    zur Ausbreitung u Empfehlung derselben beizutragen. Ich wünsche das der
+                    achtungswerthen <persName key="JP-012389">Handlung</persName> wegen, die dabey
+                    sehr lobenswerthe Intentionen hat u es an Aufwand dabey zum Vergnügen des
+                    Publikums nicht ermangeln laßen wird.<anchor type="target" xml:id="stop_rlk_v2g_plb"/>
+            </p>
+            <p>Unterdeß danke ich für Ihr mir höchst schätzbares Vertrauen recht sehr, empfehle
+                    mich überhaupt u insonderheit jetzt bey meiner neuen Karriere Ihrer frommen
+                    Gewogenheit u habe die Ehre mit der aufrichtigsten Hochachtung zu seyn</p>
+            <closer>Ewr. Hochwürden ganz ergebensterSpazier.</closer>
+            <postscript>
+               <p> Sollte Ew. Hochwürden den Excursen von Dittersdorf für den <bibl sameAs="JP-010113" subtype="werk">Merkur</bibl> ganz oder gekürzt haben brauchen können, so bitte ich, mir das Mspt
+                        davon aus der Druckerey für den weiteren Gebrauch aufzubehalten od durch die Härtelsche
+                        Buchhandlung gefälligst wieder zukommen zu laßen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

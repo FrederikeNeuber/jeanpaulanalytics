@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0729">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 18. April 1803, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-04-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig den 18tenAprill. 1803.</dateline>
+            </opener>
+            <p>
+               <persName key="JP-012036">Die Überbringerinn</persName>, dieses Briefes,
+                    mein theurer Vater, ist <persName key="JP-012036">mein sehr braves
+                        Mädchen</persName>, welches ich mir, bey meiner Verheirathung, in <placeName key="JP-005586">Berlin</placeName> miethete, und von dort
+                    mit hieher nahm. – Sie ist fast
+                    zwey Jahre in meinem Dienst gewesen, und, da sie auf diese Weise, mit unserm
+                    ganzen Leben vertraut ist, so werden Sie recht viel spezielles sich von uns
+                    erzählen laßen können, das Ihnen doch nicht unintereßant seyn wird. – In dieser
+                    Hinsicht allein kann ich schon nicht zweifeln, daß Sie sie nicht recht
+                    freundlich aufnehmen würden! – Sie werden sich auch gewiß Ihrer erinnern, da sie
+                    vor meiner Abreise schon sieben Wochen in Ihrem Hause sich aufhielt, wie Sie es
+                    damals so gütig erlaubten! – Ich kann nur noch das hinzufügen, daß dies, ein Wesen ausgezeichneter Art ist, dem man die
+                    höchste Achtung nicht versagen kann; und daßichsie sehr ungern verloren habe!!</p>
+            <p>Ihren, durch <persName key="JP-004614">HerrnWeber</persName>mir übersandten Brief habe ich zu meiner
+                    Freude, erhalten, so wie ich hoffe daß der
+                            Meinige nunmehr in Ihren Händen ist, und Sie überzeugt
+                    hat, daß wahrlich nicht Gleichgültigkeit, gegen Sie, mein theurer Vater, die Ursach meines
+                    wohl langen Schweigens war. Der gute <persName key="JP-004614">Proffeßor Weber</persName>, hat sich alle Mühe gegeben, mir
+                    durch  mündliche Traditionen
+                    einen Anschauung von <placeName key="JP-012811">Ihrer
+                        Wohnung</placeName> und ganzen kleinen Einrichtung zu geben, und ich bin ihm
+                    dafür sehr dankbar gewesen. – Hauptsächlich habe ich mich aber, über Ihr Gärtchen gefreut; Ich kann Ihnen
+                    nicht sagen wie sehr! – Denn ich weiß aus eigner Erfahrung, welch eine Freude
+                        das ist nur ein kleines
+                    Pläzchen zu haben, auf dem man so sein Wesen frey und kindlich treiben kann –
+                    und daß Sie, liebster Vater, sich immer solch ein Gärtchen wünschten weiß ich
+                        ja auch! – Schreiben Sie mir
+                    ja in Ihrem nächsten Briefe, daß ich in meiner Vorstellung von Ihrer Freude
+                    darüber mich nicht geirrt habe, und daß Ihre Feyer-Stunden, immer in dem
+                    Gärtchen verlebt werden. </p>
+            <p>Diese Zeilen, sollten schon am Tage der Abreise meiner <persName key="JP-012036">Marie</persName>, für sie geschrieben werden; aber mich überfiel, am
+                    Morgen, eine solche Unpäßlichkeit die mich den ganzen Tag im Bette festhielt; und es mir unmöglich machte zu schreiben. Ich
+                    beschloß also der <persName key="JP-012036">Marie</persName>, den Brief mit
+                    der reitenden Post nachzuschicken, damit  er doch durch ihre Hände gienge, und sie Ihnen
+                    recht viel erzählen könnte. Dies nur zur Erläuterung von etwaigen
+                    Mißverständnißen. Jetzt bin ich völlig wieder wohl – seyn Sie ja nicht in Sorge wegen meiner Gesundheit, liebster Vater,
+                    leben Sie recht wohl und grüßen Sie <persName key="JP-002709">Ihre liebe
+                        Frau</persName>, von <persName key="JP-002583">meinem Manne</persName> und
+                    mir</p>
+            <closer>
+               <signed>E. M.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

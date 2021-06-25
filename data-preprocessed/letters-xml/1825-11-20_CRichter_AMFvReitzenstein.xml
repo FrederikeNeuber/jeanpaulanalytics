@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0231">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Anna Margaretha Fanny von Reitzenstein. Bayreuth, 20. November 1825, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1825-11-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-011923">Anna Margaretha Fanny von Reitzenstein</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Bair. den 20<hi rendition="#u" hand="#author">ten</hi> Nov. 1825.</hi>
+               </dateline>
+            </opener>
+            <p>Heilge Seele! Wie hast du mich erquickt mit Deinem Troste. Solche Worte einer Gepreisten, sind Worte eines höheren Geistes. Könnte
+                    ich Dich sehen Geliebte! Ach wie oft habe ich seit Deinem letzten Briefe an Dich
+                    schreiben wollen und von Dir das schwesterliche Du, erbitten, da meine Seele
+                    Dich als Geistesschwester begrüßt – allein der über den Einzigen, Herrlichen
+                    schon lange schwebende Todesengel (unter den Meinigen nur <hi rendition="#u" hand="#author">mir</hi> allein sichtbar)
+                    nahm alle meine Gedanken all mein Thun gefangen, und wenn ich je, Gott für Etwas
+                    danke, so ist es diese unabgewendete durch Nichts zerstreute Aufmerksamkeit, die
+                    ich auch den Theuern der mir zuletzt mehr als <persName key="JP-999999">Gatte</persName> der mir Bruder – Kind war, gerichtet habe, und dessen
+                    zuweilen unmuthige Äußerungen ich nie anders, als aus der Quelle, inneren  Krankheitgefühles ableitete. Ja ich mußte bei meiner Schwester lernen mit Sterbenden umzugehen, um es an <persName key="JP-999999">meinem Manne</persName> zu üben, dort lernte ich wie heilig der Wille des
+                    Kranken ist, wie wir seine Wünsche, seine Neigungen schonen müssen und konnte
+                    mir zutrauen dies ganz zu erfüllen – – </p>
+            <p>Aber wie ohnmächtig ist der Mensch daß er mit aller seiner Liebe und Aufopferung
+                    so wenig über das Schicksal des Geliebten vermag. O das sind herzzerreißende
+                    Leiden und doch kann der Mensch sie empfinden - und dennoch leben. Ich unterlag
+                    nicht und hab Muth und Kräfte zu thun was Noth ist. Wie erfüllt mich aber die
+                    Krankheit der edeln <persName key="JP-012363">Thienette</persName> mit neuer
+                    Angst. Ich möchte vergehen wenn ich ein so köstliches Wesen in dieser Art
+                    zerstörenden Fieber mir denke. So
+                    unaufhaltsam wirkte hier die Natur in ihrer  Zerstörung und reißt den
+                    armen Menschen gewaltsam vom Leben. Kann das Leben einen Werth haben, was <hi rendition="#u" hand="#author">solche Schmerzen</hi> ausstreut?
+                    Liebe Theure! Wann werde ich Sie sehen? Jetzt hoffe ich, daß Sie eine Familie in
+                    der alle Glieder Sie verehren, so glücklich machen werden, bei ihr eine Zeitlang
+                    zuzubringen und sich's da so hauslich wohl sein zu lassen, als es Ihre Bequemlichkeit bedarf. Um
+                    Menschen kümmern wir uns nicht. Jedermann weiß Ihre – meine Sinnesart. Ich suche
+                    mich mit den Menschen festzusetzen und meine Selbstständigkeit zu erhalten. Sie
+                    ehren es wenn sie es auch sonderbar finden sollten. <persName key="JP-003471">Emma</persName> schreibt mir, daß <persName key="JP-012363">Frl.
+                        Thienettens</persName> Krankheit Sie jetzt hindern – allein in einiger Zeit
+                    werden Sie schon Mittel finden können diesen Plan auszuführen. Unterdessen
+                    richte  ich mich nach meinen jetzigen Wünschen ein. Ich will die Stube
+                    meines Verewigten bewohnen. Nur da wird mir wohl sein. Jetzt ist sie so kalt so
+                    leer, der Tod scheint sie noch zu beherrschen, aber ein freundlicheres Bild soll
+                    mir werden. Vermischen will ich
+                    mein lebendiges Gefühl mit dieser schauerlichen Erinnerung, dennes ist so süß in den Räumen zu athmen die unsre Geliebten bewohnten. Ach
+                    in diese Stube trat ja mein <persName key="JP-003490">Sohn</persName>, lechzend
+                    nach dem Anblick des <persName key="JP-999999">Vaters</persName>, bei <hi rendition="#u" hand="#author">der</hi> Zurückunft ein nach der er schnell, und in wenigen Tagen auf ewig vom unerbittlichen
+                            Tode heimgeführt wurde. In jeder Dämmerungsstunde des Herbstes erinnere ich mich dessen.</p>
+            <p>
+               <persName key="JP-003471">Emma</persName> ist jetzt an
+                            dem würdigsten Platze den sie für den jetzigen Moment finden
+                            konnte, darum schickte ich sie – Ihnen. Aber nun hat das sie das
+                    Höchste genossen und möge nun bald kommen. Zeigen Sie ihr nicht diesen Brief.
+                    Liebe Theure! Behalte im Herzen mein Gefühl und tadle es nicht, denn es gehört
+                    der Vortrefflichkeit in Dir. Lebe wohl. </p>
+            <closer>
+               <signed>Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

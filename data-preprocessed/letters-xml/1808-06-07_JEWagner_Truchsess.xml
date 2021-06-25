@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0881">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Christian Freiherr Truchseß von Wetzhausen.
+                    Meiningen, 7. Juni 1808, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-06-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011840">Meininger Freundeskreis</term>
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen 7<hi rendition="#uu" hand="#author">n</hi> Jun. 1808.</dateline>
+            </opener>
+            <p>Allerbester! Ich verließ mich darauf, daß Ihr<persName key="JP-013206">Kutscher</persName> erst morgen weggehe, wie
+                    er sagte, und nun – hält er mit dem Pferde schon vor meiner Thüre! Ich
+                    Unglücklicher!</p>
+            <p>Dank – tausend Dank für die Liebe für meinen braven
+                                <persName key="JP-002088">Keßler</persName> und
+                    mich selbst!</p>
+            <p>Übrigens wollte ich Ihnen nur heute eigentlich deßwegen
+                    schreiben, um zu berichten, daß <bibl sameAs="JP-012337" subtype="werk">Faust</bibl> von <persName key="JP-001353">Göthe</persName> da ist – und –
+                    herrlich zum <hi rendition="#u" hand="#author">halben</hi>
+               <hi rendition="#u" hand="#author">Ganzen</hi> (es heisst jetzt:
+                        "<bibl sameAs="JP-012337" subtype="werk">Faust, eine Tragödie, <hi rendition="#u" hand="#author">erster</hi>
+                  <hi rendition="#u" hand="#author">Theil</hi>
+               </bibl>") gerundet ist. Nur an zwey Stellen sind Gedankenstriche, die aber
+                            blosse unzüchtige Worte enthalten, und sehr leicht zu suppliren
+                            sind.</p>
+            <p>Wollen wir wetten, daß Sie nie eine bessere Innschrift
+                    finden werden, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0880/#start_szb_sfp_nnb">als die ich Ihnen vorschlug</ref>? <persName key="JP-004208">Studniz</persName>, der ehegestern bey mir war, glaubt es auch. Apropos!
+                        <persName key="JP-004208">Studniz</persName> kennt Sie bereits, und ist Ihr Bruder. Das habe ich
+                    mit Erstaunen erst gehört. Er war sogar auf <placeName key="JP-005591">Bettenburg</placeName> im Winter, zur Zeit der
+                    Thüngischen
+                    Hochzeit bey Ihnen. Er grüsst Sie tausendmal und wir haben eine, ach, sehr süsse Unterhaltung über
+                        Sie und <placeName key="JP-005591">Bettenburg</placeName> geführt.</p>
+            <p>Die
+                    Stelzen sind gestern angekommen.</p>
+            <closer>
+               <salute>Gott erhalte Sie gesund und mir gut!</salute>
+               <signed>EwigIhr treuester JEWagner</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

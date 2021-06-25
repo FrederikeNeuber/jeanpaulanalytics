@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0004">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mayer an Caroline Mayer. Leipzig, 15. November 1800 (?), Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1800-11-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine einzige geliebte glückliche Caroline verlange nicht daß ich dir Glück
+                    wünsche. Was mein Herz empfindet und längst empfand das weißt du schon längst.
+                        Der Brief dem ich von dir erhielt gab mir den ersten schönen Abend hier. Nemlich einen der so ganz mein Herz befriedigte. Du hast sehr
+                    recht wenn du sagst welch ein verschiednes Leben magst Du führen! </p>
+            <p>Mein ganzes Wesen ist verändert. Der ewige Wirbel der häuslichen und andren
+                    Zerstreuungen läßt mich gar nicht zu mir selbst kommen, und ich gestehe dir
+                    ehrlich daß  ich selten an <placeName key="JP-005586">Berlin</placeName> denke. Ich bin hier im einer
+                    unaufhörlichen Beschäftigung und die zerstört den Spielraum meiner Phantasie.
+                    Ich bin in der That recht glücklich hier. Wie sollte ich es auch nicht seyn. Du
+                    glaubst das nicht mit welcher unendlichen Liebe und Güte <persName key="JP-004104">Spazier</persName> und <persName key="JP-004393">Minna</persName> uns tragen und schonen und wie ich jeden
+                    Tag durch größre Aufmerksamkeit mich gerührt fühle. <persName key="JP-004393">Minna</persName> ist ein herrliches Weib, und <persName key="JP-004104">Spazier</persName> ein herrlicher  Mensch
+                    und alles ist hier schön und gut. Ich komme eben ehe ich<persName key="JP-999999">J. P.</persName>
+                            Brief erhielt
+                    von der <placeName key="JP-012834">Sternwarte</placeName> wo ich auf der höchsten Kuppel stehend die ganze lachende Gegend von <placeName key="JP-005948">Leipzig</placeName> übersehen konnte Wie stürzte ich dem
+                    Briefträger entgegen der den Brief brachte. Ich habe heut nicht Zeit dir mehr
+                    und ausführlicher zu schreiben. Gewiß bist du böse auf mich. Doch nein, wie
+                    könnte der Glückliche zürnen! Lebe wohl meine gute gute liebe einzige Caroline,
+                    und glaube daß mein Herz dir ewig nahe ist.</p>
+            <p>
+               <anchor type="target" xml:id="start_xxn_stk_hkb"/>Ich bitte dich recht dringend mir meinen Pelz zu
+                        schicken.<anchor type="target" xml:id="stop_xxn_stk_hkb"/> Ich kann mich
+                    nicht mehr ohne dem behelfen. Hast du mit <persName key="JP-002703">Papa</persName> wegen dem Pelz-Aufschlag gesprochen so schreib mir darüber
+                    Ich bitte dich bey der Gelegenheit mir den Neßeltuch zu schicken den <persName key="JP-002702">Guste</persName> eigentlich haben sollte. Ich komme mit
+                    meiner Garderobe hier sehr schlecht durch und brauche
+                    nothwendig noch ein Kleid. <anchor type="target" xml:id="start_f4q_25k_hkb"/>Ferner bitte ich dich mir ein Paar lederne Schu machen zu laßen und sie uns zu
+                        schicken<anchor type="target" xml:id="stop_f4q_25k_hkb"/>: Ich bin zu sehr
+                    ausgeleert als daß ich sie von meine Gelde  hier könnte machen laßen.
+                    Ich erbete das alles mit der nächsten Post. Lebe wohl meine gute Caroline und erinnre Dich in Deiner Seeligkeit mit unter auch </p>
+            <closer>Deine treue<signed>E.</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>Grüße alle unsre Freunde auch die liebe <persName key="JP-002702">Guste</persName> die wollt ja an mich schreiben?</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

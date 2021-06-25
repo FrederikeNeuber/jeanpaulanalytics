@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0446">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 13. Dezember 1822, Freitag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-12-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Freitag den 13<hi rendition="#uu" hand="#author">ten</hi>Dec.</dateline>
+               <salute>Geliebte Odilie!</salute>
+            </opener>
+            <p>Ob ich gleich sehr wenig Zeit habe, so will ich doch diesen Posttag nicht
+                    verstreichen lassen, um Dir zu sagen, daß am Dienstag Dein und der lieben <persName key="JP-012608">Durouf</persName> Brief ankam, und dies sehr viel Freude
+                    machten. Denn immer denke ich, Du könntest auf den letzten Punkt noch krank
+                    werden.
+                    Der
+                        <persName key="JP-999999">Vater</persName> bewundert Deine Klugheit mit dem
+                    Papier, und ich mit den Blonden, Du thatest ganz Recht keine
+                    zu kaufen ich habe eben eignes Glück mit den wenigen gehabt. Das Porto für das
+                    Papier wäre auch dem <persName key="JP-999999">Vater</persName> zu theuer, und
+                    er will mit dem Würzburger das Du ihm gekauft zufrieden sein.
+                        <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0756/#start_atc_rxn_rlb">Nächsten fahrenden Posttag
+                        schicke ich die Haube für <persName key="JP-003031">Auguste</persName>
+               </ref>, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0756/#start_tkv_fds_rlb">wenn man ihr kein Gold in einem
+                        niedlichen Beutelchen geben darf, ist es schwer etwas aufzufinden</ref>. Die
+                    Bretter zu Deinem Kämmerchen stehen auf den Hausplatz, der <persName key="JP-999999">Vater</persName> will sie nicht eher anmachen lassen als auf
+                    den letzten Punkt doch hoffe ich, künftige Woche  soll es geschehen.
+                    Alles ist bereit. </p>
+            <p>Ach liebe Odilie in 14 Tagen werden wir Dich wieder in
+                    unseren Armen haben, mir ist als wenn wir Schiffbruch gelitten hätten und nach
+                    langem Kämpfen wieder vereinigt in den sichern Hafen kämen. Ist es möglich daß
+                    diese lang ersehnte Catastrophe endlich eintritt, und das Schwerste was ich auf
+                    mir hatte, überwunden ist? Möge Gott es nun so erhalten, und kein anderes
+                    Unglück unsre Ruhe stören.</p>
+            <p>Nun meine geliebte Odilie gebe ich Dir für heute nur
+                    noch meinen Seegen. An <persName key="JP-012831">Duroufs</persName> schicke ich nächstens das Geld. <anchor type="target" xml:id="start_oqz_v1k_2nb"/>
+               <ref target="JP-UB0756/#nxyj_p1k_2nb">Ist denn die Kiste abgegangen</ref>,
+                    die Fuhrleute sind doch leichtsinniges Volk!<anchor type="target" xml:id="stop_oqz_v1k_2nb"/> Wie oft war ich dort, um mit ihm selbst zu
+                    sprechen, aber nie war er zu Haus. <persName key="JP-003471">Emma</persName>,
+                    der <persName key="JP-999999">Vater</persName>, <persName key="JP-003108">Amöne</persName>, <persName key="JP-004656">Weldens</persName> – alle
+                    grüßen Dich mit heißer Liebe. </p>
+            <closer>
+               <signed>Ewig Deine treue Mutter Caroline.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

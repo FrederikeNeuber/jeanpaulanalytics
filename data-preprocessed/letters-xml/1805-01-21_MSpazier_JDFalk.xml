@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0009">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Johannes Daniel Falk. Leipzig, 21. Januar 1805, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1805-01-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig den 21ten Jenner 1805
+                        –</dateline>
+            </opener>
+            <p>Ich habe Ihnen eine Nachricht zu melden, die Ihnen das Herz zerreißen muß, wenn
+                    Sie noch so gesinnt gegen mich sind als sonst. Mein ewig theurer <persName key="JP-004105">Mann</persName> starb
+                            verwichenen Sonnabend an einer Nervenkrankheit. Noch bin ich nicht  im Stande den ganzen
+                    Umfang meines Unglucks zu begreifen, aber mit jeder Minute wo ich besonnener
+                    werde, fühle ich mein Elend stärker. Ich traue Ihrem Herzen zu sehr, um Ihnen
+                    nicht gradezu zu sagen: Nehmen Sie sich meiner an, und meiner vier
+                        hülflosen<persName key="JP-004105">Kinder</persName>. Sie konnen es wenn Sie wollen.</p>
+            <p>
+               <anchor type="target" xml:id="start_imn_vct_dnb"/>Man ist darauf bedacht mir und
+                        <persName key="JP-004105">den Meinigen</persName> die Vortheile des <bibl sameAs="JP-009809" subtype="werk">Instituts</bibl> zu sichern, für welches ich
+                    meinen <persName key="JP-004104">Mann</persName> seine blühende Gesundheit, in
+                    den Jahren der lebendigsten Kraft, aufopfern sehen mußte. Ich bin an Thatigkeit gewöhnt, und hoffe das Meinige
+                    leisten zu können, um Ansprüche auf die Vortheile eines
+                        Instituts machen zu dürfen, das als Familien- Eigenthum
+                    betrachtet werden wird. Was kann ich aber bey dem besten Willen leisten, wenn
+                    die Freunde <persName key="JP-004104">meines Mannes</persName> nicht fortfahren
+                    wollten, ihr Intereße für eine Unternehmung  durch die That zu beweisen, an welche jetzt das Schicksal der Theuern
+                    Wesen gebunden ist, die seine einzige Hinterlaßenschaft ausmachen? Ehret sein
+                    Andenken dadurch, Ihr Freunde des <persName key="JP-004104">geliebten
+                        Verklärten</persName>, daß Ihr eine gute Sache nicht untergehen laßet, um
+                    derentwillen eine hülflose Familie ihre Stütze, ihren Versorger, ihren Freund
+                    ihr Alles verlor.<anchor type="target" xml:id="stop_imn_vct_dnb"/>
+            </p>
+            <p>
+               <persName key="JP-002583">Mahlmann</persName> giebt von nun an seinen Nahmen her,
+                    die Addreße  unter welcher die Zeitungsnachrichten von nun an einlaufen, muß nicht die
+                    Redakzion der <bibl sameAs="JP-009809" subtype="werk">Z. f. d. e W.</bibl> seyn,
+                    denn sonst fallen sie der <persName key="JP-012389">Handlung</persName> in
+                    die Hände, sondern sie bleibt entweder wie sie jetzt ist, oder wird an <persName key="JP-002583">Mahlmann</persName> gerichtet.</p>
+            <p>Bis jetzt hat sich die <persName key="JP-012389">Verlagshandlung</persName> so
+                    genommen, daß nicht ganz auf ihren guten  Willen zu rechnen ist.
+                        <persName key="JP-002583">Mahlmann</persName> treibt die Sache mit einem
+                    Eifer und einer Kraft, die seinem Herzen eben so viel Ehre macht, als seinem
+                    Kopfe. Wollen Sie meinen Wunsch, <persName key="JP-004104">Spaziers</persName>
+                    übrigen Freunden in <placeName key="JP-006395">Weimar</placeName> bekannt
+                    machen, als <persName key="JP-003908">Schütz</persName>, Haine, <persName key="JP-011951">Musäus</persName> so bin ich Ihnen dafür dankbar. Einige
+                    Zeilen von Ihrer Hand, werden mir wohl thun, schicken Sie mir sie bald. Ich
+                    bedarf der Versichrung daß die Menschen Glauben haben an der Größe meines
+                    Verlustes.</p>
+            <closer>
+               <signed>Minna Spazier.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

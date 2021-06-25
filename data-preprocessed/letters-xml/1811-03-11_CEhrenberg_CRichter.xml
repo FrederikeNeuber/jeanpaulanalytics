@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0109">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline von Ehrenberg an Caroline Richter. Altenburg, nach dem 11. März
+                    1811 </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000898">Caroline Auguste Eleonore von Ehrenberg</persName>
+               <placeName key="JP-005521">Altenburg</placeName>
+               <date notBefore="1811-03-11" notAfter="1811-03-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <salute>Theure traute Caroline</salute>
+            </opener>
+            <p>Schon jeden Mittwoch und Sonnabend wollte ich Dir schreiben – doch da alle diese
+                    Briefe die ich nicht schrieb doch einen kleinen Vorwurf enthalten hätten, wegen Deines Schweigens so hast Du gar nichts
+                    verloren daß sie ungeschrieben blieben. – Ueberdem, (o laß mich vertrauensvoll
+                    mich an deinen liebenden Schwesterbusen werfen) – fühlte ich schon bei meinem ersten Brief an Dich eine gewisse Zurückhaltung die
+                    den Brief kürzer werden ließ, als es meine innige Liebe zu Dir wollte. Diese
+                    kömt gewiß daher weil ich voraussetze, Du erwartetest, daß ich von L etwas schrieb – ich that es nicht – und bin durch ein widriges Gefühl
+                    darüber, bestraft. – O meine gute geliebte Caroline –
+                    ich konnte Dir auch nichts neues darüber schreiben – ich sehe die <persName key="JP-002533">Ludwig</persName> öfters –
+                    sie hat sehr viel Freundschaft für mich – ach und ich bin ihr innig innig gut –
+                    sie ist ja so sehr liebenswürdig – wie könnte ich sie wohl kränken – <persName key="JP-002527">ihn</persName> bin ich auch sehr gut, und jede Gesellschaft
+                    ist mir lieber wenn er dabey ist – allein Deine Fallsetzungen werden nie erfüllt
+                    werden! – – Doch itzt muß Dir vor allen Dingen einen Irrthum benehmen – Das
+                    Gerede daß ich nach Bkomme  verhält sich folgendermaßen. <persName key="JP-001526">Hr
+                        v Hardenberg</persName> welcher etwas an den <persName key="JP-003228">Dr Pirer</persName>durch mich überschickte schrieb mir zugleich ob ich nicht einmahl wieder
+                        nach<placeName key="JP-005574">B</placeName> kommen wollte – Ludwigs sprachen einst von einer solchen Reise – und frugen
+                    mich, ob ich mit reisen würde – ich schrieb also
+                    kurz darauf an <persName key="JP-012655">Auguste Hardenberg</persName>, es
+                    könnte leicht möglich werden, daß ich käm weil Deine Freunde Dich besuchen und
+                    mich mitnehmen wollten. – Sie haben Alle das für Gewißheit genommen, denn heute frägt mich Frau v Gt. wenn eher ich denn bestimmt käm, damit Sie meine
+                    Stube einrichtete. – Du sagst mir, ich soll  ihr nicht mehr so liebend
+                    schreiben sie verdiente es nicht – dies Räthsel hat mich unruhig gemacht,
+                    erkläre es mir – ich bitte Dich – sie selbst schreibt mir Dich so herzlich, –
+                    und falsch ist sie nicht – o gewiß nicht. – <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0954/#start_lsl_hwz_tnb">
+                  <persName key="JP-000501">
+                     <anchor type="target" xml:id="start_h3k_rwz_tnb"/>Brockhausen</persName>
+                                hat Dir also unsre querelles geschrieben</ref>, es war wegen
+                            der affaire de
+                                coeur – nach allem halte ich ihn
+                    für einen grundguten Mann, mit den vortrefflichsten Herzen, der jedoch von
+                    seinen Leichtsin, maitrisirt wird. Wir sind als sehr gute
+                    Freunde geschieden<anchor type="target" xml:id="stop_h3k_rwz_tnb"/>, und
+                    herzlich wünsche ich ihn alles Gute. Ludwigs haben gestern Nachrichten von ihn aus Amsterdam erhalten, und werden sie Dir ohne Zweifel mittheilen. – –
+                    Wie lebst Du </p>
+         </div>
+      </body>
+   </text>
+</TEI>

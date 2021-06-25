@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0807">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 2. Juni
+                    1802, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-06-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>
+                  <hi rendition="#u" hand="#author">Leipzig</hi>. Am 2ten<hi rendition="#u" hand="#author">Juny</hi>1802</dateline>
+            </opener>
+            <p>Mein theurer Vater – welch eine unendlich große Freude mir der Zufall Ihres lieben Briefes gemacht das können Ihnen keine Worte sagen – aber Sie können es sich
+                    denken und fühlen. Ach, mein liebster Vater dies mal laßen Sie sich bey Ihrem
+                    Worte halten, und machen Sie die himmlische Freude wahr, die Sie uns zugedacht
+                    haben. Es wäre entsezlich, wenn wir wieder getäuscht  würden. Ich fürchte es auch fast
+                    nicht, wenn nichtder lezte Brief <persName key="JP-002583">meines Mannes</persName>an Sie – Sie doch vielleicht in Ihrem Plane irre macht. – Ich eile darum
+                    Ihnen gleich heute zu schreiben. Leyder <hi rendition="#u" hand="#author">giebt</hi> es keine schnellere – frühere Post. Sonst möcht ich
+                    Ihnen einen Eilboten zuschicken, damit nun jener Brief, nicht wieder eine
+                    Störung verursachet! – Aber, mein liebster Vater, kehren Sie sich an jenem Brief
+                    nicht. Mein Mann spricht in dieser Zeilen zu Ihnen wie ich – und läßt Ihnen
+                    durch mich sagen daß wir gar nicht geglaubt haben, daß Sie sich so schnell
+                    entschließen würden, und so ohne alle Vorrichtungen, wie die Reise zu Pferde sie
+                    unnöthig macht kommen würden. Er hat Ihnen geschrieben daß ich persöhnlich Taufzeuge bey dem kleinen neugebohrnen Wesenseyn soll. Dies könnte Sie glauben machen daß unsre Reise darum gleich in
+                    der ersten Woche angetreten werden müßte, weil man gewöhnlich in den ersten 14
+                    Tagen taufen läßt. – Aber ich  könnte Ihnen den Brief <persName key="JP-012261">meiner Schwagerinn</persName>gen in welchem sie ausdrücklich
+                    schreibet. "Reiset ganz nach Eurer Bequemlichkeit und kehret Euch nicht um den
+                    Zeitpunkt meiner Entbindung. Es ist hier Gebrauch daß man nur dann erst taufen läßt, wenn es  das
+                    Wohlseyn und die Bequemlichkeit der Wöchnerinn zuläßt."</p>
+            <p>Also, mein liebster Vater, sehn Sie selbst wie sehr sich die Freude Sie vorher
+                    noch bey uns zu sehn mit jenem Umstande vereinigen läßt. Ach Gott, wenn ich doch
+                        Sie recht flehentlich bitten
+                    könnte, daß Sie doch nur kommen! Sagen Sie sich selbst, mein theurer Vater,
+                    alles was Ihnen der Ausdruck der kindlichsten Liebe und Freude sagen könnte, und
+                    was auf dem Papier nur schaal nur leer dagegen klingt.</p>
+            <p>Sehen Sie, liebster Vater, wenn Sie sich einen, oder den folgenden Tag nach
+                    Empfang dieser Zeilen zu Pferde sezen so sind Sie  in wenig Tagen hier. Ach Gott, Ach
+                    Gott, ich sterbe für Freude!! – Leben Sie wohl mein geliebter Vater, der Himmel
+                    lenke doch Ihr Gemüth zur Erfüllung unsrer Wünsche!</p>
+            <p>Ich kann Ihnen nicht mehr schreiben! Die Post eilt! Ich sage Ihnen nurnoch, daß
+                        <persName key="JP-002583">mein guter Mann</persName> alles unterschreibt,
+                    was ich Ihnen vorgestellt habe und daß unsre Freude unendlich seyn wird!</p>
+            <p>Ach kommen Sie doch nun? Ihre Tochter</p>
+            <closer>
+               <signed>E'. Mahlmann</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

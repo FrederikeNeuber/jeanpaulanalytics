@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0460">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm und Henriette Mayer an Caroline Richter. Berlin,
+                    23. Februar 1818, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <persName key="JP-002709">Julie Henriette Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1818-02-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-002703">
+            <opener>
+               <dateline>Berlin d. 23. Febr.
+                        18.</dateline>
+               <salute>Meine geliebte Caroline!</salute>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_myj_mtg_5jb"/>Nachdem ich in den letzten
+                    drey Wochen an einer sehr hartnäkigen Diarrhée gelitten
+                    habe, die mich Tag u Nacht verfolgt hat,<anchor type="target" xml:id="stop_myj_mtg_5jb"/> u nun eben erst durch unsern vortreflichen <persName key="JP-001600">Heim</persName> in die Flucht geschlagen ist, suche ich Deine letzten Briefe vom 2.X.ber6. Januar u 4. Febr. auf, um meinem Hertzen durch Unterhaltung mit Dir u <persName key="JP-003483">Deinen Kindern</persName>, wohl zu thun.</p>
+            <p>Im Briefe vom 2.X.ber freuet mich Deine Ansicht der, die <persName key="JP-004393">Minna</persName> betroffenen Veränderung ihrer Lage. Du hast sehr Recht, auch mir zu
+                    diesem Wechsel Glück zu wünschen. Nicht um irgend eines Geld interesse willen, aber in Hinsicht auf die Moralitaet der <persName key="JP-004393">Minna</persName>, die durch diese ihre neue Lage in jeder Beziehung befördert wird.
+                    Denn auch ich halte <persName key="JP-004390">HerrnUthe</persName> für einen sehr rechtlichen für die <persName key="JP-004393">Minna</persName> gantz eigentlich paßenden Menschen, der mich die Schlechtigkeit
+                        <persName key="JP-004104">ihres ersten Mannes</persName> vergeßen macht. –
+                    Nur habe ich leyder seit mehrern Wochen keine Nachrichten aus <placeName key="JP-005687">Dresden</placeName>, u fürcht noch immer für die Gesundheit der <persName key="JP-004393">Minna</persName>. Ein gestern deßhalb nach <placeName key="JP-005687">Dresden</placeName> an <persName key="JP-004390">HerrnUthe</persName> geschriebener Erinnerungs Brief wird mich wo nicht beruhigen, doch
+                    näher unterrichten. </p>
+            <p> Dein Brief vom 6. Jan. verpflichtet mich durch Deine Anfrage: über meine Zufriedenheit mit den für mich genäheten Binden? ich habe nun nichts daran auszusetzen, als daß sie vielleicht Dein Augen
+                    Übel mit befördert haben. Denn schon habe ich von mehreren Deiner Bekanten Dich
+                    darüber beklagen hören, daß Du Dir durch feine weibliche Arbeiten Schaden thust
+                    (da es ja selbst eine Zeit gegeben haben soll, wo Du für andere gearbeitet hast.
+                    Schone Dich wenigstens für die Zukunft, u denke an den hohen Werth der Augen;
+                    strenge auch <persName key="JP-003484">Deine Mädchen</persName> nicht zu sehr
+                    an.</p>
+            <p>
+               <ref target="JP-UB0649/#nbyw_ny2_5jb">Über <persName key="JP-999999">Deines
+                            Mannes</persName> Gesundheits Zustand freue ich mich; u habe auch
+                            <persName key="JP-001857">HerrnHufeland</persName> die eigne Nachricht <persName key="JP-999999">Deines
+                            Mannes</persName> darüber mitgetheilt.</ref> Über <persName key="JP-002357">HerrnLangermann</persName> habe ich in diesen Tagen mit der <persName key="JP-003236">Frau
+                        Obristin von Pirch</persName> gesprochen. Es ist wahr, daß er sehr mager geworden ist; allein diß
+                    ist Folge aufgelöseter Blut Geschwüre, woran er sehr gelitten haben soll. Die
+                    große Entfernung in der er von mir wohnt; u meine eigne Schwerfälligkeit hindern
+                    mich ihn selbst zu besuchen; und Zwey Zirkel wo wir uns am dritten Ort zusammen
+                    finden könnten, besucht er seit langer Zeit nicht. Doch höre ich von keiner
+                    Gefahr für ihn.</p>
+            <closer>
+               <salute>Sage diß <persName key="JP-999999">Deinem Mann</persName> zu seiner
+                        Beruhigung; u liebe fortdauernd</salute>
+               <signed>Deinen treuen Vater Mayer</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <persName key="JP-002709">Meine Frau</persName> grüßt Euch alle hertzlich; u
+                        ich besonders <persName key="JP-999999">Deinen Mann</persName>
+               </p>
+               <p/>
+            </postscript>
+         </div>
+         <div hand="#JP-002709">
+            <p>Liebe gute Caroline, erfüllen Sie doch recht bald meine Bitte, und <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0649/#start_ps1_wvg_5jb">antworten Sie mir recht ausführlich aufden Artickel der Stickmaterialien</ref>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

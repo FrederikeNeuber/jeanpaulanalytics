@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0607">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 14. Januar
+                    1805, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1805-01-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin d. 14. Jan.
+                        1805</dateline>
+               <salute>Meine geliebte Caroline!</salute>
+            </opener>
+            <p>Dieser Brief ist zwar Antwort auf <ref type="letter" target="JP-UB0153">Deinen früheren vom 15. Xr. 4.</ref>; allein Du
+                    wirst unter der Zeit einen Brief von <persName key="JP-002709">meiner Frau</persName>, u auch von mir erhalten haben, u
+                    ich wünschte vom Eingang derselben, u ihrer Begleitung unterrichtet zu seyn;
+                    weil <persName key="JP-002581">Ernestine</persName> mir schon unterm 29. Xr. 4. alles als abgesandt an Dich anzeigt.
+                        Nun empfange den Dank für Dein liebes Geschenk,
+                            dem nur der Werth der eignen Arbeit fehlt, wovon ich Dich natürlich dispensire, da Du ja jetzt genug für <persName key="JP-003483">Deine Kinder</persName> zu thun hast. Eben darum aber wäre mir Dein guter Wille
+                    schon hinreichend gewesen, da Du Dir nur meinetwillen keine Kosten machen
+                        mußt.  Die <hi rendition="#u" hand="#unknown">Weste</hi> ist indessen sehr hübsch, u bitte ich <persName key="JP-003087">HerrnEmanuel</persName> für seine Mitwürkung für mich zu danken. Denke aber, daß die Weste
+                    mir um 1 1/2 Hände zu eng ist, indem ich täglich zunehme; u daß ich sie also
+                    erst nach meinem Cörper weiter machen laßen muß.</p>
+            <p>Die Freude Deines Geschenks wurde mir übrigens durch
+                            die Furcht vor Entdeckung des Briefes in der Tasche etwas verbittert.
+                            Denn die Entdeckung hätte  10 rth
+                            Strafe gekostet. Durch eine Art von effronterie meines Bedienten
+                    ist aber alles ohne Nachtheil in meine Hände gerathen.</p>
+            <p>Sage bey dieser Gelegenheit <persName key="JP-999999">Deinem lieben
+                        Mann</persName>, daß ich <ref type="letter"
+                    subtype="document"
+                    target="https://www.jeanpaul-edition.de/brief.html?num=V_42">den Brief</ref>
+                    gleich an <persName key="JP-000297">Frau<hi rendition="#u" hand="#unknown">v. Berg</hi>
+               </persName>geschickt, sie auch nachher gesprochen habe, und daß Sie mir die
+                    Antwort hat schicken wollen, welches aber zur Zeit nicht geschehen ist. ich <hi rendition="#u" hand="#unknown">habe auch mündlich mit Ihr über
+                            den Innhalt
+                        gesprochen</hi>; nur ist der refrain aus beyder
+                    Munde derselbe gewesen, daß man <persName key="JP-000358">HerrnBeyme</persName> zu gewinnen suchen müße. Hiezu kann ich nun nichts beytragen, weil
+                    er mein Freund nicht ist; u mir Huldigungen dieser Art eben so unangenehm, als
+                        <persName key="JP-999999">Deinem Mann</persName> sind. Doch wird letzterer
+                    vielleicht unmittelbar an ihn kommen können; obwohl
+                            ich es für das beste halte, den <persName key="JP-001187">König</persName> unmittelbar zu erinnern. Er
+                    ist selbständig genug, um sich <hi rendition="#u" hand="#author">hier</hi> bestimt Folge zu verschaffen.</p>
+            <closer>
+               <salute>ich bitte Dich nun um baldige Nachricht von Deinem Befinden, bezeuge den
+                        Gruß <persName key="JP-002709">meiner Frau</persName>, u bleibe
+                        Dein</salute>
+               <signed>treuer Vater Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

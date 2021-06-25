@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0887">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 10. August 1808,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-08-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012633">Grüße</term>
+               <term xml:id="JP-012728">Abschied</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 10<hi rendition="#uu" hand="#author">n</hi> August
+                        1808.</dateline>
+            </opener>
+            <p>Nein, Allerbester, ich sehe <persName key="JP-012266">Ihr Minchen</persName> –
+                    diesen Engel, reiner und stillfreundlicher als ich noch je ein Weib sah und
+                    sehen werde – ich sehe <persName key="JP-012266">Minchen</persName> nicht
+                    wieder. Mein banges Herz sagte es mir nur allzudeutlich. Aber goldne Stunden
+                    müssen ihr ewig lächeln an der Seite meines trefflichen Freundes! Und so soll
+                    mein Segen immer um Euch schweben, geliebtes, schönes Paar! –</p>
+            <p>Kommen <hi rendition="#u" hand="#author">Sie</hi> bald wieder einmal nach <placeName key="JP-006012">Meiningen</placeName>, guter Mann – ich wüsste keinen, in dessen Händedruck mir so innig wohlwäre! Zieht hin,
+                    Ihr schönen, lieblichen Gestalten, nach dem köstlichen <placeName key="JP-006395">Weimar</placeName> zurück! In jedem Gedanken an Euch ist mir
+                    unaussprechlich wohl und wehe! Die Freundschaft, die Ihr mir gereicht, belohn'
+                    in Zeit und Ewigkeit ein Fürst und Schöpfer goldner Zeit! – Allen herrlichen
+                    Weimaranern meinen Segen!</p>
+            <p>Grüssen Sie <persName key="JP-012266">Minchen</persName> – ach, wenn ich noch
+                    viele Romane schriebe, so würden sich alle meine sanften Heldinen Minchen nennen
+                    – schon die Reisen tragen gar manches von ihrem lieben Bilde!</p>
+            <p>War die schöne unschuldige <persName key="JP-013180">Frau von Reck</persName> nicht in <placeName key="JP-005956">Liebenstein</placeName>? Ich wünschte, sie liesse mich
+                    grüssen – ich wünschte sie auf einen Kaiserthron; das Reich sollte wahrlich
+                    glücklich seyn!</p>
+            <p>
+               <anchor type="target" xml:id="start_vby_vrw_n4b"/>Sie
+                    wollten die beyden kleinen
+                            Gelegenheitsgedichte, über deren Fertigung Sie mich neulich beynahe noch erwischt hätten? Hier sind sie – aber
+                    sie sind wirklich <hi rendition="#u" hand="#author">nur</hi>für meine gute treuherzige H. und meine liebliche
+                            A.
+                    gemacht, und <hi rendition="#u" hand="#author">können</hi>, selbst
+                    für Sie, meinen <hi rendition="#u" hand="#author">gütigsten</hi> Freund, schwerlich das <hi rendition="#u" hand="#author">geringste</hi> Interesse haben, da sie nur morgen aus der Freundeshand der <persName key="JP-002187">Frau von Köniz</persName> gewisse <hi rendition="#u" hand="#author">Stimmungen</hi> jener beyden guten
+                    Gemüther treufreundlich grüssen, aber übrigens auch nicht den <hi rendition="#u" hand="#author">kleinsten</hi> Anspruch auf Kunst machen
+                        wollen.<anchor type="target" xml:id="stop_vby_vrw_n4b"/> Besonders wünschte
+                    ich nicht, daß sie <persName key="JP-004290">Thümmel</persName>, der viel am
+                        <placeName key="JP-006145">Pindus</placeName> gewanderte <persName key="JP-003025">Odysseus</persName>, sähe, weil er mich doch wohl nicht lieb
+                    genug hat, um sie zu verzeihen! Nun dann, mein Lebewohl zu tausendmalen!!! JEWagner.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

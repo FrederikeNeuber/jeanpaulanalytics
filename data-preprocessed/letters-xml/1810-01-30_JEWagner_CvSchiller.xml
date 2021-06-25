@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0922">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Charlotte von Schiller. Meiningen, 30. Januar
+                    1810, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1810-01-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003735">Charlotte (von) Schiller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012633">Grüße</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 30<hi rendition="#uu" hand="#author">n</hi> Jan. 1810.</dateline>
+               <salute>Gnädige Frau!</salute>
+            </opener>
+            <p>Es ist ein Attribut göttlicher Seelen, daß ihr Anblick, und noch mehr ihr Wort
+                    eine milde tröstende Kraft für Bekümmerte enthält. Ihre lieben, verehrungswerthen
+                            Zeilen, edelmüthige Frau, haben diese Kraft an mir
+                    Bekümmerten bewährt. Ich habe sie oft gelesen, ans Herz gedrückt, und – mich
+                    freudiger gefühlt. Dank Ihnen, Beste, für diese labende
+                    Güte! – Ja, Gott lebt, und herrscht, und bleibt der Herr der Herren, und der
+                    Lenker schöner Herzen, und der allmächtige Bändiger des Unglücks und der
+                    Bösen.</p>
+            <p>Haben Sie die Gnade, der von mir so innig als warm
+                    verehrten <persName key="JP-004810">Frau Ministerin von Wollzogen</persName>
+                    meinen unterthänigen Gruß zu sagen. Ich vermag es <hi rendition="#u" hand="#author">nicht</hi>, Ihr selbst zu schreiben; denn in
+                    jedem Augenblick, indem ich an die duldende Herrliche denke, füllt sich mein
+                    Herz zu sehr mit Wehmuth, als daß ich zu Ihr reden könnte. Was wären wir Alle
+                    ohne den grossen, schönen, heilich sichern Trost des Wiedersehens! <hi rendition="#u" hand="#author">Fühlen</hi>
+               <hi rendition="#u" hand="#author">Sie</hi>
+               <hi rendition="#u" hand="#author">ihn</hi>
+               <hi rendition="#u" hand="#author">mit</hi>
+               <hi rendition="#u" hand="#author">mir</hi>! </p>
+            <p>Lassen Sie mich Ihnen ein
+                    prophetisches Wort sagen – denn Naturen die der irdischen Auflösung sich täglich
+                    so sehr wie ich nähern, sehen heller in die Zukunft. – Ihr Herz, Treffliche, sey
+                    gutes Muths! <persName key="JP-013187">Die Kinder und Nachkommen des
+                            Unsterblichen</persName>, des
+                    Gerechten, des Reinen – ach, glauben Sie mir, sie
+                    werden gesegnet bleiben und Überfluß und Freude die Fülle haben – denn Gott und
+                        <placeName key="JP-005668">Deutschland</placeName> werden sie schützen und
+                    lieben! <placeName key="JP-005668">Deutschland</placeName> ist nicht schlecht,
+                    wie elende Menschen sagen – <placeName key="JP-005668">Deutschland</placeName>
+                    ist dankbar, und wird stolz seyn und bleiben auf sein Bestes und Reinstes, und
+                    auf den werthen theuern Nachlaß desselben. Trauen Sie,
+                    o Allerbeste, trauen Sie dem Seherwort!</p>
+            <p>Auch mein kleiner rechtschaffner Name wird nicht zu Schanden werden auf der Erde
+                    – Gott wird ihn ins Buch des Lebens schreiben, und  mancher gute
+                    Mensch wird ihn mit Liebe nennen. Aber auf die Dankbarkeit <placeName key="JP-011167">der Deutschen</placeName> habe <hi rendition="#u" hand="#author">ich</hi> keine Ansprüche. Doch sind es nicht so
+                    sehr <persName key="JP-004557">meine Kinder</persName> die mich bekümmern; (denn
+                        meine Söhne sind zwey
+                    liebe Gemüther, die dem harten Blick der Welt mit freundlichem Diensteifer
+                    entgegentreten werden – zwey der besten Menschen <hi rendition="#u" hand="#author">bis</hi>
+               <hi rendition="#u" hand="#author">jetzt</hi>, die ich kenne, die
+                    Alles für <persName key="JP-004551">Mutter</persName> und <persName key="JP-004548">Schwester</persName> thun werden, sobald sie – es <hi rendition="#u" hand="#author">vermögen</hi>!) aber –<persName key="JP-004551"> meine Wittwe</persName>! – Ich weiß, daß <persName key="JP-002546">meine sehr edle Fürstin</persName> mir und <persName key="JP-013219">den Meinigen</persName> recht herzlich gut ist,
+                    und für <persName key="JP-004551">meine Wittwe</persName> sicherlich das
+                    Mögliche thun wird. Aber dieß Mögliche (in einem Staate von 200000 rth
+                    Einkünften) ist auch bey <persName key="JP-013113">der Wittwe</persName>
+               <persName key="JP-013114">meines Vorfahrers</persName>
+                            geschehen, und <hi rendition="#u" hand="#author">darf</hi> nicht mehr als in 40 – höchstens 50 rth Pension
+                    bestehen — —</p>
+            <p>Aber, ich will Ihr Herz durch solche Bilder nicht traurig machen, schönes Wesen,
+                    das mir so freundlichen Trost zurief, der mich noch in meinen letzten Stunden
+                    umwehen soll! Ich, der von Kindheit auf stets an die Gottheit glaubte – ich
+                    sollte jetzt am Rande des Grabes zweifeln ? Fester als je steht mein Glaube nun, da die grosse Stunde
+                    naht. Möge ihr Schatten nicht langsam über mir hinziehen – sondern vom
+                    Barmherzigen beflügelt – doch, wie Er will; denn ich habe in dieser Welt bis
+                    diesen Augenblick noch wenig oder nichts gelitten, und <hi rendition="#u" hand="#author">nur</hi> Dank bin ich Ihm schuldig.</p>
+            <p>Möchten Sie mir, während ich noch bey heiterm Geiste
+                    bin, nochmals ein so schönes Wort sagen, wie das letzte – – Gott! Möchte ich im
+                    Leben noch Ihre und <persName key="JP-013187">der heiligen
+                        Kinder</persName> Hände fassen – möchten Sie – ja, himmlische Freundin! ich
+                    werde bald zu <hi rendition="#u" hand="#author">seinen</hi> Füssen
+                    sitzen –</p>
+            <closer>
+               <salute>Leben Sie wohl und glückselig.
+                            Ewig Ihr</salute>dankbarer JEWagner.</closer>
+            <postscript>
+               <p>Ich sandte mit dem Postwagen zwey Kunstarbeiten an <persName key="JP-002903">Herrn Reg. R. v. Müller</persName>. Sollte <hi rendition="#u" hand="#author">ihm</hi> der Verkauf derselben
+                        in <placeName key="JP-006395">W.</placeName> nicht gelingen, und Ewr.
+                            Gnaden könnten <persName key="JP-002628">bey I.
+                                Kaiserlichen H. der edlen und großmüthigen
+                            Maria</persName> eine Fürbitte einlegen, so fiele mir ein wahrer Stein
+                        vom Herzen – denn sie gehören einem gar armen
+                                Manne, der 5 Kinder hat. Doch ich zweifle nicht an <persName key="JP-002903">M.s</persName> Willen und Glück. Verzeihung hiefür –
+                        gnädige Verzeihung! – Möchte ich doch noch das Glück haben, in Gemeinschaft
+                        mit der mir höchst theuern edlen <persName key="JP-012221">Reinwald</persName> Etwas an der
+                                Petersenschen Biographie <persName key="JP-003737">des erhabnen
+                                    Meisters</persName> zu
+                        veredlen oder doch zu berichtigen! Wäre es doch meine letzte Arbeit!</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

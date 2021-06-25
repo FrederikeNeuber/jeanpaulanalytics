@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1103">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl August Freiherr von Wangenheim an Johann Ernst Wagner. Stuttgart,
+                    22. Juni bis 3. Juli 1811, Sonnabend bis Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004599">Karl August Freiherr von Wangenheim</persName>
+               <placeName key="JP-006315">Stuttgart (Studtgardt, Studtgart, Stuttgard,
+                        Stutgard)</placeName>
+               <date from="1811-06-22" to="1811-07-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-013034">Wangenheim-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-013491">Philosophisches</term>
+               <term xml:id="JP-012430">Religion</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Stuttgart den 22<hi rendition="#uu" hand="#author">sten</hi> Juny 1811.</dateline>
+            </opener>
+            <p>Dank, herzlichen Dank, Ihnen u <persName key="JP-004570">Ihrem lieben Anton</persName>, für das gute Gesicht,
+                            das ich mir erbeten und das Ihr mir so schön gegeben habt. Es ist lange, Lieber! daß
+                    ich Sie nicht gesehen und ich habe Sie leider so wenig gesehen und dennoch habe
+                    ich es auf den ersten Blick wieder erkannt und Sie stehen lebendig vor mir, wie
+                    sie sind und wie Sie aussehen. Es ist schön vom lieben Gott, daß die Menschen in
+                    Augenbliken, wo sie sich nicht verstecken wollen oder auch können, immer so
+                    aussehen, wie sie sind, und eben so schön ist es, daß sich dieß Gesetz
+                    durchgreifend in der ganzen Natur aussagt. Ich kann Ihnen <hi rendition="#u" hand="#author">heute</hi> über das Bild, <hi rendition="#u" hand="#author">als</hi> Bild, nichts sagen, als daß es mir
+                    unaussprechlich wohl gefällt. Man genießt nur halb, wenn man immer nur analysirt
+                    u vergleicht. Aber auch dafür giebt es eine rechte Zeit u Sie sollen nicht um
+                    meinen Senf kommen. <persName key="JP-000744">Danneker</persName> und <persName key="JP-013431">Rapp</persName> (nicht Happ) sollen es aber heute noch
+                    sehen, u ich will treulich niederschreiben, was sie sagen werden und dieser
+                    Männer Senf ist englischer gegen meinen, der übrigens alles lieber seyn möchte,
+                    als französischer. Daß <persName key="JP-004570">Anton</persName>den Johannes liebt
+                    und mahlt, freut mich. Er nimmt ihn anders, als <persName key="JP-013228">Dominichino</persName> und doch ebenso und ich will
+                    Ihnen eine Beschreibung des Bildes beylegen, so bald ich es noch einmal gesehen
+                    habe. <persName key="JP-004564">Antons Bruder</persName> grüßen Sie schön von
+                    mir. Er hat dem <persName key="JP-004520">Heinrich V.</persName> so wohl
+                    gefallen. Schreiben Sie mir doch etwas Näheres über ihn u seinen Weg, vielleicht
+                    können Sie mir auch einmal etwas von ihm zeigen. Aus <persName key="JP-004564">dem Knaben</persName>
+               <hi rendition="#u" hand="#author">muß</hi> etwas Rechtes werden und
+                    ich habe Ihnen schon gesagt warum, auch steht es in Ihrem Briefe an Truchseß, denn die Alten sind schön, die Natur ist göttlich,
+                    die Liebe allmächtig u das Beyspiel befestigend. Seyn Sie glüklich in Ihrem
+                    Glücke, Lieber.</p>
+            <p>
+               <persName key="JP-000698">Cotta</persName> war sehr preßirt und – in
+                    Falla
+                    – durch Reisegesellschafter gebunden. Auch <persName key="JP-004596">meinen
+                        alten Vater</persName> konnte er in <placeName key="JP-005791">Gotha</placeName> nur einen Augenblick in der Nacht sehen. Ihren Gruß richte ich aus.</p>
+            <p>Der Gruß von <persName key="JP-004208">Studnitz</persName> ist mir ein
+                    erfreuliches Geschenk. Ich liebe ihn gar innig. Er ist so unendlich viel in
+                    seiner hohen Wahrheit und<mod type="variant">,–</mod>Wagner! kennen Sie etwas herrlicherers, als  die Wahrheit im
+                    ganzen Menschen, in dem seyenden und erscheinenden, vollständig und bewußtlos
+                    durchgeführt und etwas, das seltener wäre, auch bey trefflichen Menschen? Diese
+                    Seite seines Wesens ist es, die mir von Jugend auf an ihm herrlich erschienen
+                    ist u mich für immer an ihn gefeßelt hat, wenn ich noch den Umstand hinzufüge,
+                    daß <persName key="JP-013464">seine Mutter</persName>uns trennen wollte, weil sie mich
+                    für verdorben hielt. Sie hatte nur halb recht, die gute Frau, u daher ganz
+                    unrecht; aber glüklich war es doch für mich u vielleicht auch gut für ihn, wir
+                    haben aber nie darüber gesprochen und das freut mich heute noch. Sie haben,
+                    lieber Wagner! über ihn ausgerufen: was wird einst aus diesem herrlichen Geiste
+                    werden, wenn ihn der Leib unter den Jubelklängen der Ewigkeit frey giebt! Es ist
+                    schön, aber lieber möchte ich doch sagen: wie würde dieser herrliche Geist
+                    anerkannt werden, wenn er in einer Welt lebte, wo man Geist u Leib nicht so
+                    schneidend trennte, wo man einsähe, daß geistige u physische Kraft Eins seyen,
+                    und beyde ihren Stoff verlangen, an dem sie sich zu manifestiren vermögen. Nur
+                    wo der Eine unter der Form des Leiblichen über das Nämliche unter der Form des
+                    Geistigen siegt u etwas herrschender für sich seyn will, ist Sünde u Tod; aber
+                    umgekehrt, bey Gott! auch. Dafür, daß der starke Mensch der Natur in der Welt
+                    der Unnatur sündlich erscheint, kann nur die Unnatur, nicht die Natur
+                    verantwortlich gemacht werden. Es ist gewiß eine große Verkehrtheit der Zeit,
+                    das Leibliche theoretisch in eben dem Grade zu tief zu setzen, in welchem man es
+                    praktisch zu hoch sezt; aber dieser Irrthum, an dem der Idealismus laborirt,
+                    wird am Ende doch verteufelt praktisch u führt zu wahren Teufeleyen. Ueberhaupt
+                    glaube ich nicht, daß der Geist vom Leibe je frey werde; aber ich glaube auch
+                    nicht, daß es nothwendig u wünschenswerth sey. Was soll ich los zu seyn wünschen
+                    von etwas, was mich nicht bindet? Nicht der Leib bringt die sinnliche Sklaverey
+                    in die Welt, sondern der Verstand, der alles trennt u relativ sezt und also auch
+                    Leib u Seele entzweyt. Wie Gott seinen Leib am Universo hat und dieses Universum
+                    doch wieder der ganze Gott ist, so auch mit dem Menschen in Leib u Seele. Die hohe Beziehung des Physischen wird uns nie klarer und
+                    seine Wesenheit wird uns nie auf eine so eigene Weise fühlbar, als bey dem Tode
+                    eines geliebten und verehrten Menschen. Wir können uns einmal nicht mit einem
+                    allgemeinen Fortdauern unserer Verstorbenen begnügen. Ihre ganze Per sönlichkeit möchten wir erhalten. Wie wohlthätig ist dann der Glaube, daß auch
+                    der schwächere Theil 
+                    unserer Natur in Gott aufgenommen ist, wie tröstend ist die Gewißheit von der
+                    Vergötterung der ganzen ungetheilten Menschheit durch Christus? In der That,
+                    wenn diese mystische Verbindung der göttlichen u menschlichen Natur der höchste
+                    Punkt im Christenthum ist, so ist die Ueberzeugung von einer wirklichen Einheit
+                    Gottes u der Natur, 
+                    kraft der sie nicht blos als ein Beherrschtes oder hervorgegangenes, sondern auf
+                    eine eigentlichere u persönlichere Weise zu ihm gehört, der lezte
+                    Durchdringungspunkt der Wißenschaft. Von diesem Punkte aus erscheint uns erst
+                    alles im <hi rendition="#u" hand="#author">höchsten</hi> Lichte.
+                    Gerade der Tod, der uns unsere Abhängigkeit verwünschen läßt, der ein
+                    menschliches Gemüthe im ersten Eindrucke mit Abscheu gegen diese unbarmherzige
+                    Gewalt erfüllt, die auch das Schönste u Beste, wenn es ihre Gesetze fordern,
+                    schonungslos vernichtet, gerade der Tod, tiefer erfaßt, öffnet uns das Auge für
+                    jene Final-Einheit des Göttlichen mit dem Natürlichen. Wir können einmal der
+                    Natur eine gewisse untergeordnete Allmacht nicht abstreiten; wenn sie nun nicht
+                    Gottes ist, nicht zu ihm gehört, so ist sie eine Art von andern Gott, dem wir wenigstens mit
+                    einem Theile unsers Wesens angehören; wie können wir nun <hi rendition="#u" hand="#author">Kinder</hi> des <hi rendition="#u" hand="#author">wahren</hi> Gottes seyn, da wir doch nicht von seinem Fleisch u
+                    Blute sind; oder wie wird <hi rendition="#u" hand="#author">der</hi>
+                    Gott, der <hi rendition="#u" hand="#author">lauter</hi> Geist ist,
+                    den Leib auferwecken, der dem andern Gotte angehört und ihn mit dem Geiste
+                    wieder verbinden, der allein <hi rendition="#u" hand="#author">seines</hi> Geschlechts ist? – Ohne jene lezte Hoffnung, wäre selbst die
+                    Gewißheit der sogenannten Unsterblichkeit nur eine halbe, nur eine mit Schmerz
+                    erfüllte Freude. Die Gewißheit, daß <hi rendition="#u" hand="#author">der</hi> durch den Tod gegangen ist, der zuerst die Verbindung
+                    zwischen dem Natur- u dem Geister-Reiche hergestellt hat, verwandelt den Tod für
+                    uns in einen Triumpf, dem wir entgegen gehen, wie der Krieger dem gewißen Siege
+                    und mit der Wonne der unmittelbaren Gewißheit töne ich immer die Worte in mir
+                    nach, die einst Schelling in hoher Begeisterung sprach: Wir dürfen uns unsers
+                    Looses als Menschen freuen; denn gewiß die Bestimmungen, die uns erwarten, sind
+                    unglaublich hoch u ich wenigstens, der ich weit entfernt bin von aller
+                    sentimentalen Sehnsucht nach dem Tode und fest entschloßen,  zu leben u zu wirken, so lang es mir vergönnt ist, muß mir doch den Augenblick des Sterbens als den
+                    wonnevollesten des ganzen Lebens denken. —</p>
+            <p> Nehmen Sie, lieber Wagner! diese Abschweifung, wozu mich Ihre Bemerkung über <persName key="JP-004208">Studnitz</persName> verführte (dem ich übrigens, mit Ihnen, die <hi rendition="#u" hand="#author">gleiche</hi>
+               <hi rendition="#u" hand="#author">Sache</hi> unter <hi rendition="#u" hand="#author">andern</hi> Namen, nämlich <hi rendition="#u" hand="#author">reine</hi> Phantasie, auch von
+                    Herzen wünsche) zugleich als einen Pendant zu Ihrer Empfindung am <hi rendition="#u" hand="#author">Ostertage</hi> und als einen
+                    Beweis, daß wir auch hier auf verschiednen Wegen zu Einem Ziel kommen. Und das
+                    ist eben wieder das göttliche Siegel der Religion, daß ihr Wesen so Eines u Ihre
+                    Formen so unendlich sind, wie die Formen alle, unter denen sich das Göttliche
+                    sezt u offenbaret.</p>
+            <p>Ueber den Werth und Unwerth der wahren und falschen
+                            Mystik sind wir – glaube ich – ganz verständigt; doch fühle ich mich gedrungen – so geht mir die
+                    Sache zu Herzen – noch eine Bemerkung zu Ihrer anzufügen. "Was die <persName key="JP-004683">Werner</persName>ische Mystik betrifft so
+                    liebe ich sie sehr, <hi rendition="#u" hand="#author">insofern</hi>
+                    sie auf das <hi rendition="#u" hand="#author">Himmlische</hi> geht"
+                    sagen Sie und gewiß ist das auch meine Meynung; aber ich verlange noch mehr, und
+                    zwar als conditio sine qua
+                                non ihres Werths, daß sie
+                    nämlich <hi rendition="#u" hand="#author">Ausdruck</hi>, <hi rendition="#u" hand="#author">Folge</hi> eines wahrhaft u
+                    lebendig <hi rendition="#u" hand="#author">Empfundenen</hi> sey und
+                    nicht als <hi rendition="#u" hand="#author">stimulus</hi> für das Empfindende, als <hi rendition="#u" hand="#author">Grund</hi> der Empfindung <hi rendition="#u" hand="#author">angesehen</hi> u <hi rendition="#u" hand="#author">benuzt</hi> werden <hi rendition="#u" hand="#author">wolle</hi>. Ihre Urtheil über <hi rendition="#u" hand="#author">
+                  <persName key="JP-004683">Werners</persName>
+               </hi>Mysterie der <hi rendition="#u" hand="#author">Thalritter</hi> ist das meinige; aber darin
+                    kann ich nicht mit Ihnen übereinstimmen, wenn Sie sagen: "Der Mensch muß nichts
+                    Himmlisches <hi rendition="#u" hand="#author">wißen</hi> wollen!"
+                    und dann blos den <hi rendition="#u" hand="#author">Glauben</hi>
+                    statuiren. Sie haben zwar vollkommen recht, daß der Mensch, der empirische
+                    Mensch, <hi rendition="#u" hand="#author">als</hi> solcher, von Gott
+                    u seinen Himmeln nichts weiß u nichts wißen kann; aber <hi rendition="#u" hand="#author">dieser</hi> Mensch hat auch nicht <hi rendition="#u" hand="#author">den</hi> Glauben, den Sie
+                    verlangen u postuliren, sondern den <hi rendition="#u" hand="#author">Wahn</hi>, die <hi rendition="#u" hand="#author">Superstition</hi>. Der Mensch, <hi rendition="#u" hand="#author">als</hi> endliches Wesen, <hi rendition="#u" hand="#author">als</hi> Individuum, <hi rendition="#u" hand="#author">weiß</hi> nicht u <hi rendition="#u" hand="#author">glaubt</hi> nicht; aber er <hi rendition="#u" hand="#author">existirt</hi> auch, <hi rendition="#u" hand="#author">als</hi>
+                    solches, <hi rendition="#u" hand="#author">nur</hi> in der <hi rendition="#u" hand="#author">Reflexion</hi> und also so gut,
+                    als <hi rendition="#u" hand="#author">gar</hi>
+               <hi rendition="#u" hand="#author">nicht</hi>. Seine wahre Existenz
+                    u, was Eins ist, sein wahres Wißen wurzelt nur in Gott und sein Scheinleben
+                    folgt dem wahren Leben eben so nothwendig, als nichtig, wie der Schatten dem <hi rendition="#u" hand="#author">manifestirten</hi> Lichte. Nicht
+                        <hi rendition="#u" hand="#author">ich</hi>, nicht <hi rendition="#u" hand="#author">Sie</hi>, nicht <hi rendition="#u" hand="#author">wir</hi> wißen und glauben, sondern <hi rendition="#u" hand="#author">Gott</hi> ist es, der sich in uns
+                    weiß der sich in uns <hi rendition="#u" hand="#author">selbst</hi>
+               <hi rendition="#u" hand="#author">erkennt</hi>. Aber es ist wohl
+                    sonderbar zu sagen, daß Gott  sich in uns nur <hi rendition="#u" hand="#author">glaube</hi>? Und dennoch giebt es einen
+                    menschlichen <hi rendition="#u" hand="#author">Glauben</hi>, so
+                    gewiß als es einen thierischen <hi rendition="#u" hand="#author">Instinkt</hi> giebt. Beyde sind ein Beleg für eine, von aller Subjectivität
+                        unabhängige, <hi rendition="#u" hand="#author">objective</hi> Vernunft (Weltseele) und nur dem
+                        <hi rendition="#u" hand="#author">Grade</hi> nach verschieden.
+                    Daher das Nöthigende, das Unmittelbare in den beyden Erscheinungen; daher die
+                    Untrüglichkeit des Sinns, des Instinkts u des Glaubens. Hier hat der trennende
+                        <hi rendition="#u" hand="#author">subjective</hi> Verstand noch
+                    keine Macht und alles nimmt mehr den Charakter der ungetrübten Vernunft an. Aber
+                    dennoch ist dieser Glaube, dieser Instinkt so wenig das Höchste, als die
+                    sinnliche Erkenntnißweise die höchste ist. In diese Einheit mußte der Verstand
+                    Zwiespalt bringen, damit Totalität werde, die <hi rendition="#u" hand="#author">bewußte</hi>, <hi rendition="#u" hand="#author">geoffenbarte</hi> Einheit in <hi rendition="#u" hand="#author">Allem</hi>. Der Glaube ist das nicht-wißende Wißen mit dem Bewußtseyn, daß
+                    etwas Höheres in uns waltet; der Instinkt ist das nämliche
+                    nicht-wißende, aber zugleich <hi rendition="#u" hand="#author">bewußtlose</hi>, Wißen in <hi rendition="#u" hand="#author">völliger</hi> Objectivität; <hi rendition="#u" hand="#author">über</hi> beyden aber steht das wißende und bewußte Wißen der Vernunft, welche den entzweyenden Verstand besiegt
+                    hat und ihn zu ihrem Diener macht zur <hi rendition="#u" hand="#author">Darstellung</hi> des Unendlichen <hi rendition="#u" hand="#author">im</hi> Endlichen im Sinne des göttlichen Plato.
+                    So <hi rendition="#u" hand="#author">darf</hi> u <hi rendition="#u" hand="#author">kann</hi> es nicht allein ein <hi rendition="#u" hand="#author">Wißen</hi> des Himmlischen geben, sondern es <hi rendition="#u" hand="#author">soll</hi> u <hi rendition="#u" hand="#author">muß</hi> es auch geben, denn alles andere <hi rendition="#u" hand="#author">wurzelt</hi> in <hi rendition="#u" hand="#author">diesem</hi> und <hi rendition="#u" hand="#author">ohne</hi> dieses wäre gar kein anderes u auch kein Glaube ohne
+                    Wahn. Aber nicht <hi rendition="#u" hand="#author">Allen</hi> ist es
+                    gegeben und das gehört wieder zur Göttlichkeit Gottes, daß er sich nicht allein
+                        <hi rendition="#u" hand="#author">unendlich</hi>, sondern auch
+                        <hi rendition="#u" hand="#author">auf unendliche Weise</hi>
+                    sezt.</p>
+            <p>Sie sehen nun, Bester! wie auch wir im Punkte des Glaubens in unserer
+                    Verschiedenheit Eins sind. Nur die <hi rendition="#u" hand="#author">Reflexion</hi> trennt uns, nicht die <hi rendition="#u" hand="#author">Sache</hi> d. h. nur der Verstand, nicht die Vernunft; nur die
+                    Höhe des Standpunktes, nicht seine unergründliche Tiefe.</p>
+            <p>Darnach würden wir uns denn auch entzweyen u versöhnen über Ihr gefolgertes Wort:
+                    "Auf Erden giebt es keine Meisterschaft" Aber die Ausführung führte mich heute
+                    weiter, als ich mich führen laßen darf um Ihret- u meinetwillen. Jedes Ding – so
+                    viel nur sey hinzugesezt – ist meisterhaft, wenn es <hi rendition="#u" hand="#author">ist</hi>, was es nach seiner Idee u durch sie
+                    seyn <hi rendition="#u" hand="#author">kann</hi>; also auch der
+                    Mensch.  Im absoluten Sinne ist Pflanze = Stein = Mensch; denn nur in der Relation
+                    keimen u blühen die Klaßen u Abstufungen, die die <hi rendition="#u" hand="#author">absolute</hi> Natur nicht kennt und erst in der
+                        <hi rendition="#u" hand="#author">erscheinenden</hi>
+                    hervortreten lässt. —</p>
+            <p>Gerade diese "herzlichen Worte" in Ihren Gedichten, lieber Wagner! sind es, die
+                    mich so innig u für ewig an Sie hinziehen u in Sie hinein. Sie haben ganz recht
+                    gesehen. Aber nicht die <hi rendition="#u" hand="#author">Worte</hi>
+                    sind es <hi rendition="#u" hand="#author">allein</hi> und nicht das
+                        <hi rendition="#u" hand="#author">herzliche</hi> ist es <hi rendition="#u" hand="#author">allein</hi>, sondern das, daß
+                        logos
+                    u Herz bey Ihnen u in Ihnen Eins u ungetrennt, nicht zu<hi rendition="#u" hand="#author">sammengemischt</hi>, sondern <hi rendition="#u" hand="#author">ursprünglich</hi> Eins sind, daß Sie daher nicht
+                        <hi rendition="#u" hand="#author">Sich</hi> wollen in Ihren
+                    Werken, sondern die <hi rendition="#u" hand="#author">Idee</hi> in
+                    der allein wir leben, weben u seyn können, die Idee der Wahrheit, Schönheit u
+                    Tugend in ihrem ungetrübten Einsseyn.</p>
+            <p>Alle Freunde grüßen Sie herzlich u schmerzlich, mein Theurer! Von <persName key="JP-013431">Rapp</persName> u <persName key="JP-000703">Cotta</persName> lege ich Zeilen bey. Mit <persName key="JP-013431">Rapp</persName> bin ich ganz einverstanden: das
+                    Zeichnen thut Noth und ist das Erste für die Darstellung! Die <hi rendition="#u" hand="#author">Idee</hi> aber füge ich hinzu, ist das Centrum. Mit jedem Mittelpunkte
+                    ist aber schon <hi rendition="#u" hand="#author">zugleich</hi> die
+                    Peripherie gegeben und der ganze Kreiß, freylich nur in der Unendlichkeit. Zur
+                    Darstellung des Unendlichen im Endlichen dazu gehört die <hi rendition="#u" hand="#author">Hand</hi> des Künstlers und sein <hi rendition="#u" hand="#author">Auge</hi> u beyde müßen fest u
+                    sicher seyn durch <hi rendition="#u" hand="#author">Uebung</hi> u
+                        <hi rendition="#u" hand="#author">Kritik</hi>. Die <hi rendition="#u" hand="#author">Kultur</hi> der Idee aber steht
+                    höher u ist unbedingter, denn die Kunst steht u fällt nicht mit dem Künstler,
+                    sondern ist ewig. Ueber die Bildung <persName key="JP-004558">Ihrer
+                        Knaben</persName> zu Künstlern habe ich <persName key="JP-004347">Truchseß</persName> eine Idee vorlängst hingeworfen. Er wird sie Ihnen
+                    mittheilen. Gefällt sie Ihnen, so kann <hi rendition="#u" hand="#author">er</hi> mit <persName key="JP-002546">der edlen <hi rendition="#u" hand="#author">Herzogin</hi>
+               </persName>, <hi rendition="#u" hand="#author">ich</hi> mit dem biedern <hi rendition="#u" hand="#author">
+                  <persName key="JP-000744">Danneker</persName>
+               </hi> sprechen u <hi rendition="#u" hand="#author">
+                  <persName key="JP-011903">Hartmann</persName>
+               </hi> findet sich von
+                            selbst.
+                        <persName key="JP-004556">Die Knaben</persName> könnten hier lernend
+                    verdienen u verdienend lernen.</p>
+            <closer>
+               <salute>Grüßen Sie <persName key="JP-004551">Ihr liebes Weib</persName>, dem
+                        Gott beystehen mag nach seiner unend lichen Weisheit u Güte, und
+                            <persName key="JP-004557">ihre lieben Kinder</persName>, auch den Erzieher des <persName key="JP-000317">Prinzen</persName>,
+                            <persName key="JP-001651">Hendrich</persName> u <persName key="JP-002186">Konitz</persName> – vor Allen aber Studnitz von</salute>
+               <signed>Ihremeigensten Freunde Wangenheim </signed>
+               <dateline>Geendigt am 3<hi rendition="#uu" hand="#author">ten</hi> July 1811.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

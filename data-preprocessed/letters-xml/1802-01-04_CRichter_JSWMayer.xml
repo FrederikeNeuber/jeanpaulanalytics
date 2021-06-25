@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0566">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 4. Januar
+                    1802, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-01-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012176">Jean Pauls Werke</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 4<hi rendition="#uu" hand="#author">ten</hi> Jan.</dateline>
+               <salute>Mein theurer theurer Vater,</salute>
+            </opener>
+            <p>Wie hat mich Ihre Güte und Ihr liebes Geschenk überrascht, ich empfing es am
+                        Sonnabend nach Neujahr,
+                    wo ich schon ungeduldig einer Antwort auf meinen lezten Brief entgegensah. Es rührt mich unaussprechlich, daß Sie nach den vielen
+                    Beweisen Ihrer Liebe die Sie mir in diesem Jahre gegeben haben, noch diesen
+                    hinzufügen, um mich ganz zu beschämen, und daß Sie in einer Periode wo Ihr Herz
+                    durch <ref target="JP-UB0356/#nrfk_351_ckb">die Krankheit der armen <persName key="JP-002702">Auguste</persName>
+               </ref> so schmerzlich angegriffen ist, eine Freude für mich aussuchen. Ach die
+                    Arme! – in Ihrem vorigen Briefe haben Sie mir schon ihren Zustand geschildert, doch mit so viel Vertrauen
+                    auf <persName key="JP-001857">Hufeland</persName>, daß ich hofte es könne alles gut werden. Sie sagen dort sie erholte
+                    sich etwas, freilich war damals noch kein Frostwetter, und es mag seitdem ärger
+                    mit ihr geworden seyn. Mit unendlichem Schmerz denk' ich an Sie! Was müßen Sie
+                    leiden! ich möchte gegen die Vorsicht murren, die Ihr Leben zu einer Kette von
+                    Unglück macht. Das was mich einiger maaßen erhebt, ist das Beispiel aus
+                        <persName key="JP-002702">Gustchens</persName> eigner Familie: der junge Siegfried, der wie Sie sich erinnern werden, als ein 17jähriger Jüngling die
+                    heftigste Brustkrankheit mit einem  Lungen Auswurf hatte und jezt noch
+                    lebt. Ich erinnere mich dunkel eines Mittels gegen diese entsezliche Krankheit,
+                    davon die <persName key="JP-012926">Geh. R.
+                        Dörfer</persName> einmal sprach, welches die <persName key="JP-002360">J.
+                        Langhans</persName> besäße. Ich weis liebster Vater, daß Sie gegen alle
+                    dergleichen Hausmittel die der Arzt nicht verordnet eingenommen sind. Aber ich
+                    bitte Sie, forschen Sie danach, in einem Fall wo die Hofnung an zu sinken droht,
+                    darf man ja wohl das äußerste versuchen, und wenn es nichts hilft schadet es ja
+                    auch nichts. Ach wenn doch Gott dis Leben durch ein Wunder erhalten wollte, an
+                    dem die lezten Blüten ihres Glüks hängen. Hat mein kleines Andenken und <ref type="letter" target="JP-UB0356">mein Brief</ref> der Armen wohl eine frohe Minute gemacht? Sagen sie mir das
+                    bester Vater, wenn Sie mir schreiben, und wenn es Ihre Zeit erlaubt nur einige
+                    Worte mehr, über die Art der Krankheitsäußerungen, ob sie Fieber und Auswurf
+                    hat, und ob sie das Bett hüten muß, ich möchte jeden Tag von ihr hören denn es
+                    ist so schrecklich nie ihren gegenwärtigen Zustand zu erfahren, sondern den, in den sie vor 14 Tagen war.</p>
+            <p>
+               <persName key="JP-999999">Mein Mann</persName>, und ich wir sind beide wohl, und
+                    unser Leben läuft noch glüklich dahin, wir haben oft einzelne große Freuden  die ich um <persName key="JP-999999">meines Mannes</persName> willen
+                    doppelt empfinde. Dazu gehört der Besuch des <persName key="JP-000454">Profeßor
+                        Buterwek</persName> der von <placeName key="JP-005786">Göttingen</placeName>
+                    aus in den Weihachtsfeiertagen hieherkam, und sich acht Tage lange aufhielt. Er
+                    ist von uns allen geliebt hier weggegangen – <persName key="JP-001289">der Herzog</persName> besonders hing sich an ihn
+                    mit brüderlicher Innigkeit, und das machte ihm <placeName key="JP-006012">Meiningen</placeName> so lieb, daß er gern <placeName key="JP-005786">Göttingen</placeName> dagegen vertauschen möchte, wenn er hier 500 th.
+                    fixirtes Gehalt, und ein zahlreiches Auditorium ersezt finden könnte. Er ist
+                    noch jung, und er hat die Ruhe der Vollendung in seinem Wesen. <persName key="JP-001289">Der Herzog</persName> den ich immer mehr liebe, weil er ein
+                    wahrer Mensch ist, der jezt in <persName key="JP-002546">seiner Frau</persName>
+                            die Mutter<persName key="JP-000317">seines Sohnes</persName> liebt, und dessen
+                    Leidenschaften gemäßigt sind, hat einen Hang zum Denken, und zum
+                    Wißenschaftlichen, der dem <persName key="JP-000454">Bouterweck</persName> bei
+                    einem Fürsten überraschte, daher war ihr Intereße
+                    gegenseitig. Er wird diesen Sommer<placeName key="JP-005956">Liebenstein</placeName> besuchen, und der <persName key="JP-001289">Herzog</persName> will uns
+                    auch dort eine Wohnung einrichten, daher wird dieser den Sommer für <persName key="JP-999999">meinen
+                        Mann</persName> recht intereßant seyn, nach seinem langen Entbehren der
+                    Gesellschaft.</p>
+            <p>Ich vergas in meinem lezten Briefe Ihnen zu sagen daß der <persName key="JP-001288">Erbprinz von Meklenburg</persName> uns bei seiner Durchreise von <placeName key="JP-005832">Hildburghausen</placeName> auf eine halbe Stunde besuchte, während seine Pferde gewechselt wurden. Er
+                    war so gefällig mich nach Aufträgen zu fragen, ich konte natürlich nichts geben,
+                    aber ich sprach von Ihnen, und ich bildete mir ein,  er würde Sie
+                    besuchen. Er hat dem <persName key="JP-001289">Herzog</persName> ein Geheimnis
+                                <persName key="JP-999999">meinen Mann</persName> betreffend
+                            verrathen von dem wir nur so viel wißen, daß es ihn in eine bequemere
+                            angenehmer Lage nach einem halben Jahre
+                            setzen wird. Der <persName key="JP-001289">Herzog</persName> hat gewis versichert, daß es die Präbende worauf wir natürlich riethen, nicht ist. Also glauben wir, daß es jene Pension von kleinen
+                    Fürstinnen reichen Edelleuten, die <persName key="JP-999999">meinen
+                        Mann</persName> verehren, ist, von der die <persName key="JP-002273">Krüdner</persName> mir einmal sprach. Doch sagen Sie an niemand
+                    etwas davon, da man es doch nicht gewis weis. Es erregt aber natürlich frohe
+                    Erwartungen für uns, denn wenn gleich<persName key="JP-999999">mein Mann</persName> bequem leben kann, und mehr
+                    einnimt als er ausgiebt, so begünstigt dis doch seinen Hang zum Reisen mehr, der
+                    ihm zugleich so nüzlich ist. Sie werden Sich gewis auch darüber freuen liebster
+                    Vater! Der 3te Theil des<bibl sameAs="JP-010897">Titan</bibl> ist nun zu Ende, und in seiner Umhüllung
+                    liegt dieser Brief – gern möchte ich, daß <persName key="JP-999999">mein
+                        Mann</persName> nun ausruhte und den Anfang eines neuen Werks verschöbe,
+                    aber er kann nicht ruhen, er kann nicht eine Minute unbeschäftigt seyn. Er wird
+                        auch einmal ein philosophisches Buch
+                    herausgeben, und das freut mich um Ihrentwillen.</p>
+            <p>
+               <anchor type="target" xml:id="start_ovr_fkc_ckb"/>
+               <persName key="JP-003964">Die
+                        Gräfin</persName> dankt Ihnen sehr für die
+                            Besorgung des Verkaufs<anchor type="target" xml:id="stop_ovr_fkc_ckb"/>, ich vergas es neulich Ihnen zu schreiben. ich
+                    danke Ihnen auch innig für das Geld.  Leben Sie wohl
+                    theurer geliebter Vater, <persName key="JP-999999">mein Mann</persName> siegelt
+                    schon zu, und ich will lieber halb als gar nicht geschrieben haben Leben Sie
+                    wohl. </p>
+            <closer>
+               <salute>Leben Sie wohl</salute>
+               <signed>Ihre  treue Caroline</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

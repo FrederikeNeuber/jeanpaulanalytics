@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen, 22. November
+                    1806, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1806-11-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 22<hi rendition="#uu" hand="#author">n</hi> Nov. 1806.</dateline>
+            </opener>
+            <p>In der süssen, ach, mir so werthen Hoffnung, daß Sie,
+                    mein theurer, verehrtester Freund, und alle Ihre guten
+                        <placeName key="JP-005948">Leipziger</placeName>, sich wirklich so wohl
+                    befinden, wie die Zeitungen sagen, ergreife ich muthig die Feder, und wünsche
+                        Ihnen Glück, daß Sie in
+                    einer grossen Stadt leben. Wir haben hier – zwar in
+                            Betracht anderer Gegenden, wenig – doch an sich auch viel gelitten. Es
+                            geht eine Militärstrasse durch <placeName key="JP-006012">M.</placeName>, die noch tagtäglich starkbesucht ist. – Mein
+                            Übel hat sich zeither <hi rendition="#u" hand="#author">nicht</hi>
+               <hi rendition="#u" hand="#author">beträchtlich</hi> verschlimmert,
+                    und ich wünsche nur auch recht viel Gutes von Ihrer mir
+                    so theuern Gesundheit zu hören.</p>
+            <p>Noch ein andrer Punkt soll mich sehr freuen, nemlich die Nachricht, daß Sie einen guten Absatz
+                            unserer <bibl sameAs="JP-010020" subtype="werk">
+                  <hi rendition="#u" hand="#unknown">"reisenden Maler"</hi>
+               </bibl> gehabt
+                            haben. Gott lasse mich dieß in
+                    dieser betrübten Zeit hören!</p>
+            <p>
+               <anchor type="target" xml:id="start_gbl_fxd_v4b"/>Übrigens sehe ich mich jetzt
+                    genöthigt, Sie an Ihr mir
+                            gethanes gütiges Anerbieten zu erinnern,
+                    und Sieum den Verlag der 2<hi rendition="#uu" hand="#author">ten</hi>
+                                Auflage meines <bibl sameAs="JP-010022" subtype="werk">
+                  <hi rendition="#u" hand="#unknown">"Wilibalds"</hi>
+               </bibl> und meines Hauptwerks <bibl sameAs="JP-010019" subtype="werk">
+                  <hi rendition="#u" hand="#unknown">"Reisen aus der Fremde in die Heimath"</hi>
+               </bibl>
+               <hi rendition="#u" hand="#author">innigst</hi> zu bitten.
+                                <persName key="JP-001518">Hanisch</persName> bat mich um den Verlag
+                            beyder, wollte auch den <hi rendition="#u" hand="#unknown">
+                  <bibl sameAs="JP-010022" subtype="werk">Wilibald</bibl>
+               </hi> nicht
+                            gern fahren lassen. Ich
+                    akkordirte auch wirklich mit ihm auf 2 Louisd'or für den <hi rendition="#u" hand="#unknown">
+                  <bibl sameAs="JP-010022" subtype="werk">Wilibald</bibl>
+               </hi> und 3 Louisd. für die <hi rendition="#u" hand="#unknown">
+                  <bibl sameAs="JP-010019" subtype="werk">Reisen</bibl>
+               </hi>. Da es aber an die Bestimmung der Zahltermine kam,
+                    kamen wir auseinander, und er gestand, daß er nicht zu dem Verlag im Stande sey.
+                    Ich habe mich daher entschlossen, die wenigen noch übrigen Exemplare der ersten
+                    Auflage, falls sie ja bis Ostern nicht alle abgesetzt seyn sollten, ihm
+                    abzukaufen, um ganz von ihm los zu seyn. Eine schöne Auflage bin ich dem so
+                    gütigen Publikum schuldig, und fühle das besonders, seit dem <hi rendition="#u" hand="#author">ich</hi> mehrere Briefe, sowohl von
+                        Buchhändlern als Käufern erhalten habe, die schönere Exemplare, und
+                    besonders schönes Papier 
+                    verlangten.</p>
+            <p>Nehmen Sie mich an, lieber guter Mann! – <hi rendition="#u" hand="#author">Sie</hi>
+               <hi rendition="#u" hand="#author">können</hi> es – wir werden <hi rendition="#u" hand="#author">gewiß</hi>
+               <hi rendition="#u" hand="#author">nicht</hi> sitzen bleiben, das
+                    hoffe ich zum Himmel – der Krieg wird in der Ostermesse (vielleicht auf <hi rendition="#u" hand="#author">lange</hi>) zu Ende seyn – und
+                    Romane (wozu am Ende meine <bibl sameAs="JP-010019" subtype="werk">
+                  <hi rendition="#u" hand="#unknown">"Reisen"</hi>
+               </bibl> auch
+                    gehören) kaufen die Menschen immer ! Nehmen Sie obigen
+                    Akkord an.<anchor type="target" xml:id="stop_gbl_fxd_v4b"/>Mit Kupfern will ich Sie<hi rendition="#u" hand="#author">nicht</hi> plagen; ausser
+                            mit einem einzigen Titelkupfer vor den <hi rendition="#u" hand="#unknown">
+                  <bibl sameAs="JP-010022" subtype="werk">Wilibald</bibl>
+               </hi>, wozu ich Ihnen<hi rendition="#u" hand="#author">mein</hi>
+               <hi rendition="#u" hand="#author">Gemälde</hi> senden
+                            werde. Zwey Bände
+                        <hi rendition="#u" hand="#unknown">
+                  <bibl sameAs="JP-010022" subtype="werk">Wilibald</bibl>
+               </hi> und einen Band <hi rendition="#u" hand="#unknown">
+                  <bibl sameAs="JP-010019" subtype="werk">Reisen</bibl>
+               </hi> können <hi rendition="#u" hand="#author">Sie gewiß</hi>zur Ostermesse erscheinen lassen – und Sie<hi rendition="#u" hand="#author">werden</hi> es – denn Sie sind mein <hi rendition="#u" hand="#author">einziger</hi> Trost in dieser grossen Geldnoth, die uns alle –
+                    doch gewiß mich vor tausend Andern jetzt umbiebt. Das MSC. zum  <hi rendition="#u" hand="#unknown">
+                  <bibl sameAs="JP-010022" subtype="werk">Wilibald</bibl>
+               </hi> habe ich gestern geendigt – es ist
+                    ein sehr mühsam überarbeitetes gedrucktes Exemplar, woran wirklich die <hi rendition="#u" hand="#author">letzte</hi> Hand gelegt ist. Meine
+                    Wünsche wegen der Zahlung sind: ich möchte von Ihnen
+                    Wechsel auf <persName key="JP-013394">Israels Söhne</persName> allhier
+                    gestellt, und zwar <hi rendition="#u" hand="#author">alle Monathe,
+                        bis zu Ende der Zahlung 75 rth.</hi> haben. Doch wäre meiner Zufriedenheit
+                    hauptsächlich <hi rendition="#u" hand="#author">damit</hi> genug
+                    gethan, wenn ich den 1<hi rendition="#uu" hand="#author">n</hi> Termin zum 1<hi rendition="#uu" hand="#author">n</hi>Dec. und den 2<hi rendition="#uu" hand="#author">ten</hi> zum 22<hi rendition="#uu" hand="#author">n</hi>Dec. schon erhielten, und wenn Sie ausserdem noch die Güte hätten, jetzt noch 26 rth. 12 ggl. 4 h. an
+                        Herrn Steinacker gegen Quittung zu
+                    zahlen, die ich dann hier <hi rendition="#u" hand="#author">mir</hi>
+                    bezahlen lassen könnte. Sollten Sie die ersten Monathe
+                    bis zur Messe geniren, so fehlt es Ihnen doch gewiß
+                    nicht in <placeName key="JP-005948">L.</placeName> an Credit und Freunde, um
+                    einem Freunde zu helfen. – Und ach, – mir <hi rendition="#u" hand="#author">ist</hi> dann endlich geholfen!!</p>
+            <p>Ich stehe Ihnen nicht dafür, daß Sie<hi rendition="#u" hand="#unknown">
+                  <bibl sameAs="JP-010022" subtype="werk">Wilibalden</bibl>
+               </hi> schon vor Ihrer Antwort mit dem Postwagen erhalten. Denn dieses Buch <hi rendition="#u" hand="#author">muß</hi> in Ihren Verlag – weil es die Menschen lieben.</p>
+            <p>Brechen Sie mir an den Fristen ab, so thun Sie es wenigstens an denen <hi rendition="#u" hand="#author">nach</hi> der Omesse! – Im <hi rendition="#u" hand="#author">allerschlimmsten</hi> Falle wage ich noch die
+                    Bitte: Bringen Sie mich an einen andern dortigen
+                    Verleger, <hi rendition="#u" hand="#author">so gut</hi>
+               <hi rendition="#u" hand="#author">Sie</hi>
+               <hi rendition="#u" hand="#author">können</hi>. Aber, ich werde
+                    untröstlichs seyn – ich werde nie wieder in so redliche, liebe Hände kommen!</p>
+            <p>Verzeihen Sie dem Drange meines heutigen Briefes! Sie kennen ja selbst den Drang dieser fürchterlich
+                    stürmenden Zeit – der aber, wenn mein Herz richtig ahndet, bald ein besserer
+                    Frühling folgen wird!</p>
+            <closer>
+               <salute>Ewig und unveränderlich</salute>
+               <signed>Ihrgetreuer JEWagner.</signed>
+            </closer>
+            <postscript>
+               <p>Sie lassen mich diesmal gewiß nicht auf Antwort
+                        warten, Bester!</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

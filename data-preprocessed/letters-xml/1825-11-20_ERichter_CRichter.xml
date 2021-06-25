@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0119">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Caroline Richter. Konradsreuth, 20. November 1825,
+                    Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005918"/>
+               <date when="1825-11-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Konradsreuth, 20. November 1825.</dateline>
+            </opener>
+            <p>Es ist schon der dritte Brief, den ich an Dich anfange. Gott gebe, daß er zu Dir
+                    gelangt und Du endlich weißt. wie es mir geht. Ich bin froh hier, ich müßte
+                    lügen, wollte ich es nicht sagen; aber meine Gedanken sind oft bei euch, bei
+                    euren Unterhaltungen. Die Reise mit <persName key="JP-003087">Emanuel</persName>
+                    war sehr schön. Ich konnte mit ihm reden wie mit meinem herrlichen <persName key="JP-999999">Vater</persName>; über diesen sprachen wir fast immer und es
+                    thut uns Beiden wohl. Er frug mich, wer wohl die hinterlassenen Papiere bekäme,
+                    und ich sagte meinen Wunsch, den Du wohl errathen hast und der auch Deiner zu
+                    sein scheint. <anchor type="target" xml:id="start_f4x_gqw_zkb"/>Ach wie
+                    glücklich würde es mich machen, wie meiner ganzen Zukunft einen Zweck geben,
+                    könnte ich das große Werk
+                        vollbringen!<anchor type="target" xml:id="stop_f4x_gqw_zkb"/> Zuweilen denke
+                    ich es begeistert, besonders wenn ich mich einiger seiner Aeußerungen gegen mich
+                    erinnere; und vielleicht schickt er seinen heiligen Geist und ich rede mit
+                    feuriger Zunge. Fühle ich mich aber zu schwach, dann mag ein Würdigerer sein
+                    Apostel werden.</p>
+            <p>Wir lesen jetzt zusammen den <bibl sameAs="JP-010897" subtype="werke-jp">Titan</bibl>. Wie erhebt mich das Entzücken der Anderen dabei zu ihm! Ein junger Mann ist auch hier, ein eigener Mensch, aber
+                    enthusiastisch für den <persName key="JP-999999">Vater</persName>, und so bin
+                    ich so glücklich, noch Jemand zu finden, der ihn kennt und liebt und darf meine
+                    Verehrung laut aussprechen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

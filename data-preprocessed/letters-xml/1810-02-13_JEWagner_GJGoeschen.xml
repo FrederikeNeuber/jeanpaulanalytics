@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0923">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen 13. Februar 1810, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1810-02-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 13<hi rendition="#uu" hand="#author">n</hi> Febr. 1810.</dateline>
+            </opener>
+            <p>Immer, verehrtester Mann, hoffte ich bisher auf Nachrichten von Ihnen, und immer
+                    vergebens! Möchten Sie sich wieder so wohl befinden, als ich es aus innerster
+                    Seele wünsche!</p>
+            <p>Meine Krankheit nimmt seit dem Herbste einen beschleunigteren Gang. Ich darf
+                    nicht hoffen, die Märzluft zu überstehen; und deßwegen ist es mir doppelte
+                    Pflicht, mein Haus zu bestellen. – Nehmen Sie hiermit die dringendste Bitte um
+                    gütige Nachricht aus Ihrem Buche, <hi rendition="#u" hand="#author">wegen</hi>
+               <hi rendition="#u" hand="#author">meiner</hi>
+               <bibl sameAs="JP-010020" subtype="werk">
+                  <hi rendition="#u" hand="#author">reisenden <hi rendition="#uu" hand="#author">Maler</hi>
+                  </hi>
+               </bibl>, an, und versagen Sie deren Erfüllung nicht!</p>
+            <p>Können wir noch einen Akkord auf die zweite
+                            Auflage machen, so lassen Sie es uns <hi rendition="#u" hand="#author">jetzt</hi> thun, weil es noch Zeit ist. Es wird
+                    uns nicht schwer werden, übereinzukommen, da wir Beyde rechtliche Männer sind.
+                    Ich will billig seyn – Sie werden eben so handeln. Auch
+                    verlange ich nicht die Summe auf einmal, sondern ich wünsche sie nur mit
+                    Sehnsucht in meinen Familienplan zu bringen. Denn ich sterbe arm.</p>
+            <closer>
+               <salute>Zögern Sie nicht,
+                        verehrtester Freund, mir bald gütigst zu schreiben. Möchte Ihr Brief in
+                        Rücksicht Ihrer Gesundheit und meiner Angelegenheit gleich erfreulich
+                            seyn! Ewig</salute>
+               <signed>IhrtreuerJEWagner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

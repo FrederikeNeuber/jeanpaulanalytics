@@ -26,12 +26,14 @@
 
         <!-- Defines output file -->
         <xsl:variable name="output-uri-csv-1"
-            select="'file:///' || $output-cleaned || 'correspondents-roles.txt'" as="xs:string"/>
+            select="'file:///' || $output-cleaned || 'correspondents-influencer.txt'" as="xs:string"/>
         <xsl:variable name="output-uri-csv-2"
             select="'file:///' || $output-cleaned || 'correspondents-message-coverage.txt'"
             as="xs:string"/>
         <xsl:variable name="output-uri-csv-3"
             select="'file:///' || $output-cleaned || 'correspondents-year.txt'" as="xs:string"/>
+        <xsl:variable name="output-uri-csv-4"
+            select="'file:///' || $output-cleaned || 'correspondents-roles.txt'" as="xs:string"/>
 
         <!-- CSV variables -->
         
@@ -75,48 +77,12 @@
                 <xsl:variable name="score" select=" $av-correspondents + $av-commentors + $av-readers + $av-topics + $av-circle"/>
                 
                 <xsl:value-of select=". || $s || format-number($av-correspondents, '#.###') || $s || format-number($av-commentors, '#.###')|| $s || format-number($av-readers, '#.###') || $s || format-number($av-topics, '#.###') || $s || format-number($av-circle, '#.###')  || $s || format-number($score div 5, '#.###') ||  $l"/>
-             <!--   <xsl:value-of
-                    select="count(current-group()/parent::tei:correspAction[@type = 'sent']) || $s"/>
-                <xsl:value-of
-                    select="count(current-group()/parent::tei:correspAction[@type = 'received']) || $s"/>
-                <xsl:value-of
-                    select="count(current-group()/parent::tei:correspAction[@type = 'read']) || $s"/>
-                <xsl:value-of
-                    select="$comments || $s"/>
-                <xsl:value-of select="count(current-group()) || $s"/>
-                <xsl:value-of
-                    select="$circle || $s"/>
-                <xsl:value-of
-                    select="$topics || $l"/>-->
+       
             </xsl:for-each-group>
         </xsl:result-document>
         
         
-<!--        <xsl:result-document href="{$output-uri-csv-1}" method="text">
-            <xsl:value-of
-                select="'Korrespondent/in' || $s || 'Gesendet' || $s || 'Empfangen' || $s || 'Gelesen' || $s || 'Kommentiert' || $s || 'Alle Interaktionen' || $s || 'Themen' || $s || 'Korrespondenzkreise' || $l"/>
-            <xsl:for-each-group select="$documents//tei:correspAction//tei:persName" group-by="@key">
-                <xsl:sort select="count(current-group())" data-type="number" order="descending"/>
-                <xsl:variable name="comments" select="count($documents[//tei:correspAction[@type = 'sent']/tei:persName/@key[. != current-grouping-key()]]//tei:text//@hand[. = concat('#', current-grouping-key())])"/>
-                <xsl:variable name="circle" select="count(distinct-values($documents[//tei:correspAction[@type = 'sent']/tei:persName/@key[. = current-grouping-key()]]//tei:keywords[@scheme='#correspondents']/tei:term))"/>
-                <xsl:variable name="topics" select="count(distinct-values($documents[//tei:correspAction[@type = 'sent']/tei:persName/@key[. = current-grouping-key()]]//tei:keywords[@scheme='#topics']/tei:term))"/>
-                <xsl:value-of select=". || ' [' || count(current-group()) + $comments || ']' || $s"/>
-                <xsl:value-of
-                    select="count(current-group()/parent::tei:correspAction[@type = 'sent']) || $s"/>
-                <xsl:value-of
-                    select="count(current-group()/parent::tei:correspAction[@type = 'received']) || $s"/>
-                <xsl:value-of
-                    select="count(current-group()/parent::tei:correspAction[@type = 'read']) || $s"/>
-                <xsl:value-of
-                    select="$comments || $s"/>
-                <xsl:value-of select="count(current-group()) || $s"/>
-                <xsl:value-of
-                    select="$circle || $s"/>
-                <xsl:value-of
-                    select="$topics || $l"/>
-            </xsl:for-each-group>
-        </xsl:result-document>
--->
+
         <!-- correspondents-message-coverage.txt -->
         
         <xsl:result-document href="{$output-uri-csv-2}" method="text">
@@ -156,6 +122,27 @@
                 </xsl:for-each-group>
             </xsl:for-each-group>
         </xsl:result-document>
+        
+        <xsl:result-document href="{$output-uri-csv-4}" method="text">
+            <xsl:value-of
+                select="'Korrespondent/in' || $s || 'Gesendet' || $s || 'Empfangen' || $s || 'Gelesen' || $s || 'Kommentiert' || $s || 'Gesendet/Gelesen/Kommentiert' || $s || 'alle Interaktionen' || $l"/>
+            <xsl:for-each-group select="$documents//tei:correspAction//tei:persName" group-by="@key">
+                <xsl:sort select="count(current-group())" data-type="number" order="descending"/>
+                <xsl:variable name="comments" select="count($documents[//tei:correspAction[@type = 'sent']/tei:persName/@key[. != current-grouping-key()]]//tei:text//@hand[. = concat('#', current-grouping-key())])"/>
+                <xsl:value-of select=". || $s"/>
+                <xsl:value-of
+                    select="count(current-group()/parent::tei:correspAction[@type = 'sent']) || $s"/>
+                <xsl:value-of
+                    select="count(current-group()/parent::tei:correspAction[@type = 'received']) || $s"/>
+                <xsl:value-of
+                    select="count(current-group()/parent::tei:correspAction[@type = 'read']) || $s"/>
+                <xsl:value-of
+                    select="$comments || $s"/>
+                <xsl:value-of select="count(current-group()/parent::tei:correspAction[@type = 'sent']) + count(current-group()/parent::tei:correspAction[@type = 'read']) + $comments || $s"/>
+                <xsl:value-of select="count(current-group())+ $comments || $l"/>
+            </xsl:for-each-group>
+        </xsl:result-document>
+
     </xsl:template>
 
 </xsl:stylesheet>

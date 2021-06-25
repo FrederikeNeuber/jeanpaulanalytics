@@ -129,7 +129,7 @@
             <xsl:for-each-group select="$documents//tei:correspAction//tei:persName" group-by="@key">
                 <xsl:sort select="count(current-group())" data-type="number" order="descending"/>
                 <xsl:variable name="comments" select="count($documents[//tei:correspAction[@type = 'sent']/tei:persName/@key[. != current-grouping-key()]]//tei:text//@hand[. = concat('#', current-grouping-key())])"/>
-                <xsl:value-of select=". || $s"/>
+                <xsl:value-of select=". || ' [' || count(current-group()/parent::tei:correspAction[@type = 'sent']) + count(current-group()/parent::tei:correspAction[@type = 'read']) + $comments || ']' || $s"/>
                 <xsl:value-of
                     select="count(current-group()/parent::tei:correspAction[@type = 'sent']) || $s"/>
                 <xsl:value-of

@@ -77,9 +77,10 @@
                 
                     <xsl:variable name="av-topics" select="$topics div $single-topics * 100"/>
                 <xsl:variable name="av-circle" select="$circle div $single-circle * 100"/>
-                <xsl:variable name="score" select=" $nrw + $av-commentors + $av-readers + $av-topics + $av-mentions + $av-circle"/>
+                <xsl:variable name="score" select=" $nrw + $av-commentors + $av-topics + $av-mentions + $av-circle"/>
                 
-                <xsl:value-of select=". || $s || format-number($nrw, '#.###') || $s || format-number($av-commentors, '#.###')|| $s || format-number($av-readers, '#.###') || $s || format-number($av-mentions, '#.###') || $s || format-number($av-topics, '#.###') || $s || format-number($av-circle, '#.###')  || $s || format-number($score div 5, '#.###') ||  $l"/>
+                
+                <xsl:value-of select=". || $s || format-number($nrw, '#.###') || $s || format-number($av-commentors, '#.###')|| $s || format-number($av-mentions, '#.###') || $s || format-number($av-topics, '#.###') || $s || format-number($av-circle, '#.###')  || $s || format-number($score div 5, '#.###') ||  $l"/>
        
             </xsl:for-each-group>
         </xsl:result-document>

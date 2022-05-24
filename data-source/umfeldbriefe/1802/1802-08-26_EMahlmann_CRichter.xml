@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0683" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0683" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Ernestine Mahlmann an Caroline Richter. Leipzig, 26. August 1802, Donnerstag</title><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -130,7 +129,10 @@
                     freundlichen Wohnung, in der mir alles wieder so neu und so lieb war. Ich hätte
                     jeden <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> Stuhl, jeden Sofa küßen mögen! Warum giebt doch des <hi rendition="#u" hand="#author" cert="high">Entbehren</hi>, selbst des
                     edelsten Guts ihm einen neuen himmlischen Reiz! Festlich war alles geschmückt
-                    und aufgepuzt. Durch Scheuern und Waschen hatte sich die <persName key="JP-012036">Marie</persName> nicht allein <subst><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del><add place="superlinear">insinnuieren</add></subst> wollen – mit Kränzen von ihrer Hand geflochten war mein Zimmer
+                    und aufgepuzt. Durch Scheuern und Waschen hatte sich die <persName key="JP-012036">Marie</persName> nicht allein <subst>
+                        <del rendition="#s"><unclear reason="covered">verewigen</unclear></del>
+                        <add place="superlinear">insinnuieren</add>
+                    </subst> wollen – mit Kränzen von ihrer Hand geflochten war mein Zimmer
                     behangen. Tausend kleine Einrichtungen waren in der Zeit getroffen die mir
                     Freude machen sollten. Meine Speisekammer sogar hatte <persName key="JP-002583">der liebe Mann</persName> mit Winter-Vorräthen – mit Eingemachten Bonen und
                     Kirschen u. s. w. versorgt! –</p>

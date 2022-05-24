@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0358">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 16. April 1803,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1803-04-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012010">Judentum</term>
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 16 Apr. 3.</dateline>
+            </opener>
+            <p>Caroline! Ich weiß nicht recht, soll ich mich freuen od.
+                    soll ich mich nicht freuen, wenn Ihnen es so lange wie mir zu seyn scheint, daß
+                    ich Ihnen nicht geschrieben habe, was mich durchaus nicht freuen kann.</p>
+            <p>Meine Eitelkeit, die wär' es schon im Stande – ließ ich sie mit stimmen
+                    – u ließ mich Freude üb. meinen u Ihren (?) Schaden haben; ab. sie muß schweigen
+                    u nur ich – kann sich dieses Ich v. seiner Eitelkeit trennen? –
+                    schreiben.</p>
+            <p>S. nennen sich Egoiste u ich glaube mich eitel, wer v. uns beiden ist
+                    vorzuziehen?  Macht man in der Welt so viele Menschen
+                    froh, so viele glückl., als man kann, so hat man Alles gethan, was man soll.
+                         Mir macht es viell. mehr Freude, wenn man mir ein
+                    Gartenhaus für Einen Sommer miethet – u also auch dem Miether – als schenke
+                    einer einem ErdenGotte ein ganzes Leben.</p>
+            <p>Und dies Beispiel ist ein wahres.  Vor 10 Tagen miethete
+                    mein <persName key="JP-004367">Uhlfelder</persName> ein sehr niedliches u nun
+                    schon artig eingerichtetes Gartenhaus, das ich – durch seine Güte u meine
+                    Überraschung – wenigstens ein Jahr wie mein Haus benutzen u geniesen kann.</p>
+            <p>Er, der Gute, gärtelt in diesem Augenblicke vor meinem Fenster u ich schreibe v.
+                    ihm an S..</p>
+            <p>Meine liebsten Beschäftigungen, das sind die mit meiner armen Seele u f. sie,
+                    werden also in diesem Sommer hier verrichtet.</p>
+            <p>Sie können unmöglich abgezogener v. Menschen leben od. leben wollen, als
+                    ich; nur wenige Menschen seh' u sprech' ich, mit denen ich nicht sprechen muß.
+                         Ich habe mehrere Freunde u Feundinen; aber wer u
+                    welche v. ihnen den Vorzug u in was er od. sie ihn hat, das mag ich mir selbst
+                    nicht deutlich machen.</p>
+            <p>Vor ohngefehr 6 Jahren sagte mir
+                    eine
+                    Freundin – sie ist im vergangenen
+                    gestorben –: "zwischen <hi rendition="#u" hand="#author">guten</hi>
+                    Menschen muß od. darf man nie Vergleichungen anstellen: man verliert immer."</p>
+            <p>Die, die auch nicht zum Vergleichen taugte, hatte so Recht, daß ich sie, wenn ich
+                    sie einmal wiedersehen sollte, mit ihrer eigenen Wahrheit begrüssen
+                    werde.</p>
+            <p>In <placeName key="JP-005586">Berlin</placeName> ist mir auch ein gewiß guter
+                    Mensch – auf dessen Wiedersehen <hi rendition="#u" hand="#author">dort</hi> ich mich jetzt eben so freue – nur nicht mit so vieler Zuversicht
+                    – als  ich mich auf
+                    das in <placeName key="JP-005586">Berlin</placeName> gefreut habe –
+                    vorausgegangen: ich rede v. dem erst kürzlich gestorbenen  redlichen u biedern <persName key="JP-012050">K.
+                                Ger. R. Schweder</persName>. S. haben ihn wohl nicht gekannt?</p>
+            <p>Die <persName key="JP-003964">Gräf. Schlabernd.</persName> ist, so viel ich weiß gesund; sie hat mir vor einigen Monathen geschrieben, ich hab'
+                            ihr geantw. u dam. war Alles geendiget. In <placeName key="JP-006012">Meiningen</placeName> hab' ich <persName key="JP-003966">ihren
+                        Mann</persName> zu meiner Zufriedenheit kennen gelernet.</p>
+            <p>Mein Thieriot hat am 5 Apr.<placeName key="JP-006122">Par</placeName>.
+                            verlassen, ist jetzt in <placeName key="JP-005743">Ffta/M</placeName> u meinen Wünschen nach
+                    in
+                    längstens 10–12 Tagen b. mir.</p>
+            <p>Nun dank' ich Ihnen recht innigst u herzlich f. die gute
+                        Besorgung des Reißzeugs, wof. beiliegend die 6 Rth folgen.</p>
+            <p>Mir u meinem <persName key="JP-004367">Uhlf</persName>. haben S. Freude dam.
+                    gemacht u auch dem <persName key="JP-012446">Sohn Uhlf</persName>.  Beide danken Ihnen auch u der Vater grüßt S. recht
+                    treuherzig.  Der kl. Uhlfelder soll Oeconom u Geometre
+                    werden.  <persName key="JP-004367">Uhlf</persName>. wendet
+                    viel auf seine 3 Kinder u hat
+                    durchaus keine Schuld, wenn s. ihm nicht recht viel Freude machen.  <persName key="JP-004367">Uhlf</persName>. ist einer der
+                    besten Menschen die ich kenne u er kennet keinen so guten.  Es wäre traurig um die Menschen, wenn ich ein  sehr – od. nur ein wenig mehr als ganz
+                    gewöhnlich  guter
+                    Mensch unter ihnen wäre.</p>
+            <p>Allein bin ich gut u. b. Guten bin ich s auch; ab. schreibt Jemand "Epitave" so
+                    schreib' ich s nach, ohngeachtet es mich hernach reuet, daß ichs falsch u nicht
+                    Epitaphe geschrieben habe.</p>
+            <p>Alles ws S. mir üb. unsre <placeName key="JP-005586">Berliner</placeName> sagen
+                    glaub' ich u dieserwegen machts mich oft traurig.</p>
+            <p>Sagen S. mir etwas v. <persName key="JP-012482">Dav. Friedlander</persName>.</p>
+            <p>Seyn S. nur recht fleißig Car.; es macht uns doch auf
+                    dieser Erde nur selten etwas glücklicher, als Arbeit.</p>
+            <p>Wollten unsre Geschwistere in <persName key="JP-002887">Moses</persName> nur
+                    Arbeiten, dann würde ihnen bald geholfen seyn.</p>
+            <closer>
+               <salute>Die Meinigen grüssen S. Alle u ich grüsse S. gerne u schreib' Ihnen
+                            gerne. A Dieu Car. A
+                            Dieu.</salute>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

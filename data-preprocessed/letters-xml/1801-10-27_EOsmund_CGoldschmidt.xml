@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0698">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 27. Oktober 1801,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1801-10-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012010">Judentum</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bayr. Dienst. 27. Oct. 1.</dateline>
+            </opener>
+            <p>Geliebte, theuere Goldschmidt! Den ersten Brief, den ich unter denen die mich
+                    erwarteten erbrach bin ich Ihnen schuldig u also den reinsten Dank! Sie haben
+                    mich sehr schoen überrascht durch Ihren
+                            geschwinden – ich will Sie's durch diesen spaten Brief.</p>
+            <p>Daraus, daß ich Ihnen diese Worte nicht eher zu langte, ersehen S. deutl., daß
+                    ich sie nicht eher schaffen <hi rendition="#u" hand="#author">konnte</hi> u nun, da ich für S. am Schreibepult sitze, fühl ich, daß diese
+                    Unmoeglichkeit, durch die beständige Erinnerung an Sie, die sie mir gab, so gar
+                    recht viel Gutes hatte. Nein, Caroline, ich kann auch die Predicate, wie ich s Ihnen
+                    mündlich gesagt u Sie's so gut behalten haben, weder in der Liebe, noch in ihrer
+                    reinern Schwester, der Freundschaft leiden; aber so lange ich Ihnen
+                    nach geben muß d. h. so lange ich Sie Goldschmidt nenne, eben so lange muß ich
+                    mir der Predicate bedienen . Car.! so bald ich S. so
+                    wie <hi rendition="#u" hand="#author">ich</hi> will nennen darf,
+                    dann ist jeder andere Vorsatz überflüssig, ja, ja, Caroline! <anchor type="target" xml:id="start_qnw_bx1_qmb"/>Und da man
+                    nie 2 Menschen<hi rendition="#u" hand="#author">ganz</hi> gleich lieben u nie v.
+                    zweien <hi rendition="#u" hand="#author">ganz</hi> gleich geliebt
+                    werden kann: so kann man wohl mehr als eine Caroline u
+                    doch immer nur Eine als Individuum besitzen.<anchor type="target" xml:id="stop_qnw_bx1_qmb"/>
+            </p>
+            <p>Hier kömmt es nicht auf Ancienneté, sondern auf die freie Wahl
+                    unsers einen, inneren, unendlichen Ichs an. Mein eigener Name, der
+                        Familien- u Taufname zu gleich seyn muß, kann viell. eine Ausnahme
+                    v. meiner eigenen Regel machen u doch koennen S. ihn allein oder mit einer
+                    Zugabe stehen lassen, ich bin dam. zufrieden – denn ich verstehe Sie.</p>
+            <p> Was mich aber noch mehr erfreut, das ist, daß S. mich verstehen, so
+                    wie mich noch kein weibliches Wesen in uns. Nation verstanden hat, verstehen u
+                    dieser Umstand waere schon allein genug um S. blos Caroline anreden zu dürfen.</p>
+            <p>
+               <anchor type="target" xml:id="start_lh1_xn4_nnb"/>Es that mir wohl, daß S. mit
+                    mir zugleich in <placeName key="JP-005948">Leipzig</placeName> waren u daß wir
+                    uns fanden<anchor type="target" xml:id="stop_lh1_xn4_nnb"/> u es wird mir noch
+                    lange so thun.</p>
+            <p>Die Rechnung meiner Reise, die S. machten, traf so glücklich zu, als waere jeder
+                    Postillon v. Ihnen, durch Ihren Wunsch – das hab' ich Ihnen ja längst kund
+                    gemacht, daß ich eitel bin – geschmiert gewesen.</p>
+            <p>Reden u schreiben S. wie u was S. wollen: Ihre Weiblichkeit kann nur dadurch b.
+                    mir gewinnen . Die Menschen, die für Menschen leben, die also auch in einer
+                    Stunde mehr sehen, als die, die nur für sich leben, in Monothonie haben sich diese – die Erstern, <hi rendition="#u" hand="#author">gesehen</hi>, dann müssen sie, wie
+                    sie wollen ohne mißverstanden zu werden, unter sich reden koennen u dürfen.</p>
+            <p>
+               <anchor type="target" xml:id="start_xhp_mdy_vmb"/>Nehmen S. meinen innigsten
+                    Dank, für Ihre <hi rendition="#u" hand="#author">Boerse</hi>, die mich nie, auch dann nicht
+                    verlassen wird, wenn ich keine brauchen koennte<anchor type="target" xml:id="stop_xhp_mdy_vmb"/>, für Ihre Billetgen, für Ihren Brief – für Alles – denn Alles war an <hi rendition="#u" hand="#author">mich</hi>. Moecht' ich bald lesen, v. <hi rendition="#u" hand="#author">Ihnen</hi>, daß es Ihnen recht
+                    wohl gehe, daß S. auch gesund in <placeName key="JP-005586">Berlin</placeName>
+                    angekommen u es noch sind u es immer bleiben moechten!</p>
+            <closer>
+               <salute>ADieu, Caroline, ADieu!</salute>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0785" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0785" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Odilie Richter an Emma Richter. Würzburg, 23. Juli 1822, Dienstag</title><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -52,7 +51,7 @@
     <text>
         <body>
             <div type="writingSession" xml:id="Schreibakt_1">
-            <pb n="1"/>
+                <pb n="1"/>
                 <opener>
                     <dateline>W. den 23 Julie<lb/>1822</dateline>
                     <salute>Innigstgeliebte Züpfe!</salute>
@@ -73,18 +72,11 @@
                     steigen und fallen. Er stieg etwas in die Höhe, blieb aber hängen und ein großes
                     Loch machte allen Spaß ein Ende, denn <del rendition="#s">
                         <gap reason="illegible" quantity="1" unit="words"/>
-                    </del> alle Luft spatzirte heraus. Lebe wol und denke Deiner</p>
-                <closer>
-                    <signed>
-                        <unclear reason="illegible">Dieze</unclear>
-                        <gap reason="illegible" unit="words" quantity="1"/>
-                    </signed>
-                </closer>
+                    </del> alle Luft spatzirte heraus. Lebe wol und denke Deiner Dieze zuerst</p>
                 <postscript>
                     <p>
-                  <seg type="transposition" subtype="postscript" corresp="#page2" rend="mTop" style="rotate-180" hand="#author">Bald mehr werde ich
-                        schreiben</seg>
-               </p>
+                        <seg type="transposition" subtype="postscript" corresp="#page2" rend="mTop" style="rotate-180" hand="#author">Bald mehr werde ich schreiben</seg>
+                    </p>
                 </postscript>
             </div>
         </body>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1270">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Goldschmidt an Emanuel. Leipzig, 2. Oktober 1805,
+                    Mittwoch (?) </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1805-10-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-011893">Berufliches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig den2toctbr</dateline>
+            </opener>
+            <p>In der grösten Eil schikke ich unter Ihrer Ad.
+                    lieber Emanuelein Brief für unsern <persName key="JP-003652">Israel</persName>, welcher ihn hier verfehlt hat. Morgen früh
+                    reise ich nach <placeName key="JP-005812">Hamburg</placeName> – hätte ich es
+                    besser überlegt hätte ich <persName key="JP-003652">Israel</persName> gebeten mich abzuhollen wenn ich klug gethan
+                    hätte, denn ich habe mich in <placeName key="JP-005687">Dresden</placeName> um
+                    früh fertig zu werden bald tod gearbeitet. Ich schreibe mit einer umgekerten
+                    Feder in Eil daher so undeutlich – es steht aber viel Gutes und Liebes <hi rendition="#u" hand="#author">deutlich</hi> in meinem Herzen. </p>
+            <p>Die <persName key="JP-004393">Spazier</persName> bedauert <persName key="JP-003652">Israel</persName> verfehlt zu haben, ich
+                    glaube durch ein Versehn von ihrem Mädchen.</p>
+            <closer>
+               <salute>Ihre
+                        Freunde <persName key="JP-003652">Israel</persName>
+                        Grüße.</salute>
+               <signed>C Goldschmidt.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

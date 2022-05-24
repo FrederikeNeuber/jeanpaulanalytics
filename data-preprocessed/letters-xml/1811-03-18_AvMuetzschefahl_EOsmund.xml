@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0706">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Antonie von Mützschefahl an Emanuel. Meinigen, 18. und 21. März 1811, Montag und Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date from="1811-03-18" to="1811-03-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012533">Lektüre(n)</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#author">
+            <opener>
+               <dateline>Meiningen den 18<hi rendition="#uu" hand="#author">ten</hi> März 1811.</dateline>
+            </opener>
+            <p>Verzeihen Sie, guter Emanuel! daß ich meinen Dank für die freundlich zarten Worte
+                        Ihres lezten lieben Briefes so lange zurückhielt; allein ich wollte so
+                    gern Ihre Sorge  ob ich die jüngste
+                            Schrift von Schmid gelesen – mit Ja beantworten und doch
+                    lag auf allen deßhalb gegebenen Commissionen ein so
+                    eignes Mißgeschick, daß ich erst seit Vorgestern in den Stand gesezt worden bin,
+                    Ihnen etwas darüber zu sagen.</p>
+            <p>Ich kenne nur wenig Menschen von deren Nachsicht und wahrheitsliebender
+                    Zurechtweisung ich mein Urtheil als Belehrungs bitte äussern möchte; doch ist es
+                    mir dann allemal hohe Freude, wenn es so zuversichtlich wie bey Ihnen geschehen
+                    kann.</p>
+            <p>Den Eindruck, welchen <persName key="JP-012207">Schmid's</persName>
+                    Aeusseres auf mich machte, finde ich in seinem Buche bestätiget. – ich sah ihn nehmlich in <placeName key="JP-006427">Iferten</placeName> ohne ihn sprechen zu können – Er erschien mir kraftvoll, wahrheitsstrebend,
+                    einseitiggebildet, unerfahren, roh, und sein liebender Sinn irgendwo verletzt.
+                    Die beyden ersten Eigenschaften äussern sich mir so unverkennbar in dem <bibl sameAs="JP-009651" subtype="werk">vorliegenden Werk</bibl> als sich mir die
+                    letztern deutlich darin aussprechen.</p>
+            <p>Ich hoffe nehmlich daß <bibl sameAs="JP-009651" subtype="werk">das Werk</bibl> seine
+                        Existenz den beyden erstern verdanke, doch zeigt es
+                    von grosser Unerfahrenheit längst bekannte – doch bis jetzt im Allgemeinen
+                    unausführbare  Wahrheiten  in einem so unvortheilhaften
+                    Gewande – auf Schmid's Standpunkte, offentlich zu sagen, der ihn mir, nach
+                    meinem Gefühl, als undankbar charakterisirt. Rohheit und ein verletztes Herz
+                    offenbaren sich mir wenn er zulezt, der allgemeinen,
+                            unreifen Auslegung Ansichten anvertraut, die nur für das Forum des Freundes gehören, als unnatürlicher
+                            Sohn gegen einen Vater auftritt, dessen ehrgeizloses uneigennütziges
+                            Wesen, dessen Herz voll Liebe er nicht begreifen konnte und sich selbst
+                            dadurch ächtete. Nach meinem Gefühl hat sich <persName key="JP-012207">Schmid</persName> bittere Reue bereitet und ich wünsche
+                    von Herzen daß er bald enttäuscht werde, damit die Zeit nicht verrinne in
+                    welcher der Sohn den <persName key="JP-003192">Vater</persName> noch unter den
+                    Lebenden aufsuchen kann, und seine Reue ein gültiges Sühnopfer, in sich selbst,
+                    an der Brust des Vaters finde.</p>
+            <p>Ich fühle eben wie unbeholfen ich den Eindruck <bibl sameAs="JP-009651" subtype="werk">des genannten Buchs</bibl> wiederzugeben vermag. Doch als
+                    Zeuge meines Vertrauens zu Ihrer Nachsicht und Güte wage es seinen Platz zu
+                    behalten.</p>
+            <p>Unsere <persName key="JP-003469">Karoline</persName> hat mir einen gar lieben Brief geschrieben und ich darf Sie, guter Emanuel!
+                    wohl bitten die Antwort
+                    durch den Ueberbringer zum freundlichsten Dank zu reichen.</p>
+            <p>Innig theilen wir den Schmerz über die frühe Trennung
+                                <persName key="JP-000819">des sanften Dobeneks</persName> von den Seinen. Möge jener höhere Beystand, der das
+                    Unerträgliche  tragen hilft und da tröstet wo kein menschlicher Trost
+                    hinreichet, die Hinterlassenen stärken und namentlich den Schmerz <persName key="JP-000817">der Gattin</persName> lindern deren Loos ich unsäglich hart
+                    finde.</p>
+            <p>Alles was Sie in <placeName key="JP-006012">Meiningen</placeName> lieben ist
+                    heiter und so gesund als möglich. Die
+                            Geschwister sind bey dem schönen Wetter
+                    emsig mit ihren neuen
+                    Berganlagen
+                    beschäftigt, welche so nahe an der Stadt, wohl zu den reitzendsten Besitzungen
+                    gezählt werden dürfte. Das kleine Engelsgesichtchen <persName key="JP-003965">Reinhold</persName> spielt dort mit seinem jüngsten Schwesterchen <persName key="JP-012469">Antonie</persName> wie Berggenien. <persName key="JP-003971">Paulinchen</persName> ist ein fröhlich fleissiges sanftes Mädchen.
+                        <persName key="JP-003749">Amandens</persName> Rückkehr so wie die ganze Reise scheint ihre
+                    Ansichten erweitert und berichtiget zu haben. Alles liebt Sie und will Ihnen
+                    empfohlen seyn. Hoch erfreuen würden Sie uns mit der Hoffnung Ihres Besuchs.
+                    Können Bitten etwas zu diesem Ihrem Entschluß beytragen,  so moge Sie jeder heitere Tag, jede
+                    Frühlingsluft bittend ansprechen und Sie bewegen unsere Wünsche zu erfüllen.</p>
+            <closer>
+               <salute>Leben Sie wohl, lieber Emanuel! und schenken uns fern oder nahe Ihr
+                        liebendes Andenken</salute>
+               <signed>Antonie</signed>
+            </closer>
+         </div>
+         <div hand="#author">
+            <p>N S<anchor type="target" xml:id="start_lrs_q4w_n4b"/>Als ich den 19<hi rendition="#uu" hand="#author">ten</hi> an unsere gute <persName key="JP-003469">Caroline</persName>
+                    schreiben wollte um den Brief an diese, hier beyzulegen erhielt ich durch
+                        <persName key="JP-003964">Henriette</persName> die schmerzhafte Bestättigung
+                    einer mich schon lang quälenden Ahndung des Todes <persName key="JP-012570">meiner vorjüngsten Schwester Friedericke</persName>
+               <anchor type="target" xml:id="stop_lrs_q4w_n4b"/>, <anchor type="target" xml:id="start_orf_2h1_smb"/>welche mir 14 Tage vor
+                            ihrem Tode<ref type="letter" target="JP-UB0291">in einem, ihrem edlen Wesen entsprechenden
+                        Briefe</ref>, <persName key="JP-012930">ihre 3
+                                zurückgelassenen Kinder</persName> und die Pflege <persName key="JP-012187">des Vaters</persName> vermacht<anchor type="target" xml:id="stop_orf_2h1_smb"/> – wenn nehmlich meine Kräfte und mein Gefühl
+                    ihrem Vermächtniß entsprechen sollten –. <persName key="JP-012570">Friedericke</persName> starb in Wochen mit einer großen verborgnen
+                    Sehnsucht nach ihrem ältesten Kinde, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0291/#start_xvv_ljj_qmb">wie sie mich immer zu nennen
+                        pflegte</ref>, und bittet mich auf Flügeln <persName key="JP-012930">zu den
+                        mutterlosen Waisen</persName>zu eilen – – </p>
+            <p>Mehr als jehmals bedarf ich jezt treuer Freunde, da ich in <placeName key="JP-005622">Breslau</placeName>, alles vermisse was es mich sonst
+                    ertragen lehrte. Eltern und Geschwisterlos, stehe ich Verwaist unter den
+                    Menschen. – – </p>
+            <p>Gott wolle meinen Willen segnen! – – </p>
+            <p>
+               <anchor type="target" xml:id="start_mxg_fh1_smb"/>Uebermorgen als den
+                        23<hi rendition="#uu" hand="#author">ten</hi> März reise ich von hier ab.<anchor type="target" xml:id="stop_mxg_fh1_smb"/> Meine arme <persName key="JP-003964">Jettchen</persName> ist unbeschreiblich betrübt – – sie hatte sich so an
+                    das Bewustseyn mich froh zu machen gewöhnt daß ihr Herz jezt einen doppelten Verlust erleidet – – – </p>
+            <p>Lieber, guter Emanuel! wenn Sie können so kommen Sie zum
+                    Trost der trauernden Schwester</p>
+            <closer>
+               <signed>Ihrer treuen Freundin Antonie</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

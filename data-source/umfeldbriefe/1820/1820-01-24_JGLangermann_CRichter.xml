@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0039" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0039" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Johann Gottfried Langermann an Caroline Richter. Berlin, 24. Januar 1820,
@@ -19,10 +18,9 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                                <p>1
-                                    Bl. 8°, 1 S. </p>
-                        
-                                <accMat>Brief Langermanns an Jean Paul vom 23. Januar 1820. </accMat>
+                                <p>1 Bl. 4°, 1 S. </p>
+                                <accMat>Brief Langermanns an Jean Paul vom 23. Januar 1820.
+                                </accMat>
                             </physDesc>
                         </msDesc>
                     </witness>
@@ -49,6 +47,7 @@
                 </keywords>
                 <keywords scheme="#topics">
                     <term corresp="#JP-012728">Abschied</term>
+                    <term corresp="#JP-012048">Briefverkehr</term>
                 </keywords>
             </textClass>
         </profileDesc>

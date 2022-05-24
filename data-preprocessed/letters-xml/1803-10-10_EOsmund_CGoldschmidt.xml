@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0531">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 10. Oktober 1803, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1803-10-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012010">Judentum</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 10. Oct. 1803</dateline>
+            </opener>
+            <p>Car. Es ist doch gut, wenn man seine Leute, besonders
+                    seine Correspondenten kennet.  Was müßt ich mir ohne diese
+                    Person-Kenntniß bei Ihnen, v. Ihnen, v. Ihrem gut gemeintem, warmen, heißem
+                    Zanken denken?  Beinahe käme man in Versuchung wieder
+                    zankend zu antworten, wenn man nicht eine Fortsetzung des Briefs
+                    befürchten od. erwarten müßte.  Hätten S. so viel Güte,
+                    mein <hi rendition="#u" hand="#author">ewiges</hi> Schweigen gut
+                    aufzunehmen: warum haben S. sie nicht zum Theil auch b. meinem gewiß <hi rendition="#u" hand="#author">endlichen</hi> Nichtkommen?  Doch ich komme, wenn auch nicht in Ihrem Zanken, wenigstens
+                    in Ihrem Fragen u da das nicht viel besser ist, so will ich lieber antworten.
+                         Ab. der liebe Gott weiß, ob S. mehr wissen, was S.
+                    mich gefragt haben.</p>
+            <p>"Ja, ich frage zankend (ich will S. kopiren) wenn der Moment nicht unser ist, was
+                    gehört denn uns?"  Alles Übrige, ist meine Antw., Carol. Die <hi rendition="#u" hand="#author">laufende</hi> Zeit; die neben ihr <hi rendition="#u" hand="#author">stehende</hi> Ewigkt. gehört immer u ewig uns
+                    – nur der Moment nicht.</p>
+            <p>Das ist gerade die menschliche Auflösung des menschlichen Räthsels.</p>
+            <p>Kommen wir ein mal so weit, daß wir nicht wie jetzt Diener – sondern Herren des
+                    Moments werden: so u nur dann verdienen wir den Namen Herrn – mit demselben
+                    Rechte, als jezt den: Sclaven der Schöpfung.</p>
+            <p>S. fragen im Allgemeinen, ich hätte also nichts, als <hi rendition="#u" hand="#author">so</hi> zu antworten; allein ich muß S.
+                    versichern, daß <hi rendition="#u" hand="#author">ich</hi>
+               <hi rendition="#u" hand="#author">besonders</hi> so an manchem
+                    kleinen Umstand hänge, wie der Moment an der Zeit.</p>
+            <p>Viell. wollten S. mir zankend nicht so viel fragende Vorwürfe zu bereiten, als
+                    ich in Ruhe in Ihrer Frage finde.</p>
+            <p>Wollen S. also blos sagen, daß ich oft nicht Recht habe und dergleichen:
+                    so haben S. zwar Recht; ab. im Zanken üb. mich sollten S. nicht auch meinem <persName key="JP-004367">Uhlf</persName>. den
+                    Handschuh zu werfen, den ich so gerne f. ihn aufhebe.  S.
+                    kennen <persName key="JP-004367">Uhlf</persName>.,
+                        <persName key="JP-004180">seine Tochter</persName> u auch die herrliche <persName key="JP-000472">Braun</persName> nicht, sonst würden S. alles anders sehen u anders
+                            beurtheilen. <persName key="JP-004367">Uhlfelders</persName>
+               <persName key="JP-004180">Tochter</persName> weiß eben so viel v. Juden- als die
+                        <persName key="JP-000472">Br.</persName> v.
+                    Christenthum.</p>
+            <p>S. haben gewiß <hi rendition="#u" hand="#author">ganz</hi> Recht, in
+                    Allem was S. üb. die gebildeten (eigentl. <hi rendition="#u" hand="#author">eingebildeten</hi>) Juden u Christen sagen; das läßt sich aber
+                    auf <persName key="JP-004367">Uhlf</persName>. u <ref target="JP-UB0358/#nk2r_2fg_pmb">seine Kinder</ref> nicht anwenden.</p>
+            <p>
+               <persName key="JP-004367">Uhlf</persName>. ist – wenn man ihn b.
+                    seinem rechten Namen nennen will – ein <hi rendition="#u" hand="#author">Mensch</hi>.</p>
+            <p>
+               <ref target="JP-UB0358/#nk2r_2fg_pmb">Seine Kinder</ref> werden zu weiter
+                    nichts, als zu Menschen erzogen.</p>
+            <p>Er denkt nicht daran, <ref target="JP-UB0358/#nk2r_2fg_pmb">die Kinder</ref>
+                    auch nicht, in andern als in <hi rendition="#u" hand="#author">menschlichen</hi> Verhältnißen zu leben.  Traurig
+                    ists natürlich, daß es unter den Christen so wenig <hi rendition="#u" hand="#author">Menschen</hi> giebt, traurig ists, daß <persName key="JP-004367">Uhlf</persName>. f. <ref target="JP-UB0358/#nk2r_2fg_pmb">seine Kinder</ref> doch keine Aussicht
+                    hat, wenn er dem Kinde (dem Menschen) nicht einen andern Namen geben läßt;
+                    allein wie viele säen nicht mit Thränen, um mit Freude erndten zu können?</p>
+            <p>O, gute Car., dem armen Juden wird es sehr sauer
+                    gemacht, sein Besserwerden, sie sind wenige, die Auserwählten unter den
+                    Christen, die es ganz gut mit dem Menschen im Juden meinen; ab. wir wollen doch
+                    Gott danken, daß er <hi rendition="#u" hand="#author">uns</hi>
+                    einige von diesen Auserwählten gegeben u mit ihnen die Schwächen der Übrigen mit
+                    Kraft ertragen.</p>
+            <p>Caroline, ich verklage Sie bei Ihnen, üb. Ihre nicht
+                    ganz gerechte Klagen, über Ihre Lage.</p>
+            <p>
+               <ref target="JP-UB0149/#nnzl_rh3_qmb">Schwerlich werd' ich die gute <persName key="JP-002581">Mahlm.</persName> in <placeName key="JP-005649">Cobg.</placeName> sehen
+                        können.</ref>
+            </p>
+            <p>Sagen S. mir etwas mehr v. Ihrer Kunst d. i. v. Ihrer <placeName key="JP-006395">Weimarer</placeName> Arbeit:
+                    wie
+                    S. Ihre Bekannten in <placeName key="JP-006395">Weimar</placeName> wieder
+                    gefunden u. s. m., u. s. vieles.</p>
+            <closer>
+               <salute>Alles was S. hier durch mich kennet grüßt S. durch mich; ab. keiner noch
+                        inniger als ich.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

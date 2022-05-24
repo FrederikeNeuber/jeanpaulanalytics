@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0979">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 16. Februar 1813 (?),
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1813-02-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012778">Geschäftliches</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Über meine ökonomische Lage muß ich
+                    Ihnen auch sagen: das Schlimmste war nicht der Mangel aller Revenuen in Jahr und Monaten, als die beständige täuschende
+                    Verziehung. Die Armen waren selbst betrogen. Andere, so mir wenigstens die
+                    Wahrheit schuldig wären, raubten mir auch diese, und dies allein hat mir vielen
+                    Kummer gebracht. Ich habe zwar in diesem Jahr von einigen besonders
+                    Vortrefflichen etwas erhalten, welches zu Arbeiten verwendet, die sowohl ich als
+                    meine <persName key="JP-002004">Tochter</persName> besorgt; dies allein hat uns
+                    gerettet.</p>
+            <p>
+               <anchor type="target" xml:id="start_wgz_mnn_kpb"/>
+               <anchor type="target" xml:id="start_zxt_gdv_kpb"/>Viele Wohlhabende lassen bei mir arbeiten, unter
+                    denen selbst meine teure <persName key="JP-002625">Prinzeß Wilhelm</persName>
+                    und Prinzessin von Kurland.<anchor type="target" xml:id="stop_zxt_gdv_kpb"/> Da ich gerne die öftere Sorge neuer Wahl
+                    vermeiden möchte, lasse ich gerne von einer Art und Form mehrere Stücke arbeiten
+                    und bin auf diese Weise, um es
+                    mir vorteilhafter zu machen, mehreren wohlthätig. So wünschte ich auch an
+                    entfernte Orte versenden zu können. Wollen Sie mir auch erlauben, Ihnen zuweilen
+                    etwas zu schicken? Vielleicht machte selbst ein Kaufmann auf dergl.
+                    Bestellungen. Nichts ist sonderlich schön, vielleicht aber brauchbar. Ich gebe
+                    Ihnen immer die Preise an, wie ich es hier verkauft habe; Sie können es auch
+                    billiger geben.<anchor type="target" xml:id="stop_wgz_mnn_kpb"/> Denn mit
+                    solchen Dingen ist's wie mit Blättern, kein neues kann blühen, wenn das alte
+                    nicht vergangen ist. Ich erkenne es als eine unvergeßliche Wohlthat, wer sich in
+                    dieser Sache meiner und <persName key="JP-002010">meiner Kinder</persName>
+                    annimmt. Auch habe ich den Tadel recht gerne und die Anweisung, die, wie
+                    ungeschickt bin ich in allen – </p>
+            <p>schön könnten wir oft  den Abend meines Lebens beisammen
+                    weilen. Und wer Lust hat nach Berlin zu kommen, komme jetzo, wo der mächtige
+                    Geist am neuen Leben schaffen kann. Lebt wohl, lebt wohl! sendet bald Gesinnung
+                    und Freude Eurer</p>
+            <closer>
+               <signed>
+                  <hi rendition="#u" hand="#author">Charlotte</hi>.</signed>
+               <address>
+                  <addrLine>Berlin, <placeName key="JP-013307">Lindenstraße</placeName> 66</addrLine>
+               </address>
+               <dateline>d. 16. Febr.</dateline>
+            </closer>
+            <postscript>
+               <p>Die Borten sende ich den lieben <persName key="JP-003483">Kindern</persName>, <persName key="JP-003471">Emma</persName> wol am meisten. Liebe Mutter, erlauben Sie den lieben Wesen diese
+                        Bande! Es ist keine Zierde, aber mein Name werde ihnen damit bekannt.</p>
+               <p>Ich habe diese Façon gefunden, und vielerlei und mancherlei wird darin
+                        bestellt </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

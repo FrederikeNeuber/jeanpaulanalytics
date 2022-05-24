@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0283">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Antonie von Mützschefahl. Bayreuth, 14. August 1809, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1809-08-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 14 Aug. 9.</dateline>
+               <salute>Beste Antonie!</salute>
+            </opener>
+            <p>Ohne meine deutsche Hand sollen Sie das arme <placeName key="JP-005668">Deutschland</placeName> nicht verlassen und die
+                    freie <placeName key="JP-006271">Schweiz</placeName>
+                            betreten.</p>
+            <p>Wenn schon immer die <placeName key="JP-006271">Schweiz</placeName> nicht mehr so
+                    frei ist, wie sie's war; das alte Verhältniß zu uns ist ihr bei ihrem erlittenen Raub und bei dem
+                    unsrigen, dennoch geblieben.</p>
+            <p>Sie gehen zum Patriarchen <persName key="JP-003192">Pestalozzi</persName>, ich soll auch hin, mehrere meiner Freunde
+                    wollen es; aber die <hi rendition="#u" hand="#author">ge</hi>bietende Allmacht <hi rendition="#u" hand="#author">ver</hi>bietet es mir und ich will ihr gehorchen, weil ich muß.</p>
+            <p>
+               <anchor type="target" xml:id="start_isk_543_3mb"/>Meinen Freund <persName key="JP-004275">Thieriot</persName>, mit
+                    seiner Freundin E. H. werden Sie in <placeName key="JP-006427">Yverdon</placeName> finden
+                    und diese zwei, eben so eigene als edle Menschen, mit meinem Namen grüssen.<anchor type="target" xml:id="stop_isk_543_3mb"/>
+            </p>
+            <p>
+               <anchor type="target" xml:id="start_ucj_ddh_3mb"/>Mir sollen Sie – das wag' ich
+                    zu bitten, nicht – einen genauen Bericht  wie Sie über diese Anstalt
+                    denken, wie Sie sie gefunden haben werden, nicht schreiben; aber das wünscht'
+                    ich lesen zu dürfen, was Sie darüber für sich aufbewahren, auf dem Papier, und
+                    wieder schicken zu können.<anchor type="target" xml:id="stop_ucj_ddh_3mb"/>
+            </p>
+            <p>Ich habe Zutrauen zu Ihrem Blick, zu ihrem Ernst, zu Ihrem Willen und zu Ihrer
+                    Kraft.</p>
+            <p>Mir scheint diese Anstalt jetzt schon zu vielköpfig und dadurch zu vielseitig zu
+                    werden.</p>
+            <p>Der Schöpfer dieser natürlichen Idee kann sie nicht ausdrücken, noch weniger so
+                    ausführen, wie sie Gott in ihm werden ließ.</p>
+            <p>Er bedarf der Köpfe mehr zu Lehrern, weil deren als Zöglinge er zu viele hat und
+                    verliert dadurch seines Sinnes Einheit.</p>
+            <p>Guter Eltern Zucht, zieh' ich den besten <hi rendition="#u" hand="#author">An</hi>stalten die
+                    meistens den Zögling ver<hi rendition="#u" hand="#author">un</hi>stalten – weit vor: jenes ist <hi rendition="#u" hand="#author">Na</hi>- tur, dieses Kunst.</p>
+            <p>Wie schwer wird den guten Eltern diese Zucht, wie selten glückt sie ihnen und
+                    doch wollen Künstler dieß schwere Geschäft an Hunderten sich erleichtern?</p>
+            <p>Bewachet, ihr Eltern, das Aug, das Ohr und den Mund Eurer Kinder vor Bösem; ladet
+                    dem Kinde, d.h. dessen Kopf und Seele Unnöthiges nicht auf und ist der Knabe 15
+                    u das Mädchen 13 Jahr: so überlaßet den<hi rendition="#u" hand="#author">Menschen</hi> nun sich selber,
+                    seiner eignen Erziehung. Nur unsichtbar, wie Gott Euch,
+                    bewachet, beschützet und leitet das Unsehbare in eurer Menschenpflanze noch –
+                    bis sie selber und damit sie säe und pflanze wieder Gutes – in Gott. Bevor aber – das ist mein Glaube – die <hi rendition="#u" hand="#author">besten</hi> Anstalten dem Menschengeschlechte
+                    noch fehlen, ich meine die genaue Übereinstimmung des Willens zwischen Mann und
+                    Weib, zwischen Vater und  Mutter – so lange wird es mit dem Erziehen –
+                    bei aller Kunst – nicht weiter kommen, als es gekommen ist bei uns. Allein das Beste ist – das ist mein Trost – daß an des
+                    Menschen <hi rendition="#u" hand="#author">Zucht</hi> das Meiste
+                    gelegen und diese, selbst bei dem geringsten Stande – wenn auch <hi rendition="#u" hand="#author">gering</hi> – angewendet immer
+                    wird und an dessen <hi rendition="#u" hand="#author">Erziehung</hi>
+                    – von außen hinein – an sich weit weniger. Die so
+                    genannte, hochgepriesene Erziehung kann weder das Höchste <hi rendition="#u" hand="#author">herausziehen</hi>, noch deren Unterlassung es
+                    ersticken oder noch weniger vernichten.</p>
+            <p>Lasset dem kleinen, wie den großen Menschen <hi rendition="#u" hand="#author">Freiheit</hi> des Geistes und sie werden sich, schon
+                    erziehen.</p>
+            <p>"Laisses
+                                    nous faire"sagten die Kaufleute zu jenem franz.
+                            Minister, als er
+                    ihnen Verschläge zur Verbesserung des Handels abverlangte, u so können auch die
+                    Menschen zu ihren Erziehern sagen.</p>
+            <p>Gottes Segen sei die beständige Begleitung auf Ihrer Reise. <persName key="JP-003964">Der Schwester</persName> und <persName key="JP-003749">Amanden</persName> antwort' ich bald.</p>
+            <closer>
+               <salute>Heute grüß' ich sie u den <persName key="JP-003966">Schwager</persName>.</salute>
+               <signed>Ihr, Sie hochachtender Em.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

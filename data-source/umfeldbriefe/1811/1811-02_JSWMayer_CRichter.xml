@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0195" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0195" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, zwischen
@@ -19,7 +18,7 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                                <p>1 Dbl. 8°, 3 S.</p>
+                                <p>1 Dbl. 4°, 3 S.</p>
                                 <accMat> Nicht überlieferter Brief unbekannten Verfassers und
                                     Adressatens. </accMat>
                             </physDesc>
@@ -56,6 +55,7 @@
                     <term corresp="#JP-012538">Minna Spaziers Familienangelegenheiten</term>
                     <term corresp="#JP-012265">Geschlechterrollen</term>
                     <term corresp="#JP-012274">Hauswesen</term>
+                    <term corresp="#JP-013235">Minna Spaziers Erkrankung</term>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -105,10 +105,9 @@
                     Schrift Stellerey nicht eine bequemere Lage verschaffen kann, keiner eigenen <hi rendition="#aq">oeconomie</hi>, sondern bloß einer Aufwärterin bedürfe.</p>
                 <p>Nun, meine liebe <hi rendition="#aq">Caroline</hi>, tritt also der Fall ein, wo
                         <hi rendition="#aq">
-                        <persName key="JP-004393">Minna</persName>
-                    </hi>, wenn sie nicht zwischen leeren Wänden wohnen soll, auf Ostern ihre
-                    sämtliche Sachen hieher haben muß, und ich bitte Dich diß sowohl in Absicht der
-                        <hi rendition="#aq">
+                        <persName key="JP-004393">Minna</persName></hi>, wenn sie nicht zwischen
+                    leeren Wänden wohnen soll, auf Ostern ihre sämtliche Sachen hieher haben muß,
+                    und ich bitte Dich diß sowohl in Absicht der <hi rendition="#aq">
                         <placeName key="JP-005521">Altenburger</placeName>
                     </hi> als <hi rendition="#aq">
                         <placeName key="JP-005948">Leipziger</placeName>

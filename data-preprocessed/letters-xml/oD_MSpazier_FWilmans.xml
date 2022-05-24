@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0551">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Friedrich Wilmans. Ohne Ort, ohne Datum</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <date notBefore="1805-02-23" notAfter="1809-01-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004734">Friedrich Wilmans</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich erinnere Sie hierdurch an Ihr Versprechen mein lieber Willmans! Gestern und
+                    Vorgestern erwartete ich vergeblich Nachricht von Ihnen! Schicken Sie meinen
+                    Boten ja nicht leer zurück, und wenn es auch nur ein paar Louis d’or waren, die Sie vorläufig entbehren konnte. Adieu! ich bin
+                    noch immer unter Plattereien und Scheuerweibern, aber von Morgen an darf ich
+                    meine Freunde getrost zu mir einladen.</p>
+            <p>Dann ist der Wirwarr vorüber.</p>
+            <closer>
+               <signed>M. Spazier</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

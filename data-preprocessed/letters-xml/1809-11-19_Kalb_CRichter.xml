@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0914">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, im Herbst 1809</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1809-09-09" notAfter="1809-11-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012176">Jean Pauls Werke</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <anchor type="target" xml:id="start_znq_l15_3pb"/>Mein heutiges Schreiben enthält
+                    nur Anfrage nach einigen Briefen, die ich an Sie, meine theure Freundin,
+                    abgesendet habe. Ich weiß nicht ganz recht, ob es drei oder vier Briefe waren,
+                    die ich geschrieben, und wo ich keine Beweise habe, ob diese Ihnen sind
+                    eingehändiget worden. 1) <hi rendition="#u" hand="#author">Im Febr.</hi> meinen Dank für die
+                            überschickte Zahlung; 2) vielleicht nur einige Tage
+                    später die Beantwortung Ihres Briefchens, worin die <hi rendition="#u" hand="#author">Anfrage
+                                wegen <persName key="JP-001363">Herrn v.
+                            Goltz</persName>
+               </hi> war. Ob ich nun in diesen einen Brief nach <placeName key="JP-005994">Mannheim</placeName>
+                            an <persName key="JP-002513">Frau von Luk</persName> mit beigeschlossen
+                    habe oder noch in einen dritten Brief  ich nicht gewiß  gestern
+                    erhielt ich aber
+                                die Nachricht von meiner <persName key="JP-002513">Schwägerin</persName> aus <placeName key="JP-005994">Mannheim</placeName>, daß sie diesen Brief, worin noch ein Schreiben von meiner <persName key="JP-002004">Tochter</persName> an die verwittibte <persName key="JP-002623">Herzogin von Zweibrücken</persName> beilag, nicht erhalten hat. Dieses
+                    brachte mich auf die Vermutung, daß wohl mehrere Briefe könnten verloren
+                    sein.</p>
+            <p>Im Mai oder Juni, als ich von Ihren Eltern hörte, <persName key="JP-999999">Richter</persName> hätte
+                            durch die Sorgfalt des <persName key="JP-000742">Fürst-Primas</persName>
+                            eine jährliche Pension von der Akademie zu <placeName key="JP-005743">Frankfurt a. M.</placeName>, konnte ich ohnmöglich meine Anteil
+                            nehmende Freude verschweigen. Die Nachricht war mir bedeutend, es war das
+                    erste angenehme Ereignis, von welchem ich in langer Zeit hörte.<ref type="missingLetter" target="4-VI_13-fb">Der letzte Brief</ref>
+               <placeName key="JP-005574"> Bayreuth</placeName> gesandt
+                    war von  mit der Adresse: An Herrn <persName key="JP-999999">J. P. Richter</persName>, Legationsrat; dieses Blatt sollte
+                    auch nur <hi rendition="#u" hand="#author">allein</hi> von Ihrem
+                        <persName key="JP-999999">Gemahl</persName> gelesen werden; mein Wunsch
+                    erfüllt, oder meines Freundes Meinung hätte mich allein bestimmt – sein Wille,
+                    mein Gebot! Sollte dieser letzte Brief verloren sein,
+                            so gehört es zu meinem Schicksal; es bleibe, ich kann einen ähnlichen
+                            nicht wieder schreiben. So sind wahrscheinlich einige Briefe
+                    verloren, die unseres Lebens Bahn vielleicht eine andere Richtung hätten geben
+                        können.<anchor type="target" xml:id="stop_znq_l15_3pb"/>
+            </p>
+            <p>In diesen Tagen las ich <bibl sameAs="JP-010574" subtype="werke-jp">Katzenberger</bibl>. Wie sehr wohl gefiel mir "<bibl sameAs="JP-010984" subtype="werke-jp">Über Luthers Denkmal</bibl>", die Änderung <bibl sameAs="JP-010592" subtype="werke-jp">über C. Corday</bibl>. Lebe wohl – und
+                    ein besseres Los sei diesem
+                    beschieden als den früheren</p>
+            <closer>
+               <signed>Charlotte.</signed>
+               <dateline>Berlin, d Zimmerstraße</dateline>
+               <address>
+                  <addrLine>A Madame Madame
+                                Richter née Mayer à
+                            Beyreuth</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

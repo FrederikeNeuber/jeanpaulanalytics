@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0851">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 26. Februar 1805,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1805-02-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-012633">Grüße</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 21. Febr. 5.</dateline>
+            </opener>
+            <p>M. g. Caroline! Heute ist schon der 26<hi rendition="#u" hand="#author">te</hi>. So
+                    lange mußt' ich dieses Blatt so vor mir liegen lassen.</p>
+            <p>Wenn ich auch selbst schweigen kann: so kann ich mich doch noch nicht an das
+                    Ihrige gewöhnen u so machte ich mir Vorwürfe, eben über das ungewöhnliche
+                    Ihrige.</p>
+            <p>Wohl mir u Ihnen, daß Sie Arbeit schweigend machte.</p>
+            <p>Freilich ist die Anstrengung f. Ihre Augen zu stark; aber ich ziehe diese, bei
+                    der Arbeit, doch der beim Lesen weit vor.</p>
+            <p>Schonen S. nur dann Ihre Augen, wenn die Arbeit es zugiebt, so viel es Ihnen
+                        möglich ist.</p>
+            <p>Eben hab' ich einen Brf. v. meinen lieben
+                        Hamburger gehabt, der
+                    gesund ist.</p>
+            <p>Vor 8 Tagen klagt' ich ihm, daß ich lange keinen Brief v. Ihnen gehabt hätte.</p>
+            <p>An demselben Tag noch erhielt ich Ihren
+                            Brf. u
+                    auch einen v. ihm, in dem er mir den Empfang eines von Ihnen anzeigte.</p>
+            <p>Schon vorher schrieb er mir die traurige Lage Ihres
+                            lieben <persName key="JP-012485">Bruders</persName>.</p>
+            <p>Er wünschte, daß S. sich nicht so sehr darüber kränken möchten u leidet mehr bei
+                    Ihren Mitleiden, als mit dem Leidenden selbst.</p>
+            <p>In <placeName key="JP-005812">Hamburg</placeName>, sagt er, wiße man's gar nicht
+                    anders, als daß wöchentlich 4–5 dergleichen Fälle
+                    vorkämen.</p>
+            <p> Mich haben die Worte meines ehrliebenden <persName key="JP-003652">Bruders</persName> auch für Sie getröstet.</p>
+            <p>Hätt' ich doch auch Trost f. die gute <persName key="JP-003469">Car. R.</persName> Sie wissen es gewiß schon, daß die herrliche<persName key="JP-002581">Mahlmann</persName> nicht mehr ist.</p>
+            <p>Es würde mir weher thun, wenn ich Ihnen der Verkündiger dieser traurigen
+                    Nachricht seyn müßte.</p>
+            <p>Jetz seh' ich mich oft neben <persName key="JP-002581">ihr</persName> u Ihnen
+                    sitzen; ihr hab' ich Sie u
+                            alles was mir von Ihnen u durch Sie ward zu
+                            verdanken.</p>
+            <p>Wie gut ist die Vorsehung, daß sies nicht uns überläßt – welcher v. den Unsrigen
+                    uns vorerst vorangehen <hi rendition="#u" hand="#author">soll</hi> –
+                    da sies od. wir es doch <hi rendition="#u" hand="#author">müssen</hi>!</p>
+            <p>In 50 Jahren sind wir alle gewesen u 50 <hi rendition="#u" hand="#author">gewesene</hi> Jahre sind Nichts gewesen.</p>
+            <p>Ich beneide keinen der da <hi rendition="#u" hand="#author">war</hi>,
+                    aber auch keinen, der da <hi rendition="#u" hand="#author">ist</hi>.</p>
+            <p>Der arme <persName key="JP-002583">Mahlmann</persName>!</p>
+            <p>Aber der Herr ist gerecht, allgütig und wir wollen uns nicht nur in seinen Willen
+                    ergeben müssen – sondern ergeben <hi rendition="#u" hand="#author">wollen</hi>.</p>
+            <p> Wenn Sie Ihr Bekenntniß <persName key="JP-003227">Pik</persName>, mit meiner Feder geschrieben hätten, hätt' es wohl
+                    leicht nicht so gut, aber nicht richtiger seyn können.</p>
+            <p>Lesen Sie was ich Ihnen über ihn sagte, ehe er zu Ihnen
+                            kam: Sie werden finden, daß ich es längst wußte, wie
+                    wenig er die Sprache versteht, in der man ihm Eigenheiten nehmen will.</p>
+            <p>Doch ist es ein guter und wird – wie Sagen – gewiß ein nützlicher Mensch.</p>
+            <p>Für Ihren 2tenPik leg' ich Ihnen in meinem u meines <persName key="JP-004367">Uhlfelders</persName> Namen
+                    eine kleine Anweisung bei. (10 Pr Thl).</p>
+            <p>
+               <anchor type="target" xml:id="start_bwj_jbp_nnb"/>Mit meines <persName key="JP-004367">Us</persName> Bewilligung schick' ich Ihnen dessen Einladung im Original.<anchor type="target" xml:id="stop_bwj_jbp_nnb"/>
+            </p>
+            <p>Da Sie selbst dav. sprechen, hoffen wir viell. nicht vergebens Sie bald zu
+                    sehen.</p>
+            <p>Will die <persName key="JP-002007">Kalb</persName> – für deren Andenken ich
+                        herzlich danke u das ich mit Vergnügen erwiedere – etwas vom <persName key="JP-999999">Richter</persName>: so soll sie ihm schreiben.</p>
+            <p>Ich habe weder Ihren noch ihren Gruß <persName key="JP-003482">Richters</persName> ausgerichtet.</p>
+            <p>
+               <persName key="JP-003482">Richters</persName> erwiedern
+                    nie einen Gruß, besonders <persName key="JP-999999">er</persName>.  Ihnen Grüße abverlangen, das kann ich nicht; da hab' ich
+                    mich seit einiger  Zeit entschlossen, sie auch nicht mehr zu grüssen,
+                    v. dem, den sie nicht grüssen.</p>
+            <p>"Was Du willst, daß Dir Dein Nächster thun soll, das thu ihm auch."</p>
+            <p>
+               <persName key="JP-004275">Thieriot</persName> grüßt Sie, auch die <persName key="JP-012038">Ella</persName>.</p>
+            <p>Ein Gruß ist bei mir kein Kompliment, sondern ein heiliges Merkmal der Liebe und
+                    Freundschaft, es darf also nie gemißbraucht werden.</p>
+            <p>Der Himmel mög' Ihnen schon Ruhe gegeben haben u mir geben Sie bald die
+                    Versicherung, daß dieser mein reiner Wunsch in Erfüllung gegangen sei!</p>
+            <closer>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

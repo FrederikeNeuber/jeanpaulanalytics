@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0261">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 4. Dezember 1802, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-12-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 4ten Xmbr <hi rendition="#u" hand="#author">1802</hi>
+               </dateline>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_obt_s2y_cmb"/>Ich verweile so gern, bei dem
+                    schönen Traum, daß es für Seelen nicht der Annäherung des Körpers erst bedarf,
+                    um sich durch Harmonie verbunden zu fühlen, – ja! es giebt Augenblike wo ich
+                    mich zu Wesen hingezogen dencke, deren politische oder bürgerliche Existenz ich
+                    nicht weis und die mir im weiten Raum doch recht nahe zu seyn erscheinen – daß
+                    Sie mir, guter Emanuel, schon erlauben müßen, jenen auch für unsre nicht
+                    persönliche Bekanntschaft gelten zu laßen, und Sie aller Anhänglichkeit die dem
+                    Freunde gehört, zu begrüßen.<anchor type="target" xml:id="stop_obt_s2y_cmb"/>
+            </p>
+            <p>Ich war lange sehr kranck, und konnte Ihr Andencken nicht erwiedern welches mir einstmahl unsre Freundinn <persName key="JP-003469">Caroline</persName> hinterbrachte. Das Leben war mir
+                    da so düster, meine Freuden gestöhrt  jetzt aber bey wieder erlangter
+                    Gesundheit, wo alles neue Reitze für mich hat und jedes Gefühl stärker und
+                    inniger in mir spricht, jetzt dancke ich Ihnen herzlich.</p>
+            <p>Es that mir leid, Sie bey Ihrem Hierseyn verfehlt zu haben daß Sie im Sommer
+                        <placeName key="JP-005956">Liebenstein</placeName> nicht besuchten und daß
+                    auch der schöne Herbst Sie zu keiner Reise nach <placeName key="JP-006012">Meiningen</placeName> bewegen konnte. Nun
+                                <persName key="JP-999999">Richter</persName> nach <placeName key="JP-005649">Coburg</placeName> zieht.
+                    ist wohl alle Hoffnung verschwunden Sie hier zu sehen. <anchor type="target" xml:id="start_j32_g2y_cmb"/>Als ich mein Haus hier bezog, war es mir ein gar
+                    lieber Gedancke, Sie in demselben einmahl aufzunehmen, ich tändelte mit der
+                    Freude für Sie das freundlichste Zimmer einzurichten, jetzt steht es verwayset!
+                    Wird es so bleiben?<anchor type="target" xml:id="stop_j32_g2y_cmb"/> –</p>
+            <p>
+               <persName key="JP-999999">Richters</persName> Abreise schmerzt mich tief,  so wenig ich auch außer dem Zirckel der meinigen Zerstreuung suche
+                    und stilles inniges Glück mich im Besitz <persName key="JP-003966">meines
+                        Mannes</persName> und meiner guten
+                            Kinder umfaßt, so ist mir doch die Nähe eines
+                    Freundes wie <persName key="JP-999999">Richter</persName> – in der ich seit
+                    Jahren lebe – zum Bedürfniß geworden. Mein Verhältniß zu ihm auf Wahrheit und
+                    Vertrauen gegründet, kann mir, wenn Entfernung es beschränckt, durch nichts
+                    ersetzt werden; an seinen kräftigen Geist ermannte ich mich oft in Augenblicken,
+                    wo ich nur durch ihn ermuntert werden konnte und seine Unterhaltung war eine
+                    Nahrung für mein Herz die ich nirgends mehr finde; So war mir sein Umgang, und
+                    nun der von <persName key="JP-003469">Carolinen</persName> der <hi rendition="#u" hand="#author">Weiblichen</hi> wie viel verliere
+                    ich da nicht!</p>
+            <p>Ich darf nicht länger dran dencken  und daß ich klage können auch Sie
+                    der <hi rendition="#u" hand="#author">Freund</hi>
+               <persName key="JP-999999">des <hi rendition="#u" hand="#author">Freundes</hi>
+               </persName> nur annehmen, ohne es bey dem ersten
+                    Briefwechsel, nicht für unbescheiden zu halten.</p>
+            <p>Wenn Sie mich mit einer Antwort erfreuen, <anchor type="target" xml:id="start_yvm_k2y_cmb"/>so sagen Sie mir ob ich Ihnen wohl einmahl
+                    einigen Schmuck zur Ansicht schicken darf. Ich möchte ihn verkaufen, da ich aber
+                    hier keine Gelegenheit habe und mir auch niemand seinen ehrlichen Wert sagt, so
+                    wende ich mich an Sie, auf <hi rendition="#u" hand="#author">
+                  <persName key="JP-999999">Richters</persName> Geheiß</hi>.<anchor type="target" xml:id="stop_yvm_k2y_cmb"/>
+            </p>
+            <p>
+               <persName key="JP-003966">Mein Mann</persName> empfiehlt sich Ihnen mit Achtung
+                    und Liebe, Sie ließen einen so wohlthätigen Eindruck in seinem Herzen zurück,
+                    daß er mir recht oft von Ihnen spricht.</p>
+            <closer>
+               <salute>Leben Sie wohl, guter Emanuel meine Seele ist Ihnen nahe.</salute>
+               <signed>Henriette Schwendler</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

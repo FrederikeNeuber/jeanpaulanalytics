@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 22. August 1820,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1820-08-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin, d. 22. August.</dateline>
+               <salute>Teure Freundin!</salute>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_ejs_4mq_2qb"/> Nachdem ich in dieser Sache nach Geist und
+                    Gemüt meine Pflicht erfüllt habe, bin ich ganz beruhigt über den Erfolg dieser
+                    Sache und meiner
+                        Bemühungen.<anchor type="target" xml:id="stop_ejs_4mq_2qb"/> Wie oft hat der
+                    Baum viele Blüten und dennoch im Herbst keine Frucht. Gewiß, ein Wunder wäre es, wenn endlich nach so vielen Stürmen
+                            dieser Baum noch Früchte brächte.</p>
+            <p>Zu Ende dieses Jahres werde ich wohl mehr davon wissen. Ist <persName key="JP-999999">Jean Paul</persName> jetzo in
+                                <placeName key="JP-006040">München</placeName>? Ich kann nicht wohl lesen, was
+                    ich schreibe, so matt sind meine Augen, daher vergeben Sie mir meine
+                    Handschrift. Es war noch schlechter, doch Rosmarin-Spiritus scheint die Augen
+                    etwas zu stärken.</p>
+            <p>Ich habe erfahren, daß <persName key="JP-001639">Fr. v.
+                                Helwig</persName> jetzo in <placeName key="JP-005574">Bayreuth</placeName> wäre. Kommt sie noch bei guter Witterung nach
+                    Berlin, so gebe ich ihr ein Rendezvous im <placeName key="JP-011137">Tiergarten</placeName>, damit wir heimlich über so manches mit einander
+                    reden mögen. Ich bin nun noch mehrere Wochen allein in der Ihnen bekannten
+                    blauen Stube; nur selten und ungern verlasse ich diesen Tempel der Ruhe, des
+                    Schweigens und der <hi rendition="#u" hand="#author">Freudigkeit</hi> einer lebendigen Seele. Sie können denken, wie gleich-,
+                    wie weniggültig mir das meiste vorkommt. Auch das bewußte Geschäft in <placeName key="JP-006040">München</placeName>, welches mir wegen <persName key="JP-002010">meiner Kinder</persName> sehr von Bedeutung sein könnte,
+                    auch dafür erkenne ich mich gleichmütig. Vielleicht hat dieses eben beigetragen,
+                    daß ich desto schärfer habe aussprechen können.</p>
+            <p>Leben Sie wohl, meine teure, liebe Karoline! Mit Zeit, Gelegenheit und Umständen
+                    schreiben Sie mir auch bald wieder.</p>
+            <closer>
+               <signed>Ihre Charlotte K. M. v. O.</signed>
+               <dateline>Den 22. Oktober.</dateline>
+               <address>
+                  <addrLine>An Frau Legationsräthin Richter, geb. Mayer in
+                            Bayreuth.</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

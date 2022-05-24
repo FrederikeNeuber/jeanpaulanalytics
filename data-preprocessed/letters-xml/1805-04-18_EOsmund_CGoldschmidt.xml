@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0853">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 18. und 20. April 1805,
+                    Donnerstag und Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date from="1805-04-18" to="1805-04-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012010">Judentum</term>
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 18 Apr. 5.</dateline>
+            </opener>
+            <p>M. g. C.! Sie sollen, S. dürfen nicht wieder krank werden: weder in der
+                    Einbildung d. i., wie S. sagen, an der Seele, noch in der Wirklichkt, d. i. am
+                    Körper.</p>
+            <p>Ich habe bei nahe in 3 Wochen keinen Brf. v. <persName key="JP-003652">meinem
+                        Bruder</persName> in <placeName key="JP-005812">Hamburg</placeName>
+                    gehabt – so lange hat er mir noch nicht geschwiegen – auch <persName key="JP-000970">mein aelterer Bruder</persName> u kein Mensch hat hier
+                    Briefe v. ihm, das machet mich sehr unruhig, so daß ich es Ihnen klagen muß.</p>
+            <p>
+               <hi rendition="#u" hand="#author">Keine</hi> Briefe ist zwar
+                    auch <hi rendition="#u" hand="#author">keine</hi> schlimme
+                    Nachricht, denn diese kommen immer noch zeitlicher als man sie vermuthet; ab. so
+                    wahr diese Bemerkung ist, u so oft ich schon Menschen damit beruhiget habe; mich
+                    selbst kann ich nicht beruhigen.</p>
+            <p>Glauben S. mich nicht zu kleinlich, C.! in meiner Unruhe; ich bin Mann u bin auf
+                    Vieles stets vorbereitet; aber mein guter <persName key="JP-003652">Bruder</persName> hat keinen besseren Bruder, als seinen Emanuel u ich habe
+                    keinen besseren als meinen <persName key="JP-003652">Israel</persName>.</p>
+            <p>Hätt' ich Ihnen dieses alte Geständniß auch nicht wieder erneuert, S. würden doch
+                    wissen, daß ich Ihren Schmerz um Ihren lieben
+                                <persName key="JP-012485">Bruder</persName> doch fühle u theile.
+                         Wie lieb ist mirs, daß S. den reichen Juden
+                    ausweichen.  Auch nicht zu einem einzigen geh' ich mehr.
+                         Die unsrigen hier sind – wie alles in den kleinen
+                    Städten – wahrscheinlich noch verwerflicher, als die bei Ihnen.</p>
+            <p>Im Grunde bin ich aber weder mit den Juden  noch mit den Christen d. h.
+                    mit keinem Menschen ganz zufrieden, am aller wenigsten mit dem Unzufriedenen,
+                    der ich, wie S. sehen, selbst bin.</p>
+            <p>Aber mit dieser meiner Unzufriedenheit bin ich es u kann ich es seyn; denn ich
+                    liebe den armen Menschen, ich bedauere sie u entschuldige sie, wo mirs
+                        möglich ist im Einzelnen u im Allgemeinen.</p>
+            <p>Unsre Vernunft, unsre Begierde, unsre Leidenschaften, unser Kopf u unser Herz
+                    stehen uns beständig in so verschiedenem Lichte gegenüber, daß ich mich nicht zu
+                    trösten wüßte, wenn ich nicht die Gewißheit hätte, daß ein Wesen, das aus einem
+                    unbegreiflichen (zeitlichen) Nichts (Körper) u aus einem unbegreiflichen
+                    (ewigen) Etwas (Geist) zusammen gesetzt ist, gerade nur so u nicht anders seyn
+                    kann, viell. nicht anders seyn soll.   Nicht nur S. behaupten es, C., auch schon <persName key="JP-002585">Maimonides</persName>, <persName key="JP-001909">Jacobi</persName>
+                            u alle die etwas wissen, behaupten, daß der höchste Punct des Menschen
+                            Wissen darinn besteht, zu wissen, daß wir <hi rendition="#u" hand="#author">nichts wissen</hi>. </p>
+            <p>V. dieser Wahrheit überzeugen uns täglich die Wissenden u die
+                    Unwissenden.  Es wäre also Eitelkeit v. sich zu
+                    sagen: ich weiß, daß ich nichts weiß; aber es ist keine zu sagen: ich setze
+                    nicht den größten Werth aufs Wissen u ich darf es wissen, daß ich
+                        glücklich seyn könnte – wenn ich <hi rendition="#u" hand="#author">nur gut</hi> obgleich nicht vielwissend wäre.  Die Weisen, die Vielwisser lassen sich Alles hingehen,
+                    können daher jeden andern  Nichts hingehen lassen.</p>
+            <p>Ich nähre mich gerne v. meiner Hände und Kopfarbeit u bin wider den Wunsch einiger meiner gelehrtesten
+                    Freunde, zu einem Gelehrten verdorben.</p>
+            <p>
+               <anchor type="target" xml:id="start_nn2_p1v_nnb"/>Für diesen Sommer bin ich
+                    wieder ein thätiger Geschäftsmann auf dem Lande.</p>
+            <p>Mit meinem <persName key="JP-004367">Uhlfelder</persName> – der S. herzlich grüßet – hab' ich
+                    wieder ein Rittergut gekauft, das ich zerschlage.<anchor type="target" xml:id="stop_nn2_p1v_nnb"/> Bis Sie zu uns kommen, hoff' ich wieder zu Hause zu
+                    seyn.</p>
+         </div>
+         <div n="2">
+            <opener>
+               <dateline>Am 20<hi rendition="#u" hand="#author">sten</hi>
+               </dateline>
+            </opener>
+            <p>Vorgestern brach ich ab, in der Hofnung, gestern doch noch einen Brief
+                    v. m. <persName key="JP-003652">Isr</persName>. zu erhalten u Ihnen es sagen zu
+                    können.</p>
+            <p>Gottl! ich bekam einen guten Brief: er ist gesund u
+                    wohl!</p>
+            <closer>
+               <salute>Bleiben S. es auch stets, g. C., freuen S. sich mit mir u seyn S. stets
+                        froh!</salute>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

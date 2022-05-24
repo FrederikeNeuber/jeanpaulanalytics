@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0852">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Goldschmidt an Emanuel. Berlin, nach dem 26. Februar
+                    1805</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date from="1805-02-27" to="1805-04-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012633">Grüße</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p> Ich mache alle Anstalten im Frühling nach <placeName key="JP-005687">Dresden</placeName> zu gehen, wenn mein gutes Geschick mir
+                    günstig ist komme ich den ausgangs des Sommers nach <placeName key="JP-005574">Bayreuth</placeName> und danke dan annehmend recht herzlich dem guten
+                        <persName key="JP-004367">Uhlfelder</persName> für
+                        sein Anerbiethen. Noch kann ich nichts gewißes darüber bestimmen
+                    denn Sie wißen wir sind nicht immer Herr unseres Willens. Auf jeden Fall
+                    schreibe ich Ihnen noch wenn ich wie ich es wünsche Ende des Aprill nach Dresden
+                    gehe.</p>
+            <p>Ich sehe mit Freuden bald einen Brief von Ihnen entgegen.</p>
+            <closer>
+               <salute>Grüßen Sie alle Ihre Lieben, und behalten lieb Ihre</salute>
+               <signed>Caroline Goldschmidt</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

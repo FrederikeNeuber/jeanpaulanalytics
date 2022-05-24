@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="jp-umfeldbriefe_werkregister"
+     xml:id="werke_z">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Werkregister: Z</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Von JP-010147 bis JP-010161.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl n="Z">
+            <bibl xml:id="ed_lp5_fvv_wqb">
+               <author>Ziegler, Friedrich Julius Wilhelm (ca. 1759-1827), Schauspieler und
+                        Dramatiker</author>
+               <title>Das Incognito (Wien 1792)</title>
+            </bibl>
+            <bibl xml:id="JP-010147">
+               <author>Zach, Franz Xaver Freiherr von u. a. (Werk, Hrsg.)</author>
+               <title>Ephemeriden, Allgemeine geographische (1798-1816)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="99-31" corresp="VI_258"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="100-30" corresp="VII_256"/>
+                        <ptr type="letter" target="142-1" corresp="VII_316"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="318-24" corresp="VIII_592"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="4-18"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010148">
+               <author>Ziegler, Friedrich Julius Wilhelm (ca. 1759-1827), Schauspieler und
+                        Dramatiker</author>
+               <title>Lorbeerkranz (1799)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="68-14" ana="†"/>
+                     </linkGrp>
+                     <linkGrp n="III/2">
+                        <ptr type="letter" target="45-6" ana="†"/>
+                        <ptr type="letter" target="421-30" next="421-32" ana="†"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010149">
+               <author>Zimmermann, Eberhard August Wilhelm von (1741-1815), Geograph und
+                            Biologe</author>
+               <title>Geographische Geschichte des Menschen und der Tiere
+                            (1778-1783)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="206-17" ana="†" corresp="III_286"/>
+                        <ptr type="letter" target="323-22" corresp="III_449"/>
+                        <ptr type="letter" target="323-27" corresp="III_449"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-013543">
+               <author>Ziemietzki, Friedrich Wilhelm Moritz von (1788-1814), Student der
+                        Philosophie in Berlin</author>
+               <title>Das akademische Leben im Geiste der Wissenschaft. Eine freye Gabe an die
+                        Brüder und Genossen deutscher Universität (o. O. gedruckt in Oels,
+                        1812)</title>
+            </bibl>
+            <bibl xml:id="JP-010150">
+               <author>Zimmermann, Eberhard August Wilhelm von (1741-1815), Geograph und
+                            Biologe</author>
+               <title>Australien in Hinsicht der Erd-, Menschen- und Produktenkunde nebst
+                            einer allgemeinen Darstellung des großen Oceans, gewöhnlich das Südmeer
+                            genannt und einem Versuch über den Werth der seit Ansons Zeit darin
+                            gemachten Entdeckungen in Bezug auf den Handel und die Politik
+                            (1810)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="15-17"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010151">
+               <author>Zimmermann, Friedrich Gottlieb (1782-1835), Gymnasialprofessor in
+                        Hamburg</author>
+               <title>Aufsatz über Johannes von Müller (1809)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="79-22" ana="†" corresp="VI_211"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010152">
+               <author>Zimmermann, Johann Christoph Gottlieb (1788-1856), Philologe in
+                            Erlangen, 1813-1816 Gymnasialprofessor in Bayreuth</author>
+               <title>Vermischte Gedichte (1811)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="271-25" next="271-26"/>
+                        <ptr type="letter" target="272-6" next="272-10"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010153">
+               <author>Zimmermann, Johann Christoph Gottlieb (1788-1856), Philologe in
+                            Erlangen, 1813-1816 Gymnasialprofessor in Bayreuth</author>
+               <title>Idomeneus (ungedruckt?)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="272-14"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010154">
+               <author>Zimmermann, Johann Georg (1728-1795), Arzt und Schriftsteller</author>
+               <title>Ueber die Einsamkeit (1784-1785)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="126-18" next="126-19" ana="†"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010155">
+               <author>Zink, Friedrich Freiherr von (1753-1802), Jurist und
+                        Schriftsteller</author>
+               <title>An Herrn Schnetzler</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/2">
+                        <ptr type="letter" target="109-5" ana="†"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010156">
+               <author>Zoega, Giorgio (1755-1809), Altertumswissenschaftler</author>
+               <title>Li bassirilievi antichi di Roma. Incisi da Tommaso Piroli. Publicati in
+                        Roma da Pietro Piranesi (1808)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="395-6"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010157">
+               <author>Zopf, Johann Heinrich (1691-1774), Gymnasialdirektor in Essen</author>
+               <title>Grundlegung der Universalgeschichte (1729 u. ö.)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="153-22" ana="†" corresp="III_203"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010158">
+               <author>Zschokke, Heinrich (1771-1848), deutsch-schweizerischer
+                            Schriftsteller</author>
+               <title>Stunden der Andacht (1809-1816)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="103-9" ana="?" corresp="VII_261"/>
+                     </linkGrp>
+                     <linkGrp n="IX">
+                        <ptr subtype="korrigenda" target="46"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010159">
+               <author>Zschokke, Heinrich (1771-1848), deutsch-schweizerischer
+                            Schriftsteller</author>
+               <title>Abällino (1794)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr target="766-159" type="comment"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-011862">
+               <author>Zschokke, Heinrich (1771-1848), deutsch-schweizerischer
+                            Schriftsteller</author>
+               <title>Eine Selbstschau, 2 Bde. (Aarau: Sauerländer 1842)</title>
+            </bibl>
+            <bibl xml:id="JP-010160">
+               <author>Zschokke, Heinrich (1771-1848), deutsch-schweizerischer
+                            Schriftsteller (Werk, Hrsg.)</author>
+               <title>Miszellen der neuesten Weltkunde (1807-1813)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="V">
+                        <ptr type="letter" target="170-8" corresp="V_412"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr target="613-139" subtype="receivedLetter"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="227-32" next="227-33"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+            <bibl xml:id="JP-010161">
+               <author>Zschokke, Heinrich und August von Kotzebue u. a. (Werk, Hrsg.)</author>
+               <title>Erheiterungen (1811-1827)</title>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="296-33" ana="†" corresp="VI_685"/>
+                     </linkGrp>
+                     <linkGrp n="IX">
+                        <ptr target="26-16" corresp="IX_16" type="comment"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </bibl>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB1144" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB1144" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Vom Christian Freiherr Truchseß von Wetzhausen an Friedrich Mosengeil.
@@ -39,6 +38,9 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName key="JP-002882">Friedrich Mosengeil</persName>
+                </correspAction>
+                <correspAction type="read">
+                    <persName cert="high" key="JP-002186">Christian Ferdinand Könitz</persName>
                 </correspAction>
                 <note/>
                

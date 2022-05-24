@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0407">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 26. Juli 1814, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1814-07-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen am 26<hi rendition="#uu" hand="#author">sten</hi> July 1814</dateline>
+            </opener>
+            <p>Oh Gott, Emanuel, hätte es doch des schriftlichen Grußes nicht bedurft, hätte die
+                    treue Freundin, den edlen Freund ans Herz drüken können. Daß ich mich nach Euch,
+                    Ihr Herrlichen sehne bedarf keiner Betheuerung, aber tausend häusliche
+                    Verhältniße halten mich hier fest, ich sehe nicht ein wie ich es einmahl werde
+                    möglich machen können, zu Euch zu kommen.</p>
+            <p>Eine leise süße Hoffnung könnte ich jetzt wohl faßen nähmlich, daß Sie guter
+                    Emanuel Rombergs zurük begleiteten und dann einige
+                    Tage bey uns verweilten. Wie wollten wir uns freuen und Sie recht eigentlich auf
+                    den Händen tragen.</p>
+            <p>Alles nähere was mich angeht finden Sie in meinem
+                            Brief
+                    an <persName key="JP-003469">Caroline</persName>, meine Zeit als Hausmutter und
+                    Mutter ist immer so eingetheilt daß die wenigste mir davon gehört und darum kann
+                    ich nicht lange schreiben. Einen freundschaftlichen Auftrag habe ich noch für
+                    Sie. Vor einiger Zeit um Ostern herum war ein junger Mann bey uns der vorgab,
+                    von <placeName key="JP-005586">Berlin</placeName> zu sein und sich <persName key="JP-012411">Rohr</persName> nannte, er wollte
+                    nach der <placeName key="JP-006271">Schweiz</placeName> über <placeName key="JP-005574">Bayreuth</placeName> reisen. Als er hörte daß ich Bekannte
+                    dort hatte bat er mich um eine Adreße. Ich schrieb an
+                            die wakre <persName key="JP-003884">Henriette
+                            Schukmann</persName>, da <persName key="JP-012411">Herr
+                        von Rohr</persName> es besonders wünschte und mich
+                    versicherte er habe Aufträge von dem <persName key="JP-003878">Minister ihrem Bruder</persName> in <placeName key="JP-005574">Bayreuth</placeName>. Eine Antwort <persName key="JP-003884">der geliebten Freundin</persName> hatte ich zwar eigentlich nicht zu fordern da ich
+                    lange ihre Schuldnerin war, aber da sie ohne Frage, Gnade für Recht würde
+                        an mir geübt haben so denke ich meine
+                    Phisionomik hat mich nicht getrogen, Genannter <persName key="JP-012411">Herr von Rohr</persName> war ein avanturier und ist vielleicht nicht nach <placeName key="JP-005574">Bayreuth</placeName> gekommen und darum habe ich keine
+                    Antwort von ihr erhalten. Bringen Sie der treflichen einen warmen Gruß von
+                    mir.</p>
+            <p>
+               <persName key="JP-003966">Schwendler</persName> grüßt Sie mit alter Liebe das
+                    nächste mahl liest <persName key="JP-003469">Caroline</persName>bey Ihnen wie esmir ergeht, jetzt lesen Sie bey ihr und entschuldigen meine Kürze. Ewig und
+                    immer</p>
+            <closer>
+               <signed>Ihre treue Freundinn Henriette.</signed>
+            </closer>
+            <postscript>
+               <p>|3| <persName key="JP-003749">Amanda</persName> und <persName key="JP-003971">Pauline</persName> grüßen
+                        tausendmahl</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

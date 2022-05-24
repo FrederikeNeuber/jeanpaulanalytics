@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0590">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Goldschmidt an Emanuel. Berlin, vor dem 28. Dezember
+                    1801</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1801-10-28" notAfter="1801-12-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012633">Grüße</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p> finde. Ich habe manche Stelle ausgeschrieben, manche Stelle
+                    gezeichnet – in der glücklichen Voraussetzung, <hi rendition="#u" hand="#author">daß</hi> ich sie mit Ihnen noch ein Mahl zusammen lese. </p>
+            <p>Ich bin schon drei Wochen in <placeName key="JP-005586">Berlin</placeName>, habe
+                    schon alle meine Freunde und Bekannte gesehen – meine Geschäfte fortgesetzt –
+                        recht beruhigende rührende Brieffe von meinem sehr
+                    braven <persName key="JP-012947">Vater</persName>, u guten <persName key="JP-012866">Schwestern</persName> gehabt. Habe recht oft an
+                    Sie gedacht, und bitte Sie jezt mir recht bald zu sagen daß Sie wohl sind. </p>
+            <closer>
+               <salute>grüßen Sie recht sehr an <persName key="JP-003652">Ihren
+                            Bruder</persName> den ich kenne – an <persName key="JP-003556">ihre
+                            Mutter</persName> obgleich ich Sie nicht kenne – denn Sie sprachen mit
+                            Enthusiasmus von ihr.</salute>
+               <signed>C. Goldschmidt</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

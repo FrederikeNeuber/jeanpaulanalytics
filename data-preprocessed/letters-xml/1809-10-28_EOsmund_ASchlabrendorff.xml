@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0477">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Amanda Schlabrendorff. Bayreuth, 28. Oktober 1809, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1809-10-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003749">Amanda Schlabrendorff</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. den 28 Oct. 9.</dateline>
+            </opener>
+            <p>Amanda! Ganz ohne Vorsatz nennt man seine Lieblinge
+                    gerade am vollsten und so will ich auch Sie bei Ihrem von selbst Liebe
+                    aussprechenden Namen anreden.</p>
+            <p>Nach meiner Gewohnheit liegen die Briefe, die ich beantworte, gerade vor mir, so
+                    wie jetzt <ref type="letter" target="JP-UB0647">der Ihrige</ref>, der mir
+                        ordentlich zur Vorschrift dienet. Ich bitte
+                    Sie, Amanda um mehr Vorschriften. Sie würden vielleicht noch einen Gut- und Schönschreiber, in meinen alten
+                    Tagen aus mir machen können. Recht viel Freude haben Sie
+                    mir in Ihrem lieben Briefchen gegeben u besonders <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0647/#start_vrb_x1x_2mb">in der
+                        Versicherung, daß Sie alle mich lieb haben</ref>, weil ich Sie für ganz
+                    aufrichtig und ehrlich halte.</p>
+            <p>Warum sollten Sie mich, der ich mein einziges Glück in der Liebe guter Menschen
+                    sehe, täuschen wollen?  Nein, Amanda kann das
+                    nicht und wird es nie <hi rendition="#u" hand="#author">können</hi>
+                    u Gott wolle auch nie <hi rendition="#u" hand="#author">kennen</hi>
+                    lernen.</p>
+            <p>Meinen Frühling hab' ich heuer, das wissen Sie, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0647/#start_z5c_cbx_2mb">auf dem Lande
+                        zum Theil verlebt</ref>; der Zufall führte mich vor einigen Wochen auf den
+                        <placeName key="JP-011681">Münster von Strasburg</placeName> Amanda, jeder Alleingenuß ist mir Kleingenuß. Wohl dacht' ich mir meine Freunde um mich herum, und sah an ihrer Seite von
+                    diesem <placeName key="JP-011681">göttlichen Tempel</placeName> herunter;
+                    allein es fehlte mir die Wirklichkeit und es fehlte mir viel indem ich viel
+                        genoß. Ich möchte nichts halb, nichts allein, was
+                    mittheilbar ist auf dieser Erde. Das Beste gebe man mir,
+                    nur halb genieß' ich es, wenn nicht <hi rendition="#u" hand="#author">auch</hi> geben, oder nicht mittheilen ich darf. Selbst Ihre kindliche Liebe und diese am allerwenigsten, mag ich unerwiedert
+                    nicht verdienen, nicht lassen.</p>
+            <p>Noch lieber komm' ich der ausgezeichneten Zeichnerin,
+                            als der Zeichnerei wegen nach Meiningen; aber ich weiß auch diese zu
+                    schätzen u hole sie, wenn es dem Himmel gefällig ist, im Jahr 1810.</p>
+            <p>Heute sag' ich für die doppelte "Bitte" und für die Zeichnung einstweilen recht
+                    herzlichen Dank.</p>
+            <p>Nichts störe Ihren Morgen des Lebens; meine Wünsche für Ihr Wohl werden nie im
+                    Widerspruch mit Ihren Verdiensten seyn und Sie, wie diese, stets begleiten.</p>
+            <closer>
+               <signed>Em.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

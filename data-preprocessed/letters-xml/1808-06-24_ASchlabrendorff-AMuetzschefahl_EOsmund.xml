@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Amanda Schlabrendorff und Antonie von Mützschefahl an Emanuel. Bayreuth, 24. Juni 1808, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003749">Amanda Schlabrendorff</persName>
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1808-06-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-003749">
+            <p>Ihr ganzes Leben sey für Sie, so froh, so heiter, als
+                            uns der heutige Tag macht, der Sie uns gab! – – –</p>
+            <closer>
+               <signed>Amanda.</signed>
+            </closer>
+         </div>
+         <div hand="#JP-002936">
+            <p>An dem Festtage Aller die <hi rendition="#u" hand="#author">Sie</hi>
+                    kennen wage ich den sonst stillen aber immer innigen Wunsch auszusprechen:</p>
+            <p>Möge immer der Freude Genius Sie umschweben, und keine Wolke den Himmel Ihres
+                    Herzens trüben! – –</p>
+            <closer>Antonie</closer>
+         </div>
+         <div hand="#addressee">
+            <p>
+               <ref type="letter"
+                    subtype="text"
+                    target="3-III_412"
+                    corresp="#301-18">"Es ist
+                        die stumpfeste Unkunde des heiligen Geistes der Liebe – der die einzige
+                        Aussöhnung mit dem platten dürren Erdenleben ist, – die ewigen Refrains der
+                        Versicherungen in Briefen der Liebe zu tadeln. Die Worte der Liebe sind
+                        Werke der Liebe: sie sind nicht Schälle sondern Töne, und die alten Töne
+                        führen immer die alten Wellen wieder zu. –"</ref>
+            </p>
+            <p>Richter an Jacobi 3ten März 1800.</p>
+            <p>Im 60ten Band v. ersten Werke
+                            S. 36.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

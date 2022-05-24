@@ -7,7 +7,7 @@
     <xsl:template match="/">
         
         <xsl:variable name="input-cleaned" select="replace($INPUT_DIR, '\\', '/')" as="xs:string"/>
-        <xsl:variable name="output-cleaned" select="replace($input-cleaned, 'data-preprocessed/letters-ling', 'data-preprocessed/')" as="xs:string"/>
+        <xsl:variable name="output-cleaned" select="replace($input-cleaned, 'data-preprocessed/letters-xml', 'data-preprocessed/')" as="xs:string"/>
         
         <xsl:variable name="input-dir-uri" select="'file:///' || $input-cleaned || '?recurse=yes;select=*.xml'" as="xs:string"/>
         
@@ -19,7 +19,7 @@
             <xsl:variable name="cur-doc" select="." as="document-node()"/>
             <xsl:variable name="basename" as="xs:string" select="string(base-uri($cur-doc))"/>
             <xsl:variable name="output-uri"
-                select="replace($basename, 'letters-ling/(.+?)\.xml', 'letters-plain/$1.txt')"/>
+                select="replace($basename, 'letters-xml/(.+?)\.xml', 'letters-plain/$1.txt')"/>
             <xsl:result-document href="{$output-uri}" method="text" indent="no" media-type="text">
                 <xsl:apply-templates select="//@word"/>
             </xsl:result-document>

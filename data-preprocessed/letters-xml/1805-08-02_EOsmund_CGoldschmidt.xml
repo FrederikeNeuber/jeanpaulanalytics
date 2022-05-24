@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0858">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 2. August 1805, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1805-08-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-012265">Geschlechterrollen</term>
+               <term xml:id="JP-012692">Bildung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 2 Aug. 5.</dateline>
+            </opener>
+            <p>Meine gute Car.! <anchor type="target" xml:id="start_t4x_4ld_4nb"/>Da sitz' ich nun schon vier Monate reisefertig u
+                    noch giebt mir die Rgg. nicht nur keinen Geschäfts- auch keinen
+                        Lustreisepaß.<anchor type="target" xml:id="stop_t4x_4ld_4nb"/>
+            </p>
+            <p>V. dieser hänget nämlich meine Reise ab u bevor ich diese Geschäftsreise, wenn auch nicht
+                    geendiget – doch wenigstens angetreten habe, kann ich an keine andere
+                    denken.</p>
+            <p>Arbeit – auch wenn sie – wie gewöhnlich die meinige – mit
+                    Unannehmlichkeit gemischt wird, ist mir Lust u nöthig; ich bleibe also ruhig,
+                    wenn mir der Himmel meinen dreifachen Reiseplan vereiteln wollte.</p>
+            <p>
+               <anchor type="target" xml:id="start_m13_sqc_4qb"/>Ich wollte in diesem Sommer –
+                    nach gethaner Arbeit – nach <placeName key="JP-005687">Dresden</placeName>, nach
+                        <placeName key="JP-006179">Regensburg</placeName> u nach <placeName key="JP-006099">Offenbach</placeName> wallfahrten u muß nun erwarten – was
+                    mir dav. werden soll.</p>
+            <p>Vielleicht kann ich in der nächsten Woche reisen u Ihnen dieses heute noch
+                        sagen.<anchor type="target" xml:id="stop_m13_sqc_4qb"/>
+            </p>
+            <p>Ich kann nicht. </p>
+            <p> Selbst gewählte Abhängigkeit ist, halbe Freiheit. Ihre Reisegefährtin wird nun auch wieder gesund seyn.</p>
+            <p>
+               <anchor type="target" xml:id="start_ngf_n2d_4qb"/>Man hat mir schon sehr viel
+                    Gutes v. der  erzählt; als ich damals  v. <placeName key="JP-005948">Leipzig</placeName> aus
+                    nach <placeName key="JP-005586">Berlin</placeName> reisen wollte, empfahl mich
+                        <persName key="JP-999999">Richter</persName>
+                    ihr.</p>
+            <p>Die Empfehlung hat sie erhalten, aber den Empfohlnen noch nicht.</p>
+            <p>
+               <persName key="JP-001909">Jacobi</persName>, der erst
+                                kürzlich in <placeName key="JP-005586">Berl</placeName>.
+                            war, lobte sie sehr u zog sie der <hi rendition="#u" hand="#author">
+                  <persName key="JP-002007">Kalb</persName>
+               </hi> weit
+                            vor; <persName key="JP-999999">Richter</persName> giebt der <hi rendition="#u" hand="#author">
+                  <persName key="JP-002007">Kalb</persName>
+               </hi> den Vorzug.</p>
+            <p>Da <persName key="JP-999999">R</persName>. beide näher u
+                    länger kennet: so trau' ich seinem Urtheil mehr Richtigkeit zu.</p>
+            <p>Es ist ein vielwissendes; aber kein gelehrtes Weib.  Eigentlich muß sie – wenn man sie nur kurz siehet, sehr viel für
+                    sich haben u bei längerem Umgang mag sie doch immer viel Gutes behalten u viel
+                        Vorzüge.<anchor type="target" xml:id="stop_ngf_n2d_4qb"/>
+            </p>
+            <p>Jeder Gelehrte hat seinen eignen Blick für Menschen, besonders für Frauen.</p>
+            <p>Man kan zwar sagen, daß ihn jeder Mensch hat, aber nicht so <hi rendition="#u" hand="#author">scharf</hi> u nicht so weit.</p>
+            <p>Der Gelehrte sieht Alles mit einem gelehrten  – oft unnatürlichem –
+                    Auge – sich u andere u daher passet er selten in die natürliche Welt u diese
+                    selten für ihn.</p>
+            <p>Ich glaube, daß es zwei Ursachen giebt, die den Gelehrten, nicht auch immer den
+                    Edlen, den Würdigen, den Menschen seyn lassen.</p>
+            <p>Erstens, glauben die Menschen schon genug zu <hi rendition="#u" hand="#author">thun</hi>, wenn sie nur viel wissen, wenn sie nur gelehrt <hi rendition="#u" hand="#author">sind</hi> u dieses, zweitens, <hi rendition="#u" hand="#author">sind</hi> sie mehr u oefter aus
+                        <hi rendition="#u" hand="#author">Neid</hi>, als aus <hi rendition="#u" hand="#author">Lust</hi>.</p>
+            <p>Wären die Gelehrten nur halb so böse, als sie eigen sind, es würde ihr wissen
+                    auch mehr schaden als nützen.</p>
+            <p>Aber wer, welcher Laie sollte nicht mit edlen, eignen, ausgezeichneten Menschen
+                    lieber leben, als mit dem rohen Haufen?</p>
+            <p>Und sind diese Edlen auch noch Gelehrte: so mögen sie <hi rendition="#u" hand="#author">sich selbst</hi> am meisten schaden, wenn sie zu
+                    viele Eigenheiten haben; ihr Umgang gehörig angewendet – muß immer v. großem
+                    Nutzen seyn.</p>
+            <p>Viell. glaubten S. nicht, daß mich die wenigen Worte, die S. mir üb. die
+                        <persName key="JP-001728">Pr. H.</persName> sagten, so viel sprechen machen
+                    würden. </p>
+            <p> Mündlich ließ sich dennoch mehr u deutlicher dav. sprechen u
+                    das soll geschehen – wenn es mir möglich ist.</p>
+            <p>Meinem <persName key="JP-003652">Isr</persName>. hab'
+                    ich seinen Gruß ganz – wie S. mir ihn geschrieben, geschickt.</p>
+            <p>Ich hoffe daß er Ihnen keine Antw. mehr schuldig seyn wird, wenigstens keine
+                    alte.</p>
+            <p>Was heißt Mittelstand, gute Car.?</p>
+            <p>Steht nicht jeder Genügsame auf ihm?</p>
+            <p>Siehet <hi rendition="#u" hand="#author">dieser</hi> nicht Menschen,
+                    die weniger u Menschen, die mehr haben, als er?</p>
+            <p>Kann nicht jeder, der das siehet, zwischen Demuth u – entfernt v. – Übermuth
+                    leben?</p>
+            <p>Könnt' ich doch bald auch darüber mit Ihnen reden.  Meine
+                    Addresse bleibt noch: <placeName key="JP-005574">Bayreuth</placeName>, wenn ich
+                    auch nicht darinn seyn sollte.  All die Meingen – die
+                    meiner Seele angehören – grüßen Sie; deutlich und ausdrücklich<persName key="JP-004367">Uhlf</persName>. u seine <persName key="JP-012038">Ella</persName>, so
+                        herzlich nicht gar, als ich mich nenne u Ihnen  aDieu sage.</p>
+            <closer>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0034">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Unbekannt. Ohne Ort, 3. Januar 1803,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <date when="1803-01-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004373">Unbekannte Korrespondent/innen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012314">Empfehlungen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich bin Ihnen für den Wink sehr verbunden, ohnerachtet ich gewiß ohnehin Alles
+                    unterdrückt haben würde, was irgend von Jemandem aus kleinlicher Rachsucht gegen
+                        <persName key="JP-000400">Herrn B.</persName> hätte gesagt werden
+                    mögen. Ich schätze diesen Mann, wenn ich gleich selbst einige
+                    Plänkeleien
+                    mit ihm auf <hi rendition="#u" hand="#author">seine
+                        Veranlassung</hi> vorgehabt habe. Man kann nicht läugnen,
+                    daß er hundert Mal humaner ist, als Mancher der den Mund von Humanität voll
+                    nimmt, u überhaupt meines Wissens sich nie bösartig – schwach vielleicht
+                    zuweilen – gezeigt hat.  Sie würden mich verbinden, wenn Sie ihm, ohne
+                    auf mich den Schein der Zudringlichkeit fallen zu laßen, dies zu verstehen gäben
+                    u ihm unverhohlen ließen, daß ich recht gern wieder mit ihm auf einem bessern
+                    Fuß stehen möchte.</p>
+            <p>Aber bey dieser Gelegenheit wünschte ich, Sie sagten ihm, daß ich bestimmt wissen
+                    möchte, ja möglicher Umstände wegen es <hi rendition="#u" hand="#author">wissen müsste</hi>: ob Er (es läßt sich eigentlich gar nicht von
+                        <persName key="JP-000400">Böttiger</persName> dem <hi rendition="#u" hand="#author">Gelehrten</hi> denken, aber es ist doch gesagt u
+                    geschrieben worden)
+                    dem <persName key="JP-002228">Herrn v. Kotezbue</persName> den lächerlich unrichtigen Bericht aus <persName key="JP-001693">Herrmanns</persName>
+               <bibl sameAs="JP-011894" subtype="werk">Metrik</bibl>suppeditirt, der, wie Sie wissen zur
+                    Sprache kam u den ich aus Achtung für mein gegebenes Wort auf meine Hörner nahm.
+                    Mir war damals <persName key="JP-002228">Kotzebues</persName> Autorität der doch
+                    wohl mit seinem Handwerke bekannt seyn mußte, hinlänglich, um keinen Zweifel
+                    gegen die Ächtheit der Sache zu haben; aber ich habe es von <persName key="JP-002228">K.</persName> schriftlich, so wie er es mir auch noch
+                    mündlich wiederholt hat,<persName key="JP-000400"> Herr Böttiger</persName> habe
+                    ihm die ganzen Data dazu angegeben. </p>
+            <p> Da sich Alles dazu anläßt, daß ich über kurz oder lang mit dem
+                        <persName key="JP-002228">Herrn v K.</persName> einen Tanz haben
+                    werde, so muß ich dies vorgegebene Factum, das zum
+                    Nachtheil der Ehre Ihres Freundes mit einem Dokument belegt werden kann, ans
+                    Licht gestellt haben. Ich werde sehen, was <persName key="JP-000400">Herr B.</persName> vorziehen wird: privatim dies berichtigen oder dereinst vielleicht öffentlich. Auf
+                    jeden Fall führt hier nur offene Geradheit auf den rechten Punkt. </p>
+            <p/>
+            <closer>
+               <signed>Ihr erbster
+                            Spazier</signed>
+               <dateline>d. 3ten Jan. 1803.</dateline>
+            </closer>
+            <postscript>
+               <p> Ich schließe jenem, allenfals vorzeigbaren Schreiben, noch ein
+                        besonderes Gesuch bey.</p>
+               <p>Der Dir. Beck in <placeName key="JP-005994">Manheim</placeName>, der mir sagt, daß er mit <persName key="JP-001693">Hermann</persName> in Unterhandlung
+                        stehe, wünscht ein <hi rendition="#u" hand="#author">reifes</hi> Urtheil über diese Leute zuvor noch zu kennen,
+                        ehe er abschließt. Sie waren einmal so gütig, sich auf C. u O. einzulaßen, u
+                        ich bin überzeugt, daß dies Ihr zum Grund gelegtes Urtheil den Ruf des
+                        letzteren bestimmt haben mag. Ich bitte also auch in diesem Falle darum, da
+                        ich dieses Paar durchaus gar nicht kenne. Aber bald, wünsche ich! </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

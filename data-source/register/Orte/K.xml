@@ -1,0 +1,1307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="jp-umfeldbriefe_ortsregister" xml:id="orte_a">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ortsregister: K</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Von JP-005883 bis JP-005931.</p>
+         </publicationStmt>
+            <sourceDesc>
+                <p>Information</p>
+            </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace n="K">
+            <place xml:id="JP-005883">
+               <idno type="uri">http://www.geonames.org/2894247</idno>
+               <placeName type="reg">Kahla <add>(Kahle)</add>, Thüringen</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="201-10" corresp="II_325"/>
+                     </linkGrp>
+                     <linkGrp n="III">
+                        <ptr type="letter" target="195-10" corresp="III_267"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="comment" target="387-79"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="ed_mmr_wzs_vqb">
+               <idno type="uri">https://www.geonames.org/2894071</idno>
+               <placeName type="reg">Kainach bei Hollfeld</placeName>
+            </place>
+            <place xml:id="JP-005884">
+               <idno type="uri">http://www.geonames.org/2893884</idno>
+               <placeName type="reg">Kalbsrieth, Sachsen-Anhalt</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="340-23" corresp="II_634"/>
+                     </linkGrp>
+                     <linkGrp n="III">
+                        <ptr type="letter" target="91-36" corresp="III_125"/>
+                        <ptr type="letter" target="160-9" corresp="III_217"/>
+                        <ptr type="letter" target="163-2" corresp="III_220"/>
+                        <ptr type="letter" target="186-1" corresp="III_255"/>
+                        <ptr type="comment" target="403-63" corresp="III_63"/>
+                        <ptr type="comment" target="455-251" corresp="III_251"/>
+                        <ptr subtype="receivedLetter" target="553-185"/>
+                        <ptr subtype="receivedLetter" target="553-187"/>
+                        <ptr subtype="receivedLetter" target="555-208"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="2-19"/>
+                        <ptr type="letter" target="3-5" ana="†"/>
+                        <ptr type="letter" target="25-14" ana="†"/>
+                        <ptr type="letter" target="49-7"/>
+                        <ptr type="letter" target="58-29"/>
+                        <ptr type="letter" target="74-31"/>
+                        <ptr type="letter" target="303-16" ana="†"/>
+                        <ptr type="letter" target="309-6" ana="†"/>
+                        <ptr type="letter" target="309-31" ana="†"/>
+                        <ptr type="letter" target="334-11"/>
+                        <ptr type="letter" target="334-22"/>
+                        <ptr type="letter" target="336-20" next="336-21" ana="†"/>
+                        <ptr type="letter" target="339-19" ana="†"/>
+                        <ptr type="comment" target="386-77"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="39-10"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-012311">
+               <placeName type="reg">Kalisch</placeName>
+               <note>Südpreußen</note>
+            </place>
+            <place xml:id="JP-005885">
+               <idno type="uri">https://www.geonames.org/3096795</idno>
+               <placeName type="reg">Kamenz in Niederschlesien</placeName>
+               <listPlace>
+                  <place xml:id="JP-011471" corresp="JP-005885">
+                     <placeName type="reg">Zisterzienserkloster</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt4">
+                           <linkGrp n="VI">
+                              <ptr type="letter" target="216-16"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005886">
+               <placeName type="reg">Kampaner Tal <add>(Valle de Campan)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="comment" target="440-183" corresp="III_183"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="363-34"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005887">
+               <idno type="uri">http://www.geonames.org/2125072</idno>
+               <placeName type="reg">Kamtschatka</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="248-8"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005888">
+               <placeName type="reg">Kanaan</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="114-27" corresp="III_152"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="459-25"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="227-10"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="176-30"/>
+                        <ptr type="letter" target="177-1"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005889">
+               <idno type="uri">https://www.geonames.org/3369162</idno>
+               <placeName type="reg">Kap <add>(der Guten Hoffnung)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="352-37" corresp="I_389"/>
+                     </linkGrp>
+                     <linkGrp n="III">
+                        <ptr type="letter" target="145-23" ana="†" rend="Kapwein" corresp="III_191"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="315-20" corresp="VII_601"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="36-7" corresp="VIII_54"/>
+                        <ptr type="letter" target="41-12" corresp="VIII_58"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005890">
+               <idno type="uri">http://www.geonames.org/3073803</idno>
+               <placeName type="reg"><?oxy_comment_start author="user" timestamp="20220414T221724+0200" comment="Kann mit Karlsbad (Carlsbad) zusammengeführt werden"?>Karlsbad<?oxy_comment_end?></placeName>
+               <listPlace>
+                  <place xml:id="JP-011472" corresp="JP-005890">
+                     <placeName type="reg">Kongress (1819)</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt3">
+                           <linkGrp n="VII">
+                              <ptr type="letter" target="323-26" ana="†" corresp="VII_610"/>
+                           </linkGrp>
+                           <linkGrp n="VIII">
+                              <ptr type="comment" target="346-90" corresp="VIII_90"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005891">
+               <placeName type="reg">Karlsbad <add>(Carlsbad)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="262-18" corresp="I_265"/>
+                        <ptr type="letter" target="356-24" corresp="I_391"/>
+                     </linkGrp>
+                     <linkGrp n="II">
+                        <ptr type="letter" target="326-4" corresp="II_602"/>
+                        <ptr type="letter" target="333-15" corresp="II_611"/>
+                        <ptr type="letter" target="339-5" corresp="II_632"/>
+                        <ptr type="letter" target="340-14" corresp="II_634"/>
+                        <ptr type="letter" target="359-19" ana="ff" corresp="II_675"/>
+                        <ptr subtype="receivedLetter" target="548-126"/>
+                     </linkGrp>
+                     <linkGrp n="III">
+                        <ptr type="letter" target="362-34" corresp="III_504"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="385-25" corresp="VI_888"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr subtype="receivedLetter" target="481-232"/>
+                     </linkGrp>
+                     <linkGrp n="IX">
+                        <ptr type="letter" target="14-11" corresp="IX_24"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="70-5"/>
+                        <ptr type="letter" target="70-31" ana="†"/>
+                     </linkGrp>
+                     <linkGrp n="II">
+                        <ptr type="letter" target="208-29"/>
+                        <ptr type="letter" target="223-29"/>
+                        <ptr type="letter" target="337-5"/>
+                        <ptr type="letter" target="410-20" ana="ff"/>
+                        <ptr type="comment" target="434-50"/>
+                        <ptr type="comment" target="453f-106"/>
+                     </linkGrp>
+                     <linkGrp n="III/2">
+                        <ptr type="letter" target="159-35" next="159-36" ana="†"/>
+                        <ptr type="letter" target="361-26"/>
+                        <ptr type="letter" target="362-3" ana="†"/>
+                     </linkGrp>
+                     <linkGrp n="V">
+                        <ptr type="letter" target="73-20"/>
+                        <ptr type="letter" target="131-4"/>
+                        <ptr type="letter" target="134-30"/>
+                        <ptr type="letter" target="156-19"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="268-3"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="37-23"/>
+                        <ptr type="letter" target="45-28"/>
+                        <ptr type="letter" target="304-18"/>
+                        <ptr type="letter" target="317-26"/>
+                        <ptr type="letter" target="370-28"/>
+                        <ptr type="letter" target="416-29"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="68-32"/>
+                        <ptr type="letter" target="73-29"/>
+                        <ptr type="letter" target="333-32"/>
+                        <ptr type="letter" target="368-5"/>
+                        <ptr type="letter" target="368-30"/>
+                        <ptr type="letter" target="408-12"/>
+                        <ptr type="letter" target="475-29"/>
+                        <ptr type="letter" target="582-11"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+               <listPlace>
+                  <place xml:id="ediarum_zlf_kyv_fsb">
+                     <placeName type="reg">Gasthof und Kurhaus "Zur schönen Königin" auf der alten
+                        Wiese</placeName>
+                  </place>
+                  <place xml:id="JP-011473" corresp="JP-005891">
+                     <placeName type="reg">Neubrunnen</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt4">
+                           <linkGrp n="VIII">
+                              <ptr type="letter" target="477-15" next="477-16"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+                  <place xml:id="ediarum_xbp_gqt_vsb">
+                     <placeName type="reg">Oberer Schlossbrunnen</placeName>
+                  </place>
+                  <place xml:id="JP-011474" corresp="JP-005891">
+                     <placeName type="reg">Sprudel (Quelle)</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt4">
+                           <linkGrp n="VIII">
+                              <ptr type="letter" target="477-8"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005892">
+               <idno type="uri">http://www.geonames.org/2892794</idno>
+               <placeName type="reg">Karlsruhe <add>(Carlsruhe)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="231-17" corresp="VI_557"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="128-35" ana="†" corresp="VII_301"/>
+                        <ptr type="letter" target="131-1" corresp="VII_301"/>
+                        <ptr type="letter" target="138-23" corresp="VII_310"/>
+                        <ptr type="letter" target="153-16" ana="†" corresp="VII_343"/>
+                        <ptr subtype="receivedLetter" target="460-30"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="108-25" corresp="VIII_168"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="189-6" ana="†"/>
+                     </linkGrp>
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="399-17"/>
+                     </linkGrp>
+                     <linkGrp n="V">
+                        <ptr type="letter" target="190-12"/>
+                        <ptr type="letter" target="225-3"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="7-27"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="42-27"/>
+                        <ptr type="letter" target="70-22"/>
+                        <ptr type="letter" target="214-19"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="176-2"/>
+                        <ptr type="letter" target="262-25"/>
+                     </linkGrp>
+                     <linkGrp n="IX">
+                        <ptr type="letter" target="44-9"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+               <listPlace>
+                  <place xml:id="ediarum_qmf_nqv_pqb">
+                     <placeName type="reg">Evangelische Stadtkirche</placeName>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005893">
+               <idno type="uri">https://www.geonames.org/11920619</idno>
+               <placeName type="reg">Karlstein bei Prag</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="410-35" ana="ff†"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005894">
+               <placeName type="reg">Karthago</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="174-19" corresp="III_237"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005895">
+               <idno type="uri">http://www.geonames.org/2892518</idno>
+               <placeName type="reg"><?oxy_comment_start author="user" timestamp="20220414T222333+0200" comment="Kann mit Kassel (Cassel) zusammengeführt werden
+"?>Kassel<?oxy_comment_end?></placeName>
+               <listPlace>
+                  <place xml:id="JP-011475" corresp="JP-005895">
+                     <placeName type="reg">Lyzeum</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt4">
+                           <linkGrp n="VIII">
+                              <ptr type="letter" target="469-5"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005896">
+               <idno type="uri">http://www.geonames.org/2892518</idno>
+               <placeName type="reg">Kassel <add>(Cassel)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="363-26" ana="†" corresp="III_505"/>
+                        <ptr type="letter" target="368-32" corresp="III_512"/>
+                        <ptr type="letter" target="371-17" corresp="III_512"/>
+                        <ptr type="comment" target="522-508" corresp="III_508"/>
+                        <ptr subtype="receivedLetter" target="575-409"/>
+                     </linkGrp>
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="97-28" corresp="IV_176"/>
+                        <ptr type="letter" target="105-9" corresp="IV_191"/>
+                        <ptr type="letter" target="106-34" corresp="IV_194"/>
+                        <ptr type="letter" target="108-31" corresp="IV_199"/>
+                        <ptr type="letter" target="112-15" corresp="IV_204"/>
+                        <ptr type="letter" target="125-24" corresp="IV_225"/>
+                        <ptr type="comment" target="358-192" corresp="IV_192"/>
+                        <ptr subtype="receivedLetter" target="453-170"/>
+                     </linkGrp>
+                     <linkGrp n="V">
+                        <ptr type="letter" target="211-29" corresp="V_518"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="116-2" corresp="VI_297"/>
+                        <ptr type="comment" target="422-4" corresp="VI_4"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="237-15" corresp="VII_476"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="133-17" ana="†"/>
+                        <ptr type="letter" target="139-31"/>
+                        <ptr type="letter" target="141-31"/>
+                        <ptr type="letter" target="180-3"/>
+                        <ptr type="comment" target="305-40"/>
+                     </linkGrp>
+                     <linkGrp n="III/2">
+                        <ptr type="letter" target="30-14"/>
+                        <ptr type="letter" target="354-11"/>
+                     </linkGrp>
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="252-2"/>
+                        <ptr type="letter" target="252-4"/>
+                     </linkGrp>
+                     <linkGrp n="V">
+                        <ptr type="letter" target="190-9"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="comment" target="443-54"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="27-14"/>
+                        <ptr type="letter" target="530-23"/>
+                        <ptr type="letter" target="531-21"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+               <listPlace>
+                  <place xml:id="JP-011476" corresp="JP-005896">
+                     <placeName type="reg">Fürstliches Hoftheater</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt4">
+                           <linkGrp n="IV">
+                              <ptr type="letter" target="518-20" ana="ff"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+                  <place xml:id="JP-011477" corresp="JP-005896">
+                     <placeName type="reg">Gasthof König von Preußen</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt3">
+                           <linkGrp n="IV">
+                              <ptr type="comment" target="359-195" corresp="IV_195"/>
+                           </linkGrp>
+                        </linkGrp>
+                        <linkGrp type="abt4">
+                           <linkGrp n="IV">
+                              <ptr type="letter" target="232-7"/>
+                              <ptr type="letter" target="518-27" next="518-28"/>
+                           </linkGrp>
+                           <linkGrp n="VII">
+                              <ptr type="letter" target="234-12" next="234-13"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005897">
+               <idno type="uri">http://www.geonames.org/3096980</idno>
+               <placeName type="reg">Katzbachgebirge</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="376-20" ana="†"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-012744">
+               <idno type="uri">https://www.geonames.org/6557108</idno>
+               <placeName type="reg">Kaufbeuren</placeName>
+            </place>
+            <place xml:id="JP-012362">
+               <idno type="uri">https://www.geonames.org/573081</idno>
+               <placeName type="reg">Kaukasus</placeName>
+            </place>
+            <place xml:id="ed_f4q_hn5_4qb">
+               <idno type="uri">https://www.geonames.org/468665</idno>
+               <placeName type="reg">Kaukehnen, Kaukehmen, heute Jasnoye (Ostpreußen)</placeName>
+            </place>
+            <place xml:id="JP-005898">
+               <idno type="uri">http://www.geonames.org/2891627</idno>
+               <placeName type="reg">Kempfenhausen</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="24-25"/>
+                        <ptr type="letter" target="24-31"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-011866">
+               <idno type="uri">https://www.geonames.org/2891205</idno>
+               <placeName type="reg">Kiedrich im Rheingau</placeName>
+            </place>
+            <place xml:id="JP-005899">
+               <idno type="uri">http://www.geonames.org/2891122</idno>
+               <placeName type="reg">Kiel</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="357-12" ana="†" corresp="III_494"/>
+                        <ptr subtype="receivedLetter" target="576-419"/>
+                     </linkGrp>
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="266-12" corresp="IV_439"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="237-25" corresp="VIII_393"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="397-25"/>
+                        <ptr type="letter" target="398-29"/>
+                        <ptr type="letter" target="405-30"/>
+                     </linkGrp>
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="173-14"/>
+                        <ptr type="letter" target="176-31"/>
+                        <ptr type="letter" target="192-7"/>
+                     </linkGrp>
+                     <linkGrp n="III/2">
+                        <ptr type="letter" target="382-17"/>
+                        <ptr type="letter" target="382-29"/>
+                     </linkGrp>
+                     <linkGrp n="V">
+                        <ptr type="letter" target="36-32"/>
+                        <ptr type="letter" target="307-31"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005900">
+               <idno type="uri">http://www.geonames.org/2660161</idno>
+               <placeName type="reg">Kilchberg bei Zürich</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="297-2"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005901">
+               <idno type="uri">http://www.geonames.org/2774326</idno>
+               <placeName type="reg">Klagenfurt <add>(Klagenfurth)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="410-32"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005902">
+               <idno type="uri">https://www.geonames.org/3087604</idno>
+               <placeName type="reg">Klein-Rambin <add>(Pommern)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="231-4" corresp="III_318"/>
+                        <ptr type="letter" target="340-8" corresp="III_475"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="295-3" ana="†"/>
+                     </linkGrp>
+                     <linkGrp n="III/2">
+                        <ptr type="letter" target="77-36" ana="†"/>
+                        <ptr type="letter" target="143-29"/>
+                        <ptr type="letter" target="167-26"/>
+                        <ptr type="letter" target="219-7"/>
+                        <ptr type="letter" target="219-14"/>
+                        <ptr type="letter" target="292-17" ana="†"/>
+                        <ptr type="letter" target="301-29"/>
+                        <ptr type="letter" target="303-5"/>
+                        <ptr type="letter" target="303-24"/>
+                        <ptr type="letter" target="303-36"/>
+                        <ptr type="letter" target="378-21"/>
+                     </linkGrp>
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="20-30"/>
+                        <ptr type="letter" target="113-12"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005903">
+               <idno type="uri">https://www.geonames.org/2892558</idno>
+               <placeName type="reg"><?oxy_comment_start author="user" timestamp="20220414T223223+0200" comment="Soll es eventuell Kaeserberg heißen??"?>Kneserberg<?oxy_comment_end?></placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="102-22"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005904">
+               <idno type="uri">http://www.geonames.org/2886946</idno>
+               <placeName type="reg">Koblenz</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="148-20" corresp="VII_327"/>
+                        <ptr subtype="receivedLetter" target="469-125"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="77-5" corresp="VIII_111"/>
+                        <ptr type="letter" target="197-4" corresp="VIII_326"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="V">
+                        <ptr type="letter" target="56-27"/>
+                        <ptr type="letter" target="57-7"/>
+                        <ptr type="letter" target="263-1"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="201-17"/>
+                        <ptr type="letter" target="201-32"/>
+                        <ptr type="letter" target="202-4"/>
+                        <ptr type="letter" target="212-17"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005905">
+               <idno type="uri">http://www.geonames.org/6556803</idno>
+               <placeName type="reg">Köditz <add>(Ködiz)</add> bei Hof</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="46-17" ana="†" corresp="I_28"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005914">
+               <idno type="uri">http://www.geonames.org/2886730</idno>
+               <placeName type="reg">Kolberg</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="V">
+                        <ptr type="comment" target="346-489" corresp="V_489"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005915">
+               <placeName type="reg">Kolmberg, Gut in Bayern</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="174-25" next="174-27"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005916">
+               <idno type="uri">http://www.geonames.org/3206917</idno>
+               <placeName type="reg">Kolmsdorf <add>(Colmsdorf)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="410-5" next="410-6"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005906">
+               <idno type="uri">http://www.geonames.org/2886242</idno>
+               <placeName type="reg">Köln <add>(Kölln)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="138-21" corresp="VII_310"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="141-4" corresp="VIII_224"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="V">
+                        <ptr type="letter" target="190-11"/>
+                        <ptr type="letter" target="305-23" next="305-24"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="127-29"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+               <listPlace>
+                  <place xml:id="JP-011478" corresp="JP-005906">
+                     <placeName type="reg">Dom</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt3">
+                           <linkGrp n="VII">
+                              <ptr type="letter" target="138-21" corresp="VII_310"/>
+                           </linkGrp>
+                           <linkGrp n="VIII">
+                              <ptr type="letter" target="141-4" corresp="VIII_224"/>
+                           </linkGrp>
+                        </linkGrp>
+                        <linkGrp type="abt4">
+                           <linkGrp n="VII">
+                              <ptr type="letter" target="85-19"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="ed_iwy_nkt_vsb">
+               <idno type="uri">https://www.geonames.org/3049519</idno>
+               <placeName type="reg">Komorn, Komarom</placeName>
+            </place>
+            <place xml:id="JP-005917">
+               <idno type="uri">http://www.geonames.org/2260494</idno>
+               <placeName type="reg">Kongo <add>(Congo)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="11-19"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005907">
+               <idno type="uri">http://www.geonames.org/554234</idno>
+               <placeName type="reg">Königsberg</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="109-25" corresp="III_143"/>
+                        <ptr type="letter" target="111-6" corresp="III_147"/>
+                        <ptr type="letter" target="269-20" corresp="III_371"/>
+                        <ptr type="letter" target="300-31" corresp="III_412"/>
+                     </linkGrp>
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="207-5" corresp="IV_354"/>
+                     </linkGrp>
+                     <linkGrp n="V">
+                        <ptr type="letter" target="221-6" corresp="V_533"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="317-4" corresp="VI_738"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="314-24" ana="†" corresp="VIII_576"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="84-1"/>
+                        <ptr type="letter" target="457-3"/>
+                     </linkGrp>
+                     <linkGrp n="V">
+                        <ptr type="letter" target="148-6"/>
+                        <ptr type="letter" target="149-4"/>
+                        <ptr type="letter" target="150-8"/>
+                        <ptr type="letter" target="150-19"/>
+                        <ptr type="letter" target="151-2" next="151-3"/>
+                        <ptr type="letter" target="167-14"/>
+                        <ptr type="letter" target="173-23"/>
+                        <ptr type="letter" target="190-7"/>
+                        <ptr type="letter" target="259-30"/>
+                        <ptr type="letter" target="261-25"/>
+                        <ptr type="letter" target="262-1"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="6-7"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="comment" target="439-37"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005908">
+               <idno type="uri">https://www.geonames.org/2885910</idno>
+               <placeName type="reg">Königsbrück bei Dresden</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="67-13" corresp="III_95"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="171-8"/>
+                        <ptr type="letter" target="171-28"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005909">
+               <idno type="uri">https://www.geonames.org/2885766</idno>
+               <placeName type="reg">Königstein, Festung</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="66-6" corresp="III_93"/>
+                        <ptr type="letter" target="67-17" corresp="III_95"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="172-15" corresp="VIII_282"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005910">
+               <idno type="uri">https://www.geonames.org/2885754</idno>
+               <placeName type="reg">Königstuhl, Berg im Kleinen Odenwald</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="138-34" next="138-35"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005911">
+               <idno type="uri">http://www.geonames.org/2885716</idno>
+               <placeName type="reg">Könnern <add>(Cönnern)</add> a. d. Saale</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="77-16" corresp="III_113"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005918">
+               <idno type="uri">https://www.geonames.org/2885688</idno>
+               <placeName type="reg">Konradsreuth bei Hof</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="I">
+                        <ptr type="comment" target="468-128" corresp="I_128"/>
+                     </linkGrp>
+                     <linkGrp n="III">
+                        <ptr subtype="receivedLetter" target="538-32"/>
+                     </linkGrp>
+                     <linkGrp n="IX">
+                        <ptr type="letter" target="16-20" ana="†" corresp="IX_27"/>
+                        <ptr type="letter" target="17-3" corresp="IX_27"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="169-21" ana="†"/>
+                        <ptr type="comment" target="303-35"/>
+                     </linkGrp>
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="53-33" next="53-34"/>
+                        <ptr type="letter" target="126-18"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="362-30"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="304-20"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+               <listPlace>
+                  <place xml:id="JP-012918">
+                     <placeName type="reg">Schloss</placeName>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005919">
+               <idno type="uri">http://www.geonames.org/745044</idno>
+               <placeName type="reg">Konstantinopel <add>(Constantinopel)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="12-1" next="12-2"/>
+                     </linkGrp>
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="248-14" next="248-15"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+               <listPlace>
+                  <place xml:id="JP-012920">
+                     <placeName type="reg">Pera</placeName>
+                     <note>Stadtteil auf der europäischen Seite, nördlich des Goldenen Horns.</note>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005920">
+               <idno type="uri">http://www.geonames.org/2885679</idno>
+               <placeName type="reg">Konstanz</placeName>
+               <listPlace>
+                  <place xml:id="JP-011479" corresp="JP-005920">
+                     <placeName type="reg">Konzil (1414-1418)</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt3">
+                           <linkGrp n="III">
+                              <ptr type="letter" target="33-4" ana="†" corresp="III_39"/>
+                              <ptr type="letter" target="247-14" ana="†" corresp="III_339"/>
+                           </linkGrp>
+                        </linkGrp>
+                        <linkGrp type="abt4">
+                           <linkGrp n="III/1">
+                              <ptr type="letter" target="36-23" next="36-24" ana="†"/>
+                              <ptr type="letter" target="36-26"/>
+                           </linkGrp>
+                        </linkGrp>
+                        <linkGrp type="abt3">
+                           <linkGrp n="II">
+                              <ptr type="letter" target="294-5" corresp="II_517"/>
+                           </linkGrp>
+                           <linkGrp n="VII">
+                              <ptr type="letter" target="95-21" corresp="VII_243"/>
+                           </linkGrp>
+                        </linkGrp>
+                        <linkGrp type="abt4">
+                           <linkGrp n="II">
+                              <ptr type="letter" target="253-9"/>
+                              <ptr type="letter" target="254-25"/>
+                              <ptr type="letter" target="266-6"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005921">
+               <idno type="uri">http://www.geonames.org/2618425</idno>
+               <placeName type="reg">Kopenhagen <add>(Copenhagen, Koppenhagen)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="III">
+                        <ptr type="letter" target="108-33" corresp="III_142"/>
+                        <ptr type="letter" target="109-25" corresp="III_143"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="386-10" ana="†" corresp="VI_889"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="comment" target="388-326" corresp="VII_326"/>
+                        <ptr subtype="receivedLetter" target="475-177"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="193-5"/>
+                     </linkGrp>
+                     <linkGrp n="III/2">
+                        <ptr type="letter" target="382-22"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="229-37"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="301-16"/>
+                        <ptr type="comment" target="439-37"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="51-27"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005922">
+               <idno type="uri">https://www.geonames.org/259289</idno>
+               <placeName type="reg">Korinth, korinthisch</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="119-1"/>
+                        <ptr type="letter" target="389-8"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005923">
+               <idno type="uri">http://www.geonames.org/3023519</idno>
+               <placeName type="reg">Korsika</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="298-30" corresp="IV_473"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="359-5" corresp="VI_828"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="260-23"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005912">
+               <idno type="uri">https://www.geonames.org/6551219</idno>
+               <placeName type="reg">Köthen in Anhalt</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="258-30" corresp="VIII_433"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005913">
+               <idno type="uri">https://www.geonames.org/2885200</idno>
+               <placeName type="reg">Kötschau bei Weimar</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="185-27" ana="†"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005924">
+               <idno type="uri">http://www.geonames.org/2953416</idno>
+               <placeName type="reg">Kreuznach</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VII">
+                        <ptr type="comment" target="383-308" corresp="VII_308"/>
+                        <ptr subtype="receivedLetter" target="479-212"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="77-3" corresp="VIII_111"/>
+                        <ptr type="letter" target="108-25" corresp="VIII_168"/>
+                        <ptr type="letter" target="108-32" corresp="VIII_168"/>
+                        <ptr type="letter" target="113-17" corresp="VIII_175"/>
+                        <ptr type="letter" target="114-35" corresp="VIII_176"/>
+                        <ptr type="letter" target="164-19" corresp="VIII_276"/>
+                        <ptr type="letter" target="217-9" corresp="VIII_360"/>
+                        <ptr type="letter" target="236-35" corresp="VIII_393"/>
+                        <ptr type="letter" target="243-6" corresp="VIII_405"/>
+                        <ptr subtype="receivedLetter" target="471-283"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="343-28"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="155-6" ana="†"/>
+                        <ptr type="letter" target="206-32"/>
+                        <ptr type="letter" target="223-32"/>
+                        <ptr type="letter" target="251-1"/>
+                        <ptr type="letter" target="251-12"/>
+                        <ptr type="letter" target="327-12"/>
+                        <ptr type="letter" target="474-14"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+               <listPlace>
+                  <place xml:id="JP-011480" corresp="JP-005924">
+                     <placeName type="reg">Gymnasium</placeName>
+                     <linkGrp type="mention">
+                        <linkGrp type="abt4">
+                           <linkGrp n="VII">
+                              <ptr type="letter" target="343-19"/>
+                           </linkGrp>
+                        </linkGrp>
+                     </linkGrp>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="JP-005925">
+               <idno type="uri">http://www.geonames.org/2884481</idno>
+               <?oxy_comment_start author="user" timestamp="20220414T225104+0200" comment="Ist es der Grieser Berg oder der Krieser Kopf oder der Kreienser Berg -&gt; hier liegt die NOrm ID
+"?>
+               <placeName type="reg">Krieser Berg</placeName><?oxy_comment_end?>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="102-11" next="102-12"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005927">
+               <idno type="uri">http://www.geonames.org/2883784</idno>
+               <placeName type="reg">Kronach <add>(Cronach)</add> in Oberfranken</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="338-32" corresp="VI_781"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="154-1" corresp="VIII_252"/>
+                        <ptr type="letter" target="154-6" corresp="VIII_252"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005926">
+               <idno type="uri">https://www.geonames.org/2883547</idno>
+               <placeName type="reg">Krötenhof bei Hof</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="350-10" corresp="I_389"/>
+                        <ptr type="letter" target="350-25" corresp="I_389"/>
+                        <ptr type="letter" target="352-1" corresp="I_389"/>
+                        <ptr type="letter" target="353-7" corresp="I_389"/>
+                        <ptr type="letter" target="404-14" corresp="I_444"/>
+                     </linkGrp>
+                     <linkGrp n="II">
+                        <ptr type="letter" target="71-11" corresp="II_92"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="I">
+                        <ptr type="comment" target="310-53"/>
+                     </linkGrp>
+                     <linkGrp n="II">
+                        <ptr type="letter" target="192-7" ana="†"/>
+                     </linkGrp>
+                     <linkGrp n="III/2">
+                        <ptr type="letter" target="102-23" next="102-24"/>
+                        <ptr type="letter" target="102-28"/>
+                        <ptr type="letter" target="102-34"/>
+                        <ptr type="letter" target="103-4"/>
+                        <ptr type="letter" target="282-21" next="282-22" ana="†"/>
+                        <ptr type="letter" target="316-10" ana="ff†"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005928">
+               <idno type="uri">https://www.geonames.org/6552209</idno>
+               <placeName type="reg">Krummendiek bei Itzehoe</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="II">
+                        <ptr type="letter" target="397-15"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005929">
+               <idno type="uri">http://www.geonames.org/2882588</idno>
+               <placeName type="reg">Kulmbach <add>(Culmbach)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="388-30" ana="†" corresp="I_433"/>
+                        <ptr subtype="receivedLetter" target="549-16"/>
+                     </linkGrp>
+                     <linkGrp n="II">
+                        <ptr type="letter" target="192-28" corresp="II_313"/>
+                        <ptr type="letter" target="194-33" corresp="II_314"/>
+                     </linkGrp>
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="165-16" rend="Bier" corresp="IV_298"/>
+                        <ptr type="letter" target="301-1" corresp="IV_477"/>
+                     </linkGrp>
+                     <linkGrp n="V">
+                        <ptr type="letter" target="104-8" corresp="V_241"/>
+                     </linkGrp>
+                     <linkGrp n="VI">
+                        <ptr type="letter" target="156-16" corresp="VI_401"/>
+                        <ptr type="letter" target="196-29" corresp="VI_491"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="70-25" corresp="VII_185"/>
+                        <ptr type="comment" target="377-280" corresp="VII_280"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="29-28" next="29-29"/>
+                     </linkGrp>
+                     <linkGrp n="II">
+                        <ptr type="letter" target="128-31" ana="†"/>
+                        <ptr type="letter" target="342-2" next="342-3"/>
+                        <ptr type="letter" target="366-13"/>
+                        <ptr type="letter" target="366-29"/>
+                        <ptr type="letter" target="367-19" next="367-20"/>
+                        <ptr type="letter" target="368-17"/>
+                        <ptr type="letter" target="368-26" next="368-27"/>
+                     </linkGrp>
+                     <linkGrp n="III/1">
+                        <ptr type="letter" target="125-23"/>
+                     </linkGrp>
+                     <linkGrp n="III/2">
+                        <ptr type="letter" target="23-22"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="249-17"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+               <listPlace>
+                  <place xml:id="JP-013012">
+                     <placeName type="reg">Gasthof zum Anker</placeName>
+                  </place>
+               </listPlace>
+            </place>
+            <place xml:id="ed_byy_r3w_wsb">
+               <idno type="uri">https://www.geonames.org/8378694</idno>
+               <placeName type="reg">Kumpfmühl bei Regensburg</placeName>
+            </place>
+            <place xml:id="JP-005930">
+               <idno type="uri">http://www.geonames.org/538563</idno>
+               <placeName type="reg">Kurische Nehrung <add>(Kurisches Haff)</add>
+               </placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt4">
+                     <linkGrp n="V">
+                        <ptr type="letter" target="174-2"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-005931">
+               <idno type="uri">http://www.geonames.org/460496</idno>
+               <placeName type="reg">Kurland, <add>(Curland)</add>, Kurländer</placeName>
+               <linkGrp type="mention">
+                  <linkGrp type="abt3">
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="294-8" corresp="VII_569"/>
+                        <ptr type="letter" target="298-10" corresp="VII_571"/>
+                        <ptr type="letter" target="304-20" corresp="VII_579"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr subtype="receivedLetter" target="456-129"/>
+                     </linkGrp>
+                  </linkGrp>
+                  <linkGrp type="abt4">
+                     <linkGrp n="I">
+                        <ptr type="letter" target="272-1"/>
+                     </linkGrp>
+                     <linkGrp n="IV">
+                        <ptr type="letter" target="249-3"/>
+                     </linkGrp>
+                     <linkGrp n="VII">
+                        <ptr type="letter" target="119-19"/>
+                        <ptr type="letter" target="120-9"/>
+                        <ptr type="letter" target="304-1"/>
+                        <ptr type="letter" target="369-35" next="369-36"/>
+                     </linkGrp>
+                     <linkGrp n="VIII">
+                        <ptr type="letter" target="211-24"/>
+                        <ptr type="letter" target="211-26"/>
+                        <ptr type="letter" target="214-37"/>
+                        <ptr type="letter" target="263-3"/>
+                        <ptr type="letter" target="266-27"/>
+                        <ptr type="letter" target="465-16"/>
+                        <ptr type="letter" target="466-9"/>
+                     </linkGrp>
+                  </linkGrp>
+               </linkGrp>
+            </place>
+            <place xml:id="JP-012276">
+               <idno type="uri">https://www.geonames.org/7531390</idno>
+               <placeName type="reg">Küstrin</placeName>
+               <placeName type="alt">Kostrzyn nad Odrą</placeName>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1277">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 7. November 1806, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1806-11-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term>
+               <term xml:id="JP-012430">Religion</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 7 Nov. 6.</dateline>
+            </opener>
+            <p>M. gute Car.! Endlich steht er wieder einmal hier, Ihr Name, an
+                    dem ich schon Wochen schreibe.  Ihr schönes
+                    Glaubensbekenntniß – ein anderes könnten Sie auch nicht ablegen – hat mich sehr
+                    u ganz u rein herzlich gefreut.</p>
+            <p>Caroline, dieß würde es nicht gekonnt haben, hätt' ich
+                    mir nicht selbst sagen können: auch Du bist derselbe Emanuel, der Du Ao. I warst, als Freund Deinen Freunden.</p>
+            <p>Ob ich es auch als Mensch meinen Brüdern und mir bin? Das mag der wissen, der den
+                    Menschen v. Innen genau kennet!</p>
+            <p>Wenn ich auf Ihre Freundschaft stolz bin, Car.: so bin
+                    ich es um so mehr auf Ihren Stolz; denn diesen weiß ich eben so sehr zu achten –
+                    besonders den eines Mädchens, als den Hochmuth eines Mannes zu verachten.</p>
+            <p>
+               <anchor type="target" xml:id="start_gws_12b_sqb"/>Ihren Schmerz und den Ihres
+                    lieben <persName key="JP-012485">Bruders</persName> fühl' ich – weil ich selbst
+                    noch an demselben leide.</p>
+            <p> Wohl ist es ein Zeitraum v. 8 Jahren, wo mir die Vorsehung meine
+                    erste, gute <persName key="JP-000967">Schwägerin</persName> nahm; aber mein
+                    Schmerz ist noch neu.</p>
+            <p>Ich vertrat bei nahe Mutterstelle bei <persName key="JP-000968">dem
+                        Jungen</persName> – der groß, gesund ist u brav werden wird – u war also
+                    ganz in Ihrer jetzigen Lage.<anchor type="target" xml:id="stop_gws_12b_sqb"/>
+            </p>
+            <p>Mehr brauch' ich Ihnen ja nicht zu sagen, Car.!</p>
+            <p>Trösten – wie die Menschen trösten – kann ich nicht u glaub' auch nicht daran,
+                    sonst würd' ich Sie längst haben trösten wollen.</p>
+            <p>Der edle Mensch findet schon Trost.</p>
+            <p>Wer könnte jetzt in unsrer politischen Lage
+                    uns trösten – fänden wir nicht Ruhe in Gottes Lenkung, in dem kindlichen Glauben
+                    an ihn u in Ergebung in seinen Willen.</p>
+            <p>Sie haben gewiß die Ankunft der fremden Truppen in
+                                <placeName key="JP-005586">Berlin</placeName> nicht
+                            abgewartet. Wir
+                    sahen hier viele durch- ziehen.</p>
+            <p>Unsre Stadt ist glücklich, wir haben an unserm Gouverneur, dem <persName key="JP-002376">General Legrand</persName>, einen
+                    edlen würdigen Mann.</p>
+            <p>Es thut ihm leid Manches für die Armen fordern zu <hi rendition="#u" hand="#author">müssen</hi> u nur das fordert er.</p>
+            <p>Wo man ihn u seinen Beistand bedarf, da ist er u hilft wo er kann.</p>
+            <p>
+               <persName key="JP-002548">Unsre Königin</persName>
+                            dauert mich am meisten u zu erst u hernach
+                    alle Menschen, die so fürchterlich leiden.</p>
+            <p>Ich bin Gottlob! gesund, auch die Meinigen sind es; ab. oft, z. B. gerade jetzt,
+                    indem ich schreibe – leid' ich sehr am allgemeinen Schmerz.</p>
+            <p>Die bervorstehenden Veränderungen werden auch eine große in dem Kreise meiner
+                    Freunde hervorbringen.</p>
+            <p>Im Gewühl des Flüchtens u Wanderns fand ich jedoch ein himmlisches Weib.</p>
+            <p> Eine <persName key="JP-002075">Rittmeistr v. K.</persName>, eine geb. Berlinerin v. Kr. zog hier her bis nach dem
+                    Kriege – b. dem sie <persName key="JP-002074">Mann</persName>, Vater u zwei
+                            Brüder hat – u so lange
+                    werd' ich mich ihres Umgangs u bis zum ewigen Frieden inclus., ihrer Freundschft erfreuen können.</p>
+            <p>
+               <persName key="JP-000472">Jette</persName> kommt
+                                wahrscheinlich v. d. <placeName key="JP-005682">Donau</placeName> an den <placeName key="JP-006187">Rhein</placeName>. Mein <persName key="JP-003112">Otto</persName> ist
+                            schon im Felde u ich weiß nichts v. ihm.</p>
+            <p>Sagen S. mir Car, wie es Ihnen jetzt ist u wie es Ihrem
+                    armen <persName key="JP-012485">Bruder</persName>, den ich brüderlich
+                    grüße, geht?</p>
+            <p>Alles was ich mein nenne besonders mein <persName key="JP-004367">Uhlfelder</persName> grüßet Sie.</p>
+            <p>Sprechen wäre jetzt besser, als Schreiben; aber auch das hat mir wohl gethan.
+                    Mög' es Ihnen <persName key="JP-000987">stets</persName> so seyn!</p>
+            <closer>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

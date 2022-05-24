@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0110">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 8. August 1809,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1809-08-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 8ten August <hi rendition="#u" hand="#author">1809</hi>
+               </dateline>
+            </opener>
+            <p>Geliebter Emanuel! Daß ich <hi rendition="#u" hand="#author">reifer</hi> geworden bin, Guter, sage ich Ihnen der Zeit nach ein wenig
+                    spät, aber nicht nach meinem Kräften, die ich nach meiner Entbindung, – obschon
+                    ich nicht krank war, nur nach und nach wieder sammelte.</p>
+            <p>Seit dem 7ten Juny bin ich die frohe Mutter eines
+                    lieblichen Knabens, <hi rendition="#u" hand="#author">
+                  <persName key="JP-003965">Reinhold</persName>
+               </hi> ist sein Nahme möge er ihn dem Sinne nach
+                    tragen. Schön und hold ist er jetzt, rein schuff ihn der himlische Vater, der Allgütige beschirme ihn
+                    und erhalte ihn mir. Aber, lieber Emanuel, <persName key="JP-003965">mein
+                        Jüngelchen</persName> kostet mir viel Zeit, er bedarf meiner Pflege so sehr,
+                    daß ich im eigentlichsten Sinn gar nicht mehr fertig wäre! Und doch giebt's
+                    nichts süßeres auf Erden als ein Kind zu nähren, zu pflegen und so allmählig den
+                    göttlichen Funken wahr zu nehmen durch welchen sich der Mensch von allen
+                    Geschaffnen unterscheidet. Oh, lieber Emanuel, könnte ich doch den kleinen Engel
+                    zu Ihnen bringen, wenn er mich so freundlich anlacht und mir danckt für meine
+                         Pflege. Werde ich Sie, in diesem Jahre nicht sehen? Daß sich mein
+                    Herz und meine Seele danach sehnt brauche ich Ihnen wohl nicht zu betheuern.
+                    Unsere Freundschaft kann sich weder dem Papiere ganz anvertrauen noch sich auf
+                    demselben aussprechen. Unvergeßlich sind mir unsre
+                            Bayreuther Stunden, in <placeName key="JP-005574">Bayreuth</placeName> werde ich diese nun zwar nicht so bald wieder finden, aber hier
+                    möchte ich unsre Bekanntschaft feyern – In
+                    meinem
+                    Garten, den ich in diesem Jahre ganz besonders pflegte weil er
+                    Ihnen Blumen bringen sollte,
+                    und auf
+                    meinem
+                    Berg der eine herrliche Aussicht in unser Thal hat, und wo ich
+                    Ihrem Andenken seit ich denselben besitze einen eignen Platz widmete.</p>
+            <p>Daß Sie mir recht theuer sind, Guter Emanuel, fühle ich am bestimtesten, weil ich
+                    keinen Genuß kenne, in welchen sich nicht Ihr Andenken mischt. Wo mir wohl ist,
+                    wo ich mich glücklich fühle, da möchte ich Sie an meiner Seite haben.</p>
+            <p>Wir leben hier im tiefsten Frieden, wir  Glücklichen! Hoffentlich wird
+                    bald in ganz Deutschland Friede seyn, ach, möchte er sich über die ganze Erde
+                    verbreiten.</p>
+            <p>
+               <persName key="JP-002936">
+                  <anchor type="target" xml:id="start_jsl_2lq_2mb"/>Antonie</persName> reißt nach der <placeName key="JP-006271">Schweiz<anchor type="target" xml:id="stop_jsl_2lq_2mb"/>
+               </placeName>,
+                    sie macht eine schöne Reise und mit einer
+                            vortreflichen Familie. Seit sie bey mir ist,
+                    sind ihr ohne Ausnahme ihre liebsten Wünsche befriediget worden, Sie glauben mir aufs Wort wie glücklich mich das macht. Ich werde
+                        <persName key="JP-002936">die geliebte Schwester</persName> gar sehr
+                    vermißen, ohnerachtet sie, wie Sie wißen, ihren eignen besondern Gang geht, so
+                    hatten wir dennoch der Berührungs Punkte so viele, die jetzt in meiner Seele
+                    unausgefüllt bleiben werden.</p>
+            <closer>
+               <salute>
+                  <persName key="JP-003966">Schwendler</persName> grüßt Sie mit Liebe und
+                        Hochachtung, <persName key="JP-003749">Amanda</persName> schreibt selbst,
+                            <persName key="JP-003971">Pauline</persName> sagt Ihnen recht viel
+                        kindliches und herzliches.</salute>
+               <signed>Von ganzen Herzen die Ihrige Henriette.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

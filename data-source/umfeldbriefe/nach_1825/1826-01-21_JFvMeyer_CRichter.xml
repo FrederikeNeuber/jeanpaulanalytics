@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0554" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0554" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Johann Friedrich von Meyer an Caroline Richter. Frankfurt am Main, 21. Januar 1826, Sonnabend</title><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -18,9 +17,11 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                                <p>2
-                                    Bl. 8°, 2 S. S. 3 Adr.: Der verwitweten Frau Legations-|räthin <hi rendition="#aq">Richter</hi> | Wohlgeboren | in | <hi rendition="#aq"><hi rendition="#u">Baireuth</hi></hi>. | frey. Poststempel:
-                                        <hi rendition="#aq">FRANKFURT | 21 | JAN</hi>. </p>
+                                <p>1 Dbl. 4°, 2 S. Auf S. 4 Adr.: Der verwitweten Frau
+                                    Legations-|räthin <hi rendition="#aq">Richter</hi> | Wohlgeboren
+                                    | in | <hi rendition="#aq"><hi rendition="#u">Baireuth</hi></hi>. | <hi rendition="#u">frey</hi>.
+                                    Poststempel: <hi rendition="#aq">FRANKFURT | 21 | JAN</hi>. </p>
+                                <p>Siegelreste</p>
                             </physDesc>
                         </msDesc>
                     </witness>

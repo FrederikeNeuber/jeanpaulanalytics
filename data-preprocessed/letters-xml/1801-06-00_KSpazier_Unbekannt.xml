@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0072">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl Spazier an Unbekannt. Leipzig, Juni 1801</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date notBefore="1801-06-01" notAfter="1801-06-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004373">Unbekannte Korrespondent/innen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig Juny 1801.</dateline>
+            </opener>
+            <p>Es freut mich, daß Du mich in den Stand gesetzt hast
+                                <persName key="JP-001211">Herr Fr.</persName> nöthigen
+                            Falls die Spitze bieten zu können. Ich würde ihm auf keinen Falle,
+                            versteht sich von selber, Deinen Namen genannt haben u ist ihm das auch von mir ganz
+                    bestimmt u kathegorisch erklärt worden, wie durch meinen Brief an ihn muß
+                    ausgewiesen werden können. Unterdeß da Du mich dazu autorisirst, so werde ich
+                    keine Umstände machen u dein Schreiben ihm in originali zuschicken, sobald er Mienen machen sollte,
+                    auf diesen Punkt insistiren zu wollen. Noch habe ich von ihm Nichts gesehen; ich
+                    werde aber nicht ermangeln dir sogleich davon Notiz zu geben. Bis dahin, dachte
+                    ich, ließe man die Sache  auf sich beruhen.</p>
+            <p> Es hat mir ja wohl nicht in den Sinn kommen können, Dir den Abdruck der Schlußanmerkung zur Last legen zu können, u
+                    wenn Dir das in meinen Br. so geschienen haben mag, so mußt Du es mit den
+                    Ausdrücken nicht so genau nehmen. ich schrieb in der größten Hast, u es versteht
+                    sich an uns beide ja wohl von selbst, daß der eine weder Unsinn sagen, noch der
+                    andere daran glauben wird. Allerdings kann man darauf oppugniren , daß es
+                    bey mir stand, den Satz zu streichen; allein, wie gesagt, der fatale Zufall hat
+                    damit sein Spiel gehabt, u ich habe dem <persName key="JP-001211">Herrn Fr.</persName> dies deutlich zu
+                            machen, mir die große Mühe genommen, worauf er ja wohl ein höchst
+                            inloyaler Mann seyn müßte, wenn er sich bey  diesem Exposé nicht beruhigen wollte. Verdenke mir nicht, daß ich der Renommeé der <bibl sameAs="JP-009809" subtype="werk">Zeitung</bibl> wegen die Sache ernstlicher u
+                    ängstlicher genommen, als wohl sonst nöthig gewesen wäre. Es ist bey einer lage
+                    wie die meinige unvermeidlich, daß Verdrießlichkeiten kommen. Eben in demselben
+                    Monat erhielt ich eine Beschwerde v. <persName key="JP-012178">Babo</persName> aus <placeName key="JP-006040">München</placeName>über Angriff seiner Theaterdirektion u auch
+                    er drohte mit Klage, mit Publizität, daß ich fast toll im Kopfe über dies
+                    Zusammentreffen von Fatalitäten hätte werden mögen u alle Hände voll zu thun
+                    hatte, einen wie den andern zur Ruhe zu verweisen. Der
+                            Berichterstatter erbietet sich auch zu den
+                    bündigsten Beweisen u leistet die bestimmteste Bürgschaft; allein was kanns mir
+                    helfen, da ich  Verdruß u
+                    Weitläuftigkeit darin
+                    geachtet
+                </p>
+         </div>
+      </body>
+   </text>
+</TEI>

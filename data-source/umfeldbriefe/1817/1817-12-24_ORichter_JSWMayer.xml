@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0576" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0576" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Odilie Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, zwischen 24.
@@ -19,7 +18,7 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                                <p>1 Bl. 8°, ½ S.</p>
+                                <p>1 Bl. 8°, 1 S.</p>
                             </physDesc>
                         </msDesc>
                     </witness>
@@ -75,7 +74,9 @@
                     das ist mein innigster Wunsch für Sie und die liebe <persName key="JP-002709">Grosmutter</persName>. Entziehen Sie nie Ihre Liebe Ihrer gehorsamsten</p>
                 <closer>
                     <signed>
-                        <hi rendition="#right">Enkelin Odilie Richter</hi>
+                        <hi rendition="#right">
+                            <hi rendition="#c">Enkelin Odilie Richter</hi>
+                        </hi>
                     </signed>
                 </closer>
             </div>

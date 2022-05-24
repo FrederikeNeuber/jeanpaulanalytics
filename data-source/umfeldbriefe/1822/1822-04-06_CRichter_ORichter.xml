@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0721" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0721" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Caroline Richter an Odilie Richter. Bamberg, 6. April 1822, Sonnabend</title><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -18,7 +17,7 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                                <p>1 Bl. 8°, 2 S.</p>
+                                <p>1 Bl. 4°, 2 S.</p>
                             </physDesc>
                         </msDesc>
                     </witness>
@@ -55,7 +54,7 @@
             <div type="writingSession" xml:id="Schreibakt_1">
                 <pb n="1"/>
                 <opener>
-                    <salute>Mein geliebtes Odilichen</salute>
+                    <salute>Mein geliebtes Odilichen!</salute>
                 </opener>
                 <p><seg type="comment"><orig>Den ganzen Tag habe ich mich gefreut, Dir den Abend von
                             Bamberg zu schreiben</orig><note xml:id="nszt_p2v_bnb">Caroline Richter
@@ -104,7 +103,7 @@
                     </hi> sehr von </p>
                 <closer>
                     <signed>
-                        <hi rendition="#right">Deiner<lb/>treuen Mutter</hi>
+                        <hi rendition="#right">Deiner<lb/>treuen Mutter.</hi>
                     </signed>
                 </closer>
             </div>

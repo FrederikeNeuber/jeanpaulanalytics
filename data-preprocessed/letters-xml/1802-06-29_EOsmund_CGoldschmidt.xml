@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0398">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 29. Juni 1802, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1802-06-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 29. Juny 2.</dateline>
+               <salute>Durchaus nicht <hi rendition="#u" hand="#author">böse</hi>Caroline!</salute>
+            </opener>
+            <p>So gerne es die Mädchen sehen, wenn man ihnen nicht widerspricht: so hoff' ich
+                    mit meinem Widerspruch b. Ihnen doch nicht an unrechten Mann gekommen zu
+                    seyn.</p>
+            <p>Da müßt' es mit dem T. – der liebe Gott sei b. uns – zugehen, wenn ein
+                    Mädchen, das v. einem Manne schon 2 Antw. zu fordern hat u ihm noch einmal
+                    borgte, wenn das Mädchen böse wäre.</p>
+            <p>Kurz u gut, der Umstand freut mich dies mal, denn nichts anders ist Schuld als –
+                    ich.</p>
+            <p>Doch ich muß mich, glaub' ich, etwas deutlicher erklären.</p>
+            <p>Zwischen zwei Correspondenten, die noch etwas danneben sind, oder zu thun haben,
+                    muß immer einer seyn, der gerne Schulden macht u einer der sie gerne bezahlt;
+                    ich denke diese Deutlichkeit erträgt eine Erklärung.</p>
+            <p>Ich meine so: die Hälfte der Correspondenten muß, wie ich's leider! auf meine
+                    eigenen Kosten oft erfahren, bisweilen etwas lässig seyn müssen u anstatt zu <hi rendition="#u" hand="#author">schreiben</hi>, sich, v. der
+                    andern Hälfte <hi rendition="#u" hand="#author">zu</hi>schreiben
+                    lassen.</p>
+            <p>Nun – ich will offenherzig seyn – wollt' ich – oder ich machte aus dem Muß ein
+                    Wollen – so recht phylosophisch – auch einmal sehen wie's thut, wenn man die
+                    leidende Hälfte vorstellet – die gewöhnlich u oft nur vor mir oder mir gegenüber
+                    stand – u so mußt' ich b. Ihnen schweigen – wenn, wie es ist – es Einer thun
+                    muß, mir es lieber war, als wenn Sie's gethan hätten.</p>
+            <p>Nimmt man noch an, daß ich, da ich jetzt noch 3 Carolines –
+                    die
+                    vierte hätte Gott längst naher zu sich genommen, wenn er
+                    nicht auch uns so nahe wäre, als sie es war – habe, u doch die Feder, wenn ich 2
+                    mal b. Ihnen schweige, so oft eintunken muß, nur  für eine Caroline – v. den
+                    andern Goldstücken u Goldkindern will ich nicht ein mal heüte etwas sagen, die
+                    auch Schwarz auf weiß haben  wollen u die auch nicht v. der Luft oder
+                    v. Brode allein leben <mod type="variant">könnenwollen</mod> – wie z. B. eine <hi rendition="#u" hand="#author">Louise</hi>d'or u. s. w. – so – nämlich wenn man diese lange
+                    Periode gelesen hat: so muß er meine schweigende oder nur stille Unschuld – u
+                    hätte er ein steinenes Herz – laut für ganz unschuldig erklären, so gut wie
+                    S.!</p>
+            <p>Aber im Ernst was thun S. denn in <placeName key="JP-005687">Dreßden</placeName>?</p>
+            <p>Ich nehme in dies. Sommer, nicht nur schriftliche, auch mündliche Visiten lieber
+                    an, als ich sie erwiedern kann.</p>
+            <p>Mein prächtiger <persName key="JP-004275">Thieriot</persName> war b. mir.</p>
+            <p>Das war prächtig!</p>
+            <p>Am 18<hi rendition="#u" hand="#author">t</hi>Juny, wo S. mir aus <placeName key="JP-005948">Lpzg</placeName> schrieben,
+                    schrieb
+                    er mir auch aus <placeName key="JP-005948">Leipzig</placeName>, daß er am 19<hi rendition="#u" hand="#author">ten</hi> des frühesten
+                    Morgens nach <placeName key="JP-006122">Paris</placeName> abreise u heute hab'
+                    ich schon
+                    einen
+                        Brief aus <placeName key="JP-005743">Ffta/M</placeName> v. ihm erhalten.</p>
+            <p>
+               <ref target="JP-UB0661/#nq3x_bdz_1mb">War. hat denn der GOTR.<persName key="JP-002703">Maier</persName> nur
+                        seine <persName key="JP-002581">Tine</persName> in
+                            <placeName key="JP-005687">Dreßden</placeName> u nicht seine beiden andern Töchter auch, in <placeName key="JP-005948">Leipzig</placeName> gesprochen?</ref>
+            </p>
+            <p>Aus welchem Grunde haben S. dennIhren letzten eiligen Brief in <placeName key="JP-005948">Leipzig</placeName>
+                    verobladet:
+                    wer ihn vor mir hätte lesen wollen, der hätt' ihn ja auch ohne dieß lesen
+                    können?</p>
+            <p>
+               <persName key="JP-012485">Ihr braver Bruder</persName> dauert mich,
+                    der redliche
+                    Eichel – können S. ihn lieb haben, ich meine lieben S. ihn? –
+                    freut mich u die Täuschung der Braut <persName key="JP-012485">Ihres Bruders</persName> aergert mich.</p>
+            <p>Wenn S. – nicht wie ich – an Ihre alten
+                            Briefe
+                    nicht denken: so werden S. sich über meine geschwinde Antw. u, wie ich's aus
+                    ganzer Seele wünsche überhaupt stets, viel freuen!</p>
+            <closer>
+               <salute/>
+               <signed>E.</signed>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

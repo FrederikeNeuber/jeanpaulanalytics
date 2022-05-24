@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0992">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Homburg, 22. Mai 1817,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005852">Homburg</placeName>
+               <date when="1817-05-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012778">Geschäftliches</term>
+               <term xml:id="JP-012590">Bittschreiben</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Homburg vor der Höhe, den 22. Mai 1817.</dateline>
+               <salute>Liebe Freundin!</salute>
+            </opener>
+            <p>Ich bin durch Zufall und Gelegenheit nach <placeName key="JP-005852">Homburg</placeName> gekommen; was dieser Zufall daraus machen will?</p>
+            <p>Sie werden sich erinnern, daß ich im vorigen Jahr wegen
+                            eines widrigen Geschäfts mit Ihnen correspondierte. Ich kann es Ihnen nicht aussprechen, welche Leiden
+                    ich durch diese Versagung habe erdulden müssen, es ist nicht auszusprechen.
+                    Umsonst bitte ich nicht so, wenn ich bitte. Daß Sie sich von meinem Brief bei
+                        Geigers nichts
+                    merken lassen, bitte ich sehr, auch nicht bei <persName key="JP-003087">Emanuel</persName>; was geschehen ist, ist geschehen und hat seine
+                    Wirkungen auf mein Gemüt nicht verfehlt.</p>
+            <p>Überhaupt muß man bemerken, daß statt der Bekehrung, von welcher man noch vor dreißig Jahren sprach, die Rückkehrung mit starken
+                    Schritten vor sich gegangen ist.</p>
+            <p>Es ist mir recht wohl geworden, nach allen <hi rendition="#u" hand="#author">Leiden</hi>, daß ich so einsam habe leben können, nachdem ich
+                        <placeName key="JP-005586">Berlin</placeName> verlassen habe. Mehrere
+                    strenge Geschäftsarbeiten haben mir, ich möchte sagen, etwas den Kopf erhellt
+                    und mich dahin gebracht, über sittliche Gegenstände nachzudenken und zu
+                    schreiben. Vor einigen Wochen bewegte mich eine
+                            Anekdote so sehr, daß ich gezwungen war, darüber etwas im Dialog
+                            aufzusetzen. Ich habe zwei Teile davon sowohl nach <placeName key="JP-006395">Weimar</placeName> als <placeName key="JP-005586">Berlin</placeName> geschickt, um zu fragen, ob dieses auf der Bühne könnte
+                    dargestellt werden.</p>
+            <p>Ich erwarte nun darauf die Antwort, dann schicke ich das Ende davon.</p>
+            <p>Dies schreibe ich Ihnen, liebe Freundin, um zu wissen,
+                            und ob Sie wohl vermuten und <persName key="JP-999999">Ihr
+                                Mann</persName> wohl Konnexion hat, und mir dieses Stück, was
+                            ungefähr zwei Stunden spielen kann, wohl in <placeName key="JP-006040">München</placeName> gut verkaufen können.</p>
+            <p>Meinen Namen will ich gern verborgen haben. Es gehört wahrscheinlich zu diesen
+                    Dingen, die entweder gut sind oder gar nichts taugen. Freilich dieses zu
+                    bestimmen möchten wohl in Sodom und Gomorrha nicht fünf sein. Ich hätte dies
+                    geschrieben auch ohne Not und Drang; da aber dieser noch vorhanden ist, so habe
+                    ich es für die fünf Brote geschrieben. </p>
+            <closer>
+               <salute>Leben Sie wohl, niemand darf von diesen Zeilen wissen als <persName key="JP-999999">Richter</persName> –</salute>
+               <signed>Ihre C. Kalb.</signed>
+            </closer>
+            <postscript>
+               <p>Homburg bei <placeName key="JP-005743">Frankfurt</placeName>.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

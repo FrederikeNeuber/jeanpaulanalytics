@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0167">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 5. Dezember 1802, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1802-12-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 5. Dec. 2</dateline>
+            </opener>
+            <p>Car.! Vergangnen Mittw. hab' ich das große u das kleine
+                    Paq. u den Brf. dazu u vergangnen Freitag auch den 2<hi rendition="#u" hand="#author">t</hi> Brief u Alles
+                    voll Freude u voll Vergnügen empfangen.</p>
+            <p>Nichts ist beschädigt angekommen, nicht einmal das Messerlein, das b. der
+                    prächtigen Mädchenpackerei in Incognito sich mit nach <placeName key="JP-005574">Bayr.</placeName> fahren lies, u das auch nur allein es wieder verlaßen
+                    soll, versteht sich, wenn es verlangt wird.</p>
+            <p>Meinem <persName key="JP-004367">Uhfelder</persName>
+                    hab' ich seine prächtige Börse, mit einem Auszug aus meinem Brf. was ihm dazu
+                    gehörte, geschickt u darauf hab' ich beiliegendes
+                            Billet
+                    erhalten.</p>
+            <p>Ich dachte, daß der Gute nun ruhig seine Freude genießen würde u dachte nicht,
+                    daß ich noch ein Postillion der gesiegelten Dankbarkeit werden mußte.</p>
+            <p>Hätt' er wenigstens sein SU weggelaßen, dam. ich mein u
+                    Ihr Lob lesen könnte!</p>
+            <p>Recht gerne hab' ich s, wenn mann mich ins Gesicht tadelt, so, daß mir das Blut
+                    zu den Backen heraus guckt; aber ich kann es auch vertragen, wenn die Meinigen
+                    mich im Rücken b. den Meinigen mäsig loben. </p>
+            <p> Die, die es verkehrt machen, sind weder die Meinigen, noch die
+                    Ihrigen, Car.!</p>
+            <p>Ihre
+                            goldene Silberstiftzeichnung ist an ihrem gehörigen Orte; Niobes Tochter aber liegt nur erst , anstatt auf rothem
+                    Papier, auf blauem Atlas u wartet auf die blos neuen goldenen Leisten ihrer
+                    alten Wohnung, v. der ich mich, wider Ihre Ordnung, nicht trennen mag, wenn ich
+                    – wie es der Fall nicht ist, auch
+                    konnte.  Diese Letzte durfte noch Niemand sehen; aber die
+                    Erste hab' ich aus der Tasche präsentirt, wem sie zu Präsentiren nöthig u daran
+                    gelegen war.  Ob S. diese Erste getroffen haben? <persName key="JP-003652">Mein Bruder</persName>, der Jüngere, der S. wie mein jüngrer
+                    Bruder grüßt, kam Abends v. einer kleinen Reise nach Hause "was ist das?" fragte
+                    ich, indem ich ihm die Zeichnung vor das Gesicht rückte. "Die Goldschm."
+                    antwortete er freundbrüderlich lächelnd.<anchor type="target" xml:id="stop_pbc_ft3_2mb"/>
+            </p>
+            <p>Geben – Freude – ist seliger als <hi rendition="#u" hand="#author">alles</hi> Nehmen.  S. haben mir u uns viel Freude
+                    gegeben u hätten sich schon herzlich bedanken dürfen, f. die große
+                    Freude, die wir Ihnen dadurch machen, wenn S. nicht so bescheiden wären.  Ich will Ihnen zuvor kommen u vor: Nehmen S. meinen
+                    innigsten Dank f. Ihr Andenken u die Beweise desselben u die heiligste
+                        Versicherung, daß ich Alles zu würdigen weiß u daß ich Alles eben
+                    durch dies mein Bewußtseyn – ohngeachtt ich weit weniger gut bin, als ich seyen
+                    möchte u als Sies glauben, doch größten theils verdiene.</p>
+            <p>Alles was S. mir v. <placeName key="JP-006395">Weim</placeName>. sagen erquikt mich.  Die
+                        Tifurther HofDame soll nur in Gottes Namen b.<hi rendition="#u" hand="#author">Ihnen</hi> gut machen, daß sie <hi rendition="#u" hand="#author">mir</hi> einen Gruß v. <persName key="JP-999999">Richter</persName> wochen
+                    lange vorenthielt. Wenn sie recht artig gegen S. ist, dann, nur dann will ich s.
+                    durch Sie wieder grüßen.  Die <persName key="JP-002148">Knebel</persName>, zu der ich nicht nur f mich, sondern mit der Liebe
+                        <persName key="JP-002149">ihres Bruders</persName> – v. dem ich gerade aus
+                        <placeName key="JP-005858">Ilmenau</placeName> kam
+                    – kommen wollte, lies mich durch ihre Jungfer fragen, was ich v. ihr wollte; sie
+                    darf <hi rendition="#u" hand="#author">Ihnen</hi> (daß ich ihr
+                    damals keine befriedigende Antw. schickte, glaub' ich) also auch recht, recht
+                    schön thun.  Mündlich kann u werd' ich Ihnen einst v.
+                    meinem Aufenthalt in <placeName key="JP-006395">Weim</placeName>. u den wichtigen Folgen desselben Manches
+                    erzählen.  Sticken S. die Bestellung des
+                        <persName key="JP-000579">Herzogs</persName> noch in <placeName key="JP-006395">W</placeName>.?</p>
+            <p>Recht sehr freu' ich mich, daß S. mir Ihre Arbeiten schicken wollen.</p>
+            <p>Die Aussöhnung <persName key="JP-012485">Ihres lieben Bruders</persName>,
+                    sehnt mich
+                    mit seinem
+                    Mädchen aus; aber ich sehne mich nicht nach einer Ursache zur
+                    Aussehnung zwischen Liebenden.</p>
+            <p>Der Himmel geb' ihnen Glück u Segen!  Bauen S. immer <hi rendition="#u" hand="#author">Luft</hi>schlößer, ich baue sie
+                    auch u sie sind meine einzigen <hi rendition="#u" hand="#author">Lust</hi>schlößer. Wie alt ist denn
+                    Ihre
+                        fürstliche Schülerin?</p>
+            <p>Ich liebe das briefliche – als Vorausgangs eines persoenlichen Überraschens; also
+                    das Erste wird auf jeden Fall zu erst angewendet. Kein
+                            Wunsch kann herzlicher u reiner seyn, als der meinige, daß S. schon
+                            wieder ganz gesund u ganz wohl seyn mögen!</p>
+            <closer>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

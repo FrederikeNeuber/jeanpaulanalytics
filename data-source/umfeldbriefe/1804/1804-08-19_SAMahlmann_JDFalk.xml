@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0581" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0581" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Siegfried August Mahlmann an Johannes Daniel Falk. Leipzig, 19. August,
@@ -34,6 +33,7 @@
                     <date when="1804-08-19" cert="high"/>
                 </correspAction>
                 <correspAction type="received">
+                    <persName key="JP-001032">Johannes Daniel Falk</persName>
                     <placeName key="JP-006395">Weimar</placeName>
                 </correspAction>
                 <note/>

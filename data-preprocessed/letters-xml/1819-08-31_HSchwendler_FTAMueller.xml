@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1139">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Friedrich von Müller. Eisenach, 31. August 1819,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-005698">Eisenach</placeName>
+               <date when="1819-08-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012430">Religion</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Eisenach, d. 31<hi rendition="#uu" hand="#author">sten</hi>August <hi rendition="#u" hand="#author">1819</hi>
+               </dateline>
+            </opener>
+            <p>Daß wir Sie, mein theurer Freund, das letztemahl hier verfehlt haben, ist noch
+                    immer ein schmerzliches Gefühl für mich. Wir haben zwar unterdeßen gewonnen daß
+                    die bewegte Zeit ruhiger geworden und die fantastischen Gebilde der <hi rendition="#u" hand="#author">Unglüksseher</hi> im Dunst
+                    zerronnen sind, aber gern sehr gern hätten wir Sie dennoch gesprochen um unsre
+                    gemäßigten Ansichten und Meynungen mit den Ihrigen zu vertauschen und überhaupt
+                    um Ihren <hi rendition="#u" hand="#author">hellen Blick</hi> uns
+                    offenbaren zu laßen. Daß jene UnglüksSeher zwar noch
+                            nicht beruhigt sind und in der Verworrenheit ihrer Begriffe noch immer
+                            Gott weiß was Alles vermuthen, dieß ist gewiß und darum empfehle ich
+                            Ihrer <hi rendition="#u" hand="#author">Bekehrung</hi>Ich bitte aber herzlich auch nicht
+                                im <hi rendition="#u" hand="#author">Scherz</hi> sich
+                                merken zu laßen, daß ich solche Bekehrung wünsche, gute Gründe laßen
+                                mich dieses wünschen. H die Damen des Hoffes <persName key="JP-013428">v. <hi rendition="#u" hand="#author">Bogwisch</hi>
+               </persName> und Mutter <hi rendition="#u" hand="#author">
+                  <persName key="JP-013389">Gr.
+                                    </persName>
+                  <persName key="JP-013389">Henckel</persName>
+               </hi>. Die letztere mit der ganzen
+                            Leidenschaft Ihres Wesens wirkt wahrhaft nachtheilig auf die <persName key="JP-002628">Grosfürstin</persName> u die erstere streut doch
+                            auch wo sie kann, den Saamen der Furcht aus. Der klare verständige <hi rendition="#u" hand="#author">
+                  <persName key="JP-013452">Spiegel</persName>
+               </hi> u der gemüthliche
+                                <hi rendition="#u" hand="#author">
+                  <persName key="JP-000914">Einsiedel</persName>
+               </hi> sind mein einziger
+                            Trost bey politischen Streitigkeiten gewesen, obschon ich nicht mit
+                            Unrecht glaube, daß man mich für sehr revolutionnair gesinnt hält, weil
+                            ich <hi rendition="#u" hand="#author">
+                  <persName key="JP-003767">Schleyermachers</persName>
+               </hi> Arrestation
+                            bezweifelte u des hochgesinnten <persName key="JP-001334">Grafen  <hi rendition="#u" hand="#author">Gneisenau</hi>
+               </persName> Partey nahm, als man das unsinnige
+                            Geschwätz von ihm nacherzählte wofür ihn die <persName key="JP-013389">Gr. H.</persName>
+                            sogleich mit dem Schwerdt richten wollte so wie sie auch ganz ernstlich
+                            meinte <persName key="JP-003767">Schleyermacher</persName> müße gehenkt
+                            werden. Mein guter <persName key="JP-000587">Carové</persName> mit
+                    Ausnahme der <hi rendition="#u" hand="#author">unvergleichlichen
+                        immer gleichen</hi>
+               <persName key="JP-002544">Grosherzogin</persName>, gilt auch für revolutionnär
+                    und zwar um <bibl sameAs="JP-013503" subtype="werk">seiner Schrift</bibl>,
+                        <persName key="JP-002228">Kotzebues</persName> Ermordung willen in welcher
+                    die Frau <persName key="JP-002628">Grosfürstin</persName> die deutlichsten
+                    Spuren, demagogischer Umtriebe will bemerkt haben. Was sagen Sie dazu? liebster
+                        Müller, stände das Urtheil nicht von <hi rendition="#u" hand="#author">hoher</hi> weltbürgerlicher Stuffe
+                    herab, so würde ich nur lachen, jetzt nähme ich es ernster, nicht um des
+                    Verfaßer willen, der über dem Urtheil steht, aber um der verkehrten Ansicht,
+                    denn fast zu monarchisch ist mein lieber <persName key="JP-000587">C</persName>. gesinnt, wie überhaupt seine
+                    Grundsätze über Staaten Verhältniße nur in der Richtung stehen, als die
+                    monarchische Form die einzige für Europa zwekdienliche
+                         nach seiner
+                    Ueberzeugung ist. Nun, mag es noch so bunt untereinander Kreisen, unverkennbar
+                    bleibt es jedem unbefangnen Auge, daß der Geist der Zeit, in einer großen Idee
+                    sich bewegt, wird sie auch nur von wenigen ganz erkannt und  erfaßt,
+                    sie geht dennoch mit dem inneren Leben der Zeiten die Entwikelung durch, bis sie
+                    als Grundsatz des Lebens gilt. Da alle Formen endlich sind, so müßen sie dem
+                    Wechsel unterworfen bleiben, wie dieser nun der Zeit anzupaßen ist, dieß ist die
+                    Aufgabe, die aber gewiß gelöst werden wird. Helfen Sie auch dazu, theurer
+                    Freund, jeder Verständige und Hochgesinnte darf jetzt nicht müßig zu sehen, u
+                    wenn es noch fast ekelhaft wird, in das Geschrey und Geschwätz der
+                    Unvernünftigen, die Wahrheit tönen zu laßen, so muß es doch geschehen, und
+                    endlich dringt sie doch durch mit ihrer Kraft und Lauterkeit! – – – </p>
+            <p>
+               <persName key="JP-000587">Carové</persName> ist nach
+                        <placeName key="JP-005622">Breslau</placeName> abgegangen, dem Wunsche des
+                        <persName key="JP-000066">Ministers Altenstein</persName> gemäß wird er
+                    wahrscheinlich dort seine Bestimmung finden; Obschon es meine Vaterstadt u der
+                    ganze Kreis meiner Familie jetzt dort vereint ist, so ist es mir doch
+                    schmerzlich, meine Lieblinge
+                    so weit von mir laßen zu müßen, bis zum nachsten Jahre
+                            bleibt <persName key="JP-003971">Paulinen's</persName> Verbindung noch
+                            ausgesetzt.</p>
+            <p>Die neuesten Nachrichten welche ausgestreut wur den hinsichtlich der
+                        Vereinigung von ganz <placeName key="JP-006222">Sachsen</placeName> mit <placeName key="JP-006164">Preußen</placeName> nach dem Tode des <persName key="JP-001175">Königs von Sachsen</persName>, laßen vermuthen, daß dann wohl die <placeName key="JP-006190">Rheinlande</placeName> zur Entschädigung dem jungen Thronfolger zum Theil werden gegeben
+                    werden. Für <placeName key="JP-006164">Preußen</placeName> u für die Ruhe von
+                        <placeName key="JP-005668">Deutschland</placeName> ist jene Vereinigung
+                    gewiß sehr wichtig. </p>
+            <p>Von dem Kronprinzen von Sachsen ist mir neuerdings ein Gedicht zu Gesicht
+                    gekommen welches er vor kurzem verfertigt hat u dem <persName key="JP-000943">Herzog</persName> von <placeName key="JP-005791">Gotha</placeName>
+                    geschickt. Eine recht schöne Phantasie aber <hi rendition="#u" hand="#author">spanisch katholisch</hi>, in dem Herzen des Protestantismus als
+                    wie <placeName key="JP-006222">Sachsen</placeName> anzusehen ist, muß diesen
+                    Fürsten sehr unheimlich zu Muthe seyn.</p>
+            <p>Werden wir denn <persName key="JP-012266">Ihre liebe Gemahlin</persName> in
+                    diesem Herbst noch als einheimisch bey uns besitzen? Antworten Sie ja, mit der
+                    Aussicht auch Sie dann wenigstens zu sehen. Ich freue mich daß Ihnen <persName key="JP-012083">Adelbert</persName> so viel Freude macht u daß Sie seinen Aufenthalt in <placeName key="JP-006254">Schnepfenthal</placeName> verlängert haben. <persName key="JP-003966">Schwendler</persName> grüßt wie immer warm u treu, wir empfehlen uns u
+                        <persName key="JP-012861">die unsrigen</persName> Ihnen u Ihrer <persName key="JP-012266">Gemahlin</persName> freundlichstem Andenken.</p>
+            <closer>
+               <signed>Die Ihrige. Henriette Schwendler</signed>Recht schätzbar und viel werth sind mir
+                        unsers Landmarschalles Ansichten und humane Urtheile, wir gewinnen <hi rendition="#u" hand="#author">
+                  <persName key="JP-013433">Riedesel</persName>
+               </hi> immer lieber
+                        und achten ihn immer höher, dies zu Ihrer Kunde, da Sie ganz mit uns
+                        übereinstimmen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

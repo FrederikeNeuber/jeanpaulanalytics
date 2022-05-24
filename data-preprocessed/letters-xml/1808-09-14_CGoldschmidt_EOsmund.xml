@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1292">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Goldschmidt an Emanuel. Wien (?), 14. oder 28. September (?)
+                    1808, Mittwoch </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+               <placeName key="JP-006405">Wien</placeName>
+               <date notBefore="1808-09-14" notAfter="1808-09-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <persName key="JP-003654">
+                  <anchor type="target" xml:id="start_xjr_spf_yqb"/>er</persName> das Licht, ob er Sie
+                            wieder sieht. Auch ohne den egoistischen
+                            Rückblick, daß 
+                            durch sein Licht mir auch ein heller Sonnenschein aufgehen würde, wird
+                            mich eine bejahende Antwort erfreuen, beglücken.</p>
+            <p>Dieses Brieflein lieber Emanuel beschränkt sich heute
+                    bloß auf diese Sorge; was ich Ihnen sonst noch schreiben könnte, wissen Sie,
+                    fühlen Sie; und was Sie nicht  </p>
+         </div>
+      </body>
+   </text>
+</TEI>

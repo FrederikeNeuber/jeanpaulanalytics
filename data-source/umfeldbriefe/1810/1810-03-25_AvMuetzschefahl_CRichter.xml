@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0146" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0146" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Antonie von Mützschefahl an Caroline Richter. Meiningen, 25. März 1810, Sonntag</title><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -18,7 +17,8 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                                <p>1 Dbl. 8°, 2⅔ S. S. 4 Adr.:  Der | Frau Legationsräthin Richter | Wohlgebohren | in | <hi rendition="#aq">Bayreuth</hi></p>
+                                <p>1 Dbl. 8°, 2⅔ S. Auf S. 4 Adresse: Der | Frau Legationsräthin
+                                    Richter | Wohlgebohren | in | <hi rendition="#aq">Bayreuth</hi></p>
                             </physDesc>
                         </msDesc>
                     </witness>
@@ -60,7 +60,7 @@
                     <dateline><hi rendition="#aq">Meinungen</hi> den 25ten <hi rendition="#aq">Märtz</hi><lb/><hi rendition="#u" hand="#author" cert="high">1810</hi></dateline>
                     <salute>Geliebte Caroline,</salute>
                 </opener>
-                <p>schon mehremale versuchte ich an Dich zu schreiben, allein mein Unwohlseyn
+                <p>Schon mehremale versuchte ich an Dich zu schreiben, allein mein Unwohlseyn
                     verrieth sich gar zu sehr durch einen mir ungewöhnlichen Trübsinn der lange Zeit
                     unüberwindlich blieb. Deiner Theilnahme bewußt, versagte ich mir daher Dir zu
                     schreiben und tröstete mich mit dem Vorsatz, Dir, die erste heitere Stimmung zu

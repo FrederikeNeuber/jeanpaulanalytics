@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0644">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, um den 2. Juli 1808
+                    (?)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date notBefore="1808-07-01" notAfter="1808-07-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein Brief an <persName key="JP-003469">Carolinen</persName> und <persName key="JP-999999">Richter</persName> wird zur heutigen Post nicht fertig, indem
+                    mehrere Störungen mich hindern. <persName key="JP-002936">Antoniens</persName> Briefe gehen allein ab, es ist vielleicht
+                    beßer wenn unsre Briefe nicht mit einander eintreffen. Wenn gleich <persName key="JP-002936">Antonie</persName> nach ihrer Individuellen Ueberzeugung
+                    sich ausdrükt so geschieht dieß doch in einer solchen Anbetung und Extase, daß leicht, die nicht minder empfundenen aber
+                    weniger poetisch dargestellten Gefühle, der <hi rendition="#u" hand="#author">aeltern Freundinn</hi>, den Schein der Kälte daran tragen
+                    könnten. Ich schreibe mehr und warm, in so fern aber meine Brust und mein Herz
+                    mehrern Freunden angehört  muß mein Ausdruk mäßiger seyn. Daß ich
+                    fremden Werth <hi rendition="#u" hand="#author">ehre</hi> und <hi rendition="#u" hand="#author">gern anerkenne</hi> dieße
+                    Ueberzeugung hat denke ich jeder meiner Freunde. Ich würde gegen mich handeln
+                    wenn ich den Brief an Sie, da er geschloßen ist, nicht heute abgehen ließ! Da er
+                    nun einige Tage früher in Ihre Hände komt, als der
+                            später abgegangne an <persName key="JP-003482">Richters</persName>, so ist es vielleicht
+                    beßer wenn Sie, bis mein Gruß bey <persName key="JP-003469">Caroline</persName>
+                    ist, nichts von dem Ihrigen erwähnen. Doch Sie wißen das beßer. Leben Sie wohl
+                    und glüklich</p>
+            <closer>
+               <salute>Herzliche Grüße an  <persName key="JP-003652">den guten
+                            Israel</persName>, an <hi rendition="#u" hand="#author">
+                     <persName key="JP-012038">Ella</persName>
+                  </hi> und <persName key="JP-003654">den
+                            treflichen Vater</persName>.</salute>
+               <signed>Ihre H.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

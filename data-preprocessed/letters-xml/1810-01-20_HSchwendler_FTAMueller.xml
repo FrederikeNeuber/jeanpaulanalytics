@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0777">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Friedrich von Müller. Meiningen, 20. Januar 1810,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-01-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 20<hi rendition="#uu" hand="#author">ten</hi>Januar <hi rendition="#u" hand="#author">1810</hi>
+               </dateline>
+            </opener>
+            <p>Die unerwartete Erscheinung Ihres Bruders, mein theurer Freund, und dazu die
+                    erfreulichen Nachrichten von dem Befinden <persName key="JP-012266">unsrer
+                        Freundin</persName> und dem Ihrigen, war beydes sehr wohlthätig für mich.
+                    Ohngeachtet ich immer von Zeit zu Zeit Nachrichten von <placeName key="JP-006395">Weimar</placeName> erhielt und zwar beruhigende, so war ich
+                    dennoch in nicht geringen Sorgen um Sie allerseits. In der Entfernung erscheint
+                    jedes Ding anders und die Gerüchte über die herrschende Krankheit in <placeName key="JP-006395">Weimar</placeName> mochten wohl zuweilen übertreiben sein.
+                    Daß ich <persName key="JP-012803">meine Freunde Müllers</persName> unaussprechlich liebe, habe ich nie lebhafter
+                    als in der jüngsten Vergangenheit gefühlt. Aussprechen konnte ich es nicht, weil
+                    in den Augenblicken, die Sie am Krankenbette <persName key="JP-012266">Ihrer Gattin</persName> zubrachten, jedes schriftliche MitGefühl Sie nur mehr verwunden
+                    mußte, als Ihren Kummer mildern, aber redlich theilte ich mit Ihnen! – – – – </p>
+            <p>Gottlob, daß Alles vorüber ist, <persName key="JP-003149">Panzerbieter</persName> der sich mit uns freut, meint, es sey
+                    möglich, daß nach einer solchen Probe die die Lebenskraft und Lebensfähigkeit
+                        <persName key="JP-012266">meiner Freundin</persName> bestanden hat, daß darauf ihre Gesundheit einen ganz neuen
+                    Lebensproceß begönne und sie von jenen kleinen nagenden Beschwerden ganz befreit
+                    würde. Wie sich unser Wünsche zur That verhalten, darüber sagt mir, mein Freund,
+                    wohl zuweilen ein Wörtchen? –</p>
+            <p>Wie sind alle wohl, Ihr Pathe <persName key="JP-003965">Reinhold</persName> macht
+                    mir unendliche Freude, er ist voller Lieblichkeit und Freundlichkeit. Mein
+                    Glaube ist recht bestätigt, daß der Schutzgeist seiner edlen Pathen über ihn
+                    wacht und sichtbarlich den kleinen werdenden Menschen, in ihm schützt. Ich
+                    empfehle meinen Liebling Ihrer Liebe! nicht wahr, Sie halten es für keine leere
+                    Formel wenn ich diese Bitte öfters wiederhohle.</p>
+            <p>
+               <persName key="JP-002936">Unsre Reisende</persName> ist
+                            seit acht Tagen von <placeName key="JP-006427">Iverdün</placeName> zurückgekehrt. Mit Mühe trennte sie sich
+                    früher – als ihr erster Vorsatz war – von einem Orte der ihr so mannichfach
+                    intereßant wurde. Ihre Gesundheit konnte sich durchaus nicht an die häufigen und
+                    Tage lang durchaus dicht über <placeName key="JP-006427">Iverdun</placeName> verbreiteten Nebel gewöhnen und weniger noch
+                    an eine gewiße Nordluft, die Biese genannt. Vielerley
+                    Unpäßlichkeiten zogen ihr beyde zu  so daß sie, nachdem es beynahe
+                    gewiß war, daß sie sich im Winter nicht climatisiren würde, den Entschluß faßte,
+                    zurük zu kehren. Wie ich ihre Gesundheit finde – die aber nicht gefährdet ist, –
+                    meine ich, daß sie wohl gethan hat. Unendlichen Genuß für Geist Herz und Auge
+                    hat sie auf der ganzen Reise gehabt, und daß ihr leicht erregbares jedem schönen
+                    Enthousiasmus sich gern hingebendes Gemüth namentlich <placeName key="JP-006427">Iverdun</placeName> sich wohl gefiel,
+                    brauche ich kaum zu versichtern. Mit der kindlichen Liebe und wahrhaft frommer
+                    Anhänglichkeit schied sie vom großen Volksbildner und in der That einzigen
+                    Menschen <persName key="JP-003192">Pestalozzi</persName>. Es ist mir höchst erbaulich mit ihr ein wenig
+                    in das innere Leben dieses Mannes einzudringen, welche Kraft und Hoheit der
+                    Seele, und wie ergriff ihn die gesunkene Menschheit! – Wenn man dabey die
+                    ungeheuren Schwierigkeiten erwägt die er zu überwinden hatte, wie wenig er
+                    vielleicht jetzt noch verstanden wird und hinzu rechnet wie viel und was er
+                    geleistet hat, so möchte man ihn für einen <hi rendition="#u" hand="#author">Gesendeten</hi> halten. Den herrlichsten Beleg zu <persName key="JP-003192">Pestalozzi’s</persName>
+                    Carakter liefert die von  ihm und seinen Freunden herausgegebne <bibl sameAs="JP-009378" subtype="werk">Zeitschrift für Menschenbildung</bibl>,
+                    und das Beste über ihn und seine Identität, sagt ein
+                            gewißer <hi rendition="#u" hand="#author">
+                  <persName key="JP-003525">Ritter</persName>
+               </hi> in <persName key="JP-001449">Gutsmuths</persName>
+               <bibl sameAs="JP-012012" subtype="werk">Erziehungsblättern</bibl>.<persName key="JP-003525">Ritter</persName> war lange genug in <placeName key="JP-006427">Iverdün</placeName> um alles
+                    prüfen zu können. <persName key="JP-002936">Antonie</persName> freut sich Sie zu
+                    sehen und zu sprechen, kann es nicht eher sein, doch auf ihrer Durchreise in
+                        <placeName key="JP-006395">Weimar</placeName>, wenn Sie im SpätSommer unsre Geschwister in <placeName key="JP-006247">Schlesien</placeName> besucht.</p>
+            <p>Es thut mir leid, daß Ihr Musensitz die <persName key="JP-002054">Princeß <hi rendition="#u" hand="#author">Caroline</hi>
+               </persName> verliert, eine so zarte weibliche Blüthe und so viel Würde, wie kann
+                    die ersetzt werden! –</p>
+            <p>
+               <persName key="JP-004556">Wagner</persName> grüßt Sie mit Liebe und Wärme, sein
+                    Körper neigt immer mehr, aber sein Geist steht in einer Klarheit da, die seinem
+                    ganzen Wesen etwas überirdisches leiht. Von seinem <bibl sameAs="JP-010016" subtype="werk">güldnen A.B.C.</bibl> verspreche ich seinen Freunden reichen
+                    Genuß. Aber warum kann man dieß Leben nicht aufhalten, nicht erhalten? O Gott,
+                    diese Frage kann ich mir niemals befriedigend beantworten.</p>
+            <p>
+               <persName key="JP-003966">Schwendler</persName> schreibt Ihnen selbst, Gruß und
+                    Liebe von uns Allen, der <hi rendition="#u" hand="#author">
+                  <persName key="JP-012266">Guten Genesnen</persName>
+               </hi>.</p>
+            <closer>
+               <salute>Mit unendlicher Ergebenheit</salute>
+               <signed>die Ihrige Henriette Schwendler</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

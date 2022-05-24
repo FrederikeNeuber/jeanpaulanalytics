@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1085">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Friedrich Kind. Leipzig, 2. Mai 1810, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1810-05-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002107">Johann Friedrich Kind</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013033">Minna Spazier-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://digital.slub-dresden.de/id427356539/963"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig 2<hi rendition="#uu" hand="#author">ter</hi>May 1810</dateline>
+            </opener>
+            <p>Ihr Schreiben war mir eben so unerwartet als angenehm. Ich
+                    nehme Ihr Anerbieten mit Vergnügen an, und auch der <persName key="JP-012832">Verlagshandlung</persName> ist es ganz gelegen Ihnen die Summe voraus zu
+                    bezahlen, welche Sie für Ihre Gedichte verlangen. Nur
+                    wünscht sie die Sache so einzurichten, daß  Auslieferung des Mskpts. und
+                    folglich Zahlung der verlangten fünf Friedrich d’or, so lange Anstand haben
+                    mögen, bis der Druck des <bibl sameAs="JP-010375" subtype="werk">Almanachs</bibl>
+                    seinen Anfang nimmt, was sich nicht bis über den
+                            ersten Julius hinaus verziehen kann.</p>
+            <p>In diesem Augenblick wo die <placeName key="JP-011521">Meße</placeName>
+               <persName key="JP-000501">Herrn Brockhaus</persName> so wie jeden andern
+                    Buchhändler beschäftigt, auch bereits Zeichnungen und
+                            Platten abgedruckt werden,
+                    deren Bezahlung dem des Textes vorangehen muß, weil die Künstler seit einem halben Jahre damit
+                    beschäftigt gewesen sind, dürfen Sie also nicht darauf rechnen, doch werden wir
+                    uns schon mit dem Gelde melden, wenn wir  das Manuskript haben müßen.</p>
+            <p>Es wird Sie freuen daß unter vielen neuen Mitarbeitern, als da sind <hi rendition="#u" hand="#author">
+                  <persName key="JP-013461">Streckfuß</persName>
+               </hi>, die
+                                <hi rendition="#u" hand="#author">
+                  <persName key="JP-003225">Pichler</persName>
+               </hi>, <hi rendition="#u" hand="#author">
+                  <persName key="JP-001032">Falk</persName>
+               </hi>, und andre, auch sogar
+                                <persName key="JP-003757">August Wilhelm Schlegel</persName>,
+                            Beiträge geliefert hat, worauf ich
+                            mir, wie Sie von selbst denken können nicht wenig einbilde.</p>
+            <p>Ich schreib Ihnen in großer Eil, denn es ist ein ewiges Gewühl jetzt um uns her,
+                    und wirklich ist lange keine <placeName key="JP-011521">Ostermeße</placeName> so
+                        intereßant gewesen als die
+                    jetzige.</p>
+            <p>Kommen Sie denn nicht einmal nach <placeName key="JP-005948">Leipzig</placeName>?
+                    Wenn Sie uns dann besuchen so werden Sie uns recht freundlich und nett in
+                        <placeName key="JP-011508">Reichels Garten</placeName> antreffen, wo wir uns
+                    sehr wohl befinden.</p>
+            <closer>
+               <salute>Viele Grüße, Ihrer liebenswürdigen <persName key="JP-013404">Frau</persName> ich bin unverändert</salute>
+               <signed>Ihre ganz ergebenste M.
+                                Spazier geb. Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

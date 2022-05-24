@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1289">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 11. März 1808, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1808-03-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012633">Grüße</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 11 März 1808.</dateline>
+               <salute>Gute, theure Car.!</salute>
+            </opener>
+            <p>Ich benutze eine der schönsten, der heiligsten Stimmungen meines Lebens um in ihr
+                        Ihren lieben iüngsten Brief zu
+                    beantworten.</p>
+            <p>Heute ist es ein Jahr, daß der ehrliche, brave Vater meiner Mädel gestorben ist; es wurde ihm heute ein Grabstein
+                    gesetzt.</p>
+            <p>Bei dieser Gelegenheit besucht' ich meine ewig geliebte, himmlische <persName key="JP-003556">Mutter</persName>, seit 7 Wochen wieder zum ersten Mal.</p>
+            <p>
+               <anchor type="target" xml:id="start_ecg_m1g_yqb"/>Seit dem 19 Jan. schläft sie den Schlaf der Seligen.  Ohne die heutige Veranlassung hätt' ich Ihnen diesen großen Verlust vielleicht
+                    noch länger verschwiegen, Car.!</p>
+            <p>Meine <persName key="JP-003556">Mutter</persName> ist jetzt glücklich,
+                    sie ist jetzt glücklicher, als sies hier war; aber man kann nicht leicht besser
+                    seyn, als sie hier schon war.<anchor type="target" xml:id="stop_ecg_m1g_yqb"/>
+            </p>
+            <p>Sie werden ihr Bild hier sehen und an ihm die Wahrheit selbst und auch </p>
+            <p> so kleiner oder eben so großer Städte, als unser <placeName key="JP-005574">Bayreuth</placeName>.  Mein <persName key="JP-003112">Otto</persName> ist in <placeName key="JP-005907">Königsberg</placeName> u wohl.  <persName key="JP-000472">Jette</persName> denkt Ihrer mit
+                    sehr vieler Liebe u oft.</p>
+            <p>Mein <persName key="JP-004367">Uhlf</persName>. freut
+                    sich, Sie kennen zu lernen u grüßt Sie innigst.</p>
+            <p>
+               <persName key="JP-004275">Thieriot</persName> ist gut in <placeName key="JP-006315">Stuttg</placeName> angestellt, ist noch
+                    liebend allein; aber der unruhige Mensch wird nicht lange bleiben.</p>
+            <p>Ihr armer <persName key="JP-012485">Bruder</persName> dauert mich so, daß ich
+                    kein Wort v. ihm oder seiner Lage Ihnen schreiben kann, gute Car.</p>
+            <p>Müßte er doch nicht noch einmal unglücklich
+                            werden!</p>
+            <closer>
+               <salute>Gott laß' es Ihnen stets wohlgehen u wohl seyn, Caroline.</salute>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

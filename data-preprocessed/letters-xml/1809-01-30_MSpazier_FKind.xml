@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1069">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Friedrich Kind. Leipzig, 30. Januar 1809, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1809-01-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002107">Johann Friedrich Kind</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013033">Minna Spazier-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://digital.slub-dresden.de/id427356539/947"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig 30 Januar 809</dateline>
+            </opener>
+            <p>Ich danke Ihnen herzlich, mein theurer K. für Ihre freundliche und schnelle Antwort.</p>
+            <p>Es ist mir herzlich lieb daß ich noch wir sonst auf Sie rechnen kann – denn
+                    Nichts ist in diesen losen und schlechten Zeiten mehr in Ehren zu halten als,
+                        <hi rendition="#u" hand="#author">ein</hi>
+               <hi rendition="#u" hand="#author">Freund</hi>.</p>
+            <p>Wegen meines Ihnen gemachten Antrages noch folgendes. Ich habe übrigens gar nicht
+                    aus Mangel an Vertrauen gegen Sie das Nähere verschwiegen – sonders aus einem
+                    gewißen Schicklichkeitsgefühl – welches mir die Umstände insofern auferlegten,
+                        als ich mich noch in einer gewißen Kollision mit einem
+                            andren Buchhändler befand</p>
+            <p>Die Verlagshandlung für die ich Sie zu gewinnen suche glaube ich Ihnen schon
+                    genannt zu haben. Es ist das <persName key="JP-012832">Industrie
+                        Komtoir</persName> in <placeName key="JP-005528">Amsterdam</placeName>,
+                    deßen Verlagsartikel alle ausgezeichnet sind und Konnexion verrathen. Ich hoffe lieber Kind, daß Ihnen die Gesellschaft von
+                                <persName key="JP-999999">Jean
+                                Paul</persName>, <persName key="JP-000400">Böttcher</persName>,
+                                <persName key="JP-000103">Apel</persName>, <persName key="JP-002892">Müchler</persName>,  – Natalie –
+                                (<persName key="JP-013075">Charlotte von Ahlefeld</persName> –
+                            Verfasserin der <bibl sameAs="JP-008012" subtype="werk">Maria Müller</bibl> – jetzt in <placeName key="JP-005660">Dänemark</placeName>) deren <bibl sameAs="JP-013492" subtype="werk">Gedichte</bibl> vor kurzem bey <persName key="JP-004376">Unger</persName> in <placeName key="JP-005586">Berlin</placeName> erschienen – <hi rendition="#u" hand="#author">recht</hi>
+               <hi rendition="#u" hand="#author">wohl</hi>
+               <hi rendition="#u" hand="#author">werde</hi>.</p>
+            <p>Aufgefordert zum Beitritt sind außer diesen noch: <persName key="JP-001138">Baron dela Motte
+                                    Fouqué</persName> – oder Pelegrin.
+                            – <hi rendition="#u" hand="#author">
+                  <persName key="JP-000196">Baggesen</persName>
+               </hi> – <hi rendition="#u" hand="#author">
+                  <persName key="JP-003027">Oehlenschlager</persName>
+               </hi> – u.s.w. Nahmen doch wohl – die Sie gern hören.</p>
+            <p>
+               <persName key="JP-002583">Mahlmann</persName> nenne ich
+                            nicht weiter. Er versteht sich von selbst – da er in gutem
+                    Vernehmen gegenwärtig steht – mit mir – und auch mit der <persName key="JP-012832">Handlung</persName>. Der Charakter der Entreprise – ist ein
+                        <hi rendition="#u" hand="#author">poetisches</hi> Taschenbuch
+                    auf <hi rendition="#u" hand="#author">1810</hi>. – Zu deßen Schmuck
+                    der geistvolle und bemittelte <persName key="JP-000501">Verleger</persName> –
+                    alles aufwendet, was seine Connexion, seine artistischen Kenntniße, sein Verkehr
+                    mit den berühmtesten Instituten, seine Bekanntschaft mit den Schätzen an der
+                    Gallerie von Paris und aller großen Plätze des Auslandes – ihm leicht
+                    machen.</p>
+            <p>
+               <persName key="JP-000400">Herr Hofrath
+                                Bötticher</persName> intereßiert sich in <placeName key="JP-005687">Dresden</placeName> für die  Besorgung der Kupfer – in Hinsicht auf
+                            welche <persName key="JP-011903">
+                  <hi rendition="#u" hand="#author">Hartmann</hi>
+               </persName> und <hi rendition="#u" hand="#author">
+                  <persName key="JP-012691">Friedrich</persName>
+               </hi> vielleicht  Aufträge übernehmen werden. –</p>
+            <p>Ich habe alle Ursache <hi rendition="#u" hand="#author">für</hi>
+               <hi rendition="#u" hand="#author">mich</hi> auf die besten
+                    Bedingungen zu rechnen – so wie Jedermann die Proposition an die Mitarbeiter gut
+                    nennen würde. –</p>
+            <p>Hier habe ich nun also gebeichtet – lieber K. mehr als ich eigentlich soll. Ich
+                    hoffe aber gewiß auf Ihre Verschwiegenheit rechnen zu dürfen.</p>
+            <p>Sie wißen das <hi rendition="#u" hand="#author">Plötzliche</hi> ist
+                    bei diesen Dingen immer das Beste. Wenn vorher viel geschwatzt wird, so wird der
+                    Eindruck matt.</p>
+            <p>Verzeihen Sie die Liederlichkeit dieses Briefes. Ich schreib‘ ihn in der großten
+                    Eile, da noch immer ein Wust von Briefen vor mir liegt, die ich zu beantworten
+                    habe.</p>
+            <p>Laßen Sie mich ja bald wieder von Ihnen hören. Darf ich
+                            denn itzt einmal <hi rendition="#u" hand="#author">bestimmt</hi> auf eine Novelle
+                            rechnen? – Ihr Gedicht <hi rendition="#u" hand="#author">der Harfner</hi> in den
+                            letzten Blättern der <bibl sameAs="JP-009809" subtype="werk">eleganten
+                                Zeitung</bibl> ist göttlich – So ätherisch, und körperlich
+                    zugleich. Man möchte  nach den Gestalten mit
+                    Händen greifen, und doch ziehen sie wie Silfen über unsre Häupter weg. 
+                    Adieu, lieber K.</p>
+            <closer>
+               <salute>Die herzlichsten Grüße an Ihre liebe <persName key="JP-013404">Frau</persName> von</salute>
+               <signed>Ihrer ergebensten Minna
+                                Spazier.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <anchor type="target" xml:id="start_vmd_bl3_z4b"/>Ihr Anerbieten
+                        wegen einiger Gesänge u das eines größeren Gedicht darf ich nicht
+                            annehmen weil ich lauter <hi rendition="#u" hand="#author">Ganze</hi> liefern muß. Auf die Ballade u.s.w. rechne ich
+                        aber sehr.</p>
+               <p>Das wichtigste bleibt mir aber immer <hi rendition="#u" hand="#author">Ihre</hi>
+                  <hi rendition="#u" hand="#author">Erzählung</hi>.<anchor type="target" xml:id="stop_vmd_bl3_z4b"/> Dannach läßt sich ja auch <hi rendition="#u" hand="#author">der</hi>
+                  <hi rendition="#u" hand="#author">Gewinn</hi>
+                  <hi rendition="#u" hand="#author">für</hi>
+                  <hi rendition="#u" hand="#author">Sie</hi> weit mehr in Anschlag
+                        bringen – als nach einzelnen Gedichten die wenige Blätter füllen.</p>
+               <p>Sie sehen daß ich ganz ehrlich von der Sache mit Ihnen rede. Ich hoffe daß
+                        ich in <hi rendition="#u" hand="#author">Ihren</hi>
+                  <hi rendition="#u" hand="#author">Augen</hi>, durch diese
+                        Offenheit nichts verlieren werde.  Adieu liebster K.
+                        Laßen Sie mich nicht zu lange auf einen Brief hoffen!</p>
+               <closer>
+                  <signed>M.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

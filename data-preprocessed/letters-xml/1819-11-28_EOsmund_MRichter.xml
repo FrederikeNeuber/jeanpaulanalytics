@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1360">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel Osmund an Max Richter. Bayreuth, 28. November 1819,
+                    Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1819-11-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein guter Max! <persName key="JP-003469">Deine gute
+                        Mutter</persName> hat mir den Auftrag gegeben, Dir <ref type="letter" target="JP-UB0508">dieses Brieflein</ref> und 11 f zustellen zu lassen. Ich
+                    will diese gute Gelegenheit benützen und Dir recht herzlich danken, für Deine
+                    Worte, die Du mir und unserm <persName key="JP-003112">Otto</persName> zurück gelassen hast, für Dein liebes Andenken an
+                        <persName key="JP-003095">unser liebes Thereschen</persName> in Deinem
+                    eigenen Geburtsmonat und für die Freude, die Du uns durch Deine Worte an Deine lieben Eltern
+                        machest. Fahre fort im Freudenmachen!</p>
+            <p>Heut will ich noch <persName key="JP-999999">Deinen guten Vater</persName>
+                    besuchen und mich, was mir so selten wird, an seiner Brust und an seinem Auge
+                    erholen.</p>
+            <closer>
+               <salute>
+                  <persName key="JP-003092">Meine Frau</persName> grüßt Dich und ich küße
+                        Dich mit alter Liebe.</salute>
+               <signed>Bleib uns gesund, geliebter, theurer Max! Osmund</signed>
+               <dateline>Sonntag 28 Nov. 19.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

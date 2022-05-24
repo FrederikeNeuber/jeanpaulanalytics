@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0309">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Antonie von Mützschefahl. Bayreuth, 14. Januar 1809, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1809-01-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <persName key="JP-003749">Amanda Schlabrendorff</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 14 Jan. 9</dateline>
+            </opener>
+            <p>Schönen Dank, gute Antonie, für Ihre lieben Worte, recht schönen Dank, für diese
+                    nicht erwartete Freude! <anchor type="target" xml:id="start_ncq_zl3_2mb"/>Wer es weiß, wie ich, wie
+                            fleisig Sie sind und wie häuslich Sie mit Ihrer Zeit um zu gehen wissen
+                            u wie nützlich Sie diese anzuwenden u Ewigkeit aus ihr zu machen wissen,
+                            der schätzt sich noch mehr glücklich, Beweise Ihres Andenkens
+                            zu empfangen<anchor type="target" xml:id="stop_ncq_zl3_2mb"/>.</p>
+            <p>
+               <anchor type="target" xml:id="start_hjf_gm3_2mb"/>Auch ich bin seit einiger Zeit
+                    fleisiger, als ich es lange nicht war: ich lese jetzt viel u bin also viel zu
+                        Hause.<anchor type="target" xml:id="stop_hjf_gm3_2mb"/>
+            </p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0379/#start_i4g_btl_dmb">Unsre <persName key="JP-003482">Richters</persName> wohnen mir sehr nahe, nur einige Häuser von
+                        mir</ref>; ab. wir sehen uns doch viel weniger, als wir uns sonst gesehen
+                        haben. Aber wir lieben uns wenigstens noch so heiß wie
+                    sonst u bei diesem Bewußtseyn bedarfs nicht des often Sehens.</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0379/#start_bqj_dtl_dmb">Ich glaubte mit Furcht, Sie, gute Antonie, nehmen mich für viel besser, als
+                        ich bin, weil ich nicht annehmen kann, es nicht darf, daß Sie mir etwas
+                        sagen wollen, das Ihre Seele nicht ausspricht.</ref> Kein Mensch füllet besser seinen Platz unter den Unvollkommenen aus – als
+                        ich. Edle Menschen, große kann ich mit Stolz sagen,
+                    finden bisweilen u haben gefunden manches Gute in meinem Herzen – Sie sehen, daß
+                    ich nicht sehr wider mich eingenommen bin – u zogen dieß Gute mit Innigkeit an
+                    sich; allein dieß reichet weit nicht zu, daß meine beständige oder auch nur
+                    öftere Erscheinung, aus der Erde einen Himmel machen könnte, diesen Edlen. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0379/#start_bp3_ltl_dmb">Wohl bedarf ich <persName key="JP-003482">Richters</persName>; aber
+                            <persName key="JP-003482">Richters</persName>
+                        bedürfen meiner nicht.</ref>
+            </p>
+            <p>
+               <persName key="JP-003483">Die Kinder</persName> – das ist ein großer Vortheil für
+                    mich – können ohne Geleit zu mir herüber laufen und diese machen mich oft selbst
+                    zu einem, nur zu keinem richterischen; denn sie werden täglich besser und man
+                    weiß wirklich nicht welches man vorziehen soll. Nur uns
+                    können wir glücklich machen; aber wir verfehlen so oft das Ziel. Sind
+                    wir aber so glücklich, so gute Menschen wie die Meininger die in diesem letzten Sommer bei uns
+                            waren, froh zu sehen, oder gar froh zu machen, dann haben
+                    wir unser Ziel erreicht: wir sind glücklich. Sie können
+                    nun daraus folgern, daß es mir die angenehmste Erinnerung ist, wenn ich mir
+                    diese mit Ihnen verlebten Tage zurückrufe. Möchten Sie sie
+                    eben so als ich und möchten Sie mich nicht zu bald vergessen!</p>
+            <closer>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

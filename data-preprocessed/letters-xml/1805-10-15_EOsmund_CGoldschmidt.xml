@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1271">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, nach dem 14. Oktober 1805</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date notBefore="1805-10-15" notAfter="1805-12-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-012212">Liebesleben / Kennenlernen / Ehe</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B.
+                                6Oct. 5.</dateline>
+            </opener>
+            <p>M. g. Car.! <anchor type="target" xml:id="start_bbc_bpv_pqb"/>Schon Sonntag hätt' ich u m.
+                        <persName key="JP-003652">Isr.</persName> Ihnen
+                    gerne geantw., wenn uns beiden nicht Modekrankheiten:
+                            Schnupfen, Katharr, Husten u dergleichen v. Schreibtisch geschieden hätten.</p>
+            <p>Heute geht es uns besser, bis Sie das lesen – gut u so will u kann ich es Ihnen
+                        versprechen.<anchor type="target" xml:id="stop_bbc_bpv_pqb"/>
+            </p>
+            <p>Wohl würd' ich Ihnen nichts v. diesem Nichtwohlseyn geschrieben haben, da ich
+                    nicht einmal gerne dav. spreche; ab. ich fürchte, daß man dem Brief es
+                    ansieht, daß m. Kopf noch nicht ganz heiter ist u dadurch könnte es leicht auf
+                    einen unschuldigen Theil geschoben werden, verschwieg' ich die
+                    Ursache.</p>
+            <p>Und mir ist wohl, weil meine Seele seit einiger Zeit schön u gut gestimmt
+                    ist.</p>
+            <p>Selbst diese körperlichen Übel passen zu ihrer Stimmung u stören sie nicht im
+                    mindesten.</p>
+            <p>Nichts thut mir so wohl, als meine Kraft, nicht ganz delikate Behandelungen
+                    meiner sogenannnten Freunde – die ich gewöhnlich zu sehr fühle – ruhig
+                    ertragen zu haben.</p>
+            <p>Hab' ich diesen Sieg bisweilen üb. mich dav. getragen – dann fehl' ich gewiß
+                    nicht leicht in sehr kurzer Zeit.  Ab. es bedarf der Siege
+                    u der Kraft oft leider! zu viel.</p>
+            <p>Wahrscheinlich wissen Sie's schon lange, daß meine <persName key="JP-003556">Mutter</persName> meinen <persName key="JP-003652">Bruder</persName> hinter mir nach Hause verschrieben hatte.  <anchor type="target" xml:id="start_ndc_t5v_pqb"/>Ich ließ
+                    mich schon vor mehreren Monaten f. ihn malen; wurde ab. nur wenig getroffen.
+                         Um ihm wenigstens eine kleine Freude zu machen,
+                    schickt ich ihm endlich das Gemälde doch u dieses traf ihn nicht mehr u
+                    welcher Zufall, durch <hi rendition="#u" hand="#author">Ihre</hi> Hände kam es wieder in die
+                                meinigen<anchor type="target" xml:id="stop_ndc_t5v_pqb"/>
+                    und in die seinigen.  Also eine schlechte Kopie war in
+                    dems. Monat Ao 5 mit Ihnen in <placeName key="JP-005948">Leipzig</placeName>, in demselben Monat war Ao 1 das arme Original das. mit Ihnen.  Es überraschte mich die
+                    Nachricht in Ihrem lieben Jüngsten aus <placeName key="JP-005687">Dresden</placeName>, die Sie mir v. meines <persName key="JP-003652">Bruders</persName> Ankunft gaben, da ich es heute noch nicht
+                    begreifen kann, wie S. sie so lange vor mir u so bestimmt hatten.</p>
+            <p>
+               <persName key="JP-999999">Richter</persName> wird gewiß keinen Gebrauch v. Ihren
+                            Schilderungen machen.  Ich glaube noch immer, Car. daß Sie sich
+                            einen viel, viel zu guten Menschen damals auf der <placeName key="JP-011521">Leipzger Meße</placeName> herausgefunden haben.
+                                 Mein Fund ist gewiß <hi rendition="#u" hand="#author">besser</hi>.  Ihr <placeName key="JP-005812">Hamburger</placeName> Brf. ist hier viel eher, als <ref type="letter" target="JP-UB1270">ihr Lei<placeName key="JP-005948">pziger</placeName>
+               </ref> angekommen.  Gerade am
+                        14 Oct. an dem S. v. <placeName key="JP-005687">Dresden</placeName> abgehen wollten, ist m. guter <persName key="JP-003652">Bruder</persName> hier angekommen.  Wir leben wieder
+                    sehr schön zusammen u wir werden es Gottwohl so lange uns nicht Menschen od.
+                    Verhältniße trennen.</p>
+            <p>Ich rechne auf <placeName key="JP-005812">Hamburger</placeName> Schilderung b. u
+                    v. Ihnen.  M. guter <persName key="JP-003652">Bruder</persName> ist keiner der besten Maler, obgleich ihm die
+                    Farbe aller Farben, die weiße, d. i. die Wahrht nicht fehlt.</p>
+            <p>Schrieb' ich Ihnen jetzt meinen vorjährigen <ref type="letter" target="JP-UB0524">Regensburger Brief</ref>Car. ich müßte u würde – weil mir die weiße
+                            Farbe b. Ihnen nie fehlen darf – Manches in ihm nicht mehr schreiben:
+                            meine Freiheit ist mir nämlich ganz wieder geworden, od. viel
+                            mehr wieder gegeben worden und nun soll sie mir bleiben.<anchor type="target" xml:id="stop_jqj_twv_5qb"/> Mein Lebensziel ist Einfachheit, Ruhe mit Thätigkt
+                    gepaart, mein Lebensziel ist – wenn ich es recht beim wahren Namen nennen soll:
+                        <hi rendition="#u" hand="#author">Wenig</hi> u zwar noch weniger
+                    als ich schon erzielt habe und doch werd' ich dies wenig nicht erreichen, so
+                    wenig als das Ende dieses Blattes, weil dieses mein Kopf – so wie jenes mein
+                    Loos nicht zu geben will, wie es mir scheint.  Allein ich
+                    frage nach beiden nichts, brauch' es auch nicht, da der Mensch kann was er will,
+                    u schreibe zu.  Bleiben S. so lange in <placeName key="JP-005812">Hamburg</placeName> bis der <persName key="JP-013590">B.rathArens</persName> u seine <persName key="JP-013589">Frau</persName> wieder aus <placeName key="JP-005872">Italien</placeName> zurück kommen: so wünscht' ich Ihnen u ihnen daß Ihr
+                    Euch fändet.</p>
+            <p>Ich mag keine neue Bekanntschften mehr; ab. ich vereinige gerne gute Menschen u
+                    noch lieber – wie es hier der Fall ist – wenn diese auch Künstler sind.  Mein <persName key="JP-004367">Uhlf</persName>. grüßt S. herzlichCar., dieser edle Mensch ist auch mein Haus Seelen u LeibArzt.  Seyen S. immer gesund u froh, gute Car. u glauben S. daß ich dieß dadurch auch bin.</p>
+            <closer>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

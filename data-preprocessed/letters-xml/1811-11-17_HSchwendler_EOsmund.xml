@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0426">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 17. November 1811, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1811-11-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 17<hi rendition="#uu" hand="#author">ten</hi> November <hi rendition="#u" hand="#author">1811</hi>
+               </dateline>
+            </opener>
+            <p>Die Bestätigung, mein theurer Emanuel, Ihres Kommens
+                            durch <persName key="JP-011792">Demoiselle Romberg</persName> näher
+                            zu hören, hat dem gebeugten Mutterherzen Ihrer
+                    Freundinn Henriette sehr wohl gethan. Ich sehne mich unendlich nach Ihnen! seit ich ärmer geworden bin dünkt
+                    es mich würden alle meine Empfindungen dumpfer als könnte ich keine rechte innre
+                    Harmonie mehr finden. Ach es war ein gar zu herziges Kind, <persName key="JP-012469">meine kleine Antonie</persName>, und ihr Tod war so
+                    gewaltsam — </p>
+            <p>In 36 Stunden blühend und verblüht, ein so schneller Uebergang von gehabten und vergangnen Freuden war für mein Herz kaum zu ertragen.</p>
+            <p>Ich weiß wohl, daß in des allliebenden Schoß <persName key="JP-012469">mein
+                        Kind</persName> ruht aber ich wollte es ja auch unendlich lieben auf der
+                    Erden und es war mit so süß, das liebe Geschöpfchen zu pflegen es zu schützen
+                    vorm Bösen. Ich bin still, lieber Emanuel, ich murre nicht, nur sehr betrübt
+                        bin ich. Werden Sie mich denn
+                    ertragen? ja Sie werden es, aus der Fülle Ihres großen Herzens wird Trost in das
+                    meinige träufeln und dafür wird Sie der liebe Gott segnen. Ich sähe es gern wenn
+                    Sie uns von Ihrer Ankunft noch einmahl benachrichtigen. Ihr  Stübchen
+                    ist bereitet, und mit Liebe werden Sie von uns Allen erwartet.</p>
+            <p>
+               <hi rendition="#u" hand="#author">
+                  <persName key="JP-002936">Antonie</persName> die Schwester</hi> und <persName key="JP-012595">ihr Pflege Kind</persName> finden Sie bey mir,
+                        <persName key="JP-012187">mein Schwager</persName> hat mir beyde
+                    zugeführt und seit 2 Tagen ist er wieder abgereist. Im Frühjahr geht <persName key="JP-002936">Antonie</persName> und <persName key="JP-012595">das
+                        Kind</persName> wieder nach <placeName key="JP-005622">Breslau</placeName>,
+                    wer weiß was dann geschieht. – – – – </p>
+            <p>
+               <persName key="JP-012187">Fischer</persName> ist ein vortreflicher Mann er
+                    war 14 Tage bey uns, obschon mein Kummer im Herzen mich nicht ganz empfänglich
+                    für Geselligkeit machte, so habe ich vielleicht desto beßer prüfen können. Ich
+                    habe Ihnen vieles zu sagen! –</p>
+            <p>Anschließende Zeilen habe ich schon lange für Sie geschrieben,
+                    damals war ich noch 
+                    reich. Nun habe ich dem Himmel die Hälfte zurükgegeben, O Gott werde ich denn
+                    diese behalten, <persName key="JP-003965">Reinhold</persName> ist himmlisch,
+                        <persName key="JP-003971">Pauline</persName> from und wild, <persName key="JP-003749">Amanda</persName> waker, aber <persName key="JP-012469">die Kleinste</persName> fehlt überall – – </p>
+            <closer>
+               <salute>Auf Wiedersehen, guter treuer Freund Gruß und Liebe an <persName key="JP-003482">Richters</persName> und an <persName key="JP-003884">Henriette S.</persName>
+               </salute>
+               <signed>die Ihrige Henriette</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

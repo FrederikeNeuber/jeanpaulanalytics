@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB1016" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB1016" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Max Richter an Caroline Richter. Heidelberg, um den 7. Juni 1821</title><respStmt><persName><surname>Hartmann</surname><forename>Dürten</forename></persName><resp><note type="remarkResponsibility">Bearbeiterin</note></resp></respStmt><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -26,7 +25,7 @@
                         </msDesc>
                     </witness>
                 </listWit>
-                <p/>
+                <p>Blatt in der Mitte am Blattfalz durchgerissen.</p>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -109,12 +108,11 @@
                     ein Gedanke von mir, der bei der That als schlechter wegfällt und dem guten
                     Platz macht. Doch ich verirre mich nun. Die Zeit fodert das Schlafrecht der
                     Menschen. Deßwegen Gute, gute Nacht, Herzensmutter. Will sehen, was mir der
-                    Morgen eingibt. Wenn mir nur <gap reason="illegible"/> Traum Euch Alle lebendig
-                    vorführte, dann würde ich gleich am Morgen recht gut sein u <hi rendition="#u" hand="#author" cert="high">so</hi> auch schreiben. Hofnung, Hofnung,
-                    Hoffnung. Gute Nacht, <persName key="JP-999999">Vater</persName>, Mutter,
-                        <persName key="JP-003484">Schwestern</persName>. – Der freundliche Morgen
-                    soll auch, denk freundlicher hier fortfahren. Ohne meinen Morgengruß beizusetzen
-                    gibt <persName key="JP-000587">Carové</persName> einen herzlichen <ref type="letter" subtype="passage" target="JP-UB0088/#start_kyl_nqc_l4b">für
+                    Morgen eingibt. Wenn mir nur e Traum Euch Alle lebendig vorführte, dann würde
+                    ich gleich am Morgen recht gut sein u <hi rendition="#u" hand="#author" cert="high">so</hi> auch schreiben. Hofnung, Hofnung, Hoffnung. Gute Nacht,
+                        <persName key="JP-999999">Vater</persName>, Mutter, <persName key="JP-003484">Schwestern</persName>. – Der freundliche Morgen soll auch,
+                    denk freundlicher hier fortfahren. Ohne meinen Morgengruß beizusetzen gibt
+                        <persName key="JP-000587">Carové</persName> einen herzlichen <ref type="letter" subtype="passage" target="JP-UB0088/#start_kyl_nqc_l4b">für
                         die <del rendition="#s" cert="high" hand="#author">große</del>
                         Aufmerksamkeit, die ihm des elenden Bildes wegen wiederfuhr</ref>. Er
                     lachte, wie ich, ganz gewaltig bei <seg type="comment"><orig>den Worten der

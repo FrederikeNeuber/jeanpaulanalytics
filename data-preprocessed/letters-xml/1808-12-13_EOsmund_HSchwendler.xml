@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0689">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Henriette Schwendler. Bayreuth, 13. Dezember 1808,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1808-12-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <persName key="JP-003749">Amanda Schlabrendorff</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 13 Dec. 8.</dateline>
+            </opener>
+            <p>Gut- und freundschaftlichgesinnte! Weder in mir noch in Ihnen, sondern außer uns hab' ich die
+                            Ursache Ihres allgemeinen Schweigens ruhig gesucht und eben so dessen
+                            Unterbrechung abgewartet. Gestern wurde
+                    mein Suchen und mein Warten schön belohnt, durch <ref type="letter" target="JP-UB0038">Ihren lieben Brief</ref> und <anchor type="target" xml:id="start_jjr_rbx_cmb"/>der geliebten zwei Beilagen<anchor type="target" xml:id="stop_jjr_rbx_cmb"/>. Nehmen Sie einstweilen
+                    meinen heutigen Dank in großen Zügen, für sich, <persName key="JP-002936">die
+                        edle Schwester</persName> und <persName key="JP-003749">die gute
+                        Tochter</persName> an; bald sollen die schuldigen Antworten auch
+                    erfolgen.</p>
+            <p>Wie konnten Sie mir diese zwei schönen Blätter seit dem
+                                17<hi rendition="#u" hand="#author">ten</hi>Oct. vorenthalten? Das
+                    fragt Sie doch heute schon mein Herz.</p>
+            <p>Gottlob! daß <persName key="JP-003749">Amanda</persName>
+                    – ich grüße sie recht herzlich – <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0038/#start_lxw_1dx_cmb">wieder gesund ist</ref> und <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0038/#start_b1c_fdx_cmb">daß <persName key="JP-003966">Schwendler</persName> doppelte Beweise der Dankbarkeit seiner
+                        Fürstin bekommen hat</ref>! Ich hoffe mit Ihnen und
+                    wünsche Ihnen Glück und Segen zur guten Hofnung.</p>
+            <p>Lassen Sie <persName key="JP-002936">der
+                                Schwester</persName> immer ihre Bücher und
+                        <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0038/#start_iqp_rdx_cmb">
+                  <persName key="JP-003749">der
+                            Tochter</persName> den ihr wohlthätigen kleinen Hof</ref>; Sie haben
+                    Sich, <persName key="JP-003966">Mann</persName>, <persName key="JP-003967">Kinder</persName> und noch Vieles um Geistesbeschäftigungen und Erholungen
+                    hinlänglich zu genießen.</p>
+            <p>Auch ich habe mich noch mehr zurück- und eingezogen.</p>
+            <p>Seit 4 Wochen wohnen mir unsre Richters nahe; aber ich sehe sie
+                    weniger als sonst.</p>
+            <p>Die <persName key="JP-003491">Odilie</persName> spielt
+                    eben bei mir und ist so glücklich als ihr Wirth durch sie.</p>
+            <p>
+               <persName key="JP-003469">Caroline</persName> will Ihnen
+                    heute schreiben.</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0038/#start_agg_p2x_cmb">
+                  <persName key="JP-002357">Langermann</persName> ist wohl kein <hi rendition="#u" hand="#author">Mann</hi> der nach einem Weibe
+                            <hi rendition="#u" hand="#author">langet</hi>; <persName key="JP-003749">Amanda</persName> hat es
+                        nicht errathen.</ref>
+            </p>
+            <p>
+               <persName key="JP-002021">Kanne</persName> heißt der
+                    Geliebte <persName key="JP-001713">Jettens</persName>.</p>
+            <p>Er ist als Profeßor nach <placeName key="JP-006085">Nbg</placeName>. gerufen
+                    worden, wohin er bald gehen wird. Gegenwärtig ist er in
+                        <placeName key="JP-005786">Göttingen</placeName>. <anchor type="target" xml:id="start_sm2_wvd_dmb"/>Geht er durch <placeName key="JP-006012">Meiningen</placeName>: so soll er Sie aufsuchen.<anchor type="target" xml:id="stop_sm2_wvd_dmb"/> Ich schreibe
+                    ihm heute und will es ihm aufgeben. Mein guter <persName key="JP-004179">Stokar</persName> war 3 Wochen mit
+                    mir in <placeName key="JP-005681">Döhlau</placeName> recht vergnügt.</p>
+            <p>Jetzt ist er lange wieder in <placeName key="JP-006179">Regensbrg</placeName>.</p>
+            <p>Auch ich glaub' es immer mehr, daß meine Stellung unter den Menschen, für mich
+                    von der Vorsehung am gerechtesten und am besten ausersehen ist.</p>
+            <p>Erde heißt mein eigner Heerd und Menschen heißen meine Familie. <anchor type="target" xml:id="start_sb3_3ml_dmb"/>Wir haben
+                    viel <placeName key="JP-011308">französisches Militair</placeName> hier u im
+                        Lande. Eben haben sich mir 2 Offiziere auf Ordre
+                        angemeldet.<anchor type="target" xml:id="stop_sb3_3ml_dmb"/>
+            </p>
+            <p>
+               <placeName key="JP-011044">Meine ruhige, sonst so stille
+                    Wohnung</placeName>!</p>
+            <p>Meine liebe <persName key="JP-003971">Pauline</persName> küß' ich kindlich u
+                    heiß.</p>
+            <p>
+               <anchor type="target" xml:id="start_gf5_fwd_dmb"/>Besser konnt' ich das Geschirr nicht bekommen, auch sonst
+                                nichts.<anchor type="target" xml:id="stop_gf5_fwd_dmb"/> Mich freut es, daß Sie mir diesen Auftrag gegeben und noch mehr würde es mich
+                    freuen, wenn Sie mich nicht noch einmal um den Preis dieser Kleinigkeiten fragen
+                        möchten. Ihre Grüße sollen besorgt und mit Freude
+                    aufgenommen werden.</p>
+            <closer>
+               <salute>
+                  <anchor type="target" xml:id="start_jg2_xl3_2mb"/>
+                  <persName key="JP-002936">Die vielwissend und viellesende Schwester<anchor type="target" xml:id="stop_jg2_xl3_2mb"/>
+                  </persName> und <persName key="JP-003966">den thätigen, treuen Gatten</persName> grüß' ich durch
+                        Sie, meine verehrteste u treuste Freundin!</salute>
+               <signed>Em.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

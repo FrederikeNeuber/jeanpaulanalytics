@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1272">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 20. Dezember 1805,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1805-12-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012010">Judentum</term>
+               <term xml:id="JP-012430">Religion</term>
+               <term xml:id="JP-012494">Ernährung</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 20 Dec. 5.</dateline>
+            </opener>
+            <p>Gute Car.! Ich habe eine Veränderung in der Stellung
+                    meines lieben Schreibtisches vorgenommen u das erste Wort, das ich wieder auf
+                    ihm schreibe sei Ihnen geweihet u an Sie!</p>
+            <p>Wenn bei den Juden der Eß<hi rendition="#u" hand="#author">tisch</hi>
+                    heilig gehalten und "Opfer<hi rendition="#u" hand="#author">stuhl</hi>" geheißen wird: so haben sie nicht Unrecht, weil nach uns der
+                    Mensch nur so viel essen soll und nur dieserwegen soll, um seinem Gotte dienen
+                    zu können (natürlich könnte man den Eßtisch mancher, Opfertisch heißen, weil auf
+                    ihm der Geist dem Körper geopfert wird;) aber meinen Schreibtisch zieh' ich
+                    schon aus dem Grunde meinem Eßtische weit vor, weil da nur meine Seele – nie
+                    mein Körper speißet und gespeißet wird.</p>
+            <p>
+               <anchor type="target" xml:id="start_az1_nqb_qqb"/>Freilich wird da neben und
+                    unter häuslichen, kräftigen Suppen – obgleich keine rumfordische, –
+                    auch manche Wassersuppe manchem Reichen zu bereitet; aber darinn besteht der
+                    Reichthum, in Genügsamkeit, in Zufriedenheit.</p>
+            <p>Auch ist nur der <hi rendition="#u" hand="#author">Reiche</hi>
+                        dankbar.<anchor type="target" xml:id="stop_az1_nqb_qqb"/>
+            </p>
+            <p>Aber sehen Sie wie das Waßer auf der neuen Stelle des Tisches fließet, Car.!</p>
+            <p> Warum glauben Sie mirs denn nicht, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1271/#start_bbc_bpv_pqb">wenn ich Ihnen
+                        sage, daß ich gesund bin bis Sie meinen Brief haben</ref>?</p>
+            <p>Wer mir das Gute nicht glaubt, der sollte mir das andere auch nicht glauben u dem
+                    darf ich das andere auch nie wieder schreiben.</p>
+            <p>Hätt' ich meinen dummen, wetterlaunischen Kopf nicht: ich wüßte in manchem Jahr
+                    nichts von der unbedeutensten Krankheit zu reden.</p>
+            <p>Ich bin Gottlob! gesund.</p>
+            <p>O, gute Car., wie ganz fühl' ich das Niedertreten Ihrer
+                    schönsten Gefühle!</p>
+            <p>Nicht Ein – mehr mal wurde
+                    ich so getreten u <hi rendition="#u" hand="#author">der</hi>, der
+                    den getretenen aufhilft – hat mir immer wieder aufgeholfen.</p>
+            <p>Und am Ende wird man doch aus der Erde hinausgetreten – was auch nichts
+                    schadet.</p>
+            <p>Glauben S. mir's, Car, daß mir Ihr Stolz auf meine
+                    Freundschaft recht sehr wohl thut.</p>
+            <p>Es thut mir Ihr Stolz wohl, weil ich  stolz auf ihn bin; denn ich halte
+                    Sie für recht gut u recht wahr u ich möchte Ihnen dieses Geständniß, mit allen
+                    Wahrheiten, die ich Ihnen seit unsers Findens sagte, in jedem Brief
+                    wiederholen.</p>
+            <p>Ganz, ganz stimm' ich mit Ihnen überein, daß absichtslose, uneigennützige Seelen
+                    nichts in der Welt trennen kann, da nur sie – sonst nichts als sie, sie
+                    vereinigt hat.</p>
+            <p>Mir ist es jetzt, indem ich Ihren lieben
+                            Brief noch einmal durchlese – als hätt' ich Ihnen
+                    ihn schon einmal selbst dem Inhalte nach geschrieben.</p>
+            <p>Ein edleres Menschenwesen u ein treuern Freund giebt es nicht – als mein <persName key="JP-004367">Uhlf</persName>. ist.</p>
+            <p>Er schätzt, achtet u liebt Sie rein und hoch u verdient dieß alles auch v.
+                    Ihnen.</p>
+            <p>Recht herzlich grüßt er Sie.</p>
+            <p>Mir ist es lieb, daß Sie mein Bild nicht gesehen haben
+                            – so gerne ich Ihnen die Erlaubniß, es zu öfnen gegben haben
+                            würde – weil ich zu leidend gemalt bin und
+                    nicht geistkräftig genug.</p>
+            <p>Es hat auch nicht Einen meiner Freunde befriediget. </p>
+            <p> Sie sehen also doch, daß ich mich für 8 Thaler zu schätzen wußte.</p>
+            <p>Die Beschreibung, die Sie mir v. <placeName key="JP-005812">Hamburg</placeName>
+                    machen, macht mir so viel Vergnügen, als die des guten v.
+                                Hesse, die Sie lesen
+                    werden.</p>
+            <p>Ich danke Ihnen recht sehr für dieses Gemälde u bitte, bitte um mehr!</p>
+            <p>Bei <hi rendition="#u" hand="#author">uns</hi> ist es leider "überall
+                    wie bei uns"</p>
+            <p>Daß ich ein <placeName key="JP-005681">Rittergut</placeName> gekauft habe, das hab' ich Ihnen längst
+                            geschrieben; in der vorigen Woche hab' ich es nun in Besitz genommen u
+                            war einige Tage daselbst.</p>
+            <p>Im nächsten Sommer sitz' ich u arbeite ich darauf – bis ich es nicht mehr
+                    habe.</p>
+            <p>Noch im alten oder gleich im Anfang des neuen Jahres
+                            erwart' ich meinen <persName key="JP-004275">Thieriot</persName>, aus <placeName key="JP-005539">Aschaffenburg</placeName>.</p>
+            <p>Grüssen Sie mir Ihren guten <persName key="JP-012485">Bruder</persName> u sein gutes Weib u danken S. ihnen für ihr Andenken.</p>
+            <closer>
+               <salute>Bleiben Sie so gesund, als wohl Ihrer Seele ist, Car!</salute>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

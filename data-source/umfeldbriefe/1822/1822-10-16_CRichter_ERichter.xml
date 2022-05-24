@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0062" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0062" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Caroline Richter an Emma Richter. Würzburg, 16. Oktober 1822, Mittwoch</title><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -23,8 +22,8 @@
                         </msDesc>
                     </witness>
                 </listWit>
-            <p>Durch Umrahmung mit geschwungener Linie auf S. 2 Umstellung zum Satz: ist es dem Vater lieber,
-                    mich etwas länger zu entbehren , oder </p>
+            <p>Durch Umrahmung mit geschwungener Linie auf S. 2 Umstellung zum Satz: "[...] ist es
+                    dem Vater lieber, mich etwas länger zu entbehren, oder [...]".</p>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -84,8 +83,14 @@
                     läßt, und sie zu Hause ganz so leben kann wie hier.</p>
                 <p>
                     <pb n="2"/>Dann wäre für sie beim Aufenthalt zu Hause kein Nachtheil zu
-                    befürchten. Geschieht aber dieses so <subst><del rendition="#s">wird es</del><add place="superlinear">muß ich</add></subst> noch einige Wochen länger abwesend bleiben, denn Bett und Maschinen
-                    sind nicht sogleich vorräthig, ist es nun den <persName key="JP-999999">Vater</persName> lieber mich, Mutter und Kind beisammen <del rendition="#s" cert="high" hand="#author">zu haben</del>, und <subst><del rendition="#s">erstere</del><add place="superlinear">mich</add></subst>
+                    befürchten. Geschieht aber dieses so <subst>
+                        <del rendition="#s">wird es</del>
+                        <add place="superlinear">muß ich</add>
+                    </subst> noch einige Wochen länger abwesend bleiben, denn Bett und Maschinen
+                    sind nicht sogleich vorräthig, ist es nun den <persName key="JP-999999">Vater</persName> lieber, Mutter und Kind beisammen <del rendition="#s" cert="high" hand="#author">zu haben</del>, und <subst>
+                        <del rendition="#s">erstere</del>
+                        <add place="superlinear">mich</add>
+                    </subst>
                     <del rendition="#s" cert="high" hand="#author">deshalb</del> etwas länger zu
                     entbehren, oder mich plötzlich allein zurückzuhaben, und mich dann nach einigen
                     Wochen zu<hi rendition="#aq">
@@ -150,8 +155,7 @@
                 </p>
                 <closer>
                     <signed>
-                        <hi rendition="#right">Deine treue Mutter, <hi rendition="#aq">Carolin</hi><hi rendition="#aq"><supplied reason="damage" cert="high"><hi rendition="#aq">e</hi></supplied></hi>
-                        </hi>
+                        <hi rendition="#right">Deine treue Mutter, <hi rendition="#aq">Carolin</hi>e</hi>
                     </signed>
                 </closer>
                 <postscript>

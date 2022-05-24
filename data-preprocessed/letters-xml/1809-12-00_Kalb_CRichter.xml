@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0894">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, Dezember (?) 1809</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1809-11-21" notAfter="1809-12-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012590">Bittschreiben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Diesen Winter und nun hoffentlich alle künftigen werde
+                            ich in Betracht der Einnahme ganz ruhig hinbringen können; die <persName key="JP-002625">Prinzeß</persName> will <persName key="JP-002004">Edda</persName>equipiren. Wir können von
+                            vielen Wohlthaten sagen; aber sonderbar ist meines Lebens Freude erloschen –
+                    alles wirkt auf mich wie ein Schrecken und vermehrt die Ermattung meines
+                    Körpers; ich habe aber auch in den drei Jahren wie eine Gefangne gelebt. Die
+                    freie Luft will ich jetzo wieder atmen und ein Kind sein; denn die Zukunft
+                    erscheint mir wie das Geschenk eines andern Seins. </p>
+            <p>Bald schreibe ich meiner lieben, lieben Karoline. Ja
+                            wohl sind viele, wohl drei Briefe verloren, immer will nun Ihr Herr <persName key="JP-002703">Vater</persName> die Güte haben, meine Briefe
+                    beizuschließen.</p>
+            <p>Ich will nun sehen, was die neue Lage mit mir macht und ich aus dieser.</p>
+            <p>An <persName key="JP-002482">Frau von
+                                Lochner</persName> meine Hochachtung und Dank, ich schreibe wohl
+                            selbst bald dieser vortrefflichen Freundin.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

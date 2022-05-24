@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1319">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 14. Dezember 1810,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1810-12-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012430">Religion</term>
+               <term xml:id="JP-012010">Judentum</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B.
+                            14 Dec. 10.</dateline>
+               <salute>Meine gute Car.! Meine neugeliebte Emanuela u Minna!</salute>
+            </opener>
+            <anchor type="target" xml:id="start_xsz_42m_frb"/>
+            <p>Vor mir liegt beständig Ihr jüngster, lang- und
+                            wichtiger Brief, für den ich Ihnen, wie für alle seine aeltern
+                    Brüder, herzlich danke; dann liegt beständig, in meinem Schreibepulte,
+                    vor mir, ein ledernes Börschen, ein sich mit eingeschlichenes Messerlein;
+                    nicht minder liegt nicht ferne von mir ein artiges gestricktes Börschen; seh' ich rechts vor mir hinauf: so erblick' ich eine
+                            gut gezeichnete Niobe u tret' ich in mein Alkov. so seh' ich gar Ihr
+                            Bild u es fehlen mir, wie
+                    Sie sehen, selbst der äußern Erinnerungen nicht, an Sie u an meine Pflicht Ihnen
+                    zu schreiben;<anchor type="target" xml:id="stop_xsz_42m_frb"/> aber wäre mir's
+                        möglich gewesen, es hätte dies mal der äußern Aufforderungen nicht
+                    bedurft, ich hätte eher an Sie geschrieben.</p>
+            <p>Ihr Brief fand mich auf
+                            dem Lande, in <placeName key="JP-005681">Döhlau</placeName>; seit meiner Zurückkunft arbeit' ich
+                    von Morgens – nicht allein an angenehmen Liebesbriefen – bis Abends u
+                    kann also zu mir nicht kommen, auch nicht zu den Meinen.  Übermorgen muß ich auf einige Tage nach <placeName key="JP-005561">Bamberg</placeName>.  Vorher, das hab‘ ich mir
+                    vorgenommen, will ich Ihnen antworten.  Mein <persName key="JP-003652">Israel</persName> – ich beantw. Ihren Brief in
+                            der Folge er geschrieben ist – mit seiner <persName key="JP-012038">Ella</persName> sind
+                            glücklich. Der Trauungstag war durchgehends ein rein seliger.  <hi rendition="#u" hand="#author">Wir</hi>
+               <hi rendition="#u" hand="#author">waren</hi>
+               <hi rendition="#u" hand="#author">u</hi>
+               <hi rendition="#u" hand="#author">machten</hi>
+               <hi rendition="#u" hand="#author">glück</hi>lich alle.  Sie wissen, daß ich die Stelle
+                            der beiden Väter zu vertreten hatte –; man war mit mir zufrieden.</p>
+            <p>Unsere wenigen religiösen Gäste wollen sich keiner so schönen Juden-Hochzeit
+                    erinnern.  <anchor type="target" xml:id="start_ell_3bd_2rb"/>Ich gehe zu meinem Israel in die Kost. Meine
+                    große Wohnung wird mir jetzt – da ich allein bin und Gesellschaft nicht mehr
+                    liebe – lästig. </p>
+            <p> Im nächsten Sommer werd' ich sie mit einer angenehmen kleinen
+                        verwechseln.<anchor type="target" xml:id="stop_ell_3bd_2rb"/>
+               <anchor type="target" xml:id="start_bh2_2mc_2rb"/>Der Brief Ihrer
+                            Gräfin gefällt mir, ich
+                    gebe ihn Ihnen beiliegend mit Dank zurück.</p>
+            <p>Aber, liebe Car., sie spiellt u mallt nicht; sondern sie
+                    spielt u malt.  Ich will nur auf 5 Minuten den Gouverneur
+                    der viel besseren Gouvernantin machen.<anchor type="target" xml:id="stop_bh2_2mc_2rb"/> Als <hi rendition="#uu" hand="#author">diese</hi> müssen Sie auch segnen (nicht seegnen) große Jagden (nocht große
+                    Jagten) u. s. w. schreiben, durch aus nicht, <hi rendition="#u" hand="#author">daß</hi> mit <hi rendition="#u" hand="#author">das</hi> verwechseln.  Hat Sie Ihr großer Liebling, Vednok, so lieb als ich; so gewöhnt er Ihnen diese
+                    kleinen Schreibfehler ab, was ihm, bei Ihrem übrigen großen Fehlen an Fehlern,
+                    leicht werden muß, wenn Sie Sich
+                    der Feder des Freundes anvertrauen werden, mögen.  Der des
+                        <hi rendition="#u" hand="#author">alten</hi> Freundes vergeben
+                    Sie ohne dies.  Ihr Beruf ist richtig, nützlich u
+                    angenehm, Car.  Ich freue mich
+                    schon darauf, wenn Sie mir auch diese Freude um ein Jahr weiter hinaus schieben,
+                    Sie im Kreise Ihrer Zöglinge u Freunde zu sehen.  Das
+                    Familiengemälde, welches Sie mir lieferten, macht Ihnen um so mehr Ehre, als sie
+                    Ihnen noch nicht lange sitzet; denn ich habe uneingeschränktes Zutrauen zu jedem
+                    Zuge Ihres Pinsels.  Nun hoff'' ich, daß Sie diese Umriße
+                    ausfüllen u Ihrem Versprechen nach, mir immer vollkommenere Zeichnungen schicken
+                    werden.  Was ich besonders liebe, das sind die einfachsten
+                    Züge, Einfälle u Handlungen der Kinder.  Dürft' ich Sie um
+                    Mittheilung derselben – bei so vielen Kindern kann es Ihnen an
+                        dergleichen zu bemerken u zu sehen nicht fehlen – bisweilen bitten?
+                         <anchor type="target" xml:id="start_b1f_ybd_2rb"/>Ich will mir Mühe geben, noch recht gut zu werden, um Ihnen, meine gute
+                    Pathe, nach zuschlagen.  Kann ich mich doch rühmen, auch
+                    unter den Katholiken eine Pathe zu haben, da ich unter den Protestanten 1/2
+                    Douz. besitze.  <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1315/#start_d1z_2rb_2rb">So bald Sie mir die Annahme
+                        dieser Stelle anzeigten</ref>, vermuthete ich gleich, daß Sie sich den Kopf haben waschen
+                            lassen.  Ihr Herz u Ihre Seele bedürfen keiner Reinigung.
+                        <persName key="JP-000472"> Je. Br.</persName> empfiehlt Ihnen
+                    W. Holzing.</p>
+            <p>
+               <persName key="JP-003469">Car.
+                                    R.</persName> ist in Altnburg b. <persName key="JP-004393">Sp</persName>.  Auch ich hoffe, wie
+                    Ihre gute
+                    Gräfin u beweise ihr dadurch, daß zwei Köpfe Einen Sinn haben
+                    können, daß Sie wieder ganz gesund sind. <persName key="JP-004367">Mein Uhlf</persName> grüßt meine gute Pathe recht
+                        freundschaftlich durch seinen u Ihren alten</p>
+            <closer>
+               <signed>Eml</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

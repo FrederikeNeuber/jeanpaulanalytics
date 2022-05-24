@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0984">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 8. Februar 1815 (?),
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1815-02-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012553">Wissenschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>d. 8. Februar. </dateline>
+            </opener>
+            <p>Im vergangenen Jahr wurden mir meine liebsten Freunde begraben. Im Jahre 1814 den
+                        29. Jan. starb
+                        <persName key="JP-001073">Fichte</persName>. Ich hatte ihn in diesem Leben
+                    oft versäumt, obgleich wahrhaftig er war. Aus Neigung haftete ich an der
+                    Einsamkeit, jetzo aber aus Not. Ich bin noch innig mit <persName key="JP-001074">Mutter</persName> und <persName key="JP-001072">Sohn</persName> verbunden,
+                    und ihr Vertrauen läßt mir des selig <persName key="JP-001073">Seligen</persName> Stimme hören. Noch ein Jahr, und seine
+                    Wissenschaftslehre hätte den Ausdruck erhalten, den er mit Sprache und
+                    vergänglichem Organ der Tiefe seines Bewußtseins hätte geben können. Ist es
+                    Zufall, daß er jetzo gerufen worden? Ach wie oft war ich voll Gram über
+                    sonderbare Zustände, die man für ihn hätte vermeiden sollen bis ans Ende. Er
+                    hatte im vorigen Jahre wegen des Aufrufs der Studenten und in diesem wieder
+                        immer bis gegen 51 Stunden gelesen,
+                    mit vorzüglicher Klarheit und Kraft. Er hat wenig Manuskripte hinterlassen.
+                    Hätte <persName key="JP-999999">Jean Paul</persName> diese Papiere und dazu
+                    seine Schriften! Nur seinem Genie, Scharfsinn, Abstraktion muß es möglich sein,
+                    wieder eine Stimme diesem Geist zu geben, da wohl wahrscheinlich diese Ausgabe
+                    der Wissenschaftslehre nur für kritische Gelehrte geschrieben war, und auch, wie
+                        <persName key="JP-001073">Fichte</persName> oft sagte, zu früh dem Druck
+                    gegeben. Die Menschheit hat Kraft, die auch das Licht fordert. <persName key="JP-999999">J. P.</persName> hat Wärme und Schärfe. Er wird immer ein
+                    anderer werden, aber jeder wird anders im Geisterreich, und sein Wort muß noch
+                    tausendfältig werden unter uns.</p>
+            <closer>
+               <signed>
+                  <hi rendition="#u" hand="#author">Charlotte</hi>.</signed>
+               <dateline>den 8. Februar.</dateline>
+               <address>
+                  <addrLine>Madame Richter.</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

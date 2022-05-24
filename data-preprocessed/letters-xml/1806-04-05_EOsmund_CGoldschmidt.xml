@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1274">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 5. April 1806,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1806-04-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012590">Bittschreiben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>b. 5. Apr. 1806</dateline>
+            </opener>
+            <p>Meine gute Car.! Am ersten dieß kam ich v. meinem Gute nach Hause u fand
+                        Ihren lieben Brief v. 28<hi rendition="#u" hand="#author">t</hi>Febr. erst, der an
+                    demselben Tag angekommen war, zugleich mit Ihrem lieben v. 25<hi rendition="#u" hand="#author">t</hi>Mart.</p>
+            <p>Für beide dank' ich Ihnen herzlich u besonders f. die mühsame Abschrift
+                        der<persName key="JP-001861">humboldischen</persName> Rede, die ich noch nicht lesen konnte.
+                         Car., ich erkenne diesen
+                    Beweis Ihrer Güte, den S. mir durch diese Selbstabschrift gegeben haben ganz;
+                    ab. geben S. mir keinen ähnlichen mehr; ich bitte S. darum!</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1273/#start_mnw_vzc_qqb">Als ich Ihnen meine Freude über Ihre Zurückkunft in <placeName key="JP-005586">Berlin</placeName> schrieb</ref>, dacht' ich weder  an die Schwester noch an die Kinderfreundin, sondern nur an die
+                    Künstlerin.</p>
+            <p>Meine Beschäftiggen vermehren sich, was mich um so mehr freut, weil ich bald
+                    meinen <persName key="JP-003652">Israel</persName> mit
+                    Antheil nehmen lassen kann.</p>
+            <p>Eigentlich arbeit' ich am liebsten – nach den höchsten moralischen
+                    Prinzipien – blos der Arbeit, sonst keines Lohnes oder Verdienstes wegen am
+                    liebsten; ab. so bald man die Gefahr des Verlustes bei einem Geschäfte
+                    übernimmt, dann muß man auch den Reitz des Vortheils genießen u haben.</p>
+            <p>
+               <hi rendition="#u" hand="#author">Ich</hi> habe leider! einen Grund
+                    mehr auf Vortheil bei meinen Geschäften zu sehen, weil man mich f. <hi rendition="#u" hand="#author">zu</hi> gut u <hi rendition="#u" hand="#author">zu</hi> reich d. h. f. mehr gut u mehr reich
+                    hält, als ich beides nicht bin und auch nur das erstere sein möchte.</p>
+            <p>
+               <mod type="variant">NachZu</mod> meinen <hi rendition="#u" hand="#author">eignen</hi> Bedürfnißen habe ich
+                    Vermögen genug, selbst um  <hi rendition="#u" hand="#author">meinen</hi> Menschen bisweilen eine kleine Freude zu machen,
+                    selbst dieses – mein größtes und erstes Bedürfniß zu befriedigen, selbst dazu
+                    wär' ich reich genug; ab. <hi rendition="#u" hand="#author">die</hi>beständigen<hi rendition="#u" hand="#author">Verlangen</hi> – <hi rendition="#u" hand="#author">die</hi>
+               <hi rendition="#u" hand="#author">Zumuthungen</hi> meiner – oft nur
+                    so genannten Freunde, oft nur die Freunde meiner Freunde zu erfüllen, dazu
+                    braucht' ich <hi rendition="#u" hand="#author">weit</hi> u viel mehr
+                    Reichthum, als ich mir zu besitzen wünsche.</p>
+            <p>So viel kann ich doch nie besitzen, als ich weg zu geben mir stets wünschen
+                    würde; zu was soll ich mir also mehr wünschen – als ich jetzt habe u
+                    brauche?</p>
+            <p>Ich unternahm einige Jahre kein wichtiges Geschäft, weil ich außer vielen andern
+                    Ursachen auch noch die hatte ruhiger und eingezogener leben zu können – zu
+                    wollen.</p>
+            <p>Aber "der Mann muß sehr reich seyn, er lebt v. seinem Gelde" sagen die Menschen u
+                    vermehren ihre Wünsche in eben den großen Schritten, als des Mannes Vermögen
+                    abnehmen muß.</p>
+            <p> Der Man arbeitet nun wieder u zwar als ein ehrlicher, damit er einer
+                    bleiben kann.</p>
+            <p>Ihnen darf ich dieses u dürft' ich mündlich noch viel mehr sagen; aber der <persName key="JP-002007">Fr. v. Kalb</persName> sagen Sie blos, daß es mir
+                            recht leid thät,  ihr das Geld nicht verschaffen zu können.
+                    Lieber wollt' ich ihr selbst dieses sagen, als es Ihnen ihr sagen lassen.</p>
+            <p>
+               <persName key="JP-004275">Thieriot</persName> war 4
+                    Wochen b. mir u ist jetzt in <placeName key="JP-006395">Weimar</placeName>. Nach
+                    den Feyertgen geh' ich wieder auf die Arbeit.  <persName key="JP-003227">Piks</persName>
+                                Briefe gefallen mir nicht. Schriftlich
+                    verlang' ich doch mehr als mündlich.  Wollen Sie mir ihn
+                    grüssen?  <persName key="JP-000472">Jette</persName> u <persName key="JP-004275">Thieriot</persName> grüssen Sie. <persName key="JP-004367">M.Uhlf.</persName> u <persName key="JP-003652">m.
+                        Bruder</persName> grüssen Sie herzlich, doch dankt Ihnen u grüßt
+                    Sie kein Mensch noch inniger u noch herzlicher u noch reiner, als</p>
+            <closer>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

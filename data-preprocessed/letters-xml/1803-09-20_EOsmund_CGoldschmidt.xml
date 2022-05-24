@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0149">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 20. September 1803,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1803-09-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 20 Sept. 3</dateline>
+               <salute/>
+            </opener>
+            <p>Car! Am ersten Tag nach unserm
+                            neuen Jahr u zwar am ersten will ich an Sie, in ihm
+                    schreiben; weil es im vergangenen nicht mehr geschah.</p>
+            <p>Wer sich auch das Schreiben so erleichtern kann wie Sie!</p>
+            <p>Das ist keine Kunst, einen Brief auf der Stelle, so bald man ihn gelesen
+                    zu beantworten; aber möchten S. nie – wenigstens an den Briefen an
+                    mich, nie erfahren, welcher Unterschied es ist zwischen gleich u nach zweien
+                    Monaten zu antworten.</p>
+            <p>Acht Tage eine Antw. schuldig zu bleiben, das sind 8 Wochen; aber 8 Wochen? Die
+                    wollen nicht viel sagen, das sind kaum 8 Tage.</p>
+            <p>Als S. mir schrieben, C., war
+                            mein <persName key="JP-999999">Richter</persName> mit seiner herrlichen <persName key="JP-003469">Car</persName>. u ihr
+                            engelisches Kind, meine <persName key="JP-003471">Emma</persName>, b. mir u auch meine seltene <persName key="JP-000472">
+                  <hi rendition="#u" hand="#author">Jette</hi>
+               </persName>, mit ihrem <persName key="JP-000469">Manne</persName>, aus <placeName key="JP-006179">Rgsbg</placeName>.</p>
+            <p>Eben so sehr es mich erfreut hat, die <persName key="JP-003469">C.R.</persName> u <persName key="JP-000472">Jette Br.</persName> zu vereinigen, eben so sehr
+                    würd' es mich freuen, wenn ich S. u <persName key="JP-000472">Jette</persName> vereinigen könnte.  Nachdem mich dieße verlaßen hatten, erwartete ich meinen Thieriot u endlich
+                            kam er auch.</p>
+            <p>Wir verlebten bei nahe 3 Wochen prächtig zu sammen, dann begleitet' ich ihn nach
+                        <placeName key="JP-005649">Cobg</placeName> zu <persName key="JP-003482">R.</persName>s, wo ich 5 Tage
+                    blieb.</p>
+            <p>Jetzt erwart' ich ihn wieder.  V. mir geht er n. <placeName key="JP-006179">Regensb</placeName>.
+                        <placeName key="JP-006040">München</placeName> u <placeName key="JP-006405">Wien</placeName>.  So verging mein Sommer –
+                    größtentheils in Erwartung, im Genuß, in Erinnerung – so schön wie ein Frühling.
+                         Heute ist der Geburtstag der lieben <persName key="JP-003471">Emma</persName>; in diesem Jahre noch wird die gute <persName key="JP-003469">Caroline</persName> noch einem
+                            Wesen einen Gebtg. geben.
+                         Oft sprachen wir v. Ihnen, Car., mit gegenseitigem Vergnügen.  S. haben
+                    Ihren Sommer nützlicher verwendet, S. haben ihn verarbeitet.  Werden S. zur Meße in <placeName key="JP-005948">Leipzig</placeName> seyn? Nur einige Stunden wenigstens möcht' ich mit
+                    Ihnen b. unsr. <persName key="JP-002581">Mahlmann</persName> verleben.</p>
+            <p>Grüßen Sie mir <persName key="JP-002581">die Liebe</persName>, so
+                        herzlich als S. die <persName key="JP-003469">Caroline</persName> grüßt.</p>
+            <p>S. die <persName key="JP-002581">Mahlm.</persName>, will die <persName key="JP-003469">Car.</persName> in <placeName key="JP-005649">Coburg</placeName> besuchen u – wenn sich s
+                            gerade so träfe – im Wochenbette pflegen; worf ich mich f. Beide innigst
+                    freue.</p>
+            <p>
+               <persName key="JP-000970">Mein aelterer Bruder</persName> ist gegenwärtig in
+                        <placeName key="JP-005743">Ffta/M</placeName> u kömmt dieses mal nicht n.
+                        <placeName key="JP-005948">Leipzig</placeName>, was mir nicht lieb
+                    ist, weil ich geglaubt hatte, daß er S. dort finden würde.</p>
+            <p>Seh ich S. bald od. spat – sehen werden wir uns gewiß: so werd'  ich
+                    viell. keine, viell. nur wenige v. den kleinen u großen Hindernißen mehr
+                    anzugeben wissen, die mich noch nicht n. <placeName key="JP-005586">Berlin</placeName> ließen u lassen.</p>
+            <p>
+               <anchor type="target" xml:id="start_lk5_t1y_qmb"/>M. <persName key="JP-004367">Uhlf</persName>., der S. innigst verehrt
+                    u recht rein grüßt, hat <persName key="JP-004180">seine zweite
+                        Tochter</persName> der <persName key="JP-000472">Jette</persName> mit n.
+                        <placeName key="JP-006179">Regensb</placeName>. gegeben, wo sie in
+                    sehr guten Händen ist. Da man hier so etwas nie
+                            gesehen u auch noch nicht erwartet hat: so können S. sich vorstellen,
+                            wie sehr dieses hier aufgefallen.<anchor type="target" xml:id="stop_lk5_t1y_qmb"/>
+            </p>
+            <p>
+               <anchor type="target" xml:id="start_tld_43h_wqb"/>Das ist u bleibt wahr, das
+                    Beste des Menschen läßt sich nie aussprechen, nie, weder mit dem Munde noch mit
+                    der Feder; ab. das wenige, das wir mittheilen können, mittheilen, das wir dem
+                    Papier geben; das sollten wir doch auch für uns, als Belege für u über uns
+                    selbst, behalten.</p>
+            <p>Es ist also Schaden f. S., daß S. Ihre Briefe nicht abschreiben.</p>
+            <p>Eigentl. kann man in einem Briefwechsel nie recht verstanden werden,
+                    wenn man seine Briefe nicht abschreibt; ab. S. <hi rendition="#u" hand="#author">wollen</hi> es ein mal nicht anders u da muß ich mirs wohl
+                    gefallen lassen.<anchor type="target" xml:id="stop_tld_43h_wqb"/>
+            </p>
+            <p>Wenn die halbe Welt mit dem Emanuel ganz zufrieden wäre: so wär' ich s doch nicht
+                    halb mit ihm u das mit einem Rechte, als sich – die halbe Welt sage was sie
+                    wolle od. was Sie wollen – auf eine ganz unpartheyische Selbstkenntniß
+                    gründet.</p>
+            <p>Bald hoff' ich nun wieder vieles v. Ihnen, v. Ihrem Leben, v. Ihrer Arbeit, v.
+                    Ihren Reisen zu lesen.</p>
+            <p>Nochmals bitt' ich S., unsre Mahlmanns f. mich zu küssen u zu grüssen, so
+                        herzlich wie Sie's können u <hi rendition="#u" hand="#author">wollen</hi>, wenn u so bald S. n. <placeName key="JP-005948">Leipzig</placeName> kommen.</p>
+            <p>Verzeihen S. dem späten Antworter.</p>
+            <closer>
+               <salute>Leben S. wohl, Car., recht wohl!</salute>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

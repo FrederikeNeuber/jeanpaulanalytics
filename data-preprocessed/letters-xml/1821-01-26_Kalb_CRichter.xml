@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1006">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 26. Januar 1821,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1821-01-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012778">Geschäftliches</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-012494">Ernährung</term>
+               <term xml:id="JP-012176">Jean Pauls Werke</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin, d. 26. Januar 1821.</dateline>
+            </opener>
+            <p>Ich habe so lange gezögert Ihnen zu antworten, teure Freundin; zunehmende
+                    Schwäche macht es mir immer mehr unmöglich, selbst zu schreiben. Ich habe, was für meinen Zustand äußerst nötig war,
+                            eine abgesonderte Wohnung im <placeName key="JP-013041">Schloß</placeName> gefunden, die ich gemietet habe. Unter anderen Verhältnissen hätte ich nicht ausdauern
+                    können, so notwendig ist mir besondere Pflege und Stille. Nur selten kann ich
+                    einige Stunden das Bett verlassen; ich habe kein Fieber, doch scheint ein
+                    Krankheitsstoff noch die Genesung zu hemmen. Ich kann viele Nahrungsmittel nicht
+                    mehr wie ehemals genießen, selbst nicht mehr Kaffee, hingegen fang’ ich an, sehr gerne Bier zu
+                    trinken. Dieser Winter ist mir wie ein nebelhafter Traum vergangen, ich kann
+                    auch gar nicht lesen hören. <persName key="JP-001072">Fichte</persName> hat mir
+                    einiges aus <persName key="JP-999999">Jean Pauls</persName> letztem <bibl sameAs="JP-010613" subtype="werke-jp">Werke</bibl> erzählt, diese Scherze und
+                    Ironie sind so lichtvoll und dauernd, wie ein Diamant; aber nur wenige Zeilen
+                    darf ich hören, alles was mir Bild und Phantasie giebt, wird mir Qual. Möchten
+                    Sie Ihrerseits den schweren Winter gut bestanden haben, denn es war ein strenger
+                    Gast. Mein Brief an
+                                <persName key="JP-003112">Otto</persName> wird Sie in mehrerer
+                            Hinsicht interessieren. Das Betragen von <persName key="JP-001843">Hornthal</persName> bezeichnet mir, wie gute Sitte an manchen Orten
+                            ganz fehlt, wahrscheinlich hat ihm Leukam
+                    die Papiere überbracht, warum
+                    hat sich
+                    Leukam
+                    diese Papiere nicht wieder einhändigen lassen? In Berlin und in <placeName key="JP-006222">Sachsen</placeName> wäre mir dieses bei keiner Behörde
+                    begegnet, aber in <placeName key="JP-005739">Franken</placeName> befand ich mich
+                    immer beklagenswert, in dem armen Lande.
+                    Sela.</p>
+            <p>Die gute <persName key="JP-013700">Vincenti</persName> war ein frommes Mädchen. Die <persName key="JP-001639">Frau von Helwig</persName> hat mir in dieser Krankheit auch
+                    sehr beigestanden, sie besuchte mich gestern, und ich freute mich, sie so wohl
+                    als
+                    stillende Mutter zu sehen.</p>
+            <p>Wenn <persName key="JP-003112">Otto</persName> die Vermutung hegt, daß ich und
+                    meine <persName key="JP-002008">Schwester</persName> einen Vorteil bei dem
+                    jetzigen außerordentlichen Gelingen der
+                    Saline
+                    haben könnten, auf welches Wissen und Zeugnis gründet sich dieses?</p>
+            <p>Der <persName key="JP-002011">Präsident</persName> schrieb mir: ”So oft sie
+                    wieder einen neuen Bohrversuch
+                        machten,
+                    wenn wir nur die stärkere Sole haben, so kann ich Ihnen, wie es meine Pflicht
+                    und Schuldigkeit ist, reichlich unterstützen, aber wohl 15 Jahre haben sie
+                    schlechte Maschinen und Klempnerarbeit gebraucht.” <persName key="JP-004285">Thon</persName> und <persName key="JP-001269">Geiger</persName> wollten
+                    nichts wagen, daher mußte dieser Mann in dem größten Unglück untergehen. Man hat
+                    kein Bild von so tiefem Jammer, auch seine <persName key="JP-001268">Tochter</persName> war nicht
+                    Cordelia
+                    gegen diesen Lear. Er hat ein Portefeuille hinterlassen,
+                    dieses ist in <persName key="JP-001269">Geigers</persName> Händen, vielleicht
+                    befinden sich darin besondere Verfügungen, aber welcher Zauber würde uns dieses
+                    Portefeuille verschaffen, und wer könnte in <persName key="JP-003260">Plutos</persName> Reich wandeln, um in dem glühenden Fluß das Gold zu
+                    fischen? Mir war aber die Nachricht von <persName key="JP-003112">Otto</persName> in vieler Hinsicht bedeutend, und ich werde sie mit
+                    Vorsicht benutzen.</p>
+            <p>—</p>
+            <p>In unseren Gegenden hören wir von außerordentlicher Frivolität und Excessen aller
+                    Art, so auch die sonderbarsten Bankerotts. Wahrscheinlich kennt <persName key="JP-999999">Jean Paul</persName> den <persName key="JP-013691">Kriminalrat Schumann</persName> in <placeName key="JP-006395">Weimar</placeName>, dieser hat vor kurzem einen Bankerott von 70000 Thlr.
+                    deklarieren müssen. Ich wünsche, daß Sie mich bald mit angenehmen Nachrichten
+                    von den Ihrigen erfreuen werden und verharre mit treuer Ergebenheit</p>
+            <closer>
+               <signed>Charlotte.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

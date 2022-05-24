@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0701">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 15. Mai 1804, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1804-05-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012314">Empfehlungen</term>
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 15. Mai 4.</dateline>
+            </opener>
+            <p>Gute Car.! Mein Brf. soll sich damit anfangen, daß ich
+                    etwas schreibe, das sich v. selbst verstünde.</p>
+            <p>In
+                            meinem letzten Brief sagt ich Ihnen, daß ich
+                    in meinem künftigen braunen Kabinet, wieder <ref target="JP-UB0300/#ntm2_p2y_tmb">einen guten Platz zu meiner Niobe</ref>
+                    ausmachen werde.</p>
+            <p>Von dem Platz, das <hi rendition="#u" hand="#author">Ihr</hi> Bild haben wird, sagt' ich nichts, weil ich
+                            voraus setzte, daß S. es gewiß sind, es würde, üb. meinem Schreibpult,
+                            über <persName key="JP-004275">Thieriots</persName> Bild, also jetzt mir selbst gegenüber, so
+                            wie es jetzt plazirt ist, wieder plazirt werden u weil
+                    ich, zweitens, vermuthete, <persName key="JP-003227">Pik</persName> würde Ihnen sagen, daß u wo er Ihr Bild
+                        gesehen;<anchor type="target" xml:id="stop_llw_pgb_2rb"/> ab. zu meiner
+                    Beruhigung mußt' ich 
+                        meinem Brf. diese Vorrede
+                    geben.</p>
+            <p>Doch bin ich noch nicht ganz ruhig, bis ich mich an die
+                            Ungenannte, die meinen Namen gebrauchte, gerächet haben
+                            werde.</p>
+            <p>Was sagen S. denn zu meinem <persName key="JP-003227">Jüngling</persName>? Nicht wahr, Sie haben sich ihn doch anders
+                    gedacht.</p>
+            <p>Grüssen S. mir ihn, wenn S. ihn viell. sehen sollten u versprechen S. ihm eine
+                    baldige Antw.  Seinen Auftrg hab' ich gleich, u er wirds
+                        lange wissen, mit gutem Erfolg
+                    besorgt.</p>
+            <p>Über das, was ich Ihnen, über das Taufen  gesagt habe, möcht' ich S. <hi rendition="#u" hand="#author">sprechen</hi>; denn das Schriftliche scheint Sie
+                    nicht befriediget zu haben.</p>
+            <p>Werden S. in diesem Jahr wied. n. <placeName key="JP-005687">Dresden</placeName>
+                    gehen?</p>
+            <p>Ich werde heuer nicht viel reisen können.</p>
+            <p>Im Julii verlaß ich m. Logis.</p>
+            <p>Im Julii komt <persName key="JP-004275">Th.</persName> aus
+                                <placeName key="JP-006405">Wien</placeName> hierher.</p>
+            <p>Im August ziehen <persName key="JP-003482">R...s</persName> hierher.</p>
+            <p>Im Mai komt
+                        Caroline aus <placeName key="JP-006213">Rudolstadt</placeName> u ihre Tante p.</p>
+            <p>Im Juni geht m. <persName key="JP-004367">Uhlf</persName>. n. <placeName key="JP-006179">Regensb</placeName>.</p>
+            <p>Ob ich mit kann weiß ich nicht.</p>
+            <p>In einigen Monaten geht <persName key="JP-003652">m. Bruder</persName> auf Reisen
+                    p auch nach <placeName key="JP-005586">Berl</placeName>. worauf ich mich freue
+                    p.</p>
+            <p>Beschäftigung u Zerstreuung genug f. einen Sommer.</p>
+            <p>Was mir der Himmel noch unerwartt zu fügen wird – will ich auch erwarten.</p>
+            <p>Meine oft nicht ganz ruhige Seele braucht Zerstreuung.</p>
+            <p>Vergangnen Mittw. brachte <persName key="JP-000970">mein Bruder</persName> sein
+                                <persName key="JP-000969">Weib</persName>.</p>
+            <p>(Schilderung derselben)</p>
+            <p>Bemerken S. nicht, wie gerne ich Sie heut  v. mir unterhalte? Aber ich
+                    will abbrechen u antworten.</p>
+            <p>Für Ihren.
+                    <placeName key="JP-005812">Hamb</placeName>. Buchhändler will
+                    ich thun was ich kann, wenn er selbst an <persName key="JP-999999">R.</persName> schreibt ppp</p>
+            <p>Die Nachrichten v. u üb. <persName key="JP-012005">Euchel</persName> haben mich
+                    betrübt p.</p>
+            <p>Es wäre fürchterlich, wenn man alle Menschen auf geben wollte, weil man
+                    mit Einem nicht zufrieden ist u beinahe nicht besser, wenn man einen Menschen
+                        <hi rendition="#u" hand="#author">Einer</hi> Handlung wegen
+                    aufgeben wollte.</p>
+            <p>Daß <hi rendition="#u" hand="#author">ich</hi> alle Menschen mein
+                    nenne, das ist mein reiner Ernst, mein Himmel, mein Leben; ab. es muß mir dies
+                    auch seyn, denn die Meinigen betragen sich oft sehr fremd gegen mich u gegen
+                    sich.</p>
+            <p>Wenn ich einmal nicht mehr <hi rendition="#u" hand="#author">so</hi>
+                    das ganze Menschengeschlecht umfaße, dann hab' ich – nicht das Geschlecht die
+                    Schuld.</p>
+            <closer>
+               <salute>Grüße v. <persName key="JP-004367">Uhlf</persName>. <persName key="JP-003112">Otto</persName>, <ref target="JP-UB0300/#nl2p_4bz_tmb">Brüder</ref>, <persName key="JP-003556">Mutter</persName>.  <hi rendition="#u" hand="#author">Schluß</hi> pp</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

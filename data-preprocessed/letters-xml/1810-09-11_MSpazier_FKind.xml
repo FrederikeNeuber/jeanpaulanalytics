@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1088">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Friedrich Kind. Leipzig, 11. September 1810, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1810-09-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002107">Johann Friedrich Kind</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013033">Minna Spazier-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-012778">Geschäftliches</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://digital.slub-dresden.de/id427356539/967"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipzig 11<hi rendition="#uu" hand="#author">ter</hi>September 1810</dateline>
+               <salute>Theuerster Freund!</salute>
+            </opener>
+            <p>
+               <persName key="JP-000501">Herr Brockhaus</persName> giebt mir den Auftrag Ihnen
+                    hiermit für Rechnung des Herrn Kupferstecher <persName key="JP-011969">Schmidt</persName> noch 9 rth. sächsisch zu remittiren. Er setzt nämlich vorraus daß die
+                    Anweisung auf <persName key="JP-000144">Herrn Arnold</persName> von 25 rth. bezahlt sey, und somit inclusive der heut eingehenden 9 rth der
+                    Werth von 6 Louis d’or oder 33 rth sächsisch 
+                    in Ew. Wohlgeb. Händen sich befinden.</p>
+            <p>Wir ersuchen Sie nun, diese Zahlung, als das Honorar
+                            für die erste uns vorgestern zugekommene Platte<persName key="JP-011969">Herrn Schmidt</persName> einzuhändigen, zugleich aber
+                    auch von ihm in unsern Nahmen zu verlangen, eine zweite bereits fertige Platte,
+                    die er bey dem <persName key="JP-013446">Banquier Schulz</persName> hier in
+                        <placeName key="JP-005948">Leipzig</placeName> deponiert hat,  gegen Empfang von
+                    sechs Frd’or, alsobald an uns ausliefern zu laßen.</p>
+            <p>
+               <persName key="JP-011969">Herr Schmidt</persName> hat nämlich sehr sonderbar
+                    gegen die <persName key="JP-012832">Verlagshandlung</persName> gehandelt. Nicht
+                    genug daß er statt sieben, nur vier
+                            Platten liefert, und dadurch wortbrüchig wird, nicht genug daß er
+                    den Termin der Ablieferung – 15t<hi rendition="#uu" hand="#author">er</hi> August – nicht hält, und dadurch den
+                    Unternehmer eines Werks, bey dem 3000 rth auf dem Spiel stehen, im höchsten Grade kompromittiert, so schikanirt
+                    er <persName key="JP-000501">Herrn Brockhaus</persName> auch nun noch durch
+                    Vorenthaltung der Platten, indem er oder sein Abgeordneter vielmehr, der
+                    persönlich von <placeName key="JP-005687">Dresden</placeName> mit zwei Platten
+                    herabgekommen ist, sich entêtirt, von
+                    der Anweisung die in <placeName key="JP-005687">Dresden</placeName> durch Ew. Wohlgeb. für <persName key="JP-011969">Herrn Schmidt</persName> einkaßiert werden sollte, durchaus
+                    nichts wißen zu wollen, und schlechterdings <hi rendition="#u" hand="#author">für</hi>
+               <hi rendition="#u" hand="#author">zwei</hi>
+               <hi rendition="#u" hand="#author">Platten</hi>
+               <hi rendition="#u" hand="#author">baar</hi>
+               <hi rendition="#u" hand="#author">Geld</hi>von uns haben will, da wir doch bereits das Honorar für die Erste durch
+                    Anweisung berichtigt haben. <persName key="JP-000501">Herr Brockhaus</persName>
+                    fühlt sich um so mehr durch dieses Benehmen beleidigt, da der Abgeordnete von <persName key="JP-011969">Herrn Schmidt</persName>, ein Frauenzimmer eine gewiße <persName key="JP-013388">Demoiselle Hecht</persName> ist,
+                    die sich äußerst unbescheiden und fast gewaltsam bey<persName key="JP-000501">Herrn Brockhaus</persName> eingedrängt hat, ohne sich bedeuten laßen zu wollen. <persName key="JP-000501">Herr
+                        Brockhaus</persName> der nur aus Zeitmangel heut nicht selbst schreibt,
+                    bittet Sie, vorzüglich darauf bey <persName key="JP-011969">Herrn
+                        Schmidt</persName> zu dringen  nicht wieder auf diese Weise Geschäfte mit ihm machen zu wollen,
+                    weil dies durchaus gegen die Achtung sey, die er fordern  dürfe.</p>
+            <p>Wir ersuchen Ew. Wohlgeb. uns in dieser Angelegenheit nach Ihrer gerechten Weise
+                    gefällig zu seyn, vorallem aber bey dem <persName key="JP-011969">Kupferstecher</persName> darauf zu drängen, <persName key="JP-013446">Herrn Banquier Schulz</persName> die Weisung zu geben,  gegen 6 Louis
+                        d’or Honorar die bewußte Platte sogleich auszuliefern.</p>
+            <closer>
+               <salute>Ich bitte Sie mir die Beschwerde zu verzeihen die ich Ihnen von neuem zu
+                        machen veranlaßt bin, und sich von der herzlichen Ergebenheit zu überzeugen
+                        mit welcher ich bin</salute>
+               <signed>Ihre ganz ergebenste Spazier geb. Mayer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

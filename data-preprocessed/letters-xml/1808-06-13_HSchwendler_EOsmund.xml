@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0789">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Bayreuth, 13. Juni 1808, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1808-06-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Morgens 7 Uhr</dateline>
+            </opener>
+            <p>Guten Morgen, lieber Emanuel! Es schläfft noch alles um mich her, so daß ich in
+                    der schönen heiligen Stille des Morgens Sie ungestört begrüßen kann. Daß wir Sie
+                    gestern am Abend verfehlten, hat uns Alle schmerzlich betrübt; ein sonderbahres
+                    Zusammen treffen macherley Umstände hielt uns  über die gewöhnliche Zeit – trotz der
+                    unfreundlichen Witterung in der <placeName key="JP-011035">Harmonie</placeName> auf, und darüber wurden wir gestraft weil <hi rendition="#u" hand="#author">der Freund</hi> kam und ungesehen
+                    von uns wieder ging. Sie glauben es mir aufs Wort Einziger, daß ich gerade
+                    gestern, nach der <hi rendition="#u" hand="#author">heiligen
+                        Stunde</hi> am Morgen, noch einge Minuten am Abend an diese angereihet hätte. Wer sich durch offne
+                    Mittheilung so nahe wird, wie wir uns da waren wie gern wiederhohlet man dann
+                    nicht den Dank dafür. Ja, Emanuel, Sie sind ein außerordentlicher Mensch! ohne
+                    Zweifel sagte dieß schon öfters die Freundinn dem Freunde, es ist allso blos ein
+                    fortgesetzter Zuruff. Aber dadurch, daß ich der Erfahrungen im Leben so viele machte, daß ich der
+                    edlen Menschen viele kenne, und daß ich aus der Mitte dieser Sie <hi rendition="#u" hand="#author">Einzig</hi> heraushebe in der
+                    vollendesten Individualität, in sofern  soll es mehr als Wiederhohlung
+                    für Sie seyn — </p>
+            <p>Ohngeachtet ich Ihr tiefes Gemüth und Ihr frommes kindliches Herz noch nicht ganz
+                    begreife, so fühle ich doch bestimt, daß ich mich zu beyden erheben kann, und
+                    darum ist mir <hi rendition="#u" hand="#author">Ihr</hi> Wesen so
+                    theuer, <hi rendition="#u" hand="#author">Ihr</hi> Umgang so werth.
+                    Es kann auf ein Erden kein höheres Verhältniß geben, als die Freundschaft über
+                    Zeit und Raum über das Geschlecht reicht sie hinaus! — </p>
+            <p>Ich bitte Sie, geliebter Freund, geben Sie mir so viel Zeit als es seyn kann während meines Hierseyns. Seit Sie mich <hi rendition="#u" hand="#author">näher</hi>
+                    kennen, bedarf diese Bitte keiner weitern Erklärung. Ich werde Sie wöchentlich
+                    einigemahl besuchen, weil ich Sie am ungestörtesten in Ihrem Hause sehen kann,
+                    und ich überhaupt mit einem Manne Ihrer Denkart am liebsten allein bin.
+                    Sonderbahrer Weise sagte ich das letztere noch keinem Manne, es lag nicht an
+                    meiner Freymüthigkeit aber an der Berichtigung meiner Begriffe.</p>
+            <p>Heute am Morgen gehe ich mit <persName key="JP-000819">Dovenek</persName> zu
+                        <persName key="JP-002357">Langermann</persName>, meine Nacht war abermals
+                    schlafflos weil  mein fatales Herzklopfen mich erst am Morgen  Vielleicht bringt Sie der Nachmittag in meine Nähe, zur
+                        häuslichen <hi rendition="#u" hand="#author">
+                  <persName key="JP-003469">Caroline</persName>
+               </hi> und zu <hi rendition="#u" hand="#author">
+                  <persName key="JP-999999">Ihm</persName>
+               </hi>, ich werde Sie dann sehen, oder erst am Abend, Sie
+                    heute gar nicht zu sehen, diesen Gedanken kann ich in diesem Augenblik nicht ertragen. <persName key="JP-002936">Antonia</persName> grüßt, darff <persName key="JP-003971">Pauline</persName> auch ohne die Mutter zu den schönen Spielsachen und zu
+                    dem Edlen Geber kommen? Mit Liebe sehe ich einigen Zeilen von Ihnen entgegen,
+                    ich werde öfters schreiben, jedoch mit Rücksicht daß der Geschäfftsmann dem <hi rendition="#u" hand="#author">Freunde</hi> zuweilen die Antwort
+                    erschwert oder gar unmöglich macht.</p>
+            <closer>
+               <salute>Noch einmahl, Guten Morgen Einziger!</salute>
+               <signed>Henriette.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0015">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Georg Christian Otto an das Landes-Industrie-Comptoir. Bayreuth, 9.
+                    Januar 1814, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003112">Georg Christian Otto</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1814-01-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012616"> Industrie-Comptoir</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011789">Otto-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>d. 9. Jan. 1814.</dateline>
+            </opener>
+            <p>Ich nehme mir die Freiheit, bei Ihnen anzufragen, ob
+                            ich zu dem angekündigten Journal, <bibl sameAs="JP-009129" subtype="werk">Nemesis</bibl>, Beiträge liefern, und wie viel honorar für den Bogen
+                    bewilliget werden könne? </p>
+            <p>Außerdem frage ich an, ob Sie nicht den Verlag einer kleinen Schrift von ungefähr
+                    5 Bogen übernehmen können, die den Titel führt:<bibl sameAs="JP-009349" subtype="werk">Versuch einer Darstellung der
+                                    Lizenzen
+                                Geschichten</bibl>. Eine Bittschrift an die, zum Wohl <placeName key="JP-005728">Europa's</placeName> verbündeten, Mächte um
+                            Abstellung der Seekaperei. von Georgius.</p>
+            <p>Diese Schrift müßte sogleich und so schnell als möglich gedrukt und es müßten an
+                    verschiedene Regenten und Staatsmänner Exemplare geschikt werden. Im Fall Sie
+                    meinen Antrag annehmen wollen, haben Sie die Gefälligkeit, mir mit umgehender
+                    Post unter <hi rendition="#u" hand="#author">einem Umschlag mit</hi> der
+                    Adresse: an<persName key="JP-003108">Madame Otto</persName>geborne Herold in <placeName key="JP-005553">Baireuth</placeName> eine Nachricht zu geben, und zugleich das Honorar zu
+                    bestimmen, welches Sie bewilligen können. Sowohl über dieses, als über die
+                    übrigen Bedingungen u Einrichtungen würden wir leicht einig werden können. Ihr
+                    Nein auf meinen Antrag wird mir durch Ihr Stillschweigen kund werden.</p>
+            <closer>
+               <salute>Hochachtungsvoll</salute>
+               <signed>Georgius</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

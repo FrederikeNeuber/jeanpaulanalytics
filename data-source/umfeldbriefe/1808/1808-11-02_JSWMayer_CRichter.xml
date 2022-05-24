@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0727" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0727" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 2. November
@@ -20,6 +19,8 @@
                             </msIdentifier>
                             <physDesc>
                                 <p>1 Dbl. 8°, 3 ½ S.</p>
+                                <p> Auf S. Unterstreichung</p>
+                                <p> vfrH.</p>
                             </physDesc>
                         </msDesc>
                     </witness>
@@ -146,11 +147,9 @@
                 <postscript>
                     <p>Kennt <persName key="JP-999999">Dein Mann</persName>
                         <hi rendition="#aq">
-                            <bibl sameAs="JP-012656" subtype="werk">les oeuvres de <persName sameAs="JP-011946">
-                                    <persName sameAs="JP-000001">Rivarol</persName>
+                            <bibl sameAs="JP-012656" subtype="werk">les oeuvres de <persName sameAs="JP-011946"><persName sameAs="JP-000001">Rivarol</persName>
                                 </persName>
-                            </bibl>
-                        </hi>? Sie würden ihn <hi rendition="#aq">interessi</hi><ex>ren.</ex>
+                            </bibl></hi>? Sie würden ihn <hi rendition="#aq">interessi</hi><ex>ren.</ex>
                         <lb/>Grüße <persName key="JP-003112">H<ex>errn </ex>Otto</persName>.</p>
                 </postscript>
                 <postscript>

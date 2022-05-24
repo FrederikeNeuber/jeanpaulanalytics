@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0021">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Georg Christian Otto an das Landes-Industrie-Comptoir. Bayreuth, 18.
+                    November 1820, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003112">Georg Christian Otto</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-11-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012616"> Industrie-Comptoir</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011789">Otto-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireuth, den 18 Nov. 1820</dateline>
+            </opener>
+            <p>Unter dem 5 Nov. 1818 haben mich die Herren
+                            Herausgeber des <bibl sameAs="JP-013754" subtype="werk">Opposizionsblattes</bibl> zu Beiträgen für dieses Blatt unter der
+                            Zusicherung von 3 Frd'or für den Bogen
+                            aufgefodert. Ich habe hierauf in Allem viere
+                    eingesendet, den letzten am 20 Apr. d. J., die <placeName key="JP-013586">Wiener Nazionalbank</placeName>
+                            betreffend.</p>
+            <p>Am 23 Nov. 1819 schrieb mir Ein löbliches
+                            Industrie-Komptoir:</p>
+            <p>"Auf Ihre Erinnerung in Betreff der, für das <bibl sameAs="JP-013754" subtype="werk">Opposizionsbl.</bibl> eingesandten, Aufsätze können wir Ihnen
+                        vorläufig die Versicherung geben, daß die Sache nächstens erlediget werden soll." 
+                    – nach Einem Jahre – </p>
+            <p>Da bis jetzt diese Erledigung nicht erfolgt ist: so bitte ich recht dringend, daß
+                    sie doch nun recht bald erfolgen möge. Ich habe  bis jetzt blos <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0020/#start_tf1_qmv_kqb">von
+                        dem ersten Aufsatz ein Exemplar des Abdrucks</ref> erhalten; ich weiß nichts
+                    von dem Schicksale der übrigen, da ich das <bibl sameAs="JP-013754" subtype="werk">Oppos. bl.</bibl> nicht zu sehen bekomme.</p>
+            <p>Es möchte zwar scheinen, daß ich<mod type="variant">KleinigkeitenMinima</mod>zu sehr in Erinnerung bringe; aber, ohne zu erwähnen aus aus mehrern zusammengesezten kleinen
+                    Theilen etwas Bedeutenderes entsteht, läßt sich dabei ein gewißes, von Andern geehrtes oder unberüksichtigtes,
+                    Rechtsgefühl nicht unterdrücken. Vergeben Sie daher ja, daß ich meine alten
+                    Bitten erneuern muß, und gewähren Sie sie ja sobald, als möglich, weil mir
+                    außerdem zu meinem großen Bedauern nichts Anderes übrig bleiben würde, als sie
+                    mit verstärkter Dringlichkeit öfter als oft zu wiederholen.</p>
+            <closer>
+               <salute>Hochachtungsvoll</salute>
+               <signed>Otto</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

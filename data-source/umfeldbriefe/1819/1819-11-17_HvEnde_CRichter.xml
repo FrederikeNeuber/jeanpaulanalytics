@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0743" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0743" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Henriette von Ende an Caroline Richter. Leipzig, 17. November 1819,
@@ -16,13 +15,15 @@
                             <msIdentifier>
                                 <institution>BJK</institution>
                                 <collection>Berlin A</collection>
-                                    <idno type="shelfmark"/>
+                                <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
                                 
-                                <p>1 Dbl. 4°, 3 S.</p>
-                                <p>, S. 4 Adr.: An | die Frau <hi rendition="#aq">Legations</hi>-Räthin | <hi rendition="#aq"><hi rendition="#u">Richter</hi></hi> geborne <hi rendition="#aq">Mayer</hi> | zu | <hi rendition="#aq"><hi rendition="#u">Bayreuth</hi></hi> | <hi rendition="#u">Frey.</hi> Poststempel: <hi rendition="#aq">LEIPZIG</hi> | 17. <hi rendition="#aq">Nov.</hi> 19. Über dem Brief vfrH mit
-                                    Bleistift: <hi rendition="#aq">Leipzig</hi> d. 17. <hi rendition="#aq">Nov</hi>. 1819</p>
+                                <p>1 Dbl. 8°, 3 S.</p>
+                                <p> Auf S. 4 Adresse, Postzeichen und Poststempel.: An | die Frau
+                                        <hi rendition="#aq">Legations</hi>-Räthin | <hi rendition="#aq"><hi rendition="#u">Richter</hi></hi> geborne
+                                        <hi rendition="#aq">Mayer</hi> | zu | <hi rendition="#aq"><hi rendition="#u">Bayreuth</hi></hi> | <hi rendition="#u">Frey.</hi> Poststempel: <hi rendition="#aq">LEIPZIG</hi> | 17. <hi rendition="#aq">Nov.</hi> 19.
+                                    Siegel.</p>
                             </physDesc>
                         </msDesc>
                     </witness>
@@ -57,6 +58,9 @@
         <body>
             <div type="writingSession" xml:id="Schreibakt_1">
                 <pb n="1"/>
+                <opener>
+                    <dateline>Leipzig d. 17. Nov.<lb/>1819.</dateline>
+                </opener>
                 <p>Noch ehe mein Brief, liebe Freundin, bey Ihnen angekommen seyn wird, erfahre ich,
                     daß das, <seg type="comment"><orig>wozu ich Ihnen Glück wünschte</orig><note xml:id="nug3_pfc_tlb"><ref type="letter" target="JP-UB0619">Vgl.
                                 Henriette von Endes Brief an Caroline Richter vom 13. November

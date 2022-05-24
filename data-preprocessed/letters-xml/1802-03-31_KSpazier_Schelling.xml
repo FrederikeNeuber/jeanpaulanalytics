@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1247">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Friedrich Wilhelm Joseph Schelling.
+                    Leipzig,, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-03-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003713">Friedrich Wilhelm Joseph (ab 1812) von Schelling</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Leipz. 31 März 1802.</dateline>
+            </opener>
+            <p>Ew. Wohlgeboren haben mich so lange schon auf einen Aufsatz über <bibl sameAs="JP-009597" subtype="werk">Turandot</bibl>von demselben Verfaßer, der die Aufführung von <bibl sameAs="JP-009404" subtype="werk">Ion</bibl> so treflich zu beurtheilen
+                            gewußt hat, vorbereitet. Noch immer habe
+                            ich nichts darüber erhalten.
+                    Mein Wunsch darnach wird aber jetzt von neuem lebhaft durch den Wink, welche die <placeName key="JP-006395">Weimarsche</placeName> Theaterdirektion, i.e.<persName key="JP-001353">Göthe</persName> im <bibl sameAs="JP-008436" subtype="werk">Journal des Luxus</bibl> darüber giebt, u da sie jenen Verf. zu kennen scheinen, so möchte
+                    ich wohl daß Sie die Güte hätten, ihm mein Verlangen zu erkennen zu geben.
+                    Zugleich bitte ich ihm zu sagen, daß in den nächsten
+                            Blättern  ein sehr wichtiger Aufsatz über <bibl sameAs="JP-009404" subtype="werk">Ion</bibl>, in Bezug auf jenen ersten
+                            von Num 7. der <bibl sameAs="JP-009809" subtype="werk">Zeitung</bibl> erscheinen würde.</p>
+            <p>Was Ihren sehr angenehmen Aufsatz über
+                            Erlangen
+                    betrifft, so werden Sie sich gewundert haben ihn noch nicht eingerückt zu sehen.
+                    Seine Anstehung hat mich wegen steter
+                    Zeitsachen, die gefördert seyn wollten, seither etwas genirt. Die Materie ist
+                    überdem so Sommermäßig, daß ich glaube sie wird besser hin, wenn der Bericht vom jetzigen Jahre her
+                    gemacht scheint, einen um so erfreulicheren Effekt machen.</p>
+            <p>Wenn ich nicht immer gleich schreibe,  so hoffe ich, werden Sie mich
+                    meiner Zerstreuenden Lage wegen gütig entschuldigen. Hören Sie darum ja nicht
+                    auf, mir Ihr schätzbares Wohlwollen zu schenken u der <bibl sameAs="JP-009809" subtype="werk">Zeitung</bibl> hold u freundlich zu bleiben.</p>
+            <closer>
+               <signed>Ew. Wohlgeboren ergebenster Spazier.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

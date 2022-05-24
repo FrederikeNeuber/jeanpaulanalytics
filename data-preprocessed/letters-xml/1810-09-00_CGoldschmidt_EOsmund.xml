@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1315">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Goldschmidt an Emanuel. Wien, vor dem 30. Oktober 1810</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+               <placeName key="JP-006405">Wien</placeName>
+               <date notBefore="1810-03-20" notAfter="1810-10-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p> und <anchor type="target" xml:id="start_d1z_2rb_2rb"/>nehme
+                    die Stelle als Erzieherin in diesem Hause unter vortheilhafte Bedingungen die mir zeitlebens
+                    bleiben, an.<anchor type="target" xml:id="stop_d1z_2rb_2rb"/> Ich muß schon den
+                        18<hi rendition="#uu" hand="#author">ten</hi> von hier abreisen – habe daher vieles noch zu schlichten
+                    und in Ordnung zu bringen, ich schreibe Ihnen heute nur vorläufig und wenn ich
+                    in <placeName key="JP-006438">Prag</placeName> einen Brief von Ihnen erhalte,
+                    beantworte ich ihn mit Muße  </p>
+         </div>
+      </body>
+   </text>
+</TEI>

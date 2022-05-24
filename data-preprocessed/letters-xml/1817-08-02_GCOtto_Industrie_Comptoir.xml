@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0016">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Georg Christian Otto an das Landes-Industrie-Comptoir. Bayreuth, 2.
+                    August 1817, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003112">Georg Christian Otto</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1817-08-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012616"> Industrie-Comptoir</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011789">Otto-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. d. 2 August 1817.</dateline>
+            </opener>
+            <p>Ein günstiger Zufall führte mir vor Kurzem das
+                    August-Heft des <bibl sameAs="JP-008436" subtype="werk">Journals für Literatur,
+                        Mode p</bibl> (von dem ich in der Regel nichts zu sehen bekomme) und in
+                    demselben die Verhandlungen in die Hände, welche sich im Artikel: Offene Fehde gegen die Nachdruker, befinden, und auf das <placeName key="JP-005892">Karlsruher</placeName>
+                            Büreau der Deutschen Klassiker beziehen. Diese veranlaßten mich die beiliegenden "Erörterungen" niederzuschreiben, und eine ältere "Erklärung, die <placeName key="JP-006421">Würtemb</placeName>. Gesetze betreffend", wieder
+                    hervorzusuchen. Beide Aufsätze habe ich für das <bibl sameAs="JP-013754" subtype="werk">Opposizions-Blatt</bibl> bestimmt. Im Fall sie in dasselbe
+                    aufgenommen werden können, erbitte ich mir von dem Abdruck Ein Exemplar und
+                    überlasse Ihnen die Bestimmung des Honorars. Sollte es möglich sein, daß mir,
+                    außer dem meinigen, noch zwei Exemplare des Abdrucks mitgetheilt werden könnten:
+                    so würde ich sie dazu anwenden, daß ich sie einem <placeName key="JP-005557">Badenschen</placeName> u einem <placeName key="JP-006421">Würtemb.</placeName> Staatsmanne mittheilte, mit denen ich in einigen
+                    Verhältnißen stehe. Sollten die beiden Aufsätze
+                    in dem <bibl sameAs="JP-013754" subtype="werk">Oppos. Bl.</bibl> keine Stelle
+                    finden können: so bitte ich um die einzige Gefälligkeit, mir dieselben sogleich zurückzusenden. Sollten  (wenn die
+                    Aufsätze abgedruckt werden) einzelne Stellen anstößig scheinen: so genehmige ich
+                    im voraus das Streichen derselben; doch bitte ich, wenn es vorgenommen wird,
+                    nach dem Abdruck mir das Manuskript 
+                    zurückzusenden. Ich halte für nöthig, den, von mir aufgestellten, und, wie mir
+                    scheint, einzig richtigen, rechtlichen und
+                        historischen Gesichtspunkt festzuhalten, und demselben gemäß die
+                    Maßregeln der einzelnen Regierungen zu erörtern. Es könnte scheinen, daß ich
+                        mich in der Erklärung des Badenschen Gesetzes
+                    einer Partheilichkeit für  die Schriftsteller schuldig gemacht
+                    habe; ich muß mich aber (und glaube mich dabei nicht zu täuschen) davon selbst
+                    freisprechen, und glaube und hoffe, daß auch Sie dies thun werden, theils weil
+                    Sie genauer, als irgend Jemand, das jetzige deutsche Bücher-Wesen übersehen, und
+                    mithin beurtheilen können, wie gering meine Ansprüche auf Theilnahme an dem
+                    armen Gewinn sein können, welcher den Schriftstellern zu Theil wird; theils weil
+                    Sie vielleicht mit mir glauben werden, daß meine Ansicht der Sache in
+                    folgerechter Beziehung mit dem <placeName key="JP-005557">Badenschen</placeName>
+                    Gesetze steht. </p>
+            <p>Vor kurzem ist bei <persName key="JP-002573">Macklot</persName> in <placeName key="JP-006315">Stuttgart</placeName> ein Schriftchen: <bibl sameAs="JP-009026" subtype="werk">"Uiber (d. i. Für) den Nachdruck"</bibl> erschienen, das sie
+                    wahrscheinlich  schon kennen, das ich aber noch nicht gelesen,
+                    ungeachtet ich in meinen Erörterungen zwei Stellen daraus angeführt und
+                    widerlegt habe. Ich erwähne dieses Schriftchens, das für die <bibl sameAs="JP-013721" subtype="werk">Allemannia</bibl> bestimmt war, aber
+                    aus, mir unbekannten, Ursachen nicht aufgenommen wurde, aus dem Grunde, weiles (wie ich ganz zuverlässig weiß) bestimmt ist, um
+                            zum Nachtheil der guten Sache bei der Bundes-Versammlung zu
+                            wirken. Sollte vielleicht der <placeName key="JP-005569">baiersche</placeName>
+                            Gesandte die
+                    Meinung des Verfasser über und
+                    für den Nachdruck theilen: so dürfte nicht bezweifelt werden, daß Alles
+                    aufgeboten werden möchte, um durch diesen Gesandten auf die übrigen u auf die
+                    Bundes-Versammlung zu wirken. Ich theile Ihnen
+                    diese Nachricht im Vertrauen mit, um Sie in den Stand zu
+                    setzen, Ihren Gegenwirkungen die gehörige Richtung zu geben. Wenn ich das
+                    erwähnte Schriftchen gelesen
+                    haben,
+                    und etwas darüber zu sagen für nöthig finden werde: so will ich – im Fall Sie es genehmigen – einen Aufsatz für das <bibl sameAs="JP-013754" subtype="werk">Oppos.bl.</bibl> machen, und darin auch
+                    auf die Mäkeschen
+                    und <placeName key="JP-006405">Wiener</placeName>verdrehenden Anmerkungen zu der Denkschrift der
+                                Buchhändler Rücksicht nehmen.</p>
+            <p>Da jetzo bei der Bundes-Versamlung zum Vorschein kommt, daß die guten, für uns
+                    Deutsche so besorgten, Engländer  den Barbaresken ein Kriegs- u Kaperrecht besonders in Beziehung
+                    auf <placeName key="JP-005668">Deutschland</placeName> zubilligen; da die
+                        <placeName key="JP-013579">Südamerikaner</placeName> die <placeName key="JP-005671">deutschen</placeName> Schiffe kapern, weil <placeName key="JP-005668">Deutschland</placeName> zur See unbewafnet ist: so scheint
+                    mir das barbarische Kaperrecht, auf dessen allgemeine Ausrottung jeder
+                    gerechtigkeitliebende Mann hinarbeiten sollte, eine besondere Bedeutsamkeit zu
+                    gewinnen u der Zeitpunkt zu sein, in welchem man auf die Schreckniße desselben
+                    die öffentliche Aufmerksamkeit lenken müßte. Ich frage
+                            daher bei Ihnen an, ob Sie nicht geneigt sind, den Verlag einer kleinen,
+                            etwa 7 DruckBogen ausmachenden, Schrift
+                            zu übernehmen, welche enthält: </p>
+            <p>"Zerstreute, völkerrechtliche Betrachtungen  über die
+                        Versuche, welche bis jetzo zur <hi rendition="#u" hand="#author">
+                  <hi rendition="#u" hand="#author">Abstellung  der
+                                Seekaperei</hi>
+               </hi> gemacht worden sind."</p>
+            <p>Sollte dieser Titel nicht zusagen: so würde sich leicht
+                            ein anderer auffinden lassen. Die Bestimmung des Honorars, der Zahl der
+                    Exemplare würde ich Ihnen ganz überlassen. Das Manuskript könnte ich sogleich
+                    übersenden. Ein schneller Druck und die, Ihnen zu Gebot stehenden, Mittel zur
+                    schnellen Ausbreitung des Schriftchens würden der hochwichtigen Sache sehr
+                    beförderlich sein. Haben Sie die Gewogenheit, mich, sobald es Ihre Verhältniße
+                    erlauben, mich mit einer Antwort zu beehren. Vergeben Sie diese lange
+                    Schreiberei. Mit ausgezeichneter hochachtung</p>
+            <closer>
+               <signed>Georgius.</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>Alles, was Sie an mich gelangen lassen wollen, werde ich richtig erhalten unter
+                    der Adresse: An Herrn Otto, Privatgelehrter  in <placeName key="JP-005574">Baireuth</placeName>in <placeName key="JP-005574">Baireuth</placeName>. </p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1286">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 17. August 1807,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1807-08-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012430">Religion</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012010">Judentum</term>
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 17 Aug 7.</dateline>
+            </opener>
+            <p>Ihren lieben Brf. v. 11 Juni nahm ich mit auf das
+                            Land, gute Car., um ihn dort zu beantworten; schon bin
+                    ich über 8 Tage mit ihm wieder hier u erst in dieser Stunde finde ich Muse, ihn
+                    zu beantworten u ich will sie sogleich benutzen.  Der <placeName key="JP-005681">Ort</placeName>, den ich eigentlich Land nenne, ist nur 6-7 Stunden v. <placeName key="JP-005748">Franzensbad</placeName>, hätt' ich daselbst die Nachricht
+                    Ihrer Dahinkunft bekommen, ich würde Sie ganz gewiß dort gesehen haben.</p>
+            <p>
+               <anchor type="target" xml:id="start_rpb_zkh_wqb"/>Wahrscheinlich sitzen
+                    Sie noch in dem Kreis v. ausgezeichneten Menschen in <placeName key="JP-006405">Wien</placeName>.</p>
+            <p>Es freut mich, daß es Ihnen so gut wie möglich geht, denn besser kann es
+                    Ihnen ja auch in einem kleinen Zirkel nicht gehen.  Ihre
+                    vollkommene Natur <persName key="JP-013594">Arnstein</persName>, Ihre liebliche Juno<persName key="JP-013622">Eskeles</persName> u
+                        Ihren<persName key="JP-013637"> L. Herz</persName>, der ein guter Vater, Bruder u Sohn ist,
+                    möcht' ich recht gerne kennen lernen.<anchor type="target" xml:id="stop_rpb_zkh_wqb"/> Gerade heute ist es 7 Jahre, daß ich einen sehr
+                    vergnügten Tag in <placeName key="JP-005748">Franzensbad</placeName> hatte.
+                         Damals lernt' ich auch einige israelitische
+                        <placeName key="JP-006405">Wiener</placeName> Fräuleins kennen, die eine,
+                    kränklich, war zwar   schon verheirathet und die andere – es waren 2 Schwestern, war – so viel ich mich erinnere – mit einem
+                        Carl v. Arnstein versprochen.  Wer nicht an dem
+                    Zusetzen seiner Brüder frohen Antheil, wer nicht Nutzen mit anderer Schaden
+                    ziehen und nehmen wollte, der mußte im vergangenen Jahre – das vielen viel
+                    zusetzte – zusetzen.</p>
+            <p>Gottl! daß es überstanden.</p>
+            <p>"Friede ist besser" er koste was er wolle und ihn laße uns der Himmel!</p>
+            <p>Mein Freund <persName key="JP-003112">Otto</persName> ist noch immer bein
+                                <persName key="JP-004729">Pr. Wilhelm v. Pr.</persName> u kommt
+                        wahrscheinlich nicht mehr zu uns zurück.</p>
+            <p>Eine alte Frau hat meine alte <persName key="JP-003556">Mutter</persName> durch
+                    ein Amulette geheilt – hinter mir.</p>
+            <p>Die beiden alten Weiber glauben es fest und heilig u mehr bedarf es ja nicht.</p>
+            <p>Ich danke Gott u habe den beiden alten Weibern Beweise meiner Freude gegeben.</p>
+            <p>Ihre Frage nach meinem Herzen – nach dem ich selbst zu viel frage – hab' ich zu
+                    beantworten wohl Herz – aber nicht Kenntniße genug; ich habe sie dem armen
+                    warmen Geschöpfe selbst vorgelegt und es will Ihnen einiges über sich und aus
+                    sich antworten, wie folget:</p>
+            <p> "Haben Sie Dank, herzlicheCar., für Ihre Frage nach meinem Stande. Ich bin ein
+                    deutsches Herz und also ein Neutrum, daher mein' ich es mit Gott und <hi rendition="#u" hand="#author">allen</hi> Menschen gut.</p>
+            <p>Ich habe in der unmenschlichen Welt Vieles gelitten, aber in der menschlichen
+                    auch Vieles, viel Gutes gesehen und genossen.</p>
+            <p>Vielen Menschen hab' ich mich in meinen Knaben- und Jünglings-Jahren schon
+                    uneigennützig angeboten – wenige haben mich rein erkannt – mehrere wollten rein
+                    mich nicht haben – einige gar nicht.  Oft setzt' ich mich
+                    selbst – oft setzten unreine Herzen mich in Verlegenheit.  Wo ich mir selbst treu geblieben, da wurde mir Zukunft so wohlthuend, als es
+                    mir die Gegenwart immer gewesen.  Meine sogenannten
+                    "Angelegenheiten" verstand ich selbst nicht recht und war oft unruhig ohne Noth
+                    – oft zu ruhig. So gab ich mich <hi rendition="#u" hand="#author">dem</hi> Herzen, das ich am meisten in
+                            allen weiblichen Wesen unter meinen Bekannten – liebte, verehrte u
+                            achtete, das mich erkannte – nur dann erst zu erkennen, als es nicht
+                            mehr Herr über sich allein, sondern schon über zwei Sich war, und ich
+                            blieb dabei und ließ dabei ruhig.</p>
+            <p>Ich werde zwar nicht alt – auch nicht kalt – aber aelter und kälter wird meine
+                    Hülle –  die lange schon in männliche Jahre getreten – und diese ist
+                    von mehreren äußeren Umständen so gebunden, daß ich nie volljährig werden
+                    konnte.</p>
+            <p>Es ist schade um mich."  Nun will ich wieder das Wort
+                    nehmen; es wird meinem Herzen  gar zu sauer, so lange über sich zu sprechen.  Wahr ist alles, was es von sich sagte, aber weit nicht
+                    genug.  Meine Mündel sind 8 u 10
+                            Jahre.  Wollte der Himmel, ich
+                    könnte auch unsrer guten <persName key="JP-002548">Königin</persName> eine große
+                    Freude machen!  Ich habe Ihre Frage, ob ich mich mit
+                    meiner Freundinn versöhnt habe nicht verstanden;  sie muß sich auf einen aeltern Brief beziehen, den
+                    ich abzuschreiben nicht Zeit hatte.  Mit den Freundinin
+                    giebt es nur zu oft Versöhnungen.  Mein Freund <persName key="JP-004367">Uhlf</persName>. – mit dem
+                    ich mich nie versöhnen brauchte – und mein guter <persName key="JP-003652">Bruder</persName> grüssen Sie so herzlich als ich bin Ihr
+                        Freund</p>
+            <closer>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

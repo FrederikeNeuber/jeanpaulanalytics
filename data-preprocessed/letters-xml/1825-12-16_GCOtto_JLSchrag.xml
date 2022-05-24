@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1150">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Georg Christian Otto an Johann Leonhard Schrag. Bayreuth, 16. Dezember
+                    1825, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003112">Georg Christian Otto</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1825-12-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003846">Johann Leonhard Schrag</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011789">Otto-Kreis</term>
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Nur zögernd komme ich dazu, <ref type="letter" target="JP-UB1148">Ihr sehr
+                        werthes Schreiben vom 6. d. M.</ref> zu beantworten, weil es mich in so fern
+                    in einige Verlegenheit versetzt hat, als ich vor der Hand nicht anzugeben weiß,
+                    wie zugleich Ihren Wünschen entsprochen und für das Wohl <persName key="JP-003482">der Familie</persName> meines verewigten <persName key="JP-999999">Freundes</persName> gesorgt werden kann, für welches
+                    mitzuwirken ich für eine meiner höchsten Pflichten erachte.</p>
+            <p>Vor allen Dingen danke ich Ihnen recht herzlich für das Zutrauen, das Sie mir geschenkt u bewiesen , indem Sie sich in Ihrer Angelegenheit an mich
+                    gewendet haben.</p>
+            <p>Ich habe vor der Hand noch Bedenken getragen, <persName key="JP-003469">die Witwe
+                        meines Freundes</persName> von Ihrem Anliegen in Kenntniß zu setzen, theils
+                    weil ich die zu großen Unannehmlichkeiten nicht vermehren wollte, die mit einem so entsetzlichen Verlust, als der ihrige ist, verbunden sind; theils weil die Verhandlungen über die Herausgabe <bibl sameAs="JP-010983" subtype="werk">sämmtlicher Werke Jean Pauls</bibl> noch
+                    nicht abgeschloßen sind; theils weil ich hoffte und noch hoffe, daß die Umstände
+                    selbst ein Auskunftsmittel zu einer Ausgleichung zwischen Ihnen und <persName key="JP-003482">der Familie meines Freundes</persName> darbieten werden.</p>
+            <p>Dies scheint mir nun in der Wendung zu liegen, welche in der neuern Zeit der
+                    Buchhandel genommen, und dann in <hi rendition="#u" hand="#author">der rechtlichen Norm</hi>, welche sich allmälig gebildet hat in Rücksicht der Herausgabe
+                    sämmtlicher Werke eines Schriftstellers.</p>
+            <p>Was die erste betrifft: so suchte sonst der schutzlose und vogelfreie Buchhandel
+                    sich gegen den Nachdruck zu schützen und zu retten durch hohe Bücherpreise,
+                    welche – bevor noch der letztere seine Werke der Finsterniß vollbringen konnte,
+                        – wo nicht großen Gewinn
+                    verschaffen, doch vor Schaden bewahren sollten. Seit kurzer Zeit hat der
+                    Buchhandel den Nachdruck mit Glück zu besiegen gesucht und begonnen, indem er
+                    ihn zu überbieten und zu übertreffen trachtete in möglichster Wohlfeilheit der
+                    feilgebotenen Artikel. Freilich war anfangs dabei zu wagen, aber doch weniger,
+                    als bei der Bücher-Theuerung, welche verursachte, daß manche Bücher nur gedruckt
+                    wurden, um auf dem Lager aufgespeichert zu bleiben. (Sie werden mir gewiß
+                    zutrauen, daß ich dies nicht in Beziehung auf Sie vorbringe, und daß es nur eine
+                    allgemeine Wahrnehmung ist. Der Einzelne konnte sich der Regel nicht entziehen,
+                    welche von der Gesammtheit aufgestellt war.)</p>
+            <p>Nur durch die neuerliche Wohlfeilheit der Bücher ist die Kenntniß so vieler
+                    allgemeiner und die Begierde nach dem Selbstbesitz derselben größer geworden.
+                    Beides ist aber entstanden durch die wohlfeilen Gesammtausgaben von den Werken
+                    einzelner Schriftsteller, und dies hat – wenn auch nicht  augenblicklich – vortheilhafte Rückwirkung auf die früheren Verleger einzelner
+                    Werke.</p>
+            <p>Was nun die Herausgabe sämmtlicher Werke eines Schriftstellers betrifft: so hat
+                    sich, wie ich glaube, in so fern die obenerwähnte rechtliche Norm gebildet, als
+                    den frühern Verlegern einzelner Werke ihr Verlagsrecht und der Absatz ihres
+                    Verlags bleibt, so daß sie, im Uibereinkommen mit den Autoren oder deren Erben,
+                    auch neue Auflagen bewirken können, wie dies neuerlich mit <bibl sameAs="JP-008523" subtype="werk">Goethe's Werther</bibl>, mit einer theologischen Schrift <persName key="JP-001675">Herders</persName> geschehen
+                    ist, und gegenwärtig mit dessen <bibl sameAs="JP-008701" subtype="werk">Volksliedern</bibl> geschiehet.
+                    Daß sich dies ereignen kann, ist schon ein Beweis, daß die Ausgaben sämmtlicher
+                    Werke dem Absatze einzelner – im Fall der Preis <hi rendition="#u" hand="#author">zeitgemäß</hi> ist – nicht nachtheilig sein kann.
+                    Es würde mich zu weit führen, wenn ich diesen Artikel weiter verfolgen wollte.
+                    Ich habe ihn gegenwärtig nur in der guten Absicht berührt, um, wo möglich, Ihnen
+                    vorläufig einige Beruhigung zu verschaffen.</p>
+            <p>Können Sie diese, meinen Wünschen entgegen, nicht darin finden: so gedulden Sie
+                    sich wenigstens noch einige Zeit; und finden Sie es dann noch für nöthig: so
+                    haben Sie die Gewogenheit, Ihr Anliegen der <persName key="JP-003469">Frau L. R.
+                        Richter</persName> selbst mitzutheilen. Ich will in diesem Fall so
+                    unpartheiisch als ich kann, mitzuwirken suchen, gleichwie ich auch der zu
+                    bekümmerten u bedrängten  <persName key="JP-003469">Frau</persName> –
+                    sobald ich es, ohne ihre Bekümmernisse zu sehr zu vermehren, thun kann – von
+                    Ihren Ansprüchen Nachricht geben werde.</p>
+            <p>Ich danke Ihnen nochmals für Ihr Zutrauen und werde immer mit aufrichtiger
+                    Hochachtung sein</p>
+            <closer>
+               <signed>Ihrganz ergebenster Otto.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

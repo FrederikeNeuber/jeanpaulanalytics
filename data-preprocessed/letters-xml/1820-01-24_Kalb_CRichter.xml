@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0998">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 24. Januar 1820,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1820-01-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Das Vergnügen, Sie wieder gesehen zu haben gehört
+                    nicht allein zu den genossenen, sondern auch zu den noch werdenden Freuden; denn
+                    Ihre Gegenwart hat mir nicht allein für uns wieder, sondern auch für <persName key="JP-999999">Jean Paul</persName> die Sprache wiedergegeben. Ich sah Sie
+                    noch glücklicher wieder, Sie mich zufriedener als jemals. Ich fühle jetzo
+                    täglich mehr, daß meine Rettung nach Berlin auch mein Heil war. Wenn Sie mir
+                    schreiben, so geben Sie mir unbefangen, was Sie mir anvertrauen wollen. Durch
+                    Alter und Ernst bin ich fast der schönen Einkleidung gram geworden und bin zu
+                    ungeschickt dazu.</p>
+            <p>Hier lege ich zwei Pakete an meine <persName key="JP-002008">Schwester</persName>
+                    nach <placeName key="JP-005561">Bamberg</placeName> bei, auch das Buch, so sie
+                    mir gelehnt, erfolgt hier.</p>
+            <p>Leben Sie, denn wenn wir leben, so ist das "wohl" ohnehin darin bedingt.</p>
+            <closer>
+               <salute>Gott mit uns.</salute>
+               <signed>
+                  <hi rendition="#u" hand="#author">Charlotte</hi>.</signed>
+               <dateline>d. 24. Jan.</dateline>
+               <address>
+                  <addrLine>Frau Legations-Rätin Richter.</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

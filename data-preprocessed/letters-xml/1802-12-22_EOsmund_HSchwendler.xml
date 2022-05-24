@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0441">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Henriette Schwendler. Bayreuth, 22. Dezember 1802, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1802-12-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 22. Dec. 2.</dateline>
+            </opener>
+            <p>
+               <anchor type="target" xml:id="start_sdj_jlg_bmb"/>Wie ungöttl.  müßte nicht das erste
+                    Geschenk, od. das erste Kind Gottes, die Liebe, seyn, wenn sich nur die sich
+                    (Körper) nahen ihrer erfreuen könnten?</p>
+            <p>Wir lieben nicht die fremde Liebe des Besitzers – sondern diesen jener
+                        wegen. Die vor uns waren, werden sogar v. uns  geliebt, wenn wir
+                    wissen, daß s. liebenswürdig waren u liebten.</p>
+            <p>Ein Freund der uns untreu wird, der also aufhört, uns zu lieben, indem
+                    er noch Mensch, das ist Körper, ist, den hören wir oft unwillkührlich auf, zu lieben. Ein Freund, der als Freund uns verläßt u den Körper d. i.
+                    die Erde, den  lieben
+                    wir gerade so rein fort u fort, als wir ihn in dem Punct unsr. Trennung liebten:
+                    wir lieben u leben f. ihn u er lebt u liebt f. uns.</p>
+            <p>Die Menschen sind mitunter teuflische Götter u mitunter göttliche Teufel; sie
+                    sind meistens in der Mitte dieser beiden, denn sie sind – Seel u Körper. Es ist ein Glück, wenn Menschen, die sich recht lange
+                    innigst nach einer körperlichen Annäherung sehnten u endl. dahin gelangten,
+                    nicht auch zugl. das Ziel ihrer Wünsche erreicht haben.</p>
+            <p>Wollen wir den größten Menschen am reinsten genießen d. h. am meisten verehren u
+                    lieben: so müssen wir nur seiner Seele folgen u gehorchen.</p>
+            <p>Der Körper ist auflösend u löst auf.</p>
+            <p>Nennen Sie's, Wachende, keinen Traum, sondern
+                                Wirklichkeit, deßen Seelen als diese, keines
+                            Körpers zur Annäherung bedürfen.</p>
+            <p>Aber man bedient sich ihrer freiwillig u die Menschen bestehen dabei. Auch mir – ich hätte über mein Schreiben bald das Antw.
+                    vergessen – auch mir thut es – S. mögen den Inhalt meines Briefs bis hierher als Widerspruch
+                        gegen mich anwenden, auch mir thut es noch leid, daß ich
+                    S. nicht v. Angesicht zu Angesicht in <placeName key="JP-006012">M.</placeName>
+                    sehen sollte u konnte. Viell. sollte mein glückliches
+                    Leben daselbst, durch diese Entbehrung eingeschränkt u meiner Seele noch ein
+                    Wunsch aufbewahrt werden.<anchor type="target" xml:id="stop_sdj_jlg_bmb"/>
+            </p>
+            <p>Da wir nun einen sehr schönen Vergl. machen u unsr. <persName key="JP-003482">Richters</persName>
+                            in die Mitte zwischen <placeName key="JP-006012">M.</placeName> u hier
+                            nehmen: so – es ist
+                    so etwas menschliches im Widersprechen – so kann ich ja hoffen, S. im nächsten
+                    Sommer in <placeName key="JP-005649">Cob.</placeName>
+                    zu sehen? Was S. zu mir sagen
+                            würden, wenn ich Ihnen ein freundliches Zimmer anböte, das  ich auch sogleich thun will, das will ich Ihnen sagen: sollt'
+                    ich wieder nach <placeName key="JP-006012">M.</placeName> kommen: so will ich es
+                    – unter einer <hi rendition="#u" hand="#author">einzigen</hi>
+               <hi rendition="#u" hand="#author">Ausnahme</hi> – beziehen u darinn
+                    froh seyn u – dankbar.</p>
+            <p>Wie viel Klagestädte muß es noch geben, wenn die, die uns. <persName key="JP-999999">R.</persName> alle noch verlassen
+                    wird, klagen wollten?</p>
+            <p>In einigen Jahren, denk' ich, gehts den Coburgern nicht besser, als im nächsten Frühjahr den M....ern.</p>
+            <p>Glauben S. nicht, daß ich b. Ihrem schadenfroh seyn kann, aber ich freue mich
+                    doch, daß er mir näher kommt u sie u ihr Kind.</p>
+            <p>Recht gerne will ich mir Ihren Schmuck schicken lassen
+                            u Ihnen den wahren Werth, der jetzt ein Unwerth ist,
+                            angeben.</p>
+            <p>Ich habe diesen Handel ganz aufgegeben u nicht nur meinen
+                    kleinen Vorrath, sondern meinen eigenen Gebrauch Ring, weil die Juwelen immer
+                    mehr fallen – mit beträchtlichem Schaden verkauft. War.
+                        haben S. denn Ihren Schmuck nicht b.
+                                Gelgenheit der M<placeName key="JP-006012">eininger</placeName> Auction,
+                    wo so viele Leute da gewesen seyn werden, verkauft? Es
+                    thut mir recht wohl daß <persName key="JP-003966">Ihr lieb. Mann</persName> sich
+                    meiner so liebevoll erinnert.</p>
+            <p>Ich grüss' ihn u küss' ihn u das durch S.</p>
+            <p>Lassen S. sich v. den Meinigen  in <placeName key="JP-006012">Meiningen</placeName> nicht irre
+                    machen u denken S. nicht zu gut v. mir, wie sie  denken S. meiner u leben S. glücklich!</p>
+            <closer>
+               <signed>E.</signed>
+               <address>
+                  <addrLine>f. Henriette Schwendler</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

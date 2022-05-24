@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0456">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 17. September 1811, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1819-09-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen den 17<hi rendition="#uu" hand="#author">ten</hi> September <hi rendition="#u" hand="#author">1811</hi>
+               </dateline>
+            </opener>
+            <p>Ich hätte es vorher ahnden können, <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0818/#start_j5t_tx1_smb">daß Sie, mein theurer Emanuel,
+                        eine Abschrift von dem heiligen letzten Willen <persName key="JP-012570">meiner Friederike</persName> nehmen würden</ref>.
+                    Es thut mir wohl zu denken, daß Sie davon so erbaut sind als ich und, daß das
+                    öftere Nachlesen dieses Symbols menschlicher Würde und Kraft Sie eben so
+                    beruhigen und stärken wird als mich.</p>
+            <p>Oh, Emanuel, <persName key="JP-012570">Friederike</persName> ist so gut Ihre
+                    Schwester als die meinige, keinem Geschlechte, keiner Familie gehörte sie
+                    besonders. Ins Universum trat sie als höchste moralische Erscheinung, und daß
+                    sie so einfach so ansprechend war und endlich durch
+                            ihren Tod, bewährte sie Alles was ich mir je, unter wirklicher
+                    Vollendung gedacht habe —</p>
+            <p>Seit gestern weis ich gewiß, daß <persName key="JP-002936">Antonie</persName>
+               <persName key="JP-012595">ihr Pflegekind</persName> und <persName key="JP-012187">mein Schwager</persName> im October zu mir kommen. Gott
+                    welches unerwartete Wiedersehen! Ich kann meine Gefühle nicht schildern,
+                        <persName key="JP-002936">Antonie</persName> wieder zu besitzen. Aber ich
+                    halte <persName key="JP-012187">meines Schwagers</persName> Opfer sie den
+                    Winter mit <persName key="JP-012595">der Kleinen</persName> hier zu laßen
+                    zu groß, für sein armes verwaistes Herz. Mit der schwesterlichsten Liebe und so
+                    wie es mir mein Pflicht Gefühl eingab, habe ich ihn heute nach <placeName key="JP-005586">Berlin</placeName> geschrieben, – wo er bey <persName key="JP-002111">seiner Schwester
+                            <hi rendition="#u" hand="#author">Kircheisen</hi>
+               </persName>
+                    mit <persName key="JP-002936">der meinigen</persName> und <anchor type="target" xml:id="start_lys_sbb_smb"/>
+               <persName key="JP-012930">den
+                        Kindern</persName>
+               <anchor type="target" xml:id="stop_lys_sbb_smb"/> ist seit
+                    14 Tagen sich aufhält, – und ihn gebeten, jenes Opfer genau zu erwägen. Wahr ist
+                    es, daß die <placeName key="JP-005622">Breslauer</placeName> Luft <persName key="JP-002936">Antonien</persName> nicht so gut als die hiesige behaget,
+                    doch der Wille <persName key="JP-012570">der Verklärten</persName>daß <persName key="JP-002936">A.</persName> nun
+                            einmahl den verlaßnen <persName key="JP-012187">Gatten</persName>
+                            zur Stütze gereichen soll, dieser muß – so ist meine Ueberzeugung – vom
+                    Himmel gesegnet werden und unmittelbarer Schaden kann für sie nie daraus
+                    entstehen.</p>
+            <p>Ich bitte um die Rükgabe aller Briefe und der Worte
+                            meiner <persName key="JP-012570">F.</persName> im October. Ich habe keine weitere
+                    Abschrift und möchte gern eine davon für die <persName key="JP-012189">Mutter Pestalozzi</persName> machen.</p>
+            <p>Eine unendliche Freude die mir vor einigen Tagen wiederfuhr muß ich Ihnen
+                    mittheilen. In langer Zeit hatte ich keine Nachricht von <persName key="JP-012829">meiner Pflege
+                                Tochter</persName>, auf einmahl erhalte ich und A.Briefe von diesem lieben Mädchen. Und was für
+                    Briefe! in welchen die Bildung ihres Geistes und Herzens sich ausspricht die
+                    mich entzükte, auch <persName key="JP-012964">mein Pflege Sohn</persName> macht seinen Eltern
+                    Freude. So will mir der Himmel in andern Kindern ersetzen was ich am <persName key="JP-003753">eignen Sohn</persName> vermiße. – – – – </p>
+            <p>Ich sehne mich von Ihnen zu lesen und erwarte recht bald ihre längere Antwort.
+                    Unwandelbar </p>
+            <closer>
+               <signed>die Ihrige. Henriette</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

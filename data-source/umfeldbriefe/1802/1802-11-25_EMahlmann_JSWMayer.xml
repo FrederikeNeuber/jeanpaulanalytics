@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0583" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0583" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 25.
@@ -19,14 +18,16 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                        <p>1 Dbl. 8°, 2⅔ S., 4. S. Adr.: Des | König Geheimen Ober-Trib. Raths |
-                                    Herrn  |
-                                        Hochwohlge | in | . | . | . 84.</p>
-                     </physDesc>
+                                <p>1 Dbl. 8°, 2⅔ S. Auf S. 4 Adresse: Des | König<ex>lichen</ex>
+                                    Geheimen Ober-Trib. Raths | Herrn
+                                        <hi rendition="#u">Mayer</hi>| Hochwohlge<ex>boren</ex> | in |
+                                        <hi rendition="#u"><hi rendition="#aq">Berlin</hi></hi>. | <hi rendition="#u"><hi rendition="#aq">Leipzigerstrasse</hi></hi>. Postzeichen:
+                                    Fr. und 84.</p>
+                            </physDesc>
                         </msDesc>
                     </witness>
                 </listWit>
-            <p/>
+            <p>Siegel.</p>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1316">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 30. Oktober 1810, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1810-10-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>B. 30 Oct. 10  Vergeben Sie mir,
+                    gute Car., daß ich Ihnen so <hi rendition="#u" hand="#author">spät</hi> antworte.  Andere
+                    müssen mir lange das <hi rendition="#u" hand="#author">gar
+                        nicht</hi> Antworten vergeben.  <hi rendition="#u" hand="#author">Dieser</hi> Monat soll nicht verlaufen, ohne daß
+                    ich mich mit Ihnen schriftlich in ihm unterhalten habe.</p>
+            <p>Im Geiste genieß' ich diese Unterhaltg oft, u hätt' ich seit Kurzem nicht drei
+                    Reisen machen müssen: so würden Sie meine Worte längst erreicht haben.</p>
+            <p>Blos für diesen Monat will ich mich b. Ihnen entschuldigen; für die vorher
+                    vergangnen wird mir Ihr Herz Vergebung angedeihen lassen, ohne daß ich
+                    eine einzige von den vielen Entschuldigungen, die ich für mich habe,
+                    anzugeben brauche: ich bitte dasselbe darum. </p>
+            <p> Zu Ihrem so geschwind ausgeführten
+                            Entschluß wünsch' ich Ihnen Glück u Segen.
+                         Vorausgesetzt, daß Sie der Kunst doch noch mit- u daß Sie mit einer edlen Familie leben können, lob' ich Ihren Schritt sehr u besonders
+                    da Sie gewiß sehr nützlich u – in unsern Tagen höchst wichtig – für die Zukunft
+                    gesichert sind.  Meine aelteste <persName key="JP-000187">Car. v. B.</persName>
+                    ist sehr glücklich in demselben Beruf, indem sie in <placeName key="JP-005618">Braunfels</placeName>zwei Prinzesinnen, sehr gute Kinder, nach Ihrem
+                    Wunsch u Willen erziehet.  <persName key="JP-003469">Car. R.</persName> ist als Mutter dreier liebenswürdigen Kinder
+                        glücklich u nun kann ich auch mit <hi rendition="#u" hand="#author">Ihnen</hi> üb. Erziehung mich unterhalten, wie mit
+                    jenen, und darauf freu' ich mich.  Ich hoffe, daß sich
+                    meine Schreibelust bald wieder vermehren soll.</p>
+            <p>Sagen Sie mir viel v. Ihrem neuen Beruf, wie viel Sie Kinder bekommen, ob sie
+                    gutartig u. s. w.</p>
+            <p>Auf den nächsten Sommer werden Sie mir dann Ihre Kinder vorstellen können, denn
+                    darauf rechn' ich, daß wir uns, da Sie uns so nahe kommen, uns öfter sehen.</p>
+            <p>Ihre jetzige Lage ist mir auch dieserwegen lieb, weil sie Ihnen weniger Zeit für
+                    Gesellschaften läßt u Sie aus ihren alten gerissen hat.</p>
+            <p>Bedaur' ich schon die Menschen, welche nicht ohne tägliche so genannte
+                    Gesellschften leben zu können glauben: so beklag' ich u bemitleid' ich
+                    diejenigen, welche den Unwerth jener Gesellschften einsehen u sie dennoch
+                    mitmachen müssen.</p>
+            <p>Von dieser Seite hab' ich mich ziemlich rein durch gearbeitet: ich gehe
+                    beinahe in gar keine Gesellschaften mehr u selbst zu meinen besten Freunden
+                    nicht, wenn sie welche haben.  Die Gesellschaft immer einer einzigen Familie ist
+                    mir noch Bedürfniß; unter Eltern u Kinder leb' ich gerne  u da leb'
+                    ich auch noch bisweilen.</p>
+            <p>Seit
+                            einigen Monaten lebt eine <persName key="JP-003991">Familie Seebek</persName>, welche 8 Jahre abwesend
+                            war wieder hier, die aus den besten Eltern u 8 wohlerzogenen Kindern besteht,
+                    diese Familie wünscht' ich allen Erziehern zeigen zu können.</p>
+            <p>Diese seh' ich bisweilen zu meinem großen Vergnügen.<anchor type="target" xml:id="stop_gwz_yvc_2rb"/>
+            </p>
+            <p>Meine alte <persName key="JP-004498">Voigt</persName>
+                            ist nun Wittwe.</p>
+            <p>
+               <persName key="JP-000472">Jette</persName> ist gesund u durch ihre Kinder
+                        glücklich. Sie freute sich v. Ihnen gegrüßt zu werden u erwiedert
+                    Ihr Andenken mit Liebe.  <anchor type="target" xml:id="start_bcw_clc_2rb"/>Bis heute über 8 Tage läßt sich mein <persName key="JP-003652">Isr</persName>. mit seiner
+                        <persName key="JP-012038">Ella</persName> trauen.
+                    Wir fahren auf ein zwei Stunden v. hier liegendes Dorf u lassen in Ruhe u Stille
+                    den ewigen Bund schließen.<anchor type="target" xml:id="stop_bcw_clc_2rb"/>
+            </p>
+            <p>Mög' ihn Gott segnen!</p>
+            <p>Wenn Sie ein mal ein paar Tausend Gulden jährlich zu verzehren haben,
+                    dann rath' ich Ihnen, es in <placeName key="JP-005755">Freiburg in
+                        Breisgau</placeName> zu verzehren u jährlich einen kleinen Ausflug
+                    in die nahe <placeName key="JP-006271">Schweiz</placeName> zu machen.</p>
+            <p>So bald ich frei werde flieg' ich hier selbst aus.</p>
+            <p>Mein <persName key="JP-004367">Uhlf</persName>. grüßt
+                    Sie recht freundschaftlich.</p>
+            <p>Es freut mich, daß Sie nicht mehr den <placeName key="JP-006405">Wiener</placeName> Schacher- u Straßenstaub einhauchen.</p>
+            <closer>
+               <salute>Bleiben Sie gesund u sagen Sie, daß Sie's sind dem alten</salute>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

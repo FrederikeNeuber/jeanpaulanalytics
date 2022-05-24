@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0672" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0672" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Caroline Richter an Max Richter. Berlin, 8. Januar 1820, Sonnabend</title><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -18,7 +17,7 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                                <p>1 Bl. 8°, 2 S. Unter Datum vfrH. 1820</p>
+                                <p>1 Bl. 8°, 2 S. Unter Datum vfrH in violetter Schrift: 1820</p>
                             </physDesc>
                         </msDesc>
                     </witness>
@@ -62,7 +61,7 @@
             <pb n="1"/>
                 <opener>
                     <dateline>Berlin den 8<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">ten</hi></hi>
-                        <hi rendition="#aq">Jan</hi>.<lb/>1808.</dateline>
+                        <hi rendition="#aq">Jan</hi>:<lb/>1808.</dateline>
                     <salute>Mein geliebter Max!</salute>
                 </opener>
                 <p>Daß ich meinem Herzen nach, immer an Dich schreiben wollte, wirst Du Deiner
@@ -77,8 +76,7 @@
                     Pflege gestört, da <persName key="JP-003471">Emma</persName> ja so gut und
                     sorgsam ist. Gewis ging alles so gut, und noch besser als da ich zu Hause war –
                     nur für mich war es hart nicht meinen Theil zu der Pflege des besten <persName key="JP-999999">Vaters</persName> beitragen zu können.</p>
-                <p>
-               <pb n="2"/>Wie oft muß ich von Dir und Deinen <persName key="JP-003484">Schwestern</persName> sprechen, mein Max! und wie gern thue ich es! Euch
+                <p><pb n="2"/>Wie oft muß ich von Dir und Deinen <persName key="JP-003484">Schwestern</persName> sprechen, mein Max! und wie gern thue ich es! Euch
                     nicht meinen Freunden und All denen intereßanten Menschen zeigen zu können ist
                     mir eine große Versagun<supplied cert="high">g.</supplied> Allein Ihr findet
                     meist hier durch den <persName key="JP-999999">Vater</persName> und auch durch
@@ -93,7 +91,7 @@
                         <hi rendition="#aq">Caroline</hi>.</hi>
                     <dateline>Berlin<lb/>den 8<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">ten</hi>
                         </hi>
-                        <hi rendition="#aq">Jan.</hi><lb/>1820.</dateline>
+                        <hi rendition="#aq">Jan:</hi><lb/>1820.</dateline>
                 </closer>
             </div>
         </body>

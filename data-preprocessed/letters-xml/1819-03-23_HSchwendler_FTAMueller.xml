@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1137">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Friedrich von Müller. Eisenach, nach dem 26. März
+                    1819</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-005698">Eisenach</placeName>
+               <date notBefore="1819-03-26" notAfter="1819-05-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012692">Bildung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>So langsam meine  bösem Fieber und
+                    den  mein Nerven System machte so
+                         weit den Gruß der Liebe
+                    meiner Freunde  zu können, und so
+                    bringe ich Ihnen, mein Theurer 
+                    den ersten, mit aller Treue und Anhänglichkeit. Wir haben wohl beyde im Leben
+                    erfahren, daß eine Krankheit überstanden, wie ein böser Traum in die Entfernung
+                    zieht, nur müßten nicht besondre Zeichen das Andenken daran festhalten. Daß unterdeßen unser würdiger <persName key="JP-004497">Voigt</persName> zu Grabe
+                            getragen ward, erschüttert mich noch immer, und wenn schon, ein
+                    nach den Gesetzen der Natur eigentlich langes Leben ihn uns erhielt, so dünkt es
+                    mich doch, wir hätten diesen <hi rendition="#u" hand="#author">freundlichen</hi>
+               <hi rendition="#u" hand="#author">versöhnenden</hi> Geist viel
+                    länger behalten müßen, und meinen verehrten <hi rendition="#u" hand="#author">
+                  <persName key="JP-001603">Heim</persName>
+               </hi>, den
+                            ich auch verlor! – Und Alle die seltsamen
+                    Erscheinungen in der Zeit unwillkürlich wird man zu einem solchen Ernst
+                    hingerißen, daß es mir oft vorkömmt als habe das Leben nur eine Seite und zwar
+                    eine sehr ernste! – Mit Ungeduld sehen wir <bibl sameAs="JP-013521" subtype="werk">Ihrer Gedächtnis Rede</bibl> auf den <persName key="JP-004497">Verewigten</persName> entgegen  lieber Muller, das Schöne und dem es gegeben ist in die
+                        wohltönenden unsrer Sprache ein klares Bild
+                    auf  und da Sie das Glück genoßen,
+                    in befreundete Nähe mit dem <persName key="JP-004497">Edlen</persName> zu
+                    stehen, wer könnte beßer uns geben, wonach wir uns sehnen, eine treue
+                    Vorstellung deßen was Er war – und in dem was Er geleistet hat – ewig bleiben
+                    wird! –</p>
+            <p>Daß Ihre Gesundheit unter so mancherley Gemüthsbewegungen leiden mußte, begreife
+                    ich nur zu gut, wir freuen uns darum um so mehr, Ihres beßeren Befindens.</p>
+            <p>Eine schöne Entschädigung ist mir geworden, für die aufgegebene Reise nach
+                        <placeName key="JP-005687">Dresden</placeName>, unser <persName key="JP-000587">Carové</persName> ist hier. Sein noch
+                    nicht fixirtes Verhältnis zur <placeName key="JP-011138">berliner
+                        Universität</placeName> läßt ihm jetzt die Muße in heitrer Abgeschiedenheit
+                    einige Monathe bey uns zu verweilen, um einige philosophische Arbeiten zu
+                    vollenden. In einigen Tagen werde ich Ihnen <bibl sameAs="JP-013503" subtype="werk">seine dem Druck bereits übergebne Meynung</bibl> über die
+                    neueste Begebenheit –<persName key="JP-002228">Kotzbues</persName> Ermordung – senden.  Es war
+                    gewiß an der Zeit einige verständliche Worte über ein Ereignis zu sagen welches,
+                    durch seiner seltsamen Stellung zu unserm Gefühl, und durch die nicht zu
+                    verkennende hohe Individualität <persName key="JP-003657">der handelnden
+                        Person</persName>, überhaupt durch die eignen schroffen Gegensätze im
+                    Ganzen, so leicht Gefahr läuft, nur einseitig – es sey in Strenge oder Milde –
+                    behandelt und beurtheilt zu werden. Und doch ist es gewiß von der höchsten
+                    Wichtigkeit, eine klare Ansicht und ein gerechtes Urtheil auszusprechen. Zu umgehen war es dabey freylich nicht, des guten <hi rendition="#u" hand="#author">
+                  <persName key="JP-001195">Fries</persName>
+               </hi> philosophische Lehrsätze in ihrer
+                            Unzulänglichkeit und ihrem Einwirken auf seine Jünger
+                            darzustellen, doch ist es mit möglichster Schonung und mit der
+                    ganzen Achtung geschehen, die ohne weiteres des edlen <persName key="JP-001195">Fries</persName> Persönlichkeit verdient. Von Ihrem Urtheil – was <persName key="JP-000587">Carové</persName>
+               <hi rendition="#u" hand="#author">hoch hält</hi> – soll es dann
+                    abhangen ob wohl dem <persName key="JP-000579">Großherzog</persName> ein
+                    Exemplar gedachter <bibl sameAs="JP-013503" subtype="werk">Schrift</bibl>
+                    einzuhändigen wäre.</p>
+            <p>Ihre Frage über die <hi rendition="#u" hand="#author">eilige</hi> Maßregel wegen der <placeName key="JP-011460">Jenaer Universität</placeName> geben wir <hi rendition="#u" hand="#author">fragend</hi> zurück. Ebenso möchte ich fragen ob die Erklärung vom  <persName key="JP-001651">Bundestags Gesandten</persName> in betreff der <hi rendition="#u" hand="#author">Academien</hi> wohl so
+                    ausführlich und ihrer Wichtigkeit angemeßen war? was
+                            die Zeitung überliefert schien mir sehr oberflächlich. Im Geist
+                    der Zeit mag es wohl liegen, daß den Academien eine Richtung, aus jenem
+                    hervorgehend, angewiesen wird, aber wie unendlich schwer wird dieses seyn, immer
+                    wird es von den Lehrern ausgehen müßen, denn zuletzt muß die Wißenschaft den
+                    kühnen kräftigen wenn gleich ungebändigten Jüngling doch bändigen und hier muß
+                    der Vortrag einwirken.</p>
+            <p>Aber nun eine Frage, dürfen wir nicht hoffen, Sie bald einmahl hier zu sehen?
+                    Geht <persName key="JP-000587">Carové</persName> zurück
+                    nach <placeName key="JP-005586">Berlin</placeName> und erlaubt es meine
+                    Gesundheit so begleite ich ihn wenigstens bis <placeName key="JP-006395">Weimar</placeName>, geht er nach <placeName key="JP-005607">Bonn</placeName>, dann wird
+                    mir <placeName key="JP-006395">We</placeName>. fern
+                    bleiben, und doch dünkt es mich wir hätten einander so viel zu sagen, das die
+                    Feder und das kalte Papier nicht aufnehmen kann!! – Wir wünschen, laßen Sie uns
+                    hoffen! Gruß u Verehrung von uns Allen</p>
+            <closer>
+               <salute>die Ihrige</salute>
+               <signed>Henriette Schwendler.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

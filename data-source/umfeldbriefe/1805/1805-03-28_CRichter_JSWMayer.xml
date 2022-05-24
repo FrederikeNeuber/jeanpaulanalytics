@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0374" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0374" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 28. bis 30.
@@ -19,7 +18,7 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                                <p>1 Dbl. 8°, 2 ¼ S.</p>
+                                <p>1 Dbl. 8°, 2¼ S.</p>
                             </physDesc>
                         </msDesc>
                     </witness>
@@ -61,11 +60,8 @@
             <div type="writingSession">
             <pb n="1"/>
                 <opener>
-                    <dateline>
-                  <hi rendition="#u" hand="#author" cert="high">Baireuth den 28<hi rendition="#sup">
-                        <hi rendition="#uu" hand="#author" cert="high">ten</hi>
-                     </hi> März 05</hi>
-               </dateline>
+                    <dateline> Baireuth den 28<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">ten</hi>
+                        </hi> März 05<lb/>________________________</dateline>
                     <salute>Mein geliebter Vater</salute>
                 </opener>
                 <p>Nur weil <seg type="comment">

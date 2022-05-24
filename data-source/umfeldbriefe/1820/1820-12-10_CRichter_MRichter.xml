@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0634" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0634" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Caroline Richter an Max Richter. Bayreuth, 10. Dezember 1820, Sonntag  </title><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -19,6 +18,7 @@
                             </msIdentifier>
                             <physDesc>
                                 <p>1 Dbl. 8°, 4 S.</p>
+                                <p> S. 4 Siegelreste.</p>
                             </physDesc>
                         </msDesc>
                     </witness>
@@ -60,15 +60,9 @@
             <div type="writingSession">
             <pb n="1"/>
                 <opener>
-                    <dateline>
-                        <hi rendition="#u" hand="#author" cert="high">Baireuth den 10</hi>
-                        <hi rendition="#sup">
-                            <hi rendition="#uu" hand="#author" cert="high">ten</hi>
-                        </hi>
-                        <hi rendition="#u" hand="#author" cert="high">
-                            <hi rendition="#aq">Dec</hi>
-                            <lb/>1820</hi>
-                    </dateline>
+                    <dateline> Baireuth den 10<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">ten</hi>
+                        </hi><hi rendition="#aq">Dec</hi>
+                        <lb/>1820<lb/>____________________ </dateline>
                     <salute>Geliebter Max!</salute>
                 </opener>
                 <p>Schon längst wollte ich Dir schreiben, Deine Worte an mich <ref type="letter" subtype="document" target="4-VIII_80">im vorletzten Briefe</ref> trafen mich

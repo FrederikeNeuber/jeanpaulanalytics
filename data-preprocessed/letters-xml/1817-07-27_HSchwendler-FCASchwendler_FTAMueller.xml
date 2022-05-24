@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1130">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler und Friedrich Christian August Schwendler an
+                    Friedrich von Müller. Eisenach, 27. Juli 1817, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003966">Friedrich Christian August Schwendler</persName>
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <date when="1817-07-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#JP-003964">
+            <opener>
+               <dateline>Eisenach. d. 27<hi rendition="#uu" hand="#author">ten</hi>July <hi rendition="#u" hand="#author">1817</hi>.</dateline>
+            </opener>
+            <p>Entschuldigen Sie, mit Liebe, theuerster Freund, die späte Beantwortung Ihrer letzten freundlichen Zuschrift! – Eine Reise
+                    zu meinen
+                    Kindern nach <placeName key="JP-006248">Schleusingen</placeName> und wie es dann bey der Rückkehr der Hausfrau zu
+                    gehen pflegt, große und kleine Häuslichkeiten traten, mir bis jetzt störend in
+                    den Weg.</p>
+            <p>Mit großer Freude haben wir gestern von <persName key="JP-013366">Eglofstein</persName> vernommen, daß, – nach
+                    manchem
+                    Unangenehmen
+                    was Sie in oeconomischer Hinsicht betroffen hat und welches
+                    wir, ohne es zu <hi rendition="#uu" hand="#author">erörtern</hi>,
+                    redlich theilen, – Ihre schöne heitre Ansicht des Lebens wieder ihr altes Recht
+                    behauptet, daß Sie freudig einer angenehmen Reise entgegen gehen und unsrer
+                    gedacht haben. Laßen sie nur ums Himmel willen, keinen äußern Unfall auf Ihre
+                    Gesundheit ungünstig einwirken, allem Andern können <hi rendition="#u" hand="#author">Sie</hi> gebieten!! – – –</p>
+            <p>Nicht so bedeutend wie Sie, geliebter Freund, aber Erfahrungen der Art wie Sie
+                    jetzt machen, habe ich auch <hi rendition="#u" hand="#author">gemacht</hi>. Mein Vermögen war nie groß, ich konnte also auch nicht so
+                    bedeutende Unfälle wie Sie jetzt dabey erleiden; höchst unangenehm sind diese
+                    Dinge, namentlich für Personen die sich gestehen dürfen, daß sie im rechten
+                    Sinne den Werth irdischer Güter erkennen. </p>
+            <p>So gern ich glaube, daß sie beruhigt sind, so sehne ich mich  dennoch, es von Ihnen selbst nur durch
+                    zwey Worte zu erfahren. Einen Freund, in seinem Gleichmuth und seiner
+                    gemüthlichen Lebens Ansicht, durch ernste, wiewohl jämmerliche Zahlen
+                    Angelegenheiten unterbrochen zu wißen, ist gar schmerzlich. Dann wird mir <placeName key="JP-006395">Weimar</placeName>
+                    unerträglich fern von hier; denn ehe durch Papier und Siegel Theilnahme
+                    gewechselt wird, hätten ein paar Augenblicke von Mund zu Mund, manche Besorgniße
+                    gehoben.</p>
+            <p>Von <persName key="JP-012083">Adalbert</persName> wißen
+                            wir gute Kunde,
+                    unser Hausgenoße Herr von
+                                Könneritz hat ihn vor 8 Tagen in <placeName key="JP-006254">Schnepfenthal</placeName> gesehen. Seine Aeußerung, er müßte
+                    noch lernen das Elterliche Haus zu vergeßen, hat mir wohl gefallen, dem
+                    kindlichen Gemüth muß das Vaterhaus über alles gehen. Er soll wohl aussehen und
+                    sich mit seinen Kameraden gut stehen. Behalten wir gutes Wetter, so sehe ich
+                    Ihren lieben <persName key="JP-012083">Sohn</persName> noch selbst in diesem
+                    Sommer, eine Wanderung nach dem <placeName key="JP-005863">Inselsberge</placeName> wird mich über <placeName key="JP-006254">Schnepfenthal</placeName> führen.</p>
+            <p>
+               <anchor type="target" xml:id="start_ixf_skw_r4b"/>Ihre Reise nach <placeName key="JP-005890">Karlsbad</placeName> und <placeName key="JP-005696">Eger</placeName> sehe ich blos als eine Erholung
+                    und Vereinigung mit Freunden für <hi rendition="#u" hand="#author">Sie</hi> an.<anchor type="target" xml:id="stop_ixf_skw_r4b"/> Als Cur mag
+                    ich sie mir nicht denken, denn auf <placeName key="JP-005712">Ems</placeName>
+                    und <placeName key="JP-006244">Schlangenbad</placeName> paßen ja jene Bäder
+                    nicht. Nicht wahr, liebster Müller, Sie zürnen meiner
+                    Aber Weisheit nicht, sagen muß  ich es, ohne Vorwißen eines Arztes und
+                    des Brunnen Arztes an beyden Orten <hi rendition="#u" hand="#author">trinken Sie nicht</hi>. <placeName key="JP-005890">Karlsbad</placeName>
+                    greift entsetzlich an namentlich die Brust; Eger
+                    weniger, aber doch auch. </p>
+            <p>Unser nahes <placeName key="JP-005956">Liebenstein</placeName> ist sehr besucht,
+                    aus den entferntesten Gegenden hat sich ein intereßanter Cirkel gebildet. Das
+                    neue Fußen der Quelle hat die Kraft des Brunnens sehr verstärkt, unser Arzt der
+                    selbst dort ist, spricht mit großer Ehrfurcht von den Eigenschaften des
+                        <placeName key="JP-005956">Liebensteiner</placeName> Waßers. Was ich immer
+                    behauptet habe, trift in diesem Jahre ein, das Entfernen des <placeName key="JP-011537">Hofes</placeName> giebt der Gesellschaft ein viel freyeres
+                    und froheres Leben. In <placeName key="JP-005712">Ems</placeName> soll es unertraglich seyn, unser guter <persName key="JP-013424">General SuperintendentNebe</persName>, führt die bittersten Klagen über
+                    die Steifheit der dortigen Gesellschaft. </p>
+            <closer>
+               <salute>
+                  <persName key="JP-003966">Schwendler</persName> will meine Feder, die
+                        glücklichste Reise und Wiedersehen –</salute>
+            </closer>
+         </div>
+         <div n="2" hand="#JP-003966">
+            <p>Mit großen Entschuldigungen meines Schweigens auf Ihre
+                            wiederholte gütevolle Aufforderung zur Unterbrechung
+                    desselben muß ich allerdings beginnen, – doch ich bin verwöhnt durch Ihre
+                    Nachsicht. </p>
+            <p>Sie wollten nähere Kunde davon haben, wie die Anwesenheit unseres  verehrten <persName key="JP-000579">Großherzogs</persName> mich influenzirt
+                    und in Bewegung gesezt hat.
+                    Interessanter noch wird es Ihnen werden, mich darüber zu hören, wenn ich Ihnen
+                    zwar sage, daß während seines ganzen Hierseyns nur ganz Unbedeutendes der
+                    Gegenstand unserer Unterhaltung war, – daß ich auf Anfrage und Vorträge über mir
+                    wichtigere Dinge p – kaum einiges Entscheidende erfuhr und daß ich mich dadurch
+                    zum Theil ganz getäuscht oder unangenehm betroffen fand. </p>
+            <p>Der Zufall wollte, daß ich in <placeName key="JP-013335">Vach</placeName> zuthun hatte und deshalb den Tag der Abreise des
+                        <persName key="JP-000579">Großherzogs</persName> erwählte, wo ich ihm
+                    zuvoreilte und ihn in <placeName key="JP-013335">Vach</placeName> mitempfing, wo sich allerley herbeygeführt fand,
+                    was ihm die Aufforderung eingab, mich bis <placeName key="JP-013311">Buttlar</placeName> mitzunehmen. Dort erhielt
+                    ich die weitere Ordre mit nach <placeName key="JP-013325">Ostheim</placeName> zu gehen, was
+                    mich wirklich ein wenig genirte, da ich blos war wie ich ging u stand; allein
+                    ich wurde sehr belohnt durch die
+                    sich von da an zeigende Theilnahme des <persName key="JP-000579">Großherzogs</persName> an allem, was ich vorzubringen Gelegenheit nahm und
+                    durch seine Milde, seine wohlwollenden Aeusserungen und selbst durch vertrauten
+                    Mittheilungen u Eröffnungen, wobey ich überall zugleich den Kabinetsrath und
+                    Referendar in Gnadensachen u bey der Ueberschwemmung mit Gesuchen, Beschwerden u
+                    Klagen zu machen hatte. In <placeName key="JP-013325">Ostheim</placeName> war <persName key="JP-000579">Serenissimmi</persName> sichtbar bewegt über die
+                    Beweise der treusten u innigsten Anhenglickeit, nach 22 jähriger
+                    Abwesenheit. Er gab deshalb einen Tag dort zu und suchte dadurch seine
+                    Empfänglichkeit für die ihm ausgesprochenen Empfindungen zu erkennen zu geben.
+                    Dort erhielt er Briefe von der <persName key="JP-004080">Marggräfin</persName>, die meines threuen  Freundes Müller wohlwollend gedenkend, die Nachricht vom Verkauf
+                    der Adels Güther mittheilte und den auf
+                    sie kommenden Kaufgeld-Antheil den Großherzoglichen Landessachen
+                    darbot. Diese Artigkeit bestimmte den <persName key="JP-000579">Großherzog</persName> zu der, – die gnädige <persName key="JP-004080">Tante</persName> selbst en
+                            passant aufzusuchen u so entstand der Abstecher nach
+                        <placeName key="JP-005721">Erlangen</placeName>.</p>
+            <p>Ich habe mich mit noch mehr erhöhter Verehrung für unsern so ausgezeichneten
+                        <persName key="JP-000579">Großherzog</persName> von Ihm getrennt u bin dann
+                    eiligst hieher zurückgekehrt, da unser <persName key="JP-000580">Erbgroßherzog</persName> am folgenden Tage hier ankam u die <persName key="JP-002628">Großfürstin</persName> mir in Ansicht der Industrie Schule
+                    für junge Mädchen auf dem Land mancherley zu sagen hatte. In dieser Hinsicht
+                    verdient sie für den regen Eifer, nutzen zu wollen gewiß die größte Achtung und
+                    dankbarste Anerkennung.</p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Von einer Woche zur andern haben wir hirauf Ihr und Ihrer verehrten <persName key="JP-012266">Gemahlin</persName> Hieherkommen erwartet – und nun sind
+                    wir, nach deshalb verschwundener Hoffnung, mit immer sich wiederholenden
+                    Nachrichten von der Ankunft unsers ehrwürdigen <persName key="JP-004497">Geheimraths Vogt</persName> hingehalten und
+                    getäuscht worden. Sagen Sie mir doch: ob er sich im Zustand befindet, diese
+                    Hoffnung noch zu erfüllen, da wir so noch dabey interessirt sind, ihm die
+                    vorzüglichsten Beweise unserer treusten Ergebenheit u Verehrung über zu bringen.</p>
+            <p>Auch der <persName key="JP-013365">Graf v Edling</persName> soll der Sage nach schon ganz  in unsrer
+                    Nähe weilen, auf dem Wege von <placeName key="JP-005858">Ilmenau</placeName> zu
+                    uns, aber wir wissen nichts näheres von ihm.</p>
+            <p>Vom Wiederkommen unsrer höchsten Herrschaften können Sie uns wohl am ersten etwas
+                    Bestimmteres zu sagen; am meisten wünsche ich von <persName key="JP-000579">Serenissimi</persName> Wiederkommen zu wissen, da
+                    einige Aufträge von ihm mich nöthigen, ihm manches vorzulegen. Ich bitte daher
+                    bey Ihnen, mein gefälliger Freund, darum.</p>
+            <p>Herrnv. Hendrich hoffe ich in den ersten Tagen
+                    wiederzusehen, – wahrscheinlich in <placeName key="JP-005956">Liebenstein</placeName>; auch unsern <persName key="JP-013415">Martin</persName> erwarten wir noch seinem
+                    Versprechen gemäß u ich habe ihm viel schönes zu sagen, für das schöne was er
+                    der Landes Direction, unverdiente Weise, gesagt hat. </p>
+            <p>Unsere besten Wünsche begleiten Sie zwar nach <placeName key="JP-005890">Carlsbad</placeName> – aber lieber hätten wir Sie
+                    doch in <placeName key="JP-005956">Liebenstein</placeName> gesehen. Ich stehe
+                    übrigens jezt ziemlich verlassen da. – <persName key="JP-013432">Ridel</persName> ist heute zu einer 7
+                        wöchentlichen<placeName key="JP-006271">Schweizer</placeName> Reise abgegangen und <persName key="JP-013468">Töpfer</persName> – seit
+                    18. Tagen in <placeName key="JP-013310">Bruckenau</placeName>, wohin ihm Ihr
+                            Herr Bruder gefolgt ist, u in dieser Woche nach
+                        <placeName key="JP-005765">Fulda</placeName> zu
+                    seinen Commissions Geschäften zurückkehren u <persName key="JP-013468">Töpfer</persName> ihn
+                    dahin begleiten wird, um dann sich wieder hier einzufinden.</p>
+            <p>Danken Sie nur dem Himmel mit mir, daß die ungeheure Noth ein Ende nimmt, unter
+                    der wir bisher geseufzt haben u die mich besonders beynahe ganz beschäftigt hat.
+                    In <placeName key="JP-006395">Weimar</placeName> haben Sie gar nicht Gelegenheit gehabt, sich davon einen Begriff zu
+                    machen – u je mehr nach Süden – desto größer war die Noth. So ganz gegen die
+                    sonstige Regel!</p>
+            <p>Es gehört wirklich zu den traurig intressanten Erscheinungen, daß sich so etwas
+                    in dem gesegneten <placeName key="JP-005739">Franken</placeName>, am <placeName key="JP-006187">Rhein</placeName>, in <placeName key="JP-005569">Baiern</placeName> u <placeName key="JP-006421">Würtemberg</placeName>
+                    ereignen konnte. – Die Folgen einer nochmaligen Mißerndte wären aber auch
+                    unberechenbar gewesen!. Ich hätte an Bauernkrieg, Pöschelianismus u
+                    Revolution geglaubt!</p>
+            <p>Doch – nun schwinden die Sorgen mit dem reicheinkehrenden Seegen der Erndte.</p>
+            <p>Vom <persName key="JP-013373">HerrnM. v Fritsch</persName> hatte ich viel schlimmes
+                    gehört, – er sollte sich schlechter befinden, als jemals aber in seinem heute
+                    eingegangenen Brief an mich sagte er mir kein Wort davon, – und daß er noch 8
+                    Tage nach <placeName key="JP-005556">Schwalbach</placeName> gehen u bis zum 8ten oder 10ten August
+                    zurück kommen wolle.</p>
+            <p>Wann dürfen wir Sie denn wieder in <placeName key="JP-006395">W</placeName>. erwarten? Bleiben Sie nur nicht zulange, u kommen
+                    Sie, wie vorm Jahre, gestählt und ermuthigt vom heilenden Quell zurück u – bald
+                    auch zu uns.</p>
+            <closer>
+               <salute>Gruß u Hochachtung – treue Ergebenheit u Dankbarkeit wie immer
+                        von</salute>
+               <signed>Ihrem S.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

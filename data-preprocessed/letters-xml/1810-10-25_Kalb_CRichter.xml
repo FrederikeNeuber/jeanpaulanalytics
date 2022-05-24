@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0936">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 25. und 30. Oktober 1810,
+                    Donnerstag und Dienstag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date from="1810-10-25" to="1810-10-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Berlin, d. 25. 8ber 1810.</dateline>
+               <salute>Theure Liebe!</salute>
+            </opener>
+            <p>Sie zögern lange mit Ihrer Antwort auf mein
+                            vertrauliches Schreiben; ohne diese finde ich den Faden nicht zu
+                    unserer ferneren Unterhaltung. <persName key="JP-999999">Richter</persName> hat meine Briefe nach <placeName key="JP-005561">Bamberg</placeName> selbst gebracht, so schrieb mir <persName key="JP-002008">Leonore</persName>. Er war meinen
+                            Verwandten willkommen wie
+                    ein Gott, nicht nur wie ein Bote der Götter. Aus Ihrem
+                                <persName key="JP-002703">väterlichen</persName> Haus habe ich
+                            vernommen, Sie würden im künftigen Jahre dem <placeName key="JP-006187">Rhein</placeName> nahe wohnen – mit Anteil habe ich es vernommen, dann hat jene
+                    Gegend genug Reiz für mich, daß sie mich dahin ziehen wird. Ich muß ein
+                    stärkendes <hi rendition="#u" hand="#author">Bad</hi> gebrauchen und
+                    will vielleicht nach <placeName key="JP-005556">Schwalbach</placeName>. Sind Sie
+                    in <placeName key="JP-005743">Frankfurt</placeName>, so komme ich und bleibe den
+                    Winter über daselbst. Ich habe daselbst und in der
+                            Gegend Verwandte und noch bessere
+                    Freunde. Wenn Sie nun da sind, so leben auch Seelen dort in der freieren
+                    Umgebung.</p>
+         </div>
+         <div n="2">
+            <p>D. 30. 8ber. Gestern war ich zum
+                    Thee bei Ihrer Frau <persName key="JP-002709">Mutter</persName>. <anchor type="target" xml:id="start_twz_vdc_jpb"/>Ich hörte von Ihrem geänderten
+                    Willen, daß Sie, den Luxus in <placeName key="JP-005743">Frankfurt</placeName>
+                    scheuend, nicht dahin ziehen wollen.<anchor type="target" xml:id="stop_twz_vdc_jpb"/> Diesen Grund erkenne ich nicht an, <hi rendition="#u" hand="#author">aber Ihr Schicksal</hi>, und, ich
+                    will auch sagen, das meinige muß es so haben wollen. <hi rendition="#u" hand="#author">Ich dachte mir eine festliche Zeit, einen
+                        heiligen Abend vor dem ewigen</hi> bei Ihnen, mit Ihnen. In <placeName key="JP-005743">Fankfurt</placeName> könnte ich <hi rendition="#u" hand="#author">existieren</hi>, in
+                                <placeName key="JP-005574">Bayreuth</placeName>
+               <hi rendition="#u" hand="#author">nicht</hi>, weil ich
+                            daselbst Fabrikwaaren von <placeName key="JP-005586">Berlin</placeName>
+                            könnte kommen lassen und andere hinwieder nach <placeName key="JP-005586">Berlin</placeName> schicken. Dafür hatte ich mir zu
+                            dieser Absicht schon manchen Artikel ausgedacht. Ich kann hier in
+                            Rücksicht des Handels nicht klagen; andere Hülfe
+                    habe ich nicht gefunden, und dieses bleibt bis jetzo meine vierte Bitte. Der <persName key="JP-002011">Präsident von
+                                Kalb</persName> schrieb mir vor einiger Zeit, wenn <placeName key="JP-013043">Dankenfeld</placeName> an <placeName key="JP-006422">Würzburg</placeName> käme, so würden wir wieder einen Teil unserer
+                                Revenuen erheben können.
+                    Er schrieb es mir eilends <hi rendition="#u" hand="#author">zum
+                        Troste</hi>, aber ich erzürnte mich nur, ich kann nicht mehr glauben noch
+                    hoffen. Ich habe es mir zum Gesetz gemacht, nicht daran zu denken; aber
+                    schmerzlich ist mir die Erinnerung an meine <persName key="JP-002008">Schwester</persName>, den <persName key="JP-002011">Präsidenten</persName>
+                    und meine Söhne.
+                    Ach, wenn es nicht thöricht wäre zu wünschen, <hi rendition="#u" hand="#author">daß ich wenigstens die Söhne unterstützen könnte</hi>! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

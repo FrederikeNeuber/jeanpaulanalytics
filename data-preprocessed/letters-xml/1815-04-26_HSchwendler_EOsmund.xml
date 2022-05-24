@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0162">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel Osmund. Meiningen, 26. April 1815, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1815-04-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen, den 26.ten April <hi rendition="#u" hand="#author">1815.</hi>
+               </dateline>
+            </opener>
+            <p>Vor 14 Tagen schrieb ich an <persName key="JP-003884">Henriette Schukmann</persName> mein theurer Emanuel, und
+                    theilte ihr eine Idee mit, die Sie mein Freund, nun noch berichtigen sollen, in
+                    so fern sich solche ausführen läßt. Es braucht wohl keine Betheuerung, daß ich
+                    mich von ganzer Seele sehne, meine Bayreuther Freunde wiederzusehen, ich glaubte
+                    diesen Sommer mir diesen Genuß geben zu können. Jetzt
+                            höre ich jedoch von einem rußischen Armeecorps was sich <hi rendition="#u" hand="#author">bey</hi>
+               <hi rendition="#u" hand="#author">in</hi> und <hi rendition="#u" hand="#author">um</hi>
+               <placeName key="JP-005574">Bayreuth</placeName> ziehen soll und welches
+                            leicht den ganzen Sommer dort stehen bleiben könnte. So wenig ich nun
+                    wohl persönlich mit Truppen irgend einer Gattung in Berührung kommen könnte, so
+                    fürchte ich die daraus entstehende Last wird auf die Stimmung und Verhältniße
+                    selbst der wenigen mir in <placeName key="JP-005574">Bayreuth</placeName>
+                    Bekannten Freunde so einwirken daß leicht auch der Besuch einer alten Freundinn
+                    lästig würde. Wer mir in <placeName key="JP-005574">Bayreuth</placeName> theuer
+                    ist wißen Sie Emanuel, außer <hi rendition="#u" hand="#author">Ihnen</hi>
+               <persName key="JP-003482">Richters</persName> und Schukmanns zieht
+                    mich niemand hin.  Aber Euch, Geliebten, wollte ich sehen, einige
+                    Wochen Euch genießen und Eure herrliche Gegend obendrein. Zu diesem Zweke,
+                    wollte ich Sie bitten, mir in Ihrer Nähe eine Stube und Alkoven auszumitteln,
+                    weil länger als einen Tag wenig Gasthäuser zu genießen sind und der Auffenthalt
+                    in letztern mir zu kostbar seyn würde.</p>
+            <p>Nun weiß ich in der That nicht, ob ich diesen mit Liebe genährten Plan werde
+                    ausführen können. Rathen Sie mir vor Allen daß ich wiße ob ich darauf rechnen
+                    kann, meine Freunde zu sehen. Ist <persName key="JP-999999">Richter</persName>
+                    zu genießen? <anchor type="target" xml:id="start_erw_55w_qmb"/>oder ist er noch
+                    seltner als da ich das letztemahl da war, für seine Bekannten in gemüthlicher
+                        Laune?<anchor type="target" xml:id="stop_erw_55w_qmb"/> werde ich Sie sehen
+                    und <persName key="JP-003884">Henriette S.</persName>? Ich bringe wenn ich komme
+                    blos <persName key="JP-003971">Pauline</persName> mit, <persName key="JP-003749">Amanda</persName> müßte dann bis dahin von <persName key="JP-003751">ihrem
+                        Vater</persName> zurükgekehrt sein. Als ich der <persName key="JP-003884">Schukmann</persName> schrieb, knüpfte ich an meine Bayreuther Reise auch
+                    einen recht lieben Gedanken damals glaubte ich, <persName key="JP-003753">meinen Sohn</persName> in <placeName key="JP-005721">Erlangen</placeName> besuchen zu können, unterdeßen hat ihn der  König zum Dienst der gemeinsamen Sache, <persName key="JP-002955">den Weltenstürmer</persName> zu bezwingen, gefordert und vor
+                    acht Tagen habe ich <persName key="JP-003753">den Liebling meines
+                        Herzens</persName> zum zweyten mahl  in den Krieg ziehen laßen.</p>
+            <p>Tief und innig ist mein Innerstes bewegt, nachdem schon einmahl ganz <placeName key="JP-005728">Europa</placeName> aufgeboten war, <persName key="JP-002955">den satanischen Freygeist</persName> zu besiegen er besiegt wurde, die
+                            unterhörteste Nachläßigkeit ihn frey ließ, aber nun alle Kämpfe, alle
+                    dargebrachte Opfer umsonst waren und die Blüthe und das Korn des deutschen
+                    Volkes von neuen gegen ein Heer loßgelaßner Tyger und Hyähnen ausziehen muß. Man
+                    könnte verzweifeln, tönte nicht aus derselben Quelle des Schmerzes auch die laute Stimme der
+                    Ueberzeugung, es hat so kommen müßen, noch war die Welt keines dauerhaften
+                    Friedens werth, denn Hader Neid und Vergrößerungssucht trennte die Gemüther.
+                    Nicht so waren freylich die Völker, die die Siege errungen hatten, nur die
+                    Machthaber, und es soll wieder Blut fließen, Gott, Emanuel, sagen Sie mir  aus ihrer lautern Brust, ein Wort das trösted. Mein <persName key="JP-003753">Leopold</persName> ist
+                    ein treflicher Jüngling geworden die Erfahrungen der
+                            Jahre: 13 u. 14 haben ihn gereift und die mancherley
+                    Schlaken von ihn geworfen, die früher, seine zweklose
+                            Erziehung und die Nähe <persName key="JP-003751">seines
+                                Vaters</persName> ihn hatte aufnehmen laßen.
+                    Bescheiden und kräftig ist sein Inres und Äußres, mein ganzes Herz hängt an ihn,
+                    und nun ist er wieder nahmenlosen Gefahren ausgesetzt! – Gott! —</p>
+            <p>
+               <persName key="JP-003966">Schwendler</persName> grüßt Sie mit Liebe, <persName key="JP-003967">meine Kleinen</persName> sind wohl und machen mir Freude.
+                    Muß ich der Freude entsagen, <hi rendition="#u" hand="#author">Sie</hi> zu sehen und zu sprechen, nun dann muß ich Ihnen freylich vieles
+                    umständlicher schreiben, was ich jetzt der mündlichen Unterhaltung aufspahre. In
+                    der politischen und phisischen Natur ist alles in eigner Gährung, wir haben
+                    unangenehme Kälte, alle Blüthen sind erfroren und das herrlichste in unsern
+                    Thal, die Nachtigallen sind stum, bis heute hat man kaum Eine gehört.</p>
+            <closer>
+               <salute>Möge Wärme, Friede und Ruhe uns bald wieder erheitern, in der
+                        wandelbaren Zeit, Emanuel ewig,</salute>
+               <signed>Ihre treue Freundin H. S.</signed>
+            </closer>
+            <postscript>
+               <p>Wenn es Ihre Geschäfte erlauben, so rechne ich in 14 Tagen auf eine
+                                    Antwort.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

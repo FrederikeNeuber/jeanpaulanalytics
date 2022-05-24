@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0737">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Odilie Richter. Bayreuth, 17. Juni 1822, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-06-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012212">Liebesleben / Kennenlernen / Ehe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Baireut den 17<hi rendition="#u" hand="#author">ten</hi> Juni 1822.</dateline>
+            </opener>
+            <p>meine geliebte Odilie daß ich
+                    Dir so lange  aber ich war in
+                        <placeName key="JP-005918">Conradsreuth</placeName> von wo schreiben wollte was mir aber
+                    bei allen guten nicht möglich war.
+                    Der
+                    gute <persName key="JP-999999">Vater</persName> ist recht wohl von Dresden zurück
+                    gekommen, er holte mich von <placeName key="JP-005918">Conradreuth</placeName> ab. Alles gefällt ihm hier auch seine Stubeihm immer besser und er ist recht heiter. Wenn Du nur auch hier gewesen
+                    wärest, dann würde alles noch weit schöner gewesen sein. Ich bin recht froh daß
+                    der <persName key="JP-999999">Vater</persName> wieder da ist, jetzt kann doch
+                    die gute <persName key="JP-003469">Mutter</persName> sich ausruhen die seit
+                    sechs Wochen in ewiger Unruhe lebte; aber ihre Mühe ist auch recht belohnt, denn
+                    alles sieht neu und frisch aus.</p>
+            <p>Seit kurzer Zeit ist recht vieles vorgefallen, und über eine Nachricht wirst Du
+                    erstaunt sein und Dich freuen: denke die <persName key="JP-011970">
+                  <hi rendition="#u" hand="#author">Luise Fischer</hi>
+               </persName>
+                    ist seit vierzehn Tagen <hi rendition="#uu" hand="#author">Braut</hi>! Ich habe beinah vor Freuden wie ich diese Nachricht hörte, auf
+                    der Straße, wo ich sie erfuhr, einen Sprung gemacht. <persName key="JP-012353">Er soll häßlich sein, aber brav und gut, er ist Rentamtmann</persName> wie
+                        sein hiesiger Bruder; in acht Wochen wird die Hochzeit sein. Gar zu gern wäre ich gleich hin gegangen ihr zu
+                    gratulieren, aber die Reise nach <placeName key="JP-005918">Conradsreuth</placeName> stand dazwischen. <persName key="JP-011953">Caroline</persName> soll auch schon halb und halb mit einen Hrn.
+                            v. Brieser versprochen sein. <persName key="JP-011970">Luisens</persName> künftiger
+                            Wohnort ist
+                    zehn Stunden hinter <placeName key="JP-005548">Augsburg</placeName>.</p>
+            <p>Bei meinen achttägigen Aufenthalt in <placeName key="JP-005918">Conradsreuth</placeName> brachte ich auch einen Tag in <placeName key="JP-005846">Hohenberg</placeName> zu. Ich wußte  nicht, daß es
+                    der <persName key="JP-003469">Mutter</persName> unangenehm war  es nicht  gethan, aber doch bin ich froh  zu sein, denn so habe ich doch <persName key="JP-012515">Luise</persName> wieder 
+                    glaubst nicht, beste Diezo, wie sie mich  Sie kränkelt sehr und man 
+                        bef Auszehrung bei ihr wegen
+                    ihres schnellen  Sie ist schon
+                    etwas größer wie ich; aber ellen 
+                    schwache Gesundheit gibt ihr so etwas ernstes, und sinniges daß sie gleich bei jedem Interesse erregen
+                        muß. Von aller früheren
+                    Wildheit ist nichts an ihr zu sehen; ich habe sie recht lieb bekommen.  Was sie auch sehr anziehend macht ist ihre erstaunliche
+                    Blässe die noch mehr durch ihre langen dunkeln Loken die sie, wie früher
+                        <persName key="JP-003873">Marie</persName>, trägt, gehoben wird, und durch
+                    die braunen Augen. Aber 
+                    es thut mir unendlich weh wenn ich daran denke daß ihre Kränklichkeit gefährlich
+                    ist. Auch <persName key="JP-003873">Marie</persName> ist unwol, wie  auch hier es immer war,
+                    sie ist so gereizt daß der unschuldigste Scherz ihr Thränen entlockt <persName key="JP-003020">Nürnberger</persName> der in der dortigen Gegend zu thun hat
+                    und bei Schubärdts wohnt, mußte sich im ruhigsten Gespräch vor jeden Spaß hüten weil ein
+                    jeder sie gleich verletzt, auch hat sie eine solche Schwäche daß sie oft der
+                    Länge lang in der Stube hinfällt. Ich begreife gar nicht was alles dieß hervorbringt.</p>
+            <p>Von den Verhältnissen des <persName key="JP-999999">Vaters</persName> in
+                        <placeName key="JP-005687">Dresden</placeName>, wird Dir die <persName key="JP-003469">Mutter</persName> bald selbst erzählen, besterdinge denn
+                    nächstens wird sie vor Dir stehen, aber gar zu nah muß sich Deine Freude ihre
+                    Ankunft nicht ausmalen, denn sonst würde jeder Tag der sie nicht bringt Dich
+                    traurig </p>
+         </div>
+      </body>
+   </text>
+</TEI>

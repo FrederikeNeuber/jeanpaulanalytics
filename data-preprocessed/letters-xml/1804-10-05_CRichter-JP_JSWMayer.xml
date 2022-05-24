@@ -25,7 +25,7 @@
             <correspAction type="sent">
                <persName key="JP-003469">Caroline Richter</persName>
                <persName key="JP-999999">Jean Paul</persName>
-               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <placeName key="JP-005574">Bayreuth (Stadt)</placeName>
                <date from="1804-10-05" to="1804-11-10"/>
             </correspAction>
             <correspAction type="received">
@@ -48,9 +48,8 @@
       <body>
          <div hand="#JP-003469">
             <opener>
-               <dateline>
-                  <hi rendition="#u" hand="#author">Baireuth den 5ten  Octobr.  1804</hi>
-               </dateline>
+               <dateline> Baireuth den 5<hi rendition="#uu" hand="#author">ten</hi>
+                        Octobr. 1804 _______________________</dateline>
                <salute>Mein geliebter Vater,</salute>
             </opener>
             <p>Schon seit mehr als acht Tagen habe ich Ihren durch <persName key="JP-002581">Ernestine</persName> an mich geschikten Brief in Händen, allein die Vorbereitungen zu meiner Niederkunft, die ich jezt mit jedem Tag erwarten muß,
@@ -81,8 +80,7 @@
                     Versicherung meiner unveränderten Dankbarkeit und Hochachtung Ihnen gebe.
                     Vielleicht gewinn’ ich in den nächsten Wochen die Zeit zu einem längern Blatte.
                     Ich und <persName key="JP-003469">Caroline</persName>
-                    grüßen Sie und Ihre treffliche <persName key="JP-002709">Gattinn</persName> mit
-                    warmer ehrender Seele. </p>
+                    grüßen Sie und Ihre treffliche<persName key="JP-002709">Gattinn</persName> mit warmer ehrender Seele. </p>
             <closer>
                <signed>Ihr dankbarer Sohn JPF Richter</signed>
             </closer>

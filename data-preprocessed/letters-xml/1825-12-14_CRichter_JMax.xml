@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0196">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Joseph Max. Bayreuth, 14. Dezember 1825, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1825-12-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002693">Joseph Max</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Bayreuth den 14<hi rendition="#uu" hand="#author">t</hi>Dec 1825</dateline>
+            </opener>
+            <p>Mit wahrem <hi rendition="#u" hand="#author">Schmerz</hi> habe ich
+                    mir bis jetzt den Genuß versagt Ihnen zu schreiben, edler Mann! aus dem ganz
+                    prosaischen Grunde weil ich Ihnen auf Ihre Geschäftsfrage gern etwas Positives antworten wollte. Auch heute kann ich dieses noch
+                    nicht, und doch schreibe ich; <ref type="missingLetter" target="4-VIII_55-fb">allein der letzte durch Hofrath <persName key="JP-000400">Böttiger</persName> mir mitgetheilte Brief</ref> wo wieder Ihre
+                    Hoffnungen erwachen, zwingt mich <hi rendition="#u" hand="#author">zu sehr</hi>.</p>
+            <p>Zuerst lassen Sie mich Ihnen für die Liebe danken, die Sie zu <hi rendition="#u" hand="#author">
+                  <persName key="JP-999999">Ihm</persName>
+               </hi> dem Unsterblichen haben, die sich lange und immer schon in Ihren Briefen
+                    aussprach, und die mir Letzthin sogar durch den Anblik der unangebrochnen Goldrollen worauf Ihr <hi rendition="#u" hand="#author">Name</hi>stand – Wehmuthsthränen auspreßte.
+                    Wie sollte ich nicht Alle lieben, die Ihn liebten? es war immer der Maasstab des
+                    Werthes der Menschen für mich, <hi rendition="#u" hand="#author">wenn sie Ihn erkennen konnten</hi>! – – – </p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>
+               <hi rendition="#u" hand="#author">Wir</hi> waren die Glücklichsten –
+                    ich und <persName key="JP-003483">meine Kinder</persName> – wir die <persName key="JP-999999">Ihm</persName> angehörten, die von dem Seegen seines Wesens
+                    täglich und stündlich getroffen  wurden, das nur Frieden und Liebe
+                    ausströmte.</p>
+            <p>In den letzten anderthalb Jahren gehörte <persName key="JP-999999">Er</persName>
+                    aber vorzüglich mir allein an, weil Er sich unbedingt von äußeren Einflüssen
+                    ganz uns widmete. Ich hatte das unaussprechliche Glück, Ihn erheitern, Ihn
+                    unterhalten zu können, er wünschte, er verlangte nichts weiter als mich und
+                        <persName key="JP-999999">seine Kinder</persName> – von denen Eines –
+                        <persName key="JP-003490">ein ausgezeichneter Sohn <hi rendition="#u" hand="#author">Ihres Namens</hi>
+               </persName> im 19<hi rendition="#uu" hand="#author">ten</hi> Jahre seines Lebens zum Himmel ging. Dieser unaussprechliche Verlust, vor
+                    4 Jahren, untergrub zuerst die sonst felsenfesten Kräfte seiner Natur.</p>
+            <p>
+               <persName key="JP-999999">Er</persName> ist nicht mehr unter uns, aber <hi rendition="#u" hand="#author">mir</hi> ist Er überall, und ich
+                    kann mich nur als einen zurückgebliebenen Theil Seines Selbst betrachten zur
+                    Hüterin dessen berufen, was Er hinterlassen mußte, zur Gründerin des Glücks
+                        <persName key="JP-003483">meiner Kinder</persName>, die so sehr ihres Vaters
+                    werth sind als ja Kinder edler Eltern. Möchten sie glücklich sein, diese guten
+                    Geschöpfe! mir ist bange für ihre Stellung auf Erden – das Leben macht mich eben
+                    so besorgt, als ihr Verlust mir  schrecklich wäre.</p>
+            <p>Von der Wichtigkeit dieser großen Aufgaben durchdrungen muß ich nun, als
+                    alleinstehende Frau die größte Vorsicht in dem Vertrage behaupten den wir mit
+                    irgend Einem Verleger eingehen Durch Hofrath <persName key="JP-000400">Böttiger</persName> werden Sie die Hauptanträge Herrn <persName key="JP-003408">Reimers</persName> gehört haben, und die Abschließung mit
+                    Ihm wäre schon geschehen wenn nicht in dem Kontrakt Entwurf
+                    desselben
+                    einige Punkte einer für uns ungünstigen Auslegung in einem möglichen
+                    Unglücksfall fähig gewesen wären. Die Vereinigung von beiden
+                    Seiten hierüber hat bis jetzt noch die letzte Sanction
+                    aufgehalten. Doch schrieb ich ihm gestern meinen kategorischen Entschluß auf alle Punkte des Kontraktes von dem ich
+                    Ihnen unter dem Siegel der Verschwiegenheit eine Abschrift mittheile, zu
+                    beharren. Im Verweigerungsfalle sehe ich die Verbindung mit Ihm als aufgehoben
+                    an, und bin mit <persName key="JP-003483">meinen Kindern</persName> bereit mit
+                    Ihnen in Unterhandlung zu treten, wenn Sie geneigt sind diese Foderungen zu
+                    erfüllen. x) Die nähere Ankündigung und
+                        Bestimmung sollen Sie erhalten, wenn ich Ihnen <persName key="JP-003408">Reimers</persName> Entscheidung mittheile. Sollten Sie einmal eine
+                        Reise zu uns machen wollen, würde mich es sehr freuen. Denn auch ich
+                        bedauerte Sie nicht gesehen zu haben.</p>
+            <p> Doch sage ich Ihnen im Voraus diese Erleichterung zu, daß Sie bis zum
+                    Absatz von 3000 Exemplaren nur nöthig haben, Sich auf die Summe in
+                    Conventionsfuß von 30,000 rtl. einzulassen und nach dem Absatz von <hi rendition="#u" hand="#author">5,000 Exemplaren</hi> erst die <hi rendition="#u" hand="#author">volle Summe</hi> von den uns
+                    freiwillig von <persName key="JP-003408">Reimern</persName> angebotenen 35,000
+                    rtl. zu zahlen. Die nachfolgenden Zahlungen von 5000 rtl. beim Absatz der
+                    jedesmaligen nachgelieferten 1000 Exemplare, anstatt einer neuen Ausgabe,
+                    verstehen sich von selbst.</p>
+            <p>Ich weiß nicht ob Sie von <persName key="JP-999999">meines seeligen
+                        Mannes</persName>Nachsuchung um Privilegien in den süddeutschen Ländern unterrichtet sind. Von dem Gelingen bei
+                        <persName key="JP-002531">
+                  <hi rendition="#u" hand="#author">unserem</hi>
+                        Landesherrn</persName> lege ich Ihnen eine Abschrift seines Briefes, als Beweis bei. Er Selbst der geistreiche König, übermachte meine
+                    Bittschrift an den <persName key="JP-001155">österreichischen Kaiser</persName>.
+                        Kann man an dem Erfolg zweifeln?</p>
+            <p>Gern würde ich Ihnen in Rücksich der Zahl<hi rendition="#u" hand="#author">ungform</hi> Erleichterungen vorschlagen, wenn ich genaue
+                    Kenntniß von Ihren Vermögensumständen hätte, ob Sie im Stande sind irgend eine
+                        garantie für das ganze Capital dessen vollständige Verzinsung Sie sogleich auf eine gewisse Zeit
+                    vor der Hand <hi rendition="#u" hand="#author">nur leisteten</hi>,
+                    zu gewähren, <hi rendition="#u" hand="#author">allein Sie können
+                        denken </hi>
+               <hi rendition="#uu" hand="#author">wie</hi>
+               <hi rendition="#u" hand="#author"> gesichert ich dabei sein
+                        müßte</hi>! Aber rechnen Sie noch nicht darauf da ich erst den Vormund
+                    meiner Kinder dafür berathen muß. (unsichere Lesung) Dies sind meine Gesinnungen
+                    – indessen alles ist nichts wenn Reimer zusagt. Hoffen Sie nichts. Allein Sie
+                    sollen Verleger der Biographie werden, die nicht Böttiger, aber der vertrauteste
+                    Freund meines Mannes Herr <hi rendition="#u" hand="#author">Otto</hi> übernehmen wird.Leben Sie
+                            wohl! <hi rendition="#u" hand="#author">Sein</hi>
+               <hi rendition="#u" hand="#author"> Seegen</hi> ist über
+                            uns. Caroline Richter geboreneMayer.</p>
+            <p>
+               <hi rendition="#u" hand="#author">
+                  <persName key="JP-004431">Vieweg</persName>
+               </hi>
+               <hi rendition="#u" hand="#author">
+                  <persName key="JP-000698">Cotta</persName>
+               </hi>, und<persName key="JP-012586">Kretschmann</persName> in <placeName key="JP-005987">Magdeburg</placeName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

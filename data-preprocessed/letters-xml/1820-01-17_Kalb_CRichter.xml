@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0997">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. 17. Januar 1820, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <date when="1820-01-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>In der Hoffnung, daß Sie <placeName key="JP-005586">Berlin</placeName> noch nicht verlassen haben,
+                    wünsche ich von Ihrem Befinden einige Nachricht zu erhalten. Wenn Sie, liebe
+                    Freundin, meinen Brief an <persName key="JP-003112">Ch. Otto</persName> noch nicht
+                    abgesendet, so liegt in diesem ein Blatt an meine <persName key="JP-002008">Schwester v. Kalb</persName> in <placeName key="JP-005561">Bamberg</placeName>; haben Sie die Güte, dieses mir retour zu schicken,
+                    wenn Sie es noch in Händen haben. In den Verhältnissen, worüber ich meiner
+                        <persName key="JP-002008">Schwester</persName> geschrieben, hat sich manches
+                    geändert, daher will ich dies Blatt nicht an sie nach <placeName key="JP-005561">Bamberg</placeName> gelangen lassen. Sehe ich Sie wohl noch einmal in einem
+                    traulichen Gespräch?</p>
+            <closer>
+               <signed>C. K. M. v. O.</signed>
+               <dateline>d. 17. Jenner.</dateline>
+               <address>
+                  <addrLine>Frau Legations-Rätin Richter</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

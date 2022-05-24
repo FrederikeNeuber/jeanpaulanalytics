@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0068">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 27. März 1810,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-03-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012265">Geschlechterrollen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Meiningen, den 27<hi rendition="#uu" hand="#author">ten</hi> Maerz <hi rendition="#u" hand="#author">1810</hi>.</dateline>
+            </opener>
+            <p>Ich schrieb Ihnen, theurer Freund, vor einigen Tagen <ref type="letter" target="JP-UB0458">in einem Briefe meiner <persName key="JP-002936">Antonie</persName>
+               </ref> einige Zeilen in solcher Eile und in einer so
+                    störenden Umgebung, daß ich mir kaum zu sagen weiß, ob nur einiger Sinn in
+                    meinen Worten war. Denken Sie, zwey französische Officiere in meinem Zimmer,
+                        <persName key="JP-003749">Amanda</persName> am Clavier, und <persName key="JP-003971">Pauline</persName> den
+                    kleinen <persName key="JP-003965">Reinhold</persName> auf dem Schoße. Herzlich
+                    sehnte ich mich ein Stündchen Ruhe zu finden, um mit Muße meinem Freunde zu
+                    schreiben, dem ich vieles, mir sehr wichtiges zu sagen habe, aber auch nach einer sichern Gelegenheit um ihn
+                    meinen Brief einzuhändigen. Beydes bietet sich mir in diesem Augenblike dar, das
+                    Anerbieten des <persName key="JP-000763">Justitz Rath Deahna</persName>, Ihnen diesen einzuhändigen, ist mir sehr
+                    werth.</p>
+            <p>
+               <anchor type="target" xml:id="start_fjv_szb_qmb"/>Anliegend theile ich Ihnen einen Brief mit von meinem Sohn <persName key="JP-003753">Leopold</persName>.<anchor type="target" xml:id="stop_fjv_szb_qmb"/> Sie wißen, Guter, wie
+                            schon einmahl ich Ihnen meinem Kummer klagte, ob ich mich wohl je dieses
+                            Sohnes werde freuen können; der als Kind so viel versprach und in dem
+                            Uebergang vom Knaben zum Jünglinge mir so unendliche Besorgniße für  seinen moralischen Karakter gab. <anchor type="target" xml:id="start_iyp_1vp_3mb"/>Trügt mich mein mütterliches
+                    Gefühl nicht ganz – und darüber sollen Sie, Emanuel entscheiden – so hat das
+                    Schiksahl mächtig in <persName key="JP-003753">Leopolds</persName> Erziehung mit
+                    eingewürkt und er ist jetzt auf dem Wege ein
+                            nützlicher und edler Mensch zu werden. Gott, ich kann Ihnen nicht sagen,
+                    wie mich der Brief ergriff und die Schilderung von seinem Leben. Ich dächte es
+                    wäre alles kindlich unschuldig dargestellt, sollte ich mich irren, so sagen Sie
+                    mir es, ich will mich nicht über meine Kinder verblenden, nicht über ihre guten
+                    Eigenschaften nicht über ihre Fehler. Die Elterliche Erziehung bleibt ewig
+                    Stükwerk wenn nicht das Schiksahl sich mit einmischt, auch mich hat es erzogen
+                    und wenngleich unter harten Weisungen doch zu meinem Nutzen.</p>
+            <p>Anbei, Theurer, wann wird denn das Schiksahl mir <persName key="JP-003749">Amanda</persName>, erziehen helfen. Wie viel fehlt und welche Lüken bemerke
+                    ich täglich. Ueber ihre Sinnlichkeit hätten Sie mich
+                            wohl beruhigt
+                    aber welcher Leidenschaftlichkeit in ihrem ganzen Wesen, welche Unmäßigkeit bey
+                    dem Genuße irgend einer Freude! — </p>
+            <p> Können Sie glauben, daß <persName key="JP-002936">Antonie</persName>
+                    sehr verderblich auf <persName key="JP-003749">A.</persName> wirkt. Das reine
+                    hingebende Gemüth von <persName key="JP-002936">meiner Schwester</persName>
+                    müßte auf wahre Weiblichkeit vortreflich einwirken, denn dann berührte sich ihr
+                    beyderseitiges Wesen, aber bey <persName key="JP-003749">Amanda</persName>, die
+                    so wenig Weiblichkeit hat, diese versteht sie nicht. Da überhaupt <persName key="JP-002936">Antonie</persName> keine Energie hat, um heftige Caraktere
+                    zu bezwingen auch viel zu viel Weihrauch streut, ohne zu berechnen warum und ob
+                    es der Mühe werth ist, so stehe ich natürlich bey <persName key="JP-003749">Amanda</persName> im Verhältniß meiner Schwester zu ihr, in einer
+                    unangenehmen Alternative. Wo <persName key="JP-002936">Antonie</persName> lobt,
+                    muß ich geradezu tadeln, wo A. meint, mit der Zeit würde
+                    sich manches aendern da ruft mich die Pflicht vor Gott auf, zu erklären, daß wo
+                    nicht wenigstens der Wille da ist, die That schwerlich mit der Zeit reift.
+                    Unbegreiflich ist es mir, wie die besten Menschen in ihren Urtheilen so
+                    fehlgreifen können, <persName key="JP-003469">Caroline</persName> schreibt mir letzt, in
+                    den vornehmen Ständen brauchten die Weiber die Häuslichkeit beynahe gar nicht,
+                    wenn nur Talente da wären.  Als sollte nicht Weiblichkeit die Mitgabe
+                    jedes Weibes sein, ohne ihr giebts keine Häuslichkeit und ist diese nicht
+                    wiederum die Schöpferin der unerläslichsten weiblichen Tugenden, der Ordnung und
+                    Reinlichkeit. Wenn die Jungfrau Gattin und Mutter wird, oh dann müssen die
+                    Talente oft eine ganze Weile ohne Uebung bleiben. Der Gatte sucht dann weniger
+                    fürs Ohr und Auge, aber in Liebe und Treue soll die Gattin ihr Tagwerk beginnen.
+                    Die alleinige Uebung der Talente, ist Folge unmäßiger Eitelkeit und Gefallsucht,
+                    beyde geziemen der zarten Jungfrau nicht und die Frau machen sie unglüklich.</p>
+            <p>
+               <ref type="missingLetter" target="3-VI_13">
+                  <persName key="JP-999999">Richter</persName> schrieb mir in denselben Briefe</ref>
+               <hi rendition="#u" hand="#author">wüthend</hi> aber köstlich seine
+                    Gegen Meinung. Gewis hat <persName key="JP-003469">Caroline</persName> dabey
+                    gelitten, aber <persName key="JP-999999">Richter</persName> hatte Recht.</p>
+            <p>Oh Gott, Emanuel, könnten Sie mich nur handeln sehen, <persName key="JP-002936">Antonie</persName> sagt, ich sey zu streng, Nein, ich bin es nicht. Ich bin
+                    ernst es darf mir nichts entgehen, ich gönne  an <persName key="JP-003749">Amanda</persName> jede Freude, wenn sie aber nicht satt
+                    wird, wenn sie alles daneben vernachläßigt, ja dann werde ich streng und ein
+                    unbeschreiblicher Mißmuth ergreift mich.</p>
+            <p>Wäre mein <persName key="JP-003966">S.</persName> ein König und hätte Croesus
+                    Schätze, er würde gerade von mir fordern, was ich ihm jetzt in einem schlechten
+                    bürgerlichen Verhältniß leisten muß. Wir leben aber glüklich, und ich habe die
+                    Beruhigung einen edlen Mann, so weit meine Kräfte reichen, frohe Tage zu
+                    bereiten. Dies wünsche ich auch bey <persName key="JP-003749">Amanda</persName>,
+                    sie soll glüklich machen und glüklich werden. Gott wolle, daß das Schiksahl
+                    ihren fernern Lebensweg so einrichte daß sie schlechterdings ihre Kräfte
+                    gebrauchen muß, sie hat deren genug und Verstand obendrein. <anchor type="target" xml:id="start_hg3_lyp_3mb"/>Ich bin
+                            fest entschloßen, sie einige Zeit ihrer
+                                    Stiefmutter – die mit dem <persName key="JP-003751">Grafen</persName> auf dem Lande lebt zu
+                            übergeben, wer weiß
+                    was ländliche Stille, und eine andre Behandlung bewirken. Sie wird vieles
+                    vermißen, was sie hier besaß und wenn andere auch das bey ihr tadeln, was  ich an ihr tadelte, so kehrt sie mit Sehnsucht und mehr Vertrauen
+                        zurük<anchor type="target" xml:id="stop_hg3_lyp_3mb"/>. <persName key="JP-002717">Die Gräfin</persName> hat zwar viele Standes Vorurtheile und
+                    überhaupt einen beschränkten
+                    Verstand sie ist aber gut, eine trefliche Hausfrau und erträgt <persName key="JP-003751">den tollen Grafen</persName> mit bewunderungswürdiger Faßung
+                    und Ergebung.</p>
+            <p>Finden Sie meine Idee unrecht <persName key="JP-003749">Amanda</persName> von mir
+                    zu thun so sagen Sie mir es. Nützen kann ich ihr in der Zusammenstellung mit
+                        <persName key="JP-002936">meiner Schwester</persName> nichts und mein
+                    thätiges Beyspiel beachtet sie gar nicht. <persName key="JP-002936">Antonie</persName> war mir als Erzieherin lieber ehe sie in die <placeName key="JP-006271">Schweiz</placeName>
+                            ging, sie hat viel Eigenthümliches
+                    verlohren und Fremdes angenommen. <persName key="JP-003192">Pestalozzi</persName> mag vortreflich sein sein Institut trägt aber die
+                    Gebrechen der Menschlichkeit, er nun steht from und uneigennützig da, nicht so
+                    die andern Lehrer. <persName key="JP-002936">Antoniens</persName> nur zu
+                    empfängliches Gemüth und ihre Unbekanntschaft mit der Welt erlag unter dem
+                    Contrast den sie  fand, moralisch angegriffen mußte ihr Körper leiden.
+                    Jetzt ist sie wieder gesund und ihre ruhige Lebensordnung behagt ihr
+                    vortreflich. Ein für allemahl, sie ist ein himlisches Wesen, aber fürs
+                    praktische Leben taugt sie nicht, und doch verfehlt sie ihre Bestimmung.
+                    Unendliches würde sie leisten, betrachtete sie die Welt nach ihren wahren
+                    Verhältnißen, und überhaupt ergriff sie nicht eine gute Sache mit einer solchen
+                    Ueberspannung die dann nicht ausdauert.</p>
+            <p>Kommen Sie, Guter, zu uns, belehren Sie mich wo ich zu tadeln bin, und glauben
+                    Sie, wenn ich andere tadle, ich mich <hi rendition="#u" hand="#author">streng richte</hi>.</p>
+            <p>
+               <anchor type="target" xml:id="start_rty_3zp_3mb"/>Wir sind wohl, soll ich mich
+                    denn freuen? ich bin abermals hoffende
+                            Mutter, <persName key="JP-003965">Reinhold</persName> ist wohl ein Engel, aber welche Sorge
+                    macht mir seine Pflege, und wieviel Muse kostet überhaupt jedes Kind. Wo sollen meine Kräfte
+                    ausreichen, ich wage es nicht zu gestehen, aber eigentlich betrübt mich mein
+                    Zustand. <anchor type="target" xml:id="stop_rty_3zp_3mb"/>Trösten Sie mich,
+                    lieber Emanuel  ich klage Ihnen gern, weil Sie mich verstehen und
+                    niemand belebt meinen Glauben ans Gute so wahrhaft als <hi rendition="#u" hand="#author">Ihr Mensch</hi>.</p>
+            <p>Gute Nacht, es ist spät, meine Engelchen schlafen um mich her, <persName key="JP-003971">Pauline</persName> und <persName key="JP-003965">Reinhold</persName>. Der Schlaf der Kinder ist der schönste Anblik.</p>
+            <p>Gott sey mit Ihnen</p>
+            <closer>
+               <salute>Ich grüße die Ihrigen</salute>
+               <signed>Henriette</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

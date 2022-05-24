@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0731">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Bayreuth, 24. Juni 1808, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1808-06-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Am
+                                24<hi rendition="#uu" hand="#author">sten</hi> Juny</dateline>
+            </opener>
+            <p>
+               <persName key="JP-003971">Pauline</persName> bittet Dich, guter Emanuel, auch von
+                    Ihr einige Blumen an Deinem Geburtstage anzunehmen. <anchor type="target" xml:id="start_zcf_xdz_1mb"/>Du, der den Großen und Kleinen Kindern so gern
+                    Blumen giebst und – die Mutter sagt – auf ihr Leben streust. Lebe recht lange
+                    und recht froh! im künftigen Jahre möchte ich, daß Du
+                            Deinen Tag bey mir in <placeName key="JP-006012">Meiningen</placeName>
+                            feyertest um Dir Blumen aus meinem
+                    Gärtchen zu geben die ich für Dich pflegen will. Ich will ein gutes Kind immer
+                    bleiben damit Du mich immer lieb behalten kannst.<anchor type="target" xml:id="stop_zcf_xdz_1mb"/> Der Tag ist sehr schön</p>
+            <closer>
+               <signed>Die kleine Pauline.</signed>
+            </closer>
+            <postscript>
+               <p>Nachschrift der Mutter, Den kindlichen Sinn der kindischen Worte reihete
+                        ich zusammen. Ich dachte viel an Sie, der heutige Tag, <hi rendition="#u" hand="#author">ihr Tag</hi>, ist ein wahres Bild Ihres
+                        Lebens. Sanft, heiter und ein wenig ernst. Henriette.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

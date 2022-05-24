@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0755">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Henriette Schwendler. Bayreuth, 12. und 13. Januar 1809, Donnerstag und Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1809-01-12" to="1809-01-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <persName key="JP-003749">Amanda Schlabrendorff</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012212">Liebesleben / Kennenlernen / Ehe</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div hand="#author">
+            <opener>
+               <dateline>B. 12 Jan. 9.</dateline>
+            </opener>
+            <p>Beste Henriette! Gerade war gestern meine Nachbarin, <persName key="JP-003884">die Schukmann</persName> bei mir, als <persName key="JP-002021">Kanne</persName> mir <ref type="letter" target="JP-UB0597">Ihr Blatt</ref> schickte, für das ich
+                    recht schön u recht herzlich danke. Eine särkere Exekuzion
+                    giebts für mich nicht, wenn ich Jemand eine Antw. schulde als ein schriftliches
+                        Nachwort. Es gab bei mir seit einiger Zeit eine
+                    größere Lese- als Schreibelust und dadurch häuften sich meine Schulden etwas an:
+                    aber ich will mein Vermögen verbessern und muß also anfangen Schulden
+                        abzutragen. Sehr lieb wäre
+                            mirs gewesen, wenn Sie <persName key="JP-002021">Kanne</persName> hätte aufsuchen mögen und nicht lieb,
+                            wenn Sie ihn aufgesucht hätten, ob ich gleich ihn liebe und
+                        achte. Dießmal hatte also
+                            Ihre Bräune eine weiße, mir gute Seite; die beste Seite an ihr ist aber,
+                            daß sie Ihnen die Kehrseite gezeigt. Warum ich es besonders gerne gesehen hätte, wenn Sie <persName key="JP-002021">diesen Bräutigam</persName> – ein Wort was nicht so wohl lautet wie Braut –
+                    gesehen hätten; weil ich ein ausführlicheres gründliches Urtheil von Ihnen über seine Wahl
+                    möchte.</p>
+            <p>Die <persName key="JP-003884">Schukmann</persName> u ich
+                    konnten über diese Mariage nicht einig werden und endlich provozirten wir beide
+                    auf ihr Urheil. Haben wir das, <hi rendition="#u" hand="#author">dann</hi> schreib ich Ihnen das meinige und die
+                        <persName key="JP-003884">Schukm</persName>. auch
+                    das ihrige. Besonders wünscht' ich in Ihrem Urtheil zu
+                    finden, ob in dieser Mariage <hi rendition="#u" hand="#author">etwas</hi> – <hi rendition="#u" hand="#author">was</hi> und <hi rendition="#u" hand="#author">wer</hi> mehr zu tadeln oder mehr
+                    zu loben dabei ist?</p>
+         </div>
+         <div hand="#author">
+            <p>13<hi rendition="#u" hand="#author">t</hi>.
+                    Eben erhalte ich von meiner Freundin <persName key="JP-000472">Jette</persName>
+                    in <placeName key="JP-005892">
+                  <placeName key="JP-005892">Carlsr</placeName>
+               </placeName>den ersten Brief in diesem Jahre. Auch sie hoffet
+                    in ihm wie Sie. Es ist das größte Glück, Freunde zu haben und, da bisweilen der
+                    liebe Gott – bisweilen auch die Welt einen abgehen läßt – jener und diese zu
+                    sich – so ist es gut, wenn uns jener in dieser einen Ersatz giebt.</p>
+            <p>
+               <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0597/#start_tv4_3cf_dmb">Ich bin stolz auf Ihr Gefühl am Vorabend des neuen Jahres und genieß' und
+                        theil' es mit Ihnen.</ref> Haben Sie mir nicht sich zur Freundin, haben Sie mir nicht noch
+                        <persName key="JP-002936">die Schwester</persName> und <persName key="JP-003749">die Tochter</persName> gegeben – als eine heilige
+                    Dreieinigkeit  meinem
+                    Tempel der Freundschaft geweihet? Aber in diesem Jahr
+                    verlor ich auch viel, ich bedurfte des Ersatzes und werde ihn immer bedürfen,
+                        denn meine aelteste Freundin, <persName key="JP-003556">meine Mutter</persName> nahm Gott sich
+                            näher!</p>
+            <p>Doch glücklich ist sie und ruhiger noch, als sie's hier nie war, nie hätte werden
+                    können und daher erwart' ich, auch ruhig, den Tag, an dem  sie mich und ich sie wieder sehen
+                    werden und diese Hofnung – wäre sie auch vergebens – ist mein Trost
+                        hienieden. Ihre Erscheinung mußte in diesem Jahr und
+                    in diesen Zeiten, um so wohlthätiger auf mich wirken, als es mir nicht möglich
+                    war selbst eine Wallfahrt anzutreten. Gott segne Sie in
+                    diesem Jahr und immer für Ihr und der lieben Ihrigen Kommen. Die <persName key="JP-003884">Schukm</persName>. will im nächsten  Sommer eine Reise nach <placeName key="JP-006012">Meiningen</placeName> machen und dort bestimmen, ob sie dort bleiben kann.</p>
+            <p>Ich billige diesen Plan ganz. Aus Ihrem lieben Brief erseh'
+                    ich, daß Sie <persName key="JP-004180">die jüngste Tochter</persName> meines <persName key="JP-004367">Uhl</persName> – er trug mir
+                    Grüße aus seinem biedern Herzen an Sie auf – damals, als <persName key="JP-004179">ihr edler Verlobter</persName> hier  war, auch hier
+                    glaubten; sie war aber nicht hier und wir haben sie in vierthalb Jahren nicht
+                    gesehen, denn Sie lebt, wie Sie wissen, bei <persName key="JP-000472">J.
+                        Br.</persName> in <placeName key="JP-005892">Carlsr.</placeName>
+            </p>
+            <p>Werden Sie weniger geliebt, oder besser, glauben Sie weniger geliebt zu werden,
+                    als Sie glauben zu lieben: so trösten Sie sich damit, daß das eben der rechte
+                    Glauben einer liebenden Seele ist. Was haben Sie nach
+                    anderer Liebe zu fragen, wenn Sie nur recht und ächt – lieben?</p>
+            <p> Gott ist die Liebe selbst und wird von keinem Gott, sondern blos von
+                    uns armen Menschen geliebt, und wie weit bringen wirs – wenn wirs auch bringen –
+                    in der Liebe zu ihm?</p>
+            <p>Zwar werd' <hi rendition="#u" hand="#author">ich</hi> – <hi rendition="#u" hand="#author">ich allein</hi> von <hi rendition="#u" hand="#author">Vielen</hi> geliebt und das ist
+                    schon ein großer Vortheil dem Liebenden; aber ich könnte den Gedanken nicht
+                    ertragen, von irgend einem sterblichen Wesen <hi rendition="#u" hand="#author">rein</hi> mich mehr geliebt zu wissen, als rein dasselbe zu
+                    lieben.</p>
+            <p>"Kein Sterblicher schuldet Liebe mir –; allen schulde Liebe ich" heißt das Gesetz
+                    der Liebe, das sich – wie Gott – selbst gegeben in uns. Aber nicht in Worten; auch nicht in Thaten, sondern in sich selbst erfüllt
+                    sich diese Liebe.</p>
+            <p>
+               <persName key="JP-000969">Meine Schwägerin</persName> wurde durch <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0038/#start_gv5_x2f_dmb">Ihren Gruß</ref> recht schön überrascht. Die Arme ist
+                    immer kränklich. Sie leidet an einem schwachen Körper, den sie ihrer nicht
+                    hinlänglich starken Seele zuschreiben kann. Kurz, sie ist unglücklich u es ist
+                    ihr nicht leicht zu helfen, weil ihr nie zu rathen ist. Ich soll sie von ihr grüssen u soll Ihnen für Ihr Andenken danken u ich thue
+                    hiermit beides recht gerne. Wird der Himmel mir Sie in diesem Jahre sehen
+                    lassen?</p>
+            <closer>
+               <salute>Küssen Sie mir <persName key="JP-003966">Ihren Schwendler</persName> u <persName key="JP-003971">Ihre Pauline</persName>. Bleiben Sie gesund u sagen Sie mir, daß Sie's sind.</salute>
+               <signed>Em.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

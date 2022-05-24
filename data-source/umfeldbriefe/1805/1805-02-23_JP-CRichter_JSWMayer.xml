@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0509" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0509" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Jean Paul und Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 23. Februar 1805, Sonnabend</title><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -18,13 +17,19 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                                <p>1 Bl. 8°, 2 S. Mit wenigen Schlusszeilen von Caroline
-                                    Richter.</p>
-                                                           <handDesc><handNote xml:id="JP-999999"><persName>Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName></handNote><handNote xml:id="JP-003469"><persName>Caroline Richter</persName></handNote></handDesc>
+                                <p>1 Bl. 8°, 2 S. Mit wenigen Zeilen von Caroline Richter auf S.
+                                    2.</p>
+                                <handDesc>
+                                    <handNote xml:id="JP-999999"><persName>Johann Paul Friedrich
+                                            (Pseud. Jean Paul) Richter</persName></handNote>
+                                    <handNote xml:id="JP-003469"><persName>Caroline
+                                            Richter</persName></handNote>
+                                </handDesc>
                                 <accMat>Ein Brief Jean Pauls an den Geheimrat Beyme (<ref type="letter" subtype="document" target="3-V_70">3. Abt.,
-                                    Bd. V, Nr. 70</ref>), in den wiederum der Brief Jean Pauls
+                                        Bd. V, Nr. 70</ref>), in den wiederum der Brief Jean Pauls
                                     an König Friedrich Wilhelm III. von Preußen (<ref type="letter" subtype="document" target="3-V_69">3. Abt., Bd. V, Nr.
-                                        69</ref>) eingeschlossen war. </accMat></physDesc>
+                                        69</ref>) eingeschlossen war. </accMat>
+                            </physDesc>
                         </msDesc>
                     </witness>
                     <witness>

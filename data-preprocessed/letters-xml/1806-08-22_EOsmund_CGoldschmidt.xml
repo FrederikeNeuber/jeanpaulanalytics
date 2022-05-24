@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1276">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 22. August 1806, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1806-08-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-011937">Kunst</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>B. 22 Aug. 6.</dateline>
+            </opener>
+            <p>Gute Caroline! Ich halte Sie für so gut, daß es Ihnen so
+                    gar nichts schadet, wenn man sie so nennet, ohngeachtet Sie mir in Ihrem lieben
+                        Brief oder weil Sie mir gerechte Vorwürfe
+                    machen.</p>
+            <p>Vor einer halben Stunde hab' ich Ihren lieben
+                                Brief bekommen, der einem
+                            v. mir an Sie wieder hätte begegnen müssen, wär' ich ihn Ihnen nicht
+                            schon zu lange ehrlich u redlich schuldig.</p>
+            <p>Haben Sie Dank, immer großmüthige Gläubigerin, für den langen Kredit, für das
+                    Mahnen u also für den neuen Kredit.</p>
+            <p>Ich habe so viel Zutrauen zu Ihrem zu mir, daß ich mich durch aus nicht
+                    entschuldigen kann auch nicht mag.</p>
+            <p>Heute ist <persName key="JP-003108">Amöne Ottos</persName> GeburtsTag; wir
+                    wollen ihn auf der <placeName key="JP-011045">Eremitage</placeName> feyern:
+                        <persName key="JP-003108">sie</persName>, ihr <persName key="JP-003112">Mann</persName>, ihre Schwester, <persName key="JP-003469">Caroline Richter</persName> u
+                    ich.</p>
+            <p>Die ganze Gesellschft ist schon an Ort und Stelle, bis auf ein Glied, das hier
+                         sitzt u Schulden bezahlt.</p>
+            <p>Sie haben gelitten, theilnehmende Caroline, mit Freunden
+                    u Verwandten, das ist das Zeichen Ihres Werthes u dafür werden Sie oft den
+                    schönsten Lohn durch Theilnahme an den Freuden der Ihrigen geniesen.</p>
+            <p>Caroline, ich betheure es Ihnen, daß ich oft, wenn ich <hi rendition="#u" hand="#author">oft</hi> sagen darf – daß ich oft
+                    so gut bin, daß ich mich freue, über das Wechseln von Mitleiden u Mitfreuden,
+                    das in mir vorgeht u daß ich jenes – wenn schon nicht wünsche – doch ruhig und
+                    muthig ertrage, weil es mir dieses erhöhet u mich, mein unbedeutendes Wesen
+                    vergeßen macht.</p>
+            <p>Wir sind jetzt, in großen Sorgen in unserem Bayreuth.</p>
+            <p>Uns. Regiment hat Ordre zum Ausmarsch.</p>
+            <p>Nun fürchten wir Frieden u
+                    Krieg.</p>
+            <p>Im ersten Fall fürchten wir eine
+                            freundliche u im andern eine feindliche französische
+                            Besitznahme</p>
+            <p>Unser <persName key="JP-001187">König</persName> will uns. König bleiben,  läßt es uns
+                    wiederholt versprechen; aber der größte Theil der Einwohner fürchtet doch <placeName key="JP-005529">Ansbachs</placeName>
+                            Schicksal zu haben.</p>
+            <p>Ich – bin ruhig für mich; aber ich leide mit den Unruhigen.</p>
+            <p>Nichts – nichts zerstreut auch mich mehr u schöner als Thätigkeit.</p>
+            <p>Diesen Sommer verleb' ich theils hier theils auf dem
+                            Lande in Arbeit u bin dabei meistens
+                    wohl.</p>
+            <p>
+               <anchor type="target" xml:id="start_imt_531_5qb"/>Grüssen Sie mir <persName key="JP-003227">Pik</persName> u sagen S.
+                    ihm, daß ich sein Gutes dennoch immer schätzen werde, er benehme sich, bei
+                    meinem, nun, durch seine Ihnen gegebene Erklärung, nothwendigen Schweigen, wie er wolle.</p>
+            <p>Es ist ein guter Mensch, der mich aber nie, in Beziehung auf sich, recht
+                        verstand.<anchor type="target" xml:id="stop_imt_531_5qb"/>
+            </p>
+            <p>Lesen Sie doch mein Ihnen geschriebenes Urtheil über
+                            ihn noch einmal, daß Sie wissen, daß das Ihrige eine treue Abschrift desselben ist.</p>
+            <p>
+               <persName key="JP-999999">Richters</persName> Bild hoff'
+                    ich zu bekommen für Sie. </p>
+            <p> Werden Sie die Zeichnung des Kaminschreins nicht mit in Ihre
+                    Musterzeichnungen bringen?</p>
+            <p>Für Ihr Andenken an die Meinigen dank' ich in ihrem Namen herzlich.</p>
+            <p>M.<persName key="JP-004367">Uhlf</persName> u <persName key="JP-003652">m. Bruder</persName> grüssen Sie recht herzlich
+                    wieder.</p>
+            <p>
+               <persName key="JP-004275">Thieriot</persName> läßt Sie lange aus <placeName key="JP-006099">Offenbach</placeName> u<persName key="JP-000472">Jette</persName>
+                            lange aus <placeName key="JP-006179">Regensburg</placeName> grüssen.</p>
+            <p>Diese arme Seele wird mit dem vernichteten <placeName key="JP-006179">Regensburg</placeName> auch sehr
+                    beunruhiget; aber sie benimmt sich wie ein Weiser.</p>
+            <p>
+               <persName key="JP-003482">Richters</persName> werden sich freuen, die <persName key="JP-002007">Kalb</persName>
+                            wieder zu sehen, ich mich auch – wenn
+                    sie von mir gesehen seyn mag.</p>
+            <closer>
+               <salute>ADieu Car., der Himmel laß' es den Ihrigen u
+                        Ihnen stets wohl ergehen. </salute>
+               <signed>E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

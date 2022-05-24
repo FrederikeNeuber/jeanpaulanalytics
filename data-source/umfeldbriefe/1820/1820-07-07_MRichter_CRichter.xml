@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0643" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0643" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Max Richter an Caroline Richter. München, 7. Juli 1820, Freitag</title><respStmt><persName><surname>Hartmann</surname><forename>Dürten</forename></persName><resp><note type="remarkResponsibility">Bearbeiterin</note></resp></respStmt><respStmt ref="http://d-nb.info/gnd/1155558472"><persName><surname>Jahnke</surname><forename>Selma</forename></persName><resp><note type="remarkResponsibility">Editorin</note></resp></respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname><forename>Frederike</forename></persName><resp><note type="remarkResponsibility">Digitale Konzeption und Modellierung</note></resp></respStmt><respStmt><persName><surname>Rölcke</surname><forename>Michael</forename></persName><resp><note type="remarkResponsibility">Editor</note></resp></respStmt><respStmt><persName><surname>Thielert</surname><forename>Pauline</forename></persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp></respStmt></titleStmt><editionStmt><edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
@@ -23,7 +22,7 @@
                         </msDesc>
                     </witness>
                 </listWit><p>Äußerst flüchtig, teilweise auch unleserlich geschrieben; zahlreiche Verschleifungen und
-                    Auslassungen.</p>
+                    Auslassungen; untere rechte Eck abgerissen.</p>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -117,7 +116,7 @@
                                 geehelicht.</note></seg>. letztere auch auf etwas. Die Wahl der
                         Geschenke ist schwer. Gr<ex>ü</ex>ße an <hi rendition="#aq"><persName key="JP-003087">Emanuel</persName></hi> u <hi rendition="#aq"><persName key="JP-003112">Otto</persName></hi>. <hi rendition="#aq"><placeName key="JP-012523">Starenberg</placeName></hi> ist
                         herrlich. Leb wohl. Statt eines Briefes kann euch d. <seg type="comment"><orig><persName key="JP-999999">Valr</persName></orig><note xml:id="npsd_5wr_1nb">Schreibflüchtigkeit für Vater.</note></seg>
-                        <gap reason="lost" unit="words" quantity="1"/> schon erzählen.</p>
+                        <unclear reason="damaged">Alles</unclear> schon erzählen.</p>
                 </postscript>
             </div>
         </body>

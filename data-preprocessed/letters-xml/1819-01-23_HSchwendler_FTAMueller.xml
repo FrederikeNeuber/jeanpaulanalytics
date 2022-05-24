@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1136">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Friedrich von Müller. Eisenach, 23. Januar 1819,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-005698">Eisenach</placeName>
+               <placeName key="JP-005698">Eisenach</placeName>
+               <date when="1819-01-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012761">Tod und Sterben</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>
+               <dateline>Eisenach, d. 23<hi rendition="#uu" hand="#author">ten</hi>Januar 1819</dateline>
+            </opener>
+            <p>Am letzten Posttag wollte ich Ihnen, mein theurer Freund, meinen Dank, für Ihren,
+                    mit dem Seelen Gemälde der <persName key="JP-013414">Kaiserin <hi rendition="#u" hand="#author">Maria</hi>
+               </persName> so schön
+                    geschmückten Brief sagen, als wir eben die Todes Kunde unsres geliebten Freundes, des <persName key="JP-001603">Geheimraths Heim</persName>, aus <placeName key="JP-006012">Meiningen</placeName> erhielten. Wenn uns auch solche Nachricht, bey dem
+                    Alter von 80 Jahren welches der Verewigte erreicht hatte, nicht außerordentlich
+                    verwundern konnte, so überraschte sie uns dennoch unsäglich schmerzlich, da ich
+                    kaum einige Tage vorher den jugendlich gelauntesten geistig kräftigsten Brief von ihm erhalten hatte. Ein merkwürdiges Leben
+                    in ihm ist untergegangen, für <placeName key="JP-006012">Meiningen</placeName>
+                    ist sein Tod sehr bedeutend und unter den mir dort Bekannten seine Stelle <hi rendition="#u" hand="#author">unersetzlich</hi>. Recht tief
+                    betrübt betraure ich den geehrten väterlichen Freund, fast sollte ich noch
+                    anstehen mich in so wahrer Stimmung Ihnen zu nähern, wüßte ich nicht, daß Sie
+                    die Freundinn aufnehmen wie sie ist, und darum Nachsicht haben. Es lösen sich so
+                    viele Bande und die Heimath der Erde wird leer ! – – – –</p>
+            <p>Der Tod der jungen lebens kräftigen <persName key="JP-002060">Königinn von Würtenberg</persName> hat wohl ohne Ausnahme
+                    jedermann ergriffen  namentlich im Gegensatz des Triumpf und Freuden Zugs der <persName key="JP-013414">Kaiserin Mutter</persName> zu ihren Kindern, der im Hinter Grunde, anstatt
+                    ihren Heim Zug durch fortziehende fröhliche Bilder zu erheitern, den Trauer
+                    Catafalk der <persName key="JP-002061">Tochter</persName> aufstellt. Ich kann
+                    Ihnen nicht sagen wie eigen und mächtig ich davon erschüttert worden bin, und wo
+                    am Ende der Gedanke sich aufdrängt, keiner endlichen Freude sey eine Dauer
+                    abzugewinnen! – Die arme <persName key="JP-002628">Grosfürstin</persName>, wie
+                    verwundet mag sie seyn, die starke Seele der <persName key="JP-013414">Kaiserinn</persName> erträgt den Schmerz wohl am ersten, da sie eigentlich
+                    unter den außerordentlichsten Prüfungen und Erfahrungen ihren Geist erkräftigt
+                    hat, doch man vermag das Gefühl einer Mutter zu schildern, wenn ein Opfer
+                    gegeben werden muß. – –</p>
+            <p>Als eine gute <placeName key="JP-005698">Eisenacher</placeName> Bürgerin verhehle
+                    ich Ihnen nicht, daß es uns wehe thut, von der ausgesprochensten Eigenschaft der
+                        <persName key="JP-013414">Kaiserin</persName>, ihrer <hi rendition="#u" hand="#author">Wohlthätigkeit</hi> auch nicht das Geringste
+                    genoßen zu haben. Ich enthalte mich aller Bemerkungen die hie zu nichts führen
+                    und nicht ändern was einmahl der Residenz als ihr <hi rendition="#u" hand="#author">allein gehörend</hi>angenommen ist, aber sehr niederschlagend
+                    ist es für alle diejenigen die mit den Armen und Nothleiden den Pflege
+                    hier zu thun haben, daß man in <placeName key="JP-006395">Weimar</placeName> so
+                    gar nicht glauben will wie arm und was schlimmer ist, wie <hi rendition="#u" hand="#author">hülflos</hi> und <hi rendition="#u" hand="#author">nahrunglos</hi>, wir hier sind. Ich bitte Sie,
+                    keinen Gebrauch von meiner Klage zu machen, es hilft nichts und so natürlich ich es finde, daß unsre Bürger überhaupt die <hi rendition="#u" hand="#author">
+                  <placeName key="JP-005698">Eisenacher</placeName>
+               </hi> sich als zurükgesetzt ansehen, so möchte ich um
+                        <hi rendition="#u" hand="#author">keinen Preiß</hi> mich als
+                    Organ der ausgesprochenen Klage aufwerfen.</p>
+            <p>
+               <persName key="JP-001032">
+                  <hi rendition="#u" hand="#author">Falks</hi>
+               </persName>
+               <bibl sameAs="JP-013506" subtype="werk">Auffruff</bibl> ist vortreflich, ich freue mich wie der
+                    edle sich wahrhaft aufopfernde Menschen Freund hier auftrit und wie er belegt
+                    was er bewirkte. Er muß überzeugen selbst seine hartnäkigsten Gegner.</p>
+            <p>
+               <persName key="JP-003966">Schwendler</persName> sieht seine Reise nach <placeName key="JP-006395">Weimar</placeName> noch so in weiter Ferne, daß er kaum an
+                    dieselbe glaubt, also vorgetzt nur seine herzlichsten Grüße für Sie u Ihre
+                    theure <persName key="JP-012266">Gemahlin</persName>, an welche <persName key="JP-003971">Pauline</persName> und ich uns anreihen.</p>
+            <p>Noch einmahl, entschuldigen Sie den Ernst dieser Zeilen.</p>
+            <closer>
+               <signed>Die Ihrige Henriette
+                                Schwendler.</signed>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

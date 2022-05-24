@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0483" type="context">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="JP-UB0483" type="context">
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Von Richard Otto Spazier an Caroline Richter. Leipzig, 29. Oktober
@@ -19,8 +18,8 @@
                                     <idno type="shelfmark"/>
                             </msIdentifier>
                             <physDesc>
-                        <p>1 Dbl. 8°, 3 S. Auf S. 4 Federproben.</p>
-                     </physDesc>
+                                <p>1 Dbl. 4°, 3 S. Auf S. 4 Federproben und Krakeleien.</p>
+                            </physDesc>
                         </msDesc>
                     </witness>
                 </listWit>
@@ -81,11 +80,9 @@
                     Niemand, der sich viel um ihn schert. – Aber warum verwöhnt <pb n="2"/>er sich
                     auch gleich an Alles, Student, sagt der Graf; früher hat’s Ihm ja in <hi rendition="#aq">
                         <placeName key="JP-005948">Leipzig</placeName>
-                    </hi> recht gut gefallen; – aber so gehts, wenn man Leuten von Seinem <del rendition="#s">
-                        <gap reason="illegible" unit="words" quantity="1"/>
-                    </del> Gelichter Gutes geniesen läßt; – gleich wollen sie es immer haben; man
-                    muß sich zu <hi rendition="#aq">deteriren</hi> wissen in seiner Sphäre." – der
-                    gute Graf; – man hörts ihm an, daß er vom Hofe ist. –</p>
+                    </hi> recht gut gefallen; – aber so gehts, wenn man Leuten von Seinem <del rendition="#s" cert="high" hand="#author">Lichte</del> Gelichter Gutes
+                    geniesen läßt; – gleich wollen sie es immer haben; man muß sich zu <hi rendition="#aq">deteriren</hi> wissen in seiner Sphäre." – der gute Graf; –
+                    man hörts ihm an, daß er vom Hofe ist. –</p>
                 <p>Ein Umstand ist’s besonders, liebe Tante, der mir beide Reisetage sehr trübte;
                     die Sorge nämlich um die gute <hi rendition="#aq">
                         <persName key="JP-003471">Emma</persName>
@@ -151,9 +148,8 @@
                         </hi>
                     </signed>
                     <dateline>Leipzig den 29<hi rendition="#sup">ten</hi>
-                        <hi rendition="#aq">Octbr<lb/>
-                        </hi>1823.<lb/>Großes Joachimsthal<lb/>in d Hainstraße<lb/>2 Treppen hoch.
-                        –</dateline>
+                        <hi rendition="#aq">Octbr <lb/></hi>1823.<lb/>Großes Joachimsthal<lb/>in d
+                        Hainstraße<lb/>2 Treppen hoch. –</dateline>
                 </closer>
             </div>
         </body>

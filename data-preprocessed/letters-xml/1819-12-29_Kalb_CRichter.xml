@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0996">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 29. Dezember 1819,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2021-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1819-12-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012590">Bittschreiben</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Dieses Blatt bitte ich Ihrem <persName key="JP-999999">Gemahl</persName> zu überschicken, so wird er es dann an <persName key="JP-003112">Otto</persName> geben<anchor type="target" xml:id="stop_wr5_qvb_2qb"/>; die Sonderbarkeit wird selbst seine Teilnahme
+                    erregen. Füglich kann man vielleicht dem <persName key="JP-001269">Herrn v. Geiger</persName> beikommen, ob es wohl
+                    mit diesem Objekt und Subjekt sich so verhält, wie ich hier angegeben habe, und
+                    dann muß doch über diese schmachvollen Anforderungen entschieden werden.</p>
+            <p>Mit unsern Prozessen ist es wie mit dem Bösen auf
+                            Erden; immer träumen wir von Erlösung: aber der Satan produciert sich
+                            immerdar wieder, und diesem Treiben des Volkes ist nicht beizukommen.
+                            Wenn <persName key="JP-003112">Otto</persName> diese Geduld hat, das
+                            Blatt zu lesen und dafür wirksam zu sein, so werde ich wagen, über eine
+                            viel bedeutendere Sache mir seinen Rat zu erbitten, denn es ist
+                            unglaublich, mit welcher Arglist und Nachlässigkeit zugleich unsere
+                            Angelegenheiten von dem Tod meines <persName key="JP-002644">Bruders</persName> bis heute sind behandelt worden. Ernst, Schmerz und Ehrgefühl
+                    hatten diesen noch nicht zum Worte kommen lassen; diese Stimme aus den Gräbern und von dem Grabe will ich
+                    reden lassen. Aber ich muß Seelen finden, die sich anteilnehmend zeigen den
+                    edleren Absichten. Aus diesen psychologischen und sittlichen Quellen will ich
+                    meinen <persName key="JP-002010">Kindern</persName> wo möglich ein Vermögen
+                        retten, was uns Willkür,
+                    Gewalt und Schalkheit entwendete. Von diesem letztern darf <persName key="JP-001269">Geiger</persName> nichts wissen, bis meine Sache zu Tage
+                    gefördert werden kann. Gelingt es mir auch nicht, so ziemt es doch einer Mutter,
+                    mit diesen Waffen in solchem Kampf zu sterben.</p>
+            <p>Meine <persName key="JP-002004">Tochter</persName> wird das Vergnügen haben,
+                    Ihnen dieses zu überreichen; warum ich nicht kommen kann, wissen Sie schon. Es
+                    ist wohl auch gut, daß es sich so verhält, sonst würde ich Ihnen lästig werden.
+                    Aber wann kommen Sie wieder zu mir? Denn ich habe noch viel im Sinn und Gemüt.
+                    Sagen Sie, bitte, Antwort;
+                    versagen Sie keine Stunde, die Sie schenken können</p>
+            <closer>
+               <signed>Ihrer Charlotte K. M. v. O.</signed>
+               <dateline>d. 29. D.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -65,9 +65,9 @@
         <body>
             <div type="writingSession" xml:id="Schreibakt_1">
                 <pb n="1"/>
-                <p>Beikommendes <bibl key="JP-010582" subtype="werk">Klaglied</bibl>, verehrte Frau,
+                <p>Beikommendes <bibl sameAs="JP-010582" subtype="werk">Klaglied</bibl>, verehrte Frau,
                     sendet Ihnen <persName key="JP-999999">mein Mann</persName> nicht ohne Intereßen
-                    – er erwartet dafür die ihm von unserm theuersten Vater versprochenen <seg type="comment"><orig>Provinzial-Blätter</orig><note xml:id="nihq_psy_gpb">Herders 1774 erschienene Schrift <bibl key="JP-013512" subtype="werk">"An Prediger. Funfzehn
+                    – er erwartet dafür die ihm von unserm theuersten Vater versprochenen <seg type="comment"><orig>Provinzial-Blätter</orig><note xml:id="nihq_psy_gpb">Herders 1774 erschienene Schrift <bibl sameAs="JP-013512" subtype="werk">"An Prediger. Funfzehn
                             Provinzialblätter"</bibl></note></seg>.</p>
                 <p>Sie vollziehende Hälfte des hohen Rathes geben es ihm gern?</p>
                 <p><seg type="comment"><orig>Der Tag hat sich heute so schön angefangen</orig><note xml:id="nd3f_ysy_gpb">der 7. Juni war Caroline Richters

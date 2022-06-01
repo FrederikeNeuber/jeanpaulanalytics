@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Friedrich Kind. Leipzig, 5. Mai 1809, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1809-05-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002107">Johann Friedrich Kind</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013033">Minna Spazier-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://digital.slub-dresden.de/id427356539/955"/>
+   </facsimile>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004393" n="1"/>
+            <person xml:id="JP-002107" n="1"/>
+            <person xml:id="JP-000501" n="3"/>
+            <person xml:id="JP-002124" n="1"/>
+            <person xml:id="JP-000196" n="1"/>
+            <person xml:id="JP-000698" n="1"/>
+            <person xml:id="JP-000400" n="1"/>
+            <person xml:id="JP-013404" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005948" n="1"/>
+            <place xml:id="JP-011521" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010375" n="2"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

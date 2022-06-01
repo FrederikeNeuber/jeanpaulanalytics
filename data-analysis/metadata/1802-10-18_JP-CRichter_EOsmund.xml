@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0169">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Meiningen, 18. Oktober
+                    1802, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-10-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-011789">Otto-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012520">Stimulantien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="3"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-003087" n="3"/>
+            <person xml:id="JP-003471" n="6"/>
+            <person xml:id="JP-003112" n="3"/>
+            <person xml:id="JP-001289" n="2"/>
+            <person xml:id="JP-003126" n="1"/>
+            <person xml:id="JP-000090" n="1"/>
+            <person xml:id="JP-001649" n="1"/>
+            <person xml:id="JP-001604" n="1"/>
+            <person xml:id="JP-001599" n="1"/>
+            <person xml:id="JP-003966" n="1"/>
+            <person xml:id="JP-002703" n="1"/>
+            <person xml:id="JP-002779" n="1"/>
+            <person xml:id="JP-012044" n="1"/>
+            <person xml:id="JP-012731" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006012" n="1"/>
+            <place xml:id="JP-011034" n="2"/>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-005649" n="1"/>
+            <place xml:id="JP-005586" n="2"/>
+            <place xml:id="JP-006405" n="1"/>
+            <place xml:id="JP-006040" n="1"/>
+         </listPlace>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010911" n="1"/>
+            <bibl xml:id="JP-010897" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

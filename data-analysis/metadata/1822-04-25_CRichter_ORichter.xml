@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0100">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 25. April 1822, Donnerstag </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-04-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012033">Textilien</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-002709" n="4"/>
+            <person xml:id="JP-003471" n="3"/>
+            <person xml:id="JP-011790" n="1"/>
+            <person xml:id="JP-999999" n="9"/>
+            <person xml:id="JP-001608" n="3"/>
+            <person xml:id="JP-012471" n="1"/>
+            <person xml:id="JP-012849" n="2"/>
+            <person xml:id="JP-003997" n="1"/>
+            <person xml:id="JP-012438" n="1"/>
+            <person xml:id="JP-002634" n="1"/>
+            <person xml:id="JP-012231" n="1"/>
+            <person xml:id="JP-011972" n="1"/>
+            <person xml:id="JP-004656" n="3"/>
+            <person xml:id="JP-004139" n="1"/>
+            <person xml:id="JP-003830" n="1"/>
+            <person xml:id="JP-001320" n="1"/>
+            <person xml:id="JP-002031" n="1"/>
+            <person xml:id="JP-003522" n="1"/>
+            <person xml:id="JP-001632" n="1"/>
+            <person xml:id="JP-004659" n="1"/>
+            <person xml:id="JP-011864" n="1"/>
+            <person xml:id="JP-004654" n="1"/>
+            <person xml:id="JP-002601" n="2"/>
+            <person xml:id="JP-003031" n="1"/>
+            <person xml:id="JP-011796" n="2"/>
+            <person xml:id="JP-001764" n="1"/>
+            <person xml:id="JP-001763" n="1"/>
+            <person xml:id="JP-011889" n="1"/>
+            <person xml:id="JP-002603" n="2"/>
+            <person xml:id="JP-000213" n="1"/>
+            <person xml:id="JP-012981" n="1"/>
+            <person xml:id="JP-012954" n="1"/>
+            <person xml:id="JP-012368" n="1"/>
+            <person xml:id="JP-012933" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-011052" n="1"/>
+            <place xml:id="JP-006315" n="1"/>
+            <place xml:id="JP-005687" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

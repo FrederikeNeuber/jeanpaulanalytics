@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0048">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Adelheid von Bassewitz an Caroline Richter. Potsdam, 20. August 1810, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000225">Adelheid Henriette von Bassewitz</persName>
+               <placeName key="JP-006162">Potsdam</placeName>
+               <date when="1810-08-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-000225" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-001296" n="3"/>
+            <person xml:id="JP-012247" n="3"/>
+            <person xml:id="JP-000830" n="3"/>
+            <person xml:id="JP-012884" n="1"/>
+            <person xml:id="JP-012199" n="2"/>
+            <person xml:id="JP-012624" n="2"/>
+            <person xml:id="JP-011855" n="3"/>
+            <person xml:id="JP-012403" n="1"/>
+            <person xml:id="JP-012364" n="1"/>
+            <person xml:id="JP-003482" n="1"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-004206" n="2"/>
+            <person xml:id="JP-004205" n="1"/>
+            <person xml:id="JP-000437" n="2"/>
+            <person xml:id="JP-012248" n="2"/>
+            <person xml:id="JP-012254" n="2"/>
+            <person xml:id="JP-011793" n="1"/>
+            <person xml:id="JP-012431" n="1"/>
+            <person xml:id="JP-001600" n="1"/>
+            <person xml:id="JP-000537" n="1"/>
+            <person xml:id="JP-012303" n="1"/>
+            <person xml:id="JP-012260" n="1"/>
+            <person xml:id="JP-011978" n="1"/>
+            <person xml:id="JP-012852" n="1"/>
+            <person xml:id="JP-002581" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006162" n="3"/>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-012522" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

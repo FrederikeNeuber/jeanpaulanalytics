@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0051">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, 26. März 1821, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1821-03-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012430">Religion</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-000749" n="1"/>
+            <person xml:id="JP-001068" n="2"/>
+            <person xml:id="JP-999999" n="11"/>
+            <person xml:id="JP-004520" n="1"/>
+            <person xml:id="JP-012685" n="1"/>
+            <person xml:id="JP-002021" n="1"/>
+            <person xml:id="JP-002711" n="1"/>
+            <person xml:id="JP-012701" n="1"/>
+            <person xml:id="JP-002703" n="2"/>
+            <person xml:id="JP-012465" n="1"/>
+            <person xml:id="JP-001981" n="1"/>
+            <person xml:id="JP-001983" n="1"/>
+            <person xml:id="JP-004275" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-002149" n="1"/>
+            <person xml:id="JP-002147" n="1"/>
+            <person xml:id="JP-003944" n="1"/>
+            <person xml:id="JP-000948" n="1"/>
+            <person xml:id="JP-012517" n="2"/>
+            <person xml:id="JP-012767" n="1"/>
+            <person xml:id="JP-000698" n="1"/>
+            <person xml:id="JP-004654" n="1"/>
+            <person xml:id="JP-004659" n="1"/>
+            <person xml:id="JP-011785" n="1"/>
+            <person xml:id="JP-002709" n="1"/>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-003884" n="1"/>
+            <person xml:id="JP-003112" n="4"/>
+            <person xml:id="JP-003587" n="1"/>
+            <person xml:id="JP-000215" n="1"/>
+            <person xml:id="JP-001671" n="1"/>
+            <person xml:id="JP-002417" n="2"/>
+            <person xml:id="JP-003108" n="2"/>
+            <person xml:id="JP-003188" n="1"/>
+            <person xml:id="JP-003480" n="1"/>
+            <person xml:id="JP-004526" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-005721" n="1"/>
+            <place xml:id="JP-005875" n="1"/>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-006040" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010158" n="1"/>
+            <bibl xml:id="JP-012711" n="1"/>
+            <bibl xml:id="JP-010206" n="1"/>
+            <bibl xml:id="JP-012027" n="1"/>
+         </listBibl>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010811" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

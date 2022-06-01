@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0987">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 21. November 1814,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1814-11-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-013230">Angst und Sorge</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012778">Geschäftliches</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002007" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="3"/>
+            <person xml:id="JP-001269" n="4"/>
+            <person xml:id="JP-001268" n="1"/>
+            <person xml:id="JP-002011" n="1"/>
+            <person xml:id="JP-002010" n="1"/>
+            <person xml:id="JP-002009" n="1"/>
+            <person xml:id="JP-002004" n="2"/>
+            <person xml:id="JP-002625" n="2"/>
+            <person xml:id="JP-001187" n="1"/>
+            <person xml:id="JP-004729" n="1"/>
+            <person xml:id="JP-002005" n="3"/>
+            <person xml:id="JP-002942" n="1"/>
+            <person xml:id="JP-002955" n="2"/>
+            <person xml:id="JP-000244" n="1"/>
+            <person xml:id="JP-001036" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-006405" n="1"/>
+            <place xml:id="JP-006051" n="3"/>
+            <place xml:id="JP-006203" n="1"/>
+            <place xml:id="JP-005872" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

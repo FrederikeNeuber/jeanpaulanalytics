@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0090">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emma Richter. Marienbad, 8. Juli 1819, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006002">Marienbad</placeName>
+               <date when="1819-07-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-003490" n="3"/>
+            <person xml:id="JP-999999" n="6"/>
+            <person xml:id="JP-002703" n="7"/>
+            <person xml:id="JP-002701" n="2"/>
+            <person xml:id="JP-002709" n="4"/>
+            <person xml:id="JP-000426" n="1"/>
+            <person xml:id="JP-000666" n="1"/>
+            <person xml:id="JP-003491" n="2"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-012687" n="1"/>
+            <person xml:id="JP-000929" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006002" n="5"/>
+            <place xml:id="JP-006315" n="1"/>
+            <place xml:id="JP-005574" n="4"/>
+            <place xml:id="JP-005696" n="1"/>
+            <place xml:id="JP-005588" n="1"/>
+            <place xml:id="JP-011045" n="1"/>
+            <place xml:id="JP-012331" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

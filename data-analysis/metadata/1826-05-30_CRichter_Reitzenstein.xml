@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0595">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Anna Margaretha Fanny von Reitzenstein. Bayreuth, 30.
+                    Mai 1826, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1826-05-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-011923">Anna Margaretha Fanny von Reitzenstein</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-011923" n="1"/>
+            <person xml:id="JP-001120" n="7"/>
+            <person xml:id="JP-003471" n="9"/>
+            <person xml:id="JP-003491" n="3"/>
+            <person xml:id="JP-001353" n="1"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-003112" n="1"/>
+            <person xml:id="JP-003437" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-006040" n="1"/>
+            <place xml:id="JP-005737" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1228">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Georg Christian Otto an Caroline Richter, Bayreuth, 30. Juni 1801, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003112">Georg Christian Otto</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1801-06-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011789">Otto-Kreis</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012264">Einladungen</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003112" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="3"/>
+            <person xml:id="JP-004617" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-003108" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="2"/>
+            <place xml:id="JP-005561" n="2"/>
+            <place xml:id="JP-006012" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

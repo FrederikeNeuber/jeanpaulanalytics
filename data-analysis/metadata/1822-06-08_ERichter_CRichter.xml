@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0382">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Caroline Richter. Konradsreuth, 8. Juni 1822,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005918"/>
+               <date when="1822-06-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="2"/>
+            <person xml:id="JP-011923" n="4"/>
+            <person xml:id="JP-012363" n="2"/>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-003873" n="2"/>
+            <person xml:id="JP-003872" n="3"/>
+            <person xml:id="JP-012650" n="1"/>
+            <person xml:id="JP-003437" n="1"/>
+            <person xml:id="JP-004656" n="1"/>
+            <person xml:id="JP-001496" n="1"/>
+            <person xml:id="JP-004139" n="1"/>
+            <person xml:id="JP-004686" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-003112" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005918" n="1"/>
+            <place xml:id="JP-005588" n="1"/>
+            <place xml:id="JP-005772" n="1"/>
+            <place xml:id="JP-006039" n="2"/>
+            <place xml:id="JP-006422" n="1"/>
+            <place xml:id="JP-005769" n="1"/>
+            <place xml:id="JP-005846" n="2"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

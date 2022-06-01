@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0459">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Franz I. Kaiser von Österreich, Bayreuth, 20.
+                    November 1825, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1825-11-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001155"> Franz II. / I.</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012104">Amtskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-001155" n="1"/>
+            <person xml:id="JP-999999" n="2"/>
+            <person xml:id="JP-002052" n="1"/>
+            <person xml:id="JP-003482" n="1"/>
+            <person xml:id="JP-001353" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-012072" n="1"/>
+         </listBibl>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010983" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

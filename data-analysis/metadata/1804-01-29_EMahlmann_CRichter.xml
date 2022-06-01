@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0450">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Caroline Richter. Leipzig, 29. bis 31. Januar 1804,
+                    Sonntag bis Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date from="1804-01-29" to="1804-01-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012494">Ernährung</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012265">Geschlechterrollen</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-004106" n="2"/>
+            <person xml:id="JP-004103" n="1"/>
+            <person xml:id="JP-004393" n="4"/>
+            <person xml:id="JP-004107" n="3"/>
+            <person xml:id="JP-004104" n="2"/>
+            <person xml:id="JP-002583" n="7"/>
+            <person xml:id="JP-002704" n="1"/>
+            <person xml:id="JP-012802" n="1"/>
+            <person xml:id="JP-999999" n="2"/>
+            <person xml:id="JP-012261" n="1"/>
+            <person xml:id="JP-012079" n="1"/>
+            <person xml:id="JP-013016" n="1"/>
+            <person xml:id="JP-012036" n="3"/>
+            <person xml:id="JP-000923" n="1"/>
+            <person xml:id="JP-002703" n="2"/>
+            <person xml:id="JP-002779" n="2"/>
+            <person xml:id="JP-003087" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005948" n="1"/>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-005665" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-012702" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

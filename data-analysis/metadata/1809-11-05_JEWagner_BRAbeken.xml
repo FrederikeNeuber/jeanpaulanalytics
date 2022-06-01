@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1081">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Bernhard Rudolf Abeken. Meiningen, 5. November
+                    1809, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1809-11-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000007">Bernhard Rudolf Abeken</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004556" n="1"/>
+            <person xml:id="JP-000007" n="1"/>
+            <person xml:id="JP-003735" n="1"/>
+            <person xml:id="JP-002628" n="1"/>
+            <person xml:id="JP-002088" n="2"/>
+            <person xml:id="JP-001675" n="1"/>
+            <person xml:id="JP-001673" n="1"/>
+            <person xml:id="JP-000698" n="3"/>
+            <person xml:id="JP-001599" n="1"/>
+            <person xml:id="JP-001604" n="1"/>
+            <person xml:id="JP-012221" n="1"/>
+            <person xml:id="JP-012298" n="1"/>
+            <person xml:id="JP-004812" n="1"/>
+            <person xml:id="JP-004810" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006012" n="1"/>
+            <place xml:id="JP-005948" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010015" n="2"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

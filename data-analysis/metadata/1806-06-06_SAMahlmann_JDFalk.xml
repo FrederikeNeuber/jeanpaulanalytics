@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0534">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Siegfried August Mahlmann an Johannes Daniel Falk. Leipzig, 6. Juni 1806,
+                    Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002583">Siegfried August Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1806-06-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002583" n="1"/>
+            <person xml:id="JP-001032" n="1"/>
+            <person xml:id="JP-012933" n="2"/>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-012323" n="2"/>
+            <person xml:id="JP-004517" n="1"/>
+            <person xml:id="JP-001285" n="1"/>
+            <person xml:id="JP-012817" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005948" n="1"/>
+            <place xml:id="JP-011521" n="1"/>
+            <place xml:id="JP-012507" n="2"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010249" n="1"/>
+            <bibl xml:id="JP-009809" n="1"/>
+            <bibl xml:id="JP-011918" n="2"/>
+            <bibl xml:id="JP-011872" n="1"/>
+            <bibl xml:id="JP-012271" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

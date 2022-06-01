@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0179">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Richard Otto Spazier an Caroline Richter. Dresden, 29. März 1825, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004107">Richard Otto Spazier</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1825-03-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+               <term xml:id="JP-012770">Familie Spazier</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004107" n="2"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-004393" n="7"/>
+            <person xml:id="JP-000009" n="3"/>
+            <person xml:id="JP-000008" n="2"/>
+            <person xml:id="JP-004390" n="4"/>
+            <person xml:id="JP-011938" n="1"/>
+            <person xml:id="JP-002301" n="1"/>
+            <person xml:id="JP-003233" n="1"/>
+            <person xml:id="JP-003939" n="1"/>
+            <person xml:id="JP-003231" n="2"/>
+            <person xml:id="JP-001686" n="1"/>
+            <person xml:id="JP-012441" n="1"/>
+            <person xml:id="JP-001761" n="2"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-004103" n="2"/>
+            <person xml:id="JP-004106" n="1"/>
+            <person xml:id="JP-003482" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005687" n="1"/>
+            <place xml:id="JP-005574" n="2"/>
+            <place xml:id="JP-006271" n="1"/>
+            <place xml:id="JP-006342" n="1"/>
+            <place xml:id="JP-005602" n="1"/>
+            <place xml:id="JP-005735" n="1"/>
+            <place xml:id="JP-005948" n="2"/>
+            <place xml:id="JP-005761" n="1"/>
+            <place xml:id="JP-005999" n="1"/>
+            <place xml:id="JP-006431" n="1"/>
+            <place xml:id="JP-012131" n="1"/>
+            <place xml:id="JP-012677" n="1"/>
+            <place xml:id="JP-011865" n="1"/>
+            <place xml:id="JP-012193" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0803">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Johannes Daniel Falk. Leipzig, 1. August
+                    1804, Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1804-08-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004104" n="1"/>
+            <person xml:id="JP-001032" n="1"/>
+            <person xml:id="JP-004517" n="2"/>
+            <person xml:id="JP-002774" n="1"/>
+            <person xml:id="JP-012034" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005948" n="2"/>
+            <place xml:id="JP-006395" n="1"/>
+            <place xml:id="JP-012507" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-009809" n="6"/>
+            <bibl xml:id="JP-008067" n="1"/>
+            <bibl xml:id="JP-010170" n="1"/>
+            <bibl xml:id="JP-012569" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0481">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Amöne Otto. Meiningen, 27. November
+                    1801, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-999999">Jean Paul</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1801-11-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003108">Amöne Otto</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011789">Otto-Kreis</term>
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-999999" n="8"/>
+            <person xml:id="JP-003469" n="2"/>
+            <person xml:id="JP-003108" n="1"/>
+            <person xml:id="JP-003112" n="3"/>
+            <person xml:id="JP-003087" n="3"/>
+            <person xml:id="JP-000698" n="1"/>
+            <person xml:id="JP-001289" n="2"/>
+            <person xml:id="JP-000080" n="1"/>
+            <person xml:id="JP-001603" n="1"/>
+            <person xml:id="JP-001605" n="1"/>
+            <person xml:id="JP-001288" n="2"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006012" n="2"/>
+            <place xml:id="JP-012957" n="1"/>
+            <place xml:id="JP-005832" n="2"/>
+            <place xml:id="JP-005586" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-009324" n="1"/>
+            <bibl xml:id="JP-010239" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

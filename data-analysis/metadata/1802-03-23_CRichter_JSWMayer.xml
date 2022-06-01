@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0264">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 23. März 1802,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-03-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-002703" n="1"/>
+            <person xml:id="JP-002581" n="2"/>
+            <person xml:id="JP-002702" n="2"/>
+            <person xml:id="JP-002779" n="1"/>
+            <person xml:id="JP-000437" n="1"/>
+            <person xml:id="JP-000830" n="2"/>
+            <person xml:id="JP-001789" n="1"/>
+            <person xml:id="JP-012532" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-001603" n="1"/>
+            <person xml:id="JP-999999" n="3"/>
+            <person xml:id="JP-000044" n="1"/>
+            <person xml:id="JP-012044" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006012" n="3"/>
+            <place xml:id="JP-012108" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

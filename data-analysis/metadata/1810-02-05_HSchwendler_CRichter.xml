@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0666">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Caroline Richter. Meiningen, 5. Februar 1810, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-02-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003964" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="7"/>
+            <person xml:id="JP-001605" n="10"/>
+            <person xml:id="JP-001604" n="1"/>
+            <person xml:id="JP-001603" n="3"/>
+            <person xml:id="JP-012795" n="1"/>
+            <person xml:id="JP-003149" n="5"/>
+            <person xml:id="JP-001920" n="1"/>
+            <person xml:id="JP-001600" n="1"/>
+            <person xml:id="JP-003087" n="2"/>
+            <person xml:id="JP-004347" n="1"/>
+            <person xml:id="JP-003483" n="5"/>
+            <person xml:id="JP-003967" n="1"/>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-002936" n="10"/>
+            <person xml:id="JP-003192" n="5"/>
+            <person xml:id="JP-012189" n="1"/>
+            <person xml:id="JP-011827" n="1"/>
+            <person xml:id="JP-012649" n="1"/>
+            <person xml:id="JP-012006" n="1"/>
+            <person xml:id="JP-011882" n="1"/>
+            <person xml:id="JP-011930" n="1"/>
+            <person xml:id="JP-012733" n="1"/>
+            <person xml:id="JP-012570" n="1"/>
+            <person xml:id="JP-012187" n="1"/>
+            <person xml:id="JP-012467" n="1"/>
+            <person xml:id="JP-012415" n="1"/>
+            <person xml:id="JP-003749" n="2"/>
+            <person xml:id="JP-012234" n="1"/>
+            <person xml:id="JP-003971" n="2"/>
+            <person xml:id="JP-012061" n="1"/>
+            <person xml:id="JP-003965" n="1"/>
+            <person xml:id="JP-004556" n="2"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006012" n="1"/>
+            <place xml:id="JP-006427" n="3"/>
+            <place xml:id="JP-006271" n="2"/>
+            <place xml:id="JP-006247" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-012489" n="1"/>
+         </listBibl>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010576" n="4"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

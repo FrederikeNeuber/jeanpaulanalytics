@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1066">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Stephan Schütze an Johann Ernst Wagner. Weimar, 5. Januar 1809,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003908">Stephan Schütze</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+               <date when="1809-01-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-012740">Theaterleben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003908" n="1"/>
+            <person xml:id="JP-004556" n="1"/>
+            <person xml:id="JP-013109" n="3"/>
+            <person xml:id="JP-001353" n="6"/>
+            <person xml:id="JP-013413" n="1"/>
+            <person xml:id="JP-000579" n="4"/>
+            <person xml:id="JP-001743" n="1"/>
+            <person xml:id="JP-012148" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006395" n="4"/>
+            <place xml:id="JP-005956" n="1"/>
+            <place xml:id="JP-011695" n="1"/>
+            <place xml:id="JP-005812" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010364" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0781">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Worms, 23. April 1818,
+                    Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-006419">Worms</placeName>
+               <date when="1818-04-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-000948" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="3"/>
+            <person xml:id="JP-000175" n="3"/>
+            <person xml:id="JP-003719" n="4"/>
+            <person xml:id="JP-003168" n="1"/>
+            <person xml:id="JP-002273" n="1"/>
+            <person xml:id="JP-004520" n="1"/>
+            <person xml:id="JP-004516" n="1"/>
+            <person xml:id="JP-000949" n="1"/>
+            <person xml:id="JP-004378" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006419" n="2"/>
+            <place xml:id="JP-005819" n="4"/>
+            <place xml:id="JP-006396" n="1"/>
+            <place xml:id="JP-005948" n="2"/>
+            <place xml:id="JP-005990" n="1"/>
+            <place xml:id="JP-005904" n="1"/>
+            <place xml:id="JP-006404" n="1"/>
+            <place xml:id="JP-005779" n="1"/>
+            <place xml:id="JP-005999" n="1"/>
+            <place xml:id="JP-005895" n="1"/>
+            <place xml:id="JP-005786" n="1"/>
+            <place xml:id="JP-011386" n="1"/>
+            <place xml:id="JP-005994" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

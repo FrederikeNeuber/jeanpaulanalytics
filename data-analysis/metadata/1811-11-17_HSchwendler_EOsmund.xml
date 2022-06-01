@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0426">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 17. November 1811, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1811-11-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003964" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-011792" n="2"/>
+            <person xml:id="JP-012469" n="4"/>
+            <person xml:id="JP-002936" n="2"/>
+            <person xml:id="JP-012595" n="2"/>
+            <person xml:id="JP-012187" n="2"/>
+            <person xml:id="JP-003965" n="1"/>
+            <person xml:id="JP-003971" n="1"/>
+            <person xml:id="JP-003749" n="1"/>
+            <person xml:id="JP-003482" n="1"/>
+            <person xml:id="JP-003884" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006012" n="1"/>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-005622" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0648">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Voß an Caroline Richter. Heidelberg, 26. September 1821,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004516">Ernestine Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-09-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004516" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="2"/>
+            <person xml:id="JP-003490" n="5"/>
+            <person xml:id="JP-003168" n="1"/>
+            <person xml:id="JP-004520" n="2"/>
+            <person xml:id="JP-004524" n="1"/>
+            <person xml:id="JP-001068" n="1"/>
+            <person xml:id="JP-000948" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005819" n="1"/>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-005924" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

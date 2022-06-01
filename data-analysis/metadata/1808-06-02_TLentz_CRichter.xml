@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0085">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Therese Lentz an Caroline Richter. Berneck, 2. Juni 1808, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002400">Therese Lentz</persName>
+               <placeName key="JP-005588">Berneck , Bad</placeName>
+               <date when="1808-06-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012265">Geschlechterrollen</term>
+               <term xml:id="JP-012212">Liebesleben / Kennenlernen / Ehe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002400" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-002401" n="4"/>
+            <person xml:id="JP-004378" n="18"/>
+            <person xml:id="JP-001363" n="16"/>
+            <person xml:id="JP-999999" n="2"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005588" n="1"/>
+            <place xml:id="JP-005574" n="2"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0520">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Josef Graf Sedlnitzky von Choltitz. Bayreuth, 15. Juni 1826, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1826-06-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012059">Josef Graf Sedlnitzky von Choltitz</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012104">Amtskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-012059" n="1"/>
+            <person xml:id="JP-999999" n="5"/>
+            <person xml:id="JP-003482" n="4"/>
+            <person xml:id="JP-002531" n="1"/>
+            <person xml:id="JP-001155" n="1"/>
+            <person xml:id="JP-011935" n="1"/>
+            <person xml:id="JP-002052" n="1"/>
+            <person xml:id="JP-001353" n="1"/>
+            <person xml:id="JP-013405" n="1"/>
+            <person xml:id="JP-003483" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-006164" n="2"/>
+            <place xml:id="JP-005569" n="1"/>
+            <place xml:id="JP-006421" n="1"/>
+            <place xml:id="JP-006222" n="2"/>
+            <place xml:id="JP-005830" n="2"/>
+            <place xml:id="JP-005557" n="1"/>
+            <place xml:id="JP-006097" n="1"/>
+         </listPlace>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010983" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

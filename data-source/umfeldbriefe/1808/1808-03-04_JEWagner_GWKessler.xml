@@ -60,8 +60,8 @@
                     <dateline>Sachsen-Meiningen den 4<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">n</hi></hi> März 1808.</dateline>
                     <salute>Ewr. <hi rendition="#aq">Wohlge<ex>boren</ex></hi></salute>
                 </opener>
-                <p>habe ich die Ehre, anliegend <bibl key="JP-010019" subtype="werk">den 1<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">n</hi></hi> Band meines neusten Werks</bibl>, der, in Rücksicht des S.
-                    405. befindlichen <bibl key="JP-010023" subtype="werk">Kunstschulplans</bibl>,
+                <p>habe ich die Ehre, anliegend <bibl sameAs="JP-010019" subtype="werk">den 1<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">n</hi></hi> Band meines neusten Werks</bibl>, der, in Rücksicht des S.
+                    405. befindlichen <bibl sameAs="JP-010023" subtype="werk">Kunstschulplans</bibl>,
                     der Stadt <placeName key="JP-005586">Berlin</placeName> geweiht ist, mit der
                     ganz gehorsamsten Bitte zu übersenden, daß dieselben ihn nicht nur durch Dero
                     beliebtes Institut in <placeName key="JP-005586">Berlins</placeName> schönen
@@ -80,7 +80,7 @@
                 </closer>
                 <postscript>
                     <p>Im Fall einer dennoch etwa<lb/>zu machenden Portoauslage, <lb/>bitte ich,
-                        solche <seg type="comment"><orig>meinem Ver-<lb/>leger</orig><note xml:id="ngwk_fcq_vnb">Der erste Band der <bibl key="JP-010019" subtype="werk">"Reisen aus der Fremde"</bibl> ist in <placeName key="JP-005832">Hildburghausen</placeName> bei Hanisch's Erben
+                        solche <seg type="comment"><orig>meinem Ver-<lb/>leger</orig><note xml:id="ngwk_fcq_vnb">Der erste Band der <bibl sameAs="JP-010019" subtype="werk">"Reisen aus der Fremde"</bibl> ist in <placeName key="JP-005832">Hildburghausen</placeName> bei Hanisch's Erben
                                 erschienen.</note></seg> in der OMesse durch einen <lb/>der dortigen
                             H<ex>erre</ex><hi rendition="#sup"><hi rendition="#u" hand="#author" cert="high">n</hi></hi> Buchhg<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">dler</hi></hi> gefälligst
                         <lb/>zurechnen zu lassen</p>

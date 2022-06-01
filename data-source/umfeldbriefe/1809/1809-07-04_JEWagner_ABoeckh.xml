@@ -84,7 +84,7 @@
                 <opener>S<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">r</hi></hi> Wohlge<ex>boren</ex><lb/>Herrn Prof. Aug. Boeckh.
                         <dateline>Meiningen den 4<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">n</hi></hi> Jul 1809.</dateline>
                 </opener>
-                <p>Der verehrungswürdigen Redaction meinen innigsten Dank für <seg type="comment"><orig>Ihre freundliche Einladung</orig><note xml:id="najk_3k2_ynb">Nicht überliefert.</note></seg> zur Theilnahme an den <bibl key="JP-010265" subtype="werk">Heidelberger Jahrbüchern der
+                <p>Der verehrungswürdigen Redaction meinen innigsten Dank für <seg type="comment"><orig>Ihre freundliche Einladung</orig><note xml:id="najk_3k2_ynb">Nicht überliefert.</note></seg> zur Theilnahme an den <bibl sameAs="JP-010265" subtype="werk">Heidelberger Jahrbüchern der
                     Literatur</bibl>! Und gewiß, wenn ich mir je gewünscht, Mitgenosse eines
                     kritischen Instituts zu seyn, so würden meine Wünsche auf dieses trefflichste
                     von allen, die ich kenne, gerichtet seyn.</p>
@@ -97,15 +97,15 @@
                     <list>
                         <item><seg type="comment"><orig>– <persName key="JP-001058"><hi rendition="#u" hand="#author" cert="high">Feßlers</hi>
                                         I. A.</persName>
-                                    <bibl key="JP-013254" subtype="werk">Nachtwächter
+                                    <bibl sameAs="JP-013254" subtype="werk">Nachtwächter
                                     Benedic</bibl>t. Berlin. Maurer</orig><note xml:id="nxck_x5h_bpb">Erschienen in den "Heidelbergischen
                                     Jahrbüchern" 1809, Bd. 5.2, H. 12, S. 145-148.</note></seg>,
-                                und<seg type="comment"><orig><lb/>– <bibl key="JP-008061" subtype="werk">Der Wintergarten</bibl>. Novellen v. <hi rendition="#u" hand="#author" cert="high"><persName key="JP-000141">L. A. v. Arnim</persName></hi> Berl.
+                                und<seg type="comment"><orig><lb/>– <bibl sameAs="JP-008061" subtype="werk">Der Wintergarten</bibl>. Novellen v. <hi rendition="#u" hand="#author" cert="high"><persName key="JP-000141">L. A. v. Arnim</persName></hi> Berl.
                                         Realschb<ex>handlung</ex></orig><note xml:id="ns4p_1vh_bpb">Erschienen in den "Heidelbergischen Jahrbüchern" 1809, Bd. 5.2,
                                     H. 12, S. 164-167.</note></seg></item>
                     </list>
                 </p>
-                <p><bibl key="JP-013268" subtype="werk">F. M. Klingers Werke</bibl>
+                <p><bibl sameAs="JP-013268" subtype="werk">F. M. Klingers Werke</bibl>
                     <seg type="comment"><orig>Th. 8, 9, 11 und 12.</orig><note xml:id="npfl_tn2_ynb">Diese Teile der Werke von <persName key="JP-002134">Friedrich
                                 Maximilian Klinger</persName> erschienen 1809, die Bände 1-4 sowie 6
                             erschienen 1815, 1816 folgten die Bände 5, 7 und 10.</note></seg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mayer an Johann Siegfried Wilhelm Mayer. Leipzig, 7. November
+                    1800, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1800-11-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-002703" n="1"/>
+            <person xml:id="JP-004517" n="1"/>
+            <person xml:id="JP-012550" n="1"/>
+            <person xml:id="JP-004104" n="2"/>
+            <person xml:id="JP-004106" n="2"/>
+            <person xml:id="JP-004393" n="3"/>
+            <person xml:id="JP-012596" n="1"/>
+            <person xml:id="JP-002711" n="1"/>
+            <person xml:id="JP-004103" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-012731" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005948" n="4"/>
+            <place xml:id="JP-005586" n="2"/>
+            <place xml:id="JP-012853" n="1"/>
+            <place xml:id="JP-013003" n="1"/>
+            <place xml:id="JP-011500" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

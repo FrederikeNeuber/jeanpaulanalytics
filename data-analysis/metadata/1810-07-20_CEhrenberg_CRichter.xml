@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0193">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline von Ehrenberg an Caroline Richter. Altenburg, zwischen 20. Juli
+                    1810 und 2. März 1811</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000898">Caroline Auguste Eleonore von Ehrenberg</persName>
+               <placeName key="JP-005521">Altenburg</placeName>
+               <date notBefore="1810-07-20" notAfter="1811-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-000898" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-012995" n="5"/>
+            <person xml:id="JP-012921" n="3"/>
+            <person xml:id="JP-012773" n="5"/>
+            <person xml:id="JP-012468" n="4"/>
+            <person xml:id="JP-011907" n="1"/>
+            <person xml:id="JP-012697" n="3"/>
+            <person xml:id="JP-012039" n="1"/>
+            <person xml:id="JP-012900" n="1"/>
+            <person xml:id="JP-012410" n="1"/>
+            <person xml:id="JP-000847" n="1"/>
+            <person xml:id="JP-012945" n="1"/>
+            <person xml:id="JP-012967" n="2"/>
+            <person xml:id="JP-011924" n="1"/>
+            <person xml:id="JP-012516" n="1"/>
+            <person xml:id="JP-002153" n="1"/>
+            <person xml:id="JP-012452" n="1"/>
+            <person xml:id="JP-011828" n="1"/>
+            <person xml:id="JP-012035" n="1"/>
+            <person xml:id="JP-001542" n="1"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-000817" n="1"/>
+            <person xml:id="JP-003108" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005521" n="1"/>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-012902" n="1"/>
+            <place xml:id="JP-006020" n="2"/>
+            <place xml:id="JP-006102" n="1"/>
+            <place xml:id="JP-006129" n="1"/>
+            <place xml:id="JP-005809" n="2"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010310" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -124,7 +124,7 @@
         <xsl:apply-templates select="tei:sic | tei:orig"/>
     </xsl:template>
 
-    <xsl:template match="tei:orig | tei:add | tei:unclear | tei:sic | tei:supplied | tei:ex">
+    <xsl:template match="tei:hi | tei:orig | tei:add | tei:unclear | tei:sic | tei:supplied | tei:ex">
         <xsl:apply-templates/>
     </xsl:template>
 

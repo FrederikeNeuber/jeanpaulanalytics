@@ -29,7 +29,7 @@
                                 <p><hi rendition="#aq"> in Dresden</hi> | 22. <hi rendition="#aq">Märtz</hi> 1821.</p>
                                 <accMat>Manuskript des Textes "Aus dem Leben Maximilians, des jungen
                                     römischen Königs. Historisch-romantische Skizze" von Minna
-                                    Uthe-Spazier, der im <bibl key="JP-010243" subtype="werk">Frauentaschenbuch</bibl> für das Jahr 1822, S. 189-254,
+                                    Uthe-Spazier, der im <bibl sameAs="JP-010243" subtype="werk">Frauentaschenbuch</bibl> für das Jahr 1822, S. 189-254,
                                     erschien.</accMat>
                             </physDesc>
                         </msDesc>
@@ -76,9 +76,9 @@
                     </dateline>
                 </opener>
                 <p>EW. Wohlgeb. erhalten hier <seg type="comment"><orig>mein Mskpt. für Ihren nächst
-                            erscheinenden <bibl key="JP-010243" subtype="werk">Almanach</bibl></orig><note xml:id="nby2_p5l_14b">Es geht um den Text
+                            erscheinenden <bibl sameAs="JP-010243" subtype="werk">Almanach</bibl></orig><note xml:id="nby2_p5l_14b">Es geht um den Text
                             "Aus dem Leben Maximilians, des jungen römischen Königs.
-                            Historisch-romantische Skizze", der im <bibl key="JP-010243" subtype="werk">Frauentaschenbuch</bibl> für das Jahr 1822, S.
+                            Historisch-romantische Skizze", der im <bibl sameAs="JP-010243" subtype="werk">Frauentaschenbuch</bibl> für das Jahr 1822, S.
                             189-254, erschien.</note></seg>, und rechne ich auf einen guten Setzer,
                     und sorgsamen Correktor, da es mir unmöglich ist meine Sachen so ängstlich zu
                     kopieren, um es diesen Herren <hi rendition="#u" hand="#author" cert="high">ganz</hi> leicht zu machen. Auch ist meine Handschrift nicht Jedem bequem. <subst>

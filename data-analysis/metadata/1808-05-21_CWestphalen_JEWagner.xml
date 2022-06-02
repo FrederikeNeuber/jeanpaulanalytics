@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0878">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Engel Christine Westphalen an Johann Ernst Wagner. Hamburg, 21. Mai 1808,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-013215">Engel Christine Westphalen</persName>
+               <placeName key="JP-005812">Hamburg</placeName>
+               <date when="1808-05-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-013215" n="1"/>
+            <person xml:id="JP-004556" n="1"/>
+            <person xml:id="JP-013108" n="1"/>
+            <person xml:id="JP-013130" n="1"/>
+            <person xml:id="JP-001853" n="2"/>
+            <person xml:id="JP-013164" n="1"/>
+            <person xml:id="JP-000286" n="1"/>
+            <person xml:id="JP-013216" n="1"/>
+            <person xml:id="JP-013166" n="1"/>
+            <person xml:id="JP-004054" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005812" n="3"/>
+            <place xml:id="JP-005620" n="1"/>
+            <place xml:id="JP-005669" n="4"/>
+            <place xml:id="JP-005728" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010023" n="2"/>
+            <bibl xml:id="JP-013247" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

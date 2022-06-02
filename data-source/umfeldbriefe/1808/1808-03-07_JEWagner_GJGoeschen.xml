@@ -67,8 +67,8 @@
                     <dateline>Meiningen den 7<hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">n</hi></hi> März 1808.</dateline>
                 </opener>
                 <p>Hier, mein vortrefflicher Freund, überreiche ich <hi rendition="#aq">Ihnen</hi>
-                    <bibl key="JP-010019" subtype="werk">den ersten Band meine <hi rendition="#u" hand="#unknown" cert="high">Reisen</hi></bibl>. Nehmen <hi rendition="#aq">Sie</hi> mich, mit allen meinen Schwächen und
-                    Verzeihlichkeiten so gern und freundlich hin, wie immer. Den <bibl key="JP-010023" subtype="werk">Kunstschulplan</bibl> S. 405. lesen <hi rendition="#aq">Sie</hi> doch ja bald, und in einer heitern Stunde! <seg type="comment"><orig>Das 2<hi rendition="#sup"><hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">te</hi></hi></hi>
+                    <bibl sameAs="JP-010019" subtype="werk">den ersten Band meine <hi rendition="#u" hand="#unknown" cert="high">Reisen</hi></bibl>. Nehmen <hi rendition="#aq">Sie</hi> mich, mit allen meinen Schwächen und
+                    Verzeihlichkeiten so gern und freundlich hin, wie immer. Den <bibl sameAs="JP-010023" subtype="werk">Kunstschulplan</bibl> S. 405. lesen <hi rendition="#aq">Sie</hi> doch ja bald, und in einer heitern Stunde! <seg type="comment"><orig>Das 2<hi rendition="#sup"><hi rendition="#sup"><hi rendition="#uu" hand="#author" cert="high">te</hi></hi></hi>
                             Exemplar ist der <placeName key="JP-005948">Stadt Leipzig</placeName>
                             gereicht, und ich bitte <hi rendition="#aq">Sie</hi>, dasselbe einem
                             braven Kunstfreunde gütigst zu übergeben</orig><ref type="letter" subtype="passage" target="JP-UB0869/#start_cxp_mgl_v4b"><note xml:id="nsgs_bgl_v4b">Göschen hat ein Exemplar der "Reisen aus der
@@ -84,11 +84,11 @@
                         <placeName key="JP-005948">Leipzigs</placeName> schönen Kreisen!</p>
                 <p>Ach, wie leben Sie denn, verehrtester Freund? Soll ich denn nicht einmal eine
                     Zeile von Ihnen erhalten? <seg type="comment"><orig>Und warum lassen Sie
-                                <persName key="JP-002546">meiner Herzogin</persName> nicht die <bibl key="JP-013282" subtype="werk">Selene</bibl> pr. 1808
+                                <persName key="JP-002546">meiner Herzogin</persName> nicht die <bibl sameAs="JP-013282" subtype="werk">Selene</bibl> pr. 1808
                             senden?</orig><note xml:id="nbpx_vfl_v4b"><ref type="letter" subtype="passage" target="JP-UB0869/#start_zbn_sfl_v4b">Vgl. A, wo
                                 Göschen den Preis nennt.</ref></note></seg>
                     <seg type="comment"><orig>Wird sie nicht mehr fortgesetzt?</orig><note xml:id="nwbr_z4k_v4b">Das von <persName key="JP-003532">Friedrich
-                                Rochlitz</persName> herausgegebene Journal <bibl key="JP-013282" subtype="werk">"Selene"</bibl> wurde mit Heft 12/1808
+                                Rochlitz</persName> herausgegebene Journal <bibl sameAs="JP-013282" subtype="werk">"Selene"</bibl> wurde mit Heft 12/1808
                             eingestellt.</note></seg></p>
                 <closer>
                     <salute>Leben Sie wohl, wohl! Ich habe in diesen Tagen noch über 100

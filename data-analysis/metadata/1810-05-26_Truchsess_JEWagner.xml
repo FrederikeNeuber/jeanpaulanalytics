@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0927">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Christian Freiherr Truchseß von Wetzhausen an Johann Ernst Wagner.
+                    Bettenburg, 26. und 28. Mai 1810, Sonnabend und Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+               <placeName key="JP-005591">Bettenburg</placeName>
+               <date from="1810-05-26" to="1810-05-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012430">Religion</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004347" n="1"/>
+            <person xml:id="JP-004556" n="1"/>
+            <person xml:id="JP-004264" n="1"/>
+            <person xml:id="JP-002186" n="10"/>
+            <person xml:id="JP-002546" n="3"/>
+            <person xml:id="JP-004558" n="2"/>
+            <person xml:id="JP-002903" n="3"/>
+            <person xml:id="JP-003966" n="1"/>
+            <person xml:id="JP-013149" n="1"/>
+            <person xml:id="JP-013148" n="1"/>
+            <person xml:id="JP-004599" n="2"/>
+            <person xml:id="JP-000698" n="3"/>
+            <person xml:id="JP-002531" n="1"/>
+            <person xml:id="JP-004208" n="1"/>
+            <person xml:id="JP-004557" n="1"/>
+            <person xml:id="JP-001289" n="1"/>
+            <person xml:id="JP-002882" n="1"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-002064" n="2"/>
+            <person xml:id="JP-004553" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005591" n="1"/>
+            <place xml:id="JP-011218" n="1"/>
+            <place xml:id="JP-013071" n="1"/>
+            <place xml:id="JP-013072" n="1"/>
+            <place xml:id="JP-011683" n="1"/>
+            <place xml:id="JP-006315" n="2"/>
+            <place xml:id="JP-005569" n="1"/>
+            <place xml:id="JP-006422" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010015" n="1"/>
+            <bibl xml:id="JP-010017" n="2"/>
+            <bibl xml:id="JP-010016" n="1"/>
+            <bibl xml:id="JP-010019" n="1"/>
+            <bibl xml:id="JP-009950" n="1"/>
+         </listBibl>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010576" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

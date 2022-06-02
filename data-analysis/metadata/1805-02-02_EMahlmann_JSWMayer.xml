@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0754">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 2. und 6.
+                    Februar 1805, Sonnabend und Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1805-02-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-002703" n="1"/>
+            <person xml:id="JP-004107" n="4"/>
+            <person xml:id="JP-002583" n="7"/>
+            <person xml:id="JP-004393" n="16"/>
+            <person xml:id="JP-004106" n="5"/>
+            <person xml:id="JP-004103" n="2"/>
+            <person xml:id="JP-000009" n="3"/>
+            <person xml:id="JP-004104" n="8"/>
+            <person xml:id="JP-004105" n="5"/>
+            <person xml:id="JP-004517" n="1"/>
+            <person xml:id="JP-012001" n="1"/>
+            <person xml:id="JP-012407" n="1"/>
+            <person xml:id="JP-012488" n="4"/>
+            <person xml:id="JP-003066" n="2"/>
+            <person xml:id="JP-002774" n="1"/>
+            <person xml:id="JP-012261" n="1"/>
+            <person xml:id="JP-012932" n="1"/>
+            <person xml:id="JP-002779" n="1"/>
+            <person xml:id="JP-000712" n="1"/>
+            <person xml:id="JP-002709" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005948" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-009809" n="1"/>
+            <bibl xml:id="JP-012560" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

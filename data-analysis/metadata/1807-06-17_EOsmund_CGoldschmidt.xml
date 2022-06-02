@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1285">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 17. Juni 1807,
+                    Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1807-06-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-001358" n="2"/>
+            <person xml:id="JP-012485" n="1"/>
+            <person xml:id="JP-003556" n="1"/>
+            <person xml:id="JP-003227" n="1"/>
+            <person xml:id="JP-003112" n="2"/>
+            <person xml:id="JP-000472" n="2"/>
+            <person xml:id="JP-000469" n="1"/>
+            <person xml:id="JP-004180" n="2"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-004393" n="1"/>
+            <person xml:id="JP-003652" n="1"/>
+            <person xml:id="JP-004367" n="1"/>
+            <person xml:id="JP-004275" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-005586" n="2"/>
+            <place xml:id="JP-006438" n="1"/>
+            <place xml:id="JP-005681" n="1"/>
+            <place xml:id="JP-005561" n="1"/>
+            <place xml:id="JP-005993" n="1"/>
+            <place xml:id="JP-006179" n="1"/>
+            <place xml:id="JP-005892" n="1"/>
+            <place xml:id="JP-006405" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0806">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline, Emma und Odilie Richter. München, 31. Januar
+                    1820, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1820-01-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-003471">Emma Richter</persName>
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012317">Musik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-004393" n="1"/>
+            <person xml:id="JP-002703" n="2"/>
+            <person xml:id="JP-012606" n="1"/>
+            <person xml:id="JP-002482" n="1"/>
+            <person xml:id="JP-003991" n="1"/>
+            <person xml:id="JP-002709" n="1"/>
+            <person xml:id="JP-012495" n="1"/>
+            <person xml:id="JP-004281" n="1"/>
+            <person xml:id="JP-004282" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006040" n="2"/>
+            <place xml:id="JP-005687" n="1"/>
+            <place xml:id="JP-005586" n="2"/>
+            <place xml:id="JP-005574" n="2"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

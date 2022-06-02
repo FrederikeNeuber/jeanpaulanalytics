@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0717">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Henriette Schwendler. Bayreuth, 17. und 26. August 1810, Freitag und Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1810-08-17" to="1810-08-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <persName key="JP-003749">Amanda Schlabrendorff</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-003964" n="1"/>
+            <person xml:id="JP-002936" n="2"/>
+            <person xml:id="JP-003749" n="4"/>
+            <person xml:id="JP-004498" n="1"/>
+            <person xml:id="JP-003967" n="2"/>
+            <person xml:id="JP-003966" n="3"/>
+            <person xml:id="JP-003971" n="1"/>
+            <person xml:id="JP-003965" n="2"/>
+            <person xml:id="JP-012469" n="1"/>
+            <person xml:id="JP-003482" n="1"/>
+            <person xml:id="JP-003884" n="1"/>
+            <person xml:id="JP-003112" n="1"/>
+            <person xml:id="JP-003149" n="1"/>
+            <person xml:id="JP-001759" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="2"/>
+            <place xml:id="JP-006266" n="1"/>
+            <place xml:id="JP-012963" n="1"/>
+            <place xml:id="JP-005743" n="1"/>
+            <place xml:id="JP-006164" n="1"/>
+            <place xml:id="JP-006012" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-011973" n="2"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

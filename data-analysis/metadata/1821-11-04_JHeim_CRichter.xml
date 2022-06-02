@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0293">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johanna Heim an Caroline Richter. Welkershausen, 4. November 1821,
+                    Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001604">Johanna Heim</persName>
+               <placeName key="JP-006399"/>
+               <date when="1821-11-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011840">Meininger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-001604" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="3"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-012433" n="1"/>
+            <person xml:id="JP-002546" n="1"/>
+            <person xml:id="JP-000317" n="1"/>
+            <person xml:id="JP-001600" n="1"/>
+            <person xml:id="JP-012336" n="2"/>
+            <person xml:id="JP-012714" n="1"/>
+            <person xml:id="JP-011898" n="1"/>
+            <person xml:id="JP-012078" n="1"/>
+            <person xml:id="JP-011954" n="2"/>
+            <person xml:id="JP-012200" n="1"/>
+            <person xml:id="JP-002088" n="2"/>
+            <person xml:id="JP-012710" n="1"/>
+            <person xml:id="JP-012156" n="1"/>
+            <person xml:id="JP-011810" n="1"/>
+            <person xml:id="JP-004425" n="2"/>
+            <person xml:id="JP-012879" n="1"/>
+            <person xml:id="JP-003484" n="1"/>
+            <person xml:id="JP-011923" n="1"/>
+            <person xml:id="JP-001605" n="1"/>
+            <person xml:id="JP-003087" n="2"/>
+            <person xml:id="JP-002292" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006399" n="1"/>
+            <place xml:id="JP-006012" n="1"/>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-005574" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

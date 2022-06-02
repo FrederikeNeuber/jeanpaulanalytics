@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0845">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig, 3. Dezember 1803, Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-12-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012314">Empfehlungen</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004104" n="1"/>
+            <person xml:id="JP-012037" n="1"/>
+            <person xml:id="JP-013229" n="2"/>
+            <person xml:id="JP-000241" n="1"/>
+            <person xml:id="JP-013089" n="1"/>
+            <person xml:id="JP-004533" n="1"/>
+            <person xml:id="JP-002583" n="1"/>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-013171" n="1"/>
+            <person xml:id="JP-003737" n="1"/>
+            <person xml:id="JP-004710" n="1"/>
+            <person xml:id="JP-001353" n="1"/>
+            <person xml:id="JP-012665" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005948" n="1"/>
+            <place xml:id="JP-006213" n="1"/>
+            <place xml:id="JP-005649" n="1"/>
+            <place xml:id="JP-006222" n="1"/>
+            <place xml:id="JP-013045" n="1"/>
+            <place xml:id="JP-006183" n="1"/>
+            <place xml:id="JP-006395" n="1"/>
+            <place xml:id="JP-005665" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-009809" n="5"/>
+            <bibl xml:id="JP-008545" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

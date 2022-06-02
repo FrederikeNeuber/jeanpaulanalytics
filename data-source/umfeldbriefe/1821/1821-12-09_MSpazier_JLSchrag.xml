@@ -83,10 +83,10 @@
                             Exemplar des <subst>
                                 <del rendition="#ow">nächs</del>
                                 <add place="across" hand="#author">letz</add>
-                            </subst>ten <bibl key="JP-010243" subtype="werk">Frauentaschenbuches</bibl></orig><note xml:id="nrb2_y2m_14b">Minna
+                            </subst>ten <bibl sameAs="JP-010243" subtype="werk">Frauentaschenbuches</bibl></orig><note xml:id="nrb2_y2m_14b">Minna
                             Uthe-Spazier hatte den Text "Aus dem Leben Maximilians, des jungen
                             römischen Königs. Historisch-romantische Skizze" beigesteuert, der im
-                                <bibl key="JP-010243" subtype="werk">Frauentaschenbuch</bibl> für
+                                <bibl sameAs="JP-010243" subtype="werk">Frauentaschenbuch</bibl> für
                             das Jahr 1822, S. 189-254, erschienen war.</note></seg>, <subst>
                         <del rendition="#ow"><del rendition="#s"><gap reason="illegible" unit="chars" quantity="3"/></del></del>
                         <add place="across" hand="#author">wo</add>
@@ -96,7 +96,7 @@
                         <add place="across" hand="#author">h</add>
                     </subst>sten Jahrganges zu melden, unter welcher Addreße – der Ihrigen, oder der
                         <seg type="comment"><orig>Ihres neuen Redakteurs</orig><note xml:id="nq1t_kfm_14b">Nachdem <persName key="JP-001138">Friedrich de la
-                                Motte Fouqué</persName> sieben Jahrgänge des <bibl key="JP-010243" subtype="werk">Frauentaschenbuches</bibl> als Redakteur betreut
+                                Motte Fouqué</persName> sieben Jahrgänge des <bibl sameAs="JP-010243" subtype="werk">Frauentaschenbuches</bibl> als Redakteur betreut
                             hatte, legte er sein Amt nieder. Mit Unterstützung Jean Pauls (vgl.
                             seinen <ref type="letter" subtype="document" target="https://www.jeanpaul-edition.de/brief.html?num=VIII_121">Brief vom 4. Dezember 1820</ref> an Schrag) bewarb sich Minna
                             Spazier im <ref type="letter" target="JP-UB1004">Brief vom 19.

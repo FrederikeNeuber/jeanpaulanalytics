@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0060">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Mayer an Minna Spazier. Berlin, Juli 1800 (?)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1800-06-28" notAfter="1800-09-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012533">Lektüre(n)</term>
+               <term xml:id="JP-012212">Liebesleben / Kennenlernen / Ehe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-004393" n="4"/>
+            <person xml:id="JP-999999" n="14"/>
+            <person xml:id="JP-000044" n="6"/>
+            <person xml:id="JP-004104" n="3"/>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-002711" n="1"/>
+            <person xml:id="JP-002678" n="1"/>
+            <person xml:id="JP-002681" n="2"/>
+            <person xml:id="JP-002682" n="1"/>
+            <person xml:id="JP-003112" n="2"/>
+            <person xml:id="JP-000225" n="1"/>
+            <person xml:id="JP-000634" n="1"/>
+            <person xml:id="JP-002684" n="1"/>
+            <person xml:id="JP-004106" n="1"/>
+            <person xml:id="JP-004103" n="2"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005586" n="5"/>
+            <place xml:id="JP-005665" n="2"/>
+            <place xml:id="JP-006395" n="2"/>
+            <place xml:id="JP-006416" n="2"/>
+            <place xml:id="JP-006140" n="1"/>
+         </listPlace>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010648" n="2"/>
+            <bibl xml:id="JP-010806" n="2"/>
+            <bibl xml:id="JP-010727" n="2"/>
+            <bibl xml:id="JP-010794" n="1"/>
+            <bibl xml:id="JP-010540" n="1"/>
+            <bibl xml:id="JP-010762" n="2"/>
+            <bibl xml:id="JP-010728" n="2"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

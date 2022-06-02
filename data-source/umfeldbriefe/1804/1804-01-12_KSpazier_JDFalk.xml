@@ -67,7 +67,7 @@
                     ganzes Blatt zu füllen, dazu reichte <seg type="comment"><orig>der
                             Beitrag</orig><note xml:id="nv4x_nfm_rnb">Falks Texte "Herders
                             Totenopfer" und sein Wechselgesang "Der Wanderer von der Ostsee",
-                            erschienen in der <bibl key="JP-009809" subtype="werk">ZeW</bibl> vom 3.
+                            erschienen in der <bibl sameAs="JP-009809" subtype="werk">ZeW</bibl> vom 3.
                             Januar 1804 (Nr. 1, Sp. 2-4 und 4-6). </note></seg> nicht hin. Meine
                         <bibl sameAs="JP-009809" subtype="werk">Zeitung</bibl> ist ein Ungeheuer,
                     das viel frißt; ich empfinde das. Eine besondere Vignette lies sich noch weniger
@@ -81,7 +81,7 @@
                         <orig>Trauerspiel</orig>
                         <note xml:id="nkdg_bk2_kkb">Falks Texten folgte eine Besprechung der
                                 <placeName key="JP-005586">Berliner</placeName> Aufführung von
-                                <persName key="JP-003737">Schillers</persName> "<bibl key="JP-012141" subtype="werk">Braut von Messina</bibl>",<note><bibl sameAs="JP-009809" subtype="werk">ZeW</bibl> vom <date when="1804-01-03" calendar="#Gregorian">3. Januar 1804</date>
+                                <persName key="JP-003737">Schillers</persName> "<bibl sameAs="JP-012141" subtype="werk">Braut von Messina</bibl>",<note><bibl sameAs="JP-009809" subtype="werk">ZeW</bibl> vom <date when="1804-01-03" calendar="#Gregorian">3. Januar 1804</date>
                                 (Nr. 1, Sp. 6-8).</note>
                         </note>
                     </seg>
@@ -100,10 +100,10 @@
                             </hi> u <hi rendition="#aq">
                                 <persName key="JP-001000">Ersch</persName>
                             </hi> an den Hals geworfen haben</orig><note xml:id="nitg_3ft_rnb">Der
-                            Rhetorikprofessor und Herausgeber der "<bibl key="JP-010170" subtype="werk">Allgemeinen Literaturzeitung</bibl>" <persName key="JP-003893">Christian Gottfried Schütz</persName> und der
+                            Rhetorikprofessor und Herausgeber der "<bibl sameAs="JP-010170" subtype="werk">Allgemeinen Literaturzeitung</bibl>" <persName key="JP-003893">Christian Gottfried Schütz</persName> und der
                             Historiker <persName key="JP-001000">Johann Samuel Ersch</persName>
                             hatten Injurienprozesse gegen Karl Spazier wegen eines Artikels in der
-                                <bibl key="JP-009809" subtype="werk">ZeW</bibl> vom 4. Oktober 1803,
+                                <bibl sameAs="JP-009809" subtype="werk">ZeW</bibl> vom 4. Oktober 1803,
                             Nr. 119, Sp. 948-950 angestrengt, in dem Spazier schrieb, der Wegzug von
                             Schütz und Ersch sei für die Jenaer Universität kein herber Verlust,
                             weil der eine aus Kränklichkeit kaum gelehrt und der andere kaum

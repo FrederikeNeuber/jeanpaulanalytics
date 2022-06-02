@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0130">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Heinrich Voß an Friedrich Freiherr de la Motte-Fouqué. Heidelberg, 14.
+                    Juni 1814, Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004520">Heinrich Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1814-06-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001138">Friedrich Freiherr de la Motte Fouqué</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+               <term xml:id="JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004520" n="1"/>
+            <person xml:id="JP-001138" n="1"/>
+            <person xml:id="JP-003612" n="3"/>
+            <person xml:id="JP-004347" n="7"/>
+            <person xml:id="JP-004524" n="3"/>
+            <person xml:id="JP-002995" n="2"/>
+            <person xml:id="JP-004516" n="1"/>
+            <person xml:id="JP-004519" n="1"/>
+            <person xml:id="JP-001639" n="1"/>
+            <person xml:id="JP-012768" n="2"/>
+            <person xml:id="JP-012585" n="1"/>
+            <person xml:id="JP-012146" n="2"/>
+            <person xml:id="JP-002489" n="1"/>
+            <person xml:id="JP-003532" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005819" n="4"/>
+            <place xml:id="JP-006166" n="2"/>
+            <place xml:id="JP-012971" n="1"/>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-005591" n="2"/>
+            <place xml:id="JP-005739" n="2"/>
+            <place xml:id="JP-006190" n="1"/>
+            <place xml:id="JP-005663" n="1"/>
+            <place xml:id="JP-006040" n="1"/>
+            <place xml:id="JP-005948" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-009533" n="1"/>
+            <bibl xml:id="JP-008066" n="1"/>
+            <bibl xml:id="JP-012464" n="2"/>
+            <bibl xml:id="JP-008425" n="2"/>
+            <bibl xml:id="JP-008411" n="1"/>
+            <bibl xml:id="JP-008416" n="1"/>
+            <bibl xml:id="JP-012487" n="1"/>
+            <bibl xml:id="JP-008211" n="1"/>
+            <bibl xml:id="JP-009990" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

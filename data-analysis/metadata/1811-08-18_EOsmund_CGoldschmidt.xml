@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1320">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 18. August 1811, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1811-08-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-001358" n="1"/>
+            <person xml:id="JP-003990" n="1"/>
+            <person xml:id="JP-003991" n="3"/>
+            <person xml:id="JP-003989" n="1"/>
+            <person xml:id="JP-012438" n="1"/>
+            <person xml:id="JP-012041" n="1"/>
+            <person xml:id="JP-013693" n="1"/>
+            <person xml:id="JP-012295" n="1"/>
+            <person xml:id="JP-012576" n="1"/>
+            <person xml:id="JP-003993" n="1"/>
+            <person xml:id="JP-003652" n="2"/>
+            <person xml:id="JP-012038" n="2"/>
+            <person xml:id="JP-012641" n="2"/>
+            <person xml:id="JP-004498" n="1"/>
+            <person xml:id="JP-004500" n="1"/>
+            <person xml:id="JP-000472" n="3"/>
+            <person xml:id="JP-004180" n="2"/>
+            <person xml:id="JP-004179" n="1"/>
+            <person xml:id="JP-004367" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="3"/>
+            <place xml:id="JP-006085" n="1"/>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-005668" n="1"/>
+            <place xml:id="JP-006164" n="1"/>
+            <place xml:id="JP-005745" n="1"/>
+            <place xml:id="JP-005569" n="1"/>
+            <place xml:id="JP-006266" n="1"/>
+            <place xml:id="JP-005892" n="3"/>
+            <place xml:id="JP-005755" n="2"/>
+            <place xml:id="JP-006179" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

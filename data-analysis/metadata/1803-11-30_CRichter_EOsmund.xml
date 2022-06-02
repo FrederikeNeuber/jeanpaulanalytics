@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0596">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emanuel. Coburg, Ende November oder Anfang Dezember 1803</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005649">Coburg 
+               </placeName>
+               <date notBefore="1803-11-25" notAfter="1803-12-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-002581" n="4"/>
+            <person xml:id="JP-003490" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005649" n="1"/>
+            <place xml:id="JP-005574" n="2"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0788">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Alfred von Schlichtegroll an Max Richter. München, zwischen 12. und 24.
+                    Oktober 1819, Dienstag und Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003774">Alfred Schlichtegroll</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date notBefore="1819-10-12" notAfter="1819-10-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003774" n="1"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-004281" n="3"/>
+            <person xml:id="JP-999999" n="4"/>
+            <person xml:id="JP-003771" n="3"/>
+            <person xml:id="JP-003778" n="1"/>
+            <person xml:id="JP-000831" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-002531" n="1"/>
+            <person xml:id="JP-004264" n="1"/>
+            <person xml:id="JP-002694" n="1"/>
+            <person xml:id="JP-004630" n="1"/>
+            <person xml:id="JP-002744" n="1"/>
+            <person xml:id="JP-004086" n="1"/>
+            <person xml:id="JP-012755" n="1"/>
+            <person xml:id="JP-002206" n="1"/>
+            <person xml:id="JP-004233" n="1"/>
+            <person xml:id="JP-000047" n="1"/>
+            <person xml:id="JP-000641" n="1"/>
+            <person xml:id="JP-001833" n="1"/>
+            <person xml:id="JP-004293" n="1"/>
+            <person xml:id="JP-003234" n="1"/>
+            <person xml:id="JP-012689" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006040" n="1"/>
+            <place xml:id="JP-012839" n="2"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-011942" n="1"/>
+            <bibl xml:id="JP-012340" n="1"/>
+            <bibl xml:id="JP-012062" n="1"/>
+            <bibl xml:id="JP-008020" n="1"/>
+            <bibl xml:id="JP-008018" n="1"/>
+            <bibl xml:id="JP-012003" n="1"/>
+            <bibl xml:id="JP-008775" n="1"/>
+            <bibl xml:id="JP-009898" n="1"/>
+            <bibl xml:id="JP-012226" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

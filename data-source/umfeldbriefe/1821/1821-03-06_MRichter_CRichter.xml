@@ -178,7 +178,7 @@
                         <del rendition="#s">das</del>
                         <add place="superlinear" hand="#author">dieser Mangel</add>
                     </subst> ist hier der aller empfindlichste. Ich wünschte die mir unentbehrliche
-                        <seg type="comment"><orig><bibl key="JP-012027" subtype="werk">Geschichte
+                        <seg type="comment"><orig><bibl sameAs="JP-012027" subtype="werk">Geschichte
                                 der Roemer</bibl> von <hi rendition="#u" hand="#author" cert="high"><persName key="JP-011785">Niebuhr</persName></hi> in 2
                             Bänd.</orig><note xml:id="nzbz_1ms_fnb">Barthold Georg Niebuhrs
                             "Geschichte der Römer" erschien zuerst 1811 und 1812 in zwei Bänden, der

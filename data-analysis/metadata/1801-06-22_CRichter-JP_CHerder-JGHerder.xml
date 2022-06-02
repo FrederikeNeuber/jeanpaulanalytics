@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0710">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Caroline und Johann Gottfried Herder mit
+                    Nachschriften von Jean Paul. Meiningen 22. Juni 1801, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1801-06-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001670">Caroline (von) Herder</persName>
+               <persName key="JP-001675">Johann Gottfried (seit 1801) von Herder</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="2"/>
+            <person xml:id="JP-999999" n="5"/>
+            <person xml:id="JP-001670" n="1"/>
+            <person xml:id="JP-001675" n="2"/>
+            <person xml:id="JP-002546" n="1"/>
+            <person xml:id="JP-000090" n="1"/>
+            <person xml:id="JP-002549" n="1"/>
+            <person xml:id="JP-001289" n="1"/>
+            <person xml:id="JP-004864" n="1"/>
+            <person xml:id="JP-001678" n="2"/>
+            <person xml:id="JP-000400" n="1"/>
+            <person xml:id="JP-000924" n="1"/>
+            <person xml:id="JP-001676" n="1"/>
+            <person xml:id="JP-001393" n="2"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006012" n="3"/>
+            <place xml:id="JP-005956" n="1"/>
+            <place xml:id="JP-005716" n="1"/>
+            <place xml:id="JP-006395" n="2"/>
+            <place xml:id="JP-005670" n="1"/>
+            <place xml:id="JP-005987" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-008611" n="1"/>
+            <bibl xml:id="JP-008680" n="2"/>
+            <bibl xml:id="JP-008693" n="1"/>
+         </listBibl>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010897" n="3"/>
+            <bibl xml:id="JP-010794" n="2"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

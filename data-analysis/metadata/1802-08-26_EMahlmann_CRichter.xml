@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0683">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Caroline Richter. Leipzig, 26. August 1802, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-08-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012274">Hauswesen</term>
+               <term xml:id="JP-012449">Kinder</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-012261" n="1"/>
+            <person xml:id="JP-002583" n="8"/>
+            <person xml:id="JP-002703" n="5"/>
+            <person xml:id="JP-012036" n="1"/>
+            <person xml:id="JP-000046" n="1"/>
+            <person xml:id="JP-012897" n="1"/>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-999999" n="2"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005948" n="3"/>
+            <place xml:id="JP-005754" n="2"/>
+            <place xml:id="JP-005586" n="2"/>
+            <place xml:id="JP-012978" n="1"/>
+            <place xml:id="JP-012811" n="1"/>
+            <place xml:id="JP-005578" n="1"/>
+            <place xml:id="JP-005687" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

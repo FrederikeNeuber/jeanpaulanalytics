@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0720">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Dresden, 19. Juni 1821,
+                    Dienstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1821-06-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-000948" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="5"/>
+            <person xml:id="JP-002482" n="1"/>
+            <person xml:id="JP-003884" n="2"/>
+            <person xml:id="JP-011869" n="2"/>
+            <person xml:id="JP-003830" n="1"/>
+            <person xml:id="JP-013090" n="1"/>
+            <person xml:id="JP-000949" n="2"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-003944" n="2"/>
+            <person xml:id="JP-012557" n="1"/>
+            <person xml:id="JP-012102" n="2"/>
+            <person xml:id="JP-013129" n="1"/>
+            <person xml:id="JP-013128" n="1"/>
+            <person xml:id="JP-012370" n="1"/>
+            <person xml:id="JP-012300" n="1"/>
+            <person xml:id="JP-000853" n="2"/>
+            <person xml:id="JP-004443" n="2"/>
+            <person xml:id="JP-012243" n="2"/>
+            <person xml:id="JP-003370" n="2"/>
+            <person xml:id="JP-004311" n="3"/>
+            <person xml:id="JP-003483" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005687" n="2"/>
+            <place xml:id="JP-005819" n="2"/>
+            <place xml:id="JP-006244" n="1"/>
+            <place xml:id="JP-005574" n="4"/>
+            <place xml:id="JP-005743" n="1"/>
+            <place xml:id="JP-005969" n="2"/>
+            <place xml:id="JP-005696" n="1"/>
+            <place xml:id="JP-005602" n="1"/>
+            <place xml:id="JP-005890" n="1"/>
+            <place xml:id="JP-005748" n="1"/>
+            <place xml:id="JP-006002" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010302" n="1"/>
+            <bibl xml:id="JP-010290" n="1"/>
+            <bibl xml:id="JP-008098" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

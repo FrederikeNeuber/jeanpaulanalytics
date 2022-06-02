@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1156">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Konstantin Karl von Falkenstein. Bayreuth, 17.
+                    Februar 1826, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1826-02-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001034">Konstantin Karl von Falkenstein</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-011807">Jean Paul-Verehrung</term>
+               <term xml:id="JP-012693">Personalien</term>
+               <term xml:id="JP-012572">Verlage / Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-001034" n="1"/>
+            <person xml:id="JP-001175" n="1"/>
+            <person xml:id="JP-013372" n="2"/>
+            <person xml:id="JP-013477" n="1"/>
+            <person xml:id="JP-013371" n="2"/>
+            <person xml:id="JP-999999" n="4"/>
+            <person xml:id="JP-004107" n="6"/>
+            <person xml:id="JP-004104" n="2"/>
+            <person xml:id="JP-000008" n="2"/>
+            <person xml:id="JP-000009" n="1"/>
+            <person xml:id="JP-003250" n="1"/>
+            <person xml:id="JP-000196" n="3"/>
+            <person xml:id="JP-004311" n="2"/>
+            <person xml:id="JP-003370" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="3"/>
+            <place xml:id="JP-006222" n="1"/>
+            <place xml:id="JP-005687" n="4"/>
+            <place xml:id="JP-013322" n="1"/>
+            <place xml:id="JP-013323" n="1"/>
+            <place xml:id="JP-013320" n="1"/>
+            <place xml:id="JP-013308" n="1"/>
+            <place xml:id="JP-005754" n="1"/>
+            <place xml:id="JP-013313" n="1"/>
+            <place xml:id="JP-005688" n="1"/>
+            <place xml:id="JP-011201" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-013509" n="1"/>
+         </listBibl>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010983" n="2"/>
+            <bibl xml:id="JP-010883" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

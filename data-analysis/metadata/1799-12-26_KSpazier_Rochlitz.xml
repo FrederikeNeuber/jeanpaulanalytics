@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0825">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Friedrich Rochlitz. Dessau, 26. Dezember 1799, Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005665">Dessau</placeName>
+               <date when="1799-12-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003532">Friedrich Rochlitz</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+               <term xml:id="JP-012317">Musik</term>
+               <term xml:id="JP-012547">Zeitschriften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004104" n="1"/>
+            <person xml:id="JP-003532" n="1"/>
+            <person xml:id="JP-003383" n="1"/>
+            <person xml:id="JP-013189" n="1"/>
+            <person xml:id="JP-000479" n="4"/>
+            <person xml:id="JP-002424" n="1"/>
+            <person xml:id="JP-013126" n="2"/>
+            <person xml:id="JP-003737" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005665" n="1"/>
+            <place xml:id="JP-006095" n="1"/>
+            <place xml:id="JP-006417" n="1"/>
+            <place xml:id="JP-005687" n="2"/>
+            <place xml:id="JP-005948" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010171" n="7"/>
+            <bibl xml:id="JP-013281" n="1"/>
+            <bibl xml:id="JP-013291" n="1"/>
+            <bibl xml:id="JP-013271" n="1"/>
+            <bibl xml:id="JP-013257" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

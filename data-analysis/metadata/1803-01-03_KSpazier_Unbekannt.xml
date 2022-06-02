@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0034">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Unbekannt. Ohne Ort, 3. Januar 1803,
+                    Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <date when="1803-01-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004373">Unbekannte
+            Korrespondent/innen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012314">Empfehlungen</term>
+               <term xml:id="JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004104" n="1"/>
+            <person xml:id="JP-004373" n="1"/>
+            <person xml:id="JP-000400" n="4"/>
+            <person xml:id="JP-002228" n="4"/>
+            <person xml:id="JP-001693" n="2"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005994" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-011894" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

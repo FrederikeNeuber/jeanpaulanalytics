@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0123">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Caroline Richter. Konradsreuth, 8. März 1819, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Emma Förster, S. 5</bibl>.</witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005918"/>
+               <date when="1819-03-08" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-012533">Lektüre(n)</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Deinen Brief bekam ich in Zetwitz , aber im Begriff wegzufahren , konnte ich ihn erst am anderen Morgen lesen ; er machte mich für den ganzen Tag glücklich . Die guten Reizensteins und Tinten ließ ich auch alle Briefe lesen . Du glaubst nicht , wie Dich Beide lieben . Erstere sagte , sie hätte ein so deutliches Bild von Dir durch die Schubert und Andere , daß sie kaum Dein Sehen brauchte . Sie sind ganz entzückt über die Briefe von Luise Schubert . Sie hat auch eine himmlische Seele und im Vergleich mit ihrer Schwester Marie verliert Letztere außerordentlich . Über Maries Kommen freue ich mich eigentlich nicht mehr so , wie ich es früher getan haben würde , und das macht mir das Schreiben an sie schwer . Ich kann nicht mehr den Himmel in Bayreuth finden , wenn sie dort ist , und das ist sie so gewohnt von mir , daß es ihr auffallen muß , wenn ich kälter schreibe und zur bloßen Wortwärme will und kann ich mich nicht bringen . Aber ich will sie doch lieben , sonst dauert sie mich zu sehr . In Zetwitz gefiel es mir neulich recht gut bei der Frau von Plotho . Sie fand mich dem Vater sehr ähnlich , besonders das Auge . Wir lesen hier bei Reizensteins recht viel , aber lauter ernsthafte Sachen ; an eine Geschichte ist nicht zu denken , bloß neulich las mir Tinette einige Stellen aus dem Faust vor . Ich entbehre aber die anderen dummen Bücher gar nicht ; es ist aber doch schlimm , daß ich entbehren sagen muß . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

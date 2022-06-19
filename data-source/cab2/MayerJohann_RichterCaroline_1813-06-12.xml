@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0816">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 12. Juni
+                    1813, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1813-06-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012048">Briefverkehr</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012430">Religion</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! ich erhalte so eben Deinen lieben Brief vom 19 . Mai , und sehe daraus , daß ein , vor ungefähr Sechs Wochen , von mir an Dich geschriebener Brief , verloren gegangen sein muß . ich hatte ihn an Frau von Kalb gegeben , um ihn durch Einlage an eine Freundin in Breslau , an Dich gelangen zu lassen . - Da Frau von Kalb mit ihrer Tochter abwesend ist , so kann ich nicht erfahren , an wen sie meinen Brief eingelegt hat ; u bedauere den etwaigen gänzlichen Verlust des Briefes um des Kummers Willen , den Dir Mangel von Nachricht von mir verursacht hat , u um der Herzens Ergießungen Willen , die sich auf Familien Verhältnisse beziehen . Was nun Deine jetzige Nachricht von der Ruhe betrifft , davon Du bisher im ganzen genossen hast , so kann mir dies nicht anders als erfreulich sein ; und wünschte ich ein gleiches von mir sagen zu können . - ich will Dich indessen mit unangenehmen Mitteilungen nicht verstimmen ; sondern sage Dir nur , daß ich gesund , und in Rücksicht des Einflusses der öffentlichen Kalamitäten auf Privat Wohlstand nicht schlimmer daran bin , als andere . Freilich ist dieser Einfluß , u der Druck meiner Privat Verhältnisse , von der Art , daß er die größte Anstrengung der Seele erfordert , um nicht durch die Furcht vor der Zukunft , an der für die Bestehung der Gegenwart erforderlichen Fassung des Gemüts , zu verlieren ; allein je schrecklicher die Folgen hiervon sein würden , je mehr strebe ich gegen jedes zu lebhafte Vorgefühl der Zukunft an . Ein Gebet um neue Stärke steigt ja zum Herrn , u der Herr erhört es gern , u an den Verlaß auf diese Erhörung , und auf die Unabwendbarkeit desjenigen , was das unerbittliche Schicksal einmal in den Plan meines Lebens verwebt hat , so wie an den festen Willen , mich selbst so weit möglich dabei Vorwurfs frei zu erhalten , stemme ich mich an , so oft das Gefühl meiner Leiden für meine Besonnenheit zu stark zu werden , drohet . - Über Minna werde ich Dir besonders Nachricht geben . Emma ist noch auf der Louise Stiftung und wird immer besonnener . Die Briefe an sie habe ich ihr zugestellt . Julius ist noch bei mir , u ein Land Stürmer mit der Picke . ich hoffe , daß er wenigstens seine Schule Studien zu vollenden , Zeit behalten soll . Er ist für die seinigen zu wichtig , um nicht für eine solide bürgerliche Existenz ausgebildet zu werden . Er ist u bleibt brav . Meine Frau ist gesund , und grüßt Dich . Meine Schwester ebenfalls . Den Brief an Fräulein v. Kalb habe ich einem nach Frankfurt an d/ O heute abgehenden Offizier mitgegeben , weil erstere dort ist . Sollte sie schon weg sein , wird er mir den Brief zurückschicken . Der junge Kalb ist wie sein Bruder bei der Armee . Von Deines Mannes u Deiner Kinder Befinden sagst Du nichts . ich nehme sie also für sich wohlbefindend an ; und bitte sie zu grüßen ; Lebe wohl , küße Deine Kinder , u liebe Deinen treuen Vater Mayer . Den Tod des Präsidenten v Gerlach wirst Du erfahren haben . Stürme des Schicksals auf sein Gemüt , haben seinen eisenfesten Körper zerstört . Sein Ehre Gefühl litt durch Amts Veränderungen , u seinen Privat Wohlstand hat er durch einen unglücklichen Guts Kauf zum Teil eingebüßt . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

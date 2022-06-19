@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0055">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 7. März
+                    1812, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 1⅔ S. Auf S. 4 Adresse: An | die Frau <hi rendition="#aq">Legations</hi> Räthin <hi rendition="#aq">Richter</hi> | geb<ex>orene</ex>
+                           <hi rendition="#aq">Mayer</hi>. | in | <hi rendition="#aq">Bayreuth</hi>. Sowie Postzeichen: 4; frey | Hof; 99 und
+                                    Siegelreste.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1812-03-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note>Briefpapier mit Wasserzeichen.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012211">Finanzen</term>
+               <term corresp="#JP-013011">Jean Pauls Präbende</term>
+               <term corresp="#JP-013487">Jean Pauls Pension </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! Dein letzter Brief ist vom 21. January und ich bitte Dich um Entschuldigung , wenn ich erst jetzt antworte . Auch hast Du durch Minna in der Zwischen Zeit Nachricht von mir . Erst also innigste Teilnahme an der Zufriedenheit mit Deinem Schicksal ; die ich auch nicht einmal durch irgend eine Äußerung über mich unterbrechen will . Gott erhalte mir nur Stärke der Seele , so kann der letzte Rand meines Lebens noch Blumen für mich tragen . Möge er doch zum besten derer , deren Augen auf mich harren , noch fern sein . Denn ich will ja gern bloß für andere gelebt haben . Gern hätte ich gesehen , wenn Dein Mann die vielleicht einzige Gelegenheit , sich die Pension des Herrn Fürsten Primas zu sicheren , auch wenn dieser nicht mehr sein wird , hätte benutzen können . Allein er hat gewiß gute Gründe gehabt . Möchte ihm nur hier die verheißene Pension zu Teil werden . Herr v. Schukmann meinte neulich , es stände alles gut . Wenn Du mir schreibst , so erwähne doch , ob Du die zu Weihnachten assignierten 10 rth nun endlich von des Geheimen R. Pfeiffers Geschäfts Träger erhoben hast . ich wollte Herrn Pfeiffer gern das Geld zahlen , u er will es nicht eher annehmen , als bis er weiß , daß Du es erhalten hast . Vergiß dies nicht . Meine Frau ist gesund ; auch Minna u ihre Kinder . ich drücke Dich an mein Herz , bitte Deinen Mann u Herrn Prof. Seebek zu grüßen , u küße Deine Kinder . Dein treuer Vater Mayer Meine Frau grüßt herzlich . - Sie leidet jetzt bei der Lebens Gefahr Ihrer kranken Freundin Spalding . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

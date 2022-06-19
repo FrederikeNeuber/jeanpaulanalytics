@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0311">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Johannes Daniel Falk. Leipzig, 22. Juli
+                    1804, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">15/II,1D,13</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, </p>
+                        <p>4 S. Schluss fehlt.</p>
+                        <accMat>Nicht überlieferte Erklärung der Weimarer Hofschauspieler
+                                    zur Kontroverse um die "Prinzessin mit dem Schweinerüssel". </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1804-07-22" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012601">Juristische
+                        Angelegenheiten</term>
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+               <term corresp="#JP-012547">Zeitschriften</term>
+               <term corresp="#JP-012740">Theaterleben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Bravissimo ! liebster Falk . Die Zeitungsberichte sind exzellent . Vorerst habe ich nach Ihrem guten Ermessen den Beckerschen Brief mit Ihrem Anhang abdrucken lassen , u in nächster Woche sollen jene allerliebst witzigen Sachen folgen . Ich muß Ihnen sagen , daß drei Tage nach Übersendung meiner Antwort an Becker , mit ihm noch zwei Herren , ( Cordemann , den Namen des dritten habe ich überhört ) mir persönlich aufgewartet haben . Die Leute waren übrigens ungemein artig , u ich nahm sie , wie die Ganze Sache heiter . Als Deputierte brachten sie mir die von 13 Schauspielern unterzeichnete Erklärung , wovon ich Ihnen die Kopie beilege . Ich beschied sie dahin , daß ich diese Erklärung dem Einsender erst zuschicken wolle , womit sie zufrieden waren . Sie ist aber nun überflüssig . Aber was werden sie hinterher sagen ! Ich bin fest bei der Anonymität geblieben . Sie munkelten unterdes davon , daß Sie nicht denken könnten , daß F. der Einsender wäre . Die , welche das Pereat ausgebracht , wären bereit sich zu nennen : Aber es sei unwahr ( dabei blieben sie ) daß es alle gewesen wären ; auch hätte Niemand von ihnen das Verbot bei der Direktion bewirkt . Die Patrons haben gut reden . Sie werden von meinen Prozessen mit Schütz u Ersch wissen , die ich seit Ende vor . Jahres gehabt habe . Trotz aller meiner Verteidigung des Inserats , trotz aller Dokumente daß Schütz kränklich gewesen u oft seine Vorlesung ausgesetzt , trotz der 4 herzoglichen Berufungsschreiben an Eichstät , worin Schützens Kranklichkeit , ja in dem Meiningschen sogar seine Vernachlässigung d Amts zum Grund angegeben wird , hat diese Sache für mich doch die schändlichste Wendung genommen . Ich bin vorgestern von dem hiesigen Schoppenschaft kondemniert , gerichtlich Abbitte zu tun , öffentlich zu widerrufen , 20 rth . Strafe zu zahlen u die Unkosten ( von 15 rth . 16 ) zu tragen . Schändlich ! himmelschreiend ungerecht ! Ich will nicht appellieren , lasse aber nun den ganzen Prozeß drucken . Der Bürgermeister Einert ist mein persönlicher Feind , er hat , der höchsten Wahrscheinlichkeit nach , das Urteil abgefaßt : man spricht sogar darüber . Ich kann das nicht beweisen u will keine Weitläufigkeiten mehr haben . Also unterwerfe ich mich . Schütz wird im höchsten Grad lächerlich werden , da ich mir in meiner Defension alle Mühe gegeben habe , mich über den Ganzen Bettel lustig zu machen . Aber gern möchte ich , daß Allerhand indirekt geschähe . Dazu wäre nun nichts besser , als Satire . Helfen Sie mir mit Ihrem köstlichen Satyr , lieber Falk . Ersinnen Sie Schwänke , Epigramme u dergleichen </p>
+         </div>
+      </body>
+   </text>
+</TEI>

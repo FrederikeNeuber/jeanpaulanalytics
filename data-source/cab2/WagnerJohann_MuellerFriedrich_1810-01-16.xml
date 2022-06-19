@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1082">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 16. Januar 1810,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/618, Bl 25-26</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1
+                                    Bl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1810-01-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-012330">Literarisches Leben und Schaffen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Den innigsten Dank , Bester , für Ihr freundliches Andenken und Begrüßen durch den schönen zwischen den Tiroler Wänden herrlich gebräunten Bruder ! - Wie triumphier ich über Ihr und der freundlichsten aller Frauen Wohlsein ! - An mir ist nicht viel mehr als Haut und Knochen , und es geht so ziemlich vorwärts , daß mein Ziel wohl in den schweren Würzlüften des Frühlings schimmern dürfte , wenn nicht etwa die Kälte es früher steckt . Aber , wie Gott will , der gute Gott , den ich ewig glaube , dem ich mich ergab ! - Heiter und vergnügt bin ich , und selig wie immer ! Auch arbeite ich noch mit Heiterkeit - und wenn ich Ihnen zur Omesse nichts mehr bringen kann , so will ich es doch dem ehrlichen Cotta noch anbefehlen - nur geht das Arbeiten sehr langsam bei meiner zunehmenden Schwäche . Meine teure Familie befehle ich Gott und der lieben freundlichen Menschheit , an die ich , wie Sie wissen , stets glaubte . Die Sorgen deshalb bleiben freilich öftere Besucher - doch behält der süße hoffende Glaube immer noch die Oberhand , so wie der Gedanke : daß doch noch schlimmere Sachen unabänderlich sind . - Meine Knaben habe ich in Gottes Namen der Malerei beide gereicht ; wenn ich nur noch 2-3 Versuche von ihnen geprüft haben werde , so wird mein Entschluß fest stehen . Der jüngere ( Sie kennen ja die beiden Geliebten - beide schön und freundlich und kräftig wie der Tag ! ) hat die glückliche Anlage zum Treffen , und mag Porträt- und Historienmaler werden , ich finde bei ihm gottlob sogar etwas mehr als Talent , nämlich Genie . Der ältere schwankt noch zwischen Landschafts- und Kopfzeichnung , und ist von großem Willen und Fleisse . Beide sollen sich nach meinem Willen vor der Hand nicht trennen , und die Teuren versprechen mir dies . - Es müsste nicht gut sein , wenn zwei einige Brüder nicht forkämen ! - Wandern sie einst durch Weimars geliebte Tore - - o dann , mein allerbester Müller , wehe mein Andenken freundlich um Sie und Minna , und gebe Ihnen den Gedanken des Schutzes für die der Kunst entgegenstrebenden ! Versprechen Sie mir das , alter deutscher Herzensfreund ! - Meine Tochter und meine Witwe wird Gott und meine wahrhaft edle ( ach , warum nicht reiche ! ) Fürstin schützen - und die Knaben - wenn sie so fortfahren , werden Jenen bald Hilfe leisten können . - O , mein Müller - welcher herrliche göttlich schöne Spruch ist doch der : " Ich habe noch nie sehen des Gerechten Samen nach Brot gehen ! " - Zwar : Gott , wer ist gerecht ? Aber ich war redlich - und meinen kleinen Hügel wird kein Fluch erschüttern ! Die guten Menschen haben mich mehr geliebt , als ich verdiente - und mir ist kein Feind kund geworden . - So , Freund , so ist es denn möglich geworden , daß ich dennoch auch jetzt heiter bin . Mein heißestes Gebet ist um Geduld für die sich nähernden vielleicht langsamen Kämpfe der letzten Stunden . O über die gute , edle , verwaiste Frau von Wollzogen ! Immer drängt es mich , ihr zu schreiben , mit ihr zu weinen - aber ich wage es nicht , ihren bitteren Schmerz zu schärfen ! Geben Sie ihr doch meinen innigsten Gruß ! Auch der edlen Frau von Schiller . Ist es einmal an seiner Stelle , so danken Sie doch dem göttlichen Goethe in meinem Namen , daß er uns , noch weil ich genießen konnte , die Wahlverwandtschaften gab ! - Es freut mich recht insgeheim , daß diesmal die Philister ( in Halle ) zuerst sein Lob ( auf ihre Art ) geben und posaunen - denn nun weiß der geniale " Arme Mann " in Deutschland - der es noch nicht kaufen konnte , doch einstweilen , woran er ist , und kann desto eifriger Geld zum Ankaufe sparen . - Dank ihm , der göttlichen Seele , für jede hohe Gabe , die mich auf Erden erquickte ! Ade ! Ade ! Ich Grüße die teure Gattin ! Bis zum letzten Augenblick , und dort ewig Ihr treuer JEWagner . Schreiben Sie mir doch einmal - ich liebe Sie so sehr ! Warum bekomme ich meinen Fichte nicht ? </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1274">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 5. April 1806,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>ehemals Slg. Apelt</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1806-04-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011893">Berufliches</term><term xml:id="JP-012590">Bittschreiben</term><term xml:id="JP-012543">Dank</term><term xml:id="JP-012211">Finanzen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine gute Car . ! Am ersten dies kam ich v. meinem Gute nach Hause u fand Ihren lieben Brief v. 28t Febr . erst , der an demselben Tag angekommen war , zugleich mit Ihrem lieben v. 25t Mart . Für beide danke ich Ihnen herzlich u besonders f. die mühsame Abschrift der humboldischen Rede , die ich noch nicht lesen konnte . Car . , ich erkenne diesen Beweis Ihrer Güte , den S. mir durch diese Selbstabschrift gegeben haben ganz ; ab. geben S. mir keinen ähnlichen mehr ; ich bitte S. darum ! Als ich Ihnen meine Freude über Ihre Zurückkunft in Berlin schrieb , dachte ich weder an die Schwester noch an die Kinderfreundin , sondern nur an die Künstlerin . Meine beschäftigen vermehren sich , was mich um so mehr freut , weil ich bald meinen Israel mit Anteil nehmen lassen kann . Eigentlich Arbeit ich am liebsten - nach den höchsten moralischen Prinzipien - bloß der Arbeit , sonst keines Lohnes oder Verdienstes wegen am liebsten ; ab. so bald man die Gefahr des Verlustes bei einem Geschäfte übernimmt , dann muß man auch den Reiz des Vorteils genießen u haben . Ich habe leider ! einen Grund mehr auf Vorteil bei meinen Geschäften zu sehen , weil man mich f. zu gut u zu reich d. h. f. mehr gut u mehr reich hält , als ich beides nicht bin und auch nur das erstere sein möchte . Nach Zu meinen eigenen Bedürfnissen habe ich Vermögen genug , selbst um meinen Menschen bisweilen eine kleine Freude zu machen , selbst dieses - mein größtes und erstes Bedürfnis zu befriedigen , selbst dazu wäre ich reich genug ; ab. die beständigen Verlangen - die Zumutungen meiner - oft nur so genannten Freunde , oft nur die Freunde meiner Freunde zu erfüllen , dazu braucht ' ich weit u viel mehr Reichtum , als ich mir zu besitzen wünsche . So viel kann ich doch nie besitzen , als ich weg zu geben mir stets wünschen würde ; zu was soll ich mir also mehr wünschen - als ich jetzt habe u brauche ? Ich unternahm einige Jahre kein wichtiges Geschäft , weil ich außer vielen anderen Ursachen auch noch die hatte ruhiger und eingezogener leben zu können - zu wollen . Aber " der Mann muß sehr reich sein , er lebt v. seinem Gelde " sagen die Menschen u vermehren ihre Wünsche in eben den großen Schritten , als des Mannes Vermögen abnehmen muß . Der Man arbeitet nun wieder u zwar als ein ehrlicher , damit er einer bleiben kann . Ihnen darf ich dieses u dürfte ich mündlich noch viel mehr sagen ; aber der Fr. v. Kalb sagen Sie bloß , daß es mir recht leid täte , ihr das Geld nicht verschaffen zu können . Lieber wollte ich ihr selbst dieses sagen , als es Ihnen ihr sagen lassen . Thieriot war 4 Wochen b. mir u ist jetzt in Weimar . Nach den Feierten gehe ich wieder auf die Arbeit . Piks Briefe gefallen mir nicht . Schriftlich verlange ich doch mehr als mündlich . Wollen Sie mir ihn grüßen ? Jette u Thieriot grüßen Sie. M. Uhlf. u m. Bruder grüßen Sie herzlich , doch dankt Ihnen u grüßt Sie kein Mensch noch inniger u noch herzlicher u noch reiner , als E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

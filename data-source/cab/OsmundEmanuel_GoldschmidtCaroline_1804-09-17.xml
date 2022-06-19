@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0455">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 17. und 18. September 1804,
+                    Montag und Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="copy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. Kopie von Thieriots Hand.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1804-09-17" to="1804-09-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012583">Briefabfassung</term>
+               <term corresp="#JP-012274">Hauswesen</term>
+               <term corresp="#JP-011804">Bayreuther Gesellschaft</term>
+               <term corresp="#JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Gute Caroline ! Wenn Sie mein Schweigen nur die Hälfte so fühlten wie ich so schmerzt mich_es noch mehr . Kein Posttag verging seitdem ich Ihren lieben Brief v. 1ten August habe , an dem ich ihn nicht beantworten wollte . Unterdessen kamen Richters hier an , für deren Unterbringung ich zu sorgen und ein wenig Sorge wirklich hatte ; ich werde mit der Einrichtung meiner eigenen Wohnung auch erst heute fertig und so wurde ich beständig gehindert schriftlich bei Ihnen zu sein . Noch habe ich in diesem Augenblick 3 Arbeitsleute bei mir , den vierten erwarte ich und den fünften habe ich schon entlassen können ; aber ich bin so froh , so rein froh , so kindlich - nicht kindisch - froh , daß ich heute aus den Händen der Handwerker besonders der Handwerkerinnen komme , daß Sie es wissen müssen , Caroline ! Meine Freude war gestern zu frühe : heute soll sie mir erst ganz zugeteilt werden . So gar Ihnen fortzuschreiben erlaubte man mir nicht . Aber heute soll mich durchaus nichts hindern . Car . ! In einigen Wochen kann ich Ihnen durch meinen lieben Bruder schreiben , der also eher als ich nach Berlin kommt , allein ich schreibe durch ihn gewiß auch . Ihre einige Zeilen , mit denen Sie mir einen Frn . Ruschweile empfohlen haben , bekam ich zugeschickt mit folgenden Worten vermehrt : " Ich bedaure sehr - Ferd . Ruschw . " Und so half mir der Empfohlene doch zu einem Brieflein von Ihnen . Ohne Leiden gehabt zu haben , erkennen wir die Freuden , die wir haben , nicht . Selbst meine gegenwärtigen Freuden werden mir durch meine gegenwärtige Leiden versüßt ; so wie hingegen diese durch jene verbittert . So wie wir die Gerechtigkeit der Vorsehung überall finden müssen z. B. daß wir gerade von diesen Menschen Dasein , daß wir gerade diese Erziehung bekommen , daß wir gerade diese Menschen zu Freunden gefunden haben u. s. alles ; so müssen wir sie auch darin finden , daß wir gerade diese Leiden und nicht die unseres Nachbars haben . Der Egoismus läßt mich wirklich glauben ich habe Leiden wie sie kein Leidender hat - ich wünschte sie keinem Sterblichen so ; aber meine Freuden , mein Wesen , mein Mensch machen mir Alles erträglich . Mündlich möchte ich diese Stelle in Ihrem Briefe : über Leiden , beantworten und es gewiß besser können . Doch sind wir gewiß auch schweigend einig . Ich schließe mich an Sie an und dulde , leide und strebe und hoffe ! Herzlichkeit ist auch in den kleineren Städten wenig mehr , herzliche Carol ! In Bayr . würden Sie sie in einigen Menschen gewiß finden ; aber die Künstlerin Carol . wäre hier beinahe wie Robinson auf seiner Insel . Einige Kunstliebhaber abgerechnet , die selbst aber nur hier diesen Namen verdienen , ist nicht einmal eine bettelnde Kunst hier ; denn nicht einige Brosamen wirft man ihr zu , von der sie sich nähren könnte . Richters u. Tier . sind gesund und wohl hier : wir leben ein einfaches , ruhiges Leben zusammen u. oft war meine Berliner Freundin der Gegenstand unserer Unterhaltung . Von dem was ich Ihnen von Regensburg aus über mein Verhältnis geschrieben können Sie mit keinem Menschen als mit mir sprechen , Car . Alles küßt und grüßt Sie , Alles verehrt , liebt und achtet Sie , Alles durch mich . Die Jette will nächstens danken . Emanuel </p>
+         </div>
+      </body>
+   </text>
+</TEI>

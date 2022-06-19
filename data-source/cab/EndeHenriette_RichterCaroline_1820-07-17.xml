@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0323">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Dresden, 17. Juli 1820,
+                    Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1820-07-17" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012284">Heidelberger Freundeskreis</term>
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012449">Kinder</term>
+               <term corresp="#JP-013026">Heidelberger Gesellschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teure Freundin Wenn ich mich freute , Ihnen den Dr. C. der Ihnen einen grünen Brief von mir , nebst einer Inlage an Fr. v. Lochner zu überbringen bekam und dann seinen Aufenthalt noch verlängerte nur in einem guten Licht zu nennen hatte , so erfordert die Gewissenhaftigkeit , welche noch obendrein belebt wird , durch den Eifer und die Sorge der Freundschaft , daß ich eine , jenem Lichte folgende dunkle Stelle , Ihnen nicht unbekannt lasse , indem dieselbe zur Bestimmung der Grenze gehört , welche S je und Ihr lieber Mann im Fall C. in Bayreuth sich aufhalten sollte , wo er gewiß das öftere Kommendürfen in Ihr Haus , sehr nachsuchen wird , dem Umgang mit ihm setzen werden . Er scheint wenigstens nicht die Meinung des mir immer sehr treffend vorkommenden französischen Sprichwort's zu haben : " celui qu'on plaisante , est le meilleur juge de la plaisanterie " wenn ich auch sein Betragen nicht noch einer außerordentlichen Unbescheidenheit Schuld geben mag . Mein Sohn , aus sehr nötiger Vorsicht , nach einigen Fällen wo Fußgänger in der Nähe der Stadt Abends angefallen wurden , trägt des Abend's beim späten Nachhausekommen aus der Stadt , da unser Garten-Haus in den Feldern liegt , einen Dolch bei sich , diesen sieht C. neulich bei meinem Sohn auf dem Tisch liegen , er gefällt ihn , er bemächtigt sich desselben und erklärt , daß er ihn behalten würde indem er ihn auf seiner Reise noch nötiger brauchen könnte als mein Sohn , dieser protestiert zwar dagegen , hält es aber doch nur für Spaß und , als er C. nachdem er ihn bis ans äußere Tor begleitet , verläßt , bittet er ihn nun ernstlich um Zurück-Gabe des Dolches , welche jener aber verweigert ; er kommt darauf wieder einmal zu meinem Sohn , der den Dolch wieder abfordert , jedoch zur Antwort erhält , er habe ihn nicht bei sich ; mein Sohn ließ nun auf das bisherige kordiale Betragen , kalte Höflichkeit eintreten und der Dolch kam doch nicht zurück , wenn gleich C. am Ende sagte , vor seiner Abreise wolle er ihn wieder geben ob dieses nun noch einst geschehen wird ist ungewiß , aber auf alle Fälle das vorangegangene Betragen Unrecht ; in diesem Benehmen scheint mir eine widerliche Rohheit zu liegen , im starken Gegensatz gegen das übrigens abgemeßene Betragen um so mehr , da C. so wie alle Bekannte meines Sohnes , auf's freundlichste von ihm aufgenommen wurde , so oft er zu ihm kam und auch von mir , als er meine Bekanntschaft machte , um sich eines schriftlichen Auftrages aus Heidelberg zu entledigen . Wenn gleich die Sache an sich nicht bedeutend ist , so hielt ich es jedoch für wichtig , die sich offenbarte Fähigkeit dieses Mannes , einem seiner Freunde ohne gereizt worden zu sein , so unangenehme Empfindungen zu machen Ihnen kund zu tun ; früher wäre mein Sohn die größte Wette eingegangen , daß C. eines solchen Betragens gewiß unfähig wäre . Diesen Abend erwarte ich zum Thé die hierdurchreisende Fr. v. Krüdener welche in Heidelberg durch den Magnetismus kuriert wurde und die Ihr lieber Mann auch kennt . Dieser Brief ist übrigens eine Art von Wiederruf , denn sogar einen Titel habe ich zu widerrufen , Herr v. Herder ist nämlich nicht Ober-Berghauptmann sondern Vize-Berghauptmann , jedoch dabei alles in Allem in diesen Departement . Ich muß schließen , aber nur erst nach den herzlichsten Empfehlungen meines Sohnes an Sie , meine gute liebe Freundin und von uns beiden an Ihren lieben Mann und lieben Kinder . Ewig die Ihrige H.E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

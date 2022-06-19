@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0461">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 2. Dezember 1803, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Bl., 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1803-12-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0409">Von Caroline Goldschmidt an Emanuel.
+                        Nach dem 2. Dezember 1803</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012212">Liebesleben / Ehe</term>
+               <term corresp="#JP-012278">Freundschaften</term>
+               <term corresp="#JP-012349">Reflexionen über das Leben</term>
+               <term corresp="#JP-012265">Geschlechterrollen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Gute , rechte gute Car . ! Ihre Briefe werden immer schöner u besser u mir , je mehr wir uns in ihnen deutlicher werden , noch lieber u noch werter . Goethes Rat würde mir noch mehr gefallen , wenn er uns lieber sagte , daß wir ohne " den stillen reinen Wink des Herzens p " keinen Schritt tun , als daß wir ihn noch zu gehen lernen sollen . Nicht immer , ich wiederhole mich gerne selbst , dürfen wir diesen " stillen reinen Winken nachgehen " , ab. sie müssen vorangehen , wenn wir gehen , wenn wir sicherer gehen wollen u sollen . Wie weit wir ihnen nachgehen sollen , das ist schon schwerer zu bestimmen , da sie auf dem Wege schon lauter , schon unreiner , schon befehlender , schon anmaßender sind u es zusehends u zufühlend mehr werden . Ich dächte , l. C. , man könnte eben so gut vor diesen " stillen p " warnen , u wider sie stille reine Winke der Vernunft gebrauchen - als ihnen in Gesellschaft dieser folgen . So spricht der Mann ; vor zehn - fünfzehn Jahren sprach er noch nicht so u in zehn - fünfzehn Jahren wird er noch nicht so handeln . Kann man wohl mit Liebe zuvorkommen , C. ? Ist es leicht , so leicht wie Sie es sich zu machen glauben , zu bestimmen , wer zu der reinsten Liebe Od . Freundschaft das Erste beigetragen od. gar das Meiste ? Gäbe ich meiner Eitelkt . auf Kosten meiner Ehrlichkeit Gehör , Sie würden bald ganz Recht bekommen ; ab. es wäre nicht Recht . Das Weib , das , nach seiner Natur , mit dem Manne , der , nach seiner Natur , auch natürlich - spricht , das Weib , sage ich , kann dem Manne nicht zuvor kommen , sondern die Caroline u der Emanuel - kommen , entweder einander zuvor , od. zugleich . Doch danke ich Ihnen herzlich , C. , dafür , daß S. glaubten mir zuvor zu kommen u daß Sie es wollten u daß Sie mir davon , wie v. einer guten , verlebten Vergangenheit erzählen , um uns die Gegenwart dadurch zu reinigen u zu verherrlichen . Heute schreibe ich Ihnen mit einer Ruhe , wie Sie eine Antw auf Ihren lieben , ruhigen Brief , wenn man diesen nicht unwürdig sein will , erwarten können , u wie ich Ihnen lange nicht geschrieben . Nicht immer verdiene ich eine unabsichtliche Liebe , als Lohn meiner Güte ; denn ich bin nicht immer gut . Oft möchte ich den Meinigen laut zurufen , oft : heute liebet mich nicht , oft , sage ich , C. u nur Einer unter diesen , das ist ich selbst , befolget meinen Willen schweigend u leidend , indem ich so rufe . Es ist besser ich breche ab , denn ich werde dunkel . Von allen Menschen , auch v. dem Menschen u über ihn kann ich leichter schreiben , als über den meinigen , so wenig auch von ihm zu sagen ist . Car . Richter hat am 9 N. einen gesunden Jungen gehabt u er heißt Ernst Max Emanuel . Die Mutter ist auch gesund . Sie setzten der Anwendung Ihrer Zeit dadurch noch die Krone auf , daß Sie sich so viel v. Ihrem schönen u nützlichen Leben abgebrochen u mir diese Zeit beschrieben haben . Mein Ulf . hier u m. Thieriot in München grüßen Sie wieder recht schön . viel . finden S. Richter , der die Ernestine begleiten wird , in Lpzg . Sagen S. : Ja , wenn S. Ihre gute Prinzessin nächsten Donnerstag fragt . Waren auch Sie mit dem Herzog zufrieden ? Hier ist die kleine Schrift , die ich nicht brauche . Dank , l. C. , f. Alles , d. jede Nachricht u f. alles was S. mir geschrieben ! Bleiben S. gesund u froh ! E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

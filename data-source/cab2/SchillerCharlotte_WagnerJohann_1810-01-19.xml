@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0918">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Schiller an Johann Ernst Wagner. Weimar, 19. Januar 1810,
+                    Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 1 Bl., 4½ S. S. 6 Adr.: </p>
+                        <p>Dem | Herrn Regierungs<hi rendition="#aq">S</hi>ecretair Ernst |
+                                    Wagner.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003735">Charlotte (von) Schiller</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+               <date when="1810-01-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term><term xml:id="JP-012761">Tod und Sterben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich wollte Ihnen schon längst begrüßen durch einige Zeilen , aber so vieles kam mir im Weg , und überhaupt bin ich oft in Stimmungen wo ich meinen Freunden lieber verschweige wie es in mir aussieht . Auch hält mich bei der ungewißen Witterung im Winter öfter meine Gesundheit ab meiner Neigung zu folgen , selbst die liebe Schwester Reinewald wird es Ihnen sagen , wie saumselig ich oft denen erscheine die ich am liebsten von mir möchte wissen lassen . Die traurige Entscheidung der Krankheit meines geliebten Schwagers wissen Sie ? Ich stehe von neuen allein in der äußeren Welt , meinem Gefühl nach ; denn seine Liebe für mich und meine Kinder machte mir über die Rauhen Wege des gewöhnlichen äußeren Lebens , eine gefälligere Ansicht , und der Gedanke daß Er meinen Kindern eine Stütze sein würde , wenn ich nicht mehr bin , gab mir eine Zuversicht mehr . -- Obgleich mein Glauben an die unsichtbare Hand , die uns lenkt , mich nie verläßt , so war mir sein Dasein , ein Bürge mehr , für die Erfüllung meiner liebsten Wünsche , in Ansehung meiner Kinder . Auch die Existenz meiner geliebten Schwester ist schmerzlich zerrissen . -- Ach warum rechnen wir nur Glück in der Welt ! warum halten wir uns nur für vom Schicksal begünstigte Wesen . während Alles in der Natur uns andeutet daß wir dem ewigen Gesetz der Veränderung unter warfen sind . -- Dieser neue Verlust in meiner Familie hat alte wunden meines Herzens wieder schmerzhaft berührt . - Obgleich mein Schmerz wieder so Einzig , und Ewig wie mein Verlust ist , und wie meine Liebe - Auch Sie sind wieder kränker sagt mir Ihr Freund H. v Müller , diese Nachricht tat mir recht weh . Die mildere Luft wird vielleicht Ihnen wieder Heilbringen , die jetzige Kälte hat so etwas erstarrendes , und greift die Nerven so an . Sie haben schon so viel Geduld und Fassung bei Ihren Übel gezeigt , daß ich hoffe , Ihr tätiger Geist wird auch diesmal die Flügel wieder heben ; Wenn man Mut hat zu leben , so verläßt auch die Kraft nicht ; Sie lieben Ihre Familie , so innig . Möge die liebe für diese Sie erhalten ! . - Eine Bitte der Freundschaft wage ich an Sie , Wenn Sie dem leben nicht viel mehr abgewinnen können , so halten Sie doch dem Glauben recht fest , daß das Schicksal , daß Gott Ihre Kinder nicht verlassen wird . -- Unsere Liebe , die in sich die Ewigkeit ihres Gefühls kennt , möchte auch im leben fortwirken wo sie nur durch den Tod es kann . Und eben darum sehen wir mit Sorge auf das was wir verlassen sollen , weil wir das Leben nur kennen , und doch sollen wir eben so gläubig und vertrauend auf die kräftige Hand der Vorsicht auf das leben , nach uns blicken . - Ihre Kinder wird der Segen Ihres eigenen Herzens noch beglücken , und der Wille Ihrer Freunde wird sie nicht allein stehen lassen , diese Hoffnung möchte ich in Ihren herzen recht lebendig machen können ; möchte einem freudigen Eindruck Ihnen dadurch geben . -- Ich wünsche und hoffe daß Ihnen dieser Brief ausspricht was ich Ihnen gern sagen möchte , meine herzliche innige Teilnahme , mein guter Wille , Ihnen , auch nur einen freundlichen Moment zu geben , mögen Ihnen diese Zeilen andeuten . Sagen Sie mir bald daß Sie sich wieder stärker fühlen . Daß Sie das leben heiter ansehen ; Meine Schwester trägt mir die herzlichsten Grüße auf , sie nimmt immer gleichen Anteil an Ihnen , und wünscht Ihnen Freude und Friede und Mut . Gott segne Sie ! Charlotte von Schiller . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

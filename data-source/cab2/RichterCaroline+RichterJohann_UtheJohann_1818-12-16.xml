@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0577">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter und Jean Paul an Johann Andreas Uthe. Bayreuth, 16. Dezember 1818, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GNM</institution>
+                        <collection/>
+                        <idno type="shelfmark">K 22</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°. 2½ S. 1 S. von Caroline Richter, 1½ von Jean Paul. 4.
+                                    S. Adr. (von Carolines Hand): Herrn Doktor Wohlge | in | |
+                                    frei. Auf S. 1 vfrH: 10.</p>
+                        <handDesc>
+                           <handNote xml:id="JP-003469">
+                              <persName>Caroline Richter</persName>
+                           </handNote>
+                           <handNote xml:id="JP-999999">
+                              <persName>Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+                           </handNote>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                     <ref type="letter" subtype="document" target="3-VII_484">3. Abt., Bd. VII, Nr. 484</ref> (nur von Jean
+                            Paul).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1818-12-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004390">Johann Andreas Uthe</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012449">Kinder</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teuerster Bruder ! Die frohe Nachricht der Entbindung meiner geliebten Schwester hat mich und die Meinigen unendlich glücklich gemacht . Wie gütig ist der Himmel die innigsten Wünsche einer Gattin erhört zu haben die in der Gewißheit Ihnen das echteste Glück des Lebens gegeben zu haben , die höchste Belohnung des Schicksals finden wird . Erhalte Gott Ihnen diese Freude ungetrübt , und kein Unfall störe sie . Wir sind innigst gerührt von der Bitte die Sie an meinen Mann tun , und wie wollte er diese Auszeichnung nicht dankbar annehmen ! Daß es so mein Wunsch war brauche ich Ihnen nicht erst zu sagen , da jede engere Verknüpfung unserer Familienverhältnisse mein wärmster Wunsch ist . Möchte unsere Minna bald selbst im Stande sein ihm diesen Wunsch zu wiederholen , da er mit so vielem Interesse ihre Briefe liest , und mir dadurch ein Zeugnis geben , daß sie wieder ihrer Kräfte Herr ist . Segen über das kleine Wesen für das mein heißestes Gebet zum Himmel steigt ! Ich umarme meine geliebte Schwester und Minona Ihre treue Schwester Caroline . Nachschrift ! Geliebter u. hochgeschätzter Herr Schwager ! Sie haben mir u. meiner Frau ein schönes Christgeschenk durch Ihre Nachricht und durch den nähern Anteil gemacht , den Sie mich an dem Neugeliebten durch das Weiterleihen meines Taufnamens nehmen lassen . Hier haben Ihnen der Himmel u. die herzl . geliebte Minna das rechte u. unsterblichste Sinngrün mitten unter dem Schneehimmel gegeben ; u Sie beide werden in dasselbe die Errata nicht kommen lassen , wovon Bücher u Menschen wimmeln . Ich muß oft an Sie ehrend und dankend denken ; denn ich höre so viel Schönes von Ihnen , Sie wissen wo . Meine Wünsche der Gesundheit für die Nachleidende u für das kleine Christkindchen . Es gehe Ihnen allen wohl ! Ihr Jean Paul Fr Richter </p>
+         </div>
+      </body>
+   </text>
+</TEI>

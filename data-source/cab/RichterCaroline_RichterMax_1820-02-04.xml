@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0651">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, 4. Februar 1820, Freitag </title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1½
+                                    S.</p>
+                        <p> Neben dem Datum vfrH in violetter Schrift: 1820</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Geringer Textverlust durch Tintenfleck und Ausriss.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-02-04" cert="low"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+            <note>Mit einem Wäschepaket und Geld (in der Westentasche).</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012195">Ermahnung, Zuspruch, Trost</term>
+               <term corresp="#JP-012319">Besorgungen für Familienmitglieder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebter Max ! Endlich kann ich Dir wieder schreiben - von Berlin aus , war es gar zu weitläufig . Ich habe mit großer Rührung Deine Briefe gelesen , und freue mich daß Du Dich in München so glücklich fühlst . Stürme nur nicht so sehr in Deine Gesundheit , und gib Deinem Körper die gehörige Pflege . In Berlin mußte ich viel von Euch Kindern erzählen und meine Freunde sind im höchsten Grade die Eurigen . Daß ich viel Genuß hatte weißt Du , neben dem tiefsten Schmerze über den Verlust unseres geliebten Vater kam die tröstende Freundschaft um mich zu stärken und wieder zu erheben . Ich war so selig , als unglücklich . Hier hast Du lieber Sohn etwas Wäsche . 3 Halsbinden. 6 Schnupftücher . 3 paar Unterhosen die Du dir enger machen lassen wirst . 2 Westen , 1 Hemde . 2 Kragen . willst Du nun etwa einen neuen von feinsten Tuche blauen Rock , schwarze Casimir Hosen mit schwarzen seidenen Strümpfen und eine schöne Weste , so schreibe es mir . Betty Schubart reißt im März nach Landshut und kann alles mitbringen , aber umsonst will ich es nicht schicken . Lebe wohl , und schreibe mir bald recht ausführlich ich habe auch einige lateinische Bücher für Dich und den Ernesti . Lebe wohl mein Max ! Das Geld ist in einer Westentasche . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

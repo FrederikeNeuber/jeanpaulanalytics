@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0424">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 19. und 20. Januar 1823,
+                    Sonntag und Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Bl. 8°, 2¾ S.</p>
+                        <accMat>Ein blaues Band und Spitzen zur Verzierung eines Kleides.
+                                </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1823-01-19" to="1823-01-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011811">Reisen</term>
+               <term corresp="#JP-012211">Finanzen</term>
+               <term corresp="#JP-012033">Textilien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebte Odilie ! Heute bekamen wir Deinen Brief worin Du Deinen Wunsch ausdrückst lieber zurückgereist zu sein , als dort zu bleiben . Der Vater und ich freuen uns Deiner Liebe , die uns höher achtet als alle Freuden die Du dort haben könntest , allein jetzt ist es uns ganz recht , daß alles so gekommen ist , und Du wirst gewiß auch zufrieden sein . Indem unsere Brief hin und herlaufen ist schon wieder etwas von der Trennung Zeit verstrichen , und indem die Beeilung Deiner Maschinen die Folge unseres Drängens war ist doch Etwas Gutes daraus entsproßen . Nun bist Du frei und gewiß sollst Du am 1ten bis 3-4 ten Februar abgeholt werden . Ganz recht ist es uns mit dem Mädchen - mit Freuden bezahlen wir ihre Verköstigung unterwegs und logieren sie . Ich werde morgen mit dem Kutscher sprechen , damit Du nur 1 Nacht unterwegs bleibst . Burg Ebrach ist der beste Ort , zum Nachtquartier . Morgen schicken wir mit der fahrenden Post das Band - da wird Emma und Fanny Dir schreiben . Bis dahin lebe wohl geliebtes bestes Kind , in Eile - ewig Deine treuste Mutter Gestern wollte ich diesen Brief abschicken als ich einen mir ganz fremden Besuch bekam . Herr Heine hat Dir gewiß von einer Frau erzählt , die mit Dir hätte reisen können , und wirklich ist es Schade , daß Du um solche Reisegesellschaft gekommen bist . Es ist die Frau eines englischen Arztes der in Königsberg wohnt . Sie ist zwar häßlich , und man kann ihr Alter nicht erraten , aber sie scheint höchst interessant zu sein , und betet den Vater an , sie küßte ihm die Hand und wollte durchaus nicht neben ihm aufs Canapee sitzen vor lauter Ehrfurcht . Hier ist das blaue Band , die Spitzen sollst du um den Ausschnitt des Kleides einreihen , aber nicht auseinanderschneiden Du bringst mir dann beides wieder mit . Alles was Du mir noch zu besorgen aufgeben mußt , sage mir nur im nächsten Briefe ganz offen , mein geliebtes Kind , ohne die geringste Furcht unbescheiden zu sein . Das ist die schönste Eigenschaft , das unbegrenzte Vertrauen zu einem Menschen zu seiner Liebe . Was für Wäsche , Lichter und dergleichen zu zahlen ist , ehe du abreisest und wieviel Du an Gelde noch in Cassa hast , Alles muß ich wissen . Es ist mir nie zu viel , was die Notwendigkeit erheischt . Lebe wohl , süßes teures Leben . Gott beschütze Deine Gesundheit daß wir froh uns wiedersehen . Ewig Deine treuste Mutter Caroline </p>
+         </div>
+      </body>
+   </text>
+</TEI>

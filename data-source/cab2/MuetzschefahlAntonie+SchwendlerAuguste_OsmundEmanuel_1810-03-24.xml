@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0458">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Antonie von Mützschefahl und Henriette Schwendler an Emanuel. Meinigen, 24. März 1810, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 3 S. 2 S. von Antonie von Mützschefahl, 1 S. von
+                                    Henriette Schwendler. S. 4 Adr.: An | Herrn <hi rendition="#aq">Emanuel</hi> | Wohlgebohren | in <hi rendition="#aq">Baireuth</hi> | fr.: 6/10. Poststempel: <hi rendition="#aq">R.3.MEINUNGEN.</hi>
+                                Briefnummerierung vfrH.</p>
+                        <accMat>
+                           <ref type="letter" target="JP-UB0146">Brief von Antonie
+                                        von Mützschefahl an Caroline Richter vom 25. März
+                                    1810</ref>; Nachrichten von Henriette Braun an die Familie
+                                    Richter (nicht überliefert). </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-03-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0283">Von Emanuel an Antonie von
+                        Mützschefahl. Bayreuth, 14. August 1809</ref>
+               <ref type="prev" target="JP-UB0170">Von Emanuel an Henriette Schwendler.
+                        Bayreuth, 7. Dezember 1809</ref>
+               <ref type="next" target="JP-UB0180"> Von Emanuel an Henriette Schwendler.
+                        Bayreuth, 28. April 1810</ref>
+            </correspContext>
+            <note>Präsentate: auf Antonie von Mützschfahls Brief (S. 1): 29<hi rendition="#sup">t</hi>
+               <hi rendition="#aq">Apr</hi>. beantw. Auf Henriette Schwendlers Teil:  28 <hi rendition="#aq">Apr</hi>. beantw.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012565">Erziehung, Pädagogik</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Die ersten heiteren Augenblicke meiner Genesung sollen Ihnen lieber Emanuel , danken , für das freundliche Lebewohl , was Sie mir bei meiner Abreise nach der Schweiz zuriefen . - - Ich sah das herrliche Land , zwar nur im Regenschleier des verwichenen Sommers , wurde aber dem ungeachtet ganz entzückt von der Erhabenheit und Mannigfaltigkeit der schönen Ansichten welche diese Gegenden dem Auge darbieten . Pestalozzi lernte ich kennen . Wenn Ihre Pflichten es Ihnen erlauben ; so bitte ich Sie lieber Emanuel reisen Sie zu diesem Engelsgemüt , alles was man Ihnen von ihm sagen könnte , ist so gar nichts gegen eine Stunde der Unterhaltung mit ihm . Oh führte Sie Ihr Weg über Meinungen , wie viel hätte ich Ihnen da nicht zu sagen . Auf jeden Fall , lassen Sie mich wissen wann Sie reisen , ich möchte meine Freunde , durch Sie grüßen lassen . Es tut mir weh Ihnen zu schreiben , daß ich in Iferten zu krank war , um das Pestalozzische Institut zu besuchen und daß ich meinen Plan dort zu lernen aufgeben mußte . Doch meine Krankheit war mir Veranlassung die Güte vieler Menschen , im vollen Umfange kennen zu lernen , und das Andenken der jüngst verflossenen Zeit löst sich in ein unaussprechliches Dankgefühl auf , welches nur dadurch getrübt werden kann , daß mache Erwartungen von mir getäuscht wurden . Was Sie , lieber Emanuel , durch mich von der Anstalt wissen wollten haben Sie in Stuttgart von Wangenheim erfahren Sie werden nun wissen daß die Anstalt nach Pest . Idee ein recht vollkommen zweckmäßig eingerichtetes elterliches Haus darstellen soll und daß sich Ihre Ansichten über Menschenbildung , recht wohl , mit Pestalozzis Ideen darüber , vereinen lassen . An Ihre Freunde Eva Hofman und Thyriot war ich durch Ihre Güte empfohlen . Sie bewiesen mir viel Freundschaft . Ich achte in beiden , zwei eben so edle , als eigene Menschen . Thyriot hat sich das Amt eines Krankenpflegers und Gesanglehrers gewählt . Eva Hofman gibt Unterricht im Singen u Klavierspielen . In Freiburg , sah ich Ihre schöne Freundin , Henriette Braun Sie erschien wie ein freundlicher Engel an meinem Krankenbett . Das tiefe warme Gefühl was sich in jede ihrer Äußerungen aussprach . Die Innigkeit mit der Sie von allem sprach was dem Freunde lieb und wert ist , ihr ganzes Wesen ließ einen eben so lieblichen als bleibenden Eindruck in mir zurück . Von hier kann ich Ihnen recht viel erfreuliches sagen , Alle Ihre Lieben sind gesund u heiter . Louise Heim von deren bedeutenden Krankheit Sie gehört haben , ist beinahe völlig hergestellt , der Vater sieht sie als ein neues Geschenk des Himmels an und die Tochter führt ein seliges Leben in der väterlichen Freude . Unsere Henriette ist gesünder wie jemals und überaus liebenswürdig wenn Sie mit unserem Engelchen Reinhold spielt , dieser jüngste Sohn des Hauses führt den Namen mit der Tat und ist ein Wunder liebliches Kind beinahe zu zart , doch fängt er jetzt an kräftiger zu werden . Die Kinder sind munter und fröhlich und Schwendler reicht seine Erholungsstunden der Gartenbaukunst . Recht innig wünschen wir Sie , und unsere Richters diesen Sommer bei uns zu sehen , wenn es möglich ist so erfüllen Sie unsere Bitte . Leben Sie wohl , lieber Emanuel , und erinnern Sie sich gütig der Bitten IhreSie hochachtende Freundin Antonie N. S. Wollten Sie wohl die Güte haben die Inlage unserer lieben Caroline zu übergeben , und dem Richtärschen Hause die Nachrichten von Jettchen mitzuteilen . Wenn gleich , Guter Emanuel , Ihre edle Henriette Braun , älter Ihre Freundin ist , als ich , so ist es mir doch heute gar zu gemütlich mich Ihre alte Henriette zu nennen und Sie aufs herzlichste und innigste zu begrüßen . Nicht wahr , jetzt mit dem Frühling tritt Meiningen in den Vorgrund Ihrer Sommer Gedanken und Pläne ? Oh kommen Sie , wir sehnen uns unendlich Sie einige Zeit , zu besitzen ! Ich darf es ja wohl gestehen , daß wenn mich zu weilen meine Tages Arbeit gar sehr ermüdet mir die Aussicht auf jene schöne Zeit Erholung und neue Kräfte gibt . Mein Reinhold ist ein Engels Kind unter allen meinen Kindern fand ich keins mit so viel Hoffnung für die Zukunft . Aber Pauline ist auch gut und unter der seltenen Pflege die ihre geistige Ausbildung durch Märker erhält gehen alle ihre Anlagen mit außerordentlicher Kraft hervor . Über A. muß ich Sie sprechen , schriftlich kann ich jetzt nichts über sie sagen . Was Sie mir zur Beruhigung über A. schrieben dafür belohne Sie Gott , doch immer bin ich unruhig . Ich habe mein Jüngelchen von der Brust entwöhnt , es ist ihm wohl bekommen , aber der kleine Schelm glaubt nun noch mehr Forderungen an meine Pflege machen zu können , und schon ruft er mich von Ihnen . Leben Sie wohl , eigentlich haben diese Zeilen kein Recht eine Antwort zu erwarten , aber Emanuel erfreut so gern und darum hoffe ich etwas von ihm zu lesen . Henriette </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1067">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 9. Januar 1809,
+                    Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/618, Bl 19-20</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1
+                                    Bl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Geringer
+                    Textverlust am Blattrand.
+                </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1809-01-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+               <term corresp="#JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein verehrtester Freund ! Noch immer lief kein Bericht aus der Schweiz ein ! O mein gutes , herrliches Minchen - warum zaudern doch die unartigen Menschen mit ihrer kleinen armen Hilfe auch noch ! Hätte ich doch die Flüge der Hybläischen Biene und die Untrüglichkeit ihres Instinkts , damit ich jenen Tropfen der Heilung , der gewiß irgendwo für sie glänzt , suchen und saugen und bringen könnte , möchte er nun im sizilischen Quendel oder im unerträglichen Baldrian heimisch sein ! - Und nun - mitten in der Phantasie solcher Wünsche - sagt mir meine Frau mit der gewöhnlichen menschlichen Kühle " ich müsse eben noch ein wenig - Geduld haben ! " Dazu isst sie Kuchen - und ich muß ihr obendrein in jedem Stücke recht geben ! Dennoch kann ich es nicht lassen , Ihnen zu schreiben , weil auch ich wieder in einer gewissen Angst lebe . - Das dramatische Produkt nämlich , wovon ich Ihnen schrieb , wurde fertig , und an Studniz zur Prüfung gesandt , der es mit einem Homerskopfe versiegeln und zu seiner eigentlichen Bestimmung , an Goethe , gehen lassen sollte , wo es nun wahrscheinlich in diesen Tagen angelangt sein wird . Ich habe den Gott gebeten , dem Anfänger seinen Rat nicht zu versagen , der , lebenslang so ganz ohne Freund und Lehrer , stets nur blinde Griffe zu tun vermochte . Das Stück könnte sich wohl in meinen Reisen , wovon der 2te Band Ostern bei Cotta erscheint , ausnehmen - es könnte sich auch wohl fürs Theater selbst eigenen - wenn nicht eine gewisse Unbeholfenheit in der Form , die mich wie ein ewiger Fluch verfolgt , auch hier die gewohnten Krallen in meinen poetischen Nacken geschlagen hätte , weshalb mir nun jetzt , da der Schritt geschehen ist , das Gewissen wie gewöhnlich wieder erwacht , und ich schon halb entschlossen bin , Cotta'n wieder aufzusagen , und diesen 2ten Band , wozu das Stück ein notwendiger Teil ist , gar nicht drucken zu lassen - wenn ich nicht am Barometer unserer Poesie ein günstiges Zeichen erblicke . - Ohnehin habe ich ja schon zu viel geschrieben ! Ich zweifle nicht daran , daß es der Gott sich vorlesen lässt - aber seinen Rat ? Diesen gibt er wohl nur zu Sachen , die ihn wirklich auf gewisse Weise ansprechen . - Das schlimmste ist , daß es ein Produkt meiner frühesten Muse war , und nur erst jetzt bearbeitet wurde . Es spricht übrigens mein ganzes Glaubenssystem aus , inwiefern und in wie weit ich mich zur neuen Schule bekennen kann , und inwiefern nie ; nämlich in Rücksicht des vollkommensinnlosen Mystizismus . - Ein 2tes Exemplar des MSCptes , welches ich Ihnen senden wollte , war schon zur ½ fertig - und nun ist gestern mein Schreiber auf ganze 4 Wochen verreist ! Sie , edler Freund , Sie unaussprechlich Glücklicher - der Sie den Gott täglich zu sehen Gelegenheit nehmen und erhalten - o könnten Sie etwas für oder wider mich im fröhlichen Gespräche erlauschen , das meinen Entschluß bestimmte - wie verdient Mächten Sie sich um mich , da es jetzt noch Zeit dazu ist ! - Sobald es möglich ist , erhalten Sie selbst auch das 2te Exemplar und meine Bitte um Ihr eigenes Urteil . Denn Ihr , sein und Studnizens ( des Mystikers ) Urteil , bilden für mich denn die vollständige Welt . - Verraten Sie um Gottes Willen die Angst meines Herzens nicht - mir ist , als sollte ich die erste Zeile drucken lassen ! Noch eine letzte Bitte , herrlicher Freund , wozu mich Ihr lieber Brief und die süßen Gedichte veranlassen ; die mir meines Freundes süße Gestalt seitdem oft wieder vorzauberten , oft ihn mir so wahrhaft lebendig darstellten , daß ich mit ihm in den schönen Erfurter Garten pp das Gedicht selbst mitzuleben glaube - ja daß ich jeden Blick des selenvollen Auges , mit dem er es lebte und dichtete , wiedererkenne und malen möchte ! - Durchgehen Sie doch gütig Ihr Portefeuille , und senden Sie mir ein und anderes schöne Lied für das Kottasche Morgenblatt , zu dem ich Sie von Herzen einladen soll . Es bessert sich jetzt immer mehr - und Cotta's großer Eifer verdient wirklich , daß nun endlich mehrere schönherzige Männer Anteil nehmen . Schlagen Sie mir es nicht ab , Bester ! Auch unser Tümpel , dieses ehrwürdige göttergleiche Hauptschwein , hat mir vor 8 Tagen einige wahrhaft gottesstädtische Zoten für das Mbl. gesandt , nachdem er sich ein Jahr lang nicht erbitten lassen . Seine Reisen enthalten keine herrlicheren , und ich freue mich schon auf die Freude , mit der Sie sie lesen werden . - Lassen Sie sich erbitten , guter , Bester ! Es mögen Verse oder Prosa sein - überall wird doch der schöne , holde Mensch in die Anmut meines Freundes gekleidet , durchblicken ! Ich weiß nichts von einem Briefe von Ihnen aus Eisenach . Auch mir ist kürzlich ein - zum Glück unbedeutender - Brief in der Nähe verloren gegangen . In Hoffnung , daß Sie die Güte haben , mir künftig nicht zu frankieren , mache ich heute den Anfang dazu . - In Berlin , sagt mir ein Freund , schmeissen Mägde und Bedienten sehr häufig die frankierten Briefe weg und vertrinken das Postgeld . Ich weiß persönlich , daß Sie bei Ihrem ehrlichen Lorenzo nichts zu fürchten haben ; allein die oft so unbesonnenen Ausdrücke meiner Briefe machten mich schon einigemal zittern . Dem edlen Weibe meinen Segen ! - Was mich betrifft , so werde ich immer elender und schwächer - und der Geist - S. das Drama . Wenigstens wird er steifer , der arme Geist . Ewig aber doch Ihr getreuer und ehrlicher JEWagner . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

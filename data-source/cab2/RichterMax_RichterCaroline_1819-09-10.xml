@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0512">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Nürnberg, 10. September 1819, Freitag</title>
+            <respStmt>
+               <persName>
+                  <surname>Hartmann</surname>
+                  <forename>Dürten</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bearbeiterin</note>
+               </resp>
+            </respStmt>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2½ S. Auf S. 4 Adr.: Frau Legazionräthin | <hi rendition="#aq">Richter</hi> | Wohlgeboren | in | <hi rendition="#aq">
+                              <hi rendition="#u">Baireuth</hi>
+                           </hi>
+                        </p>
+                        <p>.</p>
+                        <p> Siegelreste.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-006085">Nürnberg</placeName>
+               <date when="1819-09-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0585">Von Caroline Richter an Max Richter.
+                        Bayreuth, 13. September 1819</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012317">Musik</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teuerste Mutter ! Gerade sitze ich im Wirthaus zum roten Roßlein und trinke mein Bier gemütlich . Die Reise bis hierher ist bis auf einige Blasen am Fuß , die ich habe , sehr gut abgelaufen ; obgleich der Weg ziemlich weit war . Jeder von uns hat bis jetzt 53 xr verzehrt . Von Streitberg bis Baiersdorf war der Weg so schlecht , daß wir bis Abends 8 Uhr gingen , bis wir in beierst . ankamen . Mein Bücksensack drückt mich ziemlich hart . Beständig dachte ich an Dich , gute Mutter , da Du so wahrhaft mütterlich für mich sorgtest . Am 10ten Sept. ( heute ) überbrachte ich Herrn Benda den Brief von Osmund der riet mir , auf eine Retour-Chaise nach Augsburg zu warten , da 36 Poststunden hin sind . Schreibe mir nur etwas von dem guten u glücklichen Vater , der gewiß schon recht bald zurückkehrt und addressiere Deine Briefe an Herr Benda in Augsburg an dem ich ein Einziehe un geschrieben von Herrn Benda in Fürth mitbekommen habe . Vielleicht geht meine Reise auch nach Salzburg , da der Weg von München über Landshut so trocken u unbedeutend sein soll . In Fürth genoß ich viel Vergnügen , da ich ein Instrument hörte welches in seiner Art einzig ist und vielleicht schöner als die himmlischen Töne oder Chöre des Herrn Koch . Es heißt Aeoloivum und ist eine neue Erfindung . Schreibe ja sehr bald , denn auf der Reise ist so Alles fremd . Grüße Emma ( wenn sie hie ist ) und Odilie , vor allen aber schreibe von dem , was ich in der Eile hier in einem Wirthause schreibe , nur Etwas schreibenswert ist . Vielleicht steige ich am Sonntag früh um 8 Uhr in d. Postwagen u bin Montags um 10 Uhr in Augsburg . Lebe wohl u gedenke manchmal Deines immer an Dich sich erinnernden Max Richter . Gute Nacht ! muß ich zu mir sagen , da ich sehrmüd bin . Künftig gewiß mehr . Ich werde sehr oft schreiben . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

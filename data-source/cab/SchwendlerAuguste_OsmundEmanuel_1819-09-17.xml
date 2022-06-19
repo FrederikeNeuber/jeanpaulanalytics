@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0456">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 17. September 1811, Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 2 S. Brief- bzw. Blattnummerierung vfrH.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1819-09-17" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0818">Von Emanuel an Henriette Schwendler.
+                        Bayreuth, 4. September 1811</ref>
+            </correspContext>
+            <note>Präsentat: Am 26 Dec. beantw. (Antwort nicht überliefert.)</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012638">Familiäre Beziehungen</term>
+               <term corresp="#JP-012449">Kinder</term>
+               <term corresp="#JP-011913">Besuche</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich hätte es vorher ahnden können , daß Sie , mein teurer Emanuel , eine Abschrift von dem heiligen letzten Willen meiner Friederike nehmen würden . Es tut mir wohl zu denken , daß Sie davon so erbaut sind als ich und , daß das öftere Nachlesen dieses Symbols menschlicher Würde und Kraft Sie eben so beruhigen und stärken wird als mich . Oh , Emanuel , Friederike ist so gut Ihre Schwester als die meinige , keinem Geschlecht , keiner Familie gehörte sie besonders . Ins Universum trat sie als höchste moralische Erscheinung , und daß sie so einfach so ansprechend war und endlich durch ihren Tod , bewährte sie Alles was ich mir je , unter wirklicher Vollendung gedacht habe -- Seit gestern weiß ich gewiß , daß Antonie ihr Pflegekind und mein Schwager im Oktober zu mir kommen . Gott welches unerwartete Wiedersehen ! Ich kann meine Gefühle nicht schildern , Antonie wieder zu besitzen . Aber ich halte meines Schwagers Opfer sie den Winter mit der Kleinen hier zu lassen zu groß , für sein armes verwaistes Herz . Mit der schwesterlichsten Liebe und so wie es mir mein Pflicht Gefühl eingab , habe ich ihn heute nach Berlin geschrieben , - wo er bei seiner Schwester Kircheisen mit der meinigen und den Kindern ist seit 14 Tagen sich aufhält , - und ihn gebeten , jenes Opfer genau zu erwägen . Wahr ist es , daß die Breslauer Luft Antonien nicht so gut als die hiesige behaget , doch der Wille der Verklärten daß A. nun einmal den verlaßenen Gatten zur Stütze gereichen soll , dieser muß - so ist meine Überzeugung - vom Himmel gesegnet werden und unmittelbarer Schaden kann für sie nie daraus entstehen . Ich bitte um die Rückgabe aller Briefe und der Worte meiner F. im Oktober . Ich habe keine weitere Abschrift und möchte gern eine davon für die Mutter Pestalozzi machen . Eine unendliche Freude die mir vor einigen Tagen widerfuhr muß ich Ihnen mitteilen . In langer Zeit hatte ich keine Nachricht von meiner Pflege Tochter , auf einmal erhalte ich und A. Briefe von diesem lieben Mädchen . Und was für Briefe ! in welchen die Bildung ihres Geistes und Herzens sich ausspricht die mich entzückte , auch mein Pflege Sohn macht seinen Eltern Freude . So will mir der Himmel in anderen Kindern ersetzen was ich am eigenen Sohn vermiße . - - - - Ich sehne mich von Ihnen zu lesen und erwarte recht bald ihre längere Antwort . Unwandelbar die Ihrige . Henriette </p>
+         </div>
+      </body>
+   </text>
+</TEI>

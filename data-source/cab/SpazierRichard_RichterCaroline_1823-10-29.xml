@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0483">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Richard Otto Spazier an Caroline Richter. Leipzig, 29. Oktober
+                    1823, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 3 S. Auf S. 4 Federproben und Krakeleien.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004107">Richard Otto Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1823-10-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012144">Leipziger Gesellschaft</term>
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Liebe Tante ! Schon vorgestern Abend bin ich hier in Leipzig glücklich angekommen und befinde mich jetzt schon wohlbehalten nebst allen meinen Sachen , die meinem Fortkommen nicht das geringste Hindernis in den Weg legte , sondern im Gegenteil zu meinem bequemen Sitzen im Wagen das Ihrige beitrugen , auf meinem Winterzimmerchen vor meinem Schreibpulte , von welchem aus dieser Brief , so Gott will , bald zu Ihnen gelangt . Ich wollte freilich lieber , ich könnte mich selbst in ein Couvert einsiegeln und selbst auf die Post geben , um statt des Briefs in Baireuth einzulaufen ; der Herr Graf Sperling von Spatzenberg will aber dem Herrn Stud. juris Richard Otto Spaziere zu Leipzig , ( welche beiden Chargen in bekanntlich bekleide ) solches nicht erlauben , und da muß freilich der Student seiner Exellenz gehorchen . - Man kann_es aber wahrlich dem Studenten nicht verdenken , daß er solche Wünsche hegt ; denn anstatt , daß er vor wenig Tagen noch Abends der hinter den schönen Bergen untergehenden Sonne ins liebende Auge schaute , guckt er jetzt seinen Nachbarn gegenüber in die Öllampen und sehnt sich auf seinen Zimmer nach den herrlichen Menschen , die er zurückgelassen bei den Bergen und bei der Sonne ; - hier hat er Niemand , der sich viel um ihn schert . - Aber warum verwöhnt er sich auch gleich an Alles , Student , sagt der Graf ; früher hat es Ihm ja in Leipzig recht gut gefallen ; - aber so geht_es , wenn man Leuten von Seinem Gelichter Gutes genießen läßt ; - gleich wollen sie es immer haben ; man muß sich zu deteriren wissen in seiner Sphäre . " - der gute Graf ; - man hört ihm an , daß er vom Hofe ist . - Ein Umstand ist_es besonders , liebe Tante , der mir beide Reisetage sehr trübte ; die Sorge nämlich um die gute Emm - mein Kutscher erzählte mir nämlich , als wir schon 4 Stunden von Hof waren , erst , daß der Baireuther Kutscher erst den folgenden Tag zurückfahren und die Emma in Konradsreuth nicht abholen würde ; - die Vorstellung von Ihnen Allen und besonders der Emma Angst , und das Gefühl , die Sache nicht mehr ändern zu können , drückte mich fürchterlich ; ich hätte meinen Kutscher beinahe prügeln können , als er seine Freude über meinen Ärger nicht verbarg ; - Mich tröstete nur der Gedanke , daß Frau von Reizenstein vielleicht die Emma würde fahren lassen ; ich bin sehr neugierig zu erfahren , wie Alles noch geworden ist . - Von der Mutter fand ich bereits einen Brief und das Nötige vor ; - ihre Genesung geht vorwärts Gott bei Dank , wenn auch langsam ; - Minona ist jetzt ganz bei ihr und von ihrer Pflege erwartet sie Alles ; so werden hoffentlich auch von dieser Seite unsere Besorgnisse bald aufhören ; - mit den Geshäften des Uthe scheint es aber nicht nach Wünshen zu gehen ; - die Mutter wird Ihnen wohl auch darüber schreiben . - Mahlmann ist von seinem Gute noch nicht wieder zurück ; ich habe daher zu ihm nicht zu gehen gebraucht , was mir höchst angenehm war . - Stieglitz und Große sind auch von ihrer Reise noch nicht zurück , mein Stubenkamerad auch nicht , eben so die wenigsten von meinen Freunden ; - ich entbehre daher allen nähern Umgang ; - da mein Instrument auch noch nicht da ist , so sind mir die mitgenommenen Bücher doppelt wert , wofür ich Ihrer Güte , liebe Tante , nicht genug danken kann ; - ich exerpire daraus shon nach des guten Onkels Rate tüchtig ; - mit dem Wassertrinken will es aber noch nicht recht gehen ; aller Anfang ist ja aber schwer ; es wird wohl werden . - Mit dem unaussprechlichsten Dank für Ihre unendliche Liebe und Güte , mit der Sie mich während meines so glücklichen Aufenthalts bei Ihnen überhäuften , mit den herzlichsten Grüßen an den herrlichen Onkel und mit der innigsten Bitte um gütige Nachricht von Ihnen Allen bleibe ich Ihr Sie innig liebender dankbarer Neffe Richard Spaziere </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0882">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 11. Juni 1808,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/618, Bl 9-10</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1
+                                    Bl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-06-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0879">Von Friedrich Theodor Adam von Müller
+                        an Johann Ernst Wagner. Weimar, 23. Mai 1808</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-013231">Johann Ernst Wagners Kunstschulplan</term>
+               <term corresp="#JP-012869">Literarische Kritik</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wie soll ich Ihnen , Trefflicher , würdig genug für Ihren so gar lieben Brief danken ? - Ich , zürnen auf einen so geplagten Freund ? O wie erkennen Sie mein Herz ! Wenn der Staatsmann mein kleines Buch liest , mit so vieler Liebe liest , so ist ja dies in unserer Zeit schon ein halbes Wunder - aber , wenn mich der Freund , auch mitten in meinem ( vielleicht allerdings sträflichen ) Enthusiasmus lieber dadurch gewinnt , welch unaussprechliches Glück ! Ja , allerdings komme ich , um Sie ans Herz zu drücken und in die blauen Augen Ihres lieblichen Minchens zu sehen , wenigstens auf ein Paar Tage nach Liebenstein , und hoffe , daß dort die starken Arme meiner geliebten Freunde meine Schwäche stützen werden . Studniz hat mich 2 Mal besucht , und kommt auch dort hin . Die Kunstschulplansache geht immer weit über Erwarten gut . Ich freue mich recht innig , mit Ihnen und Studniz ( zwei Zweiflern der ersten Größe ) ein Stündchen darüber zu scherzen , und mich bei 'm Weine bekehren zu lassen ! Im Urteil des erhabenen Goethe über mich , das Sie die Güte haben mir in einigen Worten zu geben , fühle ich gar wohl den juckenden Stich dieser heiligen hybläischen Biene , der in den Kopf meines Planes eindringt , ohne sein Herz zu verletzen ! ( was er ohnehin gewiß nie tut , dieser , ach , schon längst nur in den höchsten Höhen spielende und dort Blumen und Spottblitze handhabende Geist ! ) Aber untröstlich würde ich sein wenn Er ( man sollte ihn stets mit einem großen Buchstaben schreiben ) in dieser Operation nicht bloß ein liebendes herzliches Streben , sondern einen Anspruch ( vel quasi , als glaubte ich " ich könne Etwas " ) sähe ! - Mich treibt der Geist - kann man ihm widerstehen ? - Wenn ich irgend eine Tugend habe , so ist es Bescheidenheit . Daher wagte ich an Ihn auch noch keine Bitte um Teilnahme . - Aber , sobald mir der Himmel Etwas Großes und Zusammenhängendes beschert - dann verzeiht Er mir gewiß , wenn ich sage : Sieh freundlich her , du Grosser - das ist mir geglückt - diese Baukosten sind zur Disposition erworben ; nun betrachte meinen Plan : er ist liberal , meint es rein so , wie er spricht und ist noch empfänglich für jedes Gute : nun fange an und vollende , du schöner Riese ! " - Das , edler Freund , war von jeher mein Plan , schon als die Propyläen entstanden . - Ich selbst habe nie Geschick und Kraft dazu gefühlt , noch weniger das Begehren zu hegen gewagt , auf irgend eine Art bei solchem " artistischen Schnepfenthal " ( wie es Herr Böttiger verruchter Weise und zu meinem bittersten Ärger nennt ) angestellt zu werden . Will man einst meinen Kindern die 420 xx. , die mich alle Versendungen kosten , aus dem Fonds zurückzahlen , so - muß ich dies wohl als ein armer Vater wünschen , hoffe aber , daß meine Kinder keine armen Kinder bleiben werden . Sehen Sie , Bester , der Gedanke , G. könnte in meinem Streben eine Anmassung sehen - ist mir unerträglich und wahrhaft fürchterlich - und wenn Sie mich von ihm auf irgend eine Art befreien könnten , so würde ich wie neugeboren sein ! Aber kein Wort mehr vom Kunstplan - wir sehen uns ja . Ich wünschte nur , den Tag Ihrer Ankunft in L. zu erfahren , damit ich mich danach einrichten könne . Panzerbieter sagt , Sie würden später kommen . Des armen Minchens Winterübelsein hat mir Kummer gemacht . Ich küsse ihre Hände tausendmal . Schwendlers freuen sich auch herzlich auf Sie . Sie werden Ihnen geschrieben haben . Dem guten Bertuch sagen Sie doch meinen herzlichen innigen Dank für seine freundliche Anzeige im Modejournal . Ich hoffe es in L. mündlich zu wiederholen . EwigIhr treuerJEWagner . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

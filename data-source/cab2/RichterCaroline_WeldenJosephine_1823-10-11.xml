@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0269">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Josephine von Welden. Bayreuth, nach dem 11. Oktober
+                    1823</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText"> Ernst Vincent: Unbekannte Briefe von
+                            Jean Paul und seiner Frau Caroline, in: Euphorion 29, 1928, S.
+                            406f.</bibl>
+               </witness>
+               <witness>
+                  <msDesc rend="copy" type="witnessText">
+                     <msIdentifier>
+                        <institution>DLA Berend</institution>
+                        <collection> Mappe 12</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2½ S.</p>
+                        <accMat>Abschrift des Briefes von Jean Paul an August Graf von
+                                    Platen vom 7. Mai 1821. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Sowohl der Druck als auch Berends Kopie setzen das Gedicht in Anführungszeichen, allerdings nur
+                    bis  zum Vers: "In tausendfachen Bildern und Gestalten".</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1823-10-11" notAfter="1823-10-31" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004653">Josephine von Welden</persName>
+            </correspAction>
+            <note>Zur Datierung: August Graf von Platen hatte am <date when="1823-10-11" calendar="#Gregorian">11. Oktober 1823</date> ein Exemplar seiner <bibl sameAs="JP-009395" subtype="werk">"Neuen Ghaselen"</bibl> an Jean Paul <ref type="missingLetter" target="rr-fb">geschickt. </ref>Erste Rezensionen der
+                        "<bibl sameAs="JP-010374" subtype="werk">Urania. Taschenbuch auf das Jahr
+                        1824"</bibl> erschienen schon Anfang Oktober 1823, so z. B. in <bibl sameAs="JP-009809" subtype="werk">ZeW</bibl>, Nr. 197 vom 9. Oktober 1823, Sp.
+                    1577f. Der Brief könnte also bereits aus der zweiten Oktoberhäfte 1823
+                    stammen.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012533">Lektüre(n)</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>A Son Excellence Madame la Baronne de Welden . Hochverehrte ! Wenn man so glücklich ist schriftliche Worte von Ihnen zu erhalten , darf man es wohl wagen , Ihnen zu danken so besorgt ich bin Ihre kostbare Zeit durch Unbedeutendes zu unterbrechen . Allein ich kann Ihrer Frage über meines Mannes Urteil vom jungen Dichter , heute etwas so Bestimmtes überliefern das mich wegen meiner Freiheit Sie durch diese Zeilen zu stören , rechtfertigt . Es ist nämlich der Brief selbst den nach der Übersendung der ersten Ghaselen , mein Mann ihm schrieb ; ich habe aus dem Briefbuche meines Mannes ihn wörtlich abgeschrieben . Das gestrige Gedicht welches ich unerwartet in der Urania fand , wollte ich Ihnen nur deshalb mitteilen weil uns neulich die zweite Sammlung persischer Form nicht genügte , und ich selbst eine große Freude hatte in dem Prolog an Goethe einen anderen sehr ernsten Sinn walten zu sehen . Besonders befriedigten mich jene Verse : " Und stelltest dar , mit wahren großen Zügen , In welchen Abgrund die Begierde führt Wenn das Gefühl sich nicht vermag zu fügen Und wenn der Geist nach dem Versagten spüret , Und was , begabt mit Frohsinn und Genügen Dem deutschen Volk , dem redlichen , gebühret Bei dieses Taumels schwankender Empörung Zu fliehen , zu verhüten die Zerstörung . Und überall , im reichergossenen Leben , In tausendfachen Bildern und Gestalten " Die bis herunter in ihr kleinstes Weben Mit demutsvoller Wahrheit sich entfalten , Hast Du der Lehren , Größte , gegeben : Im eigenen Kreise müsse jeder walten ; Und überall umschweb uns der Gedanke : Wer Freiheit sucht , der suche seine Schranke . Und wie sehr ist dies nicht in Ihrem Geiste , Beschützerin des Maßes ! Deren schönes Streben Gleichheit und Mitte hervorzubringen durch Dämpfung oder Belebung der Urteile über Charaktere ich mit Bewunderung wahrnehme , eine wahre Adrastea , wie Herder sie uns aufgestellt hat . Verzeihen Sie mir Hochverehrte ! deren Gebete um ein glückliches schmerzenfreies Jahr für die herrlichste Seele die zu groß für irdische Leiden ist Niemand heißer fühlt . Und der Erhaltung des Glücks Ihres ganzen Hauses lange fröhliche Dauer ! Ihre Caroline Richter . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

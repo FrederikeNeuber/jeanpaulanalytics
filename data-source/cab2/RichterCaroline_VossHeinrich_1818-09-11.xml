@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0738">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Heinrich Voß. Bayreuth, 11. September 1819,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BNUS</institution>
+                        <collection>Notes et correspondance de Johann Heinrich
+                                    Voss</collection>
+                        <idno type="shelfmark">Fol. 698-701</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl. 8°, 8 S. S. 1 links oben vfrH: "a".2 Dbl. 8°, 8 S. S. 1 links oben vfrH: "a".</p>
+                        <accMat>Nicht überlieferter Brief von Josephine von Welden an
+                                    Caroline Richter.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1818-09-11" to="1818-09-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004520">Heinrich Voß</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="4-VII_212">Von Heinrich Voss an Jean Paul und Caroline
+                        Richter. Heidelberg, 30. August 1819</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-011811">Reisen</term><term xml:id="JP-012761">Tod und Sterben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Sie haben es erraten , Jean Paul ist nicht in Bayreuth , und nun öffne ich den Brief auf den die ganze Familie so begierig ist , und finde ihn halb an mich gerichtet ! - ich muß dem lieben Manne antworten , dem zu schreiben schon lange mein Wunsch war . Ihr und mein geliebtester Mensch ist bei der Herz. v. Kurland . Nicht in dem freundlichen Rudolstadt wohin ihn Ihre Liebe ziehen wollte und wohin er sicher gegangen wäre , wenn nicht die Herz . fast Gewalt gebraucht hätte um ihn zu bekommen . Als mein Mann in Stuttgart war , wurde er schon von einer Gräfin Chasepot dringend in Erfüllung eines hier im Gasthofe leicht hin gegebenen Versprechens nach Löbichau zu kommen , gemahnt . Er antworte erst in Baireuth , und zwar mit einem entschiedenen " Nein " . Da der Reiz des Heimischen ihm noch so lieb war . Allein dieses , Nein , gab zur Veranlassung zu einer dringenderen Bitte die in den reizendsten und witzigsten Worten , die ich je gelesen eingekleidet war . Genug , ich redete ihm selbst zu - er gab als Antwort , nur , Hoffnung - allein nun gab man ihm keine Frist . Ein Fußbote von Altenburg meldete den Wagen der von Hof aus , ihn in Gesellschaft des Hr. von Ende , und eines Kurländer , von Vines abholen würde , und er mußte nachgeben . Am 28 ten Auge : fuhr mein Mann nach Hof , und die Herren empfingen ihn . Am 29 ten erwarteten ihn Damen aus Löbichau in Gera , worunter gewiß die freundliche Fr. v Ende war . Dies ist die Geschichte meines Mannes , die ich Ihnen etwas umständlich erzählt habe , weil Sie so liebenden Anteil an allen kleinen Umständen seines Lebens nehmen , und nun l aßen Sie mich Ihnen danken für Alles was Sie Teilnehmendes an denen Menschen für die ich mich innig interessiere in Ihrem Briefe gesagt haben . Meine herrliche Fr. v Welden hat ihre Tochter verloren - ist mir doch als hätte ich es Ihnen gemeldet , da ich wenigstens lebhaft mit dem Vorsatz umgegangen bin . Ihr aber , der gemütvollen Frau , die an Allem was nur durch Freundschaft und Teilnahme Glückliches vom Schicksal gegeben wird , so wahrhaften Anteil nimmt . ihr zeigte ich jenen Ihrer schönen Briefe , worin Sie von der Bettenburg aus , nach der Tochter fragen - und es rührte sie ungemein . Doch lesen Sie Selbst ihre Worte . Nächst der Liebe meines Mannes ist mir die Freundschaft dieser vollendeten Frau das höchste Lebensglück . Wie gern spreche ich davon , und wie selten darf ich es , da alle meine übrigen Freunde , indem sie nicht Gelegenheit haben so wie ich , ihren vollen Wert zu erkennen , in meiner Liebe und Bewunderung für sie , nur Eitelkeit und Glanzsucht erblicken , da sie bürgerlich so hoch steht als geistig . Allein eine solche Verkennung kann mich nicht abhalten , in diesem schönen Charakter , der eine Mischung von Hoheit und Einfachheit enthält , der in jedem bürgerlichen Verhältnis das Rechte erfüllen würde , das höchste Vorbild alles Guten und Schönen zu bewundern , und diese Stimmung wird durch ihre Kinder immer neu erregt . Ich rechne es zu den wohltätigsten Einwirkungen des Schicksals daß meine Kinder , durch den vertrautesten innigsten Umgang mit den jüngeren Töchtern erwärmt und gebildet werden . Sie können denken , wie die Trauer um ihre geliebte Tochter diese Frau ergriffen hatte . Sie mußte sie entfernt in Lebensgefahr wissen , als Sie , lieber Voß , hier waren , befand sie sich auf dem Wege nach München ; hörte unterwegs tröstende Nachrichten - und in einem Gemisch von Hoffnung und Furcht , kommt sie in München an . Es war Morgens fünf Uhr , sie steigt bei der Gräfin Lerchenfeld , ihrer Freundin ab - Ein Türsteher öffnet das Haus - sie fragt " was macht das Fräulein Welden " - "o , die ist gestern gestorben " - - - - - - Sie kann sich nicht aufrecht erhalten , und sinkt auf die untersten Stufen der Treppe zusammen - endlich rafft sie sich auf , und geht ohne ihre Freundin zu begrüßen , zu den Pflegerinnen ihrer Tochter um die Verklärte zu sehen - sie findet sie nicht mehr , denn schon hatte man die geliebte Leiche in ein Leichenhaus gebracht , wie dies in München üblich ist . Wenn Sie eine Idee von dem Engel haben wollen , so lesen Sie im Cotta'schen Almanach Jahr 1817 , die Elegie von Rückert am Grabe einer " Agnes " es sind an die 70 Verse - aber dieses mich in Begeisterung versetzende Gedicht , das mich damals so ergriff , hat nachdem ich es kürzlich zum zweitenmal wieder meiner Mutter vorlas , seinen Gegenstand in diesem schönen Wesen gefunden . - Ein Bruder , der einzige Sohn von Fr. v. Welden , ein achtzehnjähriger Jüngling , der in München die Schwester das letzte Jahr ihres Lebens oft sah , besingt , und betrauert sie fast eben so . Dies ist der Trost der Mutter so viele solche Engel - Kinder nennen zu können . Ihre Gesundheit litt sehr . Schmerzen in der Leber und auf der Brust martern oft die gute Frau , die ganz Selbstbeherrschung , ganz Aufopferung für die Freude ihrer Familie ist . Nach dem Charakter eines Jeden weiß sie diese zu modifizieren , und wenn sie mit ihren Kindern ganz Herz und Geist ist , so ist sie mit ihrem etwas Weltlicheren Gemahl , ganz Regentin - so weit sein Kreis geht ; und mit den Gesellschafs Menschen , ganz Weltfrau ; mit ihrem Hauswesen ganz Ökonomin ; mit ihren Freunden für die ihr Herz sich interessiert , ganz teilnehmende in ihre Verhältnisse eingehende Freundin . O Segen über diese Frau und ihre Kinder , warum mußte gerade Sie , die Vortrefflichste so hart vom Schicksal geprüft werden ! Seit ich diesen Brief anfing , habe ich zwei Briefe von meinem Mann aus Löbichau erhalten wo er nun schon 14 Tage ist . Sie können es erraten wie glücklich er dort ist , vor Güte mit Geist vereint , ihm alle Genüsse zu bereiten strebt die Geschmack nur erfinden kann . Er sagt mir " man könne ein Jahr dort bleiben , so wohlig würde Einem . Doch jetzt soll ich den Wagen schicken , die Herzogin geht am 20 ten nach Paris . Wie viel möchte ich Ihnen noch über die lieben teuren Tage sagen , da Sie nur so freundlich erscheinen , lieber Voß ! Nur die Kürze Ihres Aufenthaltes bei uns , und Ihr krankes Auge waren das Einzige Schmerzliche , und meine Kränklichkeit . Wie wenig konnten wir für Ihre Freuden tun ! Sie sind in der Tat recht gütig , wenn Sie zufrieden waren . Möchten Sie uns nur bald wiederkehren , wie glücklich würden wir alle sein ! Max ist jetzt auf einer Reise nach München - bald kommt die Zeit da er seine Schule verlassen muß . Das Schicksal der Familie Paulus ist wirklich erschütternd - doch wie gütig war Gott , den Sohn für dessen irdische Existenz die Eltern so zittern mußten , zu sich zu nehmen . Gewis grüßt mein Mann die armen Menschen herzlich - möchte auch meine innigste Teilnahme für Sie einigen Wert haben - wie gern möchte ich sie kennen ! Ihrer teuren Mutter danke ich herzlich für den Gruß , den Sie ja erwidern mögen . Möchte das Schicksal Sie Ihnen lange in Ihrer ganzen Kraft erhalten - denn so eine Mutter ist eine Quelle des Segens . Ich fühle das lebhaft da ich um meines teuren Vaters Willen so besorgt bin , an den meine ganze Seele hängt . Er war hier , wie Sie wissen , und seine Zärtlichkeit gegen uns übertrifft alles , was man sich nur liebendes denken kann . Ach hätten Sie den guten lieben Mann gesehen und wie liebend mein Mann gegen ihn war . Nun leben Sie wohl - wenn mein langes Schreiben Ihnen nur eine kleine Entschädigung für meines Mannes Schweigen sein könnte - allein so wie im Gespräch ich schweige wenn er gegenwärtig ist , weil doch alles was ich sagen könnte gegen seine Worte so trivial ist ; so werde ich auch dann wieder in die stumme Rolle übergehen die mir geziemend ist . wenn er schreibt . Leben Sie wohl ! innigen Dank für Ihr liebendes Gedenken der - Seinen , dem Sie so viel Liebe widmen . Caroline </p>
+         </div>
+      </body>
+   </text>
+</TEI>

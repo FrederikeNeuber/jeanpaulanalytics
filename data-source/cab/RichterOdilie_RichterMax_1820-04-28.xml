@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0165">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Odilie Richter an Max Richter. Bayreuth, 28. April 1820, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Geringer Textverlust durch Ausriss der oberen linken Ecke.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-04-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011804">Bayreuther Gesellschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Lieber Max ! Wie kommt es denn daß Du uns des Nichtschreibens beschuldigst , da wir Dir beide im vorigen Brief geschrieben haben Zupfe Dich an Deiner Nase , denn Du hast uns noch nie ein apartes Briefchen geschrieben , und nur immer in den allgemeinen Brief ein paar gute Lehren für uns eingeflickt , aber nie etwas erzählt , was wir immer tun . Ich will weiter nicht zanken denn da Emma die das Gleiche tut , so könnte es Dir zu viel werden . Suche hier auch gute Lehren für Dich herauszufischen . Die Neuigkeiten des Tags sind , daß Frl. v. Barner angekommen ist und nichts von Dir mitgebracht hat , aber sehr viel Gutes erzählte sie un s von Dir und wie fleißig und artig Du wärst . Über Dein abgedanktes Lehramt mußten wir recht lachen . Heute wird auch Fr. v. Lochner erwartet . Das Theater ist doch nicht so schlecht , als wir dachten . Wir waren schon einigemal drin , weil die Mutter ein halbes Abonnement hat . Heute wird wieder hereingesegelt . Den traurigen Tod des Rittmeister Schubert wirst Du wohl auch wissen . Die Marie kam ein paar Tage vorher hier an , und freute sich so bei ihrer Großmutter zu sein , und mußte eben hier die Nachricht seines Todes erfahren . Im Anfang war sie sehr traurig . Die Generalin mußte nach Landshut reisen und Marie ging wieder zurück nach Hohenberg . Sie kommt aber wahrscheinlich wieder zurück nach Meiernberg . Am Montag waren wir auf der Brandenburger Kirchweih beim Pfarrer Reuter . Der Vater war auch gebeten und fand den Professor Held Petzel und Otto draußen . Daß Du jetzt öfter ausgehst und nicht mehr so melancolisch bist freut uns sehr . Die Barner sagte uns Du gingst täglich eine Stunde spazieren . Habt ihr auch so schönes Wetter und so schöne grüne blühende Bäume im München ? Hier ist Alles im schönsten Flor . Die Mutter vergaß Dir den T Od der Professorin Degen zu sagen , sie starb an der Auszehrung . Am Sonntag erwarten wir die Großmutter . Sie reist mit der Gräfin Schmettau . Ich freue mich sehr auf sie . Weißt Du schon daß die Emma Spatzier versprochen ist , mit einem , beim Finanz Departement angestellten jungen Mann ? Sie und die Tante sind sehr froh darüber . Verzeihe meine aber der Mangel an Papier läßt mich nichts weitläufig schreiben . bessere Dich . Deine Odilie . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

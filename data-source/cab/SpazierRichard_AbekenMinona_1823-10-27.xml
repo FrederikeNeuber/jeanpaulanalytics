@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0664">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Richard Otto Spazier an Minona Laura Spazier. Leipzig, nach dem 27.
+                    Oktober 1823</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 4 S. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Siegelfleck auf S. 1.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004107">Richard Otto Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date notBefore="1823-10-27" notAfter="1823-12-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000009">Minona Laura Abeken</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+            </correspAction>
+            <note>Zur Datierung: Richard Otto Spazier kehrt am 27. Oktober 1823 von einem Besuch
+                    in Bayreuth bei der Familie Richter, der Gegenstand dieses Briefes ist, nach
+                    Leipzig zurück (vgl. seinen <ref type="letter" target="JP-UB0483">Brief an
+                        Caroline Richter vom 29. Oktober 1823</ref>).</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012770">Familie Spazier</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-012575">Familie(n)</term>
+               <term corresp="#JP-012453">Jean Pauls Alltag</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Liebe Schwester ! Ich habe Dich so lange auf Antwort auf Deine beiden mir so lieben Briefe warten lassen daß es Dir scheinen möchte als hätte ich in der Liebe zu Dir wieder nachgelassen ! - dem ist aber nicht so . - Deinen ersten Brief erhielt ich kurz vor meiner Abreise nach Baireuth , oder er bestimmte mich vielmehr dazu , und da weißt Du ja selbst , wie vielerlei da mich so beschäftigen mußte , daß ich die Antwort für Dich aufzuschieben genötigt war ; - auf Deinen 2ten in Bayreuth selbst erhaltenen wollte ich Dir in aller Muße und nach Verlauf alles dessen , was ich während der Ferien erlebte antworten , um mich eben darüber desto vollständiger mit Dir unterhalten zu können . Ich hoffe , Du werdest dies für genügende Entschuldigungen gelten lassen . - ich habe mich freilich jetzt hingesetzt , um Dir deutlich zu sagen , wie mir bei Richter's zu Mute war und wie es noch in meinen Herzen mit freudigem Beben nachklingt , wie im schönen Traume fast , - aber wenn ich bedenke , wie ich in elende Worte auf dem Papier das einzwängen soll , wie ich es fühle - da will ich immerhin es aufgeben und muß Dich auf mündliche Unterhaltungen darüber vertrösten , die ich Dir , wenn Gott der Mutter anders bessere Genesung verleiht , zu Weihnachten zu geben hoffe . - Nur so viel sei Dir gesagt , daß der Onkel und die Tante mit der unendlichsten Liebe mich aufgenommen und fortwährend wie ihr eigenes Kind behandelt ; daß ich in dem interessantesten Kreise von Menschen beständig gelebt , und daß , was mich am meisten freut , es mir gelungen ist selbst den Onkel so für mich , ich weiß nicht wodurch zu gewinnen , daß er mich höchst ungern mich gehen sah , ja fast sich an mich gewöhnt hatte . - Ich wollte , Du lerntest auch die Tante so näher kennen als ich , wie würdest Du sie lieben . Es kam mir freilich sehr zu Statten , daß man eine Art Vorurteil gegen mich hatte , ehe ich kam ; indem man mich nach Mahlmanns Beschreibung für einen höchst vergnügungssüchtigen , eleganten , höchst geschniegelten jungen Leipziger Fant hielt , der eine halbe Stunde brauchte , um sich allein das Halstuch in die gehörige Form zu legen usw und daß man zu seinem Erstaunen hierin wenigstens das Gegenteil fand . - Die Emma und Odilie haben eine wahre Angst gehabt , wie sie einen solchen an die rauschendsten Vergnügen gewöhnten Menschen würden unterhalten können , und konnten es die ersten 8 Tage wenigstens nicht begreifen , wie ich bei ihnen keine Langeweile haben könne usw.. . Was die gute Emma betrifft , die Du so hehr und groß zu nennen beliebst , liebe Minona , so hast Du in gewissem ziemlich wohl recht , wenn Du näm- lich die reinste Bildung mit der höchsten Kindlichkeit und Anspruchslosigkeit , die vom Schein nicht eine Idee einmal hat , und sich willig und gern jedem unterordnet , was glänzen und gleißen will , - gepaart , wenn Du das unter hehr und groß nennst ; - dann hast Du allerdings Recht ; - Du siehst aber eben so wohl ein , daß Du Dich gegen solch kindlich-anspruchsloses Wesen in ein Winkelchen nicht zu verkriechen hast ; ja recht gut neben ihr bestehen kannst . - Die Odilie ist mir noch weit zurückgezogener und fast zu bescheiden , indem sie ihrer älteren Schwester , ohne daß jene irgend einen Anspruch darauf machte , zu sehr den Vorzug lässt und ohne sie verlegen u ängstlich fühlte , so daß man so wie ich im Hause eingebürgert sein muß , wenn man ihre herrliche Natur , ihr ganz Resignieren auf jeden Vorzug , hervorgegangen aus der höchsten Demut , zu bemerken im Stande ist . - Du kannst wohl denken wie wohl ich mich in dem Umgang mit diesen Wesen befunden habe . - Wie unendlich mehr würdest Du den Onkel lieben und verehren lernen , wenn Du ihn im Walten seines häuslichen und gewöhnlichen Seins beobachten könntest ; - wie er ewig erhaben u fern wie die Sonne , aber fast auch immer so Licht und Wärme um sich verbreitend ist wie diese , so das Höchste , das der menschliche Geist u seine Phantasie zu erfassen im Stande ist , umfaßt , aber wie das Kleinste , was des Menschen physisches Sein betrifft ; wie fast Alles dies in demselben Augenblick durch seine Seele geht ; - wie all sein Tun nur die reinste Menschenliebe atmet und er immer die ganze Menschheit an sein liebendes Herz drückt . - mein Streben hat durch ihn nun eine feste und geregelte Bestimmung erhalten und arbeite ich mit dem höchsten Fleiße jetzt nur allein darauf hin . - Bayreuth selbst ist ein so angenehmer Ort , daß ich seine Lage fast der von Dresden gleich setzen möchte ; - das Fichtelgebirge , an dessen Fuß es liegt , ist fast noch erhabener als die sächsische Schweiz ; - die Stadt ist sehr freundlich u das Leben äußerst gesellig . Ich habe besonders unterm Adel viele sehr liebenswürdige Familien kennen gelernt , deren Umgang mir auch sehr viel Freude gemacht hat . - Merkwürdig ist , daß mein bisschen Singen in Baireuth ordentlich Epoche machte , anderswo noch nicht ; - ich habe mir dadurch viel Freunde gemacht . - Die Musik ist freilich dort schlecht bestellt und unter vielen Schlechten wird der Mittelmäßige am Ende vortrefflich . - Bei Mahlmann bin ich noch nicht gewesen , werde auch gar nicht hingehen - Richter ist mit mir darüber ganz einverstanden . - Erinnere doch die Mutter daran , daß sie mir meinen braunen Flausrock schicke ; ich habe ihn sehr nötig und er hängt bei Euch doch umsonst . Schreibe ja bald , wie es mit der Mutter gehe . Deinem Dich liebenden Bruder Richard </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0168">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Ernst Förster. Bayreuth, 12. (?) und 13. April
+                    1826, Mittwoch und Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Ernst Förster, Aus der Jugendzeit, Berlin
+                            und Stuttgart 1887, S. 354-356.</bibl>
+               </witness>
+            </listWit>
+            <p>Brief nur im Auszug abgedruckt; eventuell fehlen Anfang, Schluss oder Zwischenpassagen.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1826-04-12" notAfter="1826-04-13" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001120">Ernst Joachim Förster</persName>
+            </correspAction>
+            <note>Zur Datierung: Der erste Teil des Briefes wurde vor dem 13. April 1826
+                    geschrieben, vermutlich am 12. April.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012048">Briefverkehr</term><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-011832">Gesellschaftliches Leben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Die Mutter kann diesmal leider nicht mitschreiben , wie haben Maurer im Haus , also auch Geschäfte ; aber sie grüßt Sie herzlich und erfüllt mit Freuden ihre Wünsche , um deren nähere Bestimmung sie nur bittet . Es tut mir sehr leid , daß diesmal Ihre Erwartung getäuscht wird und mein Brief allein läuft ; ich könnte wohl warten , aber wer weiß wie lange , und dann muß ich die Antwort , die allemal gleich fertig im Kopfe liegt , immer darin herumtragen , also - - - gute Miene zum bösen Spiel , ich weiß keinen Ausweg . Aber denken Sie es noch einmal recht durch , was Sie hier erwarten ; wollen Sie Bayreuth nur statt eines Landaufenthaltes besuchen , so kommen Sie , und ich weise jeden schönen Tag ab , und bitte ihn im Mai zu erscheinen ; denken Sie aber an gesellige Unterhaltung , so laufen Sie nur durch , nach Konradsreuth . Die Gesellschaft besteht hier nicht aus Kreisen , sondern aus einem Kreis , und der nimmt einen Fremden , besonders wenn er nicht spielt , so bissig auf , wie ein Truthühnerschwarm einen vermehrenden Gesellen . Mir wird ganz Angst , denke ich mir , daß Sie sich langweilen hier . Außer unserem Emanuel und Otto wüßte ich wenig Männer hier , die für Sie paßten , junge gar nicht . Wer wie wir schon so eingebürgert hier ist , und zumal wer wie ich eine Louise und Fanny Welden hat , und einen Emanuel , die er alle auf der übrigen Erde nicht wieder zu finden glaubt , dem gefällt_es ; doch wer andere Ansprüche hat - . Ich sage Ihnen das alles voraus , damit Sie sich um Gottes Willen nicht täuschen . Bei uns sollen Sie übrigens immer Freunde und Freude finden , erstere für sich , letztere für uns ! 13. April . Hoffentlich wird heute der Brief fertig für die morgende Post . Sagen Sie mir , wie fangen Sie es an , so lange Briefe zu schreiben ? Ich mag mich drehen und wenden wie ich will , meine längsten haben nur sechs Seiten . Überhaupt ist mir es gar nicht gleich , an wen ich schreibe ; bei Ihnen geht es mir leicht , bei Weldens auch ; aber bei Solchen , wo ich gescheit sein will , wo ich nicht alles wie es kommt sagen darf , wird es mir unendlich schwer . Ihre Abhandlung über die Eitelkeit gefiel mir sehr . Solche Teufelsspiele der Phantasie müssen wie die Träume sein , in denen wir ja auch Sachen begehen , die im Wachen nie in unsere Seele kommen . Die Angst vor der männlichen Eitelkeit jagte mir ein junger Vetter ein , ein gutmütiger , gescheiter , talentvoller Mensch , aber alles Schöne in ihm durch die böse Eigenschaft überdeckt . Daß Sie aber einen halben Scherz für ganzen Ernst nehmen , ist ärgerlich . Die Träne des Schmerzes erlasse ich jedem Mann , fast auch jeder Frau , aber die der Rührung , Erhebung und Freude keinem Menschen ! Was ist denn das für eine Novelle , die Ihnen im Kopf steckt ? Kommen Sie nur und lesen Sie vor . Die Mutter sprach mit einer unserer Bekannten , Frau v. Herder ( der Schwiegertochter des berühmten ) , wegen eines Quartiers für Sie . Dort können Sie ein Logis bekommen , und nun ist mir nicht mehr bange für Ihre Unterhaltung . Das Haus liegt in einem Garten , nach allen Seiten frische Aussicht , und in Herders finden Sie die beste Gesellschaft . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

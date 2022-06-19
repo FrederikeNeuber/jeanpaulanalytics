@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0865">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Johann Friedrich Frauenholz. Meiningen, 22.
+                    Oktober 1807, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>DBSM Leipzig</institution>
+                        <collection>Studiensammlungen</collection>
+                        <idno>
+                           <idno type="shelfmark">2006/Arch/79</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Bl., 2 S. S. 3 Adr. An | Herrn Kunsthändler <hi rendition="#aq">
+                              <hi rendition="#u">Frauenholz</hi>
+                           </hi> |
+                                        Wohlge<ex>boren</ex> | in | <hi rendition="#u">Nürnberg</hi>. | <hi rendition="#u">Postfrey</hi>. Präsentat
+                                    vfrH, um 90° gedreht: <hi rendition="#aq">Meinungen</hi> 1807 |
+                                    Dat 22 <hi rendition="#aq">October</hi> | beantt. (?) 6 <hi rendition="#aq">Novbr</hi>. | <hi rendition="#aq">Wagner</hi>
+                        </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1807-10-22" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-011884">Johann Friedrich Frauenholz</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012692">Bildung</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wohlgeborener , Hochzuverehrender Herr ! Durch Ihre neuliche gütige Nachricht von der geschehenen Absendung meines Bildes an Herrn Prof. Müller nach Stuttgart und die dabei geäußerte wahrhaft schönen Gesinnungen haben Ewr. Wohlgeboren mich lebhaft gerührt , und meine Verlagshandlung hoffentlich zum wenigsten aufs innigste beschämt . Leider tragen nur alle dergleichen ausgesäte reine Samenkörner der Liberalität dennoch so selten Früchte auf dem rohen Felde der Selbstsucht ! Sonst müsste ja die Welt doch wahrlich viel besser sein ! Ihre schon oft erprobte Güte macht mich so kühn , Ihnen , verehrter Mann , hier eine ganz gehorsamste Bitte vorzutragen , dem gütige Erfüllung mir sehr am Herzen liegt . In etwa 4-5 Wochen werde ich mir die Freiheit nehmen , Ihnen den 1n Band meines neuesten Werks " Reisen aus der Fremde in die Heimat " , dessen Erscheinung noch von gedachtem Kupferstiche abhängt , gehorsamst zu übersenden . An diesen Band ist ein Kunstplan für Deutschland angehängt , über den seit einiger Zeit manches freundliche Wort gesagt , geschrieben , auch von etlichen erhabenen Lippen zugesichert worden ist , und der nun - angetan mit dem Kleide stiller bescheidener Hoffnung - zum erstenmal öffentlich ans Licht der Welt treten soll . Zu seiner , dem Inneren desselben gemäß , nötigen weiten Verbreitung sind natürlich viele und gute Adressen nötig , und wenigstens - wo diese ganz fehlen - doch gute , schickliche und möglichst Hoffnungsreiche Namen . Die Nennung dieser und die hülfreiche Mitteilung jener - dies ist_es , was ich von Ihnen zu erbitten habe , den Deutschland und die Welt längst zu den größten , eifrigsten und uneigennützigsten Kunstfreunden zählten . - Haben Sie doch die Güte , in Ihrem Gedächtnisse mir zu Liebe einmal Ihre näheren Freunde , Kunstfreunde , reichen Kunstbeförder , armen aber enthusiastischen Liebhaber , angesehene Dilettanten , geniale Menschen , auch besonders reiche oder arme geniale , gebildete oder kunstfreundliche Frauen nach demjenigen Städteverzeichnisse gütig zu mustern , welches ich Ihnen hierher setze , und worin ich zwar nicht ohne Adressen bin , aber doch noch lange nicht reich genug an Adressen und bekannten Namen Es versteht sich , daß überall , wie ich hiermit zum Voraus gelobe , die größte Diskretion beobachtet wird , die unser Publikum soviel ich weiß noch nie an mir vermisst hat . Ich bitte weiter nichts als : " in meiner Zuschrift Ihren Namen ( da wo Sie persönliche Bekanntschaft haben ) nennen , übrigens meines Werkchens 1n Band postfrei übersenden , schenken und dabei bitten zu dürfen , man möge den Plan gütigst lesen , ihn anderen dortigen Kunstfreunden und Befördrern mitteilen und sich , falls er Beifall finde , dort nach Möglichkeit für die Sache verwenden . " - Oder auch : " man möge das Werk , welches dorten bei Herrn N. N. liege , gütigst einsehen pp " - Und so gedenke ich im Namen der Kunst Ihren lieben Namen nicht unnützlich , sondern nützlich zu führen . - Hohe Häupter bitte ich möglichst zu vermeiden , welches Ihnen aus dem Plan selbst deutlicher werden wird . Im Fall eines gänzlichen Mangels von Adressen an einem Ort bitte ich nur um Anzeige der gebildetsten und hoffnungsreichsten Bughandlung . Ich will die notwendigsten unterstreichen . Freilich sind sie es fast alle Magdeburg , Braunschweig , Hannover , Glückstadt , Hamburg , Lübeck , Schwerin , Berlin , Stettin , Danzig , Königsberg , Riga , Dessau , Dresden , ( ich weiß L. Tieks gegenwärtige Adresse nicht , und wünschte sie sehr . ) Wittemberg , Leipzig , Gera , Rudolstadt , Kassel , Neuwied , Mainz , Frankfurt a. M. , Fulda , Mannhein , Heidelberg , Düsseldorf , Köln , Bremen , Darmstadt , Stuttgart , Karlsruhe , Augsburg , Ulm , Basel , Zürich , Passau , Wien , Salzburg , München , Regensburg ( auch Friedr. Schlegels jetzige Adresse geht mir ab. ) Ansbach , Baireuth , Nürnberg ( außer Ewr. Wohlgeboren ) Bamberg , Würzburg , Prag , Ollmütz , Breslau . Jemehr von jedem Ort , je besser ! Wollten Sie dann , freundlicher Mann , hierin Etwas für mich gütigst tun ? - Es gilt ja der Kunst ! Das sei für jetzt alles gesagt . Übrigens erspare ich alles Weitere bis künftigen Monat , und hoffe nun endlich bald in recht nahe , innige Verbindung mit Ewr. Wohlgeboren zu kommen ! Nochmals erlauben Sie mir Ihnen den Satz ans Herz zu legen : Wer bald hilft ( und schreibt und Adressen gibt ) hilft zweimal ! In beständiger Verehrung Ewr. Wohlgeboren ganz gehorsamstverbleibender JEWagner H. S. Kabinettssekretär Ich vergaß , die Bitte um gütige Verschwiegenheit bis zu Erscheinung der Sache oben hinzuzufügen . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

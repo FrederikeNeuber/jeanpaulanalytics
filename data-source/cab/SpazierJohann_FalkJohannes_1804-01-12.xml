@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0718">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Johannes Daniel Falk. Leipzig, 12. Januar
+                    1804, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">15/II,1D,13</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3½ S.</p>
+                        <accMat>Nicht ermittelte Beilage zur Weiterleitung. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1804-01-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012547">Zeitschriften</term>
+               <term corresp="#JP-012601">Juristische
+                        Angelegenheiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich hätte sehr gern getan , wertester Freund , was Sie gewünscht ; aber um ein ganzes Blatt zu füllen , dazu reichte der Beitrag nicht hin . Meine Zeitung ist ein Ungeheuer , das viel frißt ; ich empfinde das . Eine besondere Vignette lies sich noch weniger anbringen : wo selbige gleich hernehmen ? Ich denke , indem ich das Totenopfer ins erste Blatt des Jahres gebracht u einige ernsthafte Worte habe vorhergehen u andere über ein bedeutendes Trauerspiel nachfolgen lassen , werde ich es damit noch so ziemlich schicklich gemacht haben . Eigentlich sollte etwas über das Titelkupfer , das die Porträts von Wieland , Goethe u Schiller vorstellt , den Jahrgang eröffnen ; das Blatt ist aber nicht fertig geworden . Haben Sie recht vielen Dank für das was Sie gegeben haben . Meine mich zerstreuenden Geschäfte gegen Ende des Jahres , dazu noch zwei lächerliche Injurienprozesse , die mir die Herren Schütz u Ersch an den Hals geworfen haben , haben es mir schlechterdings unmöglich gemacht , mich mit meinen Korrespondierenden zu berechnen , u also muß ich Sie recht sehr bitten , mir zu verzeihen , daß ich es auch mit Ihnen nicht getan habe . Sind Sie_es zufrieden , wenn wir_es bis zur O. Messe lassen ? Ich bin jetzt gar nicht wohl , u mein Haus ist ganz in Unordnung . Das Scharlachfieber hängt darin : ich bin von Allen abzuschützen , wie ein Verpesteter , da ich die Pflege mit besorge , denn auch mein Mädchen liegt krank danieder . U. dabei säugt die Mutter ! Sie sollen nämlich wissen , daß ich seit 11 Wochen einen neuen Jungen habe . Mir ist das Jahr gar nicht fröhlich angefangen . Ich wünsche es Ihnen besser . Bleiben Sie mir Freund , oder vielmehr sein Sie erst so gut , es zu werden . Ihr ergbster Spaziere . Ich bitte Inlage schleunig abreisen zu lassen . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

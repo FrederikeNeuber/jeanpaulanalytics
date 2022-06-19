@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0782">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Caroline Richter. Ohne Ort, zwischen 1. April und 23. Juli 1804</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S., ohne Anfang und Schluss.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Textverluste durch abgerissene Blattecken.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <date notBefore="1804-04-01" notAfter="1804-07-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Der Brief wurde nach Ostern 1804 und vor dem Folgebrief vom 23.
+                    Juli 1804 verfasst, wahrscheinlich im April oder Mai 1804, als Caroline ihrem
+                    Vater ihre erneute Schwangerschaft mitgeteilt hat (<ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0549/#start_mtt_rvh_sjb">Brief vom 18. Mai
+                        1804</ref>).</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011811">Reisen</term>
+               <term corresp="#JP-012638">Familiäre Beziehungen</term>
+               <term corresp="#JP-012509">häusliche Beschäftigungen</term>
+               <term corresp="#JP-012033">Textilien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>son aufgefunden , die Jahr aus Jahr ein f spinnen soll . Meinem Rest von Flachs den wir von der Mutter erbten , habe ich ihr schon gegeben , man bezahlt fürs Stück 8 gr . Das Stück bot aber so viel wie sechs Stück , nach Berliner Zahl . und ist also nicht zu teuer . So schafft man sich doch nach und nach etwas und , wird die Ausgabe kaum gewahr . Mein Mann nennt mich immer einen Leinewandswurm aber es ist wahr , ich könnte für ein Stück Leinewand , einen Spitzen Anzug hingeben . Dem Vater scheint es ganz Ernst zu sein daß er diesen Sommer zu uns kommen will . Ich lege Dir hier Briefe von ihm bei die neuesten die wir haben . Deinen Max zu sehen , gäbe ich viel . Ich kann mir gar keinen rechten Begriff von ihm machen . Warum gefällt er denn aber den Leuten besser als die Emma . Meine himmlische Emma ? Sagst Du noch zu ihr , gib Küßchen , und gibt sie noch so gutmütig ihr Mäulchen her ! Das liebe Kind . - Wer wird Dich in denn nun in Deinen Wochen pflegen , meine liebe Caroline ? Und wo wirst Du sie halten , wahrscheinlich bist Du dann nicht mehr in Coburg ? Fällt es nicht wieder im Oktober oder November ? - Wenn mein Mann mit seinen Wünschen nach Berlin zu kommen , reußiren sollte , dann fällt vollends alle Aussicht weg , daß wir uns wiedersehen . Denn eine Reise nach Berlin , ist doch noch kostspieliger als eine jede andere . Und nach Leipzig wird Dein Mann nie reisen , das ist mir so gewiß wie mein Leben ! - Weißt Du ich habe dem Vater schon deshalb einen Brief geschrieben so wie mein Mann es wünschte . Aber davon laß Dir ja gegen keinen Menschen etwas merken . Schreibe auch nichts davon in einem Briefe an mich . - Spaziere klagt so oft ich ihn sehe , daß Dein Mann seine Versprechen nicht hält ihm etwas für die Zeitung zu geben . Rede doch Deinem Mann zu daß er etwas schickt . Er hat ja so viel ! Du meinst ich hielte zurück , mit meinen Meinungen über Minna . Es tut mir jedesmal leid , wenn ich etwas über sie schrieb . daß Dir einen nachteiligen Eindruck von ihr gibt . Man muß nicht an allen Menschen einen gleichen Maßstab legen - sie ist mir - trotz ihrer Herzlosigkeit - die Dich ja nicht verwundern sollte - da Du sie ja an ihr kennst seit ihrer Geburt - gleich lieb . Ich achte ihren Verstand - und alle Gaben kann der Himmel nicht gleich verteilen . Es ist ja ein zu oft bewährter Satz daß das Herz oft , oder gewöhnlich auf Kosten des Verstandes leer ausgeht , und wieder umgekehrt . Wir paßen freilich gar wenig für einander , doch leben wir ganz artig zusammen und ich wäre nur neugierig wie Du Dich mit ihr , und dem originellen Deines und ihres Wesens vertragen würdest - wenn ihr euch eimal wiedersähet . Es scheint als ob Dir das wahre Bild von Minna ganz aus der Seele verschwunden ist - ihr habt Euch jede neu kennen zu lernen . Minna ist sich immer gleich geblieben - Dir haben neues Leben und neue Verhältnisse - neue Züge aufgedrückt - und Dein Charakter spricht sich schärfer und bestimmter aus , als ehedem . Des gegenseitigen Effekts wäre ich sehr begierig . Ich habe den Wellens den Du mir meine liebste Caroline zugedacht hattest , wirklich behalten wollen . Es fehlte mir aber beim letzten Einpacken , an Stoff den Kasten gehörig zu füllen , und so griff ich in der Eile nach dem Zeuge , gleich denkend , daß du es missverstehen könntest . Ich wußte mir aber nicht zu helfen . Die Schuhe will ich dir besorgen , So wie Du es wünschest . Minna scheint geneigt welche davon zu nehmen . Schreibe doch einmal an sie ! Ich weiß wohl , daß sie Dir eigentlich einen Brief schuldig ist aber sammle immer glühende Kohlen auf ihr Haupt Dein Herz trägt den Segen davon . - Am ersten Oster-Feiertag waren Spaziers Abends bei uns . Weil mein Mann sich zu leicht mit ihm allein ausspricht , wo wird immer ein alter Hofrat Wolke </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0841">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig, 1. November,  1803, Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection>B:Spazier, Karl</collection>
+                        <idno>
+                           <idno type="shelfmark">79.44|11</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Db. 8°, 4 S. </p>
+                        <accMat>Titelkupfer der Zeitung für die elegante Welt des Jahres
+                                    1803 </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-11-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-011937">Kunst</term><term xml:id="JP-012572">Verlage / Verlegerisches</term><term xml:id="JP-012547">Zeitschriften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Vorerst Ihr Auftrag , lieber Bode . Mahlmann hat keine Lust zu der Enterprise , auch ist er mit Sachen schon zu besetzt , wie ich versichern kann . Ich glaube überhaupt nicht , ehrlich gesagt , daß sich nicht ein Verleger zu einer Suite von Bänden Gedichte dieser Art finden dürfte , zu welchen noch kein Sinn u Verstand im Publikum gefunden wird . Was soll ich also tun ? Gern würde ich weiter herumfragen , aber ich sehe schon , es hilft mir nichts . Wissen Sie was ? Schreiben Sie einmal an Reimer , den Faktor oder Inhaber , glaube ich , der Realschulbuchhandlung in Berlin : der hat Calderon , Tiecks ( pudelnärrische ) Minnelieder-Sammlung , Lakrimas etc. verlegt . Vielleicht schlägt der ein . Sie sind recht gut u wacker , l. B. für Ihre Freunde , das sehe ich . Haben Sie schönen Dank für Ihre Auskunft wegen der Porträts . Ich nehme die Proposition mit Vergnügen an u gebe Ihnen plein pouvoir mit Herrn Zimmermann die Sache zu beginnen , dem ich mich hiermit bestens empfohlen haben will . Ich werde mich ihm sehr verbunden erachten , wenn er so gütig sein will die Zeichnungen recht bald zu besorgen . Sie erhalten das vorjährige Titelkupfer , damit Hr. Z. die Größe der Medaillons danach bestimmen kann . Es bleibe Ihnen überlassen , wie Sie die Idee arrangieren wollen . Das Schustergesicht in den Kohl zu stecken , ist nicht übel . Mag sich der Zeichner doch damit versuchen , wie er das anfängt . Aber ist die visage auch dort bei Ihnen zu haben ? Wo nicht , so mag nur dazu Platz bleiben , u wir wollen wohl hier dafür sorgen . Nur hübsch bald Alles ! Die wenigen Wochen gehen leicht um , u das Blatt soll doch ordentlich gestochen werden . Machen Sie , l. B. daß Herr Z. billig ist . Nach meinem Kontrakte mit Voß , fällt mir , nicht ihm , alles anheim , was Zeichnungen kosten ; den Kupferstich bezahlt Er . Glücklicherweise bin ich seither meist durch Güte von Freunden , oder durch Zufall zu allerhand Sachen gekommen und Weniges habe ich bezahlen dürfen . Unterdes mit Vergnügen werde ich honorieren . Nun bitte ich mir die Forderung des Herrn Z. zu sagen . Einigermaßen kann er etwas auf die Publizität seines Namens durch die Zeitung schlagen ; denn ich würde auf jeden Fall ausdrücklich sagen , daß u wie er die Porträts ausgeführt . Nun genug davon . Haben Sie schon Ihren Panegyrikus im Ernst u Scherz gelesen ? Es ist recht niederträchtig , wie der Sünder mit den Burlesken umgegangen ist . Machen Sie doch eine Burleske auf ihn ; aber sie muß so werden , daß ganz Deutschland darüber lacht , ganz als petit miserable müssen Sie ihn behandeln , ich meine aber damit , durch Immersion muß er ganz inquisirt werden . Ersinnen Sie doch eine lustige Idee , was Sie eigentlich mit ihm anfangen wollen . Schlägt man den Hund nicht tot - was das Beste wäre - so muß man ihm einen Haarbeutel einbinden u ein Brummeisen ins Maul geben , ihn wie einen Schneider tanzen lassen . Die Expectorationen sind von Kotzebue , ganz bestimmt . - Apropos bald hätte ich vergessen Ihnen zu sagen , daß seit Sonntag meine Frau mit einem Jungen in die Wochen gekommen ist . Vive la vie ! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

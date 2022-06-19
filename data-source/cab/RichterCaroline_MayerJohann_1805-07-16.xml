@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0319">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 16. Juli 1805,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1805-07-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012538">Minna Spaziers Familienangelegenheiten</term>
+               <term corresp="#JP-012761">Tod und Sterben</term>
+               <term corresp="#JP-012868">Geburtstags- und Namenstagsglückwünsche</term>
+               <term corresp="#JP-013022">Adel und höfisches Leben</term>
+               <term corresp="#JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein geliebtester Vater , Sie haben alle meine Wünsche , durch die Nachricht dessen , was sie für Minna tun wollen , gekrönt , und ich kann Ihnen meine Rührung und meinen Dank dafür nicht lebhaft genug aussprechen . Gott gebe daß Minna nie Ihrem Herzen diese Wohltat erschwert , damit Ihre Güte Ihnen kein zu großes Opfer werde , und daß sie ihre Kinder so ausbildet daß einst Ihnen ihr Anblick den väterlichsten Anteil erwecke ! - - Mir ist das Zusammentreffen dieser Handlung mit dem nahen heiligsten Tage für uns , überaus feierlich - an dem wir nun so inniger fühlen müssen was wir noch besitzen , weil zum erstenmal nur zwei kindliche Herzen für Ihre Erhaltung zum Himmel flehen , und das Beste Kinderherz im Himmel nur bitten kann , daß Sie zu ihm kommen , weil es dort besser ist als hier . O es ist schrecklich an diesem Tage ihres Verlustes eingedenk sein zu müssen , wo Sie mit dem reinsten Herzen unter allen an der Spitze stand , und wir alle drei auf Einen Punkt versammelt waren , wo trotz der weitesten Trennung von Außen , wir eines inneren Verein ´s unter uns , Allen gewiß waren . Die Unvergessliche , die Ewige ist auch jetzt unter uns - Sie sieht uns gewiß , und segnet den Tag , aber wir wissen nicht , wir ahnen nur ihren Blick aus der Höhe , mit dem schmerzlichsten Rückblick auf uns . - Aber ich will Sie nicht weich machen , mein Vater - wenn Sie mit der ewigen verdoppelten Liebe Ihrer anderen Kinder zufrieden sein können , so leben Sie noch lange , und lassen Sie uns diesen ehrwürdigen Tag wie oft noch feiern . - - Sie erwarten von mir eine fortgesetzte Erzählung von meines Mannes Aufnahme beim König . Er ließ sich durch den Minister Hardenberg , den er überhaupt recht viel sah , dem König nach der Mittagstafel vorstellen - wo Er , die Königin , und die Solms , allein beisammen waren . Zum Unglück versäumte er ein wenig auf einen Zufall die bestimmte Zeit um 3 - kam erst um 3 1/2 , weshalb sein Besuch kürzer war , als er hätte sein können , denn sie hatten eine Spazierfahrt bestimmt . Doch sprach er anfangs viel mit dem König , den er äußerst freundlich fand , der so gut sprach , so viel , daß mein Mann weniger zum Worte kam als gewöhnlich . Der König bedauerte unter anderen daß er nicht damals in Sanssouci war gewesen als m. M. bei der Königin war - sprach viel von Potsdam u. s.w. Endlich verlor er sich und Richter war mit der Königin u Solms allein . Die Königin dankte ihm sehr für sein Gedicht , besonders , daß er darin ihre Schwestern mit ihr zusammengestellt hätte . Er musste eine schlechte Äolsharfe mit aufstellen und stimmen helfen u. s.w . Am anderen Morgen um 8 Uhr ging er zu Beim , fand ihn aber nicht . Wenn sein Bedienter ihm vergeßen hätte , meinen Mann zu nennen , erinnre Sie ihn , daß es an dem Morgen gewesen sei , wo er bei Lombard gewesen als dieser nach Pisa abreiste . An demselben Tage kehrte m. M. nach Baireuth zurück es war also nicht möglich seinen Besuch zu wiederholen . Es war ihm aber sehr leid , B. nicht gesehen zu haben . Was Sie in Zeitungen oft genug lesen werden ist die schöne Art wie sich der König u die Königin hier genommen haben - Ihre Freude an dem Aufenthalt . Der König wollte nicht daß man ihn an Abreise erinnerte - dazu wohl auch eine kleine Liebe zur Großfürstin mit beitrug die immer mit ihnen war . So umgekehrt die Königin mit dem Erbprinzen von Coburg . Mir machte es sehr viel Freude , daß der König so wahrhaft liebenswürdig , so unbefangen , und gütig geschildert wurde . von Ihr versteht sich das von selbst , die sie wie eine Göttin angebetet wird . Der König war ganz Mensch , und gab sich gefällig der Neugier des Volks hin , da er sich sonst immer verbarg . Ich wurde von allen Berlinern ignoriert daß sei eine Antwort auf Ihre andere Frage . Ich schäme mich noch des Augenblicks vor 2 Jahren wo ich in einem kleinen Dorfe , aus überwallender Freude etwas Heimisches wiederzusehen dem unheimlichen Angesicht entgegentrat , das in der Umgebung von 2 Kabinettsräten nicht die Energie hatte mich anzuerkennen u. s.w . Man wird recht kalt gegen die Menschen , denn jetzt habe ich die Überzeugung , das Geburt und Natur eine heilige Magnetnadel sind , die der Schöpfer dem Menschen angewiesen hat , weil alle künstlichen Zuneigungen nur für Momente befriedigen , und wo Menschen einem dann als Betrüger erscheinen . Man soll Eltern Geschwister u Mann treu lieben , und diese will ich auch doppelt lieben bis in den Tod . Gott segne Sie , mein Vater u Ihre herrliche Frau , und bleiben Sie uns lange . Ihre Caroline . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

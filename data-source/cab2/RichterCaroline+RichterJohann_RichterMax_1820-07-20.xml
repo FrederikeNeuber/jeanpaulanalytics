@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0156">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Max Richter. Bayreuth, 20. und 21. Juli 1820, Donnerstag und Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>DLA</institution>
+                        <collection>A: Richter, Johann Paul Friedrich</collection>
+                        <idno type="shelfmark">55.923 </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. 2½ S. von Jean Paul, 1½ S. von Caroline Richter.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                     <ref type="letter" subtype="document" target="https://www.jeanpaul-edition.de/brief.html?num=VIII_78">
+                            3-VIII_78</ref> (Carolines Teil unvollständig).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                         Zwölf Briefe Jean Pauls an seinen
+                        Sohn Max. Mitgeteilt von Paul Nerrlich. Wissenschaftliche Beilage der
+                        Leipziger Zeitung, 11. Dez. 1888, Nr. 129, S. 593-594
+                        (unvollständig).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1820-07-20" to="1820-07-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="4-VIII_57">Von Max Richter an Jean Paul, Caroline und
+                        Emma Richter. München, 30. Juli 1820</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012692">Bildung</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein guter Max ! Wir passen wahrscheinlich wechselseitig auf einander . - Glücklich bin ich zwar angelangt , aber über den langweiligsten Weg von der Welt ; der über Amberg u. Regensburg wäre eine Regenbogenstraße dagegen gewesen . Desto seliger lebe ich dafür zu Hause u. dies Mal ist mir die Heimat das schöne Fremdland . Alles was meine gute Caroline getan u. tut , entschädigt mich für Münchens Wolkentage , von den verbesserten Zimmern an bis zu den Briefbündeln , in welche sie das ungeheure Briefchaos mehrerer Koffer geordnet , gesammelt u. überschrieben hat . Alle Zimmer lachen , sogar die Küche . Seit Jahren war ich nicht so häuslich-selig . Auch deine Schwestern sind schön fortgeschritten u geflogen . Sie können deine Ankunft nicht erwarten u. denken Wunder , was du geworden ; du wirst sie aber schon über dieses wie über anderes eines besseren belehren . - Eben singt mir meine Emma , deren Spiel u Stimme in meiner Abwesenheit über Erwarten gereift sind , das herrliche Bach-Himmellied von der Luise v. Schaden . Gehe doch zur freundlichen Familie u. bitte noch um das Gondellied der anderen verheirateten Schwester , das deine u. meine Ohren über die Wolken gen Himmel getragen . Und der Mutter sage , daß ich ihre Bitte um das Epitaphium gewiß erfülle . - Gehe zu Schlichtegroll u. danke ihm für volles Herz u. volle Hand u. für all sein Geben ; und dann sage doch noch der wahrhaften Grazie der Ehe , der Frau , einen neuen Nebendank . - Ich wollte , du könntest auch meinem unvergeßlichen Sömmering eine Erinnerung an mich und sich zubringen . Antworte recht bald . Schreibe auch einmal wenigstens an Eman . , wenn nicht auch an Otto . Grüß die Gailischen , was macht die Pazientin . - Die Mutter wird fortfahren .Lebe wohl ! Geliebter Max ! Ich wollte dir sogleich am Tage der Ankunft des Vaters schreiben , um dich sobald als möglich für die Trennung von ihm zu entschädigen , allein der Vater wollte es nicht , und mich macht es so glücklich ihm in Allem Gehorsam zu sein , daß ich es aufgab . Desto mehr haben wir aber von Dir gesprochen nicht allein unter uns , sondern auch zu anderen Lieben , die sich Alle so sehr für dich interessieren . Besonders wird Carové aus Heidelberg Dich mit seiner Liebe erfreuen der in wenigen Tagen Dir einen Brief von Emma , die allein Zeit Dir zu schreiben hatte , geben wird . Wir haben ihn an M Gail adressiert , erkundige Dich also immer dort , nach ihm . Er hat viele Freunde in München , namentlich den jungen Niethammer , den Du wohl auch kennst . Künftig kannst Du in Heidelberg bei ihm Collegia hören er bleibt fürs Erste dort . Daß der Vater mit allen meinen Einrichtungen so vollkommen zufrieden war , ist herrlich . Wir leben wie im Himmel und ich kann mir beinahe nicht die Möglichkeit einer Verstimmung denken ; so sicher und schön ist mein Gefühl von der Zukunft . Der liebe Vater ist so recht kindlich glücklich - Gott erhalte ihn uns nur noch lange . Ein Herzog von Württemberg logiert jetzt in Fantaisie . Heute morgen kam Birkel recht früh und brachte dem Vater eine allgemeine Einladung am Mittag bei ihm zu essen und die Frage wann der Wagen ihn holen dürfe . Das Väterchen nahm es zum Sonntag an . Die Mutter Herzogin kommt in 8 Tagen . Die Söhne fragten Birkel : ob sie wohl wagen dürfen den Vater zu bitten ? </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0925">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Christian Freiherr Truchseß von Wetzhausen.
+                    Meiningen, 16. April 1810, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <collection>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</collection>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. (?), 2 S. Adr. auf S. 1 (?): S<hi rendition="#sup">
+                              <hi rendition="#uu">r</hi>
+                           </hi> | des Herrn Major <hi rendition="#u">von Truchseß</hi> | Hochfreiherrlichen Gnaden
+                                    | in | <hi rendition="#u">
+                              <hi rendition="#aq">Bettenburg</hi>
+                           </hi> | <hi rendition="#u">bey
+                                        Oberlauringen</hi>. | <hi rendition="#u">Postfrey</hi>.
+                                    Poststempel: <hi rendition="#aq">R.S.MEININGEN</hi>.</p>
+                        <accMat>Logogryph von Christian Ferdinand Könitz auf Wagner mit
+                                    Versen von August von Studnitz.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Briefe über den Dichter Ernst Wagner,
+                            hg. von Friedrich Mosengeil, Bd. 2, Schmalkalden: Varnhagen 1826, S.
+                            136-142</bibl> (ungenau, unvollständig).  </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Wagner’s sämmtliche Schriften,
+                            hg. von Friedrich Mosengeil, Bd. 12, Leipzig: Fischer 1828, S.
+                            244-246</bibl> (ungenau, unvollständig). </witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1810-04-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0927">Von Christian Freiherr Truchseß von
+                        Wetzhausen an Johann Ernst Wagner. Bettenburg, 26. und 28. Mai 1810</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012761">Tod und Sterben</term><term xml:id="JP-012572">Verlage / Verlegerisches</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Innigsten Dank , Verehrtester , für den lieben , herzlichen Gruß durch des edlen Köniz Freundes-Mund ! Er befahl mir an , Ihnen auch zu diesem Briefe , den ich schon lange habe schreiben wollen , seinen Logogreif zu legen - den , so schön er auch gedichtet ist , ich doch niemanden als Ihnen , Allerbester , zu zeigen vermag , da ich der darin wehenden Güte bei weitem nicht wert bin . Ich setze auch noch ein Distichon darunter , das mir einst mein guter Studniz sandte , als ich mich zur Schriftstellerei , noch in Roßdorf , entschloß - wobei er mir aber dennoch von ihr abriet , weil ich Hausvater sei . Die Umstände wandten sich aber bald darauf zu meinem Glücke , als der edle Georg ganz unerwartet sein Auge auf mich richtete . Mein Geist ist heiter und in meinem Leben beginnt es Licht zu werden . Am 2n Febr. , meinem Geburtstage , entbot mir unsere edle , liebenswürdige Herzogin durch Mosengeil , recht mit der Morgensonne , einen unaussprechlich holden Engelgruß , vermöge dessen sie , wann ich dahin bin , meine geliebten zwei Jungen auf der Malerakademie in Dresden auf ihre Kosten studieren lassen will ! -- -- Muß dies nicht ( besonders da meine Knaben täglich braver werden ) süßes Licht in die letzten Stunden meines Lebens bringen ? Ach , wenn ich bald in jenen Gefilden meinem guten Herrn nahe , und ihm Geistergrüsse darbringe , von der holden Gattin ( die mir - ach , des seltenen Beispiels ! -- mehr hielt , als der Edle mir versprach ! ) Geistergrüsse von der Bettenburger treuen Ritterseele und von dem teuren Siemauer Paare - von diesem freundlichen Kleeblatt , aus dessen Herz meine angebetete Fürstin , wie die Blume , für mich ( mitten im Januar ) aufblühte , selig duftend für meine verwaisten Lieben -- Liebesgrüsse von seinen herrlichen Kindern , diesen rein und redlich erzogenen , die dem armen Diener so freundlich waren , wie die göttliche Mutter - - ach wie selig werde ich sein , mein teurer , allerbester Freund ! Ja , der Erdensorgen sind mir weniger geworden ! Gott hat meine Eltern und Voreltern ehrlich und redlich dahinfahren lassen . Er , an den ich ewig fest glaube , wird auch für den ehrlichen Namen meiner Gattin sorgen , für den ehrlichen Namen meiner drei geliebten Kinder ! -- Sehe ich doch den meinigen durch seine Gnade , jetzt beinahe gesichert ! Und gerade der ehrliche Name war mir stets hienieden das Wünschenswerteste ! Ich wollte Ihnen nicht eher schreiben , bis ich wusste , wann Cotta zur Ostermesse hier durchkommt . Jetzt schreibt er mir , daß er mich den Donnerstag oder Freitag vor Jubilate hier zu besuchen hoffe . Ich stelle mir vor , daß Sie , Bester , hier mit ihm Geschäfte machen werden , da an einem ewigen Kontinentalfrieden nun wohl niemand mehr zweifeln kann ; und ich kann Ihnen mit Ihrem Kirschwerk nicht genug Eile empfehlen . Aber ich rede dies nicht bloß aus Eigennutz und um Sie hier ans Herz zu drücken , sondern aus dem mir immer lebendiger werdenden Grundsatze " daß die Guten auf Erden eilen sollen , da die Bösen auch eilen . " S. Richters Dämmerungen . Cotta ist übrigens ein lieber Mensch , den ich Ihnen wirklich empfehlen kann . Ich habe ihm mein endlich ( und wie Studniz meint ) glücklich vollendetes ABC gesandt , woran jetzt gedruckt wird , und das vielleicht noch zur Omesse erscheint . Er bittet mich , ich soll nur dafür fordern , was ich will , und hierüber sogleich disponieren , wie ich will . Welcher Verleger in der Welt tut dies , außer diesem königlichen Kaufmanne ? Mein Gott , welch ein herrlicher , rein und heiliger Mensch ist Richter in seinen Dämmerungen ! Ich muß ihm in einem besonderen Briefe dafür danken - und ich wollte , alle Welt dankte ihm dafür mit lauter Stimme ! An meiner Isidora geht es . Aber ich besorge nur , es wird ein erster Band bleiben und also auch aus dem ersten nichts werden . -- -- Das ABC . soll sogleich in Bettenburg aufwarten , wenn es erscheint . -- Apropos ! Ich habe vergessen , Sie zu fragen , ob Ferdinand Miller nach seiner Geburt von Leipzig aus durch Hanisch , All oder einen anderen Ihnen zugekommen ist ? Ich hoffe es , da Sie auf meinem Bestellzettel standen - ich glaube durch Herrn Kummer . Melden Sie mir es doch gnädigst . Nun , Fürst der Bettenburg , König der Blüten , Kaiser der Kirschen , Freund der Herzen - lebe wohl , wohl , wohl !Ewig und unveränderlich Ihrtreuer und dankbarer JEWagner . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

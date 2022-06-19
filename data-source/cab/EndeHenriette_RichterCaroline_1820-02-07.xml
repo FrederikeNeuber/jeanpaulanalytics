@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0625">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Leipzig, 7. Februar 1820,
+                    Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl. 8°, 7½ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1820-02-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011811">Reisen</term>
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-012233">Dresdner Freunde</term>
+               <term corresp="#JP-011893">Berufliches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wie erfreut wäre ich gewesen , Sie , liebe Freundin , zu sehen , so nahe waren Sie mir und keine Stunde wäre mir zu spät gewesen , um noch zu Ihnen zu eilen , wenn ich Sie hier gewußt hätte ; ich hätte mich auch mit dem Vergnügen des Sehen und Gesehenhabens begnügen wollen , um die auf Reisen so nötigen Augenblicke der Ruhe Ihnen nicht abzukürzen ; je lieber man die Leute hat , je mehr , Geist und Herz sich gegenseitig einander bekannt sind und sich darin behagen , je reichhaltiger ist der Genuß des Wiedersehens wenn auch nur auf einen Augenblick ; man braucht sich da nicht , wie es bei vielen Bekanntschaften der Fall ist , erst wieder durch dazu nötiges Zeitmaß , zusammen einzureden , man blieb beisammen . Das allerliebste Bild , daß mir Ihre Güte zudachte und daß Ihre lieben Zeilen begleitete , hat mich gerührt und erfreut ; ich danke Ihnen herzlich für diesen Beweis Ihres lieben Andenkens ; es bedurfte keineswegs als solcher , seiner Schönheit und Künstlichkeit , denn ob ich gleich beide sehr daran schätze , kann ich Ihnen doch versichern , daß ich oft sogar die Brief-Couverts von Personen die mir lieb sind mit Wohlgefallen zu allen möglichen angenehmen Gebrauch , statt dazu bestimmter anderer Sachen , sehr oft nehme und das Bändchen womit Sie das Bild umbunden hatten , ist sorgfältig aufgehoben und geht irgend einer mir interessanten Bestimmung entgegen . Daß das Bild , ein Ihrem lieben Herrn Vater angenehmes Geschenk von seiner guten Tochter war und ich es nun erhalte , gibt demselben einen Wert für mein Herz , den das Ihrige gewiß nicht bezweifelt . Nun komme ich auf Ihren lieben Brief , den Sie mir von Berlin aus , schrieben ; ohne daß Sie irgend Antwort noch darauf von mir erhielten , können Sie wohl glauben , daß er nicht bis jetzt unbeantwortet blieb , in Rücksicht dessen , was Ihre lieben Nichten betrifft ; erst vorgestern habe ich abermals einen langen Brief deshalb geschrieben und auch früher mündlich und schriftlich , sehr natürlicherweise , mich bestrebt , Ihrem Wünsche Genüge zu leisten ; bis jetzt hat sich aber noch nichts deshalb bestimmen wollen . einige Hoffnung habe ich , vielleicht eine , in und bei Breslau in vortreffliche Hände kommen zu sehen ; eine Jugendfreundin von mir , die auch in jener Gegend ist hat mich so eben gebeten , für eine ihrer dortigen Freundinnen , eine Gräfin Henkel , die sie sehr genau kennt , schätzt und liebt , eine Gouvernante zu empfehlen , freilich trafen einige Forderungen , die gemacht werden , nicht ganz überein , mit dem , was von so ganz jungen Personen , zu diesem Behuf , verlangt werden kann ; allein es kann doch sein , daß der Gesichtspunkt , den ich aufgestellt habe , angenommen wird ; binnen hier und 14. Tagen , ist wahrscheinlich wieder eine Antwort da , wenn meine Worte anschlugen , und da wäre es dann sehr gut , liebe Freundin , wenn ich von Ihnen Nachricht hätte , wo nun das Hin und her schreiben darüber , am einfachsten aus und ein zu gehen hat , ob in Baireuth oder in Dresden ; denn man würde an Zeit-Ersparnis denken müssen , da , bei Gelegenheit der Meße , die verlangte Gouvernante die Reise auf irgend eine anständige Art , machen soll ; so wie sich die Sache zum Gelingen gestaltet , schreibe ich Ihnen , nicht nur wovon die Rede sein würde , sondern auch wie viel Vorteilhaftes meine Freundin mir von der Gr. Henkel geschr je ben hat . Wie lebhaft teile ich die Freude , die Sie beim Wiedersehen , Ihrer lieben Familien-Kreises , bei Ihrer Zurückkunft empfunden haben werden ! Ihre lieben Töchter , werden gewiß recht gute Hausmütterchen , als Töchter und Schwestern in Ihrer Abwesenheit gewesen sein und auch darin das Vorbild der lieben Mutter treu bewahrt haben ; ich grüße sie recht herzlich , so wie auch meinen lieben Max und erst gleichfalls und dann doppelt , den lieben Vater und Mann . Mein Sohn empfiehlt sich Ihnen beiderseits aufs Angelegentlichste . Wir waren zu Weihnachten auf 14. Tage in Dresden und hatten uns dort vieles Wiedersehens zu erfreuen , bei Verwandten und Freunden , zu denen sich auch unsere Prinzen und Prinzessinnen gern zählen lassen ; die junge Gemahlin des Pr. Friedrich , Tochter des Oestr . Kaisers , ist durch ihre große Schüchternheit und eben so große Freundlichkeit , sehr interessant , so wie durch die Liebe , die das junge Ehepaar zu einander hat ; die junge Königin von Spanien , die freilich jetzt in äußerlich beunruhigter Lage ist , ist aber übrigens , was wichtiger noch ist , häuslich glücklich , was alle Briefe von ihr , deren jede Woche mehrere in Dresden ankommen , aufs unbefangendste bezeugen ; auch berückt sie gar nicht die Spanische Etikette , sie hat im Gegenteil , einer ihrer gleich jungen Freundinnen , einer Nicee von mir , geschrieben , sie solle ja künftig in ihren Briefen , die Zeremonien weglaßen und nicht an die Königin von Spanien , sondern an ihre sie liebende Josephe , denken ; die vielen kindlichen , heiteren Details , die sie schreibt , ergötzen bei den Gedanken , an den Kontrast mit den äußeren Schein , über den innerer Gehalt , siegend genießt ; denn der König , ihren Wert anerkennend , liebt sie sehr , eben wie sie ist und hat dem unsrigen , eigens in einem Brief gedankt , für den Schatz den er ihn anvertraute . Fr. v. Reck habe ich auch in Dresden gesehen , sie und Tiedge hatten sich sehr gefreut , Sie gesehen zu haben . Jetzt beschäftigt sich mein Sohn , auf das nun gegen Ostern , zu bestehende Examen , nach dem Schluß seines akademischen Lebens , dann gehen wir , so Gott will , auf kurze Zeit auf seine Güter und dann zum Sommeraufenthalt auf meinen recht angenehmen Garten in Dresden und zum Herbst -- vielleicht wieder nach Italien , was mein Sohn sehr wünscht ; wir gingen dann nach Genua , wo wir noch nicht waren und schifften uns dort ein , nach Neapel um daselbst den Winter zuzubringen und von wo aus mein Sohn weitere Exkursionen nach Sizilien &amp; c. vor hat ; diese Aussicht umschwebt uns anmutig , ohne daß wir jedoch , schon im Voraus , den Plan in jene Unbiegsamkeit des Willens faßten , welche die freie Einsicht in die Gestaltung des Lebens , wie sie nach und nach Umstände herbeiführen , hindert und dadurch den Genuß entrückt ; man befindet sich gar wohl bei dieser Art zu sein und zu unternehmen ; Vorsicht und eben so , religiöses Gefühl , walten da so befriedigend ; in diesem Sinne haben wir , Gott sei Dank , schon so viel Gutes , recht genossen . Mit der Ehe der Herz . von Sagan , mit dem Graf Schulenburg , geht es so gut , als ich es immer gehofft ; er ging durch Dresden zu einen kurzen längst versprochenen Besuch bei seinen Verwandten , besuchte mich und überbrachte mir einen langen lieben Brief seiner Frau , der mir ihr Glück , daß sie nicht in einzelnen Ausspruch mir versichert , aber um so deutlicher aus Allem hervorgehen läßt , verkündet . Nun sage ich Ihnen ein recht herzliches Lebewohl und freue mich sehr , bald wieder einen lieben Brief von Ihnen zu erhalten . Ganz die Ihrige fände geborene v. Globig . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

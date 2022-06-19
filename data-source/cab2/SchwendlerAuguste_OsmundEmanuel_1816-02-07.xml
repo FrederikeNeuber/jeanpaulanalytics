@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0342">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel Osmund. Meiningen, 7. Februar 1816, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl., 1¾ S. Brief- bzw. Blattnummerierung vfrH.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1816-02-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wenn nicht aufgehoben , mein Teurer , aber doch aufgeschoben ist mein Kommen um 4 Tage . Ganz unerwartet und unvorhergesehen kommt unser Groß Herzog den 10ten nach Eisenach und hat Schwendler unbedingt auf diesen Tag zu einer Konferenz dahin berufen . Den 13ten kommt mein S. erst wieder , und wir können nun erst den 14ten unsere Coburger Reise antreten , also meine Wenigkeit vor dem 15ten nicht in Bayreuth eintreffen . Es geht mir , wie dem geangsteten Geliebten um den Besitz seiner Braut , mit der höchsten aber auch der bangsten Freude harre ich dem ersehnten Augenblick . Gott säße ich nur erst im Wagen , alle möglichen Zufälle verschwören sich gegen mich , denn wenn es so Fortregent wie heute , so geht der Wald schwer und das Wasser kann mich leicht wieder ein paar Tage aufhalten . Die Wege fürchte ich nicht und überhaupt gegen die zu überwältigenden Schwierigkeiten werde ich ritterlich kämpfen , nur den Willen unseres Gebieters konnte ich nicht ändern . Trotz daß ich ein wenig übelgelaunt - über den Aufschub meiner Reise - bin , so liegt doch Bayreuth mit meinen Lieben so freundlich vor meiner Seele mein Herz ist in Liebe so hoffend , daß ich die Geliebten gewiß sehen werde ! - Auf der Erde ist nichts köstlicher als die Freundschaft und darum reicht sie über die Erde hinaus in den reinen Himmel ! - Nicht wahr Emanuel ! Ihre treue Henriette S </p>
+         </div>
+      </body>
+   </text>
+</TEI>

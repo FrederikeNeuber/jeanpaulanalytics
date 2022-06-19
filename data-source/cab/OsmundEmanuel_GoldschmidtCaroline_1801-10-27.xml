@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0698">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 27. Oktober 1801,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1 ¾ S. Auf S. 1 Briefschluss eines Briefes von Caroline
+                                    Goldschmidts Hand: also dort -– recht viel Gutes schließt sich
+                                    an ihn an.| Goldschmidt</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1801-10-27" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0590">Von Caroline Goldschmidt an Emanuel. Berlin,
+                        vor dem 28. Dezember 1801</ref>
+            </correspContext>
+            <note>S. 1 auf Briefschluß des vorangegangenen Briefes von Caroline Goldtschmidt an
+                    Emanuel (Nicht überliefert, wie alle Briefe Goldschmidts an Emanuel, die sie ihn
+                    bat zu vernichten, nachdem sie von seiner Hochzeit mit Flora geb. Benda erfahren
+                    hatte, vgl. den <ref type="letter" target="JP-UB1333">Brief vom 2. März
+                        1817</ref>.). – Der vorliegende Brief wurde unversiegelt zu Paul Emile
+                    Thieriot nach Leipzig geschickt, der ihn mit einigen eigenen Zeilen an die
+                    Sandersche Buchhandlung weitersandte, vgl. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB1231/#start_cgr_wmc_qrb">Thieriots Brief an Emanuel vom
+                        29. Oktober 1801</ref>.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012583">Briefabfassung</term>
+               <term corresp="#JP-012162">Postwege</term>
+               <term corresp="#JP-012278">Freundschaften</term>
+               <term corresp="#JP-012010">Judentum</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebte , teure Goldschmied ! Den ersten Brief , den ich unter denen die mich erwarteten erbrach bin ich Ihnen schuldig u also den reinsten Dank ! Sie haben mich sehr schön überrascht durch Ihren geschwinden - ich will Sie es durch diesen spaten Brief . Daraus , daß ich Ihnen diese Worte nicht eher zu langte , ersehen S. deutl. , daß ich sie nicht eher schaffen konnte u nun , da ich für S. am Schreibepult sitze , fühle ich , daß diese Unmöglichkeit , durch die beständige Erinnerung an Sie , die sie mir gab , so gar recht viel Gutes hatte . Nein , Caroline , ich kann auch die Prädikate , wie ich s Ihnen mündlich gesagt u Sie_es so gut behalten haben , weder in der Liebe , noch in ihrer reineren Schwester , der Freundschaft leiden ; aber so lange ich Ihnen nach geben muß d. h. so lange ich Sie Goldschmied nenne , eben so lange muß ich mir der Prädikate bedienen . Car . ! so bald ich S. so wie ich will nennen darf , dann ist jeder andere Vorsatz überflüssig , ja , ja , Caroline ! Und da man nie 2 Menschen ganz gleich lieben u nie v. zwei ganz gleich geliebt werden kann : so kann man wohl mehr als eine Caroline u doch immer nur Eine als Individuum besitzen . Hier kommt es nicht auf Anciennete , sondern auf die freie Wahl unseres einen , inneren , unendlichen Ich_es an . Mein eigener Name , der Familien- u Taufname zu gleich sein muß , kann viel . eine Ausnahme v. meiner eigenen Regel machen u doch können S. ihn allein oder mit einer Zugabe stehen lassen , ich bin dam. zufrieden - denn ich verstehe Sie . Was mich aber noch mehr erfreut , das ist , daß S. mich verstehen , so wie mich noch kein weibliches Wesen in uns . Nation verstanden hat , verstehen u dieser Umstand wäre schon allein genug um S. bloß Caroline anreden zu dürfen . Es tat mir wohl , daß S. mit mir zugleich in Leipzig waren u daß wir uns fanden u es wird mir noch lange so tun . Die Rechnung meiner Reise , die S. machten , traf so glücklich zu , als wäre jeder Postillon v. Ihnen , durch Ihren Wunsch - das habe ich Ihnen ja längst kund gemacht , daß ich eitel bin - geschmiert gewesen . Reden u schreiben S. wie u was S. wollen : Ihre Weiblichkeit kann nur dadurch b. mir gewinnen . Die Menschen , die für Menschen leben , die also auch in einer Stunde mehr sehen , als die , die nur für sich leben , in Monotonie haben sich diese - die Ersteren , gesehen , dann müssen sie , wie sie wollen ohne mißverstanden zu werden , unter sich reden können u dürfen . Nehmen S. meinen innigsten Dank , für Ihre Börse , die mich nie , auch dann nicht verlassen wird , wenn ich keine brauchen könnte , für Ihre Billet , für Ihren Brief - für Alles - denn Alles war an mich . Möchte ich bald lesen , v. Ihnen , daß es Ihnen recht wohl gehe , daß S. auch gesund in Berlin angekommen u es noch sind u es immer bleiben möchten ! Adieu , Caroline , Adieu ! E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

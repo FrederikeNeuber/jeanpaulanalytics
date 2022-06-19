@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1273">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 15. Februar 1806,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>ehemals Slg. Apelt</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 ¾ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1806-02-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012349">Reflexionen über das Leben</term>
+               <term corresp="#JP-012430">Religion</term>
+               <term corresp="#JP-012265">Geschlechterrollen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine gute Caroline ! ihre Einbildung gefällt mir , denn sie ist wahr u hat mir einen lieben Brief von Ihnen verschaffet , den ich wohl nicht verlangen , auch nicht erwarten konnte und der mich um so mehr freute Nehmen Sie also doppelten Dank , für die Hand , die Sie mir aus Hamburg u für die gute die Sie mir aus Berlin zulangten . Zwei Mal war ich seit meinem Schweigen auf meinem Gute , ihr Berliner Brief suchte mich wirklich daselbst auf u fand mich auch daselbst u dies verursachte meine zögernde Antw . Es tut mir wohl , wieder mehr Arbeit zu haben u diese ist mein Beruf , dem mein Vergnügen nachstehen muß . Wenn Sie auch den eigentlichen Zweck Ihrer geschwinden Reise nach Berlin nicht erreichten : so ist mir_es doch viel lieber , Sie da , als in Hamburg zu wissen . Hätte ich Ihnen auch keine wörtliche Erklärung über meinen Begriff v. Reichtum gegeben : so hätte ich v . Ihnen doch nicht erwartet , daß Sie glaubten , ich nenne einen Menschen weil er auf einer Geldkiste stütze : reich - u welchen Widerwillen muß ich wider " Zanken " haben , daß ich jetzt noch nicht einmal zanken mag ? Ich glaube , so gut wie Sie , daß nur der Zufriedene , der Genügsame reich und daß nur der Reiche dankbar ist ; das schrieb ich Ihnen deutlich u wörtlich , was können Sie wider mich , oder die besseren Menschen haben , Car . ? Wenn Gott selbst an seiner Schöpfung einen Wohlgefallen haben muß : so kann er sich selbst - ich mir ihn wenigstens nicht - nicht ohne Eigennutz denken - , lassen Sie uns also immer unseren Eigennutz so viel als möglich reinigen d. i. vergöttlichen und uns ruhig sein . Die Liebe der Männer - fällt mir eben ein - Sie werden_es viel . wieder nicht billigen - ist , da sie mehr aus Freiheit bestehet , göttlicher ; die der Weiber , ist schon mehr Erwiderung , schon mehr Dankbarkeit , mehr Erkenntlichkeit u also mehr menschlich . Eigennutz mischt sich - wie das Gewissen - in Alles von selbst - wohl uns wenn wir ihn nicht mit Willen in Alles mischen . Von selbst können wir ihn wohl das Salz unserer Handlungen und Meinungen heißen ; aber dies Salz wird Galle - oft Gift , so bald wir es absichtlich in uns und unsere Handlungen mischen . Ich bin der guten Frau v. Kalb so lange eine Antw . schuldig , daß ich sie ihr so lange nun noch schuldig bleiben will , bis ich sie einst mündlich abtragen kann . Ihr guter Geist beschäftiget sich - wie ich es aus ihren Briefen an Richter ersehe , mit so vielen großen und schönen , daß sie wohl einen kleinen , armen leicht missen kann u ihm verzeihen wird . Grüssen Sie sie gelegentlich v. mir u sagen Sie mir viel v. ihrer Edda - das ein herrliches Wesen sein muß . Ich kann mir_es nicht denken , wie es Ihnen , bei Ihrem Ruf u Ihrer Kunst - so bald einmal Künstler Pensionen bekommen - an einer fehlen kann . Ihren alten Mechlen beneide ich um die Gelegenheit , Sie loben u Ihnen nützlich sein zu können . Mein Uhlfelder war gerührt von Ihrer freundschaftlichen Vorsorge für ihn u seinen Sohn ; er dankt Ihnen , Sie grüßend , mit derselben Rührung ; er will nächstens bestimmt mit mir darüber sprechen u dann will ich Ihnen alles schreiben . Auch ich danke Ihnen einstweilen . Thieriot sitzt noch immer in Aschaffenburg u grüßt Sie . Mein Bruder sitzt , zu wenig beschäftiget , bei mir u grüßt Sie . Jette grüßt Sie u wer nicht v. den Meinigen , wenn sie es auch gerade nicht laut tun ? Wie wenig ist das Laute gegen das Stille , wie wenig das Sprechen gegen das Schweigen ? und die schriftliche Sprache bringt gar zu wenig hervor - das sehe ich wieder aus dieser Schriftsprache an Sie . Nehmen Sie vorlieb Car. , mit der Welt wie sie ist , mit der Aussicht auf Besserung u leben Sie wohl , glücklich u bleiben mir gut - wenn auch nicht so gut wie ich Ihnen. E. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

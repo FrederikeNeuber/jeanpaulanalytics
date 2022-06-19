@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0509">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 23. Februar 1805, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S. Mit wenigen Zeilen von Caroline Richter auf S.
+                                    2.</p>
+                        <handDesc>
+                           <handNote xml:id="JP-999999">
+                              <persName>Johann Paul Friedrich
+                                            (Pseud. Jean Paul) Richter</persName>
+                           </handNote>
+                           <handNote xml:id="JP-003469">
+                              <persName>Caroline
+                                            Richter</persName>
+                           </handNote>
+                        </handDesc>
+                        <accMat>Ein Brief Jean Pauls an den Geheimrat Beyme (<ref type="letter" subtype="document" target="3-V_70">3. Abt.,
+                                        Bd. V, Nr. 70</ref>), in den wiederum der Brief Jean Pauls
+                                    an König Friedrich Wilhelm III. von Preußen (<ref type="letter" subtype="document" target="3-V_69">3. Abt., Bd. V, Nr.
+                                        69</ref>) eingeschlossen war. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                             Wahrheit 7, S. 21 (nur von Jean
+                            Paul).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                     <ref type="letter" subtype="document" target="3-V_71">3. Abt., Bd. V,
+                                Nr. 71</ref> (nur von Jean Paul).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1805-02-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="4-V_42">Von Johann Siegfried Wilhelm Mayer. Berlin, 27.
+                        März 1805, Mittwoch</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-013011">Jean Pauls Präbende</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Verehrtester H. Vater ! Ich schicke Ihnen hier die in den Brief an Beim eingeschlossene Bitte an den König , samt der ihm beigelegten Kopie des Präbenden-Dekrets , nach dem Rate des Mecklenburg . Prinzen Georg . Ihnen send ich das Original des Dekrets , von welchem aber schwerlich ein Gebrauch zu machen nötig sein dürfte . Nicht Massow , sondern Alvensleben schickte mir das Präbenden-Diplom . Meine Bitte wirke wie sie wolle ; ich bin doch unabhängig von ihrer Erfüllung und am Ende ist_es auch keine Unehre , von Kotzebue u. Lafontaine sich unterschieden zu wissen durch - Neins . - Ich Grüße Sie und Ihre Gattin herzlich . Ihr verehrender Sohn JPFRichter Gern fügte ich diesem Briefe auch einige Zeilen hinzu , mein teurer Vater , wenn die Zeit nicht zu kurz wäre - ich grüße Sie aber innig und Ihre teure Frau ! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

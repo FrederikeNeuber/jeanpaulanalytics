@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0270">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 29. Juli
+                    1809, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2 S. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1809-07-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012048">Briefverkehr</term>
+               <term corresp="#JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! Dein letzter Brief ist vom 11 . Mai , also nun etwan 2 1/2 Monat alt und es ist zu gleicher Zeit ein umständlicher Brief von mir an Dich abgegangen . In letzterer Beziehung hoffte ich von Zeit zu Zeit einen Brief von Dir zu erhalten ; allein er ist ausgeblieben , und da ich auf meine Erkundigung bei Minna erfahre , daß Dein Mann , u eines Deiner Kinder krank ist , so muß dies wohl der Grund Deines Schweigens in so langer Zeit sei . ich setze nun voraus , daß die Umstände mögen dort sein , welche sie wollen , und daß Du nur selbst nicht krank bist , nichts Dich hindern kann mir mit 2. Worten von Deinem Befinden Nachricht zu geben , und bitte Dich darum . Zugleich melde ich Dir , daß ich an aufgesammelten Zinsen für Dich 32 rth 2 gr 10 pf. kurant in Bereitschaft habe ; und daß ich sie Dir schon mit der Post gesendet hätte , wenn die Post nicht gegen das Risiko protestierte . Hast Du also Gelegenheit jemand zu finden , der hier die gedachte Summe zu zahlen hat , so bin ich bereit auf eine von Dir zu besorgende Assignation hier Zahlung zu leisten , wogegen Du dort das Geld Dir auszahlen lassen kannst . ich habe bisher bei Herrn Philippi , Pfeiffer , und Frau von Altenstein Versuche gemacht , im Fall sie dort Geld zu erheben hätten ; allein alle verweisen mich auf Erwartung der Zeit ; und doch besorge ich , Du möchtest unter den jetzigen Umständen dort Geld brauchen . Grüße Deinen Mann , und küße Deine Kinder . Die Mutter grüßt herzlich . Dein treuer Vater Mayer ich erwarte täglich den Julius hier . Er ist jetzt in Leipzig . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

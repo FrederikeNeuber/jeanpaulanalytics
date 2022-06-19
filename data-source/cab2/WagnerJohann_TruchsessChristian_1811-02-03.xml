@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0948">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Johann Ernst Wagner an Christian Freiherr Truchseß von Wetzhausen. Meiningen,
+                    3. Februar 1811, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl., 1 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Briefe über den Dichter Ernst Wagner,
+                            hg. von Friedrich Mosengeil, Bd. 2, Schmalkalden: Varnhagen 1826, S.
+                            145-147</bibl> (ungenau, unvollständig).</witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Wagner’s sämmtliche Schriften,
+                            hg. von Friedrich Mosengeil, Bd. 12, Leipzig: Fischer 1828, S.
+                            249-250</bibl> (ungenau, unvollständig).</witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-02-03" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-012330">Literarisches Leben und Schaffen</term><term xml:id="JP-011811">Reisen</term><term xml:id="JP-012430">Religion</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Beste Seele auf Erden ! - Wohl vernahm ich Ihren schönen lauten Abschiedsgruß . Aber als der Lahme das Fenster erreichte , waren die flüchtigen Rosse schon weit - weit ! - Ich bin lange nicht so entsetzlich allein gewesen , als in jenen Augenblicken ! Nun , Dank für alle hohe innige Liebe , die ich noch nie in so schöner Fülle genoß , wie diesmal - denn Ihr Herz , o reiner , unaussprechlich anmutiger Mensch , ist noch unendlich reicher geworden , als es war ! Hatte die Reise vielleicht noch mehr , sonst nur bloß schimmernde , Aurorawölkchen in diesem schönen Himmelsraume angezündet ? - o so sei sie mir doppelt gesegnet ! - Dank , innigen Dank für Ihre Liebe zu meinem Anton - ach , seine Tränen träufelten noch lange - diese Liebe , ja sie wird , sie muß ihn besser und frommer machen . Und jeder seiner kleinen Gedanken ist entflammt von Ihrem teuren Namen . Nur so - ( denn , Bester , Sie taten mit Ihrem irdischen Geschenk zu ungeheuer viel , wie ich erst nachher erfuhr ) - aber nur so , wunderbarer Mann , nur so sprach auch dieses nicht seinen Stolz , sondern nur seine dankbare Liebe an , und gab ihm die erbaulichsten Vorsätze . Die gute H. hat die Zeichnung gewählt und revanchiert sich ( welcher Segen liegt überall in Ihnen ! ) noch obendrein dafür mit einem neuen Pastellkasten . Denken Sie sich nun hierbei Antons Gedanken an Sie - und verschmähen Sie seinen Herzensgruß nicht ! - Übrigens war mir die Wahl der Gebieterin sehr lieb . Denn das Gemälde ist noch weit besser geraten , als die Zeichnung . Morgen geht ersteres auf die Post nach Stuttgart . Ich habe es nicht ganz gerne einpacken sehen , wiewohl ich den Maler im Hause behalte , und eine Kopie . - Aber - Wangenheim und Ihre dortigen Lieben sind mir doch gar zu wert durch Sie geworden - also diese mussten es bekommen , und ich will nicht murren . Ich habe dabei dem edlen Wangenheim mein Herz ausgeschüttet . Ihr Gedicht folgt hier , in drei Distichen : " Das Übertriebene . Mit Karfunkeln und Hyazinthen wollte einst Werner Mystische Kräfte noch leihn Luthers gewaltiger Kraft . Drauf im Attila brachte ' er fünf Sakrament ' aufs Theater ; Aber dafür geht er jetzt auch in der Reue zu weit : Denn in Rom genügt ihm der Kuß des Pantoffels nun nicht mehr - Unter ihn kriechet er gar - siebenfach will er den Gott . " Ich habe Wangenheimen diese herrlichstrengen Kraftgedanken mitgesandt , doch , versteht sich , nicht darüber disponiert , da ich um Alles nicht daran Schuld sein möchte , daß mir irgend ein Papistendichter meinen hohen protestantischen teuren Ritter etwa anzuzapfen wagte ! Nächstens mehr . Für heute mein wärmstes Lebewohl meinem A llerbesten - meinem geliebten Freunde ! Ewig der Alte JEWagner . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

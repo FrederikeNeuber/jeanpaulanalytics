@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0043">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Johann Friedrich Reichardt. Leipzig, 25. Januar 1805,
+                    Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 3¾ S. S. 1 in der oberen linken Ecke vfrH: Spazier
+                                    sowie Aufdruck: <hi rendition="#aq">Tieck.</hi>
+                        </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1805-01-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003383">Johann Friedrich Reichardt</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011893">Berufliches</term><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-012761">Tod und Sterben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich weiß nicht , mein teurer Reichardt ob Sie das entsetzliche Schicksal bereits kennen , das mich und meine Kinder betroffen hat . Als einem der ältesten Freunde meines geliebten Mannes , darf ich Ihnen die Teilnahme an uns zutrauen , zu der mich der ungeheure Verlust den ich erfahren habe berechtigt . Ich habe weiter kein Anliegen an die Menschen , als daß sie an meinen Verlust glauben sollen , ich entbehre nichts als das Herz das mich und die Seinigen so heiß geliebt hat . Wie ich mich verlassen fühle , wie ich vergeblich meine Hände ausstrecke nach ein Wesen das allein mir , nur mir Angehörte , wie ich mein müde geweintes Auge sehnsüchtig zu dem Himmel erhebe in welchen mein Glaube mir sagt daß ich ihn wiederfinden werde , brauche ich daß einem Manne zu sagen , der selbst Gatte , Vater , Versorger ist seiner geliebten Familie , und die heiligen Bande kennt , die nichts auflösen kann als der Tod . Sie werden besorgt sein um meine äußere Lage , wie alle meine Freunde es sind , und wodurch hatte ich verdient , daß Sie der Meinige nicht wären ! Wißen Sie also daß dafür gesorgt ist , mir das Geschäft meines Mannes für die Zukunft zu sicheren , welches er selbst schon bei seinem Leben als Familien Eigentum betrachtete . Wie groß die Anmaßung ist für ein Weib einem Institute vorzustehen , für welches der Blick eines Mannes gehört , fühlt Niemand stärker als ich . Auch hatte ich sie nicht diese Anmaßung , meine Freunde hatten sie für mich . Ich tue was man will , daß geschehe . Mein Biedrer Schwager Mahlmann hat die Rechte meiner armen Kinder auf eine Unternehmung die das frühe Grab ihres edlen Vaters wurde , mit eiserner Festigkeit durchgefochten . Und daß ich Sinn habe für das Gefühl dem teuren Menschen , dem ich Alles verdanke , meine Bildung für das Leben , meinen Kredit unter den Menschen , meinen Sinn für das Schöne und Wahre , daß ich dem auch nach seinem Tode , meine Existenz zu verdanken habe , das trauen Sie mir zu , ich darf es fordern . Spaziere starb wie ein Mann -- nein was mehr ist , er starb wie ein guter weicher Mensch , wie ein zärtlicher Vater , dem der Glauben an sich und an die Menschheit wieder gekommen war , in dem erhabenen Momente des Scheidens vom irdischen . Versöhnt mit allen seinen Feinden , beruhigt über das Schicksal seiner Hinterbliebenen , in Frieden mit sich selber , erwartete er den letzten Augenblick mit vollkommener Besonnenheit , mit einer Heiterkeit , die mit dem Tode versöhnte . Er selbst nannte den letzten Tag seines Lebens den seligsten , klarsten seines verworrenen Lebens . Ich weiß nicht , ob ich etwas überflüssiges getan habe , indem ich Ihnen alles dies geschrieben habe . Lassen Sie Ihre Frau Teil haben an meinen Empfindungen . Ich hoffe , daß Ihre alte Freundschaft für Spazieren über das Leben hinausreichen wird , und forterben auf seine armen Kinder . Minna Spaziere . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

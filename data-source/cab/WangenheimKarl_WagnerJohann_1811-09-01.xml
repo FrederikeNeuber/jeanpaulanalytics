@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1108">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl August Freiherr von Wangenheim an Johann Ernst Wagner. Ludwigsburg,
+                    1. September 1811, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1½ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004599">Karl August Freiherr von Wangenheim</persName>
+               <placeName key="JP-005974">Ludwigsburg</placeName>
+               <date when="1811-09-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012869">Literarische Kritik</term>
+               <term corresp="#JP-012864">Besorgungen für Freunde</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Isidora ist trefflich . Schon die Aufgabe - die Untrüglichkeit der Stimme des Gewissens auch in der Liebe - ist eben so schön , als neu . Man kann das Buch ein Seitenstück zu den Wahlverwandtschaften nennen , das aber zarter , gemütlicher , menschlicher , ich möchte sagen , religiöser durchgeführt ist , als der starke Goethe in seiner Aufgabe gewollt hat . In diesem Buche scheint mir die Aufgabe der Poesie , der Philosophie u des Lebens gelöst , nämlich den Punkt nachzuweisen , wo sich die reale Welt idealisiert und die ideale realisiert ist . Überall ist darin die Möglichkeit als wirklich , Kraft der bloßen Idee , dargestellt und nichts erscheint darin als wirklich ohne seine Möglichkeit im Begriffe . Die Sprache ist kräftig u schön , nichts ist überflüssig , die kleinsten Umstände auf den Hauptzweck hinwirkend , Geist u Gemut überall in Einklang . Das Buch muß seinen Weg finden und machen . Über zwei Dinge möchte ich mit dem Verfaßer sprechen , ehe das Buch gedruckt wird 1 ) darüber , ob das , was er vom Magnetismus faktisch anführt , wirklich auf Tatsachen beruht u dann müßte man es unseren Dr. Schelling zeigen , wann jene Tatsachen nicht erwiesen sind ; 2 ) möchte ich ihm sagen , daß die Badescene zwischen Olympia u der Prinzessin , Trotz der eingeschobenen Anmerkung , hart anstoßt u daß ich die Notwendigkeit nicht einsehe , warum sie überhaupt u warum sie so geschildert wurde . Haben Sie die Güte , lieber Freund ! mir nachstehende Werke baldmöglichst kommen zu lassen , da ich sie notwendig brauche . 1 ) System der angewandten Staatslehre von Behr b. Andrä in Frankf. a /m 2 ) System der allgemeinen Staatslehre v. Behr 1804 . 3 ) Systemat. Darst. des rheinischen Bundes v. Behr Frankf. 1808 Dann sein Sie doch auch so gut , an den Obersten v. Lindenau die Jenaische Literat . Zeitung. Intelligb . Jahrg 1808 Juli no : 47 S. 390 zu schicken . Es ist darin die Rede von einer Maschine von Deveaux , um die Länge u Breite des Meers u zugleich den Raum zu bestimmen , den ein Schiff durchlaufen hat . Lassen Sie ihm aber dazu sagen , daß ich Sie gebeten habe , ihm dieses Blatt zu dem bewußten Zweck zu senden . Bald sehe ich Sie wieder .Leben Sie wohl Ihr Freund Wangenheim Isidora bringe ich in ein Paar Tagen selber . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

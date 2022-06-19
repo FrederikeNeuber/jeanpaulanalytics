@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0705">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Georg Heine an Caroline Richter. Würzburg, 14. März 1822, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 1 ½  S. Auf S. 4 Adresse: An | Ihre Hochwohlgeboren |
+                                    die Frau <hi rendition="#aq">Caroline Richter</hi> | geborne
+                                        <hi rendition="#aq">Mayer</hi> | zu | <hi rendition="#u">Baireuth</hi>. Siegel und Stempel: <hi rendition="#aq">WÜRZBURG</hi> | <hi rendition="#aq">14 MAR. 1822</hi>.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Briefpapier mit Wasserzeichen ("Gott erhalte den Kaiser von Oesterreich 1811"), auf
+                    S. 4 Siegelreste.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001608">Johann Georg Heine</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+               <date when="1822-03-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012235">Würzburger Kreis</term>
+               <term corresp="#JP-012567">Ärztekorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Gnädige Frau ! Drang der Geschäften sind Ursache einer etwas späten Beantwortung Deren verehrten Zuschrift vom 1 ten März . - In demselben zu vernehmen , daß Sie Ihre Fräulein Tochter mir in die Kur anzuvertauen entschlossen haben , freuet mich sehr , und ich fühle mich dadurch in der Tochter eines so berühmten , und verdienstvollen Mannes aufgemuntert , und geschmeichelt , ich werde gewiß mit aller Kunst , und mir zu Gebot stehenden Mittel hier handeln , und streben dieses schmeichelhafte Vertrauen in jeder Beziehung tätigst zu begründen . Es ist für Sie gnädige Frau , und Deren Fräulein Tochter zum Empfang alles Erforderliche in Bereitschaft , und ich lade Sie anmit ein bei Deren Ankunft , es sei bei Tag , oder Nacht , sogleich bei mir auszusteigen . In der angenehmen Hoffnung , Sie bald hier zu sehen , verharre ich mit besonderer Verehrung Ihre Hochwohlgeboren dienstwilliggehorsamster Diener Gr. Heine . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

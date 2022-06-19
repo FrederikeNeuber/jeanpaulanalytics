@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0599">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 16. Dezember 1802, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3½ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-12-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012638">Familiäre Beziehungen</term>
+               <term corresp="#JP-012319">Besorgungen für Familienmitglieder</term>
+               <term corresp="#JP-012929">Verlobungen und Hochzeiten </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein teurer Vater Wie viel habe ich nachzuholen ! Drei Briefe von Ihrer lieben Hand liegen vor mir , und noch keiner von Ihnen ist beantwortet . Der frühste dieser Briefe bezieht sich auf mein Verhältnis mit Minna . Die Vorwürfe , die er enthält , kränkten und verstimmten mich jemehr sie mich zu treffen schienen . Ich schrieb über diese Materie , zu zwei verschiedenen malen an Sie , mein guter Vater , doch alles Geschriebene , zerstörte ich bald darauf selbst wieder . Dadurch ist es mir klar geworden , daß wenn auch Gegenstände der Art , eine schriftliche Mitteilung zuließen , sie doch nur dazu dienen , das eigene Gemüt zu erbittern und - - die notwendigste Bedingung des Lebens , die frohe Laune , zu zerstören . - Überheben Sie mich also dieser ! - Wohl hätte ich mir schmeicheln mögen , daß Ihr Glaube an mir fester wäre ! - Kann es denn meinem Herzen wohl wenig gekostet haben , in eine so unnatürliche Familien Trennung einzugehen ? Und muß nicht wenigstens das Wohl eines ganzen Lebens aufs Spiel gestanden haben um es endlich zu dieser zu führen ? Es ist also ohne eine Art der Mitteilung zwischen mir und Minna geblieben ; und eine Änderung dieses Verhältnisses erwarte ich nur von einem Zufall , oder vielmehr einer höheren Lenkung des Schicksals . Ich kann nichts tun . weil ich eine zu große Scheu vor Minnas Heftigkeit habe , deren Äußrungen einem allemal ans innerste Leben greifen . Und meinem Manne bin ich es schuldig mich vor so gewaltsamen Szenen zu sicheren , die meine Gesundheit nicht überstehen kann . - Als Minna vor etlichen Wochen krank war , und ein Scharlachfieber zu befürchten war , habe ich ihr meine Pflege und Wartung schriftlich angeboten . Spatz . hat mir aber sagen lassen ich möchte nur lieber nicht kommen weil eine schädliche Gemütsbewegung zu befürchten wäre . - Und so konnte ich nicht zu ihr gehen . Ihr zweiter Brief , mein bester Vater kam in Begleitung der schönen Tasse , für die ich Ihnen nicht genug Dank sagen kann . Sie hat nicht allein meinem Manne und mir außerordentlich gefallen - sondern allen die sie gesehen haben . Die Form ist so neu und geschmackvoll ! - Endlich Ihr letzter Brief , mein teurer Vater veranlaßte mich , in dem feierlichen Moment in welchem Sie ein neues Verhältnis unauflöslich knüpften , unsichtbar , doch Ihnen nahe zu sein , und mein Gebet , für das Wohl Ihres neuen Lebens mit dem Ihrigen zu vereinigen . Ich denke doch , es ist bei dem einmal bestimmten Termin , Ihres hochzeitlichen Tages geblieben ! und so begrüße ich auch Henriette zu dem Frühlinge Ihrer neuen Existenz recht freundlich und herzlich ! - Leben Sie wohl , mein teurer Vater , leben Sie doch ewig recht wohl und glücklich ! Ihrer treue Tochter E'. M. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

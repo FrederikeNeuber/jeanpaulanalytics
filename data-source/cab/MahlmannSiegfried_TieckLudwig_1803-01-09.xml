@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1031">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Siegfried August Mahlmann an Ludwig Tieck. Leipzig, 9. Januar 1803,
+                    Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SLUB</institution>
+                        <collection>App.278: Autographensammlung</collection>
+                        <idno>
+                           <idno type="shelfmark">Mscr.Dresd.App.278,125m</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Bl.
+                                    8°,
+                                    2¾ S. (eingebunden) S. 4 Adr.: Herrn <hi rendition="#u">Ludwig</hi>
+                           <hi rendition="#u">Tiek</hi> | Wohlgeboren | <hi rendition="#u">pr</hi> conv.</p>
+                        <p> </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002583">Siegfried August Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-01-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004302">Ludwig Tieck</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ihr langes Stillschweigen mein werter Freund setzt mich in nicht geringe Verlegenheit . Kann ich noch auf die Erfüllung Ihres mir in Dresden getanen Versprechens rechnen ? Wird das projektierte Marionetten Theater noch auf Ostern fertig werden ? Wenn Sie sich in meine Lage versetzen so werden Sie finden , daß mir diese Ungewißheit in mehreren Rücksichten beträchtlich schadet . Das Papier ist gedruckt : Meine Dispositionen zur Ostermesse sind im Vertrauen auf die Erfüllung Ihres Versprechens eingerichtet , und ich habe , weil ich das Geld dazu bestimmt habe , manchen anderen Plan von mir weisen müssen , um mich am Ende nicht in Geld-Verlegenheiten zu setzen . Verkennen Sie mich nicht mein werter Freund , ich will Sie weder mahnen noch drücken , nur Gewißheit nur d a s Wort eines Mannes verlange ich von Ihnen . Können oder wollen Sie es nicht zu Ostern liefern , ist Ihnen die Lust dazu ganz u gar vergangen , haben Sie etwas anders vor , das Sie gern an die Stelle setzen möchten , so schreiben Sie mir nur darüber . Ich mache dann andere Dispositionen . Ich schmeichle mir , daß Sie mich wenigstens in so weit achten , daß Sie mich nicht mit Versprechungen zum Besten haben werden , und verlaße mich daher auf das Wort , daß Sie mir in der Beantwortung dieses Briefs geben werden . Von Fr. Schlegel habe ich kürzlich wieder Briefe erhalten , er schreibt mir ich würde wohl sein Journal Europa schon in Händen haben . Noch habe ich es nicht gesehen . Man sagt , er habe Aussichten auf dem linken Rheinufer als Professor angestellt zu werden . Es würde mich sehr freuen , wenn diese Reise nach Paris sein Glück befördern sollte . Leben Sie wohl mein werter Freund empfehlen Sie mich Ihrer Frau Gemahlin und haben Sie die Güte mir baldigst und recht offen über unsere Angelegenheiten zu schreiben . Meine Frau empfiehlt sich . Ihr ergebenster A. Mahlmann . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

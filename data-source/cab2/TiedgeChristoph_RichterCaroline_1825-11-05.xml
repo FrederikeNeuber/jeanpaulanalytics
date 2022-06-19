@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1391">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Christoph August Tiedge an Caroline Richter. Dresden, 5. November 1825,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Denkwürdigkeiten 3, S. 338-339.</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004311">Christoph August Tiedge</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1825-11-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012032">Dresdner Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-012572">Verlage / Verlegerisches</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teure , innig verehrte Frau ! Ihr Schreiben würde der guten Frau v. d. Recke eine sehr willkommene Erscheinung gewesen sein , wenn es nicht eine so traurige Botschaft mitgebracht hätte . Sie selbst befindet sich jetzt in einem sehr leidenden Zustande , der ihr keine ganz schmerzenfreie Stunde zu Teil werden läßt , und ihr das Atmen , besonders des Morgens und Abends sehr erschwert . Das ist der Grund , weshalb sie die Beantwortung Ihres freundlich-traurigen Briefes mir überlassen muß . Aber das Schreiben an den Fürsten Metternich mit einem dringenden Briefe an ihre Nichte , die Fürstin von Hohenzollern zu begleiten , das konnte sie sich nicht versagen ; und jenes Schreiben ist sogleich den Tag nach seiner Ankunft zu seiner Bestimmung abgegangen . Die Fürstin ist im Begriff in diesen Tagen selbst nach Wien zu gehen ; und so traf die Angelegenheit ihres Gesuches an Metternich in einen sehr bequemen Zeitpunkt , und die edle Fürstin , die den hochgefeierten Mann so innig liebt und verehrt , wird gewiß alles tun , was nur irgend zur Beförderung der Sache dienen kann , deren befriedigender Ausgang um so mehr zu erwarten ist , indem man dadurch dem allerwürdigsten der deutschen Schriftsteller nichts weiter , als Gerechtigkeit widerfahren läßt ; und das Beispiel der Begünstigung für Goethe hier sehr gebietend einwirkt und gewissermaßen keine ausweichende Minister-Antwort zuläßt , da beide Männer auf Einer Linie stehen . Daß der Herrliche des Augenlichtes jetzt gänzlich beraubt ist , - ach ! wie tief hat uns das erschüttert ! Sie sagen in Ihrem Briefe nichts davon , daß vielleicht eine Operation zur Herstellung des vortrefflichsten Mannes Hoffnung gibt ; und dies beunruhigt die tieftrauernde Freundin so sehr , daß ich Sie , teure Frau ! recht dringend bitten soll , ihr einige Nachricht gütigst zukommen zu lassen . Auch mich peinigt derselbe Schmerz und ich vereinige meine Bitte mit der unserer gemeinschaftlichen Freundin . Bringen Sie verehrte Frau , Ihrem vortrefflichen Gatten im Namen seiner Freundin und in dem meinigen die herzlichen Worte der Freundschaft und Liebe dar . Gott sei mit Ihnen ! Tiedge . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

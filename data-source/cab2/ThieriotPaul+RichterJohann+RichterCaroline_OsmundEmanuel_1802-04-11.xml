@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0732">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter, Jean Paul und Paul Emile Thieriot an Emanuel. Meiningen,
+                    11. April 1802, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BSa</institution>
+                        <collection/>
+                        <idno type="shelfmark">OFS.Autogr. R 1(1802.04.11</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2⅔ S. von Caroline Richter, ½ S. von Jean Paul , ¾ S.
+                                    von Paul Emile Thieriot</p>
+                        <p>.</p>
+                        <handDesc>
+                           <handNote xml:id="JP-003469">
+                              <persName>Caroline
+                                            Richter</persName>
+                           </handNote>
+                           <handNote xml:id="JP-999999">
+                              <persName>Johann Paul Friedrich
+                                            (Pseud. Jean Paul) Richter</persName>
+                           </handNote>
+                           <handNote xml:id="JP-004275">
+                              <persName>Paul Emile
+                                            Thieriot</persName>
+                           </handNote>
+                        </handDesc>
+                        <accMat>Mit Briefen, die nach Emanuels Abreise noch für ihn
+                                    eingelaufen waren. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                     <ref type="letter" subtype="document" target="3-IV_263">3. Abt., Bd. IV, Nr. 263</ref> (nur von Jean Paul
+                            und Thieriot).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004275">Paul Emile Thieriot</persName>
+               <persName key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-04-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="4-IV_224">Von Emanuel. Bayreuth, 8. April 1802</ref>
+            </correspContext>
+            <note>Präsentat: Beantwortet d. 12 Apr. (darunter mit anderer Tinte :22). Nach einem
+                    Brief
+                    Emanuels an Thieriot vom 4. Mai 1802 war auch die (nicht mehr
+                    vorhandene) Adresse dreihändig (von Jean Paul, Karoline, Thieriot)
+                    geschrieben.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012313">Thieriot-Kreis</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-011811">Reisen</term><term xml:id="JP-012520">Stimulantien</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Guter herrlicher Emanuel , Ihr Brief war nur das Zeichen zur Übergabe dieser beifolgenden , die wir nach Ihrer Abreise erhielten , mein Mann glaubte das unmittelbare Mitteilen Ihres Bruders mache größere Eile überflüssig . So sind Sie glücklich und gesund in Ihr liebes Haus wieder eingekehrt ? Auf Ihrer ganzen Reise hat Sie der Himmel gesegnet , und wir nur gebetet daß Sie aus einem Freundes Arm in den anderen fallen möchten . In Rodach glaubten wir Sie befriedigt , und sahen Sie am zweiten Morgen eben so begleitet von dort wegreiten , als von Meiningen . Unsere , Ihre Freunde waren fast noch begieriger auf Ihren Brief als wir selbst . Wir sehnen uns nun nicht mehr allein nach Ihnen herrlicher Mensch - was Sie an Ihr Herz geschloßen nur liebend angeblickt haben , hofft auf und betet für Sie . - Otto soll uns doch das Blatt des Vaters schicken , worin der Tod der Schwester beschrieben ist . Welch einen Triumph fühle ich dabei , und wie liebe ich stärker die guten Menschen um ihrer Liebe Willen . Warum wissen Sie nicht , Ruhiger , daß wir Ihnen danken , am meisten fühle ich es , wie viel Zufriedenheit dazu gehörte , überall , und mit und durch alles glücklich zu sein . Wenn Sie froh waren , so sind wir gesegnet . Unsere Frühlings Reise nach Leipzig ist nun in eine Herbstreise verwandelt . Um dieselbe Zeit als ich im vorigen Jahr bei Ihnen glücklich war , werde ich es wieder sein , und vielleicht unter Ihren Augen . Mein Vater kann sich nicht früher von seinen Geschäften trennen , sagt Thieriot , der die Nachricht aus Leipzig brachte . Daß er hier ist sagt er Ihnen in diesem Augenblick selbst - er gefällt mir sehr . Diesen Abend gehen wir mit ihm zu den guten Heims , ich mit Freude weil ich Grüße von Ihnen bringen kann - und um so wilkomner ihnen . Die Hofrätin Heim verehrt Sie recht heilig . Und die Mädchen haben glaube ich , noch naße Augen . Die Künsberg war vorgestern bei mir . Uns haben Sie zusammengebracht - und Sie haben dankbare Glückskinder . Leben Sie wohl , Bester , ich bin glücklich der gute engelgute Richter ist gesund , ist auch glücklich und wir beide noch dazu heiter , auch mitunter freudelaut - daran freut sich Ihr liebendes Herz , darum sage ich es . Gott segne Sie guter Engel , ich bin stolz und dankbar auf Ihre Freundschaft schreiben Sie mir bald . sehr eilig Caroline . Nur ½ Wort ! - Ich wollte hohenbaum hätte eine Louise gehabt . - Vielen Dank für den Sechseimer Seelentrank ; gestern fing ich mein Wässern wie andere Wiesen an . Pro Zentner Fracht 1 rtl . - ist das von Coburg oder Bayr ? - Adio Carissimo ! - Den einen Brief an Sie öffnete ich wegen der Aufschrift. P. Die Zurücksendung der Briefe kostet mich etwas Ehrliches . - - - - - - - Aber daß Du auch so schnell fortmußtest ! Ich sitze hier in Abrahams u. Sarä Schoß , bin aber doch toll , daß man mich sitzen läßt . - Verständiges , wie Sie sehen , wird heute nicht viel geschrieben - ich bin erst seit vorgestern Abend da . - kam üb . Weimar von Herders , denen ich erzählte , ich würde Sie hier finden - u. s. w. was zu seiner Zeit suppplirt werden soll , wie die obigen Lakunen , denn Richter , der mir gegenübersitzt läßt mich nicht schreiben vor Lachen . Wegen Paris paß ich noch immer auf Antwort , von der Begleitung aber bin ich frei . Die Nach Sendung dieses Postskripts kostet mich etwas Ehrliches . Thieriot Deine Zeilen am Richtärschen Brief habe ich sowie diesen , noch nicht wieder aus Leipzig Schreibe aber eher wieder ! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

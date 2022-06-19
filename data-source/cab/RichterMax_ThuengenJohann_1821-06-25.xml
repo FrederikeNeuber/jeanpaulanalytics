@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1019">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Hans von Thüngen. Heidelberg, 25. Juni 1821,
+                    Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1⅛</p>
+                        <p> S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Geringer Textverlust durch Schreibung über den Rand hinaus. </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-06-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004291">Johann (Hans) Carl Moritz Freiherr von Thüngen</persName>
+            </correspAction>
+            <note>Brief nicht weitergeführt, ohne Gruß und Unterschrift. Vielleicht nicht
+                    abgeschickt?</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-013026">Heidelberger Gesellschaft</term>
+               <term corresp="#JP-011845">Max' Studium</term>
+               <term corresp="#JP-013234">Intellektuelle</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Daß Du meinen Brief schon erhalten u gar aus Baireut , dafür spricht die Aufmerksamkeit u Pünktlichkeit , die meinen Sachen dorthin immer folgen sollen . Jetzt nur noch ein Appendix , der mir , anderen nicht , diesmal ungern u unlieb geschieht , der aber zum Ganzen , zur Wahrheit gehört . Du hast hier ein paar Blätter , die ich Dir , keinem anderen , mitteilen möchte , selbst meinem Vater nicht so gern , der Kreuzer so nicht kennt u kennen kann , ich meine , von seiner wissenschaftl. Seite ; Du hast vielleicht die Vossische Rezension in d. Jen. Lit. gelesen ; auf jeden Fall überzeuge Dich von der argen Persönlichkeit , denn das Übrige ist v. ihm auch noch un e entschieden . Auf diese Reden , deren Inhalt hier nur in 2 Bogen bekannt waren , erfolgte v. Kreuz . diese Vossiana , die ihm übereilt ist , mir wehe tut . Wer ihn hört u deshalb ganz kennt in d. Vorträgen über Religion , der wird diese Blätter für eine der größten Übereilungen , freilich auf einem nicht guten einen Grund des Herzens gestützt , halten ; dazu kommt , daß er selbst Vielen seine Ruhe beschrieben hat , die er bei persönlichen Angriffen sich immer zur Regel macht ; Seine Gegenwitze sollen etwas bedeuten , u bedeuten doch nichts ; Alles ist verworren u nach Durchlesung weiß ich nur so viel , als , daß er künftig nichts mehr damit zu tun hlen will . Seine muntere Laune war seit d. Fackelzug gesteigert u , wie ich glaube , sein Mut , seine Männlichkeit , die sich standhaft beweisen soll gegen anders geglaubte Nachgiebigkeit , veranlassten diesen für uns Zuhörer nie gewährten Schritt . Dies gehört zur Beurteilung eines Mannes , der , durchaus orientalisch , eben in jedem kleinen Zug sich verrät , in jeder Andeutung einer der geringfügigsten Sachen . Voss lachte darüber ; Was den Amerikanischen Doktor betrifft , so kommt dieser eben von Berlin u sollte durch Voss ( ich war selbst diesen Abend bei ihm ) auf seine Mythologie verleitet werden , d.h. abgewendet von dem ihm gut bekannten Kreuzer ; Durchs dritte Ohr erfuhr dieser das Gespräch u so wurde ein sonst klarer Ozean mit keinem goldenen Schifflein befahren , wie bei Homer Hälios ( bekanntlich heißt Kreuzer bei uns gewöhnlich Kneph aus bekannten Übereinstimmungen . ) Das Magerwirthaus will ich bei meinem Weggehen abzeichnen . Doch hierüber habe ich ein langes Wort mit Dir mündlich zu sprechen ; jetzt nur ein kurzes - Kapp wohnt seit einigen Tagen bei mir . Willst Du Grüße von ihm ? Wie viel ? Alle gib Dir selbst . Die Gegend wird natürlich von neuem bestiegen u die Menschen werden kritisiert . Ein herrlicher Abend bei Voss gestern Abend ! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

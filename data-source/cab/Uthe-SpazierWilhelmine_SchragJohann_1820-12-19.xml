@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1004">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Uthe-Spazier an Johann Leonhard Schrag. Dresden, 19. Dezember 1820,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BSB</institution>
+                        <collection>Schragiana I</collection>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. Auf S. 4 Präsentat: <hi rendition="#aq">Uthe
+                                        Spazier - Dresden</hi> | 19 <hi rendition="#aq">Dec</hi>.
+                                    1820.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1820-12-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003846">Johann Leonhard Schrag</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013033">Minna Spazier-Kreis</term>
+               <term corresp="#JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012350">Minna Spaziers Beruf</term>
+               <term corresp="#JP-012547">Zeitschriften</term>
+               <term corresp="#JP-012314">Empfehlungen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wohlgeborener Hochgeehrter Herr Ein Brief aus Baireuth meldete mir soeben , daß mein Schwager Jean Paul Friedrich Richter , Ew. Wohlgeb. den Wunsch , das Fouquesche Taschenbuch durch ihn selber , oder durch einen von ihm vorgeschlagenen Redakteur fortgesetzt zu sehen - dahin beantwortet habe - daß er mich , für diesen Gegenstand Ihnen empfohlen . - - Zugleich rät mir Jean Paul , Ew. Wohlgeb. auch meinerseits Bereitwilligkeit Ihnen zu dienen , an den Tag zu legen ! Auch wünscht er dieses vielleicht nur darum , weil in der letzten Zeit , ich weniger mit Buchhändlern korrespondierte , und Mehreren , dieser Herren , wohl gänzlich unbekannt blieb . Unfehlbar aber hat mein Schwager in seinem Briefe , an Ew. Wohlgeb. die früheren Verhältnisse Ihnen bereits kenntlich gemacht , in welchen hinsichtlich des Willmanschen Taschenbuchs für Freunschaft und Liebe so wie der Urania , bei Brockhaus , früherhin ich gestanden habe . Letztere , wenn gleich nicht unter meinem Namen als Herausgeberin erschienen , dankt dennoch ihre Entstehung , eigentlich nur mir allein . Was das Erstere anbetrifft , so war die Redaktion desselben , mehrere Jahre hindurch in meinen Händen . Hier in Dresden , ist übrigens ganz der Ort , einer Unternehmung solcher Art , mit vorzüglichem Glücke vorstehen zu können , - - Mit Vergnügen habe ich mich beeilt , Ihnen dieses mitzuteilen , so wohl der ehrenden Bekanntschaft selbst wegen , die auf diese Weise eingeleitet werden könnte , mit Ew. Wohlgeb. - als auch aus Liebe zu meinem edlen Schwager , der gewiß mit beiden Teilen , in dieser Sache , es gut meint . Eine baldige gefällige Antwort wird mir besonders darum sehr willkommen sein , weil besondere Verhältnisse mich nötigen gleich nach Anbeginn des neuen Jahres eine bestimmte Einteilung meiner Zeit und Tätigkeit , für die nächsten Monate zu treffen Hochachtungsvoll Ew. Wohlgeb. Ganz eigenster J. K. W. Uthe-Spazier gebe . Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

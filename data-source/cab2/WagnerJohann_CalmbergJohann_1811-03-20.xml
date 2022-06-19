@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0956">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Johann Erhart Wilhelm Calmberg. Meiningen, 20.
+                    März 1811, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Baumbachhaus Meiningen</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">IN XIV-3/ 5573</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 1 S., S. 4 Adr.: </p>
+                        <p>Herrn | Hofadvokat <hi rendition="#u">
+                              <abbr>J. W. <hi rendition="#aq">Calmberg</hi>
+                              </abbr>
+                           </hi> | in | <hi rendition="#aq">Lauterbach</hi>. |
+                                        Gel<ex>e</ex>genh<ex>ei</ex>t<ex>lich.</ex>
+                        </p>
+                        <p> Siegelrest, Siegelausriss.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <msDesc rend="copy" type="witnessText">
+                     <msIdentifier>
+                        <institution>DLA Marbach</institution>
+                        <collection>Cotta-Archiv, Sammlung Wüstemann</collection>
+                        <idno>
+                           <idno type="shelfmark">Cotta$Verv.$Autogr.</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 4°, 1 S</p>
+                        <p>.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-03-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-013097">Johann Erhart Wilhelm Calmberg</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012633">Grüße</term><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-012572">Verlage / Verlegerisches</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein bester Calmberg ! Fast nur grüßen kann ich Dich heute - ich , der dir tüchtig schreiben wollte . Aber gerade heute wird mir meine Frau krank , und ziemlich verwickelt . Daher nur einen herzlichen Gruß von uns allen an Dich , dein geliebtes Weib und die teuren Kinder . Mit meinem Übel geht es Gottlob sehr erträglich , und fast besser , als in vorigem Jahre , so , daß ich wohl Manches hoffen könnte - doch will ich bescheiden sein und Gott für jeden neuerlebten Morgen danken ! Deinem Nachbar habe ich , da er es bloß mit der Regierung zu tun hat , bloß Rat geben und ihn an den rechten Mann weisen können . Gleich nach der Omesse , hoffe ich , wird bei Cotta ein Roman von mir fertig werden - " Isidora , ein Roman v. E. W. " Übrigens arbeite ich an einem " Jesus von Nazareth " , wobei mir der alte gute Grießbach in Jena treuen Rat gibt . Bald mehr . Ewig Dein treuer Bruder JEWagner </p>
+         </div>
+      </body>
+   </text>
+</TEI>

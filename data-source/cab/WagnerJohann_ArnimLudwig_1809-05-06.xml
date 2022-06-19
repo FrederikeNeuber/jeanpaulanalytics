@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1074">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Achim von Arnim. Meiningen, 6. Mai 1809,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin V</collection>
+                        <idno>
+                           <idno type="shelfmark">272</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 4°, 1 S.</p>
+                        <accMat>Bd. 2 von Wagners "Reisen aus der Fremde in die Heimath",
+                                </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <msDesc rend="copy" type="witnessText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin V</collection>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2½ S. </p>
+                        <p>(von Achim von Arnims Hand). Auf S. 3, zweite Hälfte der Seite:
+                                    Brief Achim von Arnims an Ferdinand Grimm vom 6. Juli 1828
+                                    (minimale Abweichungen). S. 4 Adr.: </p>
+                        <p>An Herrn <hi rendition="#u">F. Grimm</hi> | abzugeben in der |
+                                        <hi rendition="#u">Reimerschen</hi> | <hi rendition="#u">Buchhandlung</hi> in | der Wilhelmstrasse<space unit="section"/>zu | <hi rendition="#aq">
+                              <hi rendition="#u">Berlin</hi>
+                           </hi> | frey An Stempel: <hi rendition="#aq">DAHME</hi> | 9<hi rendition="#aq">. JULI</hi>
+                        </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Der Komet. Ein Unterhaltungsblatt für
+                            die gebildete Lesewelt. Hrsg. von C. Herloßsohn, 2 Jg. 1831, Nr. 123,
+                            Sp. 980</bibl>.</witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Zeitschrift für deutsche Philologie,
+                            Bd. 29, 1897, S. 209-210 (ungenau)</bibl>.</witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1809-05-06" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000141">Ludwig Achim von Arnim</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012869">Literarische Kritik</term>
+               <term corresp="#JP-012543">Dank</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein Herr ! Unter wahrhaft herzlichen Dankgefühlen las ich Ihre Beurteilung meiner drei Bücher , die mir von meinem Verleger Hanisch vor einigen Tagen zugesandt wurde . Dieser Verleger war sehr verlegen darüber , daß man mich in den Heidelb. Jahrb. d. L. so sehr persifliert habe . Zugleich liefen mehrere Klagen von anderen Bekannten ein , die in demselben Tone sprachen . Aber - das sind meine wahren Freunde nicht ; sie verstehen nicht einmal mich , geschweige denn Sie , und würden mich verlachen , wenn ich ihnen sagte , ich hielte Sie , mein Herr , für meinen wahren Freund , und würde mich bei Ihnen bedanken . Sie haben mich mit so vieler Menschenliebe gelesen und beurteilt ! - Sie haben Ihr sanftes Spiel mit mir getrieben ; aber in der ganzen Rezension ist auch kein einziger Ausdruck , der mich ärgern oder erbittern könnte ! Jeder von meinen Fehlern , die aus meinen Büchern ersehen werden können , ist so richtig , so rein , so schonend , so gutlaunig und so gemütvoll aufgestellt - und mein Gewissen hat jeden derselben gleich mit so voller Überzeugung anerkannt , ja ich möchte sagen mit solcher Freude bewillkommt , ( Ach , noch Niemand hat mir sie suchen und finden helfen ) , daß ich - der hienieden nur zwei eigentliche Freunde hat - Sie , verehrter Mann , für den dritten , und am Geiste für den besten anzusprechen wage . - Was hätte ich werden können , wenn ich vor sechs Jahren Ihr Urteil gekannt hätte , wenn Sie wenigstens damals meinen Willibald damals beurteilt hätten ! - Aber , hat man wohl in unseren übrigen Lit. Zeitungen nur einen Begriff von Wert und Nutzen eines Richterstuhls , wie der Ihrige ist ? Da ist kein guter noch böser Wille gegen den Autor , sondern nur reines Streben , das Organ der Welt für den Autor und das Organ des Autors für die Welt zu sein ! Da ist keine Lieblosigkeit , keine schmerzende Spötterei , keine Geringschätzung oder Vorliebe für das Kunstwerk ! Da steht - ( verzeihen Sie mir den Ausruf der Bewunderung ! ) da steht ein Mensch so erhaben und so schön vor mir da , dem ich nicht wert bin , die Schuhriemen aufzulösen , und der doch mit liebevollem Scherz zu mir spricht , keine unfreundliche Miene mir gibt und mich nicht verschmäht ! - O Dank ihm ! Verschmähen Sie es auch nicht , aus beikommendem , letztem Bande meiner " Reisen " mich vollends ganz kennen zu lernen , und nehmen Sie dieses Andenken so herzlich gern an , als ich es Ihnen reiche . Gern wüsste ich Ihren Namen , gern Ihr Urteil über dieses Buch ! - Wollen Sie mir beides schenken , oder doch das letztere - ( denn die gedruckte Rezension dürfte ich wohl schwerlich erleben , da eine 7 jährige Nervenauszehrung - die , meines runden und gesunden Porträts ungeachtet , schon damals weit vorgerückt war - diesen Frühling auf einmal mit mir zu eilen beginnt ) , so würden Sie mir eine große Freude machen , da ich außer Ihrem Urteil noch kein vernünftiges Wort über mich gelesen - auch außer Göthens und meines Augusts ( Kammerherr von Studniz in Gotha , ( Sed haec inter nos ! ) den ich Sie aufzusuchen bitte , wenn Sie je nach Gotha kommen , da er das schönste Gemüt ist , das ich je fand ) nichts vernünftiges über mich gehört habe - Doch will ich eine kleine Rezension im Freimütigen ausnehmen , die zwar bitter schmeckte , aber doch manches wirklich Treffende enthält , ( Ich rede im Ernste ! ) worüber ich mich gewundert habe . Leben Sie wohl , trefflicher Mann , und - ist es möglich , so erfüllen Sie meine zwei Bitten . Ewig Ihr dankbarer J. E. Wagner </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0579">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 1. Dezember
+                    1815, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 ¼ S. Anstreichungen vfrH.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1815-12-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011893">Berufliches</term><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012533">Lektüre(n)</term><term xml:id="JP-012430">Religion</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! Deinen lieben Brief vom 12.9 .ber habe ich durch Herrn von Kalb richtig erhalten ; u da Du mit heutiger Post auch von meiner Frau Nachricht über das für sie besorgte Schmalz bekommen wirst ; So ist_es nun auch Zeit den Punkt Deiner Auslagen ins reine zu bringen . Sie betragen 25 rth 3 gr 6 pf Preußisch Kurant ; und ich wünschte solche nebst 20 rth -- , - Gold , die neulich angezeigten Richtärschen Zinsen , ebenfahlst zu Kurant , also mit dem Agio à 22 rth - , - berechnet , zusammen zu bezahlen . Kannst Du nun die Sache so stellen , daß Dir Herr Leixner das Geld dort bezahlt ; So bitte ich zugleich die Summe auf noch 12 rth 20 gr 6 pf als auf mich allhier anzuweisend , mithin auf 60 rth - , - zu richten ; indem ich Dir u Deinen Kindern den Überschuß als ein kleines Weihnacht Geschenk offeriere . Du wirst mir einen Gefallen tun , die Sache so zu arrangieren . Sollte Dir übrigens Herr Leixner die 60 rth vorschießen , ehe sie von mir hier für seine Rechnung bezahlt sind ; So wird er Dir Assignation auf mich , nach kaufmännischer Art nicht umsonst geben ; u Du bist dann schon so gut , ihm seine Spesen , die nur einige Taler betragen können , von den 12 rth 20 gr. 6 pf. zu bezahlen , damit die Sache so aufs reine komme . Minna hat mir von ihren Entschluß nichts gemeldet ; - ich hatte ihr geraten in Strelitz zu bleiben , wo sie einmal bekannt , u geschätzt ist ; u wo es ihr bei ihrer u ihrer Tochter industrie am notwendigen nicht fehlen kann . Wenn sie sich nur so lange hält , bis Julius Brot hat , u das hat er in Zwei Jahren sehr wahrscheinlich , hinreichend . ich kann jetzt für sie nichts tun , da der unglückliche Erfolg meiner Familien Angelegenheiten , u das Zusammentreffen mit armem Mit Erben , für die ich mich aufgeopfert habe , meinen Wohlstand zu Grunde gerichtet hat , u ich nur durch meinen jährlichen Verdienst gedeckt , u vielleicht im Stande bin , dereinst noch etwas für meine Kinder übrig zu lassen . Für die Pension Angelegenheit Deines Mannes kann ich nur bei Herrn Staegemanns Zurückkunft den Faden wieder anknüpfen . Einen Brief Deines Mannes an die Groß Fürstin Katharina aber getraue ich mich durch meine hiesigen Verbindungen sicher in Ihre Hände zu liefern . Schade daß sie beim Eingang Deines Briefes schon weg war . Für den Verfaßer der erwähnten Memoiren wird h. allgemein H. p v. Woltmann der Historiker gehalten . Lebe wohl u grüße Mann u Kinder . Dein treuer Vater Mayer Kennt Dein Mann eine Piece unseres Professor de Wette Die neue Kirche oder Glaube u Verstand im Bunde . Sie ist sehr interessant , u gegen die hier , bei Gelegenheit der zur Sprache gekommenen Verbesserung des Kultus , auf lodernde Priester Wut , gerichtet . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

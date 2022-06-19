@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0400">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Friedrich Freiherr Cotta von Cottendorf.
+                    Bayreuth, 16. Dezember 1826, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>DLA</institution>
+                        <collection>Cotta-Archiv</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl. 4°, 5 S. Unter dem Datum am Briefschluß Präsentat von
+                                    Cottas Hand: 22 [22. Dezember 1826]</p>
+                        <p>, Siegelreste und Adresse auf S. 8: Des | Herrn Geheimen-Hofraths
+                                    | Freiherrn von Cotta Hochwohlgeb<ex>oren</ex> | in | <hi rendition="#aq">
+                              <hi rendition="#u">Stuttgardt</hi>
+                           </hi>;
+                                    Poststempel: <hi rendition="#aq">Bayreuth</hi> | 17. <hi rendition="#aq">DEC</hi>. 1826.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1826-12-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000698">Johann Friedrich Freiherr Cotta von Cottendorf</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0622">Von Johann Friedrich Freiherr Cotta von
+                        Cottendorf an Caroline Richter. Stuttgart, 26. Oktober 1826,
+                        Donnerstag</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+               <term corresp="#JP-012601">Juristische
+                        Angelegenheiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Hochverehrtester Herr Geheime-Hofrat ! Es tut mir sehr leid daß Ew. Hochwohlgeboren den Grund meiner am 21 ten vorigen Monats abgegebenen Erklärung einzig und allein in der Unterlassung Ihrer Beantwortung meiner Ihnen unter dem 20 ten Jul. vorgelegten Fragen zu finden glauben , ungeachtet ich ausdrücklich geschrieben habe , daß auch sie ( diese Unterlassung ) neben den vorhandenen anderen - ich setze hinzu , entscheidenden Umständen mich bestimmte , gegen Ew. Hochwohlgeboren mich eben so zu erklären , wie ich bereits in meiner Schrift an die Königliche Württembergische Regierung getan . Es ist bekannt daß das Verlagsrecht kein ewiges ist sondern in jedem einzelnen Fall sich lediglich auf diejenige einzelne Ausgabe oder Auflage einer Schrift bezieht über welche ein ausdrücklicher Vertrag unter Festsetzung des Honorars abgeschlossen worden , wie ( um ein , unsere gegenseitigen Verhältnisse berührendes Beispiel anzuführen ) die zweiten , von Ihrer Handlung bewirkten Auflagen der Levana und der Vorschule , außerdem aber im Allgemeinen und am einläutendsten der in Gesamtausgaben vorgenommenen Sammlungen der Einzelwerke mehrerer Schriftsteller beweisen . Das Recht dieser , und aller Autoren , ihre Schriften in einer solchen Gesamtausgabe erscheinen zu lassen , steht fest , und ist durch die überaus verdienstliche Wirksamkeit Euer Hochwohlgeboren in der literarischen Welt Deutschlands festgestellt worden , und zwar dergestalt daß es beim Abschlusse jedes Verlagvertrags stillschweigend vorausgesetzt wird . Dadurch ist anerkannt , daß kein früherer Verleger von Einzelwerken befugt sei einen Einspruch zu machen oder eine Entschädigung zu verlangen , und , daß dies um so mehr unstatthaft ist , als jedem der Absatz , der allenfalls noch vorrätigen Exemplare von einer ihm übertragenen Auflage einer Schrift dergestalt unverkümmert bleibt , daß er dieselbe für jeden beliebigen Preis , für einen erhöhten eben so gut , als für den alten oder auch für einen niedrigen fort und fort und bis auf das letzte verkaufen kann . Ist in einem einzelnen Falle ( wie z. B. in Rücksicht Joh. v. Müllers Schweizergeschichte angegeben wird ) entweder vor vollkommener Feststellung der angeführten Prinzipien , oder ausnahm und vertragsweise etwas anderes beliebt worden : so geht dies dritte Personen nichts an ; weswegen ich auf Ansprüchen welche von Seiten Ihrer Buchhandlung an die ehemalige Waidmannsche etwan gemacht werden möchten nicht zu antworten , sondern die Verhandlungen darüber lediglich Ew. Hochwohlgeboren und Herrn Reimer zu überlassen habe . So wenig die Herdärsche oder Schillersche Familie bei Herausgabe der Gesamtwerke ihrer Erblasser den ersten Verlegern der einzelnen Schriften , irgend eine Entschädigung geleistet oder eine Verpflichtung dazu anerkannt haben , eben so wenig kann mir die letztere auferlegt , und die drückendste würde mir aufgebürdet werden , wenn ich Ihrer Handlung wie Sie zu verlangen scheinen , gleichsam ein ewiges Verlagsrecht einer wohlfeilen Ausgabe , der von ihr verlegten Einzelwerke einräumen wollte . Wenn meines verewigten Mannes und meine Absicht in Erfüllung gegangen wäre , Ew. Hochwohlgeboren den Verlag der Gesamtwerke zu überlassen , was würden sie von uns gedacht und wie würden sie über mich geurteilt haben , wenn ich zu gleicher Zeit oder wenige Monate nach dem Abschluß eines Vertrages mit Ew. Hochwohlgeboren einen anderen mit Herrn Reimer abgeschlossen und diesem dadurch die Befugnis eingeräumt hätte von den bedeutendsten Schriften Jean Pauls , deren Verlag er an sich gebracht , sogleich neue wohlfeile Ausgaben , gegen Entrichtung eines Honorars ( denn anders würde es wohl nicht denklich sein ) erscheinen zu lassen ? Dies sind die durchaus rechtlichen Umstände , und keineswegs ausdrückliche Stipulationen , die sogar unnötig waren , welche mich bestimmten meine Erklärung vom 21 ten v. M. als eine letzte Willensmeinung abzugeben . Gleichwie ich dadurch Ihre Verlagsrechte in Beziehung auf die , in Ihrer Handlung erschienenen Ausgaben einzelner Werke und den gebührlichen Absatz der noch vorrätigen Exemplare derselben anerkannt , gleichwie ich dies in meiner Schrift an die Königliche Württembergische Regierung , auf welche ich mich nochmals ihrem ganzen Inhalte nach berufe , getan habe : so erkläre ich auch , weil Sie es verlangen , hier mit nochmals , daß das mir erteilte noch von meinem seligen Mann selbst erbetene Privilegium in Rücksicht der von Ihnen verlegten Werke , Jean Pauls , nicht rückwärts ausgedehnt werden kann und soll ; daß dennoch der Absatz der vorhandenen Exemplare unbeschränkt bleibt , und , wie oben angeführt worden , auf jede beliebige Weise bewirkt werden kann . Dabei muß ich aber noch ausdrücklich bemerken und reservieren daß daraus nie und nimmer die Befugnis gefolgert werden kann und darf , es könne und dürfe von diesen Einzelwerken ein neuerer Abdruck gemacht werden . Was die Selina betrifft : so war mir unmöglich Euer . Hochwohlgeboren Erklärung in dem Schreiben vom 9 ten Oktober den Sinn beizulegen , welchen Sie damit verbanden . Die erste Auflage der Selina ist aus drücklich , und zwar deswegen vorbehalten worden , weil sie Ihrer Handlung bestimmt war . Da aber so fortdauernden unangenehmen Erörterungen nicht auszuweichen war , und da Ew. Hochwohlgeboren versichert sein dürfen , daß mir Streit und Uneinigkeit das schmerzhafteste ist was ich erleben kann ; überdies mein ganzes Wesen sich dahin drängt , lieber von Anderen die Anerkennung rechtlicher Verhältnisse als eine Äußerung der Großmut zu erbitten , als mit Strenge zu verlangen : so glaubte ich , daß ich - da ich mich endlich entschieden erklären mußte - auch in Ihrer Seele spräche , wenn ich erklärte , daß wir die Unterhandlung über die Selina abbrechen wollten , zumal da ein eigentlicher Vertrag noch nicht abgeschlossen und über das Honorar noch nichts verhandelt ist , und da ich sogar gewärtig sein mußte , daß Ew. Hochwohlgeboren wenn Sie Sich bei meiner abgegebenen Erklärung nicht beruhigen wollten , richterliche Entscheidung klagbar herausfodern müßten . Ich glaubte so handeln zu müssen , weil mir scheint , daß gänzliche Trennung besser und ehrlicher sei , als halbe Verständigung wobei täglich der Mangel an Einstimmigkeit sichtbar und drückend werden muß . Indessen bin ich , weil Ew. Hochwohlgeboren es verlangen , recht bereitwillig , Ihnen den Verlag von der ersten Auflage der Selina die aus 1500 Exemplaren bestehen , und nach einem bestimmten Zeitraum den Gesamtwerken einverleibt werden soll , zu überlassen . Sind Ew. Hochwohlgeboren dazu geneigt : so haben Sie die Gewogenheit Ihre Willensmeinung sowohl über den erwähnten Zeitraum , als über das Honorar , welches Sie bewilligen können und wollen , mir sobald als möglich mitteilen . Das Manuskript ist zum Abdruck fertig , und kann in jedem Augenblick abgeschickt werden ; indessen muß ich bemerken , daß das Werk unvollendet ist , indem die drei letzten Kapitel gänzlich fehlen , an deren Stelle aber eine Auswahl von Fragmenten tritt , welche in den letzten Kapiteln verarbeitet werden sollten . Mit wahrer ernster Hochachtung , Ew. Hochwohlgeboren untertänigste Caroline Richter gebe . Mayer P. S. Schließlich muß ich bemerken daß die späte Absendung dieses Briefes durch die tödliche Krankheit eines auswärtigen Freundes veranlaßt wurde , der in so wichtigen Punkten mein Ratgeber zu sein , durch seine tiefe Einsicht und Rechtlichkeit , die Befugnis hat . Seidem nicht bloß mein Herz , sondern auch Verstand in meinen Geschäftsverhandlungen befragt werden muß , reicht meine eigene Kraft nicht hin . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

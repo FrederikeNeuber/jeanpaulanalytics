@@ -18,7 +18,7 @@
             <xsl:variable name="cur-doc" select="." as="document-node()"/>
             <xsl:variable name="basename" as="xs:string" select="string(base-uri($cur-doc))"/>
             <xsl:variable name="output-uri"
-                select="replace($basename, 'data-source/umfeldbriefe/.*/', 'data-preprocessed/letters-xml/')"/>
+                select="replace($basename, 'data-source/umfeldbriefe/.*/', 'data-analysis/metadata/')"/>
             <xsl:result-document href="{$output-uri}">
                 <xsl:apply-templates select="$cur-doc/node()"/>
             </xsl:result-document>
@@ -31,7 +31,9 @@
         </xsl:copy>
     </xsl:template>
 
-    <!-- teiHeader: attributes/sections to delete -->
+    <!-- teiHeader: sections/attributes to delete -->
+    
+    <xsl:template match="tei:TEI/@type"/>
 
     <xsl:template match="@telota:doctype"/>
 
@@ -39,16 +41,7 @@
 
     <xsl:template match="tei:fileDesc//tei:respStmt"/>
 
-    <xsl:template match="tei:fileDesc//tei:editionStmt"/>
-    
-    <xsl:template match="tei:correspDesc//tei:persName[@key = 'JP-004373']">
-        <persName xmlns="http://www.tei-c.org/ns/1.0" key="JP-004373">Unbekannte Korrespondent/innen</persName>
-    </xsl:template>
-    
-    <xsl:template match="tei:correspDesc//tei:persName[@key = 'JP-999999']">
-        <persName xmlns="http://www.tei-c.org/ns/1.0" key="JP-999999">Jean Paul</persName>
-    </xsl:template>
-    
+    <xsl:template match="tei:fileDesc//tei:editionStmt"/> 
 
     <xsl:template match="tei:correspDesc/tei:note | tei:correspDesc/tei:correspContext"/>
 
@@ -57,7 +50,7 @@
     <xsl:template match="tei:publicationStmt">
         <publicationStmt xmlns="http://www.tei-c.org/ns/1.0">
             <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
-            <date when="2021-06"/>
+            <date when="2022-06"/>
             <availability>
                 <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
             </availability>
@@ -66,9 +59,17 @@
 
     <xsl:template match="tei:sourceDesc">
         <sourceDesc xmlns="http://www.tei-c.org/ns/1.0">
-            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.4.0,
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
                 the XML data of https://www.jeanpaul-edition.de.</p>
         </sourceDesc>
+    </xsl:template>
+    
+    <xsl:template match="tei:correspDesc//tei:persName[@key = 'JP-004373']">
+        <persName xmlns="http://www.tei-c.org/ns/1.0" key="JP-004373">Unbekannte Korrespondent/innen</persName>
+    </xsl:template>
+    
+    <xsl:template match="tei:correspDesc//tei:persName[@key = 'JP-999999']">
+        <persName xmlns="http://www.tei-c.org/ns/1.0" key="JP-999999">Jean Paul</persName>
     </xsl:template>
 
     <xsl:template match="tei:keywords[@scheme = '#topics']/tei:term">
@@ -90,18 +91,27 @@
                     </term>
             </xsl:otherwise>
         </xsl:choose>
-    </xsl:template>
-    
+    </xsl:template>  
 
 
     <xsl:template match="tei:keywords[@scheme = '#correspondents']/tei:term">
-        <term  xmlns="http://www.tei-c.org/ns/1.0" xml:id="{current()/substring-after(@corresp, '#')}">
+        <term xmlns="http://www.tei-c.org/ns/1.0" xml:id="{current()/substring-after(@corresp, '#')}">
             <xsl:value-of select="normalize-space()"/>
         </term>  
     </xsl:template>
-    <!-- text: normalizations -->
+    
+    <xsl:template match="tei:text">
+        <listPers>
+        <xsl:for-each select="distinct-values(tei:persName)">
+            
+                <persName><xsl:value-of select="."/></persName>
+            
+        </xsl:for-each>
+        </listPers>
+    </xsl:template>
+   
 
-    <!-- muss raus!!! -->
+    <!--<!-\- muss raus!!! -\->
     <xsl:template match="tei:bibl/@key">
         <xsl:attribute name="sameAs">
             <xsl:value-of select="."/>
@@ -124,13 +134,13 @@
         <xsl:apply-templates select="tei:sic | tei:orig"/>
     </xsl:template>
 
-    <xsl:template match="tei:hi | tei:orig | tei:add | tei:unclear | tei:sic | tei:supplied | tei:ex">
+    <xsl:template match="tei:orig | tei:add | tei:unclear | tei:sic | tei:supplied | tei:ex">
         <xsl:apply-templates/>
     </xsl:template>
 
     <xsl:template match="tei:del | tei:corr | tei:reg | tei:gap"/>
 
-    <!-- text: other clean ups -->
+    <!-\- text: other clean ups -\->
 
     <xsl:template match="tei:hi[not(@hand)] | tei:text//tei:date | tei:foreign">
         <xsl:apply-templates/>
@@ -140,6 +150,6 @@
 
     <xsl:template match="tei:lb | tei:pb | tei:space">
         <xsl:value-of select="' '"/>
-    </xsl:template>
+    </xsl:template>-->
 
 </xsl:stylesheet>

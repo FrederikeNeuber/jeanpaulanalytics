@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0050">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Eduard Pohl an Caroline Richter. Berlin, 24. November 1825, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003263">Eduard Pohl</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1825-11-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note>Pohl hatte zu Jean Pauls Tod auch zwei Gedichte verfasst, die in seiner
+                    Sammlung "Lyrische Gedichte" erschienen sind (vgl. Berend/Krogoll, 245, Nr.
+                    2309-2310). </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012222">andere Korrespondenten Jean Pauls</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012524">Jean Pauls Tod</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Verehrungwürdigste Frau Legationsrätin ! Voll tiefer Wehmut blickte mein tränenfeuchtes Auge die welkenden Fluren an und den entblätterten Wald von Nebel und Wolken dicht umhangen und mein Herz trauerte über der großen Ruhestätte der Erde ; da öffnet sich ihr dunkler Schoß und sie nimmt auch den von unserer Aller Herzen , den wir Alle so unendlich lieben ! - Ich rufe den Engel der Tröstung , daß er komme und Frieden bringe , zumal Ihnen und den teuren Kindern , die Seiner liebenden Brust am nächsten standen , aber dann auch mir und Allen , die tieferschüttert zur Seite des Entschlummerten stehen und sich selbst beweinen , daß sie von Ihm verlassen sind . Vergangenen Sonntag feierten wir das allgemeine Totenfest und meine Seele schwebte um die Gräber aller derer , die einst groß und herrlich über die Erde gegangen waren ; - ich wußte noch nicht , daß auch der Teure sich ihnen angereiht hatte ! - Da wurde ich recht schmerzlich bewegt über des Menschen Los ; aber schnell tat sich der düstre Wolkenschleier auf und die ewige Sonne der Liebe und Wahrheit erleuchtete und erwärmte das trauernde Herz . O nein , nein ! diese Sehnsucht , die der allmächtige Vater uns gab nach seinem wunderbaren Lichte , sie kann nicht lügen ! Wahrhaftig sind alle Offenbarungen des Wahrhaftigen in dem Sohne seiner ewigen Vaterliebe , in der Natur und in der zitternden Menschenbrust ! Ja , ich wurde aufgerichtet durch den himmlischen Trost seines Evangeliums und gestärkt und erhoben verließ ich , begleitet von dem glaubensvollen Gesange unseres seligen Klopstocks : " Auferstehn , ja auferstehn wirst Du mein Staub nach kurzer Ruhe ! " die dämmernden Hallen des Gotteshauses . Ja wir finden Ihn einst wieder ! Er ging uns nur auf kurze Zeit voran zu den Wohnungen des ewigen Friedens , wo keine Trennung mehr die liebenden Seelen trübt , über die Jahre der Trauer fliegt Ihm unsere gläubige Hoffnung nach und bald stehen sie hinter uns , wie ein kurzer schwüler Traum ! O meine Hochverehrte ! - lassen Sie mich Sie mit dem Namen nennen , den Ihnen in jener seligen Stunde des Friedens mein begeistertes Herz entgegenrief und welchen nun das trauernde zu gleichem Schmerzgefühl verbundene wiederholt , meine teure Mutter ! kann das Wort eines Jünglings Ihren großen Schmerz milderen , der in dem Hingeschiedenen das Schönste beweint , was ihm auf Erden zu Teil wurde ? - Mögen doch unsere Tränen fließen : sie sind das Opfer unserer Liebe ; aber mögen sie Ihm würdig fließen und auf Seinem Grabhügel die Blumen der Hoffnung hervorrufen , die auch Sein seliger Geist hienieden pflegte und zu einem unverwelklichen Kranze verband . Ja , Sein hoher Geist lispelt mir vernehmlich zu : wir sehen uns alle einst wieder ! Dort , wo das entschleierte Auge selig lächelnd den heiteren Morgen der Ewigkeit begrüßt , wo Liebe unsere Seelen ewig beglückend verbindet ! Ach ich halte ja ein Blütenblatt des unverwelklichen geistigen Frühlings der Seelen von dem Herrlichen in meiner Hand und benetze es mit meinen Tränen ! Es soll mich aufrichten die späte trübe Abenddämmerung des Erdenlebens hindurch , bis ich dort den Frühling der Liebe mit verklärten Blicken ewig schaue . Nein , das Grab ist nicht furchtbar , nicht ewig verschlossen ! Es ist geheiligt durch den Heiligen Gottes , welcher auch einst darin geruht , geheiligt durch die Engelsgestalten , die einst dem trauernden Herzen einer Maria daraus zuriefen : den du suchest , der ist nicht hier , er ist auferstanden ! - So ruft auch uns der Geist des Lebens zu : er ist nicht hier im Staube , den Eure Seele liebt , er ist bei Gott ! Nur auf kurze Zeit verbarg uns die Wolke des Todes den Herrlichen und wir folgen der Glorieseins Geistes bis Er uns jenseits des dunklen Gewölks mit neuem Strahlenglanze entgegentritt ! Der Gott der Liebe und der Wahrheit sei mit Ihnen Allen , und des Verklärten Geist erhebe zu stiller Wiedersehens-Hoffnung Ihre trauernden Herzen ! - Mit Achtung und Ehrerbietung Ihr Mittrauernder Eduard Pohl . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

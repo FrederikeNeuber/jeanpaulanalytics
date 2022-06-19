@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0208">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, 20. Mai 1821, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 2 Bl. 8°, 8 S. Blattnummerierung vfrH (?).</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                      Wahrheit 8, 293-296
+                        (unvollständig).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Hartung: Jean Paul, ein
+                            Lebensroman in Briefen</bibl> , S. 433 f. (unvollständig,
+                        ungenau).</witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth
+                        (Stadt)</placeName>
+               <date when="1821-05-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="4-VIII_106">Von Max Richter. Heidelberg, vor dem 20.
+                        Mai 1821</ref>
+            </correspContext>
+            <note>Von Dobeneck überbracht, vgl. <ref type="letter" subtype="passage" target="JP-UB0088/#start_nnl_nmz_4mb">Brief von Caroline Richter an Max vom
+                        1. Juni 1821.</ref>
+            </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012721">Dessauer Familienstipendium</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-011832">Gesellschaftliches Leben</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012430">Religion</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebter Max ! Dein Brief musste uns in aller Rücksicht sehr wehmütig stimmen , und man kann nichts Eiligeres tun als Dir antworten , um Dich aus quälenden Irrtümern zu reißen . An demselben Sonntag wo Dein Brief gekommen schreibe ich Dir , und bitte Gott Dir Glauben an die nüchternste Wahrheit meiner Worte einzuflößen . Der Vater liebt Dich unaussprechlich , er achtet Dich so innig und begehrt nichts mehr vom Schicksal als einen solchen Sohn - ich und die Schwestern und alle unsere Freunde eben so sehr , und wir begehren dabei gar nicht , daß Du ein Leßing-Neuton-Göthe Schelling oder Jean Paul sein sollst , sondern daß Du Max bist und bleibest wie Dich Gott so rein und fromm zur Freude Deiner Eltern auf die Welt setzte und Du bis dahin Dein redliches Gemüt bewahrt hast , samt dem Streben nach Wissenschaft und dem sich immer mehr öffnenden Sinn für Heiliges - Wahres - und Schönes . Was willst Du weiter ? Können Menschen - Götter sein ? Nichts ist dagegen zu sagen , daß Du Deine Ideale so hoch stellst , aber wenn Dein shöner Eifer Dich auf der einen Seite in jener rührenden Bescheidenheit und Demut erhält , die auch dem größten Menschen so schön steht , so zeigt sich echte Religiosität nur dann wenn unserem redlichen Wollen nach dem Höchsten zu ringen - Heiterkeit zur Seite steht . Gegen die Grenzen des Menschlichen anzurennen die jedem Individuum mehr oder minder gesetzt sind , ist nicht fromm ist nicht Gott ergeben - o laß Deine schöne Begeisterung für den Glauben sich daran beweisen - strebe , aber geißele Dich nicht mit ungerechten Beschuldigungen wenn Dir Dies oder Jenes nicht gelingt - und strenge dafür die Dir verliehenen Kräfte desto schärfer an , und das daraus hervorgehende Gelingen wird Dir Beruhigung und Frieden geben Die Löwin , ziert des Löwen Mähne nicht - Buntfarbig sonnt sich die Phaläne nicht - Der Schwan durchfurcht mit stolzem Hals den See Doch hoch im Äther hausen Schwäne nicht ; Die Rieselquelle murmelt angenehm Doch Schiffe trägt sie nicht , und Kähne nicht ; An Dauer weicht die Rose dem Rubin Doch schmückt ihn Tau von süßer Träne nicht ; Was willst Du mehr , als was Du bist , zu sein Ein anderes je zu werden - wähne nicht . Diese so viel Wahrheit enthaltende Stelle aus eines Graf Plattens Gedichten im Geschmack von Göthe's Diwan sprach mich schon damals so sehr an , als ich sie zum erstenmal las , und sie scheint mir sehr passend für Dich . Ich will damit nicht sagen daß ich Dir nicht Kräfte für Alles zutraue was in des Geistes Gewalt steht . Wie kannst Du nur denken , daß wenn ein Brief von Dir kommt , wir nicht in Jubel und Liebe zusammenlaufen um von dem entfernten uns angehörigen Sohne und Bruder gierig jede Nachricht zu hören ? Ist es möglich daß du an der innigsten Freude zweifeln kannst ? Dem Vater und mir war eigentlich nichts schmerzhaft als deine Melancholie , und die Furcht vor jener knechtisch und ungerechten Selbstquälerei vor Gott die alle Tatkraft lähmt und leider auch unter den Klugen jetzt so allgemein wird . Diese religiöse Empfindelei die mir wie eine Krankheit vorkommt - der Vater kaufte vor Kurzem Jerusalems Werke , und darunter ist ein ganzer Religionsunterricht für einen fürstlichen Jüngling begriffen - wie schön und wahr , für Gemüt und Verstand - auch Gellert wird mit den Schwestern von mir wiedergelesen , und ich finde , daß seine moralischen Abhandlungen sehr wohltätig für die Seele sind mir ist es Wonne dem längst heimgegangenen und jetzt nicht mehr so geschätzten Manne , in meiner Anerkennung auch mein Scherflein , des Dankes darzubringen und dann der Gedanke , daß auch meine Mutter ihn mit Verehrung und Liebe las , wie alles was geliebte Tote verehrten , macht mir ihn teuer . Er hat gewiß viel Gutes gewirkt . Dagegen genügen mir Witschels Andachten , und Ehrenbergs Schriften gar nicht sie kommen mir bloß vor , wie religiöse Poesien . Hugo Blair - Herder - Spalding - das sind Kernschriften und Dräseke in Bremen , und Wessenberg unter den Neueren die ich kenne mir , die liebsten Andachtsbücher . Doch nun zum ökonomischen : Wie sehr ich leide mein Herzenssohn wenn ich Dich von dieser Seite sorgend und entbehrend denke , kann ich Dir nicht sagen . Allein Du hattest in so fern viel Schuld , als Du zu uneigennützig und edel , Deine Berechnungen nicht genau angabst . Erinnerst Du Dich nicht meiner Bitte , nachdem Du auch in München durch falsche Delikatesse Dich verwickelt hattest von nun an , alles genau und furchtlos anzugeben was Du gebraucht hattest . Warum hast Du dies nicht befolgt ? Der gute Vater gibt alles gern was Du vernünftiger weise brauchst , und sobald Du ihm beweisest , daß Du nicht anders kannst auch 500 fl. allein in jeder Sache ist Unklarheit und Zaghaftigkeit schädlich , entspringt sie auch aus den edelsten Gründen ; und darum werden auch schwache Menschen eher unglücklich als - Böse . In allem Bestimmtheit , Ordnung , und Offenheit so will es der Vater . Wenn Du nun Deine Mutter liebst , die nur dann glücklich ist , wenn sie ihr geliebtes Kind befriedigt weiß , so antworte mir sogleich auf diesen Brief , wie viel Du noch von den letzten 50 fl. des Vaters nach allen bezahlten Rechnungen übrig hast , und ob Du unter dem verschimmelten Kuchen auch die 4 Kronth . fandest die mit eingepackt waren . Dann kann von jetzt an , eine neue Ordnung eingeführt werden . Ich dächte der Vater gäbe Dir ein Fixum von 400 fl. fürs ganze Jahr danach müsstest Du Dich einrichten und diese Summe monatweise verteilt einnehmen , damit Du im Besitz einer etwas ansehnlichen Summe nicht durch Deine Gutmütigkeit verleitet würdest - Betrügern zu leihen . Betrachte übrigens die Gabe des Vaters nicht als eine unerhörte Großmut , da sie Elternpflicht ist , und laß Dir eine mäßige aber reichliche und gesunde Nahrung nicht zu einem Gewissensskrupel werden . Um Dich aus jetzigen möglichen Verlegenheiten zu reißen werde ich Dir ( wahrsheinlich durch Reizenstein ) von meinen Interessen 30 fl extra auszahlen lassen die dem guten Vater gar nicht in Rechnung gestellt zu werden brauchen . Dafür verlange ich aber daß Du meine erste Bitte wörtlich erfüllst . Du sagst bloß was Du von einem bestimmten Datum an von allem noch übrig hast , damit der Vater Dir zur rechten Zeit Geld schickt , sonst bleiben ewige Reste und ewige Verwirrung . In der Stipendiumssache habe ich nichts getan weil Ihr Alle so gleichgültig dagegen wart . Jetzt ist der Zeitpunkt eingetreten wo meiner Schwester Sohn , Richard es brauchen wird , und soll ich dieser vaterlosen Waise eine Vergünstigung wegnehmen die sie dringender braucht als wir ? Jedoch will ich unsere Ansprüche noch nicht aufgeben , und werde mich bei der Dessauer Regierung erkundigen , ob Ihr nicht Beide nach einander es genießen könnet , und wir müssten dann die letzten sein . Der Brief an Lairitz ist sogleich besorgt , er ließ danken . Bald werde ich ihn zu mir kommen lassen . Grüße doch den edlen Carové recht sehr von uns . und Vossens ganze würdige Familie . Wie schön hat Voß den Vater eingeladen . Laß nur schönes Wetter kommen , so reißt er gewiß . Bei der Großmutter werde ich nächstens wegen Berlin anfragen . sie schrieb mir vor ein paar Tagen mit rechter Liebe . sie soll mir eine Wohnung für Dich vorschlagen und den Preis für Kost erfragen . Vielleicht bietet sie sich selbst an , gegen Bezahlung , aber bitten darf man nicht darum . Ach lebte mein Vater noch , wie ganz anders wäre es da ! Bonn wird sehr gelobt . Walter war vor Kurzem hier - und jetzt ein älterer Sohn der Kammerherrin von Dobeneck - ein herrlicher Mensch ! Er will mit Louis und Carl eine Fußreise nach der Schweiz machen . Der junge Welden ist noch immer der alte unverdorbene und herzliche Mensch - er hofft bald nach Heidelberg zu kommen . Die lieben Weldens sind uns noch immer Dieselben - wenn er nur nicht nach Würzburg versetzt wird ! Schweizers haben wieder eine 9 Jährige schöne Tochter verloren . Otto siedelt sich immer fester in München an , und wird mit Gewalt ein wenig zum Weltleben fortgezogen . Die Lochnershe Tochter " Max " ist jetzt mit ihrem Mann vereinigt auf einer Reise in Frankreich und ihre alte Mutter selig darüber . Emanuel wird nun bald zum 4 ten Male Vater werden , seine Kinder werden herrlich . Emma soll bald nach Konradsreuth . und Du lieber Max sollst auch in Heidelberg Subskribenten zu Falks Vorhaben sammeln in Weimar ein Bethaus für seine Zöglinge zu erbauen was schon im August vor . Jahres angekündigt worden ist . Tue es wenn Du kannst . Ich lebe recht häuslich jetzt , Gesellschaften gibt es wenige , und im Sommer sind auch Besuche nicht häufig . Ich liebe die Ruhe eigentlich über alles und liebe nur deswegen einige gesellige Einflechtungen um jene mehr schätzen zu lernen und sie interessanter zu genießen - denn es ist gewiß , daß Gespräche und Mitteilungen den Stoff liefern den das einsame Leben würdig verarbeitet . Glaube nicht daß unser Familienleben die Betrachtung des Inneren ausschließt - wenigstens begleitet mich bei allen Handlungen , in allen Verhältnissen die Idee meiner eigentlichen und ersten Bestimmung . Ich strebe immer danach die Gradationen der Pflicht nicht aus dem Auge zu verlieren , und hoffe Gnade von Gott für die Schwächen und Fehler der menschlichen Natur . Nur Liebe kann ich nicht entbehren , und wenn Du mein Max einmal Vertrauen finden kannst zu einem edlen Freunde oder einer edlen Freundin wird mancher Schmerz in Dir gestillt sein . Tausendmal umarme ich Dich mit der heißesten Liebe Deine treue Mutter . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

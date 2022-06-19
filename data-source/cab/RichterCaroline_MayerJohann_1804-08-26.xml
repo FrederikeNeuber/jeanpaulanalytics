@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0380">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 26. August
+                    1804, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>JBK</institution>
+                        <collection>Berin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S.</p>
+                        <p> Unterstreichung vfrH mit blauem Stift.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1804-08-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012113">Umzüge</term>
+               <term corresp="#JP-011934">Familie Mayer</term>
+               <term corresp="#JP-012025">Jean Pauls Kinder</term>
+               <term corresp="#JP-011804">Bayreuther Gesellschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein geliebter Vater . Die Ursache meines langen Schweigens auf Ihren letzten Brief , werden Sie Sich leicht aus unserem Abzug von Coburg erklärt haben , der in dieser Zeit bestimmt war . Fast bin ich schon 14 Tage hier - aber eine solche Umwälzung des alten Lebens fordert fast eben so viel Nach- als Vorarbeit , und ich fühle mich noch nicht ganz einheimisch , so lange nur ein gewohntes Meuble fehlt , das einem unentbehrlich geworden ist . Man kann in den ersten Wochen einer solchen neuen Lebensepoche fast nicht zu sich kommen , und unsere hiesigen Freunde zerstreuen noch durch ihre unzählige Aufmerksamkeiten die Zeit , die für ein eigenes Sammeln übrig bliebe . Aber der Gewinn eines wahrhaften Familienlebens den wir errungen haben , ist unendlich , nach der Entbehrung von unwillkürlicher Teilnahme in der ich mit seit drei Jahren finden musste , und ich fühle es recht dankbar , daß ich jetzt in der Mitte der vortrefflichsten Menschen lebe . Man liebt meine Kinder und sie gehören allen an , die grenzenlose Freundschaft für Richter , gibt unseren Freunden ein väterliches Recht auf sie - und das fehlte so sehr meinem Herzen - denn ich konnte mich leichter um mein selbst Willen beruhigen , da ich ja in meinen Mann und Kindern , die glücklichste Frau bin . Nun zu Ihrem Briefe , teurer Vater , worin die Nachricht daß Sie Ihre Reise aufgeschoben haben , mir eine wahre Last vom Herzen nahm , indem sie mir wieder die Hoffnung auf das Höchste gibt , was ich erleben kann . Es hätte mich über alles unglücklich gemacht , wenn Sie jetzt gereist wären , da es für uns nicht möglich war , Ihnen entgegen zu gehen , und wenn gleich Ihre Reise jetzt , zu einer zu für mich kritischen Zeit geschieht , so bleibt mir doch immer noch die Möglichkeit Sie zu sehen , denn wenn ich auch nicht begreife , Wie ? Ich muß rechnen im Octobr niederzukommen - spätestens Anfang Nov. und dürfte ich es wagen so spät in meinem Zustand zu reisen - in diese Gegenden , wo die Wege so ungebahnt sind , bis auf wenige Ausnahmen ? Der Gedanke stößt sich mir oft auf , Sie könnten vielleicht wohl gar bis Baireuth reisen wollen - aber schnell unterdrücke ich ihn wieder weil ich für Sie , die Schwierigkeiten einer so weiten Reise fürchte . Aber Gott , wie himmlisch wäre es , Sie mit Ihrer teuren Frau , in unserem Hause zu haben - aber , solches Glück , wird nicht wirklich werden . - - - - - - Unsere jetzige Wohnung wäre geräumig genug Sie zu logieren - wir wohnen recht schön , und haben für unser Bedürfnis , mehr als Überfluß . Der G. R. Pfeifer wird die Wohnung kennen , sie ist im Hause der Justizrätin Munnich . Ihre alten hiesigen Freunde , Schukmann und Philippi haben wir mit der Karte besucht , und waren schon eingeladen . Beide stehen sich ungefähr wie ein Berliner Minister - es ist auch natürlich , da ihre Einnahme beim wohlfeilen Preise der Lebensmittel um ein Drittel mehr leisten muß , als bei den teuren Preisen in Berlin . Eben kommt ein Besuch , der diesen Brief schneller endet muß , als ich glaubte , und ich schicke ihn deshalb fort , weil Sie sonst länger warten müssten , indem die Poststunde schon geschlagen hat .Vergebung , geliebtester Vater , bald schreibe ich Ihnen länger - Gott erhalte Sie mit Ihrer edlen Frau , die ich innigst grüße , gesund , und mich in Ihrem Andenken . mein Mann grüßt Sie herzlich . Ewig ewig Ihre treuste Tochter Caroline . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

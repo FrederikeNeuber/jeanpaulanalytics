@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0295">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Antonie von Mützschefahl an Emanuel. Meinigen, 14. September 1810, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 3 S. Briefnummerierung vfrH.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-09-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <note>Präsentat: 23<hi rendition="#sup">ten</hi>
+               <hi rendition="#aq">Dec</hi>. beantw. (Antwort nicht überliefert.)</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011811">Reisen</term>
+               <term corresp="#JP-011937">Kunst</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Lieber Emanuel ! Unsere gute Henriette reiste den 13 August , völlig wiederhergestellt mit Amanden von hier ab , blieb gesund während der ganzen Reise und langte den 1ten September wohlbehalten in Küstrin an . Vorgestern als den 12ten erhielten wir die ersten sicheren Nachrichten von ihr selbst , und wir erlebten bis dahin 17 sorgenvolle Tage . Die Unordnung des Postenlaufs vermochte uns nicht zu beruhigen , und Ich schrieb Ihnen , lieber Emanuel nicht , weil ich , Sie lieber , an meiner Bereitwilligkeit Ihren Wünschen zu begegnen , als an Jettchens Wohlbefinden wollte zweifeln lassen . Ein sonderbares Zusammentreffen von Umständen , ließ Schwester Jettchen Amandens Vater in Leipzig verfehlen . ( bis dahin wollte er ihr nämlich nach seinem letzten Schreiben entgegenkommen ) . Henriette wurde genötigt ihm nachzureisen , sie trafen den 1ten September in Küstrin zusammen , wo der Graf , die gute Henriette bei Amanden auf seinem Landgute Schönfeld ( eine Tagereise von Küstrin unfern Landsberg ) einzuführen , er will sie sodann nach Züllichau zu dem Sohne Leopold mit Amanden begleiten . Den 12ten gedachte Jettchen wieder in Leipzig einzutreffen . Gestern in Naumburg wo sie wahrscheinlich bei ihrer Freundin Naubert einige Tage ruhen wird dann geht sie nach Weimar und detachiert , während ihres dortigen Aufenthalts , den treuen Zierlein der uns die ersten mündlichen Nachrichten von der Reise bringt , u die männliche Obhut des Hauses übernimmt wodurch Schwendler frei wird und zur Abholung seiner Frau nach Weimar reiset . Die Schwestern meines Schwagers und ich hüten nach unserer Weise Haus und Kinder . Bis jetzt hat noch kein Unglück unseren Mut erprobt auch keine Krankheit der lieben Anvertrauten unsere besondere Pflege in Anspruch genommen Gott gebe nur ferner seinen Segen damit die Mutter alles finde wie sie es verlassen hat . Von Ihren hiesigen Bekannten ist alles wohl und gesund und erwidert Ihr freundschaftliches Andenken . Auch mich hielt nicht Krankheit ab die Schwester und Nichte zu begleiten , Es ging außerdem nicht wohl an und ich blieb gern zu Hause , da die Reise nicht über Baireuth gehen konnte . Sie tun mir zuviel Ehre an wenn Sie glauben , daß sich während unseres Nichtsehens der Kern meines Wissens sich vermehret , es sollte wohl so sein , aber es ist es nicht und ich werde immer vor Ihnen und jedem guten Menschen als Schüler stehen . Ich weiß unglaublich wenig , und würde das wenige Wissen gern mit etwas mehr Können vertauschen . Sie können recht viel , lieber Emanuel , Sie können Menschen glücklich machen . |3 | Millionen Grüße an Richters ich würde selbst an meine liebe , teure Caroline , geschrieben haben , aber ein klein wenig Kopfweh und ein unerläßlicher Krankenbesuch bei einer in diesem Augenblick ganz verlassenen Nachbarin , hat schon diesen Brief zum Kind der Eile und gewiß recht verworrenen Produkte gemacht , zu einem zweiten habe ich heute weder Mut noch Zeit . Meine Pflegebefohlenen worunter ich Schwendlern und die Kinder rechne empfehle ich Ihrer Liebe Schenken Sie mir immer Ihr freundschaftliches Andenken und bleiben Sie so wohl und heiter als es wünscht Antonie N. S. O , teilen Sie eine große Freude mit mir , lieber Emanuel ! Julie Mihes meine Freundin in Breslau , von der ich Ihnen wohl gewiß in Baireuth sprach , hat mich mit einem herrlichen Gemälde beschenkt , könnte ich es Ihnen könnte ich es unseren Richters zeigen ! es ist ganz vorzüglich gelungen und stellt eine Mater dolorosa vor . Das Gemälde zeigt daß Julie so weit in der Kunst fortgerückt , daß sie ihrem schönen Zweck , Eltern und Schwester ein sorgenfreies Leben durch sich zu bereiten nicht mehr verfehlen kann . Julie schreibt mir wenn ich wollte so würde sie es gern für Jemand mir Befreundetet kopieren . O dürfte ich wollen ! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

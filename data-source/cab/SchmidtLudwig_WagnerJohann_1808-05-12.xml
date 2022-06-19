@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0876">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ludwig Friedrich Schmidt an Johann Ernst Wagner. München, 12. Mai 1808,
+                    Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003812">Ludwig Friedrich Schmidt</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1808-05-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011840">Meininger Freundeskreis</term>
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-013231">Johann Ernst Wagners Kunstschulplan</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Längst , mein verehrter Freund , würde ich Ihnen für den Genuß , den mir Ihre " Reisen " verschafft haben , herzlich gedankt haben , wenn ich nicht durch Geschäfte gehindert , statt daran gekommen wäre , zu genießen und zu antworten . Ich habe Ihren Kunstplan mit Aufmerksamkeit studiert , und ich habe manches auf dem Herzen , was ich Ihnen gerne sagen möchte ; aber : Ihre Protestation gegen alle Zweifel , Einwürfe , Bedenklichkeiten p versiegelt mir den Mund . Ich muß mich also nur auf die Versicherung beschränken , daß ich hier gerne zu Ausführung des Plans mitwirken will , aber das nähere Wie ? von Ihnen erwarte . Meiner Meinung nach wird der Plan durch Ihr Buch nicht allgemein genug verbreitet , und müsste daher einzeln gedruckt , in allen Städten in Menge ausgeteilt , dabei für jede ein Mann genannt werden , der sich erbietet , Beiträge anzunehmen , wobei Sie dem ad locum München mich nennen mögen . Ausser dieser Vorbereitung wird schwerlich ein Kommissär in Tätigkeit kommen . - Sobald Sie mir Erlaubnis geben , mehr darüber zu sagen , sollen Sie mich redseliger über die Sache finden . Die Königin hat Buch und Plan sehr gut aufgenommen und wünscht die Ausführung des letzteren , wie man die Realisierung einer schönen Idee wünscht - ohne daran zu glauben ! Die Bittschrift der Frau von Wechmar habe ich dem König selbst eingehändigt , ich weiß aber noch nicht , ob sie die gewünschte Wirkung hervorgebracht hat . Der König äußerte , daß es schwer sein würde , der Frau von W. zu willfahren , da dies wegen der Konsequenzen bedenklich sei . Und nun beurlaube ich mich von Ihnen , wie ich hoffe , auf kürzere Zeit , und erwarte bald mehr von Ihnen zu hören . Ihrer Gesundheit wünsche ich mit der wiederkehrenden besseren Jahreszeit eine gänzliche Herstellung und bin von ganzer Seele der Ihrige F. Schmidt </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0589">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Meiningen, 27. November 1801, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBa</institution>
+                        <collection/>
+                        <idno type="shelfmark"> OFS.Autogr. R 1(1801.11.27</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, ½ S. von Jean Paul, 3½ S. von Caroline Richter.</p>
+                        <handDesc>
+                           <handNote xml:id="JP-999999">
+                              <persName>Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+                           </handNote>
+                           <handNote xml:id="JP-003469">
+                              <persName>Caroline Richter</persName>
+                           </handNote>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Denkwürdigkeiten 1, S. 101-102
+                                (unvollständig).
+                        </bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                     <ref type="letter" subtype="document" target="3-IV_216">3. Abt., Bd. IV, Nr. 216</ref> (nur
+                            von Jean Paul).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1801-11-27" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <note>Präsentat: über Jean Pauls Brief: 30<hi rendition="#sup">
+                  <hi rendition="#uu">t</hi>
+               </hi>
+               <hi rendition="#aq">Dec:</hi> beantw.; über Caroline Richters Brief mit anderer
+                    Tinte: 10 <hi rendition="#aq">Dec:</hi> beantw.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012048">Briefverkehr</term>
+               <term corresp="#JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein Alter und Blühender ! Das Übrige soll meine Frau sagen . - Meinem Bruder geben Sie die Prinzensteuer oder Apanage fort , Vom dummen And. ist_es aber sündlich , aus Privatrache einem armen Teufel seinen Lohn u seine Rettung zu nehmen . er müsste denn des Teufels lebendig sein . - Meinem O. geben Sie den Brief erst am Geburtstage früh mit d Buch ; u. sich selber einen - Kus von mir , wenn nicht das unter allen Dingen das einzige wäre , was ein Mensch nicht sich selber geben kann . Hierzu ist immer ein repräsent . System u. Parliamentsglied nötig , z. B. die Fortschreiberin dieses , welche so anfängt : R. Daß sie ja auch noch eine karge d' afaires ernennen muß , wenn nicht Emanuel bald in die zweifache Umarmung fliegt , wo ich Sie dann an meinen Gemahl zurückweisen werde . Ich freue mich auf Ihren Brief , den Sie mir versprochen indem ich noch in der Freude über den vorigen bin , den ich schon habe - ich weiß nun alles aus Leipzig - aber mein Blättchen aus Kassel ist nicht mehr . ich könnte sagen " es Ruhe sanft Deine Asche " , denn ich glaube ich habe es verbrannt , sonst wäre es Ihr . Wenn die Ähnlichkeit zwischen meiner Tine und mir , Ihnen wie eine eigene Gestalt zugesprochen hat - macht sie mich glücklicher als je - da gewinne ich wieder von dem was sie ihr gegeben - . ach wäre sie damals gegenwärtig gewesen als wir bei Ihnen glücklich waren , als wir in dem kleinen Wägenchen fuhren , als Emanuel so froh die Kinder und Arbeitsleute grüßte wie wäre er selbst ein Kind , Ode pflückte sie ja auch in der Blüte der schönsten Erinnerung . Ich soll Sie nicht für zu gut halten Emanuel ? Lehren Sie mich wie ich es mache an Ihrem Bilde in mir etwas zu rücken , abzuschneiden , es nur zu bewegen ? Und ist es denn zu gut , wer will da Richter sein ? Wollen Sie es ? Sie können es nicht , und daß Sie es nicht können , macht auch nur noch unfähiger dazu . Lassen Sie es mir - und wenn es Ihnen wehe täte , mir tut es wohl , und wer leidet lieber als Sie , für anderer Glück ? Sie kommen , diesen Winter noch , das wiederhole ich mir am liebsten aus Ihrem Briefe - welche Tage werden es sein , die Sie bei uns verleben - für uns . Nun ganz so rein und ohne Störung , wenn Sie die , die heute mit Ihnen glücklich sind auch zu uns führen . Sie haben hier noch einen Verehrer , der Sie durch Ihre Paullina , und durch Ihre vortreffliche Voigt kennt - er heißt Schwendtler . Wenn Sie der V. schreiben , oder sie sprechen sagen Sie ihr , das ich oft zu ihr hinaufschaue , und ihren kräftigen Handdruck noch fühle , und ihr ähnlich sein möchte . Aber sie soll mich mit irdischen Namen nennen , die ich verdiene , um mich nicht zu beschämen , sie aber könnte man nur mit himmlischen Namen nennen . Ich erwarte sehnsüchtig was Sie mir über die letzten Worte unseres letzten seligen Abends in B. noch weiter sagen werden . Missverstanden , denke ich , habe ich Sie nicht lieber Emanuel , und ich bilde mir ein meine darüber geschriebenen Worte waren nur undeutlich . Doch so etwas verwirrt sich durch Schreiben immer mehr , und wir lassen das für ein Gespräch liegen . Vor einigen Wochen ordneten wir R. Briefe Emanuel hat viele dabei , die ich alle gelesen habe - guter guter Emanuel rief ich in mir - Engel - und Reiner ! Diesen Genus werde ich mir oft geben , und mir aus den Erinnerungen meines Mannes eine glückliche Gegenwart bilden . Dieser Herrliche ist gesund - ich begreife oft nicht , wie er sich bei der Einförmigkeit unseres Lebens froh erhalten kann . Ich liebe ihn steigender - wie , und wo kann Liebe vergehen Wenn Sie oft das unschuldige heitere Lächeln sähen mit dem er mich in meiner Stube aufsucht , und herzlich küßt , Sie müssten rufen " Himmelskind ! " und wenn er mir nicht täte , und wenn er nur so für sich ohne Gegenstand - oder einem Fremden - so seine Kindlichkeit enthüllte ich müsste ihn eben so - nur schmerzlicher lieben Wir feiern auch Ottos Geburtstag mit , auf zwei leeren Stühlen sehen Sie uns in Ihrer Mitte - Sein Sie rein selig - Grüßen Sie Ihren edlen Bruder recht warm . Kommen Sie bald und schreiben Sie bald . Ihrer Caroline . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

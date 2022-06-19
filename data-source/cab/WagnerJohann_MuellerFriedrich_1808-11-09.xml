@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0892">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 9. November 1808,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/618, Bl 17-18</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>
+                           <hi rend="italic">1 Bl. 8°, 1 S.</hi> S. 2
+                                    Adr. </p>
+                        <p>Herrn | Geh. Regierungsrath <hi rendition="#u">von <hi rendition="#aq">Müller</hi>
+                           </hi> | <hi rendition="#aq">Hochwolgeb.</hi> | in | <hi rendition="#aq">
+                              <hi rendition="#u">Weimar</hi>
+                           </hi>. Postfrey. Stempel: <hi rendition="#aq">R.3.MEININGEN</hi>.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-11-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-013231">Johann Ernst Wagners Kunstschulplan</term>
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein Guter , Liebenswürdiger ! Sie sollen heute nur wenige Zeilen von mir lesen dürfen - ja auch nicht zu beantworten brauchen , wenn , wie mein Herz hofft , dies nicht nötig ist . Meine Frau sagte mir gestern , als ich mich in Erinnerungen über Sie und die köstliche Minna freute , dieses liebe Weib sei , wie sie gehört , ( von Schwendlers glaube ich ) in Liebenstein nicht ganz geheilt worden . Meine Frau ist übrigens das , was man eine gute Seele nennt , in recht hohem Grade , und wünschte damals sehr , daß sie länger in Ms gutes Antlitz hätte sehen dürfen . Sie sagte mir , was ich nicht gewusst , M. leide am Solitäre - ich will das plagende Ungeheuer mit seinem schönsten , und wirklich prächtigen , nämlich dem französischen Namen nennen - und vermutete , daß die dortigen Ärzte wohl das ganz untrügliche und als solches in der ganzen Schweiz anerkannte " Schwachheimische Mittel " wohl nicht kennen müssten . Ich erschrak , daß ich das alles nicht gewußt hatte , und eile Ihnen zu berichten , daß - wenn dies der Fall ist - ich Sie himmelhoch bitte , es mir sogleich zu melden . Ich kann und will , da meine Frau mit den Tissot- und Schwachheimischen Erben verwandt ist , und einer der letzteren noch leben soll , der das Rezept besitzt , sogleich schreiben und es Ihr verschaffen . Es soll nie gefehlt haben , auch in den verwickeltsten Fällen und bei den größten Verspätungen . Sie guter Mann mögen neulich wieder einmal gehetzt worden sein , in der überladenen Festzeit ! Dem sei wie ihm wolle - Ihre Lage ist doch auch in einiger Rücksicht beneidenswert ! Mein Kunstplan dehnt und richtet sich entsetzlich langsam aus dem Wiegelein auf - Wenn er nur erwacht wenn ich eingeschlafen bin - oder wenn er nur gute Gedanken in freundliche Seelen säet , so will ich mich gern beruhigen . Es geht ja Pestalozzi'n noch nicht viel besser , und Fichten viel schlimmer - und ich bin nicht wert , beider Schuhriemen zu lösen ! - Apropos ! Fichtes Reden hätte ' ich gern wieder , wenn Sie nämlich sie nicht mehr brauchen . Ich empfehle Ihrer Gnade No 262. des Morgenblattes . Ich weiß nicht , ob Sie so selig sind , meinen dort gefeierten Truchseß zu kennen . Ach , ich habe in vieler Rücksicht viel zu wenig über ihn gesagt - und doch wird er Zorn schnauben und stampfen . Ich bin recht fleißig - nun , ich bin nur begierig , was Sie zu meiner ersten und wahrscheinlich letzten dramatischen Arbeit sagen werden ! Das ist ein schweres Fach ! Und ach , ich Armer muß so ganz ohne Freund in der Nähe , ohne Lehrer und Helfer mit der entsetzlichsten Anstrengung - vielleicht vergebens - arbeiten ! Ach Gott , warum ist doch der unermeßliche Goethe , der einzigwahre Helfer , für jeden so unzugänglich ! Schreiben Sie mir ja mit umgehender Post , damit ich über M. , der ich die Hände tausendmal küsse , ruhig werde , und küssen Sie Ihren liebenswürdigen Bruder ! EwigIhrtreuester und dankbarer JEWagner Wenn Sie etwa die gute Frau von Wollzogen sehen , der ich heute in einer Sache , die mein Herz lebhaft zu interessieren anfängt , geschrieben habe , so wünschte ich , Sie empföhlen mich gütigst und bäten für mich um holde Nachsicht , falls etwa mein Brief , den ich mich jetzt nicht wieder zu entsiegeln und zu durchlesen entschließen kann , allzuflüchtig geschrieben sein sollte . - Was gäbe ich darum , Sie , guter Engel , jetzt einmal zu sehen und Ihnen MSCte vorlesen zu dürfen ! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

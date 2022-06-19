@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0529">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emma Richter, Bayreuth, nach dem 21. März und vor dem 2. April 1820
+                </title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBM Monacensia</institution>
+                        <collection/>
+                        <idno type="shelfmark">Richter, Karoline A I/9</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1820-03-21" notAfter="1820-04-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Nach Jean Pauls Geburtstag und vor dem Ostersonntag
+                    1820.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012033">Textilien</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-013230">Angst und Sorge</term>
+               <term corresp="#JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Deine Briefe und das Kleid , der Frau von Reizenstein habe ich bekommen , liebe Emma und Letzteres sogleich besorgt . Kurz vor Ostern soll es vom Färber kommen , dann muß es gepreßt werden , welches ich so gut als möglich werde beim Tuchscherer besorgen lassen , möchte die verehrte Frau , mir nur recht viel zu tun geben ! Der Vater will so gut sein , Deinen Aufenthalt nicht zu ängstlich zu beschränken - wir sprachen eines Abends weitläufig darüber , und die Versichrungen des Ernst von Reizenstein , daß Du Deinen lieben Wirten nicht unangenehm wärest , bestimmten den Vater zu längerer Nachsicht . Ich bin begierig ob Du Dich um eine Gelegenheit bemüht hast ; in dem Fall ist Dein Kommen erfreulich , und recht . Im Entgegengesetzten , kannst Du noch bis zur Rückreise des Baron Fritz von Reizenstein bleiben , dem ich Vollmacht gegeben habe , wenn er von Hof zurückfährt Dich heimzubringen . Nicht umsonst - Im strengsten Vertrauen gesagt denke ich , daß Du für 1 Kronentaler herkommen kannst . Verabrede nun das Weitere und halte Dich fertig wenn Du hörst daß er kommen wird . Vergiß keine Deiner Sachen . Endlich heute haben wir vom teuren Max Briefe . Jetzt kann ich es Dir sagen , daß ich 8 Tage tödlicher Angst zubrachte . Weldens Schicksal - die Nähe der 2 Festtage , Vaters und der herrlichen Frau - befeuerten meine Fantasie auf die schmerzlichste Weise . Der Todesfall der Julie Vittinghof - die herrschenden Krankheiten in München , Alles , alles umspann mich mit fürchterlichen Bildern . Nun , Gott sei Dank , sind wir beruhigt , aber Max war wirklich etwas krank . Th iersch ließ einen Arzt holen . - Den Brief an Marie Schubert sende ich Dir zurück , den Du in mein Couvert getan hattest , und wünsche nur , daß Du den an mich in Maries Couvert eben so harmlos zurück kommen kannst . Welch ein Leichtsinn ! Mündlich darüber ein Mehreres . Wie freue ich mich , daß ich durch Dich Gelegenheit habe , öfter den beiden herrlichen Frauen Grüße der Verehrung von Vater und mir , sagen zu können . Deine treue Mutter . Am Dienstag war bei mir grand Cercle . und alles sehr befriedigt . Das Erstemal seit ich hier bin . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

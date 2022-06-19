@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0560">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 14. August
+                    1818, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. Federproben auf S. 1.</p>
+                        <accMat>Briefe von Minna Uthe-Spazier und Uthe an Mayer zur
+                                    Kenntnisnahme mit der Bitte um Rücksendung. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1818-08-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0413">Von Caroline Richter an Johann
+                        Siegfried Wilhelm Mayer. Bayreuth, 24. September 1818, Donnerstag</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-011811">Reisen</term>
+               <term corresp="#JP-012626">Minna Spaziers Kinder</term>
+               <term corresp="#JP-012265">Geschlechterrollen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine geliebte Caroline ! Deinen letzten Brief vom 25. Juli habe ich nebst der beigefügten Geburt Tags Geschenke richtig erhalten , und benutze den ersten freien Augenblick , um ihn zu beantworten . Zuerst also innigsten Dank für die Wärme Deines Andenkens an mich ; u für den Fleiß , dem Du u Deine liebe Töchter angewandt haben , um mir Vergnügen zu machen . ich werde Dir einige Stücke anzeigen , die ich zu meinem unmittelbaren Gebrauch von Euren lieben Händen zu erhalten wünsche . Die schöne Porte feuille wünschte ich in der Tat zu Deinem Vorteil bei irgend einer Ausstellung anbringen zu können , u Du wirst mir dies erlauben . Nun meine Bade Geschichte . Sie hat den ganzen Junis u Julius gedauert . Bis 1. Juli nämlich in Neustadt , u bis 1. August in Freienwalde . Am ersten Orte sind zwar die Quellen sehr heilsam , allein alles beginnt erst zum Gebrauch aptiert zu werden , u da ich Ende Junis ohnehin mein Quartier einem anderen , der es von da an gemietet hatte , ablaßen mußte ; so wählte ich Freienwalde , wo ich schon vor 30. Jahren von der Gicht geheilt worden war . Hier in Fr. fand ich nun zwar kein für meine Frau u mich brauchbares Quartier , und wir faßten also den Beschluß , daß meine Frau , mit dem in Neustadt bei uns gehabten Mädchen nach Berlin zurückgehen , u ich dagegen mit meinem Bedienten in Fr. bleiben würde . Dies ist dann auch ausgeführt ; und ich habe die Bequemlichkeit einer Wohnung auf dem Brunnen in Fr . , aus Stube , u Kammer für den Bedienten , bestehend , gefunden , wodurch ich dem Bade beständig nahe war . Der Erfolg des Bades ist auch im ganzen sehr günstig gewesen , u nur das Berliner Steinpflaster erinnert noch an meinen früheren Zustand , und macht mich noch immer vom Fuhrwerk , u zum Teil von der Führung durch den Bedienten abhangig . Doch habe ich in Fr. die höchsten Berge bestiegen ; auch für Neustadt u Fr. ein Andenken zurückgelaßen . ich habe nämlich meine Krücke auf dem sogenannten Kapellen Berge , wohin ich sie selbst , 1200 meiner Schritte u 900. meines Bedienten hoch , getragen habe , mit einer Votiv Tafel niedergelegt . ich heftete nämlich eine Carte daran , worauf unter meines Namens Unterschrift u Siegel die Worte standen . In Neustadt begann meine Herstellung . Freyenw . vollendete sie , so weit dies bei einem Alter von mehr als 71. Jahren möglich war . Der Vollendung Weihe ich meine Krücke . % Dieser Akt wurde bloß in meiner u meines Bedienten Gegenwart , durch das Spiel zweier Wald Hörner , die von der Spitze des Berges : Herr Gott dich loben wir , p u beim Heruntersteigen . God save De King ertönen ließen , gefeiert , u hat , wie ich höre , nach meiner Abreise , Wall Fahrten zur Kapelle veranlaßet , woselbst meine Krücke durch Sorgfalt der Bade Direktion aufgehängt ist . Hier in Berlin , wo ich am 1. August Abends wieder eintraf , habe ich mich der Humanität meines Präsidenten Herrn v. Grollmann , u der Teilnahme des größten Teils meiner Kollegen zu erfreuen , wovon der erste mich als jetzt den ältesten Rat im Collegio sehr soulagiert . Auch setze ich hier noch die Bäder , das ist bloße Reinigung u indirekte Stärkung Bäder fort , da wir jetzt zwei vortreffliche Anstalten hierzu hier haben . So viel nun von meinem Befinden . Das Zusammen treffen Deines lieben Mannes u Herrn Hufelands in Heidelberg hat mir nun letzterer auch mit Jubel mitgeteilt . - Die Frau des ersteren ist übrigens die jüngste Tochter des verstorbenen Predigers Troschel an der Petri Kirche , die Du allerdings gekannt hast . Noch schicke ich Dir die letzten mir zurückzusendenden Briefe von Minna u ihrem Mann , teils zur Nachricht , teils um Deinen Rat über Minonas anscheinende Bestimmung zur Portrait Mah- lein zu erfahren . ich habe zwar gewissermaßen Anlaß dazu gegeben , weil ich ihr Beihilfe an Unterrichts Kosten im Zeichnen versprach . Aber diese Wendung der Sache gefällt mir nicht , wäre es auch nur um der Sorge für die Gesundheit dieses kräftigen Mädchens Willen . Wir erinnern uns alle der ältesten Hainchelin , die über den Hang zur Malerei Ihre Gesundheit eingebüßt hat ; der anderen nachteiligen Folgen des Bestrebens nach Virtuosität nicht zu gedenken . Meines Bedünkens muß Minona ihrem Beruf zu einer guten Frau u Mutter getreu bleiben , u ich werde zu einer 10. jährigen Entfernung hiervon , um der Ehre Willen , dereinst vielleicht die Minona in einem Künstler Lexikon genannt zu wissen , nichts beitragen . Melde mir Deine Meinung hierüber . Mit dem Richard geht es mir noch schlimmer . Nachdem er bereits bei Herrn Darnemann in Züllichau die Übung zum Buch Handel angefangen hat , fällt es ihm ein , wieder aufs Paedagogium in Züllichau zu gehen , um dort zur Akademie sich auszubilden . Er wird aber bei mir hierzu keine Unterstützung finden . Julius allein macht mir durch das Festhalten an seinem Beruf - Freude u er wird uns allen Ehre machen . Meine Frau befindet sich nach dem Bade sehr wohl , u grüßt Dich , soviel Freude machen wird . Lebe wohl , grüße u küße Deinen Mann u Kinder . Die Tante Mertzdorff ist wegen ihrer religiösen Resignation in der Tat ehrwürdig . Dein treuer Vater Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

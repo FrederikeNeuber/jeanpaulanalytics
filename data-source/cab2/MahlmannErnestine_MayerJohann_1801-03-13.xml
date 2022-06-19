@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0503">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mayer an Johann Siegfried Wilhelm Mayer. Leipzig, 13. März
+                    1801, Freitag </title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl. 8°, 8 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Geringer Textverlust am Seitenrand.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1801-03-13" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012183">Festlichkeiten</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>ich kann Ihnen nicht sagen , liebster Vater , welchen unangenehmen Eindruck es auf mich gemacht , daß Ihr letzter Brief mir so wenig Hoffnung zur baldigen Rückkehr nach Berlin gibt . - Sie trauen mir gewiß zu daß ich keine unbescheidene Foderungen an Sie machen will , und daß ich mir wohl denken kann wie in jeder Rücksicht es eine lästige Aufgabe für Sie ist - alles so zu vereinigen wie es nun einmal sein muß . - Es scheint Ihnen vielleicht seltsam wie ich so dringend wünsche bald von hier weggehen zu können ; und doch sind der Gründe so viel und auch so verwickelte daß es mir fast schwer wird Sie Ihnen schriftlich mitzuteilen . Ich fühle daß ich sehr gefehlt habe , indem ich eigentlich aus kindlicher Schüchternheit bis jetzt nie habe den Punkt berühren wollen daß Mahlmann schon so sehr bald mit mir ganz vereinigt zu sein wünscht . Ihnen selbst diesen Wunsch vorzutragen war wohl ganz seine Angelegenheit - doch da - nicht sein Wille - sondern eine Reihe unangenehm zusammentreffender Umstände es diesen Augenblick immer verhindert haben daß er selbst nach Berlin reisen konnte und er so durch Ihre bestimmteste Einwilligung doch nur allein sich das Recht erwarb , Ihnen den liebstem Wunsch seines Herzen zu eröffnen - so hoffte ich daß Sie ihm diese scheinbare Nachlässigkeit verzeihen werden . - Wäre alles seinen ruhigen Gang gegangen , wären nicht so viel unendlich viel unangenehme Störungen vorgefallen - so müßte jetzt alles ganz anders sein ! - Ich kann mir denken , liebster Vater , daß Sie so wohl auf mich wie auf Mahlmann deshalb zürnen ; daß es wirklich seit einiger Zeit so scheint als wäre alles in Stockung geraten . Wie sehr habe ich mich schon geängstigt , wie alles noch werden soll ! Mahlmann hätte wenigstens an Sie schreiben sollen werden Sie denken ! Doch was konnte er Ihnen eigentlich sagen ? - Nichts als Entschuldigungen die Sie schon so oft durch mich gehört hatten . Denn wie ich schon eben gesagt habe ; - dürfte er denn wohl darum bitten daß Sie ihm erlaubten mich bald ganz sein nennen zu können - da Sie ihn noch selbst nicht einmal kannten , und der Form nach unser Verhältnis zu einander doch noch gar nicht fest bestimmt war ? Sie wissen daß Mahlmanns äußre Lage so ist daß er jeden Tag im Stande ist ein Haus zu machen . Nichts war von Anfang an sein Wunsch , als daß alles so schnell als möglich zu Stande kommen möchte - denn was er einmal will und ergreift das ergreift er mit ganzer Seele und hält es ebenso fest . So war sein Plan daß ich schon Ostern seine Frau würde , und sein Wunsch mit der Mutter und mir gemeinschaftlich nach Berlin reisen zu können Die letzte unglückliche Katastrophe störte diesen Plan , an welchem er mit ganzer Seele hing . Seine Wohnung war eingerichtet , alles im Stande . Die ganze Stadt ist davon voll . Jeden Augenblick kommt hier ein neugieriger Freund , dort ein boshafter Lauscher , der ihn mit Fragen bestürmt . Man spricht von nichts anderem . Sie stecken die Köpfe zusammen und raunen sich einander zu ; Ach , man weiß ja wie das so geht , - aus der Heirat wird nun auch nichts ! Alle Augenblick fragt man mich ! Aber mein Gott ! wie kommt es denn daß Sie noch nicht reisen ? So fühle ich mich von allen Seiten gedrückt und gequält . Mahlmann ist hier in der Stadt der bedeutest von allen . In jeder Familie geliebt und gern gesehen und überall gehört er wie zu Hause . Wie könnte man ihn vergeben daß er eine Fremde heiratet ! Wie könnte man diese Fremde lieben ? Die in allem was in ihren Augen den Menschen erhebt so weit unter ihnen steht . Die es ihnen nicht gleich tun kann im Putz in der ungeheuersten Verschwendung die es unerhört finden daß man ein Mädchen heiraten kann das kein Geld hat ! Finden Sie mich kleinlich , liebster Vater ? Ach vergeben Sie mir und setzen sich einen Augenblick an meine Stelle ! Wenn man überall sein besseres Selbst sorgfältig verschleiern muß und nun nichts , gar nichts mehr übrig hat , um solchen Menschen zu imponieren ( denn das muß man hier ) so spielt man eine höchst erbärmliche Rolle . So findet man sich tausendmal in Verlegenheiten die doppelt drückende sind weil man sieht und fühlt auf welchen Kleinheiten sie beruhen - aber das ist hier der Ton das Kleinste zum Wichtigsten zu erheben ! Es tut mir ordentlich wohl , Ihnen mein Herz einmal ausschütten zu können . Sehen Sie liebster Vater , der Frühling ist nun wieder da . Neue schöne Gestalten wandeln auf den Spaziergängen Ein warmer Sonnenblick weckt die Menschen aus ihrem Winterschlaf und die Eitelkeit mit aller ihrer Üppigkeit . Ich schäme mich , das sage ich ehrlich , an Mahlmanns Seite aus dem Hause zu gehen . In unserem einfachen Berlin , und bei unserer einfachen Erziehung , erstaunt man über die Bedürfnisse die hier die pünktlichste Ordnung nicht einmal die Eleganz hervorbringt . Alles ist hier teurer als in Berlin . - Die Einrichtung in der ganzen Stadt und in allen Häusern ist so , daß niemand in seinem Hause waschen darf - wer es tut kommt in den Ruf er habe keine Wäsche die er produzieren dürfe - folglich kostet mich - die ich doch Spaziers nicht damit zur Last fallen kann , ein jeder Strumpf jedes Hemde , jedes Kleid was ich trage - Geld zu waschen ! - Daher wird es Ihnen nun vielleicht begreiflich werden warum es mir mit jedem Tage - schwerer und lästiger wird zu substistieren . - Vergeben Sie mir , daß ich Ihre Geduld so ermüde und Ihnen mit so erbärmlichen Details zur Last falle . Aber ich muß es tun , damit Sie einsehen daß nicht Laune mich bisher geleitet hat , sondern ein auf vernünftige Gründe beruhendes Verlangen nach Erlösung . So werden Sie es vielleicht sich denken können wie ich mit wahrer Sehnsucht auf Ihren Brief geharrt hatte und wie traurig es mich machte mich in meiner Hoffnung wieder getäuscht zu sehen . Wenn sich denn nun , wie ich es schon längst aufgegeben habe gar keine Gelegenheit findet so halte ich fürs beste daß Mahlmann jetzt vor allen Dingen allein nach Berlin reist und sich erst mit Ihnen arrangiert . Denn vor der Ostermesse finde ich gewiß keine Gelegenheit von hier aus und so könnte ich diese vielleicht noch zu meiner Einrichtung benutzen . - Was wird denn aus Karolinens Heirat ? Hier spricht auch schon die ganze Welt daß nichts draus werden würde . - Wie kann man denn so in den Tag hinein leben ohne vernünftigen Plan ? Wie herrlich hätte die Zeit die recht sündlich hat vertrödelt werden müssen , zu unserer beider Einrichtung benutzt werden können . Ich habe mich immer , wie ich jetzt wohl einsehe recht kindisch gefürchtet diesen Punkt zu berühren , bloß aus übertriebener Delikatesse und weil es mein Herz nicht zuließ , ihrem Herzen , wie ich mir einbildete , durch die Äußrung meines Plans der eine so schnelle Trennung bewirkte , weh zu tun . Doch jetzt sehe ich ein daß man weiter damit kommt , wenn man nur immer der kalten Vernunft folgt Sein Sie nicht böse , liebster Vater , wenn mein Ton nur einen Augenblick aufhört der kindlichste zu sein . Ich fühle mich gerade in diesen Tagen mannigfaltig gekränkt und verstimmt , ja es tut meinem Herzen weh daß es Ihnen selbst so gleichgültig zu sein scheint , wie bald Sie Ihre so lang entfette Tochter wiedersehen , oder nicht , daß ich wirklich nicht weiß , wie ich eigentlich handeln soll . Ich kann mich nur damit trösten , daß Sie es vielleicht nicht geahndet haben , daß Malm ann nichts mehr wünscht als Beschleunigung und nichts ihm mehr zuwider ist als eine lange Schlepperei . - Und so bin ich freilich , wenn gleich nicht aus bösem Herzen , selbst daran Schuld - und bereue es unendlich daß ich nicht längst so offen mit Ihnen gesprochen habe . Meine heutige Offenheit bedarf sehr Ihrer Verzeihung . Darf ich denn auf diese rechnen , und wollen Sie nicht auf mich übergehen lassen was äußre Umstände und Verhältnisse unangenehm auf Sie wirken ? - In diesem Augenblick erhalte ich Nachricht von einer Gelegenheit . Die Frau des Berg- Assessor Hein in Berlin Tochter des Buchhändler Breitkopf reißt von Berlin hierher mit einem Lohnkutscher . Sie wohnt in der Jägerstrasse bei Rellstab . Wollten Sie die Güte haben und durch mündliche Verabredung es so einrichten daß ich mit dem Wagen zurückführe ? Der Himmel scheint ja doch noch für mich zu sorgen ! Leben Sie wohl liebster Vater , ich freue mich den Brief mit einer angenehmen Aussicht beschließen zu können und bin ewig Ihre treue Tochter Ernestine . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0677">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 28.
+                    Februar 1803, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2¾ S. Auf S. 1 Datierung vfrH: 1803.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1803-02-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012194">Geschenke</term>
+               <term corresp="#JP-012162">Postwege</term>
+               <term corresp="#JP-012048">Briefverkehr</term>
+               <term corresp="#JP-012638">Familiäre Beziehungen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein teuerster Vater Ich kann es nun nicht länger aufschieben Sie um den Grund Ihres mir unbegreiflichen Stillschweigens gegen mich zu fragen , welches mich nun schon seit sechs Wochen beunruhigt , und welches ich früher gebrochen hätte , wenn nicht die Hoffnung auf jeden nächsten Posttag mich hingehalten hätte . Nun scheint es aber als wollten Sie absichtlich schweigen , denn wie auch Ihre Verhältnisse sein mögen , so kenne ich Ihr Herz zu gut , als daß ich an Ihre Vergeßenheit meiner - glauben kann . Wären Sie krank , so würden Sie es mir durch eine dritte Person gesagt haben , alle äußeren Vorfälle konnten Sie nicht hindern an mich zu denken . Es muß also ein innerer Grund vorhanden sein , und so wenig ich es zu verdienen glaube , zürnen Sie mit mir . Einen Irrtum der für mich so unendlich kränkend ist , daß er mich , nicht der Liebe meines Vaters , aber wohl ihrer Zeichen beraubt muß ich auflösen , und Sie müssen ihn mir nennen , damit ich mich rechtfertigen kann . Ich hatte während die Anzeige Ihrer in einigen Tagen zu vollziehenden Verbindung an mich unterwegs war , einen langen Brief durch Matzdorf an Sie abgesendet . Ich beantwortete daher nicht auf der Stelle diese , sondern nach acht oder 14 Tagen darauf erhielt ich durch Ernestines Hand Ihr überraschendes Weihnachtsgeschenk ohne Worte von Ihnen , die mir noch teurer gewesen wären , und dankte Ihnen auf der Stelle , legte den Brief an Ernestine oder Minna ein die ihn sogleich absenden sollte : Ob Sie nun diesen nicht erhalten haben , und mich der Undankbarkeit beschuldigen muß ich fast annehmen , weil ich mich nur dieser scheinbaren Schuld gegen Sie bewußt bin . Es macht mich sehr unglücklich , daß auch Sie vielleicht mein ewig geliebter Vater , in Rücksicht meiner , unangenehme Empfindung gehabt haben - so glücklich Sie sein mögen - Ihre Kinder behaupten gewiß ewig den Platz in Ihrem Herzen , den Sorge u Liebe u Aufopferungen so vieler Jahre ihnen eingeräumt haben . Dies ist nicht bloßer Glaube , sondern Überzeugung , die jedes Mißverständnis daher doppelt empfindlich macht . Nun sage ich weiter nichts , bis ich wieder von Ihnen höre . Gott wird Sie durch Ihre Frau mit Glück gesegnet haben . Grüßen Sie Sie innig von mir - u glauben Sie daß ein eigenes Kind die Gefühle für Eltern schärft . Mein Kind macht mir unendliche Freude , seine Natur ist eine der kräftigsten , u es ist , ohne mütterliche Eitelkeit , gesagt eins der liebenswürdigsten Wesen , in drei Wochen wird sie ein halbes Jahr . Ich empfehle es Ihrer Liebe , u uns beide Ihrem Segen . Ihre treuste Tochter Caroline . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

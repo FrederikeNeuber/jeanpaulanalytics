@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0235">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, zwischen 20. und 28. Juli
+                    1822</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. (S. 1, 2 und 4 beschrieben). Auf S. 2 unter dem
+                                    Text auf dem Kopf stehend Adresse: An Frau | Frau
+                                    Legationsräthin Richter, S. 3 <ref type="letter" target="JP-UB0150">Billet von Luise Herder an Caroline
+                                        Richter aus dem Juli 1822</ref>.</p>
+                        <p> Das Blatt wurde neu gefaltet.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1822-07-20" notAfter="1822-07-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0532">Von Odilie Richter an Caroline Richter.
+                        Würzburg, 29. Juli 1822, Montag</ref>
+            </correspContext>
+            <note>Zur Datierung: Der Aufsatz ("Berichtigung eines chronologischen Irrtums") war
+                    am 28. Juli 1822 fertig, <ref type="letter" subtype="text" target="3-VIII_320" corresp="#194-2">vgl. Jean Pauls Brief an Karl und Luise Förster vom 28.
+                        Juli 1822</ref>. Der Brief stammt also aus der Zeit wischen dem 20. und 28.
+                    Juli 1822. Er befindet sich auf dem <ref type="letter" target="JP-UB0150">Billet von Luise Herder an Caroline Richter vom Juli 1822</ref>, das zu
+                    diesem Zweck neu gefaltet wurde.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011832">Gesellschaftliches Leben</term><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>In Ermangelung anderen Papiers , nehme ich ein Billet von der Herder wobei Du zugleich ihre Handschrift sehen kannst . Gestern kam Dein lieber Brief der mich wegen der guten Nachrichten die Du uns mitteilst unbeschreiblich froh machte . Es war gut daß Du vor Weldens Abreise noch einmal an mich schriebst , weil die gute Welden mich mitnehmen wollte . Allein nur im Fall schmerzlicher Sehnsucht oder Krankseins , würde ich alle die Rücksichten bei Seite gesetzt haben , von denen ich Dir schrieb , um in jetziger Zeit die Reise zu Dir zu machen . Da Du nun vollkommen wohl bist , so werde ich anstatt meiner nur einen Kirschkuchen , Flicklappen , dein Monatsgeld und das Geschenk an Auguste mit Weldens zu Dir befördern . Sie reisen am Mittwoch ab , können also Donnerstag Abends in W. sein und Fanny eilt gewiß gleich zu Dir , um mit Dir herzlich froh zu sein . Sie bleiben wohl 3 Tage , und es wird Dich dieses Wiedersehen sehr glücklich machen . Wäre ich mitgekommen es wäre fast zu viel auf einmal gewesen besser ist es , wir teilen es ein . Wie gern ich Dich sehen möchte , Du liebes Kind , kann ich Dir nicht sagen . Ich stelle mir Dich weit stärker und größer vor als sonst und von Allen als ein Vorbild in Güte und Verstand , geliebt . Es ist schön daß Ihr Euch Alles so mitteilt . Wie freut es mich daß meine Zuversicht zu dem glücklichen Verhältnis im dortigen Hause , sich bewährt hat , und Du Dich fortwährend heimisch fühlst , was ich gleich empfunden habe . Dies ruhige friedliche Dasein ohne Vorwürfe , und ohne Sorgen , ist etwas unschätzbares . Daß Deine Hüfte schon eingezogen ist , begreife ich nicht . Übertreibe nur nicht die erfreulichen Berichte , sonst möchte der Vater Dich nicht lange genug dort lassen . Der Vater ist wohl , und arbeitet jetzt an einen kleinen Aufsatz in der Abendzeitung worin er den Dresdnern dankt . Jetzt ist die älteste Bomhard wieder hier , welche bei der Herzogin von Sagan war . Am Montag waren wir alle bei Ranzows zu einem großen Tee , obgleich wir uns keine Besuche gemacht haben . Ilsette Barner daß beim ersten Herumfahren mit Karren , sie uns persönlich haben besuchen wollen , welches uns nicht ausgerichtet war und sie nun auf unseren Besuch gewartet hatten , und nicht begreifen können , warum wir nicht kamen . Dem sei nun wie ihm wolle so freute mich die Einladung so guter Menschen sehr . Emma war recht glücklich , ich hatte ihr dazu eine breite blaue Ekossaise Schärpe gekauft . Am Sonntag werde ich hingehen ich habe die Gr. Ranzow sehr lieb . Emanuels , Otto's grüßen Dich geliebte Seele recht herzlich . Ich küße Dich tausendmal und bitte daß Du bald schreibst . Wolle und alles soll meine fleißige liebe Künstlerin haben . Grüße alle Falks , Heine Auguste etc. recht sehr von Deiner Mutter Der Vater grüßt Dich sehr . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

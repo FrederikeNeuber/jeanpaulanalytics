@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0102">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Friedrich von Müller. Meiningen, 11. Februar
+                    1810, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">68/540, Bl 7+10 </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1 ¾ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-02-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note>Überbracht von einer
+                    Frau
+                    von Stein.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+               <term corresp="#JP-012885">Weimarer Freunde</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Dank , Guter , für die Mitteilung der Stanzen und des lieblichen Sonetts ! Ich hätte das bunte und geistvolle Gemisch am 30sten Januar wohl sehen mögen und den begeisterten Freund , als er niederschrieb . Unsere Sonne hier , wird wohl schwerlich je ein solches Fest bescheinen und darum noch einmal Dank , daß Sie uns etwas davon mitteilten ; ich male mir nun die Gegenstände aus , wenn gleich nicht gerade mit den Farben , die sie in der Tat hatten , doch mit solchen die meiner Phantasie ein angenehmes Spiel gewähren . Die freundliche Hoffnung die Sie uns in Ihrem Briefe an Wagner geben , zu Ende des Monats vielleicht Meiningen zu besuchen ist gar erfreulich . Besonders wünsche ich , daß es in dieser Zeit geschieht , weil dann mein S. noch hier ist , vom 2ten März aber bis zu Ende , in Concriptions Geschäften abwesend sein muß . Schwendler ist in diesem Augenblick ebenfalls verreist , um einen Lehnsfall für die Herzogin zu nehmen . Übrigens geht alles seinen gewöhnlichen Gang , von besonderen Dingen und bedeutenden Vorfällen ist niemals die Rede . Ich wünsche , daß man Ihren guten Bruder in Paris aufhält , damit er seine Carrier Reise nicht für sich selbst verliert . Auch um Wagners Willen freue ich mich Ihrer Ankunft , ein unendlich stilles Sehnen hat er nach seinen Freunden , und Oh Gott ich traue seinem längeren Leben jetzt wenn gar denn jemals . Ihrer lieben Gattin Gruß und Liebe von uns Allen . An Adelbert einen herzlichen Kuß . In froher Erwartung des Wiedersehens die Ihrige Henriette Schwendler eiligst Ich rechne mit Zuversicht , daß wenn Sie kommen der Freund unser Haus zu eigener Wohnung macht . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

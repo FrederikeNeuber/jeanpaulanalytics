@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1011">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Heidelberg, 7. Mai 1821, Montag</title>
+            <respStmt>
+               <persName>
+                  <surname>Hartmann</surname>
+                  <forename>Dürten</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bearbeiterin</note>
+               </resp>
+            </respStmt>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S.</p>
+                        <accMat>Brief von Friedrich Wilhelm Carové an den Schriftsteller und
+                                    Gelegenheitsmaler Layritz in Bayreuth.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-05-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName cert="medium" key="JP-003491">Odilie Minna Richter</persName>
+               <persName cert="medium" key="JP-003471">Emma Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0470">Von Caroline Richter an Max Richter.
+                        Bayreuth, 23. April 1821</ref>
+               <ref type="next" target="JP-UB0208">Von Caroline Richter an Max Richter.
+                        Bayreuth, 20. Mai 1821</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-013026">Heidelberger Gesellschaft</term>
+               <term corresp="#JP-012793">Universität</term>
+               <term corresp="#JP-011913">Besuche</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Beste Mutter ! Dein und der Emma Brief machte mir , da ich heute zum erstenmal nach 5wöchigen Ferien in das collegium ging , unendliche Freude . Unseren lieben Enzel suchte ich gleich auf , lief in der größten Eile auf's Schloß und fand ihn endlich in dem Badischen Hof . Nichts konnte ihn bewegen , einen Tag hier zu bleiben , selbst die Natur nicht , außer seiner eigenen . Von da an wirst Du Alles hören von ihm selbst . Voss war schon lange gespannt auf einen Brief und das dritte Wort in seinem Munde war : Ach ! wenn nur der liebe Jean Paul schon da wäre . Was ihn bis jetzt abhielt , dem Vater noch einmal zu schreiben , war die kranke Mutter ( sie leidet schrecklich u verbirgt den Schmerz standhaft . Jetzt geht es bedeutend besser . ) und ein Professor Peterson , den der Vater in Kreuznach besuchen wird , geliebt von der ganzen Voßischen Familie ; auch ich achte ihn außerordentlich u als er wegging von Heidelberg , begleitete ich ihn mit noch einem Studenten rund eine Stunde über Weinheim hinaus . Die Gegend dort ist das wahre Paradies ; der Vater kennt ja Grimm dort , den Volksfreund u Märchenverfasser . Der Osterkuchen ist leider etwas schimmlig geworden , aber er schmeckt doch gut . Du schreibst , daß der Vater auf einen Brief von Voss wartet ; er hat ihm ja kürzlich geschrieben . Über die Möglichkeit eines Duells bin ich ganz ruhig ; wer Veranlassung dazu gibt , dem gebührt es , diese Sitte mit zu machen ; jeder kann sich davon zurückhalten , außer wenn fremde Leute es darauf anlegen . Darin seid auch ihr ganz besorgt . Hierin bin ich , glaube ich , so weit mit mir ins Reine , wie ich mich gegen Jeden zu betragen habe . Es ist aber schwerer , als man glaubt . Sonst ist auch der Ton unter den Studenten so , daß jeder dem anderen höflich begegnet u man mit jedem sprechen darf . Wie hat sich Miedel herausgebildet ? und Welden ? Doch bei Euch kann man das nicht so merken , als wenn man unter seines Gleichen ist ; dann ist es eine Aufgabe . Was das Geld anbetrifft , so bin ich nie in einer solchen peinlichen Lage gewesen ; ich kann zwar von Landfrieds borgen , aber ich tue es nicht gern . Bei Voss bin ich die letzte Zeit recht oft gewesen ; auch bei Paulus . Hier ist ein Briefchen von Carové an Layriz , das Bild des Vaters betreffend . Ach könnte ich dem guten Voss auch eines geben , oder der Paulus . Beide verdienen es auf gleiche Weise . Der Vater , so hat es Voss ausgemacht , soll wegen vieler Ursachen , die besser mündlich zu sagen sind , durchaus in dem König von Portugal bei Guttmann logieren . Der Frau am Tore ist es schon gesagt , im Fall er früher , als dieser Brief euch trifft , ankäme . Der Wirt im Carlsberg ist nur hohen Herrn ( von Stand ) hold . Danke der lieben Emma , daß sie so freundlich an mich gedacht hat , und Dir , beste Mutter , lege ich es ans Herz , daß erstens mir Odilie schreibt , daß der gute Vater doch ungefähr den Tag seiner Ankunft melden soll , dann kann manches vorbereitet werden , und überhaupt etwas Näheres der Reise . Ich habe jetzt das untere Quartier in meinem Hause bezogen ( es kostet 24 fl. ) ich muß diesen Sommer ganz allein sein . Hauptcollegia bringen mich zum Sitzen . Deiner Mutter kannst Du einstweilen mich anmelden in Berlin ; denn mehr als noch 1 Jahr kann ich nicht hier bleiben . Das rechne ich immer nach neuen Colleg. aus . Gott gebe es , daß der Vater mir dieses erlaubt . Daß Otto in München so gerne ist , freut mich wegen des festen Standpunktes des Mannes , aber da Herder weggeht , kann ja wenig mehr bei Euch zu suchen sein . Hier bin ich überall von den ersten Gelehrten umgeben ; der Vater könnte erst dann das schöne Treiben auf der Universität kennen lernen , wenn er da gelebt hätte . - Die Herzogin von Kurland kommt Morgen bestimmt . Voss u ich werden sie besuchen . - Nun lebt alle recht wohl . Gerade wird es 4 Uhr schlagen und da muß ich bei Zachariae im Staatsrecht hospitieren . Grüße Du , Herrliche , meinen Vater . Ein Brief von ihm kann mir nur allein Vertrauen geben , ihm für seine Liebe zu danken . Grüßt Emanuel u Otto ; und schreibt ja recht bald . Voss , Paulus u alle Freunde grüßen . Dem Rendanten werde ich nächstens schreiben . Die besten Grüße an Welden und zugleich Ermahnungen , daß er doch das erbärmliche Würzburg verlassen soll und ins freie Heidelberg gehen . Hier wagt man nie einen Thibaut abzusetzen , wohl aber dort einen Bär . Nun lebt wohl . Ihr sehet , daß dies Blatt unbeschrieben bleibt . Die Zeit ist zu kurz . Es sollte ja bloß de r Dank für das Paket u den Brief ausgedrückt sein . Mit inniger Liebe Dein M. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0618">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 21.
+                    Dezember 1802, Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 1 S. Auf S. 1 Datierung vfrH: 1802. Auf S. 4 Adresse:
+                                    Des | Herrn Geheimen Ober-Tribunals | Rath <hi rendition="#aq">Mayer</hi> | in | <hi rendition="#u">
+                              <hi rendition="#aq">Berlin</hi>
+                           </hi> | <hi rendition="#u">
+                              <hi rendition="#aq">Fr</hi>. <hi rendition="#aq">Duderstadt</hi>
+                           </hi>. Poststempel: <hi rendition="#aq">R.3.MEININGEN</hi>. Siegelspuren.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-12-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012212">Liebesleben / Kennenlernen / Ehe</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein geliebter Vater , Ihren teuren Brief empfing ich an Ihrem glücklichen Tage , und ich war mit meiner ganzen Seele bei Ihnen - wie sehnte ich mich meine Gebete für Sie , und meinen Dank gegen das Schicksal an Ihrem Halse auszusprechen ! - Gott erhalte Sie nun noch lange ; die gütige Vorsehung gebe Ihnen so viel Jahre des Glücks , als Sie die Vergangenen mit Resignation auf so viele Lebensfreuden vor sich vorüberziehen lassen . Darum feiere ich diesen doppelten Abschnitt Ihres Lebens , den ein kommendes Jahr bildet mit größerer Rührung , u habe nie feierlicher meinen stummen Glückwunsch an Ihrem Halse mit einem Morgenkuß dargebracht , als den jetzigen aus der Ferne . Könnten wir uns sehen , mein teurer Vater , Sie würden lebhafter überzeugt werden , wie innig ich Ihr Glück begehre , als Worte Ihnen sagen können Ihrer Henriette sagen Sie meinen wärmsten Gruß , und daß ich Sie als den Genius Ihrer künftigen Tage liebe . Eine der angenehmsten Beschäftigungen , Ihnen ein kleines Produkt meiner Hand , als eine Erweckung Ihres Andenkens an mich , zu verfertigen , musste ich mir diesmal versagen , weil mein Kind fast unumschränkt meine Zeit gefangen nimmt . Verzeihung dafür , bester Vater ! Das liebe Wesen ist wohl , und wird täglich interessanter - mir ist sie die Welt und Alles - mein Mann grüßt Sie innig und Ihr zweites Selbst .Leben Sie wohl geliebter Vater , für Ihre Gesundheit bete ich - Ihre ewig treue gehorsame Caroline </p>
+         </div>
+      </body>
+   </text>
+</TEI>

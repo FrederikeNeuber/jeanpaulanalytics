@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0065">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Caroline Richter. Leipzig, 13. (?) März 1802,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. Anfang fehlt.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1802-03-13" cert="low"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Der Brief wurde nach dem Brief abgefasst, den Ernstine Mahlmann
+                    nach dem 9. März 1802 an ihre Schwester Caroline Richter gesandt hatte, da sie
+                    sich hier erneut nach dem dort erbetenen Färberrezept erkundigt, und vor dem
+                    nächsten Brief, der auf den 14. März 1802 datiert ist. Denkbar ist auch, dass
+                    vorligender Brief mit dem Brief vom 14. März gemeinsam versendet wurde, da
+                    dieser mit einem Satz beginnt, der auf zuvor Geschriebenes verweist ("Was habe
+                    ich Dir nicht alles geschrieben, meine liebste Caroline, wirst Du denn Geduld
+                    haben das alles zu lesen?") - die beiden Briefe entsprechen einander in
+                    Papierart und Faltung.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Du weißt die längst projektierte Reise nach Dresden ! Die wird denn gewiß gemacht . Aber noch eine himmlischer Plan ! Mein Mann will mir erlauben vier Wochen lang ins Gebirge bei seiner Schwester zu wohnen , bei welcher wir auf unserer Rückreise von Dresden doch einen kleinen Besuch machen mußten : Sie wohnt 11 Meilen von hier in Freyberg einem kleinen Städtchen welches weiter nicht interessant ist , als weil es von den göttlichsten Gegenden umringt ist , und mitten im Gebirge liegt . Wie ich mich darauf freue kann ich Dir gar nicht sagen ! Denn von Zeit zu Zeit sich von Leipzig zu entfernen ist wirklich notwendig . Aber auch in anderer Hinsicht wird die gesündere Luft , mehr Bewegung des Körpers ihren wohltätigen Einfluß äußeren ! Hier Sitze ich ja den ganzen Tag . Und mit großen Freuden wird man mich aufnehmen ! Ich glaube , ich habe Dir noch nie von dieser Schwester geschrieben . Es ist eins der seltensten weiblichen Wesen , die es geben kann . Denn sie trägt ein Streben in sich nach dem Höchsten und Edelsten , was mich oft mit Bewunderung ja ich möchte sagen mit Ehrfurcht erfüllt ! Es kann mir also nicht anders als unendlich wohl bei ihr sein , und sie hat mich auch recht lieb ! - Ich schreibe Dir soviel von mir , meine gute Caroline - denn ich beurteile Dich nach mir , und denke es muß Dir Freude machen . ich höre also noch nicht auf -- auch ein kleines Stübchen auf eimem Dorfe -- dasselbe was Thieriot im vorigen Sommer bewohnte - hat mein Mann gemietet . Zwar nicht um eigentlich dort zu wohnen , aber um zuweilen , dort die Sonne aufgehen zu sehen . Das macht mich auch recht glücklich . Ich habe nicht Zeit Dir heute mehr zu schreiben . Ich bitte Dich nur mir bald zu schreiben . Auch liegt mir viel an das Rezept - rot zu färben worum , ich Dich im letzten Briefe bat - weil ich mir vor der Meße , gern noch solch ein Kleid machen möchte . Auch das Rezept zu den Kuchen von trockenen Eiern ! - Meine gute Caroline sei nicht böse , wenn ich Dich damit quäle ! Nun , lebe recht wohl , recht wohl ! Ich drücke Dich fest an mein Herz ! Lebe wohl , Du Liebe , meine einzige Schwester Deinen Mann grüße ich recht herzlich ! Der Meinige grüßt und küßt Euch ! -- Adieu Adieu . Er . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

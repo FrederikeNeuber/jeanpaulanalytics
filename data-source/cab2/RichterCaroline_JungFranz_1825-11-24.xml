@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0736">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Franz Wilhelm Jung. Bayreuth, 24. November
+                    1825, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl. 8°, 8 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                         Persönlichkeit, S. 372, Nr. 352
+                        (unvollständig).</bibl>
+               </witness>
+            </listWit>
+            <p>Veilchenfarbenes Briefpapier.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1825-11-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001981">Franz Wilhelm Jung</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012539">Frankfurter Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012761">Tod und Sterben</term><term xml:id="JP-012572">Verlage / Verlegerisches</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Hochverehrter Freund ! So schnell nach Empfang meines letzten Briefes werden Sie nicht die Bestätigung meiner traurigen Ahnungen vorausgesetzt haben . Ach wie leid war es mir Ihnen damals keine erfreulicheren Nachrichten mitteilen zu können ! Ich zögerte immer mit der Absendung jenes Briefes an Einen so teuren teilnehmenden Freund , weil ich glaubte , bald könne ich Ihm beruhigenderes sagen , allein von Tage zu Tage ging es schlimmer mit dem Unvergeßlichen seine köstlichen Lebenskräfte schwanden sichtbarlich , und ich mußte mich überzeugen nur ein Wunder könne Ihn dem ihn umschlingenden Tode entreißen . Nie werde ich diese Seelenleiden vergessen die die ich bei dem allmählichen Hinscheiden dieses sonst so kräftigen und sonst allen äußeren Einwirkungen trotzendem Körpers empfinden mußte . Aber er wurde , der Herrliche ! der schwächste der Menschen , nur nicht am Geist , denn dieser blieb bis zum 4 Stunden langen , letzten Schlaf so hell und scharf als er es immer war , nur daß die Sprache matter , schwerer zuletzt kaum hörbar wurde . Am Morgen 10 - 11 Uhr des am Abend 8 Uhr erscheinenden Todes sprach er noch kritisch über seinen Hesperus - ermunterte einen kommenden Freund , seine Gesundheit zu pflegen - aber der Körper fiel zusammen , er konnte sich nicht halten . Er begehrte Nachmittags um 2 1/2 Uhr aus meiner Stube wo er halb sitzend halb liegend auf dem Kanapee sich befand , und wo ihm immer so wohl war , in sein Bette gebracht zu werden , was er am Tage aber während der ganzen Krankheit nie hütete , und nach dem er hier behaglich gelegt war , fiel er in einen Schlummer der sich seit vielen Wochen häufig seiner bemächtigt hatte , jetzt aber tiefer und heftiger wurde , bis endlich leise der teure Atem stockte - und für diese Erde dies göttliche Herz zu schlagen aufhörte . Andachtsvoll umgaben uns noch teure Freunde die in heißen Gebeten seine Seele zum Himmel geleiteten . Unter ihnen ist Emanuel , der Jude , sein ältester und geliebtester Freund mir besonders ehrwürdig und nie werde ich jene feierlichen Stunden vergessen wo das Teuerste und Höchste was wir auf Erden besaßen den großen Übergang in jene Welt machte . Sein edles Gesicht welches im Leben sich schon so sehr verändert hatte , nahm im Tode einen Ausdruck von Ernst und tiefem Nachdenken an , als wenn Er die großen Angelegenheiten der Schöpfung nun tief durchdächte , und diesen Ausdruck behielt es bis zum vierten Tage wo Er unter feierlicher Begleitung in die Erde zu seinem geliebten Sohne gelegt wurde . Beide ruhen nun so in Ihrem Grabe beisammen wie sie jetzt gewiß im Himmel vereinigt sind . Dieses wehmütige Glück ist der Trost meines Lebens . Nun hat mein Kind seinen Vater wieder den es so unaussprechlich liebte , für dessen Ruhm und an der Nacheiferung seines Wertes - Er eigentlich gestorben ist . Ich werde Ihm , den teuren Seligen ein bescheidenes Denkmal der treusten Liebe setzen lassen . Wollen Sie mir dazu eine Inschrift machen , edler Dichter und Mensch . Gerührt werde ich dieses Zeichen der Teilnahme von Ihnen annehmen , und entzückt anwenden lassen . Hier dürfen nur die Gattin und Mutter mit ihren Kindern sprechen , der Welt gehört es an den allgemeinen Wert des Dichters und Schriftstellers zu ehren . Noch lege ich in Ihre Hände diesen Brief an den Großherzog von Hessen-Darmstadt weil man mir den Rat gegeben wie Goethe auch bei Diesem die Gunst eines Privilegiums zu erwirken , da der Nachdruck im Hessischen so stark sein soll . Da ich nun gar nicht bekannt mit den Verhältnissen der dortigen Regierung bin , so bedarf ich eines gütigen Vermittlers um dieses Gesuch sicher an Seine Behörde gelangen zu lassen und könnte ich einen besseren erwählen , als Sie , mein Teurer ! Und finden Sie es geraten diesen Brief unmittelbar der Post anzuvertrauen , so tun Sie , wie Ihnen gut dünkt , denn oft gebricht es den Umgebungen eines Fürsten an Mut oder an guten Willen . Die für den teuren Verstorbenen so wichtige Angelegenheit , der Herausgabe seiner sämtlichen Werke schwebt noch unentschieden dahin , weil der Kontrakt zwischen Ihm und Reimer in Berlin , noch nicht untzerzeichnet war . Die Erteilung der Privilegien um die überall nachgesucht wurde , kann allein die Sache der Erben vor Beeinträchtigung schützen . und Niemand kann zweifeln daß die Fürsten nicht in der Gewährung einer so gerechten Bitte das Andenken eines von vielen Großen geachteten Schriftstellers ehren würden . Um Vergebung bitte ich nicht bei einem so teuren Freunde , wohl aber um Seine Liebe und Seinen Segen für mich und meine Kinder , die ihres Vaters wert sind . Möge der Himmel Ihr und der Ihren Leben beschützen , und mit Freuden ohne Maß bekränzen . So wünscht es die ewig Sie verehrende Caroline Richter geborene Mayer . Ein Freund gab mir den Rat an den in Darmstädtischen Diensten stehenden Herrn von Grolmann zu schreiben . Ich kenne seinen Titel und Rang nicht , sollte er aber ein Sohn des in Berlin stehenden Tribunals Präsidenten von Grolmann sein so wäre er der Sohn eines Freundes und ehemaligen Kollegen meines Vaters , des Geheimen Ober Tribunals Rat Mayer und es könnte nicht ohne Wirkung auf ihn sein , wenn man ihm dies in Erinnerung brächte , vielleicht gelänge es Ihnen durch Ihre gewiß sehr ausgebreitete Konnexionen ! Wenigstens geben Sie mir Ihren Rat . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

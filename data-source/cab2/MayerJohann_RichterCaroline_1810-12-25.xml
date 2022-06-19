@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0800">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 25. Dezember
+                    1810, Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Bl. 8°, 3 S. S. 3 unten abgerissen.</p>
+                        <accMat> Brief Johann Siegfried Wilhelm Mayers an Minna Spazier;
+                                    zehn Reichstaler und ein halbes Friedrich d'or. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1810-12-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012048">Briefverkehr</term><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! Den ersten Brief , dessen Du als aus A . an mich geschrieben , erwähnst , habe ich gar nicht erhalten , und wenn er wirklich zur Post gekommen ist , so ist er an mich nicht abgegangen . Denn auf der hiesigen Post weiß man davon nichts . Dagegen ist ein Brief von mir an Dich , mit den Richtärschen Weihnacht Zinsen , u einigen Kleinigkeiten für Dich u Deine Kinder nach Bayreuth abgegangen , der in Deiner Abwesenheit daselbst von Deinem Mann in Empfang genommen sein wird . Dein letzter Brief , und besonders Minnas eigenhändige Beilage beruhigen mich über die Situation der letzteren , indem in Minnas Briefe eine mit Geistes Verwirrung nicht zu vereinbarende Geistes Gegenwart herrscht . ich zweifle also gar nicht an ihrer Herstellung ; es sei denn daß dieselben Verlegenheiten , die ihre Geistes Verwirrung herbei geführt haben , sie immer von neuen darüber brüten lassen . In diesem Fall ist Hebung dieser Verlegenheiten das einzige Mittel zur radikal Kur . Auf jeden Fall ist es ein Glück , daß Minna in die Hände so edler Menschen gefallen ist und ich bitte Dich Herrn Ludwig und seiner Frau Gemahlin , auch Familie meine innigste Erkenntlichkeit dafür zu wiederholen . Kannst Du übrigens dahin kommen , Minnas eigentliche Verlegenheiten , denen sie doch so weit es Geld Verlegenheiten sind , durch Aufopferung der Hilfe ihres ärmlichen Kapital Vermögens , zum Teil abgeholfen hat , zu entdecken , und mich darüber klar sehen zu lassen , so glaube ich wohl , ein Recht darauf zu haben . Denn bisher hat Minna mich hierin noch nicht initiiert , da doch für ein Vater Herz Raum zu allen Confession eines Vertrauen vollen Kindes ist . Vorjetzt kann ich der Minna aus eigenen Mitteln nichts geben . ich avanciere eben , so wie ich es bei Dir getan habe , die Richtärschen Weihnacht Zinsen , die doch in diesen Tagen von Herrn Richter eingehen müssen . ich schicke Dir also hierbei 10 rth Richtersche Zinsen von 1000 rth Gold für die Zeit vom 1. Oktober bis Ende Dezember 10 , u bitte sie der Minna zuzustellen , und zwar mit beiliegenden Zeilen , die ich unmittelbar an sie richte ; u womit Du ihr zugleich den ebenfalls für Emma erfolgenden 1/2 Fridr . d'or zustellen kannst , den ich für letztere nützlich zu verwenden bitte . Alles übrige erwarte ich von Herrn Ludwig , der selbst finden wird , worin mir in Absicht der Minna , und ihres Aufenthalts in Altenburg gelegen sein muß . Dich will ich mit allen meinen Sorgen nicht belasten . Du hast durch Deine Gegenwart in Altenburg schon genug geleistet . auch Herrn Br . u liebe Deinen treuen Vater M Eier </p>
+         </div>
+      </body>
+   </text>
+</TEI>

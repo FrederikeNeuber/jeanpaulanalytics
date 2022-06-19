@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0417">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Max Richter. Bayreuth, 19. November
+                    1819, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>DLA</institution>
+                        <collection>A: Richter, Johann Paul Friedrich</collection>
+                        <idno type="shelfmark">56.1390 </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S., 2⅔ S. von Jean Paul, 1⅓ S. von Caroline
+                                    Richter, der Schluss fehlt.</p>
+                        <handDesc>
+                           <handNote xml:id="JP-999999">
+                              <persName>Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+                           </handNote>
+                           <handNote xml:id="JP-003469">
+                              <persName>Caroline Richter</persName>
+                           </handNote>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                     <ref type="letter"
+                          subtype="document"
+                          target="https://www.jeanpaul-edition.de/brief.html?num=VII_596">3-VII_596</ref> (nur von Jean Paul).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                         Zwölf Briefe Jean Pauls an seinen
+                        Sohn Max. Mitgeteilt von Paul Nerrlich. Wissenschaftliche Beilage der
+                        Leipziger Zeitung, 11. Dez. 1888, Nr. 129, S. 593 (nur von Jean Paul,
+                        unvollständig).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1819-11-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="4-VII_227">Von Max Richter an Jean Paul und Caroline
+                        Richter. München, 1. bis 4. November 1819</ref>
+               <ref type="prev" target="JP-UB0204">Von Max Richter an Caroline Richter.
+                        München, 11. November 1819</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012638">Familiäre Beziehungen</term>
+               <term corresp="#JP-012025">Jean Pauls Kinder</term>
+               <term corresp="#JP-011934">Familie Mayer</term>
+               <term corresp="#JP-011845">Max' Studium</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein geliebter Max ! Dein Brief und dein Leben g e ben mir recht viel Freude . Aber deine Ausgaberechnung sende mir nur monatlich , und zwar zusammengezogen , z. B. Summe für 30 Frühstücke . Auch darbe dir dein bestimmtes Mittagessen von 12 kr. nicht ab . - Du sollst keine Stunden geben , da du kaum zum Nehmen derselben Zeit genug hast . - Studiere abends nie über 11 Uhr ; den Verlust bringe t die größere Zahl der Morgenstunden im Sommer ein . Augen und Nerven halten es wohl einige Jahre unter dem Scheine voller Gesundheit aus ; aber dann bricht alles auf desto längere Zeit zusammen . Meine fünfzigjährige Gesundheit bei 50 literarischen Geburten verdanke ich jener Regel . - Mache keine Zeichnungen ; für dich gibt_es jetzt keine größere Verschwendung als die der Zeit . - " Zu früh " = zu bald wie du schreibst , anstatt " früh oder am Morgen " ist ist ein Provinzialismus so wie " zu Nachts " - Unter dem Durchsehen des heute zum Drucke nach Stuttgart abgegangnen Büchelchens über die Doppelwörter habe deine SchreibKrüpel auf E ihnen Haufen versammelt : nämlich w , v , a , t ( das du viel zu klein machst ) , ck ( lieber c k ) - Zahl ( Zahl , weil du das h. zu kurz machst ) , oder so : l st und ß beide zu klein u. zu wenig unterschieden ) l statt L , l wie f , Nl ( was N sein soll ) und Ml ( was M heißen soll , das du doch durch München u. Max wirst schreiben lernen , - Meine Mühe der Aufzählung und Nachmalung vergilt durch deine der Abschaffung . - Die Abteilzeichen setzest du zu weit vom " Zei "chenworte . - Die Ballen Papier , die du zu verschreiben hast , bis u. wenn du gelehrt bist , werden ohnehin deine Buchstaben noch genug verrenken und zerquetschen . - Glattes Papier , wenn auch nur wenig oder weiß , wäre mir ein herrliches Glatteis für das Schlittschuhlaufen meiner Feder ; sende mir ein Schnitzchen z. B. als Couvert , zur Probe mit . - Hast du nicht die Bibel u. das französische Lexikon , sonst eben keine freundlichen Nachbarn , in deinem Fasse zusammen gebracht ? - Kirchenrat Kaiser brachte uns freudig u gütig die Nachrichten , in welchem schönen warmen Klima lauter liebender Menschen du lebst . Bringe darunter Thiersch Dank u Gruß ; u nun vollends den teuren Schlichtegrolls . - Ich freue mich innig auf den Frühling , wo ich dich wiedersehe als einen aufgeblühten zweiten Frühling , der mich im Spätherbste meines Lebens belohnt . Dein Vater R. Geliebter Max , Deine beiden Briefe machten mir die innigste Freude , der erste große durch die für Eltern und Geschwister so beruhigende Ausführlichkeit von den Verhältnissen Deines Lebens - der zweite durch den Ausdruck Deiner Empfindungen über den Verlust meines geliebten Vaters , Deines Großvaters . Du kannst wohl denken , wie ich ihn beweine , denn Du weißt , was mir der geliebte Mann war , welchen Freund , welchen Beschützer ich verloren habe - allein der Blick auf Dich geliebter Max , und Deine Geschwister gibt mir noch für dieses Leben , schöne Hoffnungen und ich muß nur Gott danken so lange einen Vater gehabt zu haben . Gott erhalte uns Deinen Vater nur recht lange , und lasse Dir den großen Schmerz seines Verlustes sehr , sehr spät erfahren , möchte ich es nicht erleben ! Mein Vater ist mir ein leuchtender Stern des Guten und Vortrefflichen , und von jener Welt aus soll er für mich leben im Andenken seiner Tugenden - lasse Ihn auch Dir ein Vorbild sein , dem Du nachstrebst und ehre seine Asche durch Deinen Wert . Ja gewiß ich habe die Hoffnung daß Du so gut sein wirst wie Er . Jetzt reise ich nun bald nach Berlin , weil die Großmutter es unendlich wünscht , und weil ich die teure Hinterlassenschaft meines edlen herrlichen Vaters in Empfang nehmen muß . Von dort aus werde ich Dir ebenfalls schreiben mein Max , und auch Du schreibe mir und vertraue mir alles . Was mich ängstet ist , daß Du zu kurz lebst , da Du nicht immer regelmäßig isst - ich bitte Dich , liebster Sohn Dir nichts abgehen zu lassen , zwar sparsam , aber doch gesund , reinlich und warm täglich Mittagbrot zu essen . Der Vater gibt es ja gerne , und es würde ihm gar nicht recht sein , wenn Du zu übertrieben spartest . Es ist aucheine </p>
+         </div>
+      </body>
+   </text>
+</TEI>

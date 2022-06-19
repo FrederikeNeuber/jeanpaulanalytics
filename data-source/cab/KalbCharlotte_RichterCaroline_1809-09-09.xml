@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0914">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, im Herbst 1809</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Kalb, S. 132–133, Nr. 107 (HE
+                            Berend)</bibl>
+               </witness>
+            </listWit>
+            <p>Die Handschriften der Briefe von Charlotte von Kalb an Jean Paul und Caroline Richter sind seit
+                    dem Ende des Zweiten Weltkriegs verschollen. Mit Ausnahme eines Briefes sind
+                    sämtliche Briefe in der Briefsammlung Paul Nerrlichs: »Briefe von Charlotte von
+                    Kalb an Jean Paul und dessen Gattin« (Berlin: Weidmann 1882) veröffentlicht, ein
+                    weiterer Brief ist in einer Abschrift Eduard Berends überliefert, dem die
+                    Handschriften, die sich im Briefnachlass Jean Pauls befanden, noch zugänglich
+                    waren. Berend hat auf dieser Grundlage in seinem Exemplar der »Briefe von
+                    Charlotte von Kalb an Jean Paul und dessen Gattin« handschriftliche Korrekturen
+                    vorgenommen. Die Korrekturen und Ergänzungen aus diesem Handexemplar (HE), das
+                    zusammen mit dem Nachlass Berends im Literaturarchiv Marbach aufbewahrt wird,
+                    werden hier in Stellenkommentaren mit dem Hinweis auf Berends HE kenntlich
+                    gemacht. Nerrlichs Edition der Briefe Charlotte von Kalbs kann als zuverlässig
+                    gelten – mit der Einschränkung, dass er in Orthographie und Interpunktion stark
+                    normierend in die Texte eingegriffen hat. Ergänzungen und aufgelöste Abkürzungen
+                    hat Nerrlich im Ganzen sorgfältig kenntlich gemacht. Im hier edierten Text
+                    wurden die Herausgeberanmerkungen (unlesbare Stellen, fragliche Lesungen,
+                    Hinweise zu Textverlust sowie Ergänzungen und aufgelöste Abkürzungen)
+                    durchgehend aus D übernommen. Nerrlichs Ergänzungen in den Datumszeilen
+                    (insbesondere Jahresangaben) wurden hingegen nicht übernommen.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1809-09-09" notAfter="1809-11-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note>Wie aus D hervorgeht, enthielt der Brief die Adresse: A Madame | Madame
+                    Richter née Mayer | à Bayreuth. Zur Datierung: Charlotte von Kalb erkundigt sich
+                    nach einem Brief, den sie Anfang September 1809 an Jean Paul gesendet hat, und
+                    erwähnt noch nicht die neue Versorgung durch die Anstellung ihrer Tochter als
+                    Hofdame, von der die Richters in ihrem Brief vom 20. November 1809 erfahren. Das
+                    Schreibdatum liegt also zwischen diesen beiden Briefen. <ref type="letter" target="JP-UB0052">Am 12. September 1809</ref> legte Johann Siegfried Mayer
+                    seinem Brief einen Brief der Kalb an Caroline Richter bei, möglicherweise
+                    handelt es sich um den vorliegenden.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012048">Briefverkehr</term>
+               <term corresp="#JP-012176">Jean Pauls Werke</term>
+               <term corresp="#JP-013487">Jean Pauls Pension </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein heutiges Schreiben enthält nur Anfrage nach einigen Briefen , die ich an Sie , meine teure Freundin , abgesendet habe . Ich weiß nicht ganz recht , ob es drei oder vier Briefe waren , die ich geschrieben , und wo ich keine Beweise habe , ob diese Ihnen sind eingehändigt worden . 1 ) Im Febr . meinen Dank für die überschickte Zahlung ; 2 ) vielleicht nur einige Tage später die Beantwortung Ihres Briefchens , worin die Anfrage wegen Herrn v. Goltz war . Ob ich nun in diesen einen Brief nach Mannheim an Frau von Luk mit beigeschlossen habe oder noch in einen dritten Brief ich nicht gewiß gestern erhielt ich aber die Nachricht von meiner Schwägerin aus Mannheim , daß sie diesen Brief , worin noch ein Schreiben von meiner Tochter an die verwitwete Herzogin von Zweibrücken beilag , nicht erhalten hat . Dieses brachte mich auf die Vermutung , daß wohl mehrere Briefe könnten verloren sein . Im Mai oder Juni , als ich von Ihren Eltern hörte , Richter hätte durch die Sorgfalt des Fürst-Primas eine jährliche Pension von der Akademie zu Frankfurt a. M. , konnte ich unmöglich meine Anteil nehmende Freude verschweigen . Die Nachricht war mir bedeutend , es war das erste angenehme Ereignis , von welchem ich in langer Zeit hörte . Der letzte Brief Bayreuth gesandt war von mit der Adresse : An Herrn J. P. Richter , Legationsrat ; dieses Blatt sollte auch nur allein von Ihrem Gemahl gelesen werden ; mein Wunsch erfüllt , oder meines Freundes Meinung hätte mich allein bestimmt - sein Wille , mein Gebot ! Sollte dieser letzte Brief verloren sein , so gehört es zu meinem Schicksal ; es bleibe , ich kann einen ähnlichen nicht wieder schreiben . So sind wahrscheinlich einige Briefe verloren , die unseres Lebens Bahn vielleicht eine andere Richtung hätten geben können . In diesen Tagen las ich Katzenberger . Wie sehr wohl gefiel mir " Über Luthers Denkmal " , die Änderung über C. Corday . Lebe wohl - und ein besseres Los sei diesem beschieden als den früheren Charlotte . A Madame Madame Richter née Mayer à Bayreuth </p>
+         </div>
+      </body>
+   </text>
+</TEI>

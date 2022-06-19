@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0970">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Stanislaus Otto von Dönhoff an Johann Ernst Wagner. Berlin, 14. November
+                    1811, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>3 S. S. 4 Adr.: </p>
+                        <p>
+                           <hi rendition="#aq">S</hi>
+                           <hi rendition="#uu">r</hi> Wohlgebohren
+                                    | des herzogl: sächs: Kammersekretär | Herrn <hi rendition="#aq">Wagner</hi> | in | <hi rendition="#u">Sachsen-<hi rendition="#aq">Meiningen</hi>.</hi> | <hi rendition="#aq">
+                              <hi rendition="#u">franco</hi>
+                           </hi>
+                                    Eisenach. Siegelreste</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-013104">Stanislaus Otto von Dönhoff</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1811-11-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011851">Entschuldigung</term><term xml:id="JP-012278">Freundschaften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ihre Wohlgeboren verehrtes Schreiben vom 30st : v : M : machte mich unaussprechlich glücklich ; doch halte ich es für Pflicht , Sie von einem Irrtum zu befreien , in den ich Sie versetzte ; denn nicht von meinem Vater , wie Sie es glaubten , sondern von mir , einem 16jährigen Knaben , war der an Sie gerichtete Brief . Ach , mein guter Vater , entschlief schon seit 3 Jahren , zu einem Besseren Leben , und ließ uns hier verwaist zurück . Hätten Sie einander gekannt , gewiß , Sie wären Freunde gewesen ; denn Alle gute und vortreffliche Seelen , sind ja so nahe verwandt . Doch nun erst , da Sie wissen wer und wie wenig ich bin , darf ich Ihre ganze Güte und Nachsicht , in Anspruch nehmen , um mir , dem unmündigen Knaben , den Brief zu verzeihen , den ich an Sie , werter Mann zu richten , mich erdreistete . Schreiben Sie diese Dreistigkeit , die mir sonst wahrlich nicht eigen ist , einzig und allein den Gefühlen zu , die Ihr Willibald , so lebhaft in mir erregte ; denn ich konnte der Begierde nicht widerstehn , dem würdigen Autor desselben , meinen herzlichen Dank dafür abzustatten . Verzeihen Sie mir also , verehrter Mann , meinen vielleicht übereilten Schritt , und übertragen Sie einige von den Gesinnungen , die Sie gegen den Vater hegten , auf den Sohn . Ich bin noch jung und kann ich vielleicht noch einst , Ihrer Freundschaft würdig machen . Danach streben will ich wenigstens , mit allen Kräften ; und mit Gottes Hilfe , hoffe ich das Ziel zu erreichen . Wenn Sie mir nicht zürnen , wenn Sie Nachsicht mit meinen Fehlern und Schwächen haben , o gewiß , dann werden Sie mir erlauben , wenn ich einst in Ihre Gegend komme , auch Ihre Schwelle zu betreten , und in dem Kreise der Ihrigen , einige Stunden des wahren , des reinsten Glücks zu verleben . Möge Gott Ihnen beistehn , und Sie recht bald von Ihrer Krankheit befreien . Wie glücklich würde ich sein , wenn Sie mich durch wenige Zeilen überzeugten , daß Sie mir nicht zürnen . Ich bitte Sie , mich Ihrer liebenswürdigen Familie , deren Glieder ich so gerne zu meinen Freunden zählen möchte , unbekannter Weise zu empfehlen , und gewogen zu bleiben , Ihrem ganz ergebenen Stanislaus Dönhoff . P : S : Wenn ich so glücklich sein soll , einige Zeilen von Ihrer Hand zu empfangen , so haben Sie doch die Güte , meinen Vorne m en auf der Adresse zu bemerken , damit der Brief gewiß an mich gelang e . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

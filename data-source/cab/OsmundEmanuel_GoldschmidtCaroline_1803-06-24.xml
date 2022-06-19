@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0172">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel  an Caroline Goldschmidt. Bayreuth, 24. Juni bis 2. Juli 1803, Freitag bis Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 3 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1803-06-24" to="1803-07-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012583">Briefabfassung</term>
+               <term corresp="#JP-012010">Judentum</term>
+               <term corresp="#JP-011937">Kunst</term>
+               <term corresp="#JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Carol . Warum sollten S. denn aber auch eher sollen , als wollen ? Wer will denn das ? Das einzige was ich wünschte wäre doch , daß S. Ihre Briefe an mich , wie ich die meinigen an Sie verdoppeln , abschrieben , weil man - so wie ich sonst - sich zu lange besinnen muß u am Ende doch selten eine Antw. ganz genießen kann . Es ist durchaus nicht gut , daß S. nichts als Gutes v. mir glauben. S. glauben nach meinem Glauben nicht so günstig vom Menschen Emanuel , als ich vom Menschen überhaupt geglaubt haben will . Die besten Menschen sind - Menschen . Alle fehlen mir d. h. Alle verfehlen die rechte Bahn , die so leicht zu verfehlen wird , weil sie so sehr schmal ist . Manchem wird es leichter auf diesem Draht zu gehen , manchem schwerer ; die meisten fallen bisweilen rechts , bisweilen links herunter . Billigkeit , Schonung , Liebe gegen den Fehlenden , ist besser , sicherer , ruhiger , als nicht an dessen Fehler zu glauben . Jede Eigenschaft muß sich mühsam durch arbeiten u keine einzige bleibt am Ende doch ohne Flecken . Den Wert , den S. auf meine Briefe legen , halte ich sehr wert u ich weiß ihn zu schätzen . Wenn ich den Meinigen vorausgehen sollte : so soll jeder das Seinige wieder zurück bekommen , das ist längst mein Letzter Wille . Schon habe ich auch Weniges v . Einigen , denen ich nachkomme , mir wieder zurück geben lassen . Das ist , denke ich , das aller Sicherste . Wohl kann ich s Ihnen im Scherz geschrieben haben , daß S. meine Briefe nicht recht lesen u also natürlich nicht recht nehmen ; aber man macht mir im Ernst den Vorwurf , bisweilen im Schreiben weniger auf d @ Leser , als auf Schreiber zu denken u dadurch oft undeutlich od. zu dunkel zu bleiben . Da mir diesen Vorwurf gerade einige Competente ( selbst J. P. Fr. ) Richter machen : so ist er gewiß nicht zu verwerfen . Es ist das Vergleichen u das Unterscheiden dem Menschen so natürlich , daß er keinen Augenblick seines Lebens ohne sie machen kann ; allein das widerspricht weder mich noch meine selige Freundin . Wir wollen nur , daß wir nicht vergleichen wollen , ohne daß wir dadurch unnatürlich werden wollen . So sehr ich eines Teils Ihr prächtiges Gedächtnis bewundere , da Sie " " wie ein schreiben können , so werden Sie sich doch über dasselbe ärgern , wenn ich Ihnen gesagt haben werde , daß Ihr " ferner glaube ' ich daß man unmöglich alle seine Freunde gleich liebt " wenigstens v. mir wäre , wenn ich Ihnen nicht , in meinem aller ersten Brief an Sie , schon viel mehr gesagt hätte ; denn dort heißt es : " Und da man nie zwei Menschen ganz gleich lieben u nie v. zwei ganz gleich geliebt werden kann u. s. w. " Aber ich danke Ihnen doch für Ihre prächtigen Widersprüche ( nicht " Wiedersprüche " ) , sie gefallen mir . Suchen Sie u Sie werden derer finden , mehr als mir Freude machen kann . Car . , ich war einst u sehr lange sehr fromm ; ich versäumte kein war oft selbst dabei u da ich es gut u ehrlich meinte u dabei die Menschen eben so liebte als jetzt d. h. da ich eben so gut war als jetzt : so war ich fromm u glücklich . Sie müssen mir_es glauben , Caroline , ich bin beides nicht , weit nicht mehr so , seit dem ich eines nicht mehr so bin . Mad. Uhlmann hat Recht ; aber Ihr Bild des braven David Friedländers ist doch recht gut u ich glaube , auch - nach dem was ich v. ihm weiß - recht gut getroffen . Allerdings malt jeder Maler sich mit hinein , um so mehr gefällt mir dieses Gemälde eines Mannes , der uns doch wirklich viel Ehre macht . Ob wohl Angelika Kaufmann , der keines Mannes Bild geraten soll - so gut wie Sie mit der Feder malen kann ? In diesem Monat werde ich meinen Thieriot , meinen Richter u u meine Henriette Braun , die aus Paris zurückkommt , bei mir haben . Wann werde ich Sie wieder sehen ? Mein Uhlf. u alles was Mein heißt , dankt Ihnen u grüßt Sie . In Ulf . Gartenhaus bau ich noch immer Luftschlösser mit Lust . Halten S. Wort u malen mir mehr Friedländer mit Ihrem Frieden , in Ihrem friedlichen Lande . Könnt ich Kopien nicht so wenig leiden , daß ich selbst meine eigene nicht mag : so würde ich sagen : " Schreiben Sie mir nicht wenn Sie_es können " ; ab. ich sage u bitte lieber : Schreiben Sie so oft u so bald Sie können u vergessen Sie mich so wenig wie ich Sie. E. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

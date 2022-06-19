@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0632">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 5. April
+                    1805, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 1 Bl. 8°, 5 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1805-04-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0530">Von Johann Siegfried Wilhelm Mayer an
+                        Caroline Richter. Berlin, 14. April 1805, Sonntag</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012761">Tod und Sterben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein geliebter Vater , Es tat mir unendlich weh , daß ich Ihnen am Dienstag nicht gleich antworten konnte , da ich Ihren lieben Brief mit dem Gelde und den Worten Ihrer gütigen Frau nebst dem Nesselgarn erhielt . Er war so reich an erfreuenden Nachrichten für mich , und besonders traf mich die Ihres erhöhten Gehalts ganz eigen , das hoffe ich , Ihrem Alter , noch mehr Bequemlichkeiten , und Lebensgenus zuführen wird . Genießen Sie es aber auch recht eigentlich , mein guter Vater , das ist mein innigster Wunsch , so wie es mich freut , daß Sie dabei der armen Minna denken , die jetzt leider auf die Unterstützung edler Menschen , und auf ihre eigene Kraft angewiesen ist . Ihre liebreiche Sorge , ihr die Tante Merzdorf zu schicken , und deren Güte wie eine Mutter an sie zu handeln , war wohl das Wohltätigste was der Verlaßenen widerfahren konnte , und Gott segne Sie Beide dafür ! Minna hat mir mit sehr vieler Rührung davon geschrieben wie mütterlich die gute Tante sich ihr und ihrer Kinder angenommen hat , daß ich Ihr selber einmal danken und an Sie schreiben werde . Das Schönste was der Minna widerfahren konnte war wohl die Nähe des edlen unglücklichen Mahlmanns der mit so großer Aufopferung seiner Zeit , und seiner Neigung , ihr eine jährliche Einnahme von 400 rth . sichert . Ich gestehe , daß mich diese fortwährende Aufopferung von ihm tief rührt , und mit Ehrfurcht erfüllt , so wie eine Quelle derselben die nichts anders ist , als die ewige Nachfeier des heiligsten Andenkens . ich liebe diesen unseren Bruder , und Ihren Sohn jetzt unendlicher , als ich sonst glaubte , es ist mir als haben wir eine doppelte Verbindlichkeit jetzt , ihn zu schonen , und zu lieben , weil ja sein guter Engel dies in einem Maße tat , wie nicht leicht eine Frau gegen ihren Mann ! O in dieser Hinsicht war das teure Herz , das heiligste Vorbild eines jeden Weibes . Sie haben , mein Vater , wie Sie mir sagen für mich gezittert wenn ich das Schreckliche hören würde ! Doch habe ich es ertragen ! Ach , der Mensch kann mehr als er glaubt - und der hartnäckige Widerstand unserer Naturkräfte gegen unsere Sehnsucht muß wohl sein Gutes haben - und ich bin noch Frau , und Mutter , das Leben fordert noch so viele Pflichten von mir ! aber nie hätte ich geglaubt , daß die Hälfte meines Wesens mit der ich von Kindheit an , das einigste Ganze ausmachte , ohne mich untergehen könnte ! mein jetziger Zustand ist stumpfe Resignation gegen Alles was ich noch verlieren kann . In meiner ehemaligen Ansicht hat sich alles geändert . das künftige Leben scheint mir nicht mehr so fern - ich erwarte den Tod aller meiner Geliebten , meines Mannes , meiner Kinder , nicht mehr wie ein Unglück sondern wie eine Begebenheit , - ich kann mir sogar nicht denken daß der Tod eines Kindes mich in Verzweiflung setzen würde , im Gegenteil , könnte ich in der Vorstellung daß es der schweren Aufgabe zu leben , nun entgangen sei - einen großen Trost finden . - Wann ich mir denke , daß unsere geliebte Tine tief im Herzen einen großen Kummer trug , den kein anderes Glück ersetzen konnte , ich meine ihre Sehnsucht nach einem Kind - so kann ich mich fast freuen daß Gott sich des Engels erbarmte , und ihm Ruhe gab - Wir werden sie wiedersehen ! Sie nehmen Sich so tätig der Angelegenheit meines Mannes an , mein geliebter Vater , daß Er Ihnen nicht dankbar genug sein kann , trotz dem rechnen wir auf nichts - man wird ihn erst würdigen , wenn er nicht mehr ist , wie so viele große Menschen die von ihrer Mitwelt verkannt wurden . Ich gestehe Ihre Versicherung von Beymes Eifer für die Sache , hat uns befremdet , weil die Cabinets-ordre so wenig hoffen läßt , indem sie eine ganze allgemeine Versicherung gibt . Doch sollten Ihre Bemühungen belohnt werden , so wäre es mir lieb - wenn gleich uns kein Mangel drückt . Ich halte es für Pflicht Sie darüber zu beruhigen , mein guter Vater , indem Sie Sich vielleicht die Lage meines Mannes anders vorstellen , als sie ist . Er wird so gut bezahlt als Goethe , und seine Einnahme übersteigt immer seine Ausgaben - obgleich , wie natürlich bei drei Kindern , unsere Haushaltung kostbar genug ist . Doch muß ich mich als Weib freuen , wenn mein Mann , ein freieres Dasein gewinnt , wenn ihm zum erweiterten Lebensgenus etwas übrig bleibt - und er nicht so anhaltend zu arbeiten braucht als er jetzt tut - Er hat nie am Tage einen unbeschäftigten Moment - sogar die Kinder können ihn , in seiner Lebensregel nicht irre machen . Der Brief von der Fr. v Berg den Sie meinem Mann geschickt haben , meint einen den die Königin gelesen haben soll - mein Mann wünscht zu wissen , ob es der vom Prinzen George gewesen sei . Spaldings Besuch traf gerade in die unglückliche Zeit , wo der harte Schlag der uns alle gleich sehr trifft , geschehen war , und ich noch nichts ahnte . Ich vergaß nachdem Ihnen von der großen Freude zu sprechen die sie mir und meinem Mann gemacht haben , eben so wohl durch ihr Erscheinen an sich ; als durch ihre Erzähungen von Ihnen und Ihrer Frau , von der sie mit enthusiastischer Wärme sprachen . Ich freue mich , wenn sie auch einen angenehmen Eindruck von uns mitgenommen haben , wie Sie meinem Mann schreiben . Ich habe sie in Berlin wohl gesehen , doch nicht gekannt und hier musste mich ihr unbefangenes natürliches Wesen unbeschreiblich gewinnen . Übrigens höre ich öfter von Ihnen Beiden , durch eine Freundin eines Fräulein Knebel hier , dem Fräulein Altenstein , das wohl sehr liiert mit Ihnen sein muß - ihre Freundin versichert mich das sie öfter auch von mir sprechen muß und ich habe mich also in Acht zu nehmen . Eben diese Frl. Knebel sagte mir auch , daß Minna nach Berlin ziehen würde . und dies überraschte mich , da ich von Minna das Gegenteil erfahren habe - ich möchte die letzte Schwester bei mir haben , und endlich einmal das Glück genießen mit einem Glied meiner Familie zu leben , was ich so lange entbehren musste . Freilich stellen sich auch mir die Schwierigkeiten dar , die in uns Beiden liegen - Minnas Verwöhnung an interessante Menschen , an den Zerstreuungen des Orts - die in so kleinen Städten nur dürftig zu haben sind . Doch ist es hier wohlfeil und ich bilde mir ein daß Minnas Wünsche jetzt alle getötet sein mögen , bis auf die für ihre Kinder , und denen würde im Spiel mit den meinigen , recht wohl sein . Nun leben Sie wohl mein teurer Vater , wenn Sie können , schreiben Sie mir bald - mir entgeht ja jetzt so viel , und ich verdiene Ihr Andenken . Haben Sie noch einmal Dank für Alles , und Gott segne Sie mit Gesundheit , und Heiterkeit , daß Sie das Leben genießen können . Gott segne meinen Vater ! Ihre Caroline . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

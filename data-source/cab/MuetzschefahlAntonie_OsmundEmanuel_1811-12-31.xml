@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0354">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Antonie von Mützschefahl an Emanuel. Meinigen, 31. Dezember 1811 bis 1. Januar 1812, Dienstag bis Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 3⅓ S. Brief- bzw. Blattnummerierung vfrH.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Mit Tinten- oder Stockflecken. </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date from="1811-12-31" to="1812-01-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <note>Präsentat: am 9ten <hi rendition="#aq">Apr.</hi> 12 | beantw. (Antwort nicht
+                    überliefert.)</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012699">Meininger Gesellschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Lieber guter Emanuel ! Meine Ankunft in Meiningen verherrlichte Ihr Brief , tausend Dank dafür ! als ich diese lieben werten Zeilen beantworten wollte erhielt ich durch Schwester Henriette die freundliche Hoffnung , Sie nächstens bei uns zu sehen und ich zog natürlich den mündlichen Dank jedem schriftlichen vor . Doch jetzt , wo sich die schöne Aussicht immer ferner zurückschiebt , kann ich nicht länger dem Drange wiederstehen Ihnen , Verehrtester ! zu sagen , daß ich mich nach Ihrem Briefe schon in Schlesien oft recht schmerzlich sehnte und daß die Freude , einen Beweis Ihres Andenkens zu erhalten , durch die herzlichste Teilnahme erhöht wurde , die der Vater meines Kindes Ihrer seltenen Teilnahme und Freundschaft bezeugte . Er trug mir auf , ihm und die Kinder Ihrer Liebe aufs herzlichste zu empfehlen . Fischer blieb 14 Tage mit uns in Meiningen ; O wären Sie in dieser Zeit bei uns gewesen !! - - - dann ließ er mir das von sechs einzig übrig gebliebene Pfand seiner Friedericke , die liebliche kleine Caroline zurück und kehrte in seine Einsamkeit nach Breslau weil er glaubt , daß meine Gesundheit einen Winteraufenthalt in Meiningen bedürfe Und nun ist das teure kleine Wesen seit 14 Tagen überaus leidend an einer Drüsenschärfe die sich überall namentlich sehr schmerzhaft am Mündchen als Ausschlag äußert , da liegt nun die Sorge für dies geliebte Leben gar schwer auf mir und der Mut will mir manchmal entsinken . Dazu kommt daß unser vielgeliebter Freund Ernst Wagner seit 4 Wochen an einem faklichem Nerfenfieber hart danieder liegt , es hat sich zwar seit dem 21Tage das Fieber zur Besserung entschieden , allein es liegt in dem epidemischen Gang der Krankheit , ein bis zum Brande auftendes , Aufliegen , welches so schmerzhaft ist , daß es noch zweifelhaft ist , ob er diesen Leiden wiedersteht . Wagner ist von einer so frommen Ergebung und Fassung bei diesen namenlosen Leiden , daß seine Stube mir immer wie ein Geduldsheiligtum erscheint . Seine Kinder pflegen ihn wie die Engel ganz vorzüglich , aber die Tochter Louise dies Mädchen leistet unbegreiflich viel , und zwar mit so zartem Gefühl , so viel Kraft und Freudigkeit , daß es recht wohltuend ist , neben diesem Engel zu stehen Heute ist ein vorzüglich schmerzreicher Tag für den armen Kranken gewesen ! auch war mein kleines Liebchen so weinerlich , daß ich recht von Herzen mitgeweint habe . Nun schlafen die lieben Kranken , es schlägt Mitternacht und ich rufe den ersten Gruß in diesem neuen Jahr Ihnen , lieber Emanuel ! zu : bleiben Sie allen den Ihren Freund und beglücken Sie sich selbst ferner durch die Überzeugung des Wertes den Ihre Freundschaft hat . Gott schütze Sie und Ihr Leben durch seine freundlichsten Engel gebe Ihnen die Erfüllung Ihrer liebsten Wünsche und segne dadurch Ihre treue Freundin Antonie N Im Hause meiner lieben Geschwister ist alles wohl , sie empfehlen sich mit mir Ihnen und unseren herrlichen Freunden Richters . Heims sind allerseits wohl . Ich bin sehr müde vom Sorgen und Weinen und doch kann ich nur schreiben wenn mein Kind schläft . NS . Ehe ich den Brief abschicke kann ich Ihnen lieber Emanuel noch die freundliche Versicherung geben , daß Wagner eine sehr ruhige Nacht hatte und daß die Ärzte wegen den Schmerzen des Aufliegens keine weitere Störung der Genesung befürchten . Auch macht mein Leinchen heute ziemlich gut . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

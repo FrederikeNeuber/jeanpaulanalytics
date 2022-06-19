@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0789">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Bayreuth, 13. Juni 1808, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Jean Paul Museum Bayreuth</institution>
+                        <collection/>
+                        <idno type="shelfmark">Hs JP 26-2</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 2 ½ S. S. 4 Adr. Herrn | <hi rendition="#aq">
+                              <hi rendition="#u">Emanuel</hi>
+                           </hi>. Siegelreste;
+                                    Briefnummerierung vfrH.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Mit Doppelklammern vfrH, offenbar zur Kennzeichnung auszulassender Passagen für eine Drucklegung
+                    des Briefs, meistens Personen- und Ortsnamen. </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1808-06-13" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <note>Präsentat: 13 <hi rendition="#aq">Juni</hi> 8</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Guten Morgen , lieber Emanuel ! Es schläft noch alles um mich her , so daß ich in der schönen heiligen Stille des Morgens Sie ungestört begrüßen kann . Daß wir Sie gestern am Abend verfehlten , hat uns Alle schmerzlich betrübt ; ein sonderbares Zusammen treffen Macherlei Umstände hielt uns über die gewöhnliche Zeit - trotz der unfreundlichen Witterung in der Harmonie auf , und darüber wurden wir gestraft weil der Freund kam und ungesehen von uns wieder ging . Sie glauben es mir aufs Wort Einziger , daß ich gerade gestern , nach der heiligen Stunde am Morgen , noch einige Minuten am Abend an diese angereiht hätte . Wer sich durch offene Mitteilung so nahe wird , wie wir uns da waren wie gern wiederholt man dann nicht den Dank dafür . Ja , Emanuel , Sie sind ein außerordentlicher Mensch ! ohne Zweifel sagte dies schon öfters die Freundin dem Freunde , es ist also bloß ein fortgesetzter Zuruf . Aber dadurch , daß ich der Erfahrungen im Leben so viele machte , daß ich der edlen Menschen viele kenne , und daß ich aus der Mitte dieser Sie Einzig heraushebe in der Vollendesten Individualität , in sofern soll es mehr als Wiederholung für Sie sein -- Ungeachtet ich Ihr tiefes Gemüt und Ihr frommes kindliches Herz noch nicht ganz begreife , so fühle ich doch bestimmt , daß ich mich zu beiden erheben kann , und darum ist mir Ihr Wesen so teuer , Ihr Umgang so wert . Es kann auf ein Erden kein höheres Verhältnis geben , als die Freundschaft über Zeit und Raum über das Geschlecht reicht sie hinaus ! -- Ich bitte Sie , geliebter Freund , geben Sie mir so viel Zeit als es sein kann während meines Hierseyns. S Eid Sie mich näher kennen , bedarf diese Bitte keiner weiteren Erklärung . Ich werde Sie wöchentlich einigemal besuchen , weil ich Sie am ungestörtesten in Ihrem Hause sehen kann , und ich überhaupt mit einem Manne Ihrer Denkart am liebsten allein bin . Sonderbarer Weise sagte ich das letztere noch keinem Manne , es lag nicht an meiner Freimütigkeit aber an der Berichtigung meiner Begriffe . Heute am Morgen gehe ich mit Dovenek zu Langermann , meine Nacht war abermals schlaflos weil mein fatales Herzklopfen mich erst am Morgen Vielleicht bringt Sie der Nachmittag in meine Nähe , zur häuslichen Caroline und zu Ihm , ich werde Sie dann sehen , oder erst am Abend , Sie heute gar nicht zu sehen , diesen Gedanken kann ich in diesem Augenblick nicht ertragen . Antonia grüßt , darf Pauline auch ohne die Mutter zu den schönen Spielsachen und zu dem Edlen Geber kommen ? Mit Liebe sehe ich einigen Zeilen von Ihnen entgegen , ich werde öfters schreiben , jedoch mit Rücksicht daß der Geschäftsmann dem Freunde zuweilen die Antwort erschwert oder gar unmöglich macht . Noch einmal , Guten Morgen Einziger ! Henriette . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

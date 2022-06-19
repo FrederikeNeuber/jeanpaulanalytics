@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1012">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Heidelberg, zwischen 11. und 20. Mai
+                    1821</title>
+            <respStmt>
+               <persName>
+                  <surname>Hartmann</surname>
+                  <forename>Dürten</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bearbeiterin</note>
+               </resp>
+            </respStmt>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S.</p>
+                        <accMat>Joseph Anton Hennes "Ankündigung, Plan und einige Proben des
+                                    bardischen Heldengedichtes: Diviko und die Römer am Leman in
+                                    allemanisch-hochteutscher Mundart, in 40 Liedern", Heidelberg
+                                    1821.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Die
+                    alR sichtbare Markierung der kompletten S. 2 mit braunem
+                    Stift stammt von der Hand Jean Pauls, vgl. sein <ref type="letter"
+                    subtype="text"
+                    target="3-VIII_180"
+                    corresp="#117-4">Billett vom 22. Mai 1821
+                        an Emanuel</ref>.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date notBefore="1821-05-11" notAfter="1821-05-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName cert="medium" key="JP-003491">Odilie Minna Richter</persName>
+               <persName cert="medium" key="JP-003471">Emma Richter</persName>
+               <persName cert="high" key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev"
+                    target="https://www.jeanpaul-edition.de/brief.html?num=VIII_175">Von Jean
+                        Paul an Max Richter. Bayreuth, 10. Mai 1821 bis 11. Mai 1821</ref>
+               <ref type="next"
+                    target="https://www.jeanpaul-edition.de/brief.html?num=VIII_178">Von Jean
+                        Paul an Max Richter. Bayreuth, 20. Mai 1821</ref>
+            </correspContext>
+            <note>Möglicherweise Schlussteil des ebenfalls <ref type="letter" subtype="document" target="4-VIII_106">vor dem 20. Mai 1821 verfassten Briefes von Max Richter
+                        an Jean Paul</ref>. </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Daß der Vater mit der Drohung mir entgegenkommt , wenn ich mehr als er glaubte hier verbrauchen würde , von hier mich wegzubringen , also wenn ich recht schlecht mit dem Geld umgehen u liederlich werden würde , hat mir recht weh getan . Wenn er gewußt hätte , daß ich mir täglich einen Fehler u gar einen solchen abzuwerfen strebte , er hätte es nimmermehr sagen können . - Doch genug , Einer weiß , was jeder Mensch tut u sein wird . - Jeder Student braucht hier wenigstens 5 oder 600 fl . Das kannst Du u sollst nicht von mir erfahren , jeder redliche Mann kann Dir dies versichern . Nach diesem Verhältnis kann man alles ermessen ; wenn gleich ich nicht danach leben kann . Die collegia allein kosten vielen 100 fl . ; bei mir ist dies bloß Freundschaft zb . von Seite Kreuzers u Vos , daß ich die collegia frei habe . Du kannst nicht denken , wie mich solche Gedanken ärgern könnten , wo mir jeder Bissen , den ich nicht verdiene , sauer wird u ich doch essen muß , um zu leben . Ich weiß selbst , nicht Male mir euch alle viel schrecklicher vor , als ihr seid ; ihr denkt gewiß recht böse von mir , von einem Menschen , dem Geld in die Hände gegeben ist und der eben weiter nichts zu tun hat , als an dem Tag dies zu essen , u an jenem das u allenfalls noch die Miete zu bezahlen und die Collegiengelder . Das wäre dann eine Sache für einen Juden , der mit dem Gelde selbst handelt ; lieber will ich künftig in die Sklavenfesseln treten , als jetzt nicht ganz frei zu sein . Mit dem Lernen ist_es noch nicht getan ; das ist ein leichtes Werk . Doch auch hiervon genug . Deutet mich nicht falsch , ich meine es nicht bös . Ich möchte wohl einmal bei einer Türritze hineinsehen , wenn ihr meinen Brief bekommt , was für Scheltungen ihr ausstießet . Aber recht freuen will ich mich , wenn ich einmal ganz unerwartet ohne nur mindestes Wissen zur Türe hereintrete . - Doch noch von einem Punkt habe ich zu sprechen , von dem , der ihn hersetzt - von der Feder ; durch ein gewaltiges Stunden langes Schreiben in den Kollegien wird meine Hand immer mehr verschrieben u da kommt es mir hart an , um wieder in das Schönschreiben zu kommen . Ist das Dessauische Stipendium schon besorgt ? danach habe ich schon lange gefragt . Die alte Voss leidet noch immer ; auch die Paulus liegt noch . Die Bläue ist hier in bleuerer Farbe sichtbar und wir Alle glauben , einen schönen Sommer zu bekommen . Eine Rheinreise aber verlangt auch ein Rheinleben im Dezember . Grüßet Alle den lieben Emanuel u Otto . Hat Lairitz wohl den Brief von Carové erhalten ? Er muß sogleich mit der Abreise des Vaters beantwortet werden . Hier schicke ich eine Ankündigung eines Heldengedichts von einem meiner Freunde , Henne , einem trefflichen Menschen ; Briefe über den Divico sollen nachfolgen ; E in armer Mensch , von Allen verlassen , bittet er Dich , geliebter Vater , zu Subskribenten zu verhelfen ; eher aber sprich nicht davon , als ich die Briefe geschickt habe . Salis , in Zurch , Schwarz in H. sind seine einzigen Freunde ; von ihm als Menschen zu sprechen , halte ich für überflüssig . Ich will mit diesen paar Bogen die Sache noch nicht vorgerückt sehen ; dies kann erst in einigen Tagen geschehen , wo ich mehr darüber sprechen kann . Dies nur zum voraus . Lebt wohl , Geliebte , ihr Schwestern alle . Grüßt alle Freunde . An den Rendanten werde ich bald schreiben . Grüßet seine Familie . Lebt wohl .Schonet meiner u Vergebt ! E. M. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

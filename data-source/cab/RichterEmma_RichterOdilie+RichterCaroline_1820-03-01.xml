@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0178">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Odilie und Caroline Richter. Konradsreuth, zwischen 1.
+                    und 8. März 1820</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBM Monacensia</institution>
+                        <collection/>
+                        <idno type="shelfmark">Förster, Emma A I/1</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S., 1. S. an Odilie Richter, 2. S. an Caroline
+                                    Richter.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <date notBefore="1820-03-01" notAfter="1820-03-08" cert="low"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0064">Von Caroline Richter an Emma Richter.
+                        Bayreuth, 29. Februar 1820</ref>
+               <ref type="next" target="JP-UB0237">Von Caroline Richter an Emma Richter.
+                        Bayreuth, 9. März 1820</ref>
+            </correspContext>
+            <note>Zur Datierung: Antwort auf Caroline Richters ersten Brief vom 29. Februar 1820
+                    an Emma in Konradsreuth; abgefasst vor Carolines zweiten Brief vom 9. März
+                    1820.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012317">Musik</term>
+               <term corresp="#JP-012033">Textilien</term>
+               <term corresp="#JP-012814">Freunde der Kinder Jean Pauls</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebter verehrter Diez ! Kaum kann ich meinen Dank und mein Erstaunen über Deinen charmanten Brief sagen . Mein kleiner Wisch verdiente einen solchen Brief nicht . Die Gitarre vermisse ich hier etwas , aber vergessen habe ich noch nichts davon , daß kannst Du Hrn. Götz zum Trost sagen . Den Kindern Lehre ich einige Klavierstückchen , und die Tasten wissen sie jetzt schon alle . Hat die Mutter wohl von der Musseline rau die ich ihr geschickt , Zeug gekauft , und sind neue Vorhänge in der großen Stube ? Fritz R. den ich fragte , wußte nichts davon . Du glaubst nicht , werter Diez , wie untertänig Reizenstein hier gegen mich ist . Er nennt mich nicht wie sonst Emma , sondern gnädiges Fräulein , und macht tausend Diener . Grüße Fanny recht herzlich , und sage daß ich an Luisen schriebe und da ich sie für Eins hielt , es unnötig fände , an dieses Eins zwei Briefe zu schreiben . Thienette wollte mich malen , ich weiß nicht ob sie es noch tut . Sage der Mutter daß sie F. Giech recht herzlich von mir grüßt , und tue Du dasselbe bei den anderen Mädchen . Wie schön weißt Du die Sehnsucht nach der Vorleserin unter das Vorlesen zu verstecken ! Deine Ebbe . Es ist mir unbegreiflich daß Max noch nicht das Paket bekommen hat , wenn es nur nicht ganz verloren ist . Hat der Vater noch oft bei dem Prinzen gegeßen ? Was schreibt denn die Großmutter und Emma ? Hier erzählt man viel von der Schubert . Muts ist todkrank . Es wäre eigen , wenn auch dem Himmel eine Verbindung nicht gefiele , die den Menschen so sehr mißfällt , und er sie durch den Tod trennen wollte . Fritz Reizenstein ging heute nach Losau . Der Unbedeutendste kann einen wichtig werden , wenn er aus einer lieben Gegend kommt . Gestern war ich ganz toll vor Freude wie er kam , und Alles was er von Baireut wußte , mußte er mir erzählen . Hier ist Alles verschneit , und kaum durchzukommen , ist das in Baireut auch so ? Grüße Otto's und Emanuels recht recht herzlich , und der kleinen Therese einen recht liebenden Kuß . Dem guten lieben Vater viele Küsse und Grüße , er wird es vergeben daß ich nicht an ihn geschrieben , aber es ist all ja einerlei ob ich an Dich oder dem Vater meine Briefe richte . Lebe recht wohl geliebte teure Mutter , und habe Dank für Deinen Brief , und wenn es möglich ist erfreue mich durch einen zweiten Emma . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

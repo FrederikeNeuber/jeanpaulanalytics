@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0051">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, 26. März 1821, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl. 8°, 8 S.</p>
+                        <p> Neben dem Datum mit Bleistift vfrH: 1</p>
+                        <accMat>
+                           <p>
+                              <ref type="letter" subtype="document" target="3-VIII_163">Jean Pauls Brief vom 26. März 1821.</ref>
+                           </p>
+                        </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1821-03-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="4-VIII_96">Von Max Richter. Heidelberg, 20. März
+                        1821</ref>
+               <ref type="next" target="JP-UB0665">Von Max Richter an Caroline Richter.
+                        Heidelberg, 4. April 1821</ref>
+               <ref type="next" target="JP-UB1009">Von Max Richter an Caroline Richter.
+                        Heidelberg, 11. April 1821</ref>
+            </correspContext>
+            <note>
+               <ref type="letter" subtype="document" target="3-VIII_163">Mit der von Jean
+                        Paul formulierten und von Caroline Richter niedergschriebenen Nachricht,
+                        dass der Vater nicht eher antworte, bis Max seine Handschrift verbessert
+                        haben würde.</ref> Zur Datierung: Caroline Richter irrt sich in der
+                    Jahreszahl; richtig heißt es 1821. </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011893">Berufliches</term><term xml:id="JP-012692">Bildung</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-011832">Gesellschaftliches Leben</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012430">Religion</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebter Max ! Heute kam Dein letzter Brief mit dem der guten Tappig . Es ist Sonntag - und Briefe von den Unsrigen erfreuen nie mehr als an diesem Tage stiller Feier wo man Belohnung für vollbrachte Pflicht vorzüglich in den Freuden des Gemüts findet . Du machst uns immer die Größte , das kann sich ein guter Sohn denken - fahre nur immer fort uns mit Dir leben zu lassen , und so , uns für die Entfernung zu entschädigen . Dein vorletzter Brief trieb mich jedoch mehr als Dein heutiger zum Schreiben an da er weitläufiger und besondere Zustände bezeichnend , welches bei dem Letzteren nicht der Fall war . Du konntest seiner Bestimmung des ( Glückwünschens wegen , nicht gut andere Gegenstände berühren , und hattest Dich ja auch kürzlich erst ausgesprochen . Was ich empfinde mein geliebter Max bei Deinen Herzensergießungen kannst Du Dir denken und da Du wie mir_es verständlich wird , auch gern mein Urteil hören magst so sage ich Dir , daß ich Dich in einem etwas krankhaften Gemütszustand glaube . Dein religiöses Gefühl ist , unendlich wohltuend für meine Seele ich finde Dich darin ganz auf dem Punkte den ich längst wünschte , und ich segne Deine gottergebene Stimmung - allein mit tiefem Schmerz würde es mich erfüllen wenn Du zum Träumer , zum Selbstgeißler würdest - wenn Du Dich Sünden anklagtest wo Du rein - gut - rechtschaffen bist - wenn Du nur in einer gewissen frömmelnden Stimmung die wahre Religion setztest . Der Umgang mit Feuerbach macht dem Vater und mir Unruhe - auch muß ich es Dir sagen daß Heinrich Voß besorgt um die Gesundheit Deiner Seele an den Vater geschrieben hat . Du , ein unschuldiges und keinem Bösen vertrautes Gemüt - vielleicht nur zuweilen weniger gesammelt eine Würde durch alle Verhältnisse durchzuführen die Deine Seele mit Inbrunst liebt und erwählt hat - vielleicht zuweilen noch schwaches Kind gegen das Ideal das Du dir vorgesteckt hast - wirst doch nie mit einem einst in Leichtsinn und Wildheit versunkenen Gemüt Dich vergleichen wollen , was sich später nur am Christentum wieder aufgerichtet hat , und nun den Gottesdienst mit Buße anstatt Du mit heiterer Zuversicht ) verrichten muß . Ich weiß das Feuerbach mit seinem Bruder in Erlangen ein wüstes Leben führte bis Kanne's ernste feierliche Erscheinung ihn ergriff , die um so mächtiger wirken mußte als so viel edler Stoff in ihm war . Nein , Max laß Dich nicht übertäuben von seiner hinreißenden Darstellungsgabe , such nicht im Märtyrertum Tugend und Größe . Bleibe ein edler Mensch suche immer mehr es zu werden liebe Gott und Christus über Alles , aber verliere nie den Glauben , daß meine Güte vorwurfsfrei mit Dank und Heiterkeit sich zu Gott erheben darf . Grüble nicht nach Setzungen sondern halte Dich einzig und allein an die Bergpredigt Christo . Bilde Dich in Allem was vom Schicksal Dir dargeboten ist verachte keinen Zweig des Wissens ehre Gott indem Du die von ihm geschenkten Kräfte übst betrachte jedes Fortschreiten selbst , als eine Gabe von Ihm , dem Allgütigen , diese Demut und kindliche Dankbarkeit ist es freilich , die dem Höchsten und ausgezeichnetesten Wissen die Krone aufsetzt und mit Rührung muß man ein solches Gemüt anbeten . So wirst Du einst sein , mein Sohn , wenn Du die schönen Gefühle die Dich jetzt beherrschen bewahrst ohne die Ausbildung Deiner Fähigkeiten hintanzusetzen die auf welchem Standpunkte Doch auch seiest ob Staatsmann , Gelehrter , oder Prediger Dir Veranlassung geben wird , Christus zu predigen . O wüßtest Du welch ein frommer Mann der Vater meiner Mutter war , obgleich Jurist ( der seel. Geheime Tribunalsrat Germershausen ) doch ein Diamant für seine Freunde und seine Familie - mein Vater , wenn gleich mehr philosophisch als gläubig aber welch ein edles Beispiel war sein Leben . Lies doch die Stunden der Andacht , Dräseken es Predigten , das ist wahres reines nicht kränkelndes Christentum und das ist es was ja auch meine Seele beruhigt , erfüllt , und befriedigt . Was ich bis jetzt geschrieben teile aber niemand mit - ich habe nicht Zeit meine Gedanken regelmäßig zu ordnen und schrieb im Erguß des Gefühls , die Mutter an den Sohn , im Vertrauen nicht gemisdeutet zu werden , ganz anders sieht ein kaltes prüfendes Auge . Auf Deine Reise freue ich mich , wie wenn ich sie selber machte . Grüße nur den vortrefflichen Hofrat Jung recht vom Vater und mir . Vielleicht sind auch seine Söhne bei ihm . Thieriot hat lange nicht an Emanuel geschrieben , Dich wird er mit höchster Liebe empfangen - überhaupt wohin Du kommst findest Du Freunde und Eltern . Der alte ehrwürdige Major von Knebel schrieb neulich seiner Nichte , der Fräulein Knebel hier ; warum der Vater Dich wohl nicht nach Jena geschickt er würde gesucht haben " den Vater in Dir zu ehren " . Schwarz liebt Dich außerordentlich auch gegen die Ende , nannte er Dich des Vaters vortrefflichen Sohn . Daß Du vorlesen mußt bei der Fr v. Zillinghardt freut mich sehr , oft wirst Du dabei Deiner Mutter gedenken die auf eine Fertigkeit darin einen so hohen Wert legt . Du wirst jetzt wieder Geld brauchen Herzens Max , sage es nur so bald als möglich , wie Du mit Deinen Finanzen stehst . Der Vater bekam vorgestern 900 fl von Cotta nachgezahlt auf die Lewana . Das liebe Väterchen ist jetzt recht heiter - ich unterstütze diesmal sehr seine Reiseplane , sollte ich auch darüber die meinigen aufgeben müssen , den nach diesem trüben herben Winter und dem drohenden Lungenübel ist eine Erheiterung der Art recht unerläßlich . Wohin es aber geht , das mein Max ist noch ganz unentschieden . Am Freitag kommt der junge Welden auf 4 Wochen und die herrliche Luise für immer zurück . Eine Bibel mußt Du Dir kaufen , da wir die Unsrige nicht entbehren können . Den Niebuhr erhalte mir aber ja , er ist von meinem Vater , und alles von Ihm ist mir heilig - immer mehr verklärt sich das Andenken dieses herrlichen Mannes in mir - Die Mutter ist seit vergangenen Herbst in Berlin , sie ist immer sehr liebend , und schenkte nach Weihnachten der Emma und Odilien ein nettes Kleid . Sie ist recht edel und gut , schreibe ihr einmal , es wird sie sehr freuen . Die arme Schuckmann ist nach einem Nerven Anfalle sehr sehr geistesschwach geworden . Otto ist in seiner neuen Laufbahn , die er jedoch nur provisorisch auf 1 Jahr angetreten hat noch nicht recht glücklich . Seine Bestimmung ist die eines Staatschriftstellers mit Rot , Bahrt , etc. gemeinschaftlich - Die erste Aufgabe ist dem Landtage vorzuarbeiten . Schreibe ihm einmal er logiert bei Herder das beste wäre den Brief bei M Lerchenfeld abgeben zu lassen . Du bist ja eine Art Sohn für ihn und auch Amöne liebt Dich sehr . Noch immer ist sie hier , und bleibt es auch vielleicht noch ein ganzes Jahr bis Otto sich zwischen der alten Freiheit und Einsamkeit oder der staatsbürgerlichen Tätigkeit fest entschieden hat . Das Verhältnis unter uns , ist immer das Alte , nur erlaube ich mir jetzt mehr ohne ängstliche Rücksicht auf sie das Angenehme was ich durch meine Verbindungen habe zu genießen , da sie ja auch glücklich ist , oder es wenigstens sein könnte . - Otto bekam gerade in dem Moment wo er jenen Ruf erhielt sehr ehrenvolle und einträgliche Verhältnisse mit Buchhändlern , namentlich mit Perthes die allein ihm eine sehr angenehme Existenz sicheren können . Schreibe einmal an den Rendanten , er ist betrübt , da Du es versprochen . Das Blatt vom Vater sollte ich nur abschreiben doch fand ich für gut es Dir selbst zu schicken - Du wirst gewiß gern des Vaters Bestimmtheit willfahren - wahr ist es daß Deine Hand wirklich nicht gut zu lesen ist - schreibe nur an den Vater mit Muße , Schicke Deine Rechnung ein , ich fürchte immer Du möchtest aus falscher Scham in Verlegenheiten geraten . Nun lebe wohl mein Max grüße die edlen Vossens aufs ehrfurchvollste ich drücke Dich an mein Herz und flehe zu Gott um Segen für Dich . Deine Mutter . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

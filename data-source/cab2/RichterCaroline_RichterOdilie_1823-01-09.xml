@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0084">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 9. Januar 1823, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 2 S. </p>
+                        <accMat>Zehn Gulden. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1823-01-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Liebe Odilie ! Gestern war ich untröstlich . Heute erwache ich wieder zur Freude , weil eine zweite eben so schöne Gelegenheit sich gefunden hat . Die Gräfin Giech reist morgen früh nach Schlitz zu ihrer Tochter . Ihr Kutscher Fuhrmann Schwarz aus Baireuth kehrt in 5 Tagen von dort zurück . Ich baue darauf , daß die Pfarrers Tochter von der Du gestern schriebst , gern die Gelegenheit ergreifen wird , für 3 fl. nach Baireuth zu reisen und Du gibst 5 . - Der Kutscher tut es ohne alles Trinkgeld . Es wäre freilich entsetzlich wenn dieses Mädchen nicht mitreisen möchte . In jedem Fall , könntest Du nur eine weibliche Bedienung finden ! Oder wäre_es ein alter Herr - Bitte Auguste , daß sie Dir darin beisteht , und auch im bairischen Hofe nachfragen läßt ob nicht eine Dame , eine Gelegenheit sucht . Findest Du eine zuverlässige Gesellschaft , so mußt Du kommen , unmöglich kann Herr Heine etwas dagegen haben . Ich bitte Auguste flehentlich all ihren Einfluß anzuwenden . Reisest Du , so lasse Dir ja , da der Wein unglücklicherweise ausgelaufen ist , eine ganze oder halbe Bouteille holen , damit Du unterwegs etwas stärkendes hast für unterwegs das muß sein . Hier hast Du noch 10 fl. zur Reise , ich nehme 6 xr damit Du beim wechseln nicht zu kurz kommst wie ich ungefähr berechnen kann , daß Du noch brauchen wirst . Das Kostgeld für die 14 Tage , werden wir mit den großen Rechnungen Herrn Heine zustellen . Gott geleite Dich sicher zu uns . Beruhige uns durch eine schnelle Antwort , wie es mit der Pfarre Tochter ist . Deine Mutter . Alle Menschen denen ich mit so vielem Triumph gesagt daß Du zurückommst sind ganz bestürzt . Der Geldbeutel ist auch gut für unterwegs . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

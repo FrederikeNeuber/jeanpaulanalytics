@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0867">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 4. März 1808,
+                    Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/618, Bl 5-6</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3¾ S.</p>
+                        <accMat>Bd. 1 von Wagners "Reisen aus der Fremde in die Heimath",
+                                    der seinen Kunstschulplan enthält. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-03-04" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0879">Von Friedrich von Müller an Johann Ernst
+                        Wagner. Weimar, 23. Mai 1808</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-013231">Johann Ernst Wagners Kunstschulplan</term>
+               <term corresp="#JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein verehrtester Freund ! Die Vergangenheit , welche zwischen dem Zeitpunkte als ich Sie zum letztenmal in W. ans Herz drückte , und der Gegenwart liegt , scheint mir in diesem Augenblicke wieder in gar mancher Hinsicht so groß und merkwürdig , daß ich sie nicht weiter zu berühren wage . Ich war übrigens , ach , sehr oft bei Ihnen , reiste mit Ihnen fort , betrat mit Ihnen den Louvre und war an Ihrer Seite entzückt und traurig . - O mit welchen großen Momenten hat sich unsere Zeit gefüllt ! - Sed transeat ! Ganz warm aus der Presse erhalten Sie hier , Verehrtester , den ersten Band meiner Reisen , den der Verleger mit meinem in der Tat wohlgetroffenen Bildnisse aus der Müllärschen Werkstatt in Stuttgart ) geziert hat , und dem hoffentlich Michaelis der 2te und letzte Band , an dem ich jetzt arbeite , nachfolgen wird . Nehmen Sie mich und alle meine Fehler und meine Verzeihlichkeiten freundlich auf ! Lesen Sie in einer heiteren Stunde den von S. 405. an dem Werke angehängte Kunst-Schul-Plan . Mißfällt er Ihnen nicht - dann , Bester , lesen Sie ihn mir zu Liebe noch einmal , und dann auch den nun folgenden Teil dieses Briefes , der Ihnen jetzt noch unverständlich sein müsste . - Und dann , Trefflicher , bitte ich um Ihre Teilnahme . Das Werk wird mit den von heute an folgenden Posten nun postfrei in alle darin angegebene Welt versandt , und die ganze Sache kann mich , mit dem Buche , wohl auf 200 rth . und mehr zu stehen kommen , da ich über 100 Exemplare kaufen und versenden muß , ohne gegen Jemand eine Indiskretion irgend wagen zu dürfen . Wenn gleich mein Honorar mir dieses abwirft , so sind doch meiner Kinder drei , und mein Leben ist kurz . Allein - wer handelt nicht gern für die Kunst ? Weimar ist für meine Hoffnungen ein wichtiger Ort . Mit dem nächsten Posttage sende ich an die dortigen Gelehrten und in der Folge auch an den Herzog die nötigen Exemplare ab . Aber jene gelehrten Männer - sie sind schwerlich meine Männer . Ich bedarf eines Mannes , der Gelehrter , Dichter , Staatsmann , liebenswürdiger Mann , warmer ästhetischer freundlicher Mensch zugleich ist , und einen selbstständigen , sich selbst vertrauenden freien Unternehmungsgeist besitzt . Und diesen - verzeihen Sie , edler Freund , daß ich dies Ihnen selbst sage - diesen glaube ich an Ihnen gefunden zu haben . Und die Welt glaubt ja dies mit mir . Ja , Ihr schönes Menschenbild steht in diesem Augenblicke wieder so lächelnd , in so jugendlicher Frische und Tätigkeit vor mir , daß ich nicht zweifle , Sie werden in Weimars schönen Kreisen eine so große Sache freundlich vertreten , sobald Sie Selbst sie gut gefunden haben . Es wäre höchst überflüssig , wenn ich Sie um etwas Spezielles bitten wollte , da der Plan hierüber alles enthält - auch wenn ich Ihnen meine übrigen Hoffnungen und Versprechungen hererzählen wollte , die mich mutig machen . Sie wissen schon , wie fest alle Inspirierte ( wozu auch ich freilich in dieser Sache des seligen Glaubens gehöre ) auf den Ausgang ihrer Plane bauen . - Nur eine Bemerkung erlaube ich mir zu machen . Ich wage es nicht , Sie um direkte oder eigentlich öffentliche Verwendung für sie Sache zu bitten . Denn eine schöne , längstgemachte Reputation ist mir so ehrwürdig , daß ich es für unzart halte , die Verwendung zu erbitten , wo man - falls der Unternehmer scheitert , doch gar leicht auch über den öffentlichen Verwender die Achseln zucken könnte . Allein mündlich , in der Gesellschaft ( ich möchte sagen : im Scherz oder Spaß , wenn mir selbst nicht die Sache außer allem Scherze wäre ! ) könnten Sie sehr viel für das Unternehmen tun . Und wirklich ist die eigentliche erste Anlage zur Realisierung des Unternehmens doch in der Tat - nämlich bis zu dem Grade von Teilnahme , worum im Plane selbst gebeten wird - in jeder Stadt höchst leicht , angenehm und unbeschwerlich , weil ein redlicher Verwender wohl überall einen braven Mann finden wird , der - Geld annimmt - und weil auf der anderen Seite 1 ggl . Revenüen- und 10 ggl. Gründungsbeitrag ( und weniger ! ) hier im Grunde die allgemeine Teilnahme eben so sehr befördern können , als dort 10 ggl. und hier 10 rth . - Die Hauptsache bleibt mir vor der Hand : das wirkliche Handeln für die Unternehmung , ( die wirkliche Anstellung eines Empfängers , und dies wo möglich durch einige kleine Beiträge ) und die baldmöglichste öffentliche Anzeige davon durch den Druck . Also : ich sprach vom Spaß . - Angenommen , in einer Abendgesellschaft behauptete ein Mitglied : z. B. des armen Minchens Geschichte in meinen Reisen sei doch nicht so übel und habe ihm gefallen - und mein Plan sei doch wohl den heutigen Ertrag des Whist- oder Hombreabends wert . Man vereinigte sich , heute ein wenig zu hazardiren und Jedermann wollte wenigstens nichts gewinnen . Angenommen ferner , der Ertrag dieses Abends gäbe von allen Spieltischen z. B. 12 Laubtaler , so sendete man einen davon sogleich an einen schicklichen rechtschaffenen Mann ; ( i. e. man wählte dadurch einen Kommissär der Stadt W. , der nun gleichsam genötigt wäre , sogleich die Eröffnung der Subskription öffentlich anzukündigen - und von diesem Augenblicke liegt dann W. ruhig vor meinem Blicke da , und 1/51 tel meiner Sache ist vorerst in meinem Sinne so gut als gewonnen ! ) die 11 übrigen rth . ( oder 9 - denn alle Einsendungen müssen ganz postfrei gemacht werden ) ließe man jenen Mann an andere Städte versenden z. B. einen an Herrn Rat Becker in Gotha , einen an die Frau Kanzlerin von Beulwitz in Rudolstadt , Frau Konsulentin Bergner in Coburg , Herrn Leg. Rat J. P. F. Richter in Bayreuth , Herrn Engelmann und Banquiers Chiron Sarasin in Frankfurt u. s. w. - Angenommen endlich , das Spiel wäre bei Hofe , beim Punsch pp und ein gewisser Grosser täte einen tüchtigen Griff in die Tasche , und es fände sich am Ende die ungeheure Summe von ZE . 70 rth . - dann könnte der Wische Kommissär an jede der übrigen 50 Mutterstädte ( nach meinen , oder noch besser nach eigenen dort bekannten Adressen ) 1 rth . einsenden , dadurch aber wirklich die Eröffnung der allgemeinen Subskription bewirken , und den Rest in seine eigene Wische Kasse legen . - Wäre dies - ich schwöre es bei Gott - so wird dieser hehre Lärm unser kunstfreundliches Volk aufrütteln ! Und diese Sache wird wachsen - und auf dem eigentümlichen Grund und Boden der Schule will ich mich noch hin auf die ersten Bausteine setzen und jubilierend singen und sinken und sterben ! Ist nun ( in der Folge besonders ) von Unterstützung der Sache im Ernste die Rede - da sei es fern von mir , jemand zu bereden oder zu bitten . Denn da muß jeder Mensch in seinen eigenen Busen greifen , und fühlen , ob ihm die Sache wert sei oder nicht . Allein Bitten , wie meine obige , bei Ihnen zu wagen , dazu haben Sie mir durch Ihre eigenen Wohltaten ein schönes Recht gegeben . Ich habe noch in den 4 wichtigsten Städten des Norden und Süden treffliche Freunde . Aber doch - scheint mir Weimar eine der allerwichtigsten ! Ich lege Ihnen das Exemplar des Herzogs , nach besserem Überlegen sogleich an . Benutzen Sie es zu diesem oder einem anderen Zwecke , je nachdem Sie die Fragen ob ? und wann ? zu entscheiden für gut finden . Bekommen muß er freilich eins , wenngleich die Sache als bloße Privat- und National-Sache gehalten ist . Er ist der kunstfreundliche Fürst Deutschlands . An Ihre verehrungswürdige Gattin , meine teure , wunderfreundliche Wohltäterin und an den lieblichen Adalbert meine wärmsten Grüße . Lassen Sie mich , edler Freund , bald ein Wort der Hoffnung lesen ! Ewig in der glühendsten Dankbarkeit Ihr treuersterJEWagner N. S. Ich bin erschrecklich lahm - doch fidel , wie ein Eichhorn . Oft springt der Geist plötzlich lustig vom Stuhl auf , und - wirft schnell den irdischen Leib so hart an die Erde , daß Weib und Kind jammernd herbeispringen , bis ich sie endlich wieder zu lachen mache . ( Unter uns gesprochen : die Zueignung des Buchs ist an die Fr. v. Wertern und mein August ist Studniz in G. - Der 2te Band wird fast bloß romantisch werden , wenn ich ihn zu endigen noch Kräfte behalte . ) </p>
+         </div>
+      </body>
+   </text>
+</TEI>

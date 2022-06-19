@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0968">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Arnold Brockhaus an Friedrich Bornträger. Altenburg, 30. August 1811, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Brockhaus, Leben 1, S. 221, S. 260-263
+                            (unvollständig).</bibl>
+               </witness>
+            </listWit>
+            <p>Zusammengesetzt aus einzelnen, in Brockhaus, Leben 1 abgedruckten Briefauszügen; die genaue
+                    Reihenfolge der Passagen ist nicht bekannt. </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000501">Friedrich Arnold Brockhaus</persName>
+               <placeName key="JP-005521">Altenburg</placeName>
+               <date when="1811-08-30" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012599"> Johann Friedrich Wilhelm Bornträger</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012212">Liebesleben / Ehe</term>
+               <term corresp="#JP-013000">Altenburger Freunde</term>
+               <term corresp="#JP-012183">Festlichkeiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Heute endlich die Beantwortung Ihrer mehrmals geäußerten Wünsche , mein jetziges inneres Leben zu kennen , meine Verhältnisse hier zur Welt , zu meinen Freunden . Je wichtigere Nachrichten ich Ihnen über das Höchste im Leben mitzuteilen habe , je mehr haben Sie Recht , darüber etwas zu wissen , da Sie mit seltener Freundschaft mein Schicksal teilen . Es hat sich in diesen Tagen viel entschieden . Übrigens ist die Hofrätin auf das vollkommenste hergestellt , und ihr Geist blüht schöner als je . Zwischen uns ist ein rein und innig freundschaftliches Verhältnis geblieben . Ich erhalte oft die herrlichsten Briefe , worin sich ihr reiches und tiefes Gemüt auf die außerordentlichste und mannichfaltigste Weise entwickelt . Auch schön und edel , und ich zweifle nicht , daß bei bürgerlich ganz geordneten Verhältnissen und wenn es möglich wäre , die Pfade der Vergangenheit aus dem zerrissenen Herzen zu reißen , sie nach dieser Katastrophe ein gutes und herrliches Weib sein würde . Offenbar sucht sie auf mich lebhaft wieder einzuwirken und mich aufs neue zu fesseln . So sagte sie in ihrem letzten Briefe : " Zuweilen bilde ich mir ein , daß Du mich liebst wie sonst , daß in Dir dasselbe vorgeht , was meine geheimsten Gedanken beschäftigt , und daß unsere Wiedervereinigung uns Beiden unbewußt das entfernte Ziel unseres Hoffens und Ausharrens ist ! " Da aber der Verstand , beleidigte Ehre , Pflichtgefühl und auch zarte und edle Neigung für ein anderes weibliches Wesen mich stärken und schützen , so werde ich der Sirenenstimme , die von der Spree her zu mir herüberschallt , nicht folgen . Ich würde gewiß außerordentlich zu kämpfen haben , wenn wir zusammen wären . Mein Verhältnis hier zur Welt ist im ganzen noch dasselbe , wie ich es Ihnen geschildert . Innige Freundschaft mit allen Gliedern des Ludwig'schen Hauses ist jedoch das , was mich allein sehr anzieht . Sie sind es auch allein , die mich ganz verstehen und würdigen . Ich habe hier nämlich wieder das Schicksal , daß viele Menschen gegen mich sind , daß mich diese für stolz , üppig , eingebildet und Gott weiß wofür Alles halten , wozu ich freilich durch mein schneidendes , auch oft sonst nie vorsichtiges Betragen Veranlassung gegeben habe . Ich bin über die Ursachen und die einzelnen Gravamina lange in Unsicherheit gewesen , da ich nur die Spuren in den Folgen entdeckte , ohne die Ursachen erraten zu können , da die Winke , die ich von einer Seite erhielt , nicht hinreichten , mir die nötige Aufklärung zu geben . Jetzt kenne ich aber alle Fäden der geheimsten Verhandlungen darüber und auch alle Intrigen , die dabei stattgefunden und -finden . Mein Genius , der mir jene Winke und jetzt alle Offenbarungen gegeben hat ; der mein Interesse vom ersten Augenblicke , daß ich hier vor einem Jahre aufgetreten bin , zum eigensten gemacht hat ; dem ich und die Hofrätin alles Gute und Liebe verdanken , das wir hier genossen ; der mich und sie mit gleicher Energie verfochten und vertreten ; der durch einen wunderbar sympathetischen Zug sich zu mir wie ich mich zu ihm hinneigte , als auch noch nicht die entfernteste Möglichkeit da war , daß je ein näheres Verhältnis eintreten könnte - dieser Genius ist jenes herrliche Mädchen , Ludwigs Schwägerin , Fräulein Jeannette von Zschock - seit einer Woche meine still Verlobte ! Sie wird mir fürs Leben angehören , wenn ich es vermag , mein bürgerliches Schicksal ganz zu ordnen , die Einwilligung Ludwigs und ihrer Schwester , die noch nicht von Teplitz zurück sind , zu erhalten und die Welt ganz mit mir zu versöhnen . Wir werden aber Vieles zu kämpfen haben , ehe wir ans Ziel kommen . Unsere Wahlverwandtschaft hat um so weniger unbeobachtet bleiben können , da durch die Eifersucht der Hofrätin , die zu einer Zeit , als der Gedanke daran zu den Märchen aus dem Monde gehörte , mich und die arme Jeannette aufs Blut damit verfolgte , dies unser Verhältnis die allgemeinste Aufmerksamkeit auf sich zog , da es psychologisch allerdings höchst interessant war und jetzt von neuem die Behauptung Schubert's und Anderer gewissermaßen bestätigt , wie diese Art Nervenkranker die Gabe der Voraussehung und Voraussagung haben . Außerordentlich ist_es , daß sie im Wahnsinn ihres Fiebers prophetisch Alles ausgesprochen hat . " Ich bin " , sagte sie , indem sie unsere Hände zusammenlegte , " Donna Elvira , mein Fräulein ; ich werde nun gehen " . Meinerseits bin ich überzeugt , daß meine Kinder eine vortreffliche Mutter und Erzieherin , ich eine edle Freundin und treue Genossin fürs Leben errungen habe , wenn es mir gelingt , unsere Verbindung zu vollenden . Sie wissen , wie verarmt mein Leben war und wie es das außerordentlichste Glück ist , wenn ich es auf diese Weise neu und schön ordnen kann . Ich gedeihe nur in einem edlen Familienkreise , und ohne solchen bin ich nichts . Und was wird und kann aus meinen Kindern werden , wenn sie nicht wieder eine edle Mutter finden ? Es ist der lebhafteste Wunsch meiner Freundin , die kleine Sophie von Amsterdam herüberzuhaben , und es werden daher ernste Überlegungen stattfinden müssen , wenn Sie herüberkommen , wie dies zu bewerkstelligen . Ich würde Ihnen diesen Brief schon vor acht Tagen geschrieben haben , wo er freilich noch nicht so klar und bestimmt hätte melden können , was er jetzt enthält , wenn nicht in dieser Zeit gerade das hiesige große Vogelschießen stattgefunden , das jede geregelte Arbeit beinahe unmöglich macht . Sie können sich keinen Begriff davon bilden , mit welchem Pompe , mit welchen Feierlichkeiten es begleitet ist , und wie sich Geschmack und alle schönen Künste vereinigen , die Belustigungen dabei zu veredeln und zu verschönern . Dies Jahr war noch eine neue Loge erbaut worden , in der sich nun die Elite der Gesellschaft versammelte , wo des Morgens Dejeuner dansant , dann Dîner , Abend Ball pare , Spiel und Souper unter den Kolonnaden des Saals und in den Nebenzimmern war . An einem Tage in den Zwischenzeiten war noch Lotterie für Damen , an einem anderen Tage Konzert . Jeannette gewann auf zwei von mir geschenkte Lose zwei Ringe ! Sie können denken , wie glücklich uns dieser Zufall oder diese Schicksalsdeutung machte . Bloß in dieser Loge speisten gewöhnlich 4-500 Personen . Ich glaube nicht , daß es irgendwo brillantere oder angenehmere Bälle und Partien geben könnte , als es die hier waren . Aus der ganzen Gegend bis von Dresden her hatten sich lebenslustige Fremde in außerordentlicher Zahl eingefunden , die täglich ab- und zuwogten . Dazu die zahlreichen Buden auf der an einer sanften Anhöhe gelegenen Vogelwiese , von der man eine wunderschöne Aussicht hat ; die herrliche Witterung , die schönen mondhellen Nächte , der Jubel der Volksmengen , denen diese Woche das ist , was den Römern ihr Karneval ; das Werfen der Schwärmer , der Raketen , womit sich Jung und Alt amusiert ; das ewige Musizieren von zwanzig Orten her , das Trommeln bei jedem Schusse , der den Vogel verwundet ; die militärische Haltung aller Freunde und Bekannten , die sämtlich in ihren ebenso geschmackvollen als wohlkleidenden Uniformen ( dunkelgrün aufs brillanteste mit Silber gestickt , französischer Offiziersschnitt ) mit großen russischen Hüten und roten Schwungfedern erscheinen ; die geputzten Weiber und Mädchen , von denen es wimmelt . Sie wissen , wie arm man in Holland an allem ist , was Vergnügen heißt , und Sie können daher denken , wie sehr es auf mich einwirken mußte . Ich war dazu doppelt glücklich , aber auch doppelt mäßig in jedem Genusse , da am Vorabend des Festes meine edle Freundin mir mit ihrem Herzen auch ihre Hand zugesagt hatte . Das geheimnisvolle Glück , das eine ausgesprochene edle Liebe begleitet , deren Höhe von keinem Aber geahndet wurde , goß einen besonderen Reiz über unsere beiderseitige Haltung und Wesen , die von unseren nähern Freunden nicht übersehen wurde . Ich komme nochmal auf unsere Widersacher . Niemand ahndet zwar , daß zwischen uns eine Erklärung stattgefunden und wir uns Beide vollkommen verstehen ; allein Jeder bemerkt leicht unsere gegenseitige Neigung , und da ich in allen öffentlichen Orten ihr den Arm gebe , bei Tisch ihr immer zur Seite bin , jeden ersten Tanz mit ihr tanze , mich par préférence mit ihr unterhalte , sie beständig nach Hause führe , so hat man natürlich unsere gegenseitige Neigung nicht übersehen können , davon abgesehen , daß da , wo ich nicht bin , sie mich hebt oder nötigenfalls verteidigt , wie ich schon oben gedacht habe . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

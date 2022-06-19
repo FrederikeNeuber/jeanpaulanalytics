@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0695">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Heidelberg, 16. November 1820,
+                    Donnerstag</title>
+            <respStmt>
+               <persName>
+                  <surname>Hartmann</surname>
+                  <forename>Dürten</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bearbeiterin</note>
+               </resp>
+            </respStmt>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S., Schluss fehlt.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1820-11-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName cert="medium" key="JP-003491">Odilie Minna Richter</persName>
+               <persName cert="medium" key="JP-003471">Emma Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011832">Gesellschaftliches Leben</term><term xml:id="JP-011948">Natur</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teuerste Mutter ! Der Glaube , Du könntest vielleicht aus dem vorigen Brief , den ich nie zum zweitenmal so wiederholen werde , abnehmen , daß meine innigste Liebe gegen Dich nicht immer dieselbe sei , läßt mich jetzt nicht ruhen u ich muß gleich nach dem heutigen Empfang Eurer herrlichen Briefe antworten . Zwar bin ich jetzt nicht so gestimmt , wie manchmal , d.h. so von Allem ergriffen , daß ich auf einmal mein ganzes Herz vor Euch Lieben ausschütten u alles , was in mir vorgeht , nennen könnte , allein gleich lieben kann ja der Mensch nicht immer und Gott wird mir noch genug Augenblicke schenken , wo ich etwas aussprechen kann bei Euch , ihr Geliebten , das nur der Allmächtige ganz versteht . Kann man denn alle seine Gedanken aussprechen ? Ist ein Brief fortgeschickt , so wünsche ich jedesmal ihn zurück , um nur noch eine Zeile hinzusetzen u so geht es mit allem Vergangenen , bei dem man immer wünscht , ach ! hätte ich es damals so gemacht . Gute Mutter ! wie werde ich noch mehr an Dich denken können , wenn ich im Fass Deine Mühe u Arbeit sehe u anstaune Deine Liebe . Gott möge Dich lange noch erhalten u so , wie ich Dich zum letztenmal , unten an der Türe unseres Hauses sah . D ei ne Ähnlichkeit mit der Krh. Schwarz finde ich gar nicht groß , im Gegenteil , ich wünschte es von keiner Seite ; die Tochter von Jung Stilling zu sein steckt ihr immer im Kopfe u sonst bemerke ich auch ein bisschen Stolz . Ich lebe jetzt mit meinem Freund Merke , der kürzlich von München kam , in einem Logis , das weit schöner u größer , als das vorige , doch in eben demselben Haus befindlich ist , zusammen . Der Kaufmann Fries u seine Familie lassen Dich , bester Vater , recht sehr grüßen , so wie Daub , Kreuzer und Paulus . Der jetzige schnell hereinbrechen Winter gibt noch immer Heidelberg einen schönen Anstrich und die Berge sind noch immer gar herrlich anzusehen u anzubeten ; die schönen Aussichten sind hier nur dem bekannt , der diese göttlichen Höhen recht zu ersteigen vermag u sich an einer reineren Luft laben . Diese u die Rheingegenden samt den Menschen sind Deutschlands Stolz . An dem jungen Feuerbach besitze ich einen recht innigen Freund , der sich Deiner noch recht warm erinnert , Du herrlicher Mann , u noch mehr Deiner Segenwünsche für Am Anfang sollen statt am Ende Ihr Geliebten Schwestern recht gegrüßt sein . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

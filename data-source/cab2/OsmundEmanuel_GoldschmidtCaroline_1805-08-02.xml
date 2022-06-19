@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0858">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 2. August 1805, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>ehemals Slg. Apelt</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1805-08-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012692">Bildung</term><term xml:id="JP-012265">Geschlechterrollen</term><term xml:id="JP-012693">Personalien</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine gute Car . ! Da sitze ich nun schon vier Monate reisefertig u noch gibt mir die Rgg . nicht nur keinen Geschäfts- auch keinen Lustreisepaß. V. dieser hänget nämlich meine Reise ab u bevor ich diese Geschäftsreise , wenn auch nicht geendigt - doch wenigstens angetreten habe , kann ich an keine andere denken . Arbeit - auch wenn sie - wie gewöhnlich die meinige - mit Unannehmlichkeit gemischt wird , ist mir Lust u nötig ; ich bleibe also ruhig , wenn mir der Himmel meinen dreifachen Reiseplan vereiteln wollte . Ich wollte in diesem Sommer - nach getaner Arbeit - nach Dresden , nach Regensburg u nach Offenbach wallfahrten u muß nun erwarten - was mir dav. werden soll . Vielleicht kann ich in der nächsten Woche reisen u Ihnen dieses heute noch sagen . Ich kann nicht . Selbst gewählte Abhängigkeit ist , halbe Freiheit . Ihre Reisegefährtin wird nun auch wieder gesund sein . Man hat mir schon sehr viel Gutes v. der Pr. Herz erzählt ; als ich damals v. Leipzig aus nach Berlin reisen wollte , empfahl mich Richter ihr . Die Empfehlung hat sie erhalten , aber den Empfohlenen noch nicht . Jacobi , der erst kürzlich in Berl. war , lobte sie sehr u zog sie der Kalb weit vor ; Richter gibt der Kalb den Vorzug . Da R. beide näher u länger kennet : so trau ich seinem Urteil mehr Richtigkeit zu . Es ist ein vielwissendes ; aber kein gelehrtes Weib . Eigentlich muß sie - wenn man sie nur kurz sieht , sehr viel für sich haben u bei längerem Umgang mag sie doch immer viel Gutes behalten u viel Vorzüge . Jeder Gelehrte hat seinen eigenen Blick für Menschen , besonders für Frauen . Man kann zwar sagen , daß ihn jeder Mensch hat , aber nicht so scharf u nicht so weit . Der Gelehrte sieht Alles mit einem gelehrten - oft unnatürlichem - Auge - sich u andere u daher passet er selten in die natürliche Welt u diese selten für ihn . Ich glaube , daß es zwei Ursachen gibt , die den Gelehrten , nicht auch immer den Edlen , den Würdigen , den Menschen sein lassen . Erstens , glauben die Menschen schon genug zu tun , wenn sie nur viel wissen , wenn sie nur gelehrt sind u dieses , zweitens , sind sie mehr u öfter aus Neid , als aus Lust . Wären die Gelehrten nur halb so böse , als sie eigen sind , es würde ihr wissen auch mehr schaden als nützen . Aber wer , welcher Laie sollte nicht mit edlen , eigenen , ausgezeichneten Menschen lieber leben , als mit dem rohen Haufen ? Und sind diese Edlen auch noch Gelehrte : so mögen sie sich selbst am meisten schaden , wenn sie zu viele Eigenheiten haben ; ihr Umgang gehörig angewendet - muß immer v. großem Nutzen sein . viel . glaubten S. nicht , daß mich die wenigen Worte , die S. mir üb. die Pr. H. sagten , so viel sprechen machen würden . Mündlich ließ sich dennoch mehr u deutlicher dav. sprechen u das soll geschehen - wenn es mir möglich ist . Meinem Isr. habe ich seinen Gruß ganz - wie S. mir ihn geschrieben , geschickt . Ich hoffe daß er Ihnen keine Antw. mehr schuldig sein wird , wenigstens keine alte . Was heißt Mittelstand , gute Car . ? Steht nicht jeder Genügsame auf ihm ? Sieht dieser nicht Menschen , die weniger u Menschen , die mehr haben , als er ? Kann nicht jeder , der das sieht , zwischen Demut u - entfernt v. - Übermut leben ? Könnte ich doch bald auch darüber mit Ihnen reden . Meine Adresse bleibt noch : Bayreuth , wenn ich auch nicht darin sein sollte . All die Meinigen - die meiner Seele angehören - grüßen Sie ; deutlich und ausdrücklich Ulf . u seine Ella , so herzlich nicht gar , als ich mich nenne u Ihnen adieu sage . E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

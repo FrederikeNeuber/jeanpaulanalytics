@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0450">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Caroline Richter. Leipzig, 29. bis 31. Januar 1804,
+                    Sonntag bis Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl. 8°, 8 S.</p>
+                        <accMat> Briefe von Johann Siegfried Wilhelm Mayer und Ernestine
+                                    Amalie Mertzdorff an Caroline Richter und Ernestine Mahlmann,
+                                    ein Brief von Johann Siegfried Wilhelm Mayer an Minna Spazier,
+                                    ein Brief von Emanuel an Ernestine. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Briefpapier mit Wasserzeichen. Textverluste durch Tintenflecke und Papierknicke und
+                    -ausrisse an den Rändern. Schrift der Rückseiten drückt stark durch.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date from="1804-01-29" to="1804-01-31" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Der Brief ist von 1804; Richard Otto Spazier, von dem die Rede
+                    ist ("Minnas Kleiner"), wurde am 30. Oktober 1803 geboren.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012274">Hauswesen</term>
+               <term corresp="#JP-012183">Festlichkeiten</term>
+               <term corresp="#JP-012194">Geschenke</term>
+               <term corresp="#JP-012065">Ernestines Geburtstage</term>
+               <term corresp="#JP-012494">Ernährung</term>
+               <term corresp="#JP-012265">Geschlechterrollen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine geliebte einzige Caroline , es liegt mir eine wahre Angst auf dem Herzen , da ich zwei Wochen keine Briefe von Dir bekommen . Zwar kann ich es vernünftigerweise gar nicht verlangen , daß Du mir so sehr oft schreibst , aber Du hattest mich verwöhnt - und der Inhalt Deines Letzten Briefes ist doch von der Art , daß ich alle Ursache habe für Dich zu fürchten . Die Idee - daß Du irgend ein Ungemach haben magst , überfällt mich manchmal so mächtig , daß ich mich mit Gewalt zerstreuen muß . - Freilich habe ich jetzt so nicht viel Zeit , Empfindung nachzuhängen . Die beiden Kinder sind noch immer bei mir , und ich bin recht oft ungeduldig über den enormen Grad von Lebendigkeit , durch den sie im allem beherrscht werden , was sie vornehmen . - Aber ich kann Dir die angenehme Nachricht geben , daß heute am Beschluß der dritten Woche der Krankheits-Periode , Julius sich so wohl befindet , als es nur die Umstände erlauben - und auch Minna mit dem Kleinsten so wie Spaziere - von üben unangenehmen Folgen welche diese Krankheit , und die allgemeine Not hätten nach sich ziehen können , verschont geblieben sind . Minnas Kleiner , soll , wie sie mir schreibt , alle Tage schöner und stärker werden - sie selbst aber dann doch in dieser kritischen Periode etwas abgenommen haben . Von mir selbst weiß ich Dir nicht viel zu sagen , als daß ich im meinem Hause manchen Wirrwarr gehabt habe . Verwandte von meinem Manne kehrten auf ihrer Durchreise bei uns ein - und , ob es gleich nur auf eine Nacht war , so erforderte diese doch dieselben kleinen Einrichtungen als wenn es für eine Woche gewesen ; zumal sich ein weibliches Wesen . dabei befand - daß ich Tante nennen muß , und das übrigens von so unangenehmer Art ist - daß - sollten einmal die Stamm-Linien der Mayers , und Mahlmanns entworfen werden - diese Tante , unserer Cousine in Berlin - liebenswürdigen Andenkens - gegenübergestellt werden müßte . Der 20s te Januar war der merkwürdige Tag an welchem ich die Bekanntschaft feierte . Aus mehreren Gründen hatten wir eine kleine Gesellschaft zusammengeladen - teils um mir die Unterhaltung mit dieser Frau zu erleichtern , teils einem außerordentlichen Kopfe zu scheren ! Dieser Kopf war nichts mehr oder weniger als ein wilder Schweinskopf den Spaziers von Deßau her geschickt bekamen . Diese wußten in ihrer Not nicht damit anzufangen , und übergaben ihn uns . Da man aber solch eine Maschine unmöglich unter vier Augen verzehren kann , so wußten wir die Arrière dieses Schweinskopf nicht würdiger , als auf einer festlich geschmückten und von munteren Gästen umringten Tafel zu beschließen . - Morgen Abend habe ich die angenehme Aussicht , dieselben Menschen auf ihrer Rückreise - wieder aufnehmen und einen Tag zu zwei Nächte , behalten zu müssen ! - Mein Mann kränkelt nur noch immerfort - und es hat sich ergeben , daß dieser laue Winter seinen Zustand weit schlimmer macht . Bei Frost und hellem Wetter befindet er sich ungleich wohler . Dein Mann mag hier seinen Grundsatz rechtfertigen daß die gelinden Winter gesünder sind als die kalten . Auch mag er mir vergeben , daß wenn er den Himmel um Gelindigkeit anfleht - ich das schärfste Gegenteil , Rauheit von ihm erbitte . - An meinem Geburtstage hast Du Dich gewiß meiner recht lebendig erinnert , meine liebste Seele , und ich weiß schon vorher daß ich Dir einen großen Gefallen erzeige wenn ich Dir von der Feier desselben , und von den schönen Sachen erzähle , womit ich beschenkt wurde ! - Ich kann nicht sagen , daß ich gerade besonders froh gewesen wäre ! - Nach meinem Herzen sind diese Ablieferungen gar nicht - anders nenne ich die Geschenke gar nicht , die mir von fremden Menschen - zu Teil werden . - Einmal macht es Freude , aber sobald es zur Regel wird , verschwindet die einzig wohltuende Idee des freiwilligen Gebens . Ich muß sagen der Morgen eines solchen Tages liegt allemal Centnerschwer auf mir . Doch nun will ich Dir erzählen Mein Mann gab mir früh so wie wir aufgestanden waren , einen schönen Spazier-Schleier , und ein auf einem Bande geschriebenes Gedicht von seiner Schwester daß sie für mich an ihn gesandt hatte . Das Beides machte mir große Freude . Da mein Mann nicht gewußt daß ich schon einen Spazier-Schleier hatte , freute ich mich noch mehr über seinen guten Willen , mir diese Freude machen zu wollen als über den Schleier selbst . Er erlaubte mir hernach ihn umzutauschen , und ich nahm an der Stelle des Schleiers ein Halstuch in gesticktem Petent . - Gegen elf Uhr kam die Ludwig mit allen ihren Kindern , davon jedes eine Gabe brachte . Unter diesen gehört 1 ) eine Sandtorte . 2. ) Schwarzer Samt zu einem Spenzer . 3. ) ein Strickbeutel . 4. ) ein Geldbeutel. 5tens ) ein Fächer . 6. ) ein P. Handschuh . 7. tens ein P. Strumpfbänder . Als ich das alles in Empfang genommen und mich gehörig bedankt hatte , kochte ich einen großen Topf Schokolade , und setzte davon nebst etwas Gebacke meinen Gästen vor . Meine Marie , die bei solchen Gelegenheiten sich auch immer aufmerksam bezeigt - doch wie man denken kann nur darum weil ihr das reichliche Interessen bringt , sollte absichtlich nichs von meinem Geburtstag erfahren - weil sie ohnehin seit einiger Zeit einen großen Teil meines Zutrauens eingebüßt hat - war sehr betreten , und stellte sich noch als wir bei Tische waren mit einem Kuchen und Blumen ein . Gleich am anderen Morgen früh kaufte ich ihr ein Kattuns Halstuch zur Revanche . Die Ursache meines Widerwillens gegen Marie zu erzählen , wäre hier so weitläufig . Ich habe aber beinahe dieselben Erfahrungen an mir gemacht , wie Du mit der Lore . Mir ist nicht wohl wenn sie in meinem Zimmer kommt , und es wird mir schwer ihr ein freundliches Wort zu geben . Aber auch die Erfahrung habe ich gemacht daß die Männer sich nie an unsere Stelle setzen . Mein Mann ob er gleich mit mir darüber eins ist , daß sie nicht viel taugt , tadelt mich dennoch oft , in meiner Bitterkeit gegen sie . -- Ich kann keine bessere Partei ergreifen , als nie darüber mit ihm zu streiten denn mit mir selbst bin ich eins über das was sie wert ist , und über die Art meiner Empfindungen gegen sie . Also wenn er das geringste für sie sagt schweige ich stock still Und wo es darauf ankommt , in Beobachtung gewißer Formen meines Mannes Zorn nicht zu reizen , oder meinen Wiederwillen gegen diese Person nicht zu bekämpfen , da tue ich alles für den ersten Zweck schweigend - ohne je zu streiten . - Mit mir selbst bin ich demungeachtet eins und fest ! So wie die guten Männer , glaube ich , immer die Schwächen der Frauen schonen , so müssen die klugen Weiber die Irrtümer der Männer - wenn es möglich ist daß auch sie welche haben ! - durch Handlungen ehren und schweigend verachten ! - Der Fuhrmann ist immer noch nicht angekommen - und es ist mir recht leid , daß Du für den Winter wohl nicht darauf rechnen kannst , noch Dein Atlas Kleid zu bringen . Mein Mann meint die schlechten Wege hielten ihn ab , jetzt nach Leipzig zu fahren . Du hast doch die Sachen noch besonders an den Facktor Junker addreßirt , damit sie ja nicht verloren gehen können , und durch diesen guten Mann auf jeden Fall ordentlich besorgt werden ? - Schreibe mir_es doch ! Hier erfolgen auch eine Menge Berliner Briefe : Vom Vater von der Merzdorfen ; Deinen von der Merzdorf bin ich so unartig gewesen - auf zu machen . Um Dich zu versöhnen schicke ich Dir dafür alle die Meinigen - auch den des Vaters an Minna - über welchen ich besonders Deine Meinung zu wissen wünschte ! -- Von Emanuel habe ich einen Brief bekommen , den ich Dir auch beilege - aber gelegentlich mir zurück erbitte . Lebe nun wohl , meine Seele , und sei gesund und froh wie ihr es wünsche . Gott gebe daß ich bald die Bestätigung davon erfahre , ehe werde ich nicht ruhig . Grüße herzlich Deinen lieben Mann . Ich lege die Maske hierbei zu eurer Ergötzung wo möglich ! Adieu Adieu Ewig Deine Tine . Gestern meine liebste Caroline , bekam ich noch spät Abends Deinen Brief und die Kiste , und bin nun wieder ruhig ! Tausend tausend Dank meine liebste Seele für die Zwiebäcke ; sie wahrlich das ihre dazu beigetragen mich noch lebhafter zu Dir zu versetzen ! -- Deinen Brief ordentlich zu beantworten dazu fehlt es mir jetzt an Zeit - denn meine Gäste sind angekommen , - und ich stehle ihnen diesen Augenblick . - Nur über Deine Intention mir etwas schicken zu wollen zu m. Geburtstag , muß ich etwas sagen - nämlich tadeln muß ich sie . Wie kannst Du wohl das wollen ! - Sobald du so sein willst , wie alle die gewöhnlichen Menschen erreichst , Du am sichersten den Zweck mir die Freude zu rauben , daß ich zuweilen meinen Überfluß mit Dir teile - Es ist mir sehr angenehm , daß ich kein Geld in der Kiste ich schreibe es Dir damit du weißt woran du bist . Denn ich würde das Geld für die Spitze unfehlbar wieder zurückschicken . Du hast meine Ironie für Ernst genommen ! Eben so schicke ich den Strickbeutel wieder . Es ist Schade , daß er so hin und her reisen muß . Er wird ja ganz und gar dadurch verdorben . Schickst Du ihn wieder , so reist er noch einmal , das versichere ich Dir . Du weißt doch daß ich fest sein kann wenn ich will . Nun lebe wohl meine Seele . Das Pröbchen von der Stickwolle war auch nicht im Kistchen zu finden . Ich freue mich sehr wenn der Schleier göttlich wird -- verstehe aber nicht was Du unter französischer und englischer Arbeit meinst - wird er denn anders als das erste was ich gemacht ? Adieu Adieu ich habe keinen Augenblick mehr Zeit ! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

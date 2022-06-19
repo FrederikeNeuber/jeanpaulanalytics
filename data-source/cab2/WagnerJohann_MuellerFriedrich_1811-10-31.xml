@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1112">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 31. Oktober 1811,
+                    Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/618, Bl 34-35</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-10-31" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012330">Literarisches Leben und Schaffen</term><term xml:id="JP-012317">Musik</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Erlauben Sie , mein verehrtester Freund , daß ich es wage , die beiden von Paris nach Petersburg reisenden Künstlerinnen , Mlle Demar und Mlle Lognini , Ihrer Freundlichkeit zu empfehlen ! Erstere ist eine Harfnerin , l etztere eine Hornbläserin und beide sind in mehrerer Rücksicht vollkommene Meisterinnen ihres Instruments . Sie wünschen in Weimar , sei es vor dem herrlichen Hofe oder in einem öffentlichen Konzert , sich Freunde ihrer Kunst zu erwerben - und ich darf sicherlich hoffen , daß es ihnen gelingen wird . Auch hier und in Würzburg ( woher sie der gute Hirsinger empfahl ) lassen sie allgemeines Lob zurück . - Möchten sie auch in Ihrer kunstfreundlichen Stadt die Gnade erlangen , die den guten Mädchen für ihre erste Ausflucht so wünschenswert ist , und zu der ich sie Ihrer gütigen Mitwirkung mit wahrem Vergnügen und gutem Gewissen empfehlen darf . Innigsten Dank für Ihr großes Scheltewort an den Nichtschreiber - d. h. für Ihr freundliches Andenken für den Freund ! - Ich wollte nun schlechterdings nicht eher schreiben , bis ich meine Isidora ( einen Isidorum habe ich nie schreiben wollen - das mag der orientalis selber tun ! ) mitschicken könnte - aber noch immer seufzt die arme unter der Cotta'schen Presse ! Bald also schreibe ich wirklich . Bitte , bitte , halten Sie einmal kein Kerbhölzchen , sondern sagen Sie mir einmal ein frohes Wörtchen von s ich und der herrlichen Mathilde , der ich die Hände küsse . Ewig getreu - Bester - Liebster ! - Ewig Ihr alter treuer JEWagner . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

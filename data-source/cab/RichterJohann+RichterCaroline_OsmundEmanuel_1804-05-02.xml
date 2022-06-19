@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0699">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Coburg, 2. Mai 1804, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBa</institution>
+                        <collection/>
+                        <idno type="shelfmark">OFS.Autogr. R 1(1804.05.02</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 1 S. von Jean Paul, 3 S. von Caroline Richter</p>
+                        <handDesc>
+                           <handNote xml:id="JP-999999">
+                              <persName>Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+                           </handNote>
+                           <handNote xml:id="JP-003469">
+                              <persName>Caroline Richter</persName>
+                           </handNote>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Denkwürdigkeiten 1, 158-159 (nur
+                            Carolines Briefteil).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                     <ref type="letter" subtype="document" target="3-IV_462">3. Abt., Bd. IV, Nr. 462</ref> (nur von Jean
+                            Paul).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005649">Coburg 
+               </placeName>
+               <date when="1804-05-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="4-IV_348">Von Emanuel an Jean Paul. Bayreuth, 13. Mai
+                        1804</ref>
+            </correspContext>
+            <note>Präsentat auf S. 1: 13<hi rendition="#u">
+                  <hi rendition="#sup">t</hi>
+               </hi>-20<hi rendition="#u">
+                  <hi rendition="#sup">t</hi>
+               </hi>
+               <hi rendition="#aq">Mai</hi> beantw (offenbar nur ein Teil der Antwort
+                    überliefert.)</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012113">Umzüge</term>
+               <term corresp="#JP-012449">Kinder</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Vergeben Sie mein Schweigen , das nicht einmal heute aufhört . Ich wartete ewig auf ein Bierfährmann . Otto wird Ihnen aus meinem Briefe einige Bitten zeigen . Nächstens mehr u besser ! Nur von Thieriot wünscht ich baldige Nachrichten u. von Ihnen d Entschuldigungen Ihres Schweigens , wenn nicht die Reise die schönste ist . Adio , Alter ! Ich wo Das hat Emma getan . hne in Gedanken schon so lange bei Ihnen , guter Emanuel , daß ich Briefe zwischen uns für überflüssig hielt - meine ganze Sehnsucht geht nach Bayreuth als dem letzten Ruhepunkt , weil ich erfahre daß allein die Freundschaft uns eine Heimat bildet - überall fühle ich mich fremde , und mir war bis dahin , als wäre ich immer nur auf der Reise . - - - Richters Wanken zwischen Bayreuth und Gotha woran ihn der Tod des alten Herzogs erinnert hat , macht mich nicht wenig bange - ich habe nichts was meine Furcht des Vorzugs für G. rechtfertigte , denn Rr. ist durchaus unentschieden , aber das Schicksal schmeichelt so selten unseren Wünschen , daß man fast sicherer auf das rechnen kann was ihnen entgegen ist . Einen kleinen Trost finde ich in einer bloßen Fantasie , ohne allen Grund : nämlich , daß der auch auf dem Sprunge stehende Mahlmann ( der nicht länger in Leipzig bleiben will ) Gotha wählte - wo ich dann mit meiner Ernestine vereinigt wäre ! Aber bei Ihnen erwartete uns ein schönes Leben , wir würden uns täglich sehen - und Eine Familie ausmachen - wir würden uns nicht entbehren können - und so muß es sein , wenn man glücklich sein will . Richter fühlt eben so sehr das Bedürfnis nach Herzlichkeit , und wahrer Liebe . Die Leere des höfischen Lebens hat er zum Überdruße genossen und nur wenn es mit recht viel Geist gewürzt wäre , wie wohl in Gotha kann er es wieder suchen . Sein Entscheiden entscheidet eine besondere Gunst des neuen Herzogs der ihn ja als Erbprinz so goutiert . Waren Sie wohl , Emanuel im trüben Vor-Frühling ? Sind Sie jetzt nicht recht heiter ? Wohnen Sie bei Tage wieder in Uhlfelders Gartenhaus , wo wir vor einem Jahre die seligsten Abende feierten ? So eine Wohnung ins Freie wünschte ich mir wenn wir wirklich zu Ihnen gingen - oder in Otto's Gegend am herrlichen Main . Auf jeden Fall wünschte ich eine untere Etage zu bewohnen , wo keine oder nur höchstens eine Treppe zu ersteigen ist , das ist eine kleine Bedingung meiner Glückseligkeit . Meine Geschichte der vergangenen Tage ist Kürzel . diese : Emma und Max wurden beide zugleich an heftigen Katarren krank - Emma erholte sich bald , aber Max behielt drei Wochen lang ein Nachtfieber - welches mir und ihm den Schlaf nahm . Aber die göttliche Luft die Thieriot so schön mit einer Hymne besungen hat - vertrieb wunderbar das Fieber , und er hat jetzt die alte schöne Ruhe wieder . Unser Max ist ein schönes herrliches Kind , das sagt nicht bloß die Mutter - fast behauptet er den Vorzug für Emma , durch schönere Farbe - geistig ist er gewiß ein echter Sohn seines Vaters , so voll Liebe Ruhe u Lebendigkeit , und von einer Empfindlichkeit für Töne , daß er wenn ich ihm singe oder mein Mann pfeift fast Verzuckungen bekommt . Emma ist jetzt sehr entwickelt in Geläufigkeit der Zunge , und Beine - sie macht unsere Spaziergänge fast alle zu Fuß mit . Das Blatt ist zu Ende , ud ich nehme aus Zeitmangel kein neues . Gott segne Sie , herrlichster Emanuel , sagen Sie mir bald daß Sie mir wegen des langen Schweigens vergeben haben , und grüßen Sie innigst Ihren edlen Uhlfelder u Bruder . Caroline . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

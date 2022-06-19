@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0788">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Alfred von Schlichtegroll an Max Richter. München, zwischen 12. und 24.
+                    Oktober 1819, Dienstag und Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. Auf S. 1 aoR in lila Schrift: Von dem jungen Schlichtegroll? Okt 1819</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003774">Alfred Schlichtegroll</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date notBefore="1819-10-12" notAfter="1819-10-24" cert="low"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Am 12. Oktober 1819 fand das 2. Pferderennen ("Nachrennen") auf
+                    der Theresienwiese statt; Max Richters Abreise nach München war am 24. Oktober
+                    1819.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011845">Max' Studium</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Kurz nacheinander bester Max empfing ich deine beiden Briefchen , u. eile sie zu beantworten . - Was deinen Unfall mit der Brieftasche betrifft , so kann mir wohl denken , wie ärgerlich es dir sein mag , übrigens ist der Schaden nicht ganz unheilbar . Als ich neulich bei Prof . Thiersch war fragte er mich , ob ich keine Nachrichten von dir hätte , worauf ich ihm antwortete , daß du mir geschrieben hättest , u. dich ihm vielmals empehlen ließest , ich erzählte ihm darauf den Unfall mit dem Brief , u. bat ihn , in Deinem Namen , wenn es ihm anders seine Zeit zuließe , einen 2ten an d lieben Vater zu schreiben . Er aber hielt das nicht für nötig u. sagte , was er deinem Vater schreiben könnte , wäre nichts anders , als was mein Vater auch könnte . Ich habe meinen Vater darum gebeten u. er war auch gar nicht abgeneigt dazu . Meine Eltern lassen dich u. Dörflern sehr grüßen , besonders aber deine lieben Eltern . Was du von der Einrichtung des Lyzeums wissen willst , will ich dir ausführlich beschreiben . - : ( * 2 ) : Ich hätte sehr gewünscht , daß ihr noch ein paar Wochen hier geblieben wäret um das Fest noch mitansehen zu können , das Pferderennen selbst u. die Viehausstellung , waren sehr brillant , ein schöner heiterer Tag , u. das Dabeisein , des Königs u. der hohen Herrschaften verschönerten es . Die Theresien Wiese worauf das Pferderennen ist , war mit etwa 40.000 Menschen umumsäet , welche rings um die Rennbahn , oder in der Mitte derselben standen . Auf dieser Wiese hat sich ein ganzes Lager von Wirten , Cafetiers , u. d. Leute mehr , niedergelassen , auch eine kleine Lotterie u. große Büchsen u. Pistolenschießen , auf Scheiben u. einen hölzernen Adler sind daselbst eine ganze Woche durch . Künftigen Sonntag ist ein 2tes Rennen . - Doch genug davon , zur Hauptsache . -- * 2 Erste philosophische Klasse . In dieser las Hrr . Dir . Cajetan v. Weiler im ersten Semester über Psychologie , nach seiner Grundlegung zur Psychologie . - Im 2ten Sem. über Philosophie in 3 wochentlichen Stunden . - Pr. D. Meilinger . Im 1ten Sem. über Logik u. Metaphysik , nach eigenem Entwurf , im 2ten Sem. über philosophische Sitten- u. Rechts-Lehre nach eigenem Entwurf in 6 wochent . Stunden . Herr Hofrat Spät , über die Lehre von höheren Gleichungen , u. algebraischen Funktionen , von Kombinationen u. höheren Reihen , angewandt auf Rechnungsaufgaben , u. auf die analytische Geometrie . -- Über geradlinige u. sphärische Trigonometrie , mit den trigonometrischen Funktionen , in Anwendung auf die geographische Aufnahme eines Landes - auf Landkarten Netze , u. auf die Gnomonis nach eigenen Heften in 4 Stunden . - Hrr . Pr. Siber . nur im Iiten Sein . - Über Chemie nach eigenen Heften in 3 Stunden . - Hrr . Prof . Joseph Kopp . Über Universalgeschichte in 5 St. nach Breyers Grundriß der Universal-Geschichte für Akademien . - Herr. Hofr. Acad. Fried. Thiersch . las : Das 3te Buch der Historien des Tacit . in 2. St. - im Grieche : Äschylus Agamemnon u. Prometheus in 3 St. - Geschichte d. Griech. Literatur , in 3 St. -- Item im Philolog . Seminar . für Freiwillige Zuhörer . das 1te Buch v. Ciceros Quaestionibus Academicis , u. d. 2 letzten Bücher v. Horatz . Oden . Im Griech. die erste Hälfte vom 2ten Buch des Thucydi d es u. die pythischen Siegesgesänge d. Pindarus . Herr Rat , Ritter Joseph von Maffei . las in wochent . 3 Stunden über italienische Literatur für Freiwillige Zuhörer . - finis . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

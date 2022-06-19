@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0832">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig, 5. Juli 1803, Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection>B:Spazier, Karl</collection>
+                        <idno>
+                           <idno type="shelfmark">79.44|5</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1 ½ S.</p>
+                        <accMat>Belegexemplar des dritten Teils ("Die dritte Halle") der auf
+                                    drei Teile angelegten Theaterpersiflage Bodes "Obersächsischer
+                                    Thalia Bildersaal", der in der <bibl key="JP-009809" subtype="werk">ZeW</bibl> vom 2. Juli 1803 (Nr. 79, Sp.
+                                    623-627) erschienen war.  </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-07-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012740">Theaterleben</term><term xml:id="JP-012547">Zeitschriften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mit einigen Schmerzgefühlen gebe ich Ihnen die dritte Partie gedruckt zurück ; denn ich habe nichts mehr von Ihnen vorrätig . Die hiesigen Komödianten haben sich bis jetzt noch peinlich ordentlich betragen ; sie räsonnieren so unter der Hand ; es müßte denn ihre Freimütigkeit noch losbrechen . Was meinen Sie , wenn ich die drei Blätter Goten zuschickte ? Erlauben Sie daß ich dabei Ihren Namen ihm nenne ? Sagen Sie mir das doch . Können Sie mir nicht auch sagen , was im Laufe dieses Monats in Lauchstädt von besonderer Bedeutung gegeben werden wird ? Ich möchte gern mein Herüberkunft danach einrichten . Sehr gern träfe ich es so , daß ich ein Schauspiel sähe u zugleich die Jagemann singen hörte . Gern wüßte ich auch , wann Goethe in Lauchst . eintreffen wird . Leben Sie vergnügt ! Lassen Sie doch etwas von Sich hören ! Ihr ergebenster Spaziere Haben Sie nichts Lustiges ? </p>
+         </div>
+      </body>
+   </text>
+</TEI>

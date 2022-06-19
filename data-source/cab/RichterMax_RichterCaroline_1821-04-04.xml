@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0665">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Heidelberg, 4. April 1821,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1 ½ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1821-04-04" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName cert="medium" key="JP-003491">Odilie Minna Richter</persName>
+               <persName cert="medium" key="JP-003471">Emma Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0051">Von Caroline Richter an Max Richter.
+                        Bayreuth, 26. März 1821</ref>
+            </correspContext>
+            <note>
+               <ref type="letter" subtype="comment" target="3-VIII_163">Der Brief wurde
+                        vielleicht nicht abgeschickt</ref>. Dafür spricht, dass er sich mit dem
+                    Brief vom 11. April, der ausgesprochen ordentlich geschrieben ist, wohl um <ref type="letter"
+                    subtype="text"
+                    target="3-VIII_163"
+                    corresp="#106-30">Jean
+                        Pauls Forderung nach einer besseren Handschrift</ref> nachzukommen,
+                    thematisch überschneidet.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012721">Dessauer Familienstipendium</term>
+               <term corresp="#JP-012858">Jean Pauls Beziehung zu Max</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebte Mutter ! Daß in der Zeit , wo ich nach langem Erwarten endlich einen milden Brief von Dir , beste Mutter enthielt und einen solchen trostreichen , Dir gleich hätte schreiben sollen , kannst Du Dir leicht denken . Dein und der Emma liebes Briefchen machten mich recht froh , aber zerschmettert war ich , wie ich das nicht ausgeschriebene Blatt vom Vater sah . So hatte ich mich noch nicht verlassen gesehen , wie in diesen Ferien , wo alles weggeht ; keine Briefe , nur Verstoßung und Vorwürfe über mein Leben . Ein Glück ist es , daß ich hier bleibe ( nach den Rhein kann ich nicht gehen ) Feuerbach und Merke sind fortgereist . Nicht so über mich klage ich , als über jenen herrlichen Menschen , den ihr alle nicht kennt , der mir einen Freundschaftsdienst tat , wie noch keiner , der in Erlangen kein wüstes Leben führte , sondern früher ein frohes , weil er in der Burschenschaft lebte und wirkte ; Übrigens bin ich mit ihm im Ganzen wenig zusammen ; ich wollte , ich wäre es mehr und wenn mir noch dieses verboten wird , daß ich so , wie ich denke , an Euch schreibe , so bin ich ganz gestürzt , da die ewige Marter mir anhängt , eine s gleich würdig zu sein und doch nicht zu können . / Doch genug hiervon ; die fünf Wochen , die ich ganz für mich habe , werden schon ruhig und heiter vergehen ; wenn andere Menschen , wie hier , einen bespotten u aushöhnen , andere einen ganz mißkennen , dann lebt man ganz für sich und da passen ja die Ferien am meisten dazu . Was ich denke , richtet ein Anderer ; sonst kann jeder Richter täuschen . Daß ihr alle recht selig seid u am 21 es gewesen , ist meine größte Freude . Ich war jenen Tag abends bei Voß . Daß Feuerbach schwärmerisch ist , weiß ich nicht , im Gegenteil , er sucht jetzt öfters Studentengelage auf und hat jetzt eine frohe Reise nach dem Schwarzwald angetreten . Um mich sorgt euch nicht ; ich bin zufrieden wenn von Außen ich ruhig bin . Wie der Vater an theologische Melancholie oder dergleichen denken kann , begreife ich nicht . - Meiner innig geliebten Emma werde ich bald schreiben ; Ist d a s Stipendium in Dessau schon besorgt ? Den Sommer werde ich ein Quartier in demselben Haus für 24 fl. nehmen müssen , da Merke auszieht , also die Stube zu groß u zu teuer wäre . Dieses Blatt schicke ich wirklich nur , um etwas zu schicken ; ich habe so mehrere Briefe , die ich unvollendet lasse . Oft reuet mich , daß ich dies u jenes geschrieben . Aber Du , geliebteste Mutter u mein Vater , ihr werdet alles verzeihen. E. M. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

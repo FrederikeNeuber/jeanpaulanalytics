@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0299">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 23. Februar
+                    1805, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2 S.</p>
+                        <p> Text auf S. 1 und 3, S. 2 leer.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1805-02-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine geliebte Caroline ! In der Hoffnung , daß die Stürme des Schicksals Dich nicht auch zertrümmert haben , melde ich Dir mit Übergehung alles dessen , was wir uns beide gern auf immer verschweigen möchten , daß ich Dein herzliches Geschenk der 4. Fridr . d'or an die arme Minna habe gelangen lassen ; u was Dich noch mehr als alles beruhigen wird , daß die Tante Mertzdorff Morgen früh nach Leipzig reiset , um der armen Minna persönlich beizustehen . Laß mich doch mit erster Post wissen , wie es Dir geht ; u schreibe es mir selbst , als der sicherste Beweis Deines Befindens . ich bin gesund , und Stämme mich gegen mein widriges Geschick mit aller Kraft , derer ich fähig bin . Deinem lieben Mann empfehle ich mich . Meine Frau grüßt von Herzen . Dein treuer Vater Mayer Damit Du weißt , wie wir wegen Deiner Zinsen stehen , so bemerke ich folgendes Einnahme am 9. April 1804 . war der Bestand Gold Kurant an Richtärschen Zinsen 6 rth - 4 rth 9gr - pro 1. April % 1. Juli 1804 10 rth - --- pro 1. Juli % 1. Oktober 1804 10 rth - --- an Seehandlung Zinsen - pro 9. April % 9. 8 ber 1804 . - - 2. 4 . 6. an Richtärschen Zinsen pro 1. 8 ber bis 31. X. ber 1804 . 10rth --- summa 36rth - 6rth 13 gr 6 kr Ausgabe Zur Witwen Kasse pro 1. 8 ber 1804 . 12 rth - - - - an Minna im Febr. 1805 . 20 rth - - - - 32 rth - - - Abschluß Gold Kurant summa der Einnahmen 36. - 6. 13. 6. Ausgabe 32. - - . -- Bestand 4rth - 6rth 13. 6 kr </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0005">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mayer an Johann Siegfried Wilhelm Mayer und Caroline Mayer.
+                    Leipzig, 26. November 1800, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 8°, 3 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1800-11-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012575">Familie(n)</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein guter , lieber Vater , wie sehr haben Sie mich durch Ihr gütiges Geschenk beschämt und überrascht . Auch dank ich Ihnen für den leisen Wink in Bezug auf die leicht sinnige Art mit welcher ich vielleicht mit dem ersten umgegangen bin . - ich schäme mich fast vor mir selbst daß ich mich hier wo fraglich ein ganz anderer Maßstab herrscht als der woran ich bisher gewöhnt war - und wo die Maße der Menschen es nicht zu schätzen weiß - wenn man sich auch durch Einfachheit geltend machen möchte - daß ich mich oft unwillkürlich durch kleinliche Eitelkeit habe hinreißen lassen . Das Geschenk von Ihrer lieben Hand mein bester Vater , werde ich durchaus nützlich anwenden ; das heißt ; mein Pelz soll davon in Stand gesetzt werden , und dann will ich mir ein kattunenes Haus-Kleid kaufen was mir für den Winter unentbehrlich ist . Die Zeit des Schwärmens ist jetzt so ziemlich überstanden , und wir fangen an ruhig und häuslich zu leben . Spaziere sieht zuweilen einige Menschen , die hier zu den ersten gehören auf einem einfachen Fuß in seinem Hause . Als seinen eigentlichsten Hausfreund muß ich Ihnen den associe des Herrn Voss . dessen Name Ihnen auch nicht fremd sein wird als einen recht liebenswürdigen interessanten ganzen Mann - anführen . - Ich freue mich auch in der Entfernung der glücklichen , der seligen Zukunft die sich Ihnen in dem Glück Ihrer Tochter eröffnet . - Ich nehme jetzt keinen Anstoß mehr hier öffentlich von Karolinens Heirat zu sprechen und lese dann mit Vergnügen die höchste Überraschung auf allen Gesichtern . - Caroline schreibt mir gar nicht ob sich denn J. P. vor der Hand wenigstens in Berlin fixieren wird ? - In Ihrem letzten Briefe an Minna waren Sie so gütig für die Dauer meines hiesigen Aufenthalts gar keinen Termin setzen zu wollen . - Wenn ich vielleicht noch die Neujahrs-Messe hier abwartete so könnte das für Karolinens Einrichtung recht gut angewendet werden . Denn alsdann kauft man hier alles für ein Spottgeld . Jetzt aber ist es im Gegenteil hier weit teurer als in Berlin . Ausgenommen konnten oder die sogenannten Points sind hier so wohlfeil und werden daher so gemein daß man sie sogar an den Nachtmützen trägt . - Nehmen Sie diese flüchtige Zeilen gütig auf mein bester Vater ; Ich schreibe nächstens mehr Die Post eilt und ich kann nur noch hinzufügen daß ich unwandelbar bin wie immer Ihre treue Tochter E. Liebste Caroline , ich bin Dir noch Antwort schuldig wegen Besorgung deines Pelzes . Es ist aber nichts ihn hier zu kaufen denn wie sollte ich ihn Dir denn hin schaffen ! Mit der Post geht es ja nicht ! Es wäre ja contrebande . Wenn Du Dir noch kein Kleid gekauft hast so nimm mein Rat an und kaufe Dir lieber dunkler als so eine leuchtende Farbe . Ich habe nicht Zeit dir mehr zu schreiben . Vergiß doch ja nicht die Schu ich brauche sie so notwendig ! - Und schreibe mir ja recht bald und viel ! Deine E. Minna bittet recht sehr um Entschuldigung daß sie nicht selbst schreibt . Hierbei erfolgt der Brief von Lusi . und freut und hofft Spaziere auf Ihren Einfluß zum besten seiner Zeitschrift . Leben Sie wohl mein bester Vater ! E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

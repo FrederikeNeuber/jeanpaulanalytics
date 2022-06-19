@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1026">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Paul Emile Thieriot. Bayreuth, 14. Juni 1826,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Karl Schwartz: Lebensnachrichten über
+                            Jean Pauls Geistesverwandten und Freund Paul Emil Thieriot. In: Annalen
+                            des Vereins für Nassauische Altertumskunde und Geschichtsforschung. Bd.
+                            18 (1883/84), S. 129-130.</bibl>
+                  <desc type="accMat">Mit <ref type="letter" target="JP-UB1025">Ernst Försters Brief an
+                                Thieriot vom 8. Juni 1826.</ref>
+                  </desc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1826-06-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004275">Paul Emile Thieriot</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012313">Thieriot-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012929">Verlobungen und Hochzeiten </term>
+               <term corresp="#JP-012314">Empfehlungen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Lieber herrlicher Freund ! Unsere auf dem heiligsten Boden neuerlich wieder erstandene Annäherung gibt mir wohl ein Recht und eine Pflicht , Sie von dem frohen Ereignis zu unterrichten , welches allein unter allen irdischen meine Seele bewegen und zur innigsten Heiterkeit stimmen konnte . Ich habe einen Sohn gefunden , lieber Thieriot , indem ich eine Tochter verlieren werde . Meine , unsere Emma wurde gewählt von einem herrlichen jungen Manne , einem Künstler Ernst Förster aus Altenburg , einem Maler . Im Dezember 1825 verirrte er sich hierher , und eines Freundes halber , den er gern sehen wollte , verweilte er einige Tage bei uns , in ununterbrochenem Zusammensein , und wir fühlten gegenseitig ein so grenzenloses Vertrauen , welches durch seinen Geist und seine Bildung für uns gehoben wurde , so wie wir für ihn , durch die ewig durchstrahlende Sonne des hohen Verdienstes unseres Unsterblichen . Er ging fort , um in München fleißig unter seinem Cornelius zu sein , allein wir blieben durch Briefe verbunden , und seine ganze Seele ergoss sich in Mitteilungen an Emma . Ich ließ sie in ihrer kindlichen Unbefangenheit ihm antworten ; denn ihr Geist bedurfte einer solchen Ideenstärkung , da ihr Gemüt zu tief durch den Verlust des Vaters geknickt war . Ich kann nicht leugnen , dass ich schon von Anfang an gewünscht , diese beiden gleichartigen Wesen möchten sich für das ganze Leben und die Ewigkeit einander gefunden haben ! Im Frühling kam er wieder , um hier ein Gemälde auf den Tod eines Kindes zu fertigen , und ob er gleich bei Herders wohnte , bot ich ihm , zum Malen , meine überflüssigen schöngelegenen Zimmer an . Seitdem lebt er nun den ganzen Tag mit uns , und endlich hat sich_es ausgesprochen , was vielleicht dunkel in seiner Seele lag . Wir sind sehr glücklich , lieber Thieriot , und ich , die bange Mutter , habe für alle unsere Verhältnisse unaussprechlichen Trost . Ich kann ihm alle unsere Sorgen anvertrauen , ihm alle unsere geistigen Schätze mitteilen , die von seiner für's Edle begeisterten Seele mit kräftigem Enthusiasmus , doch ohne krankhafte Weichheit , aufgenommen werden . Und so teilte ich ihm auch Ihre Briefe mit , die ihn zu einem großen Anteil für Sie bewegten , wovon sein hier beiliegendes Blatt an Sie ein Beweis ist . Wenn wir , wie Emanuel glaubt , Sie hier sehen werden , gewinnt er gewiss ihre Liebe - in jedem Fall aber besucht er Sie in Wiesbaden , denn er hat noch in diesem Sommer eine Reise vor . Ich fand gleich eine große , auch äußere Ähnlichkeit mit Ihnen , so wie Sie in meiner Erinnerung fortleben , und finde auch eine innere , die mir herzliche Freude macht . Emma verbindet sich aber nicht allein mit ihm , sondern mit einem ganzen Kreise der ausgezeichnetsten Menschen , durch seine weitverbreitete Familie und durch den Gelehrtenkreis in Berlin , München , Dresden , Bonn , wo er überall geliebt und höchst geachtet ist . Indem nun all Diese die Freunde ihres seligen Vaters waren , so urteilen Sie selbst , ob die Tochter Jean Paul's nicht in dem ihr durch Geburt und Erziehung angewiesenen Kreise bleibt ? Und ist dieses nicht das zweite höchste Glück der Erde ? Guter Thieriot , geben Sie den Kindern ihren Segen und Ihre fernere Liebe ! Unter den herzlichsten Empfehlungen an Ihre geliebte geistreiche Frau ewig Ihre Caroline . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

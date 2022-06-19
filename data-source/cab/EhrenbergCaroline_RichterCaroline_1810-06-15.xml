@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0045">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline von Ehrenberg an Caroline Richter. Altenburg, 30. Juni 1810,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 4 S. Schluss fehlt.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000898">Caroline Auguste Eleonore von Ehrenberg</persName>
+               <placeName key="JP-005521">Altenburg</placeName>
+               <date notBefore="1810-06-15" notAfter="1810-07-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Abgefasst einen Tag nach dem Geburtstag der Pröbstin des
+                    Altenburger Magdalenenstiftes, Wilhelmine Gertrude Auguste von Hagen, am 29.
+                    Juni. Dass der Brief vor dem 19. Juli 1810 geschrieben wurde, ergibt sich auch
+                    aus Caroline Ehrenbergs <ref type="letter" target="JP-UB0161">Brief von diesem
+                        Datum</ref>: "ich sagte Ihnen schon in meinem ersten Briefe daß die Lectüre
+                    geisteicher Briefe, hier die einzige Seelenunterhaltung wär".</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012741">Berichte und Klatsch</term>
+               <term corresp="#JP-011893">Berufliches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teure geliebte Freundin Hätte ich gestern Ihren Brief nicht erhalten , so hätte ich Sie heute daran erinnert , daß man den Hungernden nicht vom Frühjahr bis auf die Ernte warten lassen muß , wie die Mutter mit den Kind in den so fameusen Liede - warte warte mein liebes Kind - morgen wollen wir säen geschwind - u sw . - Sie wissen daß diese Unterhaltung - nämlich geistreiche Briefe zu lesen - daß einzige Erquickungswasser ist - was meiner Felsenexistenz Nahrung gibt - Schließen Sie nicht etwa hieraus daß ich mich unglücklich fühle , und meiner Lage schon nach 4 Wochen überdrüssig bin - nein gewiß nicht - - ich finde nichts angenehmer nichts interessanter als meine Stelle - allein - ich muß immer selbst aus mir schöpfen - und das Sprichwort sagt - man schöpft einen Brunnen aus - wie viel eher also eine Pfütze von zusammengelaufenen Regenwasser - an deren Austrocknen die Sonne auch das ihre tut . - Nach den Stunden deren ich täglich 7 bis 8 gebe - sehne ich mich nach einer Unterhaltung , die mir wieder Schwungkraft gibt - leider finde ich diese nicht hier - denn Fr v Grandpond , die Mitgouvernante , ist eine herzensgute Frau , aber auch weiter gar nichts - um ihren Medor ( der Hund ) drehen sich ihre Lebensfreuden , und ihre Unterhaltungen - Das Kapitel der Geduld , welches sie auch auswendig kann ( sie hat es bei ihren seligen Manne praktisch u theoretisch erlernt ) - habe ich ihr Wort für Wort Dank meinem guten Gedächtnisse - abgehorcht - und weiß nur alle Branchen ihrer Unterhaltung - Die Komtesse Haeseling eine Stiftsdame in den 40 ist immer meiner Meinung -- ja ja - und ja ja ja ist alles was ich von ihr hören kann , allenfalls noch , wenn es rechtes gutes Wetter in ihren Kopfe ist - Sie haben Recht - ja ja Der Maitre de langue - Herr von Vermerant dessen Runzeln und Platte ihn den Vorteil verschafft hat unter Jungfrauen zu wohnen - ist eigentlich ein ci devant Duc de Vaillant - und dieser steckt ihn auch noch in jeder Rocktasche - sogar in den Westentaschen , und auf einer Schule ter - es ist ein wandelnder Geldsack - denn er hat immer 4 Börsen bei sich - mit denen er alle Mal klingelt wenn er etwas Wichtiges sagen will - ich mag wohl seiner verlorengegangenen Herzoglichkeit nicht die erforderte Exellenz gegeben haben , daher ist er böse mit mir , und klingelt nicht mehr mit seinen Geldbeuteln . - Die Frau Pröbsten ist auf 6 Wochen ins Karlsbad gereist - und wenn sie hier ist - so wird sie so sehr von Geschäften umlagert - daß ich bloß bei der Cour sein kann , welche ihr die jungen Damen eine Viertelstunde vor den Mittagsessen und Abendtisch machen . - Bei Tische könnte ich Nahrung für den Geist sammeln weil der Kandidat Hetschold - ( ein Lehrer im Stift ) gegenwärtig und mein vis à vis ist - allein das Geräusch von 40 Personen läßt mir manchen Tropfen seiner witzigen und angenehmen Unterhaltung verlieren . - Er ist eine Espace Knieberg - doch jenen noch vorzuziehen , weil man an ihn die Bestimmtheit seines Charakters wahrnimmt - Sie sollten ihn predigen hören - und gewiß - Knieberg würde im Hintergrund gestellt . - Gestern war der Fr Pröbsten ihr Geburtstag - er hatte einen Gottesdienst zur würdigen Feier desselben angestellt - er hielt eine Rede - die mich ganz ergriff - mit einem Wort es ist ein herrlicher Mann , der noch höher in meiner Achtung gestiegen ist , da er meinen herrlichen Jean Paul vergöttert , und ihn für den ersten deutschen Schriftsteller hält . - Glauben Sie aber nicht , geliebte Caroline , </p>
+         </div>
+      </body>
+   </text>
+</TEI>

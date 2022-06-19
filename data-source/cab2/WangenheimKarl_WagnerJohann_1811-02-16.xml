@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1093">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl August Freiherr von Wangenheim an Johann Ernst Wagner. Stuttgart,
+                    16. bis 18. Februar 1811, Sonnabend bis Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>4 Bl., 8 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004599">Karl August Freiherr von Wangenheim</persName>
+               <placeName key="JP-006315">Stuttgart (Studtgardt, Studtgart, Stuttgard,
+                        Stutgard)</placeName>
+               <date from="1811-02-16" to="1811-02-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+            <note>Von Johann Ernst Wagner am 6. März 1811 an den Truchseß von Wetzhausen
+                    weitergeschickt.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012449">Kinder</term><term xml:id="JP-011937">Kunst</term><term xml:id="JP-012430">Religion</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Dank Euch , lieber trefflicher Freund ! für die schönen herrlichen Bilder , die Ihr uns geschickt habt , für das gemalte und das geschriebene . In jenem lebt mein wackerer Bettenburger und in diesem Ihr , beide wie Euch Gott selig gemacht hat , so liebend und so stark u so fromm , so menschlich u so strebend nach dem himmlischen , so genießend u so entsagend . Ich müßte mich lange besinnen , und am Ende half es doch nichts , ob mich je ein Geschenk so gefreut , so gerührt habe , als Deine Doppelgabe , mein Mensch ? Ich habe herzlich geweint und meine Mädchen , die ich eben unterrichtete , als der Brief von der Post ankam , wurden verwirrt und traurig , bis ich ihnen das Bild u meine Freude zeigte und sie es erkannten und jubelnd hinauf zur Mutter trugen . Ich könnte Euch nicht würdig danken , wenn Ihr meine Tränen nicht verständet , lieber Wagner ! Aber Ihr versteht sie u so ist uns beiden geholfen . Alles macht mir den heutigen Tag zum schönen , auch der Umstand , daß es heute Sonnabend ist , wo sich die Freunde regelmäßig und diesmal gerade bei Cotta , der ganz hier her gezogen ist , versammeln , so daß ich ihnen heute noch das Bild auf vorgeschriebene Weise - die auch ich heilig beobachtet habe - zeigen und sie freudig überraschen und ihnen dann alles durch Euren Brief erklären kann . Wie werden sich Alle fre u en , daß uns Truchseß außer sich selber auch Euch geschenkt hat ! Ihr seid aufgenommen in unseren Bund , denn wir liebten Euch Alle , kennten wir Euch auch nur aus dem hennebergischen Fibelschützen , und die Gläser sollen voll gefüllt erklingen u der Wein soll Wellen schlagen , wenn wir ihn zu Euren Gedächtnis trinken u auf des Ritters Wohl .Morgen erzähle ich Dir Alles . Nun es ist alles gekommen , wie ich es vorausgesehen u gesagt habe . Der Jubel war allgemein , u das herrliche Bild des herrlichen Menschen wurde auf den ersten Blick von Allen erkannt . Man konnte sich nicht satt daran sehen und nicht genug die lebendige Ähnlichkeit , die gelungene Darstellung des ganzen Menschen im Bilde preisen . Verwunderung u Lob stiegen als ich , nachdem die erste Schaulust befriedigt war , Ihren Brief vorlaße und man daraus den jungen ungeschulten Künstler erfuhr . Alle , worunter auch Kunstkenner , waren darüber einstimmig , daß in dem Knaben sehr viel liegen und daß er ein Gemüt haben müße , das das Höchste im Menschen herzlich u geistig aufzufaßen verstehe ; denn er müße den braven Bettenburger in seiner ganzen schönen Individualität begriffen haben , um sein Gesicht so wiedergeben zu können . Der brave , wackere Junge komme früh oder spat hierher , er würde achtende Freunde finden , auch wenn er nicht der Sohn unseres so geliebten Freundes wäre . Er dürfte sogleich u ungeschult kommen u er würde eines guten Erfolgs sich erfreuen . Aus dem Knaben muß etwas Seltenes werden , wenn ihm Gott seinen Vater noch einige Zeit läßt , wenigstens so lange , bis er die Periode erreicht hat , in welcher das Gemüt seine höchsten Wellen schlägt ; wo die Selbstliebe und die Elternliebe sich , wenn ich so sagen darf , zum Quadrat der Liebe potenzir e n , zur ästhetischen gegen das zweite Geschlecht ; wo es sich entscheidet , ob der Mensch untergeht in dem Sklavendienste des Verstandes u seines Gebiets der Endlichkeit , oder ob er sich hinaufschwingt zur sittlichen u religiösen Liebe im freien Dienste der Vernunft in dem Gebiete des Ewigen . Die Kunst ist die Vermittlerin zwischen Himmel u Erde , sie bringt beide zusammen , wenn sie die Erde zum Himmel trägt und den Himmel der Erde verständlich macht . Aber wie soll der Künstler ihre Aufgabe lösen , wenn er nur die Erde , und nicht ihren Begriff hat , wenn er nicht den Himmel in sich trägt und ihn darstellend begreiflich machen kann ? Aber wo sind die Künstler , die davon auch nur eine Ahnung haben ? Sind die größten nicht , dem Ewigen fremd , in der Endlichkeit befangen ? Sind nicht die meisten bloß Kopisten desjenigen in der Natur , was nicht ist , vom endlichen Bilde eines ewig Seienden ? - Aber was macht den Künstler zum Künstler ? - Die Idee , die Idee der Schönheit , die Du nicht haben kannst ohne die der Wahrheit und der Tugend ; denn sie ist zwischen ihnen , das Band beider , die Führerin aus dem Reiche der Notwendigkeit zum Reiche der Ewigkeit . Aber ich predige und wem ? - Verzeihen Sie , lieber Ernst ! Der Knabe - hätten Sie mir nur seinen Vornamen genannt ! - hat Gemüt , Talent und , was die Hauptsache ist , er ist Ihr Sohn u so muß er das werden , was ich einen Künstler nenne . Möge ihn ein guter Engel schützen und rein erhalten im unausweichlichen Kampfe mit der Leidenschaft ! Ich muß noch etwas vom Bilde und von gestern erzählen , das mich recht gefreut . Mein Freund , der Dr. Jäger , mit dem Truchseß viel zu wenig bekannt wurde , weil jener von seiner ärztlichen Praxis beinahe ganz verschlungen wird , kam später zu uns und wir waren schon bei der Lektüre vom neuesten ( herrlichen ) Shakespeare-Schlegel . Er betrachtet das Bild lange und in einer Pause , die wir machen , sagt er : den Menschen kenne ich , obgleich nicht seinen Namen , aber er wird blind , wenn er es noch nicht ist . Ich hätte weinen müssen vor Schmerz , wüßte ich nicht , daß unser Freund sehend wird , so bald er einmal will . Aber er ist in solchen Dingen so fromm-genügsam u. wohl uns ! , wie mein lieber Wagner . Ich komme eben vom seelenvollen Tannecker -- ausgemacht dem ersten Bildhauer seiner Zeit , obgleich ein Canova lebt , und dem enthusiastischen Freunde des unsrigen - dem ich diesen Morgen das Bild u die Geschichte desselben geschickt hatte und bringe ein erfreuliches Urteil . " In dem Jungen steckt viel , sehr viel - rief er mir beim Eintritt entgegen - die Ähnlichkeit ist sprechend , der Charakter empfunden und ein seltenes Auge hat er , denn er hat Nuancen gesehen und angedeutet , die mancher Künstler übersehen haben würde ; ich habe bei solchem Alter noch kein so ausgesprochenes Talent gesehen . Der Gang des Knaben kommt mir vor , wie der unserer genialen alten deutschen Maler , und wie er sich zb in Holbeins frühesten Produkten darstellt . Man soll ihn seinen Weg gehen , gute Sachen sehen , aber nichts kopieren , sondern nur nach der Natur arbeiten , viel zeichnen lassen , schöne Arme , Hände , Füße u. s. w. Wer in diesem Alter die Wahrheit so sieht , erkennt u darstellt , in dem bricht auch die Schönheit ein u führt ihn sicherer , als jeder Lehrer . Mut soll man ihm machen und Freiheit lassen ; denn er wird beide nicht mißbrauchen " So Danneker - ich mußte ihm das Bild lassen u versprechen , mich u Ihren Brief am Mittwoch in seinen Künstlerzirkel zu bringen . Am Ende sagte er : Ach ! wenn ich so einen Sohn hätte , ich wäre auf Erden schon selig . Er ist leider kinderlos . Unseres Freundes Disticha sind in der Tat herrlich und er soll mich und niemand mehr bitten , Inschriften in seinen Naturgarten zu machen ; denn er kann es selber besser . Doch tadele ich etwas sehr an dem Gedichte , die Überschrift nämlich , die sich , wenn wir den Charakter des Wernerischen Übertritts zur katholischen Kirche und sein Benehmen darin in Rom vom wahren Standpunkte aus betrachten , durchaus nicht auf Werner passt . Denn er scheint mir schlechthin nichts zu übertreiben , sondern nur zu gestehen u zu offenbaren , daß er sich selber bis zum gänzlichen mißverstand des Wesens der Religion u des Kultus hinuntergetrieben habe . Das Wesen der Religion ist Mystik und insofern Kultus die äußerliche Darstellung des innerlich angeschauten , empfundenen u gedachten ist , ist auch er mystisch . Die Mystik aber ist , wie es das Wort schon sagt , die lebendige Anerkennung , daß es neben dem Sichtbaren u Sinnlichen auch ein Unsichtbares u Übersinnliches gebe ; daß das letztere ein unendlich vortrefflicheres u wünschenswerteres sei , als das erste ; ja daß das Sichtbare u Sinnliche selbst nur aus dem Unsichtbaren , Un- u Übersinnlichen Bestand habe , nur in Beziehung auf dieses Sinn u Wert erhalte , außer diesem aber nichtig und sündhaft sei . Aus dieser lebendigen Anerkennung geht aber die Sehnsucht nach dem Verborgenen , nach Gott u seinem Reiche - das Dahingeben , das Geringachten , das Fliehen und Zurückstoßen alles Sinnlichen u Sichtbaren d. h. es geht aus ihr das Wesen der Religion hervor . Es spricht sich aber in dem religiösen Menschen auf eine dreifache Art aus - vom Geiste aus als göttliches Erkennen ; vom Gemüt aus als göttliches Lieben ; vom Leben aus als göttliches Handeln . Unser Typus ist Christus in welchem sich alle 3 Strahlen vollständig offenbart haben . Die religiöse Erkenntnis ist aber keine andere , als die Anschauung u Erkenntnis des Unvergänglichen u Ewigen an den Dingen d. h. als dasjenige , was sie in Gott sind ; die religiöse Liebe ist eben so die Liebe des Ewigen u Unvergänglichen an den Dingen oder der Dinge , wie sie in Gott sind ; und aus der göttlichen Erkenntnis u der göttlichen Liebe folgt das göttliche Handeln von selber , denn wie der Mensch den Vater in Allem sieht u liebt , so tut er auch in Allem den Willen des Vaters . Er ist religiös in den 3 Hauptverhältnissen jedes Menschen , in dem Verhältnis gegen die Natur , in dem gegen die Menschheit u in dem gegen Gott . Wie der Mensch aber innerlich begeistert ist , so treibt ihn seine Natur die innere Begeisterung äußerlich darzustellen , seine Gefühle werden Gebärden , seine Gedanken Worte , seine Ideen Bilder . Einmal das Innere durch Gebärde , Wort u Bild ausgesprochen u sichtbar gemacht , eröffnet sich dem Menschen ein ganz neuer Kreis seines geistigen Bewußtseins . Das religiöse Wesen trennt sich von der unmittelbaren Anschauung , erscheint ihm in einer unabhängigen Gestalt und er nimmt das Werk seiner Bildung gewißermaßen mit Freiheit in die Hand . Aber so seegensreich auch in jeder Rücksicht dieser Schritt der geistigen Kultur ist , so gibt er doch auch zugleich die erste Möglichkeit religiöser Verirrungen . Denn die Gebärde , das Wort und das Bild haben nur insofern religiösen Gehalt u relig. Bedeutung , inwiefern ihnen ein inneres Leben , eine religiöse Anschauung zum Grunde liegt . Ohne dieses Leben , ohne diese Anschauung wird die Gebärde Grimasse , das Wort ein leerer hohler Schall , das Bild eine nichtige tote Form : Sie fallen alle drei in ein pures Nichts , so bald der innere Trieb , der sie erzeugte , das Gefühl und der Geist , die sie schufen , verschwunden sind . Sie sind aber in dem nämlichen Augenblicke verschwunden , in welchem der Mensch , der Sinnlichkeit hingegeben und das ursprüngliche innere Leben verlierend , anfängt , dem äüßern Ausdrucke desselben Wert u Bedeutung beizulegen u ihn als etwas an sich wichtiges u der Religion wesentliches zu betrachten . Die tote Form stellt er als Mittelpunkt nun auf , an den er alles übrige anschließt , das aber , worin er die Religion erkennen soll - das Heilige u Göttliche - geht in ihm unter , sein eigenes Machwerk tritt an dessen Stelle u er verfällt in einen träumerischen Zustand , in welchem ihm , so lange er dauert , alle Erhebung u Heiligung der menschlichen Natur rein unmöglich ist . Und in diesem elenden Zustande ist der Ursprung der Abgötterei zu suchen . Indem das Zeichen an die Stelle des Bezeichneten tritt , geht die religiöse Gebärde , sonst ein schöner Ausdruck der Andacht u Frömmigkeit , in erbärmlichen Zeremoniendienst über , das Wort , sonst die Darstellung der innersten Anschauung u Empfindung in einer ausgesprochenen Wahrheit , verwandelt sich in Papageiengeschwätz und Maulbraucherei ; und die im Bilde dargestellte Idee der Macht , Weisheit u Güte artet in schnöden Bilderdienst aus . Hat man aber einmal diese genetische Ansicht der Gebärde , des Worts u des Bilds verloren , ist man einmal in den Sklavendienst der Gebräuche versunken , so ist nichts natürlicher , als der unnatürliche Versuch der After-Pädagogen ( dies Wort im weitesten Sinne genommen und auf Philosophen , Dichter , Staatsmänner pp bezogen ) , die Religions-Gebräuche zum Mittel zu erheben , das Volk u die Menschen überhaupt für Religion empfänglich zu machen . Stadt , wie Jesus mit seinen Jüngeren tat , die heiligen Gebräuche aus der Religion entstehen zu lassen d. h. statt die Menschen vor Einsetzung der Gebräuche in das Leben der religiösen Anschauungen u der heiligen Gefühle einzuführen , wollen sie nun aus den Gebräuchen die Religion herausfallen lassen u aus dem Tode das Leben erzeugen . Wäre diese Verkehrtheit ausführbar , wie sie es denn glücklicherweise nicht ist , so würde sie alle Religion unwiederbringlich zerstören und das heilige vernichten . Denn , weit entfernt , daß ein Mensch von einiger Bildung sich durch das Äußere in das Innere gleichsam hineintreiben ließe , wie der Ochse in den Stall , wirft er es vielmehr , so bald er mündig geworden , als eine fremde u lächerliche Last weg und wird , die Bedeutung nicht erfaßend , entweder Heuchler oder Religionsspötter . Wenn nun vollends Menschen , wie Werner u Andere , meinen , daß der katholische Kultus d. h. der symbolische , wortlose , der wahre für das sinnliche Volk sei , so lässt sich die Rede gerade umdrehen und behaupten , daß das Volk desselben nicht fähig sei , und daß nur der vollendet Gebildete es vermöge , im Zeichen das Bezeichnete , im Äußeren das Innere anzuschauen u zu erfassen ; denn die Symbole der katholischen Kirche deuten auf ein unmittelbares Verhältnis der religiösen Weyhe des Herzens zum Äußeren hin und von dieser Seite erscheint die Religiosität ganz frei u unabhängig vom Denken u gleichsam darüber erhaben , indem hier der Mensch das Unmittelbare der Religion unmittelbar selbst ergreift und ausdrückt . Daß dies aber nur bei der hochstehn religiösen Stimmung u Anschauung möglich sei , leuchtet ein . Deswegen scheint der Protestantismus mit Recht diese Art von Symbolen vom öffentlichen Kultus ausgeschloßen zu haben , weil sie in ihrer Reinheit nur da erscheinen , wo das Gemüt , göttlich ergriffen u überwältigt , die Gegenwart Gottes über alle Worte erhaben fühlt u wo der Mensch selbst sich ganz als Kind Gottes empfindet . Auch dafür erscheint uns Christus als Muster in seinem Umgange mit dem Vater . Aber wie himmelweit entfernen sich unsere After-Mystiker von diesem erhabenen Vorbilde ! Aber auch ihr Tun , das ( wie sich Werner Zb selbst irgendwo ausdrückt ) ein Nicht-Tun oder eigentlich ein Böses-Thun ist , läßt sich genetisch nachweisen . Das einsame Leben der Andacht ist ursprünglich göttlich und treibt zu allem Göttlichen . Wie das Göttliche den Menschen ergreift , so durchdringt es - eine himmlische Wonne , eine selige Wollust - sein ganzes Wesen , er schwimmt in einem Meere von Freuden , er sieht sich in die neue Welt eines göttlichen Paradieses versetzt , in ein unbekanntes Eden , in welchem ihm die schönsten Blumen duften , Blumen , die er ohne Mühe u Anstrengung nur pflücken , Früchte , nach denen er nur greifen darf , um sie zu genießen . So weit ist alles recht und göttlich notwendig ; allein noch einen Schritt weiter und die Ausartung liegt entschieden da . Dieser selige Zustand des andächtigen Lebens wird von der Sinnlichkeit ergriffen ; die Neigungen , Wünsche und Begierden des sinnlich ergriffenen Menschen hängen sich an diesen Zustand und er möchte nun ewig so genießen , ewig so sein . Nun strengt er seine Phantasie an , um mit ihrer Hilfe den Zustand wieder hervorzuzaubern , der entflohen war , nachdem der göttliche Funken der Begeisterung in ihm erloschen ; er will sein Paradies behaupten , ohne es weder zu erkennen noch zu verdienen ; die hohe Offenbarung , deren sein Gemüt teilhaftig war , trennt sich in ihm von der Quelle , aus der sie hervor ging ; jene Anschauungen des Göttlichen und Übersinnlichen verwandelt er in Gegenstände der sinnlichen Einbildungskraft , um kindisch mit ihnen zu spielen und sich an ihnen zu ergötzen ; und er braucht das ursprünglich Heilige u Göttliche als eine Nahrung für seine Trägheit , als Mittel der Zeitverkürzung , statt es zu gebrauchen , um Gewalt und Herrschaft zu haben über das Sinnliche . In diesem Gaukelspiele , das er mit sich und dem Heiligsten treibt , wird er ein eigentlicher Gotzendiener seiner selbst , seiner Phantasie und seiner Sinnlichkeit . Jede Pflicht wird ihm zur Last u er reißt sich los von den frohen , heiteren Banden des Lebens . Dies scheint mir die Quelle aller Religionsschwärmerei und des ausgearteten Mystizismus und zugleich der Zustand zu sein , in welchem Werner sich jetzt befindet . Den Mystizismus der Vernunft u den der Phantasie nicht unterscheidend setzt er das Bild des Göttlichen an die Stelle des Unaussprechlichen selber und unfähig - das Sinnlische vom Geistigen , die Erscheinung vom Wesen zu unterscheiden - hält er die bloße Form , in der es ihm deutlich wurde , fest , macht sie zum Mittelpunkte seiner Verehrung und wähnt in ihr das Ewige selber zu besitzen . Die Folgen eines solchen Zustandes sind unfehlbar höchst unglücklich . Dem unwiderstehlichen Triebe nach einem beschaulichen Leben folgend , entzieht sich der Mensch seinen Verhaltnißen u Geschäften , um seinen phantastischen Genüssen nachzuhängen und , da alles sinnliche miteinander verwandt ist , kommt es mit ihm nicht selten zu den rohsten Ausbrüchen viehischer Sinnlichkeit !! - Und dennoch möchte ich Wernern nicht einmal so angreifen u richten , wie unser Freund ; schon deswegen nicht , weil mit allen seinen Sünden verirrter Phantasie sein Wollen u sein Können das Wollen u Können von hundert verständigen Dichtern u Philosophen aufwiegt , die in ihrer übermütigen Beschränktheit , in der sie das Ihnen Unerklärliche für das Unmögliche , das ihnen unbegreifliche auch für das Nichtige halten , nicht einmal einer solchen Verirrung fähig u würdig sind . Ich hasse die Maulwürfe , die nur für den Kot der Endlichkeit Augen haben , mehr , als ich jene Halbverrückten beklage . Denn diese hatten doch was zu verlieren . Verzeiht , Lieber ! das lange Seil , das ich gezogen ; aber teils ist mir die Sache an sich wichtig , teils möchte ich sowohl von Euch , als von Truchseß gerade in dieser Hinsicht verstanden seynGrüßt mir den Jungen u seinen Bruder . Bald schreibe ich dem ersteren selbst . Will mich der Bube aber ganz närrisch vor Freuden machen , so schickt er mir ( als Gegenstück , also in gleicher Größe , entgegengesetzter Richtung pp ) zum Ritter dessen Freund u meinen , nämlich seinen herrlichen Vater d. h. Euch , dem der hohe Gott freundliche Blicke senden möge aus seinem blauen Äther .Lebt wohl , recht wohl , lieber Ernst .IhrFreund Wghm . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

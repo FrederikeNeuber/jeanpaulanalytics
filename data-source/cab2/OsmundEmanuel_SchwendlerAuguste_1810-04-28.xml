@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0180">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Henriette Schwendler. Bayreuth, 28. April 1810, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 1 Bl., 5¾ S. Brief- bzw. Bogennummerierung vfrH.</p>
+                        <accMat>Brief von Leopold Schlabrendorff an Henriette Schwendler vom
+                                    März 1810 (nicht überliefert); Brief von Henriette Braun an
+                                    Emanuel vom April 1810 (nicht überliefert).</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1810-04-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-002936">Antonie von Mützschefahl</persName>
+               <persName cert="medium" key="JP-003749">Amanda Schlabrendorff</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0458">Von Antonie von Mützschefahl und
+                        Henriette Schwendler an Emanuel. Meinigen, 24. März 1810</ref>
+               <ref type="prev" target="JP-UB0068">Von Henriette Schwendler an Emanuel.
+                        Meiningen, 27. März 1810</ref>
+               <ref type="next" target="JP-UB0042">Von Henriette Schwendler an Emanuel.
+                        Meiningen, 26. Juli und 6. August 1810</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012565">Erziehung, Pädagogik</term><term xml:id="JP-011832">Gesellschaftliches Leben</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine alte Henriette ist meine biedere , alte Voigt , und so lange mir Gott diese läßt , die es so wohl durch das Alter des schönen Lebens , als unserer Bekanntschaft längst geworden , müssen Sie schon , mit dem am Krankenbette der guten Luise erworbenen grauen Haupte , dennoch meine jüngere bleiben . Wenn ich Sie nun versichere , daß ich von meiner zweiten Jette , schon seit zehn Jahren eine graue Locke besitze , die ich mir von dem Siebenzehen jährigen Mädchen erbeten , so werden Sie sich wohl überzeugen , daß Sie viel zu spat grau geworden sind , um je mehr meine älteste werden zu können . Indes die höchste Freundschaft hat keinen Anfang und kein - Alter , so wie ihr Vater selber , so lange wir an beide mit kindlichem Sinne glauben u mit kindlich reiner Unschuld . Werden wir aber durch Versuchung von dem Allerheiligsten abgeführt , dann tritt die Unvollkommenheit ein und wir zählen die Vergangenheit , die Länge und Kürze der Zeit . Zur Bekräftigung dieser Wahrheit gab ich ein zu hartes Beispiel an meinem alten R. u seinen alten Em. , die sich seit dem 2ten Jan. d. J. wohl einige Male , an dritten Orten , gesehen , aber nicht gesprochen haben . Caroline u die Kinder kommen bisweilen noch zu mir ; aber die alte Zeit scheint , erscheint mir nun lange u die neue wird mir so . Richter liebet mich noch das glaube ich zu meiner Ruhe und ich zähle unter meinem Glücke noch die Liebe zu ihm . An seinem Geburtstag , ging ich an seinen Geburtsort , Wonsiedel ; meine Straße und meine Brust waren mir hier viel zu enge . Ich lebe also noch eingezogener und noch - ruhiger als im vorigen Jahre . Seit einigen Wochen wohnt Mad. Harmes , sonstige Berlepsch , einige Häuser von mir , Richters gerade über . Ich sehe sie selten . Nun nehmen Sie meinen Dank für die Worte von März u für die v. 3 Tage später , mit dem köstlichen , natürlichen Leopolds Brief , den ich Ihnen beiliegend wieder gebe . Könnte ich es möglich machen , Sie in diesem Sommer zu sehen , ich würde es um so lieber , um Ihren jüngsten Brief gehörig beantworten zu können , denn mit der Feder kann ich das gewiß nicht , mit dem Munde viel . nicht viel besser . Freuen Sie sich Ihres Leopolds - wie alt ist er , bei seiner reifen , beinahe zu festen , kalten , ruhigen überlegten Menschenkenntnis ? - er ist schon recht brav u wird es gewiß noch mehr .Überhaupt habe ich noch größeres Zutrauen zu Ihrem Lobe Ihrer Kinder , als - zu Ihrem Tadel derselben . Noch konnte ich keine Mutter mit diesem Tadel loben ; aber dieses Lob ist auch das einzige , das ich Ihnen beschränkt als Mutter gebe , denn alles übrige , was Sie mir über Weiblichkeit , Mütterlichkeit u über Erziehung sagen kommt aus dem heiligen Geiste einer - über mein Lob erhabenen - reinen , kräftigen Seele . Aller edlen Mütter , aller edlen Väter Lob gebühret Ihnen . Henriette Schukmann schrieb mir gerade als ich Ihren jüngsten Brief bekommen hatte - am 35ten Sterbe-Geburtstag ihrer Mutter - ein so weiches Billet , daß ich ihr zum Lohne ihrer Kindlichkeit Leopolds Brief mitteilte . Die Antw . darauf dürfen Sie schon lesen u daher lege ich sie Ihnen bei . Sehen Sie Ernst Wagner : so drücken Sie ihm derb seine Schreibehand für mich , für alles was sie mir schon gegeben , besonders für seinen sehr braven Ferdinand Miller , an dem er eben so viel Freude erlebte , als er damit macht . Könnte ich doch diesen natürlichen , ehrlichen Schriftsteller einige Jahre von meinem unbedeutenden Leben überlassen ! Ich wünschte es auch , Sie unter Ihren Kindern u neben dem glücklichen Gatten bald wieder zu sehen ; aber so lange wir keine bessere politische Aussicht haben , habe ich keine auf dieses Sehen . Sie sehen den guten Truchsess bisweilen , des freue ich mich für Sie u ihn . Eben habe ich Ihren u Leop . Brief noch einmal gelesen u diesen noch einmal ganz genossen . für beide auch meinen wiederholten herzlichen Dank ! Aber , wie gesagt , mündlich möchte ich Ihnen antworten können . Und doch würde ich auch dann nicht viel sagen , als : " Da u hier u überall haben Sie , was Sie Richtern geben , Recht " . Küssen u grüßen Sie mir Mann u Kinder u bleiben Sie recht gesund ! Eml P. S. Trauern Sie nicht , über die gute Hoffnung , die ich mit Ihnen teile . Sie wissen Kinder zu erziehen u zu lieben also , daher müssen Sie Freude finden in Ihrer Lage . Sagen Sie mir es bald , daß Sie heiter gesinnt und gestimmt wieder sind . Wie ungleich teilet das Schicksal seine Gaben aus : Mancher steht ganz verlassen da , ohne Weib und Kind , und ist betrübt , u Manchem gibt es zu viel !Nein , prächtiges Weib , herrliche Mutter , ich darf Sie mit Ihrem Schicksal unzufrieden nicht wissen . Wenn Amanda's Stiefmutter die Tochter verlanget und die Tochter nach ihr , dann lassen Sie mit Liebe und Segen sie ziehen . Aber nur nicht als Strafe diktieren Sie diese Trennung von sich . Geht Am . mit Freiheit dahin , dann kommt sie gebessert bald wieder an das liebende Herz der strengen und scharfsehenden Mutter , um da noch besser zu werden , für das Herz eines edlen Gatten . Lassen Sie sie mit mütterlicher Liebe von sich , dann , nur dann verspreche ich mir Vorteil für Sie u für sie . Gott wird mit ihr sein u sie glücklich , wie es die treue Mutter verdienet , bald werden . Ich denke mir Am . nicht anders als gut . Pauline u Reinhold küß ich mit sehnender Liebe. E. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

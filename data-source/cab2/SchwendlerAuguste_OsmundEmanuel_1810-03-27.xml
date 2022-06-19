@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0068">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 27. März 1810,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl., 7½ S. Briefnummerierung vfrH.</p>
+                        <accMat>Brief von Leopold Schlabrendorff an Henriette Schwendler
+                                    (nicht überliefert). </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-03-27" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0180">Von Emanuel an Henriette Schwendler.
+                        Bayreuth, 28. April 1810</ref>
+            </correspContext>
+            <note>Präsentat: 28 <hi rendition="#aq">Apr</hi>. beantw.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012565">Erziehung, Pädagogik</term><term xml:id="JP-012265">Geschlechterrollen</term><term xml:id="JP-012449">Kinder</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich schrieb Ihnen , teurer Freund , vor einigen Tagen in einem Briefe meiner Antonie einige Zeilen in solcher Eile und in einer so störenden Umgebung , daß ich mir kaum zu sagen weiß , ob nur einiger Sinn in meinen Worten war . Denken Sie , zwei französische Offiziere in meinem Zimmer , Amanda am Klavier , und Pauline den kleinen Reinhold auf dem Schoße . Herzlich sehnte ich mich ein Stündchen Ruhe zu finden , um mit Muße meinem Freunde zu schreiben , dem ich vieles , mir sehr wichtiges zu sagen habe , aber auch nach einer sicheren Gelegenheit um ihn meinen Brief einzuhändigen . Beides bietet sich mir in diesem Augenblicke dar , das Anerbieten des Justiz Rat Deahna , Ihnen diesen einzuhändigen , ist mir sehr wert . Anliegend teile ich Ihnen einen Brief mit von meinem Sohn Leopold . Sie wissen , Guter , wie schon einmal ich Ihnen meinem Kummer klagte , ob ich mich wohl je dieses Sohnes werde freuen können ; der als Kind so viel versprach und in dem Übergang vom Knaben zum Jünglinge mir so unendliche Besorgnisse für seinen moralischen Charakter gab . Trügt mich mein mütterliches Gefühl nicht ganz - und darüber sollen Sie , Emanuel entscheiden - so hat das Schicksal mächtig in Leopolds Erziehung mit eingewirkt und er ist jetzt auf dem Wege ein nützlicher und edler Mensch zu werden . Gott , ich kann Ihnen nicht sagen , wie mich der Brief ergriff und die Schilderung von seinem Leben . Ich dächte es wäre alles kindlich unschuldig dargestellt , sollte ich mich irren , so sagen Sie mir es , ich will mich nicht über meine Kinder verblenden , nicht über ihre guten Eigenschaften nicht über ihre Fehler . Die Elterliche Erziehung bleibt ewig Stückwerk wenn nicht das Schicksal sich mit einmischt , auch mich hat es erzogen und wenngleich unter harten Weisungen doch zu meinem Nutzen . Anbei , Teurer , wann wird denn das Schicksal mir Amanda , erziehen helfen . Wie viel fehlt und welche Lücken bemerke ich täglich . Über ihre Sinnlichkeit hätten Sie mich wohl beruhigt aber welcher Leidenschaftlichkeit in ihrem ganzen Wesen , welche Unmäßigkeit bei dem Genusse irgend einer Freude ! -- Können Sie glauben , daß Antonie sehr verderblich auf A. wirkt . Das reine hingebende Gemüt von meiner Schwester müßte auf wahre Weiblichkeit vortrefflich einwirken , denn dann berührte sich ihr beiderseitiges Wesen , aber bei Amanda , die so wenig Weiblichkeit hat , diese versteht sie nicht . Da überhaupt Antonie keine Energie hat , um heftige Charaktere zu bezwingen auch viel zu viel Weihrauch streut , ohne zu berechnen warum und ob es der Mühe wert ist , so stehe ich natürlich bei Amanda im Verhältnis meiner Schwester zu ihr , in einer unangenehmen Alternative . Wo Antonie lobt , muß ich geradezu tadeln , wo A. meint , mit der Zeit würde sich manches ändern da ruft mich die Pflicht vor Gott auf , zu erklären , daß wo nicht wenigstens der Wille da ist , die Tat schwerlich mit der Zeit reift . Unbegreiflich ist es mir , wie die besten Menschen in ihren Urteilen so fehlgreifen können , Caroline schreibt mir letzt , in den vornehmen Ständen brauchten die Weiber die Häuslichkeit beinahe gar nicht , wenn nur Talente da wären . Als sollte nicht Weiblichkeit die Mitgabe jedes Weibes sein , ohne ihr gibt_es keine Häuslichkeit und ist diese nicht wiederum die Schöpferin der unerlässlichsten weiblichen Tugenden , der Ordnung und Reinlichkeit . Wenn die Jungfrau Gattin und Mutter wird , Oh dann müssen die Talente oft eine ganze Weile ohne Übung bleiben . Der Gatte sucht dann weniger fürs Ohr und Auge , aber in Liebe und Treue soll die Gattin ihr Tagwerk beginnen . Die alleinige Übung der Talente , ist Folge unmäßiger Eitelkeit und Gefallsucht , beide geziemen der zarten Jungfrau nicht und die Frau machen sie unglücklich . Richter schrieb mir in denselben Briefe wütend aber köstlich seine Gegen Meinung . Gewis hat Caroline dabei gelitten , aber Richter hatte Recht . Oh Gott , Emanuel , könnten Sie mich nur handeln sehen , Antonie sagt , ich sei zu streng , Nein , ich bin es nicht . Ich bin ernst es darf mir nichts entgehen , ich gönne an Amanda jede Freude , wenn sie aber nicht satt wird , wenn sie alles daneben vernachlässigt , ja dann werde ich streng und ein unbeschreiblicher Mißmut ergreift mich . Wäre mein S. ein König und hätte Krösus Schätze , er würde gerade von mir fordern , was ich ihm jetzt in einem schlechten bürgerlichen Verhältnis leisten muß . Wir leben aber glücklich , und ich habe die Beruhigung einen edlen Mann , so weit meine Kräfte reichen , frohe Tage zu bereiten . Dies wünsche ich auch bei Amanda , sie soll glücklich machen und glücklich werden . Gott wolle , daß das Schicksal ihren ferneren Lebensweg so einrichte daß sie schlechterdings ihre Kräfte gebrauchen muß , sie hat deren genug und Verstand obendrein . Ich bin fest entschloßen , sie einige Zeit ihrer Stiefmutter - die mit dem Grafen auf dem Lande lebt zu übergeben , wer weiß was ländliche Stille , und eine andere Behandlung bewirken . Sie wird vieles vermißen , was sie hier besaß und wenn andere auch das bei ihr tadeln , was ich an ihr tadelte , so kehrt sie mit Sehnsucht und mehr Vertrauen zurück . Die Gräfin hat zwar viele Standes Vorurteile und überhaupt einen beschränkten Verstand sie ist aber gut , eine treffliche Hausfrau und erträgt den tollen Grafen mit bewunderungswürdiger Fassung und Ergebung . Finden Sie meine Idee Unrecht Amanda von mir zu tun so sagen Sie mir es . Nützen kann ich ihr in der Zusammenstellung mit meiner Schwester nichts und mein tätiges Beispiel beachtet sie gar nicht . Antonie war mir als Erzieherin lieber ehe sie in die Schweiz ging , sie hat viel Eigentümliches verloren und Fremdes angenommen . Pestalozzi mag vortrefflich sein sein Institut trägt aber die Gebrechen der Menschlichkeit , er nun steht fromm und uneigennützig da , nicht so die anderen Lehrer . Antoniens nur zu empfängliches Gemüt und ihre Unbekanntschaft mit der Welt erlag unter dem Kontrast den sie fand , moralisch angegriffen mußte ihr Körper leiden . Jetzt ist sie wieder gesund und ihre ruhige Lebensordnung behagt ihr vortrefflich . Ein für allemal , sie ist ein himmlisches Wesen , aber fürs praktische Leben taugt sie nicht , und doch verfehlt sie ihre Bestimmung . Unendliches würde sie leisten , betrachtete sie die Welt nach ihren wahren Verhältnissen , und überhaupt ergriff sie nicht eine gute Sache mit einer solchen Überspannung die dann nicht ausdauert . Kommen Sie , Guter , zu uns , belehren Sie mich wo ich zu tadeln bin , und glauben Sie , wenn ich andere tadle , ich mich streng richte . Wir sind wohl , soll ich mich denn freuen ? ich bin abermals hoffende Mutter , Reinhold ist wohl ein Engel , aber welche Sorge macht mir seine Pflege , und wieviel Muse kostet überhaupt jedes Kind . Wo sollen meine Kräfte ausreichen , ich wage es nicht zu gestehen , aber eigentlich betrübt mich mein Zustand . Trösten Sie mich , lieber Emanuel ich klage Ihnen gern , weil Sie mich verstehen und niemand belebt meinen Glauben ans Gute so wahrhaft als Ihr Mensch . Gute Nacht , es ist spät , meine Engelchen schlafen um mich her , Pauline und Reinhold . Der Schlaf der Kinder ist der schönste Anblick . Gott sei mit Ihnen Ich grüße die Ihrigen Henriette </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0523">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 1. Januar 1803, Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2⅔ S.</p>
+                        <accMat>Gestrickte Schuhe als Weihnachtsgeschenk. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-01-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012183">Festlichkeiten</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Es wäre unverzeihlich , mein teurer Vater , so spät erst Ihnen meinen herzlichen Dank , für Ihr gütiges Weihnachts-Geschenk , zu sagen - und meine eigene kleine Gabe zum Hl. Christ erst jetzt Ihnen zu bescheren , wenn ich nicht eine bedeutende Abhaltung gehabt hätte . Diese war zwar nur die Krankheit unseres dienstbaren Geistes - nämlich der Ihnen wohl-bekannten Marie welche ich von Berlin mitnahm . Jetzt ist sie wieder hergestellt - doch konnte sie in keiner ungelegeneren Zeit davon befallen werden , als gerade in der schönen Weihnachtszeit , wo man gern alle häuslichen Störungen aus dem Wege räumt , und so gern in einem kindlichen Freuden-Taumel leben mag . - Was ich für Sie gearbeitet habe , machte mir mehr Freude als es Ihnen , mein geliebter Vater , machen kann - weil es für Sie war . In den gestrickten Schuhen werden Sie vielleicht alte Bekannte entdecken . Denn es sind eben solche , wie wir in den Zeiten da wir noch so glücklich waren , an Ihrer Seite zu leben , jährlich für Sie arbeiteten , und - wie Sie sie gern trugen . Welch eine selbstsüchtige Absicht diesem kleinen Geschenk zum Grunde liegt erraten Sie ja wohl leicht ? - Es kann ja nicht fehlen ! - Nun müssen Sie doch einmal des Tages sich der Geberin freundlich erinnern ! - Mit Ihren lieben Geschenken , ist geschehen was ihr Wunsch war ! Minna hat zuerst die Wahl gehabt . Die kleinen Andenken von Gustchen habe ich mir ihr geteilt , und das für Caroline bestimmte , hat die Reise nach Meiningen auch schon angetreten ! - Ich schreibe Ihnen heute an dem ersten Tage des neuen Jahres , mein geliebter Vater ! In einem frommen Gemüt knüpft sich Dank , - an die Hoffnungen und Wünsche für die Zukunft - Dank , für die Vergangenheit , auch wenn Sie schmerzliche Erfahrungen enthielt . In Bezug auf Sie gab es der letzteren für mich nicht , sondern nur schöne Erinnerungen , und die Gewißheit , der Fortdauer Ihrer väterlichen Liebe ! Für mich habe ich weiter keinen Wunsch als daß diese mir ewig bleiben möge - und Ihnen wünsche ich eine seegensvolle Zukunft ! Leben Sie wohl , mein geliebter Vater !! Ewig bin ich Ihre treue Tochter E' . Mahlmann Tausend Empfehlungen von meinem Mann , an Sie , mein bester Vater , und Ihrer lieben Frau von uns allen beiden . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

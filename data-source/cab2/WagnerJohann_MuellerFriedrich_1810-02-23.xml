@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1084">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 23. Februar 1810,
+                    Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">GSA 68/618, Bl 29-30</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1
+                                    Bl. 8°, 1⅓ S.</p>
+                        <accMat>
+                           <p>
+                              <hi rend="italic"> Quittung über 4 Carolin für zwei von
+                                            Müller veräußerte Holzgemälde</hi>.</p>
+                        </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Geringer Textverlust durch
+                    Papierfalz.
+                </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1810-02-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012543">Dank</term><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-012449">Kinder</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Könnte ich Ihnen , Bester , doch schildern , wie schön und tief Ihr verehrter Brief vom 20stn mich gerührt hat ! Ach , diese Welt ist doch lieblich , und es wandern so herrliche Menschen auf dem lieben Sterne , daß man oft versucht wird , mit Herders Charikles auf eine Seelenwanderung in die Runde zu hoffen . Den innigsten Dank für den Verkaufe der Holzgemälde ! Heute erhielt ich auch von Völkershausen die 4 Carolins , ( worüber ich Ihnen für den Eigentümer hier die Quittung anlege ) und , hätten Sie doch das freudige Gesicht des guten Menschen gesehen , der so dankbare Grüße Ihnen sendet - dem nun auf lange geholfen ist ! - Hierbei noch eine innige Bitte ! Sollten Sie Ihren - ach so herrlichen und prächtigen Vorsatz ausführen , noch vor dem Frühlinge hierher zu kommen , so wünsche und bitte ich gar sehr , in Meiningen ( ich mag noch in diesem Lande leben oder nicht ) doch ja nirgends von der Geschichte dieser Gemälde zu reden oder sonst etwas davon zu entdecken . Gewisse Verhältnisse machen die gütige Erfüllung dieser Bitte wichtig für mich ; ( mündlich das Nähere ! ) und da Sie alles getan haben , Trefflicher , so weiß ich , Sie werden auch diese Bitte noch gern erfüllen ! Was Sie mir über meine lieben Knaben sagen - - dafür können nicht Worte danken , sondern Tränen - und stille Gebete zu dem Höchsten ! Freuen Sie sich mit mir , Bester ! Der 2te Febr. , mein Geburtstag , war ein schöner Tag für mich . Gleichsam mit der Morgenröte sandte mir meine treffliche Fürstin einen wahren Engelgruß , und in ihm das ( ganz ohne mein und Jemands Zutun , nur aus der eigenen reinen Quelle dieser göttlichen Seele entsprungen ) Versprechen , meine teuren Jungen schon jetzt an einigem Unterrichte unseres süßen Prinzen Teil nehmen zu lassen , und sie , sobald es Zeit dazu , auf ihre Kosten in Dresden in der Malerlehre zu unterhalten ! - Welch ein schöner Morgen war das für mich , mein verehrter Freund ! Um wie viel ruhiger und freudiger gehe ich nun schon dem Grabe entgegen ! Ach , Sie stellen Sich womöglich vor , wie sanft und stille mein Leben zu werden anfängt ! Sollte ich Sie wirklich noch einmal ans Herz drücken , Lieber , Teurer - dessen herrlicher Geist mir hienieden so wohl tat ? Grüssen Sie die holde Minna aus der Tiefe meines Herzens - und eben so meine dortigen Gönner und Gönnerinnen ! Göttliches Weimar ! Ewig , ewig Ihr treuer und dankbarer JEWagner </p>
+         </div>
+      </body>
+   </text>
+</TEI>

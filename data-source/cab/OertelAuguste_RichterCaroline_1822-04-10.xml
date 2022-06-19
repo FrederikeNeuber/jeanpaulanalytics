@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0639">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Auguste Oertel an Caroline Richter. Würzburg, zwischen 10. und 25. April
+                    1822, Sonntag und Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003031">Auguste Oertel</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+               <date notBefore="1822-04-10" notAfter="1822-04-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Zwischen dem <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0586/#start_ifk_ysx_vmb">10. April 1822, dem Tag, an dem
+                        Caroline Richter an Lukrezia von Mann in Sachen des Betragens der Gräfin
+                        Charlotte von Hirschberg schreiben will</ref>, und vor ihrem <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0100/#start_x2t_zrx_vmb">Brief an Odilie vom 25. April 1822, in dem sie über den Abgang dieses
+                        Briefs berichtet</ref>. </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012235">Würzburger Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teuerste Frau Legationsrätin tausend tausend Tank , sage ich Ihnen ; für ihren mir so teuren Brief u in Hinsicht was Sie für mich , wegen der Gräfin v Hirschberg getan haben , ich glaube die größte Sorge die ich je gehabt habe , ist nun abgetan , da die Verwanden , in Keniß gesetzt sind wegen den betragen , der schon genanten ; Da mir heute zu wenig Zeit zum schreiben bleibt ; so sagen ich Ihnen nur das nötigste , u behalte mir das übrige noch vor , Mit der Gesundheit des Herrn Heine , geht es Gottlob recht gut das der Brief mag zur verstärkerung der Krankheit etwas beigetragen hat , glaube ich nicht , ( Nämlich von Herrn Präsetent ) die Krankheit war zur selbigen Zeit gerade noch im steigen , das der selbe Brief , den H Heine kannte nicht so gleich gültig sein ; glaube ich nun nicht das der Krankheit verschlimmert hat ; übrigens war das , was in selbigen Brief gesagt wurde ; für die Zukunft recht gut Nun zur Hauptsache : Mit Fräulein Ottilijen geht es Gott sei tank recht gut , u ich merke zu meiner größten Freude schon eine bedeutete Veränderung , im ihren Rückrad , ; so wie das das ganze aussehen schon blinder u gesünder ist ; ich hoffe mit Gotte Sie sollen Sich lieben Eltern einer rechten geraden , u wohl gestaltete Tochter wieder freuen , Otilijen ist auch zu lieb u gut , fügt sich recht gern in alles was sein muß ; u ist auch recht Munter u Vergnügt . Mit der bitte mich allen den lieben Ihrigen zu Empfehlen . Empfiehlt sich ergebenst Auguste Oertel </p>
+         </div>
+      </body>
+   </text>
+</TEI>

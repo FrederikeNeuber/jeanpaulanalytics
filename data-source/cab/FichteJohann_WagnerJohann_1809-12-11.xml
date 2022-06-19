@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0915">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Gottlieb Fichte an Johann Ernst Wagner. Berlin, 11. Dezember 1809,
+                    Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBB</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">Autogr. I / 4164</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 2½ S. S. 4 Adr. <hi rendition="#u">Sr.</hi> | des Herrn
+                                    Geheimen KanzleySekretär | <hi rendition="#u">
+                              <hi rendition="#aq">Wagner</hi>
+                           </hi> | Wohlgebohren | zu <hi rendition="#uu">
+                              <hi rendition="#aq">Meinungen</hi>
+                           </hi> |
+                                        <hi rendition="#u">Frei</hi>. Poststempel: <hi rendition="#aq">Prusse:p:</hi>6:</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Wagner’s sämmtliche Schriften,
+                            hg. von Friedrich Mosengeil, Bd. 12, Leipzig: Fischer 1828, S. 146-148
+                            (ungenau, unvollständig, unter dem 11. Oktober 1809).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Johann Gottlieb Fichte's Leben und
+                            litterarischer Briefwechsel herausgegeben von seinem Sohne I. H. Fichte,
+                            Teil 2, Sulzbach 1830, S. 384-385 (ungenau, unvollständig).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Johann Gottlieb Fichte's Leben und
+                            literarischer Briefwechsel. Von seinem Sohne Immanuel Hermann Fichte.
+                            Zweite sehr vermehrte und verbesserte Auflage, Bd. 2, Leipzig: Brockhaus
+                            1862, S. 464-465 (ungenau, unvollständig).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Fichte GA III, Bd. 6, Nr. 865, S.
+                            316-317 (folgt "Johann Gottlieb Fichte's Leben und litterarischer
+                            Briefwechsel" von 1830).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001073">Johann Gottlieb Fichte</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1809-12-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0917">Von Johann Ernst Wagner an Johann
+                        Gottlieb Fichte. Meiningen, 30. Dezember 1809</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012211">Finanzen</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ihre Briefe , Teurer , Verehrter , nebst den Beilagen , habe ich richtig erhalten , und mich an den ferneren Offenbarungen Ihres tiefpoetischen Gemüts innig geweidet . Es ist Ihnen ohne Zweifel geschrieben worden , daß ich seit dem Sommer des vorigen Jahres schwer krank gewesen . Als Ihr zweiter Teil der Reisen pp bei mir eintraf , bereitete ich mich eben in Bädern die verlorene Kraft wieder aufzusuchen . Ich bin zurückgekehrt , mit nicht ungünstigem , jedoch nicht völlig befriedigenden Erfolge . Seit der Zeit habe ich vollauf zu tun gehabt , um meinen , teils durch die lange Krankheit , teils durch die nachmalige um der Kur Willen mir aufgelegte Ruhe , sehr entwöhnten Geist wieder zur vorigen Kraftäußerung zu erziehen . So sind eine Menge Gegenstände der Tätigkeit , die mich reizten ; so ist auch die Beantwortung Ihres letzten Briefes unterblieben . Tief erschüttert hat mich Ihr neuster . Ich kenne die Lage Ihrer Gesundheit nicht ; aber , wie dieselbe auch beschaffen wäre , ich in Ihrer Lage würde hoffen . So hoffe ich denn auch für Sie , und wünsche mit der innigsten Sehnsucht , daß Sie den Ihrigen und der Welt noch lange erhalten werden , und mit Ihrem herrlichen Talente noch lange Wonne in empfängliche Seelen strömen . Weil ich denke , daß die Erfüllung Ihres auf den äußersten Fall gehegten Wunsches auch dafür die besten Folgen haben könne , habe ich gleich Hand an das Werk gelegt ; und verschiebe es keinen Posttag Ihnen den Erfolg zu melden . - Vorgestern , d. 9. habe ich Ihr Schreiben erhalten . Der König wird , ehe der Brief bei ihm eingetroffen sein könnte , von Königsberg abgereist sein ; aber er wird d. 23. d. hier erwartet . Ich habe eine Dame , ausgezeichnet an Geist , und Herz , die der Königin Freundschaft verdient , und besitzt , zur Vertrauten gemacht . Diese ist von Ihrem Schreiben an den K. von Ihrer rührenden Bescheidenheit , pp entzückt , und wird sogleich nach Ankunft der Königin , derselben Ihr Schreiben , nebst der Beilage , übergeben , diese dem König ; und wir zweifeln alle nicht , daß der Zweck erreicht werden werde . Sollte , wider Erwarten , es da noch anderer Hebel bedürfen , so haben wir auch diese schon angeregt . Dies das erste . Ferner - indem ich so eben zum Schreiben an Sie mich niedersetze , schreibt mir eine andere Dame , Charlotte v. Kalb ( Sie kennen dieselbe , glaube ich , wenigstens ist sie die erste , die mich mit Ihren schriftstellerischen Meisterstücken bekannt gemacht , und mir mit dem verdienten Enthusiasmus davon gesprochen ) die ich mit Ihrer Lage bekannt gemacht , " Sie stehe Ihrer Gattin von anderer Seite für einen Jahrgehalt von 50. Rthr . und wolle mir das nächste mündlich melden . Eine Prinzessin habe 30 Rthr . unterschrieben . " Endlich - wenn selbst dieses beides , wie auf keine Weise zu erwarten - fehlen sollte , so kenne ich selbst wackere Privatleute genug , die ich mich bei der erwarteten Rückkunft des Hofes , dahin zu bewegen getraue , daß S je für die Erfüllung Ihrer höchst bescheidenen Wünsche mit mir zusammentreten . Im äußersten Falle also nehme ich die Sache als meine eigene auf mich ; und ersuche Sie hierin mir zu vertrauen . So sein Sie denn hierüber ruhig , teurer innig geliebter Mann , sagen Sie das den Ihrigen , und verweisen Sie dieselben an mich ; und sodann genesen Sie , und leben noch lange uns allen zur Freude . Mit den Gesinnungen der innigsten Liebe der Ihrige Fichte . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

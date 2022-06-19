@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0935">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Arnold Brockhaus an Friedrich Bornträger. Altenburg, 14. Oktober 1810, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Brockhaus, Leben 1, S. 198-199
+                            (unvollständig).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000501">Friedrich Arnold Brockhaus</persName>
+               <placeName key="JP-005521">Altenburg</placeName>
+               <date when="1810-10-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012599"> Johann Friedrich Wilhelm Bornträger</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012648">Altenburger Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012538">Minna Spaziers Familienangelegenheiten</term>
+               <term corresp="#JP-012212">Liebesleben / Ehe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Was unter diesen Umständen aus unserer Verbindung werden wird , weiß Gott ! Es versteht sich von selbst , daß sie nicht eher statthaben darf , bis sie einigermaßen geordnet sind . Für mich fürchte ich in Rücksicht meiner Gesinnungen nichts , da mir Minna teurer wie mein Leben ist und ich höchst unglücklich sein würde , wenn ich sie verlöre . Von der anderen Seite denke ich aber auch zu zart , als daß ich auch nur auf die leiseste Weise Überredung gebrauchen möchte , im Fall ich auch nur einigermaßen ahnden könnte , als seien ihre Gesinnungen und ihre Liebe verändert . Ich begreife vollkommen , wie diese Geschichten alle auf sie influenzieren müssen , und wie es geschäftige Ratgeber geben wird , die ihr die Verhältnisse und mich mit Farben darstellen , die sie sicher ängstlich machen müssen . Haben sich solche Ratgeber ja auch bei mir eingefunden in Rücksicht auf sie . Man muß ihre und meine Verhältnisse so genau und in allen ihren hundertfältigen Beziehungen kennen , als Sie es tun , muß wissen , wie isoliert und verloren wir Beide standen und getrennt wieder stehen würden , man muß unsere achtzehnmonatliche genaue und innige Freundschaft kennen , man muß dies Alles genau wissen , um unser Verhältnis ganz würdigen zu können . Ich werde Minna nie freiwillig und aus Gründen , die in mir selbst liegen könnten , verlassen . Ich kann es nicht , und ich würde es für ein Verbrechen halten , wenn ich es wollen könnte . Aber ich werde sie verlassen , sobald sie es wünscht , und gehe ich darüber auch , wie ich voraussehe , ganz zu Grunde . Dies habe ich ihr auch mehrmals in schweren Momenten gesagt ! Sie hat bisher immer erklärt , daß sie ihr Leben dem meinigen unzertrennlich anschließen werde . Wenn das ihre Gesinnung bleibt , so glaube ich , daß Alles wohl und gut enden werde und enden könne . Voneinander getrennt , glaube ich aber , daß sie wie ich moralisch und bürgerlich werden zu Grunde gehen . Noch gereicht mir sehr zur Beruhigung , daß ich auch bei aller meiner innigen Liebe , ja Anbetung für sie mich dennoch lange , wie Sie es selbst wissen , sehr lange gesträubt habe , ehe ich zu einer Verbindung mich entschlossen habe , und daß die Initiativen dazu nicht von mir , sondern von ihr selbst ausgegangen sind . Auch hat sie das Verhältnis meiner Handlung im ganzen gekannt wie es ist . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

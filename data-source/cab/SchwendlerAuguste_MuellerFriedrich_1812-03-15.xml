@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1120">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Friedrich von Müller. Meiningen, 15. und 23. März
+                    1812, Sonntag und Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/540, Bl 11-16</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>3
+                                    Dbl.
+                                    8°, 10 ⅙ S. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date from="1812-03-15" to="1812-03-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012761">Tod und Sterben</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012211">Finanzen</term>
+               <term corresp="#JP-012583">Briefabfassung</term>
+               <term corresp="#JP-012590">Bittschreiben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Schwendlers Brief an Sie , mein teurer Freund , wird wohl meist von Geschäften handeln , da ihn jetzt , vornehmlich in diesen Tagen wegen Einquartierung seine Zeit kürzer als jemals zugemeßen ist . Ich übernehme es daher , Ihnen , von uns über unseren verewigten Freund manches mitzuteilen , welches ich auch ohne Ihre Aufforderung an S. getan haben würde . Aber ! fast sende ich feurige Kohlen auf Ihr Haupt , indem ich Ihnen abermals schreibe , mehrere meiner Briefe haben Sie ohne Antwort gelassen - - - Ich war zugegen als W. Ihren Letzten nebst dem lieblichen Geburtstags Gedicht erhielt , er war unendlich gerührt von Ihrer Liebe und sagte mir mit tränenden Augen " ich liebe meinen Müller unendlich , gern hätte ich es ihm noch einmal gesagt , doch das ist über meine Kräfte , bringe Ihm Freundin meinen letzten Gruß ewiger Liebe , Ihm , seiner Wilhelmina , meine Kinder lege ich an sein Herz , begegnet er sie zuweilen im Leben , so sei er ihnen freundlich " - - das Andenken seiner Freunde tat ihm überaus wohl , dann griff es ihn sehr an ; selten sprach er sich darüber aus , aber oftmals , wenn ich sein sinnendes Schweigen beobachtet sagte er mir , " ich gedenke der Freunde ! " Die letzten Monate seines Lebens waren eine Kette namenloser Leiden . Er erschien zwar dabei in einer Glorie , in welcher man ohne vermeßen zu sein oft das Bild des Göttlichen Dulders zu erblicken glaubte , nur gar zu erschütternd war es für das befreundete Herz , den Geliebten so unaussprechlich leiden zu sehen . Er täuschte sich nie über die Gefahr seines Lebens , selbst da nicht , wo der Arzt und wir Alle neue und zuversichtliche Hoffnung schöpften . Ein an und für sich höchst gefährliches rheumatisches Nervenfieber überstand er glücklich und gerade zu , an den Folgen mußte er sterben . In Folge der Krankheit hatte er sich wund gelegen , diese wunden Stellen ergriffen die Schenkelknochen und da ein gänzlicher Mangel an Vegetation in seinen Säften schon lange durch sein altes Übel erzeugt worden war , so war keine Rettung möglich . Wenn ich Ihnen sage , daß zuletzt beide Schenkelknochen ganz ausgehöhlt wurden durch das freßende Gift , daß er gleichsam wie verdammt war , beständig auf den schmerzhaften Stellen zu liegen und daß außer Brust und Kopf die Lähmung total wurde so brauchts keine Erläuterung , daß es vielleicht noch nie auf Erden solche Leiden gab ! Im Anfange der Krankheit schien ihm die Sorge um die Zurückgelassenen häufig zu bekümmern , er war sehr ernst und seine sonst ewig heitere Stirn umwölkt ; doch in der letzten Zeit wurde er ganz ruhig ; wozu wohl die schöne Zusicherung unserer Herzogin , ganz in der hohen Mütterlichkeit ihres Herzens gegeben , sie wolle sich der Seinen tätig annehmen und sein Vertrauen auf den Allvater der Liebe , das meiste beitrugen . Von nun an war er mit irdischen Angelegenheiten fertig , über seinem Gesicht war eine himmlische Milde und Ruhe ausgebreitet welche auch vom nagendsten Schmerz den seine Züge aussprachen nicht mehr verdrängt werden konnte . Und - so neigte er sein Haupt ! Ich verlor einen Freund der mir nicht mehr ersetzt werden kann ! Dabei vergeße ich nicht w as seine Kinder und die Welt noch in einer weit höheren und wichtigeren Beziehung verloren . Mit der seltensten Liebe ist er gepflegt worden , namentlich von seiner Tochter Louise die er stets seinen Engel nannte , sein letzter Blick war sie , sein letztes Wort Engel ! In der Tat ist Louise ein Wesen seltener Kraft und Liebe , mit inniger Bewunderung habe ich sie beobachtet , wie denn überhaupt alle drei Kinder die möglichste Individualität behaupten . O Gott , ein rührenderes Bild werde ich vielleicht nie mehr sehen , um die Hülle des Entschlafenen seine Kinder kniend , so erbaulich herzerhebend und brechend zugleich ! - - - - - - Sie wollen wissen , mein Teurer was für die Familie W. hier geschieht : Zuerst erhält die Witwe die in den hiesigen Verhältnissen festgesetzte Pension von 50 rth jährlich teils bar , teils in Naturalien . Die Söhne erhalten so lange sie in Meinungen sind , 200 fl jährlich als Erziehung Geld , wenn ihre Bildung sodann einen Aufenthalt in Dresden oder anderswo erfordert erhöht die Herzogin das Jahrgeld , mit einem Wort für die Söhne ist mir nicht bange , in ihren Talenten , in dem Namen den sie tragen , haben sie ein Kapital welches sie überall unterstützen wird . Nicht so ruhig bin ich über das Schicksal der Witwe und der herrlichen Tochter . Erstlich hat die Wagner ihr ganzes Vermögen während unseres Freundes siebenjähriger Krankheit zugesetzt , den letzten Überrest von 300 fl hat sie jetzt verwendet um Schulden zu decken , die unser hochherziger Bettenburger und der edle Studnitz nicht ganz getilgt hatten . So bliebe dann an Mutter und Tochter nichts weiter als die Pension . mit der höchsten Sparsamkeit sehe ich nicht ein , wie sie werden damit leben können . Ich leugne nicht , daß ich gern ihre Großfürstin um eine kleine Gabe für Louise ansprechen möchte . Ich begreife wohl , daß sich der Flehenden und Bedürftigen viele aus den Weimarischen Landen zur Erbprincäßin wenden und doch dünkte es mich , eine kleine Gabe könne sie unserer Louise reichen . Gern würde ich es sehen , wenn etwas von jener wohltätigen Hand zu erwarten ist , daß es für einige Jahre zu gesichert bliebe . Wie es anzufangen und auf welchem Wege , dies lieber Müller wissen Sie besser als ich . Ich glaube daß Sie das beste dabei tun können , sollte ich aber auch etwas dafür tun müssen so erwarte ich Ihre Wünsche darüber . Kaum habe ich die Kraft Ihnen die Ursache zu nennen warum der Abgang dieses Briefes vom 15ten bis heute verspätet blieb . Amanda litt schon einige Zeit an einem entzündlichen Auge , kein Mensch ahnende Gefahr , auf einmal nahm die Entzündung dermaßen zu , daß sie von heute acht Tage an bis vorgestern von dem Verlust ihres rechten Auges höchst wahrscheinlich bedrohtet wurde . Gott im Himmel in welcher Angst habe ich gelebt , unter allen Kummer den ich je hatte , war dies der nagendste . Wohl hätte sich mein gebrochenes Herz an Amandas seltenen Mut stählen können ; sie erduldete die höchsten Schmerzen mit einer Stärke die ich nicht beschreiben kann genau bekannt mit dem ihr drohenden Unglücke , vertraute sie so kindlich , so hoffend auf Gott , daß ich oft nicht wußte von welchem Gefühl ich am meisten ergriffen war , ob für Bewunderung der frommen Tochter oder des Schmerzes wenn es ihr das Auge gekostet hätte . Es scheint lieber Freund , als sei Ihre Freundin Henriette , immer noch nicht genug geprüft gewesen , nach dem neusten Ereignis kann ich um den Preis ringen , jeden Kummer der Erde nicht allein zu kennen sondern auch erfahren zu haben . Daß von allen diesen meine Gesundheit nicht die besten Folgen verspüret , ist wohl sehr natürlich , ich habe den ganzen Winter gekränkelt und ich bin noch gar nicht wohl . Der Verlust meiner süßen kleinen Antonia in einem Zeitraum von 36 Stunden blühend und verblüht , dieser entsetzliche Augenblick gab meiner Gesundheit einen sehr ernsten Stoß , besonders leidet meine Brust sehr . Amanda grüßt Sie herzlich und setzt hinzu " H. v. Müller freut sich gewiß recht teilnehmend daß das gefürchtete Unglück mich nicht betroffen hat , ach und was hätte wohl Vater Wieland gesagt , wenn ihm in mir noch einmal das Bild von Sophie Brentano erschienen wäre . " Es ist so dunkel um mich , weil Amandas krankes Auge noch nicht den geringsten Lichtstrahl ertragen kann , daß ich in der Tat nicht weiß ob Sie diese Schrift werden entziffern können , auch werden Sie an den abgerißenen Inhalt meinen etwas konfusen Kopf erkennen . Ich komme noch einmal auf unsere Pflegbefohlnen zurück . An den Herzog von Gotha habe ich mich ebenfalls gewendet und ihn aufgefordert für die lieben Kinder etwas zu tun . Zur Zeit genügt mir seine , zwar höchst poetische , aber nicht nach meinem Sinne praktische Antwort nicht . Ich habe ihm heute wieder geschrieben , recht prosaisch , jedoch wahr und treu wie es meine Pflicht ist . Isidora erscheint Ostern , Jesus von Nazareth ist nicht fertig und was davon da ist , so wie alle Manuskripte sollen nie gedruckt werden . Wagner hat über diesen ernsten Ausspruch seinen Kindern den heiligsten Schwor abgenommen und so lange als die Kinder den Sinn seiner Manucsripte nicht verstehen , sind sie Alle an Truchseß zur Aufbewahrung gegeben worden , dies war des Vollendeten Wille . Ich hoffe , lieber Müller wir sehen uns bald , vielleicht ließe sich eine Wallfahrt nach Bettenburg veranstalten , unter des Ritters Vorsitz ist den Eingeweihten und Erwählten verstattet zu lesen und das Gelesene fein im Herzen zu behalten . Kommen Sie bald , ich sehne mich unendlich Sie zu sehen und zu sprechen . Schwendler hat nicht geschrieben , nach dem Unwesen der Einquartierung ist er sogleich ins Oberland gereist und kommt erst am Karfreitag zurück . Dann will er schreiben und alles nachholen ganz eigentlich kann ich zwar seiner Faulheit im Briefschreiben nicht das Wort reden , aber soviel ist gewiß daß sich seine Arbeiten täglich umständlich vermehren . Antonie grüßt schönstens , im Mai verläßt sie mich um in Berlin , wo sie mein Schwager erwartet , diesen mir so teuren Verwandten , i ihre Hand und ihr Herz zu reichen . Es war der Wunsch meiner seligen Schwester und ich hoffe Antonie soll glücklich werden . Mündlich mehr . Gruß und Liebe Ihrer Gattin und Adelbert dieIhrige Henriette S. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

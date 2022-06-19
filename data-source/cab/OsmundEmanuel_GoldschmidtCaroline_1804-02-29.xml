@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0300">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 29. Februar bis 6. März 1804,
+                    Mittwoch bis Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>3 Bl. 8°, 5 S. Auf S. 1 oben eine Bemerkung von Caroline
+                                    Goldschmidts Hand, auf der Rückseite von S. 3 der Brief vom 13.
+                                    Januar 1804 von Caroline Goldschmidts Hand. Auf S. 2 unten und S. 3 oben, sowie auf S. 3 unten und S. 4 oben
+                                    jeweils ein Segno (# bzw. ##) zur Ordnung der Seiten von
+                                    Emanuels Hand.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1804-02-29" to="1804-03-06" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0297">Von Caroline Goldschmidt an Emanuel.
+                        Berlin, 13. Januar 1804, Freitag</ref>
+            </correspContext>
+            <note>Auf der Rückseite von S. 3  B, auf S. 1 oben ein zu B gehöriges Postskriptum </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012274">Hauswesen</term>
+               <term corresp="#JP-011937">Kunst</term>
+               <term corresp="#JP-012194">Geschenke</term>
+               <term corresp="#JP-012010">Judentum</term>
+               <term corresp="#JP-012314">Empfehlungen</term>
+               <term corresp="#JP-012583">Briefabfassung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Caroline ! In Acht Jahren hatten wir keinen 29ten Febr. ; unter Vier Jahren bekommen wir wieder keinen , ich will uns diesen heutigen also mit einigen Zeilen aufbewahren . Die Meinigen ( d. h. die Meinigen der Meinigen , denn alle Menschen sind mein ) sind wieder gesund , auch der ihrige ist es wieder u eben dadurch auch wohl . Sollten Sie meine neue Wohnung - die ich wahrscheinlich beziehen werde - sehen : so würden S. gewiß anderer Meinung üb. die Ursache des Wechselns werden . Ich bekomme kein kleines Logis , ich denke S. selbst , eine Berlinerin , werden 5 heizbare Zimmer genug für einen Hagestolz finden . Übrigens ist die Lage des künftigen Logis heiterer u viel schöner , als die meines jetzigen . Daß ich mir in meiner neuen Wohnung wieder ein braunes Zimmer schaffe u f. meine Niobe einen guten Platz , das brauche ich Ihnen wohl nicht zu sagen . Alles was S. mir üb . Juden u Christen u üb Grat . Schriften schreiben gefällt mir so wohl , daß ich wünschte S. erlaubten sich selbst , was S. mir nicht erlaubet haben . Beinahe bekäme ich Lust einen Auszug aus Ihrem letzten Brief , an Spaziere , f. seine Zeitung als eine Antw , auf einen Aufsatz in derselben zu schicken . Es ist mein Ernst Car . ! , aber ich unterlaß es doch . Vor Allem muß ich Ihnen erzählen , daß eine Ungenante meinen Namen zu einer Unwahrheit gebraucht u unter diesem , der Caroline Richter eine Wochenhaube geschickt hat . Dazu schickte diese Ungenannte folgende Zeilen : " Der H. Em. aus Bayr . hat mir den Auftrag gegeben der Fr. L. Rätin eine Wochenhaube zu besorgen ; die ich mit dem Wünsche , daß sie gefallen möge , die Ehre habe zu überschicken . " Daß es eine Ungenannte ist , das sah ich aus diesen Zeilen , die ich gesehen ; aber die gute Hand , die diese Hand - die ich kenne - geschrieben möchte ich küssen , so wie ich diese Zeile geküßt habe . Sie soll - bald hätte ich sollen geschrieben - mir es gewiß nicht ohne Belohnung getan haben ; ich werde mich zu rächen wissen . Der guten Richter war so gar die Haube beinahe lieber , als zwei Tischlein , ich ich ihr machen u schicken ließ : das ist zu arg ! Dieses Mal will ich mir_es gefallen lassen u - immer . Es hat mir dieser prächtige Gebrauch meines Namens viel , sehr viel Freude gemacht u es freut mich , daß mein Herz diese Freude fühlt u mit reinem Dank erkennt . Wenn ein Mensch keine Eltern dadurch beleidiget ; wenn er schon gar in Nichts mehr Jude ist ; so halte ich es für einen Beweis v. Kraft , v. Ehrlichkt , wen er dieses öffentlich , durch die angenommene Zeremonie erklärt . Wie viele Christen versprechen für ihre Täuflinge u halten es für sich nicht ? Viele Kränkungen , viele Ansprüche endigen sich durch diese Zeremonie , die , wenn auch nicht f. den Täufling , doch f. seine Nachkommen den erwünschten Erfolg haben kann . Ich habe nicht zu fürchten , daß S. mich nicht recht verstünden ; ab. ich wiederhol es doch noch ein Mal : wer schon in Nichts mehr Jude ist , der muß sich auch taufen lassen . Doch gibt es Ausnahmen , u ich möchte lieber mit Ihnen üb. diesen Gegenstand sprechen , als schreiben . Im nächsten Monat will ein sehr braver , armer Jüngling aus unserer Nation nach Berlin gehen , um dort Architektur pp zu studieren So eben kommt er u stört mich wieder . Der gute , gewiß gute Jüngling , den ich recht achte , gibt mir oft langweilige Stunden . Da ich mich v. seiner Kunst - wovon er viel . weniger versteht als er glaubt - nicht mit ihm unterhalten kann : so unterhält er mich immer u ewig von Juden u Politik . Er ist eigentlich ein kaiserlicher Untertan ; als er vor 6 - 7 Jahr Soldat werden sollte - er hat in Prag studiert u " wohl gelernt " - lief er davon u hier her . Hier lief er auch dem Juden trocken dav. u wäre er gebildet genug : so wäre er eine lebendige Erklärung meiner Antw. üb. die Taufe . Erst gestern erzählt er mir , wie reich er von hier weggehen würde " mit wenigstens 50 Rth " u wie arm er hier ankam , da er oft " keinen Groschen " zu Brot gehabt hätte . Bald wird mein Brief das Ansehen eines Tagebuchs haben . Auf jeden Fall will ich den ehrlichen Jüngling Ihnen empfohlen haben u er wird Ihnen meinen Namen bringen . Alles ist vor ihm sicher , nur Ihre Zeit nicht , die meinige konnte ich bisweilen nur mit der Stubentüre vor ihm bewahren . Obgleich er sich seit einiger Zeit sehr viel geändert d. h. gebessert hat , soll Ihnen doch dies nicht umsonst gesagt sein . Sollte er Not bekommen , das er nicht glaubt u sich doch darauf vorbereitet u S. um 1 , 2 u 3 Frd'or bitten , das er gewiß nur in der höchsten u größten tun würde - so bitte ich Sie , ihm seine Bitte zu gewähren . So bald S. mir dieses angezeigt haben werden , so werde ich Alles sogleich mit Dank wieder ersetzen . Mehr will ich Ihnen v. dem Jüngling nicht sagen , da ihn Ihre Menschenkenntnis in der ersten Stunde ganz übersehen kann u wird . Noch ein Mal sage ich s deutlicher : diese meine Empfehlung soll dem Jüngling nützen ; aber Ihnen durchaus nicht u nichts schaden . Es ist mir recht lieb , daß S. Ihre Briefe abschreiben u daß S's selbst einsehen , daß S. zu unleserlich schreiben : so bald man seine Fehler einmal einsieht , dann hat man sie bald nicht mehr . Meine Brüder lassen Ihnen recht viel Gutes sagen u auch mein guter Uhlfelder . Grüssen S. mir Euchel u danken S. ihm f. die Liebe , die er f. mich hat . Vergessen S. nicht , mir das No Ihres Hauses anzugeben . Am 6ten kann ich erst schließen u will ich Ihnen f. das Andenken an meine gute Mutter kindlich danken . Der liebe Gott erhalte S. glücklich für all die , die Sie kennen , Car . ! E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

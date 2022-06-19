@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0333">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 30. Juni bis 2. Juli 1808,
+                    Donnerstag bis Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl., 8 S. Brief - bzw. Blattnummerierung vfrH.</p>
+                        <accMat>Heliotrop-Blüte. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Mit Doppelklammern vfrH, offenbar zur Kennzeichnung auszulassender Passagen für eine Drucklegung
+                    des Briefs, meistens Personen- und Ortsnamen. </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1808-06-30" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0505">Von Emanuel an Henriette Schwendler.
+                        Bayreuth, 17. Juli 1808</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012728">Abschied</term>
+               <term corresp="#JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Guten Morgen , Emanuel ! - Es war wohl eine schönere Zeit , als mein schriftlicher Morgen-Gruß nur der Voreilende des mündlichen war ! Ja , Guter , mein Aufenthalt in Bayreuth , war ein himmlischer Genuß für mich so war er in der Gegenwart , und so wird er in der Erinnerung bleiben . In diesem Augenblick , wo der Schmerz der Trennung und die Sehnsucht meine Seele noch zu stark ergreift , da verwundet mich eigentlich die Rückerinnerung mehr , als daß sie meine Empfindungen lindernd aufnehmen könnte , allein die Zeit könnte schon , wo die Vergangenheit sich sanft und Freude und Ruhe gebend an die Gegenwart anschließt . - - - - - - - - Vorgestern Abend spät , sind wir zwar glücklich hier angekommen , jedoch im eigentlichsten Sinn im Kampf mit den Elementen . Regen Wind Gewitter und zuletzt großes Wasser hatten sich gegen uns verschworen ; hätten wir uns um einen Tag verspätet so mußten wir unterwegs bleiben , weil gestern in dem Werra-Thale von Hildbourghausen herüber zwei Wolkenbrüche gefallen sind die unsere Gegenden völlig überschwemmt haben . So still und innig ich wünschte daß mein S. noch einen Tag in Bayreuth zugeben möchte , so war es doch gut , daß er seinen Willen streng forderte , weil wir außerdem unterwegs hätten liegen bleiben müssen . Als wir am Morgen in B. ausfuhren , war unsere Caroline noch bei uns , schöner war der Abschied , aber auch schmerzlicher ! Sie kennen , Guter , meine Anhänglichkeit für dies edle Weib und konnte ich ihr auch eigentlich durch meinen Aufenthalt keine auffallenden Beweise meiner Treue und Liebe geben , so hatte sie doch wenigstens durch mich , ein Wesen in ihrer Nähe , daß ihren Wert weniger weiblich - sondern wahrhaft menschlich - anerkannte . Caroline ist im höchsten Sinne ein seltenes Weib , ich freue mich sie nicht neben sondern über mir stehen zu sehen ! -- Da für Emanuel , die kleinste Angelegenheit der Freunde Interesse hat , so darf ich ihm nach der Reise alles mitteilen , was uns auf der Reise begegnete und wie wir hier anlangten . Eine sehr freundliche Erscheinung war mir noch am Tore in B. unser Uhlefelder . Gäbe es ein Mittel sich unkörperlich dem Freunde zu nähern , so hätten Sie in jenem Augenblicke meine Nähe wahrnehmen müssen . Mit aller Innigkeit schloß ich die beiden Freunde an mein Herz . Mein letzter Gedanke waren Sie ! und dieser erfüllte in mannigfacher Wendung wenn gleich schweigend meine Seele , bis ich zur edlen Vogt kam , und ein heiliger Berührungspunkt uns im ersten Augenblick vereinigte . Um mir für diese herrliche Frau eine ganze Stunde Zeit zu ersparen , stiegen wir von der Mayen-Brücke aus , wo der Kutscher anhielt , gingen zu Fuße bis Schwarzach und ließen sodann den Kutscher wieder bis ins Mittags Quartier Meierode vorausfahren , wohin wir auch unter Begleitung Ihrer Freundin , zu Fuße gingen . Ja , Teurer , die Vogt ist eine edle hochherzige Frau ! - Nach Ihrer Beschreibung hätte ich sie überall herausgefunden . Die Kraft ihres Geistes und Wesens ist so hervorragend , ihre weibliche Würde ist so gehalten , daß wiederum jedes sie verstehende Weib durch ihren Umgang gewinnen muß . Emanuels jüngere aber ihn nicht minder liebende Freundin Henriette , würde durch die Ältere viel gewinnen können , hätte sie das Glück in der Nähe dieser zu wohnen . Gewährt mir der Himmel je wieder die Freude einen Aufenthalt in Bayreuth zu machen , dann muß mir die Vogt erlauben daß ich sie öfterer sehen darf . Mit kindlichem Sinn und Gemüte werde ich ihr anhängen und sie wird es freundlich annehmen . Keine wahre reine Empfindung bleibt unerwidert ! - Das glückliche Alter was der Hoffrat genießt , ist wahrhaft erbaulich anzusehen um so mehr da die Hoffrätin ein so schönes Teil als Gattin dazu beiträgt . Dazu kommt der himmlische Platz ihrer Besitzung , die herrliche Aussicht , der liebliche Garten . Als die Vogt und ich von einander schieden war unser letztes Wort Emanuel ist Einzig , und so nahe so heilig empfunden wiederhole ich hier , Einziger ! - Der Tag der von Morgen an öfters regnend war wurde nun heller und freundlicher . Wir waren alle zwar nicht heiter aber innig gestimmt . Pauline rührte mich mehrmals , wie sie so gern die Mutter ganz froh durch ihr munteres Spiel gemacht hätte . Nach Coburg kamen wir sehr ermüdet an , ich war gar nicht wohl ungeachtet ich in Bayreuth an körperlicher Gesundheit gewonnen habe so bin ich noch nicht stark genug für die Gewalt des Eindrucks , daß ich mächtig fühlte mich von Geliebten und Lieben zu trennen , dies brauche ich nicht zu beteuern . In der Nacht fiel ein fürchterlicher Platzregen , der bis an den Morgen heftig fortdauerte . Um 8 Uhr konnten wir erst Coburg verlassen und zwar immer noch mit Regen . Wir schützten uns so gut wir konnten , jedoch kamen wir Alle ziemlich durchnäßt nach Rodach . Da klärte sich der Himmel auf und unsere weitere Reise hierher war , wenigstens trocken , wenn gleich die Wege sehr schlecht und mehrmals das Wasser in den Wagen lief . Ich sehnte mich sehr nach meiner häuslichen Ruhe und Bequemlichkeit da ein fast unerträglicher Nerven Kopfschmerz mich den ganzen Tag qualte Um 10 Uhr kamen wir an mein Zimmer fand ich mit schönen Blumen geschmückt und die herzliche Freude welche meine Dienstboten , - eine sehr brave Hausjungfer , ein Bedienter , zugleich mein Gärtner - und meine Köchin - über mein Wiedersehen hatten , ließ mich im Anfange meine Unpäßlichkeit ganz vergeßen . Ja , Guter , die Liebe aller derer die mir angehören , ist eine hohe Bedingung meiner Glückseligkeit . Besonders freue ich mich über das Wohlergehen der dienenden Klasse in meinem Hause . Im Ganzen bin ich streng und fodre Pünktlichkeit , aber gewiß , ich bin dankbar dafür . Und nun , mein Emanuel , ein wenig tändelnd werden Sie wohl ihre Henriette jetzt finden . Einmal , Sie müssen mich annehmen wie ich bin - Mein erstes Geschäft in meinem Zimmer war , eine Blume von meinem Liebling , eine Heliotrope , zu brechen , ich dachte recht sanft und dankbar an Sie und die gebrochene Blume gehörte Ihnen , ich kann es mir nicht entsagen sie Ihnen zu schicken . Nicht wahr ? ich bin ein Kind und doch will ich es bleiben , so lange als es nur möglich ist -- Gestern habe ich meinen Tag im Bette zugebracht weil meine im höchsten Grade gereizten Nerven gänzlichen Ruhe bedurften . Heute fühle ich mich viel besser , aber still und innig sehnend nach der Rückkehr der süßen Momente , bei Karolinen , bei unseren Richter und Emanuel . den 1sten Juli Ich mußte gestern abbrechen , weil der Hausfrau Mutter und Gattin einige unbedingte Geschäfte oblagen . Heute habe ich nur für wenige Worte Zeit also geht der Brief erst mit der Sonntags Post ab . Guter , treuer Emanuel , wie geht es Ihnen , sind Sie froh ? Das letztere müssen Sie immer sein , weil Andere es durch Sie werden . Es ist mir recht bange , und wenn die Stunde schlägt , wo wir einander sehen oder sprechen , da fühle ich mich so stark und unwieder-stehlig hingezogen , daß ich alle Kraft bedarf um das zu tragen , was sich nicht ändern läßt , nämlich Entfernung . Im Ganzen , lieber Emanuel , nehmen Sie mich höher als ich bin , weil ich dies aber fühle so werde ich noch mehr erreichen : Es ist und bleibt wahr , daß wir uns selbst am richtigsten beurteilen können , nichts desto weniger aber , möchte ich den Genuß aufgeben , meinem Freunde ein Ideal zu leihen und von ihm für mich dasselbe zu empfangen . Im Ideal bilden sich unsere höchsten Empfindungen aus in diesen unsere Gedanken und zuletzt wir Selbst . den 2 tenIch war gestern Abend recht selig , weil ich viel von Bayreuth sprechen konnte . Wir waren bei beiden Heims , wo Sie , Guter so herzlich geliebt werden ! Der Hoffrätin H. habe ich Hoffnung gemacht zu einigen Zeilen von Ihrer Hand . Den Gegenbesuch vom Geheimrat Heim finden Sie in meinem Brief an Richter geschildert . Ich sah ihn seit einem Jahre nicht in meinem Hause und doch freue ich mich daß das Interesse für Richtern ihn mir wieder zu führte . Ich denke , daß Sie dieser Brief auf Ihrem Landgut aufsucht . Mögen Sie heiter und froh ihre Tage dort verleben . Was würde ich darum geben ! könnte ich Dehlau in meine Nähe versetzen . denken , Sie nur Guter , welche Seligkeit es für Uns Alle wäre , Sie dort zu weilen zu sehen und Sie mit zu uns zu geleiten . Ich würde dann nicht , wie in Bayreuth Ihre Geschäftszeit stören , aber die Stunden der Muße , ja diese würde ich mir um den Preis der treusten Anhänglichkeit und Ergebenheit von Emanuel erbitten und Er würde sie mir gern geben . Auf dem Lande , unmittelbar in Gottes weiter Natur , Oh , da schließt sich das Herz noch anders auf , man liebt nicht stärker aber das All mehr umfaßender . Schwendler grüßt Sie mit Dank und Liebe Die Kinder und Antonie ebenfalls , Amanda und Antonie schreiben das nächste Mal . Pauline freut sich des schönen Geschenks mit ihren Gespielinnen , sie ist recht fromm und gut . Mit Sehnsucht erwarte ich Nachricht und Worte von Ihnen der Buchstabe ist zwar kalt , aber das Gefühl gibt ihm Sinn und Wärme In Wahrheit und Liebe die Ihrige . Henriette . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

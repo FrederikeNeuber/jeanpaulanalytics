@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0797">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Heinrich Voß an Heinrich Boie. Heidelberg, nach dem 23. April 1817</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Universitäts- und Landesbibliothek
+                                    Münster</institution>
+                        <collection>N. Bäte</collection>
+                        <idno type="shelfmark">1,2</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 4 S. Anfang fehlt.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ludwig Bäte, Kranz um Jean Paul,
+                            Heidelberg 1925, S. 52 (nur Fragment).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004520">Heinrich Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date notBefore="1817-04-23" notAfter="1817-04-30" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012752">Heinrich Boie</persName>
+            </correspAction>
+            <note>Zur Datierung: Bäte vermutet, der Brief sei 1819 geschrieben (Kranz um Jean
+                    Paul, S. 63). Anhand der Berichte von Heinrich Voß über seinen Besuch auf der
+                    Bettenburg, die vom 7. (?) bis zum 23. April 1817 stattfand, lässt sich der
+                    Brief vordatieren. Er wurde unmittelbar nach der Ruckkehr nach Heidelberg Ende
+                    April 1817 verfasst.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012284">Heidelberger Freundeskreis</term>
+               <term corresp="#JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-011811">Reisen</term>
+               <term corresp="#JP-012533">Lektüre(n)</term>
+               <term corresp="#JP-012869">Literarische Kritik</term>
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>ist das Leben auf der Bettenburg am behaglichsten . Wir haben viel zusammen gelesen , unter anderen Fouques Altes von Lindenstein , den ich Deinen Schwestern hiermit will empfohlen haben , und andere gute Sachen von Fouqué . Doch auch einiges grundschlechte von demselben , z. B. die Pilger . Solche Stücke , deren Fouques noch viele liegen hat , selbst herauszugeben , schämt sich Fouqué doch ; aber Franz Horn tut es , macht sie höflich in den Vorreden herunter , und hinterlistig herauf , und Fouqué streicht seine blanken 3 Louisdors für den Bogen ein . Es ist unverzeihlich , wie dieser geistvolle u. gemütliche Mann seine Gottesgabe in sich verdirbt : jeder Funke in ihm wird zu Golde gemünzt , und selbst seine Fieberfantasien braucht er für den Geldbeutel , da jede neue Erzählung ein neues Gespenst vonnöten hat . Einen langen Brief von 14 Quarteseiten haben Truchseß und ich gemeinsam an Fouqué geschrieben , ihn gelobt , ihm gedankt für vieles , und dann über Vieles den Spiegel vorgehalten , namentlich über die abscheulichen u langweiligen Pilger . Wen Du einmal Lust bekommen soll Test , vor Gähnen und immer wachsender Langeweile die Mundklemme zu bekommen , ich bitte Dich , lies die Pilger . Auch Hofmanns , des berühmten Humoristen Werke habe ich gelesen . Er ist ein genialer Kopf , aber seine Fantasien sind ohne wirkliche Grundlage , u werden dadurch zu eitel Fantastereien ; dabei blickt mitunter ein grober Egoismus vor , und in seinem Gemüte liegt nichts , das anzieht , und zu dem Menschen selbst hinzieht . Auch Goethes Göz , den herrlichen einzigen Göz haben wir gelesen , und ich glaubte , neben Göz selber zu sitzen , wie ich Truchseß vorlas . Er hat in seiner Jugend diesen Namen geführt , so zu sagen als Beinamen , den seine Kriegskameraden ihm gegeben . Ich wurde diesmal mit einer fast gleimischen Eifersucht von Truchseß festgehalten ; ich durfte auch gar nicht von ihm , und wollte auch nicht ; was ich aber für mich lesen oder schreiben wollte , das mußte ich Abends nach 10 tun . Da las ich denn oft bis lang nach Mitternacht in dem Musäuszimmer ( ausgemalt mit Freskogemälden aus den Volksmärchen ) am warmen behaglichen Ofen , während mein süßer Ludwig neben mir schlief ; des Morgens hätte ich auch noch wohl eine Stunde für mich gehabt , aber der kleine Ludwig bat mich so freundlich , ich sollte mit ihm Billiarde spielen ( im Veit Weber Zimmer ) , und dem freundlichen Knaben konnte ich nichts abschlagen . Du lieber Heinrich , wie gönnte ich Dir , daß Du Truchseß kenntest ; ich habe ihm viel von Dir erzählt , und von Deiner Schweizerreise . Auch die Mutter u. Schwestern und die Tante Grävem müßten ihn kennen . Es sind wohl noch außer ihm Menschen , die völlig so gut und so brav sind , aber so wie er ist außer ihm keiner . Es gehört wohl zum Wesen eines recht ordentlichen tüchtigen Menschen , daß er in der Natur sein Ebenbild nicht findet . Es war mir , wie Schiller gestorben war , immer schmerzlich , wenn ich Reden hörte , wie : der u. der würde ihn ersetzen ; als ob sich so ein Verlust ersetzen ließe ; als wenn die Lücke nicht heiliger wäre , wie jedes Surrogat ; nur ein Kammerdiener , ein Schreiber , ein Kommerzienrat , und alles aussieht wie Hinz und Kunz , kann ersetzt werden . Ich blieb über 14 Tage auf der Bettenburg , die mir wie Augenblicke verschwanden , aber jetzt in der Erinrung doch lang dünken , wie die ganze Reise fast eine kleine Ewigkeit . Dann begleitete uns Truchseß nach Würzburg , und ich setzte mich mit meinem Ludwig , der mir bis Heidelb. nicht vom Schoß gekommen ist , in den Postwagen . Gesund u wohlbehalten sind wir hier angekommen und nun zehre ich an der Reise , wie der Winterbär an seinen Pfoten , nur mit dem Unterschiede , daß er mehr schläft , ich mehr wache . Meine Collegia ( Sofokles , Properz , Aristof. ) machen mir große Freude . Ich Sitze wieder mitten im Aristofanes ; muß aber nun bald auch an den Shekspear , der mich von Michaelis an recht ordentlich fesseln wird . Nun will ich den Sommer recht fleißig sein , wenige Menschen sehen , und meine Arbeit vertieft leben . Das wird auch Dein Los sein , und zugleich Deine Lust u. Freude . Im Garten will ich viel arbeiten , u. spazirengehn so oft es Not tut . Den Unhold Markus habe ich nur einmal erst gesehen ; er verschont uns mit häufigen Besuchen , und wenn die Eltern fort sind , wird er mich ganz verschonen . Tut er_es , ich könnte ihm ordentlich gut dafür werden . Nun lebe wohl , mein bester Boie , ich hätte Dir wohl mehr und ordentlicher schreiben können , aber ich habe nur wenig Zeit darauf zu verwenden , und es liegt noch mancher Briefbär bei Mir , der losgebunden sein will . Der böse Jean Paul kommt nicht ; es ist mir ärgerlich . Warum versprach er es denn ? Noch ist es freilich möglich , daß er kommt ; aber er schweigt , der Esel , und ich hatte mich doch so zu ihm gefreut . Lebe wohl , Du Sohnesvetter , und grüße mir hübsch ordentlich all die Deinen . Dein treuer Vetter Heinrich Boie . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

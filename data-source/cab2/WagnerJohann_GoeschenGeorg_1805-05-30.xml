@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1040">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen, 30. Mai 1805,
+                    Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>DSBM Leipzig</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">Bö-GS/A/Wagner, J. E./Brief 5 : Kasten
+                                        14</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1¾ S.</p>
+                        <accMat>Manuskript des ersten Bandes von Wagners Roman "Die
+                                    reisenden Maler". </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1805-05-30" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+            <note>Auf S. 2 aoR mittig Präsentat: <hi rendition="#aq">Meiningen</hi> d 30 <hi rendition="#aq">May</hi>. 1805 | <hi rendition="#aq">Wagner</hi>
+            </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012330">Literarisches Leben und Schaffen</term><term xml:id="JP-011948">Natur</term><term xml:id="JP-012572">Verlage / Verlegerisches</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein verehrungswürdiger Herr und Freund ! Es folgt hierbei das MSC . der reißenden Maler zurück . Um nicht unnötige Reisekosten für den 2ten Band zu machen , will ich diesen vorher völlig fertig machen , ehe ich Ihnen denselben sende . Was den ersten betrifft , so hoffe ich , daß Willibald mich über einige Ausstellungen welche Sie am gegenwärtigen Werke machen ( und für die ich Ihnen meinen wärmsten , innigsten Dank sage ) wo nicht rechtfertigen , doch versöhnen werde . Einiges Andere habe ich nach Ihrem Wünsche geändert . Allein die Derbheit , die Ihrer feineren Erziehung undelikat erscheint , und mehr im Ganzen als in den einzelnen Punkten liegt , vermag ich freilich nicht zu ändern , da mein ganzer Mensch überhaupt ziemlich derb ist . Ich erkläre mich übrigens im zweiten Bande über die Derbheit selbst . Nach meiner Meinung ist nämlich der Geschmack ungerecht und höchstverderblich , welcher die in freie Worte gefassten unschuldigen Handlungen und Gesinnungen gern tadelt , und die in feine Wendungen und Gemälde gebrachten verführerischen üppigen pp Gedanken und Situationen gerne ( und noch im vorigen Jahrzehnt bekanntlich gern bis ins Unendliche ) verzeiht , sonach aber sich immer mehr von der echten Griechheit entfernt , deren höchster Reiz eine freie , schuldlose Natürlichkeit war . Im Übrigen ist es freilich ein sehr gewagtes Unternehmen , einen Schwätzer und einen Fallstaff idealisieren zu wollen , welches ich wohl einsehe , aber nicht mehr zurückzuhalten vermag . Doch hebt sich Fink sowohl als Lenz ( welche auch bloße Nebencharakter sind ) gegen das Ende wieder . - Meine Ansicht vom Landvolk ist keineswegs die , welche Fink äußert ; allein ( so wie überhaupt des Autors eigener Glaube im Romane nirgends sichtbar werden darf . ) allein ich gestehe , daß ich eine weniger blühende Ansicht vom Bauer habe als Sie , welche vielleicht aus allerlei geschöpftem Ärger während fünfzehnjähriger Güteradministration drei großer Güter in Franken und Sachsen ( wobei mir fast nichts als die eigenhändige Saat erlassen war ) herrühren mag . - Lieber Gott , der Bauer in der Nähe großer Städte ist eben ein - Städter , gegen die eigentlichen Bauern Sachsens , Frankens und vollends Bayerns gehalten ! Daß aber die tiefgekostete bitterste Hefe des Landlebens mich nicht von seiner Wahrheit und Schönheit zurückbringen konnte , beweist wohl Willibald deutlich genug , und es geht auch übrigens natürlich zu , da ich - der Sohn eines sehr fühlenden Landgeistlichen - unter Bauern aufgewachsen bin , die mir ewig wert bleiben , deren derbe Kraft mir aber auch ewig anhängen wird . Es freut mich aber , daß Sie in den Malern doch schon weit mehr Geschmack finden werden als in Wilibalden , wenn Sie erstere , sobald sie gedruckt sind , nochmals durchgelesen sich die Mühe nehmen wollen . Je eher ich nun die Nachricht vom Anfange des Drucks erhalte , je lieber ist es mir . Darf ich denn nun meine vorige Bitte , ihrem zweiten Punkte nach , ganz gehorsamst wiederholen , und Ewr. Wohlgeboren um 100 rth . bitten , die ich gern den 24n oder 30n Jun. hätte ? - Wenn es irgend mit Ihrem Geschäftsgange vereinbar ist , so schlagen Sie mir dieselbe nicht ab . Aber werfen Sie auch keinen Groll auf den Zudringlichen . Die Zeit ist wahrhaft schlimm - Der Herzog von Gotha hat mir ein Präsent mit seinem Romane gemacht , worin ich aber bis jetzt nur geblättert habe . Ich wäre sehr begierig auf Ihr Urteil darüber , und will Ihnen auch das meinige sagen . Leben Sie wohl , wohl , mein edler Freund ! Der Himmel erhalte Ihnen Gesundheit und Frohsinn ! Ewig Ihr treuer JEWagner </p>
+         </div>
+      </body>
+   </text>
+</TEI>

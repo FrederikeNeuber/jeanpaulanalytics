@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0796">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Johannes Daniel Falk. Leipzig, 14. Februar 1809,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">15/II,1D,14</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <accMat>Nicht überlieferter Brief an Christian Friedrich Tieck. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1809-02-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011893">Berufliches</term><term xml:id="JP-012048">Briefverkehr</term><term xml:id="JP-011937">Kunst</term><term xml:id="JP-012547">Zeitschriften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>So eben erhalte ich Ihren Brief und eile Ihnen auf der Stelle zu antworten . Warum sollte ich Ihnen übrigens verbergen daß mich Ihr langes Stillschweigen sehr gekränkt hat ? Die Freundlichkeiten welche Ihr heutiger Brief enthält will ich Ihnen indes doch auf's Wort glauben , wenn Sie gleich meinen Glauben ein wenig scharf auf die Probe gestellt haben . Ihr Anerbieten mir bei einer neuen Unternehmung behilflich zu sein nehme ich mit Dank an . Ich habe das Glück gehabt für meinen Almanach einen neuen Verleger zu finden , das Kunst und Industrie Kommtoir in Amster . Mein Taschenbuch wird schon zu 1810 unter dem Titel neue Urania , erscheinen . Daher wird es mir lieb sein , wenn Sie Sachen die Sie für mich bestimmen , recht bald wenigstens vor der Ostermesse schicken Haben Sie aber die Güte diese Sache ganz geheim zu halten . Am wenigsten sie St. Schütz anzuvertrauen . Er würde es für Prahlerei ansehen - und es ist besser durch die Tat zu reden als durch Worte . Es verriet übrigens wenig Klugheit und Kenntnis der Welt , wenn ich von irgend Eines Vermittlung in dieser Sache etwas erwartete . Meinem Herzen denke ich , wird aber die Meinung nicht zur Unehre gereichen daß Schütz einer Frau der weit weniger Hilfsmittel zu Gebote stehen als ihm selber , etwas aufopfern würde . Auch zürne ich ihm nicht , daß er es nicht tat , was hätte er für Verbindlichkeit sich für eine Unbekannte zu interessieren . Das hätte vielleicht nach der so sehr verschwiegenen Sentimentalität geschmeckt , die die neuste Literatur aus dem Wege treiben muß , um für ihre Spasshaftigkeit , Raum zu gewinnen . Ich bitte Sie sehr lieber Falk die neue Unternehmung , für die sich schon die besten Künstler , Hartman und Friedrich tätig beweisen , ganz als Geheimnis zu bewahren . Freuen Sie sich lieber dafür mit mir im Stillen daß ich nun statt Schaden Vorteil habe . Denn Brockhaus ( der neue Verleger ) ist ein sehr geistreicher und gebildeter Mann , der kein Geld spart , die Sache auch durch äußeren Schmuck in die Höhe zu heben . Die Kupfer werden wohl anders ausfallen als die Willmanschen . Ich lege hier einen Brief an Friedrich Tick bei , den ich in Weimar vermute , und ebenfalls in der Sache , Aufträge zu geben habe . Tun Sie ja Alles , diesen Brief sorgfältig abgeben zu lassen . Wenn aber Friedrich Tick , nicht in Weimar sein sollte , mir sogleich den Brief zurück zu schicken , mit Nachricht , wohin er zu ad-dreßieren ist . - Dies ist der erste Gebrauch den ich von Ihrem Anerbieten mache mir bei der neuen Unternehmung behilflich zu sein . Richten Sie es ja aus , wie ich Sie bitte ! - Ihre beigeschloßenen Briefe habe ich bestellt . Noch hatte ich nicht Zeit die anderen Beilagen zu lesen . Ich freue mich aber darauf , und werde Ihnen nächstens schreiben was Sie zu wissen wünschen . Verzeihen Sie die Eilfertigkeit dieser Zeilen . Ich bin ungemein beschäftigt da ich , kaum erst mit Ablieferung des Willmanschen Mskpts . zu Stande , aufs neue zu sorgen habe , die nicht geringe Bogenzahl des neuen Almanachs herbei zu schaffen . Da das Glück mir wackere und rüstige Freunde geschenkt hat , unter welche ich nun auch Sie lieber Falk wieder zähle , so geht es über Erwarten . Grüßen Sie mir Ihre Frau herzlich . Ich drücke Ihre lieblichen Kinder in Gedanken an mein Herz ! Minna Spaziere </p>
+         </div>
+      </body>
+   </text>
+</TEI>

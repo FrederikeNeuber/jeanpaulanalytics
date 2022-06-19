@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0517">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Dresden, 11. Juli 1820,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. Auf S. 4 Adr.: Der | Frau <hi rendition="#u">Legations-Räthin <hi rendition="#aq">Richter</hi>
+                           </hi> |
+                                    geborne <hi rendition="#aq">Mayer</hi> | zu | <hi rendition="#u">Bayreuth</hi> | d. G. </p>
+                        <accMat>Brief an Josepha Charlotte von Lochner.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Blaues Briefpapier, Textverlust durch Siegelausriss. </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1820-07-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012284">Heidelberger Freundeskreis</term>
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Sie geben mir , teure liebe Frau , Veranlaßung zu Freude und Dank durch öfteres Schreiben , wie können Sie also um Verzeihung bitten , daß Ihrem lieben Brief vom 9.ten Jun. am 7.ten Jul. ein zweiter folgte ? nachdem ich also nun meinem Dank einen Vorwurf , aber nur aus Liebe , beigefügt habe , umarme ich Sie herzlich in Gedanken und benutze die Gelegenheit der Abreise des D. Karo , Ihnen gleich den folgenden Tag nach Empfang Ihres letzten lieben Briefes , zu schreiben ; wie billig beginne ich nun mit einem Wort über den Überbringer , der sich ein wahres Fest daraus macht in Ihrem ganzen lieben Familienkreis einen Augenblick bei seiner Durchreise durch Bayreuth erscheinen zu dürfen Ihren lieben Mann kennt er von Heidelberg her und Sie , liebe Freundin auch ; denn er vernahm ja schon oft Worte von denen die Sie lieben ; in Heidelberg wo er schon zu meines Sohnes Bekannten gehörte , sah ich ihn nicht , aber hier veranlaßte ein Auftrag des Prof . Schelfer an mich , daß ich ihn kennen lernte , und die Paar Male als ich ihn sprach , habe ich ihn geistreich und gemütlich gefunden , und gönne ihn recht die Freude Sie allerseits zu sehen . Ich erkannte ganz die gewissenhafte und gefühlvolle Frau , in der Sorge die S je trugen , die unbestimmte Stellung des Geldempfanges für die Gr. Vitzthum , die Ihnen bekannt war , nicht auf's Ungewiße auf sich beruhen zu lassen ; sogleich teilte ich den Fall ihrer Familie mit und leider erfahre ich , daß ihr Mann erklärt hat , daß er ein Jahr lang , nur in Baireuth seiner Frau Geld auszahlen lassen würde , die Reise nach Schlangenbad wäre nicht mit seinem Vorwißen unternommen und da könne er nicht helfen ; ich hoffe jedoch daß er und ihre zahlreiche Familie , die für ihre Gesundheit nötige Badereise , nicht zu der Folter machen werden , dort ohne Geld zu sein ; wie leid tut mir nicht diese unglückliche Frau , die so lenkbar ist , wenn sie geliebt wird und freilich dann bei harter Behandlung die Haltung verliert , aber auch wem bei einen gefühlvollen Herzen und lebendigen Kopf kann es leicht sein , sie unter solchen Umständen zu behaupten ! Herzlich danke ich Ihnen nochmals , für den Anteil den Sie so freundschaftlich an die Gr. V. nehmen.H. von Herder , der jetzt Oberberghauptmann ist und in Freiberg seinen Wohnort hat , besuchte mich neulich seine Frau ist melancholisch geworden und wir beide freuten uns unendlich von Ihrem lieben Mann und von Ihnen zu sprechen um so mehr da der H. v. H. Briefchen bei meiner ersten Durchreise durch Baireuth nach Heidelberg die Bahn öffnete , auf der ich nun schon so viele Freude fand . Daß der liebe Max nun bald bei Ihnen sein wird , freut mich sehr . Der Aufenthalt Ihres lieben Mannes in München , ist gewiß für uns alle die wir ihn lieben , recht brillant gewesen ( er verzeihe einer Frau diesen Ausdruck ) Sie müssen die Details davon mir auch mitteilen ; doch seine große Bescheidenheit kann in dieser Beziehung , seine Freunde um Manches gebracht haben , was sie mehr freut als ihn selbst . Mein Sohn empfiehlt sich Ihnen auf's Angelegentlichste , so wie wir uns beide Ihrem lieben Mann . Die lieben Kinder grüße ich herzlich . Zu Anfang September , hoffe ich , so Gott will , Sie zu sehen . Fr. v. Lochner bitte ich die Inlage zuzustellen Ewig die Ihrige Henriette Ende </p>
+         </div>
+      </body>
+   </text>
+</TEI>

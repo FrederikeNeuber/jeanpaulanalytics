@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0649">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm und Henriette Mayer an Caroline Richter. Berlin,
+                    23. Januar 1818, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, ¾ S. von Johann Siegfried Wilhelm Mayer, 3 S. von
+                                    Henriette Mayer.</p>
+                        <handDesc>
+                           <handNote xml:id="JP-002703">
+                              <persName>Johann Siegfried Wilhelm Mayer</persName>
+                           </handNote>
+                           <handNote xml:id="JP-002709">
+                              <persName>Julie Henriette Mayer</persName>
+                           </handNote>
+                        </handDesc>
+                        <accMat>
+                           <ref type="letter" subtype="document" target="4-VII_89">Brief
+                                        Johann Siegfried Wilhelm Mayers an Jean Paul</ref>. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <persName key="JP-002709">Julie Henriette Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1818-01-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012194">Geschenke</term>
+               <term corresp="#JP-012319">Besorgungen für Familienmitglieder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! Gib anliegendes Briefchen an Deinen lieben Mann , zu dessen Gefahrlosen Befinden ich herzlich Glück wünsche . Freilich bist Du durch die Fülle der Beweise Deiner u Deiner Kinder Teilnahme an mir , gegen meinen Zweifel , wenigstens gegen meine Ungeduld gerechtfertigt . Doch aber brauche ich mich der letzteren auch nicht zu schämen . Tausend Dank für alle jene Beweise , u behalte ich mir die Antwort an die Kinder vor ; so bald ich dazu aufgelegter , wie jetzt noch , sein werde . Küsse sie alle . Meine Frau erklärt sich eben so . Dein treuer Vater Mayer Teuerste Caroline ! Vielen Dank für Ihre und Ihrer Töchter liebreiche Aufmerksamkeit für mich ; Ihre hübsche Stickereien haben mir viel Freude gemacht , nicht weniger die in Ihrem Briefe geäußerte Klage , daß man sich in Bayreuth keine gute Stick-Materialien verschaffen könne ; denn dadurch habe ich doch zufällig erfahren womit ich Ihnen und den Kindern einige Freuden machen kann . Sie wissen man hat hier Gold und Silber Gaze in verschiedenen Breiten , sehr schöne colorierte Stickmuster , auch gute Stickseide Sein Sie nun ganz gütig gegen mich und sagen mir unverhohlen was Sie und die Kinder für Arbeit vornehmen wollen ; damit ich die Breite der dazu erforderlichen Gold oder Silber-Gaze danach wählen kann , wie auch die Stickmuster , wonach sich denn die Auswahl der Farben von selbst ergibt . Sie glauben nicht wie sehr Sie mich verpflichten , wenn Sie mir recht schnell und offen Auskunft hierüber geben . Dieser gelinde Winter ist meiner Gesundheit sehr zuträglich gewesen ich habe weniger als sonst an refmatischen Schmerzen gelitten , vielleicht ist auch wohl das Landecker Bad mit daran Schuld ; hätte es nur seine Kraft mehr an meinem lieben Mann bewährt , dessen Schwäche in den Beinen mehr zu als abnimmt ; übrigens ist er ganz wohl , aber dieser Mangel an gewohnter Bewegung bringt mancherlei Beschwerde hervor . Auch in Rücksicht Ihrer , habe ich mich über das veränderte bessere Schicksal Ihrer Schwester recht innig gefreut ; denn ich weiß wie Sie , gute Seele , dies so empfinden als ob es Sie selber träfe . Glücklicheres konnte uns allen nichts widerfahren . Gott sei gedankt daß mein Mann diese Freude noch erlebt hat . - Empfehlen Sie mich dem Ihrigen bestens , ich küße Sie und Ihre Kinder in Gedanken , und danke der lieben Ottilie für Ihren Brief . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

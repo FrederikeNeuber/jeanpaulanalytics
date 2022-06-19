@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0505">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Henriette Schwendler. Bayreuth, 17. Juli 1808, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1808-07-17" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-003749">Amanda Schlabrendorff</persName>
+               <persName cert="medium" key="JP-002936">Antonie von Mützschefahl</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0333">Von Henriette Schwendler an Emanuel.
+                        Meiningen, 30. Juni bis 2. Juli 1808</ref>
+               <ref type="prev" target="JP-UB0726">Von Henriette Schwendler an Emanuel.
+                        Meiningen, 8. Juli 1808</ref>
+               <ref type="prev" target="JP-UB0644">Von Henriette Schwendler an Emanuel.
+                        Meiningen, um den 2. Juli 1808 (?)</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011913">Besuche</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Verehrungswerte , gute Henriette ! Heute vor 8 Tagen bin ich Ihnen bis nach Schwarzach wirklich nachgereist ; heute will ich Ihnen bloß mit Geist u Schrift bis Meiningen nachlaufen .Wäre mir_es möglich gewesen , Sie hätten wenigstens mit der ersten Post , die auf Ihre Abreise folgte , einen Brief v. mir bekommen , denn meine Sehnsucht nach Nehmen steht der nach Geben in Nichts nach .Caroline R. - ein hohes , reines , kräftiges , geistiges , kindliches Weib - konnte nicht kommen u bat die Tante V. u den alten Freund beider , sie in Grthl . zu sehen . Wir kamen , sie kam dahin und 2 Tage des heiligsten Andenkens würdig , wurde ein vollkommenes Wiederfinden u Wiedersehen v. einer ewigen Dreieinigkeit gefeiert . Vorgestern kam ich glücklich nach Hause , wo Ihre zweite Hand mich erwartete , die ich mit Freude ergriff . Wohl mir , wenn ich und daß ich im Stande war , Euch einige angenehme Stunden hier zu schaffen . Alles was Gott tut u schaffet ist gut ; gelingt es uns , Menschen froh zu machen : so haben wir sie auch gut gemacht und sind also Gott nahe gekommen u haben ihm nahe gebracht . In derselben Woche , in der Sie uns verließen kam noch die hier an u ich hatte das Vergnügen , unsere edle Car . eines Besseren über sie überzeugt zu sehen , als sie bis hierhin von der Armen - die in besserer Umgebung viel hätte werden können - dachte . Sie blieb 8 Tage u trägt mit die Schuld meines Spätschreibens . Mit meiner kräftigen Voigt habe ich Vieles üb . Sie u die lieben Ihrigen gesprochen .Caroline hat mir der sehr seltenen Antonie Briefe mitgeteilt , die mir das reine Wesen ganz wie es ist zeigte ; aber ich verschwieg aus Liebe für Caroline meinen ersten Brief u teile - das habe ich gestern erklärt - keinen von Ihnen mit - keinem . Die Voigt hat mir Euer Sehen schon vorher geschildert u schön . Caroline genießt sehr viel Wonne in Ihrem Brief . Gott wolle ihr viel dergleichen Genuß geben - denn wer verdiente ihn mehr ? Mit wahrer Rührung las ich die Freude die Ihre Leute in Ihrem Hause u die zarte Anstalten , die diese zu Ihrem Empfange gemacht hatten . Dieser Empfang macht Ihrem Herzen mehr Ehre , als mancher steife Triumpfbogen dem seines Fürsten . Für die Mitteilung der Blüte auch meines Lieblings - der aber noch nicht blühet - u diese Nachricht küß ich Ihnen mit Innigkeit die Hand . Daß Sie nur wieder ganz wohl sind u des Tags in Ihrem Garten u des Abends auf Ihrer Galerie vergnügt u denkend und schaffend sein können . Habe ich auch in diesem Jahre keine Hoffnung , Sie in Ihrem Hause zu sehen : so weiß ich die gute Anstalt zu meinem Empfange dennoch zu schätzen u zu würdigen . Wir werden uns bei unserer Zusammenkunft vergleichen müssen , gute Henriette : Sie glauben , ich nehme Sie und ich glaube , Sie nehmen mich zu hoch . Aber ich glaube , daß Sie wenigstens so hoch stehen , wie ich Sie sehe und daß ich eher immer noch zu- als ablegen kann . Die Heim soll nächstens die Zeilen haben , die Sie ihr versprochen haben . Erst in der nächsten Woche gehe ich auf das Gut . Unsere Richters sind wohl . Emma ist es nicht ganz , aber auch nicht krank . Es weiß kein Mensch , daß ich heute schreibe ; ab. ich sage es . Für jede angenehme Stunde , die Sie mir , die die lieben Ihrigen mir hier gegeben , besonders für den 24 Juni , den Sie mir alle verherrlichten , sagt Ihnen allen mein Herz den reinsten Dank . Mein Ulf . hat mir einen sehr schönen Levkoie in Ihren Scherben gepflanzt . Grüssen Sie mir Ihren Schwendler , Ihre Antonie , Amanda ; küssen Sie mir Pauline u wissen Sie doch wie ich Sie hochachte u liebe ! E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

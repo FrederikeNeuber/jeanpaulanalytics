@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0487">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meinigen, 2. November 1809,
+                    Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. Briefnummerierung vfrH.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1809-11-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0135">Von Emanuel an Henriette Schwendler.
+                        Bayreuth, 27. Oktober 1809</ref>
+               <ref type="next" target="JP-UB0170">Von Emanuel an Henriette Schwendler.
+                        Bayreuth, 7. Dezember 1809</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012565">Erziehung, Pädagogik</term>
+               <term corresp="#JP-012265">Geschlechterrollen</term>
+               <term corresp="#JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Nein ! guter Emanuel nicht in Monaten , mit umgehender Post , gebe ich Ihnen meinen Dank für den freundlichen Brief zurück und dazu Nachrichten von uns und Allen Personen die Ihnen in Meiningen lieb sind . Ich würde früher an Sie geschrieben haben , denn ich habe bei mehr Geschäften doch mehr Zeit , weil ich jetzt recht gesund bin und ich durch frühes Aufstehen und kräftiger Einteilung meiner Zeit deren mehr gewinne allein ich wußte durch einen von Bayreuth Kommenden Reisenden , daß Sie eine weite Reise unternommen hatten . Was würde Antonie gesagt haben , hätte sie unseren Emanuel bei Pestalozzi angetroffen ! - Ich bin immer noch nicht ganz mit P. Lehr-Methode bekannt , aber seinen hohen Zweck hoffe ich jetzt durchaus gefaßt zu haben . Seit einem halben Jahre gibt dieser herrliche einzige Volksbildner ein Journal heraus , unter dem Titel : Über Menschen und Volksbildung . In diesem , hat er seinen Charakter und seinen Plan der Allgemeinen Erziehung auf eine so klare und faßliche Weise aufgestellt , daß alle meine Zweifel gelöst sind . Er erscheint mir , wie ein heilig berufener Mann den ich in meinen Herzen Luthern gleich stelle . Außerordentlich hätte es mich gefreut , wenn Sie mein Freund , in Iverdun gewesen und von Angesicht zu Angesicht Pestalozzi beurteilt hätten . Sie besitzen ganz die Fähigkeit ein solches Ganzes zu prüfen , einmal durch Ihre philosophische Ruhe bei der Ansicht jeder Sache und dann , mein Emanuel , durch die Liebe Ihres Herzens die so gern die Menschheit und am liebsten die Kindheit umfaßt . Ich erwarte sehr viel für Antonie , von ihrem Aufenthalt in Iverdun , sie ging schon recht geläutert hier weg und dort wird sie mit eigenen Augen sehen , selbst handeln , und wohl gewiß für ihr ganzes Leben die nützlichsten Erfahrungen sammeln . Es ist etwas köstliches um die Pflicht der Jugend Leitstern zu sein , aber wohl , guter Emanuel , wird die zusehende Mutter nur zu leicht die Übersehende : Ich sage mir dieses recht oft , möchte mir der gütige Allvater helfen , jene Schwäche zu vermeiden . Könnten Sie mich nur zu weilen handeln sehen , und mir raten , mich unterstützen . Ich möchte fast behaupten , daß der edle unpartheische Freund dabei oft mehr wirken kann als selbst der Gatte . Über meine Kinder habe ich Ihnen , recht viel zu sagen und Ihre Liebe und Freundschaft leihe mir gern das Ohr . Ich fange beim jüngsten an bei Reinhold . Es ist ein unbeschreiblich lieblicher , süßer Knabe , keins meiner Kinder zeichnete sich so früh durch die kräftigste Gesundheit und ununterbrochenste Fröhlichkeit aus . Die letztere ist die natürliche Folge der ersteren und beide zu bewahren ist mein fortgesetztes Bemühen . Ach Gott , Emanuel , wenn ich Ihnen den kleinen werdenden Menschen nur zeigen könnte , wenn er wie ein unschuldiger Engel lächelt und durch seine kleinen Gebärden sein Wohlbehagen andeutet ! Es klingt wohl recht pedantisch , wenn man sagt in Reinholds Alter , nämlich in seinem fünf Monats Leben finge die Erziehung schon an , und doch dünkt es mich , es sei dem so . Seinen Bedürfnissen zuvorzukommen , zu verhüten , daß er nicht um etwas zu bekommen , erst schreien muß , ihn nicht im Übermaß zu essen und zu trinken zu geben , dies alles halte ich für erstaunlich wichtig und darinnen setze ich vor der Hand seine Erziehung . Ich verweichle den Kleinen nicht , aber die höchste Reinlichkeit und Ordnung bei der Befriedigung seiner Bedürfnisse diese habe ich eingeführt . Unser Richter ist gar nicht mit meiner ersten Kindesbehandlung zufrieden , allein ungeachtet er , Levana's Verfaßer , es nicht ist , kann ich nicht von meiner Überzeugung weichen , sie liegt im Innersten meiner Seele , ja sie ist eins , mit meiner Religion . Pauline ist die nämliche , wie Sie sie in Bayreuth kannten , sie wächst , bildet sich aus , aber immer in dem hausmütterlichen Sinne , den Sie gern in ihr bemerkten . Ich halte diesen Sinn sehr wert weil er durchaus zur Weiblichkeit gehört zwar nicht immer ganz besondere Geistes Anlagen mit sich führt aber diese durch Anmut und Herzens Güte ersetzt . Pauline genießt seit einigen Monaten den öffentlichen Unterricht in einer sich seit Kurzen hier gebildeten Töchterschule . Ein Schwieger Sohn Salzmanns mit Namens Märker hat sich hier ansässig gemacht und dieser ist der Vorsteher jener Schule . Ich leugne nicht - da ich bisher Pauline selbst unterrichtete und überhaupt keine meiner Töchter außer dem Hause Unterricht genommen hat - so tat es mir im Anfange weh , mich von dem lieben Kinde mehrere Stunden im Tage zu trennen , allein mehrere Gründe bewogen mich dazu . Herr Märker ist ein sehr edler Mann dem das Wohl der der Kinder sehr am Herzen liegt und der eine vortreffliche Methode im Unterricht hat , außerdem schienen mehrere Personen hier , die mehr Kinder als ich haben sich erst durch mich bestimmen zu lassen , ob sie ihre Kinder der Schule anvertrauen sollten oder nicht , und diese bestimmte mich der guten Sache keinen Einhalt zu tun . Nun auch einige Worte , guter Emanuel , über mein ältestes Kind Amanda . Sie macht mir Freude aber auch Kummer ! Indem sich ihre Talente und Geistes Anlagen mehr entwickeln mache ich Entdeckungen an ihr die mir bange Sorgen für ihr moralisches Sein machen . Daß sie immer einen außerordentlichen Hang zur Eitelkeit hatte bemerkte ich schon lange , mit einem Worte , es war immer ihr Hauptfehler ; zu diesem gesellte sich nun ein hoher Grad von Sinnlichkeit . Auf welchem Wege Emanuel , soll ich diesen Feinden und Störern wahrer Weiblichkeit entgegenkommen ? Daß , Amanda , im weitesten Sinne des Worts unschuldig ist , nun dies kann ich verbürgen , ja daß sie sich unbewußt sinnlich ist eben so sehr aber dies beides verhütet nicht täglich die mannigfachsten Unbesonnenheiten , die , wenn ich sie nicht mit der größten Anstrengung beobachtete Gott weiß wo hin sie schon geführt hätten . Ungeachtet Antonie , ein herrliches Mädchen ist , so hat sie mir doch bei Amandas Erziehung viel geschadet , einmal durch eine Lob Verschwendung die sie gar nicht nach dem Charakter berechnet hatte und dann durch ein Nachgeben wodurch sie meinen Ernst bei Amandas Behandlung in ein viel zu strenges Licht setzte . Oh Gott , Emanuel könnte ich Sie nur einmal sprechen , bei einer so wichtigen Angelegenheit kann die Feder gar nichts ausdrücken . Es liegt viel sehr viel Gutes in Amanda , aber noch bei nichts eine feste Richtung , ihr ganzes Wesen ist jedem Eindruck offen und der Leichtsinn raubt so oft das beste . Ich sehe nicht zu streng meine Sorgen sind gegründet . Wäre der Graf S. nicht ein in jeder Rücksicht verächtlicher Mensch , so würde ich ihm seine Tochter den Winter über aufs Land gegeben haben wo sie weniger Zerstreuung gehabt , und sich da hätte der Häuslichkeit annehmen müssen vor welcher sie größten Wiederwillen hat . Im väterlichen Hause würde ihr manches anders erschienen sein und vielleicht hätte sie ihr Ehrgefühl zu manchem vermacht , woraus sie sich als Angewohnheit hier nicht herausreißen kann . Ich habe zu spät ihren Wiederwillen für weibliche Häuslichkeit entdeckt und klage mich deshalb ernstlich an . Ich habe ihre Talente zu sehr herausgehoben und sie zu viel Zeit darauf verwenden lassen , bei Pauline benutze ich die gemachte Erfahrung , könnte ich es nur auf der anderen Seite wieder gut machen . Mit bloßen Talenten nutzen wir keinem Manne und dies ist unsere schönste Bestimmung aber der Mann fordert Ordnung Reinlichkeit Sparsamkeit und überhaupt Tugenden mit denen wir in der Welt nicht geradezu paradieren können die dem häuslichen Herde aber eigens gehören müssen . Emanuel , mein Schwendler ist ein trefflicher Gatte und dennoch würden wir nicht glücklich sein , bemühte ich mich nicht nach meinen Kräften meinem Hause vorzustehen . Oft hoffe ich recht viel für Amanda wenn der Zeitpunkt kommen wird wo sie lieben wird , aber ich zittre auch für denselben ehe ich nicht gewiß weiß , wohin sie ihr Herz richten wird . Es ist mir ordentlich leichter im Herzen seit ich Ihnen meinen Kummer entdeckt habe , was sie mir darüber zu sagen haben und in wiefern Sie mich belehren wollen , dies vertrauen Sie in Ihrem nächsten Briefe einen eigenen Blättchen an . Ich war bisher gewohnt Ihre Briefe an mich Amanda mitzuteilen und möchte es ferner tun , weil ich so besonders den Ausdruck der Wahrheit in Ihrem Stil schätze und dieser jungen Briefstellerinnen so nötig ist . Caroline Richter ist ganz stumm für mich , Henriette Schukmann bleibt mir keinen Brief schuldig , sie ist überaus wohlwollend und herzlich gegen mich . Die Pension von Primus an Richter ist doch gegründet ? lange Zeit machte mir wohl keine öffentliche Handlung innige Freude . Der Friede nährt meine Hoffnung Sie künftiges Jahr wiederzusehen . Leben Sie froh und glücklich Emanuel . Henriette Mann und Kinder grüßen Sie mit Liebe und Hochachtung Ich bitte meinen Freund diesen Brief zu zernichten ! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

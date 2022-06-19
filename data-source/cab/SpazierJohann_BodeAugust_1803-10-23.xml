@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0839">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an August Theodor Heinrich Bode. Leipzig,
+                    23. Oktober 1803, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection>B:Spazier, Karl</collection>
+                        <idno>
+                           <idno type="shelfmark">79.44|14</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 ¼ S.</p>
+                        <accMat>Belegexemplar der "Erklärung" August Bodes, die im
+                                    Intelligenzblatt der ZeW vom 15. Oktober 1803 (Nr. 46)
+                                    erschienen war. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-10-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012037">August Theodor Heinrich Bode</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+               <term corresp="#JP-012547">Zeitschriften</term>
+               <term corresp="#JP-011937">Kunst</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich schreibe sogleich wieder , lieber Freund , um Ihnen erstlich für die Anzeige der Burlesken zu danken u Ihnen dabei zu sagen , daß ich , sie aus meiner Sorte geschrieben finde u darum auf mich genommen habe . Das Spiel ist so um so unverdächtiger . Fürs Andere wollte ich Ihnen sagen , daß ich zum Titelkupfer des anderen Jahrgangs die drei Porträts von Goethe , Schiller und ( lächeln Sie nicht ! ) Wieland zu geben beschlossen habe . Es sollen Medaillons werden , die mir Schnorr mit Geschmack verbinden soll . Der letztere W. darf nicht fehlen , um der alten Schule , aus welcher unstreitig der größte Teil meiner Leser besteht , ein Opfer zu bringen . Ich wünschte wohl eine Idee zu haben , wo man dem Schustergesicht des Kotzebue eins zugleich mit anhängen könnte . Denken Sie doch einmal darauf , wie das zu machen wäre . Der Mensch müßte aber dadurch lächerlich werden . Vor allen Dingen aber wünschte ich getroffene Porträts von G. Sch. u Wieland zu haben . Können Sie es nicht bei Schiller einleiten , daß er mir eins , bloß für die Kopie , mitteilt ? Ist das Bildnis v. Goethe , was Horn zur Luna mit dem des Ariosst , Cervantes etc , aufgegeben hat , getroffen ? Es ist zu sehr en face u gefällt mir nicht . Auch weiß ich nicht , ob Goethe so frisiert erscheint ; ich habe ihn nie gesehen . Wenn Sie mir doch eins in der Geschwindigkeit schaffen könnten ! Wissen Sie nicht ein getroffenes Bild von Wieland ? Haben Sie doch die Güte , mir schleunig zu antworten , weil , wenn gut gearbeitet werden soll , die Zeit bis Neujahr nicht übrig ist . Es wurmt den Voß , daß ich Darnmann den Antrag ( wie ich ihm gesagt ) machen will . Es ist aber so besser . Sollte jener ja keine Lust haben , oder überladen sein : so ist_es mit Voß immer noch Zeit . Erfüllen Sie ja meine Wünsche , Freund , u schreiben mir gleich Ihrem Sp . Hier Ihre Erklärung . Haben Sie Kotzeb . schändliches Produkt Expektorationen gesehen ? </p>
+         </div>
+      </body>
+   </text>
+</TEI>

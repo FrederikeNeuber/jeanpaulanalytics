@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0294">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Caroline Richter. Bayreuth, 30. März 1822,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Bl. 8°, 2 S. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-03-30" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012033">Textilien</term>
+               <term corresp="#JP-012453">Jean Pauls Alltag</term>
+               <term corresp="#JP-012322">Bierunfug </term>
+               <term corresp="#JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine geliebte Mutter ! Wenn es nach meinen Wünschen gegangen wäre , hätte ich Euch längst geschrieben , aber so mußte ich bis heute warten , wo ich aber doch etwas beantworten kann . Gott sei Dank daß Ihr wohl in Würzburg angelangt seid ! Ich habe immer an Euch gedacht , und es scheint mir eine Ewigkeit daß Ihr fort seid . Hier zu Hause geht alles ganz still seinen Gang , und das Bisschen Essen abgerechnet gibt es wenig zu tun . Mit Marie bin ich recht zufrieden sie macht alles ordentlich . Gestern war Amöne so gut , mich auf eine Stunde zu besuchen , sie war sehr freundlich und läßt Dich herzlich grüßen , sie lebt recht einsam . Vergangenen Mittwoch erlaubte mir der Vater in die Harmonie zu gehen , und da fand ich die gute Frau von Welden , die recht wohl war . Es freute mich sehr und ich dachte an Dich und die gute Luise , der ich nächstens schreibe , denn Einen Brief muß sie von mir bekommen . Für den ihrigen tausend Dank . Am Donnerstag war der Vater bei der Rollwenzel , wo ich ihn besuchte . Der Tag war herrlich und der Vater auch vergnügt , bis auf das Essen wovon er nichts genoß . Der gute Vater ist Gottlob recht wohl , und gestern ist auch sein Wein angekommen . Morgen soll er durch den Büttner abgezogen werden . Die Woche habe ich recht an meinen Kleid genäht , heute wollte ich es anziehen aber es sind noch einige Kleinigkeiten zu machen die fehlen . Wirst Du denn zu Ostern wieder da sein , liebste Mutter ? Die Tage dehnen sich so lange aus , obgleich mir das Wirtschaftführen großen Spaß macht . Vorgestern hat der Vater an die gute Tante geschrieben , sie wird sich sehr über den Brief freuen . Heute bekam ich endlich einmal von Konradsreuth Nachricht ; die gute Kammerherrin schreibt mir daß sie froh wäre - d. wenn Minona noch bei ihrer Mutter bliebe , weil sie sie in der Folge für Thekla wünschte . Von Zedwitz ist auch schon Antwort da . Frau v. Plotho kommt nächstens selbst hierher , um das Quatier zu sehen , denn bloß auf fremdes Anraten will sie keines nehmen . Aber an Deiner Güte war es noch nicht genug ; Minna Spangenberg u. Herr v. Pasch mußten noch schreiben , und auch mir wurde die Zumutung gemacht , aber ich wollte die arme Plotho nicht mit den vierten Brief über Eine Angelegenheit plagen . Jetzt mag die gute Diezo wohl schon in ihren Bett liegen . Gebe Gott daß es ihr nicht zu viel Überwindung kostet . bist Du auch nicht böse über das vorige eilige Briefchen ? Ich meinte es aber gut . Sage Luise daß ich heute zum erstenmal die kleine Lilli sah , und daß sie mir eine Menge Küsse für sie gab . Bald mehr von Deiner treuen Emma . Lebt Alle wohl . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

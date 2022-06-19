@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0260">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johanna Heim an Caroline Richter.
+                    Meiningen
+                    (?),
+                    nach
+                    dem 3. Juni 1805</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Aufgrund von Wasserflecken und zerlaufener Tinte teilweise sehr unleserlich.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001604">Johanna Heim</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date notBefore="1805-06-03" notAfter="1805-07-31" cert="low"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-011840">Meininger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011832">Gesellschaftliches Leben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>einfach aber doch klar , hell erklingen Töne wenn sie recht gegriffen werden - Mann kann dem Spieler ja oft mehr Schuld beimessen als dem Instrument - . Ihre gute Schwester die mir Ihre Lore noch so herrlich schilderte , die Lore bat mich inständigst Ihren guten Mann u. Kinder recht sehr zu grüßen , sie hatte sich verwandelt , was ihr aber nicht schön stand - sie hatte sich vornehm getragen . Ihr gütiges Zutraun , wegen Aufsätze in die elegante Zeitung mehrte ich dadurch , daß ich einen gewissen Herrn Ritter , Pfeffel u. Engelmann gebeten habe in Frankfurt , den Doktor Jahn u. meinen alten treuen Freund Reinewald den mir vorgestern beikommenden Aufsatz überschickte - ich finde die Sache richtig : jetziger Zeit passend u. wahr gesagt . Mein Karl Schwendler besuchte mich seid 14 Tagen hier u. wo ich ihn so recht frei genießen kann weil er meistens bei mir hier ist , er ist recht brav u. gut , er geht in einigen Tagen weg in die Schweiz wo er eine neue Stelle bekommt . Ernst Schwendler ist jetzt zur See nach Amerika , es ging ihm schwer ein . Ist die Sage wahr daß Ihr Mann Bareuth verläßt und nach München geht ? Mit meiner Louise Kessler , die seid den September mit der Herzogin nach Marseille ging , gedeiht gut , die Herzogin die sonst 10 Menschen zu ihrer Bedienung hatte reduziert sich auf das einzige unerfahrene Mädchen - lange hörte ich nichts , als in März die Herz. v. Gotha an unsere Herzogin schrieb u. sich sehr über das Mädchen klagte Der Brief war so gemein daß ich_es nicht ungerügt lassen konnte . unsere Herzogin gab d. famosen Br. nie zu lesen unter anderen war eine Beschuldigung ganz deutlich : Louise habe ihr Ketten Bändern genommen - . ich schrieb an die Herzogin nach Marsseil , ganz deutlich offen u. frei ich konnte mit guten Gewißen zu ihr reden , den das war ihr freier unaufgeforderter Wille u Eigensinn sie wollte durchaus das Mädchen in Dienst - mein Jesus . Sein eiliges Brief würgte gut die Meininger herzogliche Stadt Prinzessin gab andere Töne Jetzt erhalte ich Nachricht daß die Herzogin in Frankfurt nahe am Tod liegt , wo Louise erbärmliches ausstehen muß . Fr. Landgräfin in Barchfeld unseres Herzogs Schwester ist auch Tod , eine rechte prave , liebe gut Frau . Der Geheime Rat u. seine Tochter sind wohl u leben immer so auf und alten fürs . Die arme Reinwald verlor ihren Bruder Schiller , das sie ganz nieder drückt . Frau Schwendler geht immer so ihre Wege - inkonsequent , wie immer - jetzt geht sie nach den Liebenstein wo sie ihrer Gesundheit leben will , mit der Amand Pauline , einer Jungfer u. vielleicht auch ihre Bediente - sie besuchen uns noch oft , Pauline ist ein gar gutes Kind , das kaum den Tod entgangen ist . Was macht mein lieber Freund Emanuel ? seiner erinnere ich mich oft hier - konnte er einen so heiteren schönen warmen Tag einen so hellen Abend ! es war so kalt und rauh als er bei uns war , kommen Sie u. Emanuel zu uns , Sie haben uns beide lieb u. nehmen mit Herzlichkeit vorlieb . Unseres Vetter Wagners Roman gefällt sehr wohl , er scheidet sich aber gewiß auch aufallend von den gewöhnlichen Romanen , er behagt recht gut . Paul Richters Pflegeljahren , gefallen meinem Mann sehr wohl , es ist das erste Buch in vielen Jahren daß mein Mann liest nicht aus Mangel des guten Tons - aus Mangel der Zeit - es ist aber auch herrlich u. ganz Vortrefflich unübertrefflich schön - schrieb dieses nicht Paul Richter in der herzoglichen Stadt Meiningen ? jede wo es noch vor meinem Hausfreunden las - ich war gleichsam gestärkt - es ist was ausgezeichnet schönes so hieß es - Gute , liebe ! Könnte ich Sie sehen sie an mein Herz so recht innig drücken u Grüßen Ihren Großen Mann . Der Emma erzählen Sie von einer alten Heimspate die die Kinder sehr u herzlich liebt . Sagen Sie Sich daß Sie mir bald wieder schreiben sollen . Ihre treue Heim Grüß u. Küße dem Emanuel </p>
+         </div>
+      </body>
+   </text>
+</TEI>

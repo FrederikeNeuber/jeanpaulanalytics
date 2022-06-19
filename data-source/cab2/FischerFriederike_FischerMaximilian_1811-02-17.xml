@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0388">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friederike Christiane von Fischer an Maximilian David Benjamin von Fischer. Breslau, 17. Februar 1811, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="copy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>11¾ S. Auf Dbl. oder in ein Heft geschrieben. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Zusammen mit Friederike Christiane von Fischers Brief an ihre Schwester Antonie von Mützschefahl
+                    vom selben Tag sowie <hi rendition="#aq">Friederiquens Grabschrift</hi> in einem
+                    zusammengehörigen Konvolut unter dem Titel "Unvergleichliches, Heiliges" als
+                    Abschrift vfrH in Emanuels Nachlass.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-012570">Friederike Christiane von Fischer</persName>
+               <placeName key="JP-005622">Breslau</placeName>
+               <date when="1811-02-17" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012187">Maximilian David Benjamin von Fischer</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <persName cert="medium" key="JP-000472">Henriette Braun</persName>
+               <persName cert="medium" key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+               <persName cert="high" key="JP-002936">Antonie von Mützschefahl</persName>
+               <persName cert="high" key="JP-004556">Johann Ernst Wagner</persName>
+               <persName cert="high" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName cert="high" key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <note>Im Auftrag von Emanuel kopiert,
+                    der
+                    eine Kopie auch an Jette Braun schicken wollte.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012728">Abschied</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012761">Tod und Sterben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Abschrift . Geliebter ! Von der zärtlichsten Liebe für Dich durchdrungen , vielleicht auch von einem kleinem Vorgefühl aufgefordert , schreibe ich diese Zeilen zu einer nach meiner Art ziemlich gesunden Stunde nieder , - sie sollen dem Geliebten , mit und für den ich so gern lebte , im bangen Augenblick - Dank - und Beruhigung bringen , sie sollen Dir gestehen , daß es für mein Herz nicht genug war , die treue Sorge für Dich und unsere Kinder im Leben selbst , als mein süßestes Geschäfte anzusehen , sondern auch noch im Tode dieselbe fortsetzen helfen , wenigstens so lange , bis Zeit und Notwendigkeit , bis selbst vielleicht das Schicksal den vorigen Frieden und Ruhe über Dich verbreitet haben möge . Daß ich über meine körperlichen , so wie geistigen Gebrechen , weder ruhig noch blind nachdachte , - wenn schon oft das Bestreben für ihre Beseitigung lau und fruchtlos blieb - weißt Du selbst , und ich kann es auch mir selbst eingestehen ; es ist daher nicht eingebildete Zuversicht auf meine bald schwachen bald besseren Eigenschaften , es ist das schöne Gefühl Deiner reinen Gegenliebe durch tausendfältige Beweise bekräftiget , welches mich befürchten lässt , daß mein Hintritt über Dein ganzes Wesen einen so innigen Schmerz verbreiten könnte , der Dein glücklicheres Sein sehr bald verzehren , und Dich für den vielseitigen Berufskreis , in welchem Dich die Vorsehung gestellt , untüchtig machen würde ! Dies darf , dies kann ich nicht zugeben - ! Die schöne Pflicht des Vaters darf nicht mit stumpfem Sinne gepflegt werden ; - sie spricht Dich doppelt an , wenn nun die Mutter , die sie so gerne mit Dir teilte , den Kindern fehlt ; sie ist die erste , die erhabenste , die wichtigste , ja selbst die belohnendste Pflicht für Dein edles trübes Herz ; - aber auch für Deine anderweitigen Berufsgeschäfte darfst Du nicht verloren gehen - Du bist ein edler Mensch , erhalte Dich Deinen Brüdern ! Du bist ein geübter lichter Kopf , entziehe Dich nicht ohne Not Deinem Amte ! Es ist so ehrwürdig auf vielerlei Wegen zu nützen und ich besinne mich , daß in meiner langen Krankheit nichts so sicher Deine trüben Besorgnisse für mich zerstreute , als jene rastlose Tätigkeit , in welcher Du damals lebtest : - auch als Gatte kannst Du noch beglücken und beglückt werden ; daher bitte und beschwöre ich Dich bei unserer gegenseitigen Liebe , suche nach den ersten finsteren Stunden , jede Zerstreuung auf , die dem edlen Manne ziemt - erschüttre Dich nicht ohne Not durch die öftere Besichtigung einer Hülle , die nun kalt und starr da liegt , und in der noch vor wenig Tagen ein treues Herz für Dich schlug - - Der Mensch entbehret ungern etwas , woran er sich so lange gewöhnt hatte - wenn schon das zu Entbehrende - wie alles Irdische - eine unvollkommene , und eine gute Seite hatte ; Daher erneuere Deine Traurigkeit nicht ohne Not - es ist genug , wenn Dein liebendes Herz dafür sorgt , daß der Körper nicht früher beigesetzt werde , als alle Zeichen des Todes da sind , daß er sobald als möglich in ein schlichtes Nachtgewand eingehüllt werde , damit durch ein verzögertes Ankleiden den Lebenden , die es übernehmen wollen , durch den Geruch kein Schade geschehe ; daß er dann neben die Schlafstelle unserer verklärten Kinder eingesenkt werde : ist dieses geschehen , so suche , wenn Du es irgend möglich machen kannst , eine Reise nach Berlin , oder einen anderen Ort zu bewerkstelligen , wo Schwesterliebe und Teilnahme Deiner wartet , oder durch die Ansicht schöner Landschaften - durch den Atem der großen Natur Dein Starkbleiben befördert werde . - Ehe Du Dich auf diese Reise begibst , soll , hoffe ich , entweder Schwester Antonie selbst , oder eine Antwort von ihr auf ein von mir an sie gerichtetes Schreiben eintreffen , welches bestimmen soll , ob sie die Pflege über unsere Kinder mit Dir teilen kann und will , oder nicht : im letzteren Falle habe ich das schöne Versprechen von unserer Freundin Salchli nicht eher unser Haus zu verlassen , als bis sie die geliebten Kinder in Antoniens Hände legen könne , oder in ihre Stelle zu treten , wenn sich die Schwester dazu nicht verstehen wollte ; und Du Teurer kannst diesen edlen gebildeten Seelen einer so gut wie der anderen , die Kinder überlassen ; Dich auf eine Reise begeben und bei Deiner Rückkehr mit der Freundin vereint für das Glück und die Bildung unserer Kinder wirken ; - ich glaube , daß Liebe , heiterer Ernst des Führers , für eine rege Tätigkeit bei den Pfleglingen und ihre eigenen Winke hierüber bei gutgebohrnen Kindern und unter der steten Aufsicht der Freundin oder des Vaters genug ist , sie gut und glücklich zu machen : Der gebildete Vater , die verständige Freundin wird ihren Verstand die nötige Unterhaltung verschaffen . Außerdem glaube ich , müssen die Söhne in gewissen Jahren das väterliche Haus verlassen , die Töchter aber neben Dir und der Freundin unter keiner Bedingung eher daraus gehen , als bis sie die Hand eines edlen Gatten herausführet . Schreite Geliebter ! wenn Du ein edles gutes weibliches Wesen findest , dem Du so ganz das sein kannst , was Du mir bist und warst - und sie auch Dir das sein kann , was ich Dir bin und war , besonders aber den hohen Grad von Zärtlichkeit und Liebe , von Hochachtung für Dich besitzen muß - schreite dann ohne Bedenken zu einer erneuerten Wahl . Du wirst dadurch glücklich machen und glücklich werden , und auch unsere Kinder werden freudig eine zweite Mutter aufnehmen und vielleicht bei mehreren Geistes- und Körper-Kräften , besser als bei der ersteren fahren ; - manch schöner Plan - manch liebenswürdiges weibliches Geschöpf stellt sich hierfür in diesem Augenblick meiner Einbildungskraft dar - aber ich legte nur ungern im Leben irgend einen Menschen Zwang an , im Tode kann ich dies noch weniger wollen , und da die Zurückgebliebenen so gern geneigt sind - selbst mit Opfern dem guten Willen der Verstorbenen in Erfüllung zu bringen , auch Zeit und Umstände , Menschen , Dinge und Lagen verändern können ; so enthalte ich mich jeder Äußerung hierüber ; - so viel nur , daß , wenn ich kann , mein Segen und mein Mitwirken , zu jedem Schritte für Dein Glück Dich umschweben soll - Dank , Glück und Segen komme dann auch über das Wesen , welchem es beschieden war , das schöne Werk an Dir und an den Kindern zu vollenden , von welchem mich das Geschick im Beginnen abruft ! - - - - Verändere , Geliebter , nach Gefallen Wohnung und alles , was Dir eine trübe Rückerinnerung an mich verursachen könnte . Ich möchte gern Dir immer wert bleiben , nie aber schmerzliche Erinnerungen in Dir erregen ; darum , wenn Bangigkeit Deine Stirn umwölkt , gehe bald ins Freie , oder zu den Kindern , oder zu der Freundin , und denke , daß Du für mich den herben Wermutskelch leerest , der hienieden einem Teil beschieden blieb , und zu dem ich gewiß weniger Kraft als Du , gehabt haben würde ; denke , daß Du mir das Leben und den Tod versüßt hast , und nun dadurch noch den letzten schwersten Liebesdienst erweisest ! - Nimm meinen letzten wärmsten Dank dafür , so wie für jeden anderen Beweis Deiner Liebe nochmals hin , auch für jede Schonung und Ertragung meiner Fehler und Schwächen danke ich Dir mit gerührtem Herzen ; mit Willen wollte ich Dich nie betrüben und auf Kränkungen kann ich mich bei dieser gegenseitigen Sinnes- und Herzensübereinstimmung gar nicht erinnern . Was meinen irdischen Nachlaß anbetrifft , so werden ungefähr 11000 . Rthlr . das Ganze sein , was ich an Gelde Dir und den Kindern hinterlasse . Du weißt , an wen sie ausgeliehen - und ich beziehe mich auf unsere Ehepakten in Rücksicht ihrer künftigen Bestimmung ; kann ich , so setze ich noch ein Verzeichnis über meine eingebrachte Wäsche und etwaiges Mobiliar , auch Kleidungsstücken auf , könnte ich es nicht mehr beenden , - so die Wäsche alle auf meinem Namen gezeichnet und zwar in rot , die Deine in blau und mit Deinem Namen , so auch mit den Betten . Willst Du unseren Leuten ein Andenken entweder aus meinen Kleidungsstücken oder auch an Gelde geben , so tue es und zeichne den Treuen gnädigst aus . Der Freundin stehe die Wahl für ein Andenken von meinen Effekten selbst frei - Den Karl lasse gütigst werden , was er will - nur bitte ich ihn zärtlichst , kein unnützer und ein edler Mensch zu werden . - - - - - Lebet glücklich , Geliebte ! Der anderen geliebten Kinder Schicksal lege ich ruhig an Dein Herz - nur des Karls erwähnte ich ganz besonders , weil er schon verständig genug ist , an seiner Veredlung selbst zu arbeiten und den treuen Wunsch seiner Mutter nicht unerhört zu lassen - selbst dann nicht , wenn Stürme seine Kräfte lähmen und die Prüfungsstunde , wo die Tugend mit dem Laster ringt , auch ihm schlagen sollte . Noch einmal lebet wohl ! - - - und schlägt auch Dir einst das letzte Stündchen , so sollen die sanften Engel Dir die Augen zudrücken und Dich der große gute Geist wieder vereinigen mit Deiner treuen Friedericke . Die Aufschrift dieses Briefs ist : Dem besten edelsten Gatten Maximilian von Fischer gleich nach meinem Tode einzuhändigen . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

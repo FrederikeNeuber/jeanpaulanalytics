@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0851">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 26. Februar 1805,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3½ S.</p>
+                        <accMat>Anweisung über 10 Reichstaler, nicht überlieferte Einladung
+                                    vonn Simon Uhlfelder an Caroline Goldschmidt, bei einer
+                                    Bayreuthreise, bei ihm Quartier zu nehmen. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1805-02-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0852">Von Caroline Goldschmidt an Emanuel.
+                        Berlin, nach dem 26. Februar 1805</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012048">Briefverkehr</term><term xml:id="JP-012633">Grüße</term><term xml:id="JP-012693">Personalien</term><term xml:id="JP-012349">Reflexionen über das Leben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>M. g. Caroline ! Heute ist schon der 26te . So lange musste ich dieses Blatt so vor mir liegen lassen . Wenn ich auch selbst schweigen kann : so kann ich mich doch noch nicht an das Ihrige gewöhnen u so machte ich mir Vorwürfe , eben über das ungewöhnliche Ihrige . Wohl mir u Ihnen , daß Sie Arbeit schweigend machte . Freilich ist die Anstrengung f. Ihre Augen zu stark ; aber ich ziehe diese , bei der Arbeit , doch der beim Lesen weit vor . Schonen S. nur dann Ihre Augen , wenn die Arbeit es zugibt , so viel es Ihnen möglich ist . Eben habe ich einen Brf. v. meinen lieben Hamburger gehabt , der gesund ist . Vor 8 Tagen klagte ich ihm , daß ich lange keinen Brief v. Ihnen gehabt hätte . An demselben Tag noch erhielt ich Ihren Brf. u auch einen v. ihm , in dem er mir den Empfang eines von Ihnen anzeigte . Schon vorher schrieb er mir die traurige Lage Ihres lieben Bruders . Er wünschte , daß S. sich nicht so sehr darüber kränken möchten u leidet mehr bei Ihren Mitleiden , als mit dem Leidenden selbst . In Hamburg , sagt er , wiße man es gar nicht anders , als daß wöchentlich 4-5 dergleichen Fälle vorkämen . Mich haben die Worte meines ehrliebenden Bruders auch für Sie getröstet . Hätte ich doch auch Trost f. die gute Car. R. Sie wissen es gewiß schon , daß die herrliche Mahlmann nicht mehr ist . Es würde mir weher tun , wenn ich Ihnen der Verkündiger dieser traurigen Nachricht sein müßte . Jets sehe ich mich oft neben ihr u Ihnen sitzen ; ihr habe ich Sie u alles was mir von Ihnen u durch Sie wurde zu verdanken . Wie gut ist die Vorsehung , daß sie_es nicht uns überläßt - welcher v. den Unsrigen uns vorerst vorangehen soll - da sie_es od. wir es doch müssen ! In 50 Jahren sind wir alle gewesen u 50 gewesene Jahre sind Nichts gewesen . Ich beneide keinen der da war , aber auch keinen , der da ist . Der arme Mahlmann ! Aber der Herr ist gerecht , allgütig und wir wollen uns nicht nur in seinen Willen ergeben müssen - sondern ergeben wollen . Wenn Sie Ihr Bekenntnis Pik , mit meiner Feder geschrieben hätten , hätte es wohl leicht nicht so gut , aber nicht richtiger sein können . Lesen Sie was ich Ihnen über ihn sagte , ehe er zu Ihnen kam : Sie werden finden , daß ich es längst wußte , wie wenig er die Sprache versteht , in der man ihm Eigenheiten nehmen will . Doch ist es ein guter und wird - wie Sagen - gewiß ein nützlicher Mensch . Für Ihren 2ten Pik lege ich Ihnen in meinem u meines Uhlfelders Namen eine kleine Anweisung bei . ( 10 Pr Thl ) . Mit meines Us Bewilligung schick ich Ihnen dessen Einladung im Original . Da Sie selbst dav. sprechen , hoffen wir viel . nicht vergebens Sie bald zu sehen . Will die Kalb - für deren Andenken ich herzlich danke u das ich mit Vergnügen erwidere - etwas vom Richter : so soll sie ihm schreiben . Ich habe weder Ihren noch ihren Gruß Richters ausgerichtet . Richters erwidern nie einen Gruß , besonders er . Ihnen Grüße abverlangen , das kann ich nicht ; da habe ich mich seit einiger Zeit entschlossen , sie auch nicht mehr zu grüßen , v. dem , den sie nicht grüßen . " Was Du willst , daß Dir Dein Nächster tun soll , das tue ihm auch . " Thieriot grüßt Sie , auch die Ella . Ein Gruß ist bei mir kein Kompliment , sondern ein heiliges Merkmal der Liebe und Freundschaft , es darf also nie mißbraucht werden . Der Himmel möge Ihnen schon Ruhe gegeben haben u mir geben Sie bald die Versicherung , daß dieser mein reiner Wunsch in Erfüllung gegangen sei ! E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

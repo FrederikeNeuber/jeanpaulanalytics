@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0433">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Siegfried August Mahlmann an Johannes Daniel Falk. Leipzig, 23. Januar
+                    1804, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">15/II,1C,4</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 ½ S. S. 4 um 90° gedreht vfrH: Mahlmann</p>
+                        <accMat>ein Exemplar des Magazins "Die Maske", enthaltend das
+                                    Lustspiel "Simon Lämmchen oder Hanswurts und seine Familie".
+                                </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002583">Siegfried August Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1804-01-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012547">Zeitschriften</term>
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich schicke Ihnen hier , mein werter Freund , ein kleines komisches Epos , dem ich Ihren Beifall wünsche , um die Sünde es in die Welt gesetzt zu haben , leichter tragen zu können . Sollten Sie vielleicht unwillig darüber werden , daß ich den halsbrechenden Versuch , das griechische Drama in antiker Form , mit überall durchschillernd Modernität , Araber einzuführen , lächerlich gemacht habe , so beschwöre ich Sie vergeben Sie mir um des alten heiligen Sophokles Willen , dessen Entweihung eine Züchtigung verdient ! Oder können Sie es gelassen ansehen , daß der alte Ödipus , der das Rätsel der Sphinx löste , und sich selbst ein unauflößliches Rätsel blieb , in eine Madam N. N. zu Meßina verwandelt wird , die Ihren Herrn Sohn nach Loretto schicken will , damit ihm seine Sünden auf Christ-katholischer Manier vergeben werden ? Doch genug . Sie würden mich erfreuen , wenn Sie mir Ihre aufrichtige Meinung darüber schreiben wollten . Für die herzliche und gütige Aufnahme , die ich bei Ihnen in Weimar fand , meinen innigsten Dank ! Daß die Notizen , die Sie mir über die Neue Lit . Zeit gaben nicht auf unfruchtbares Land gefallen sind , hat Ihnen mein Aufsatz in der Zeitung bewiesen . Meine Achtung für Goethe wächst in dem Maase meiner Erkenntnis , und schon der Gedanke unter seinen prüfenden Augen zu arbeiten , muß das , außerdem mühselige , Rezensieren zu einer ehrenvollen und belohnenden Arbeit machen . -- Welche seltene Erscheinung unter den Deutschen ist aber der Kotzebue ! So rastlos zu arbeiten , um den Kreis der Verachtung weiter und immer weiter auszudehnen ? - Leben Sie wohl mein liebster Freund , herzliche Grüße an Ihr liebes sanftes Weibchen von mir und meiner Frau . Johannes Müller besucht Sie ja in Weimar Er soll hier gewesen sein . Leider habe ich ihn nicht gesehen ! Ich grüße Sie nochmals und empfehle mich Ihrer Freundschaft A. Mahlmann </p>
+         </div>
+      </body>
+   </text>
+</TEI>

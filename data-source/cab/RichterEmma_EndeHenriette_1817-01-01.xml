@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0089">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Henriette von Ende (?). Bayreuth, nach dem 4. Juli
+                    1818</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 4°, 1 S. Über dem Brief vfrH: [An Frau v. Ende? 1817?].</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <date notBefore="1817-01-01" notAfter="1817-12-31" cert="low"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+            </correspAction>
+            <note>Zur Datierung: nach Jean Pauls Rückkehr von seinem zweiten Heidelberg-Besuch
+                    am 4. Juli 1818.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012194">Geschenke</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Innigsten Dank , verehrungswürdigste Frau für das schöne Geschenk und den herrlichen lieben Brief worin Sie mir einen Namen gaben den ich gewiß verdienen will durch meine Liebe gegen Sie . Meine Schwester dankt Ihnen auch recht sehr , sie hat das grüne Band bekommen . Aber auf einen Strohhut , zumal auf meinen ist das blaue Band zu schön . Die schöne uns gegebene Hoffnung Sie diesen Herbst hier zu sehen , verwandeln Sie doch in Gewißheit . Wir freuen uns schon so darauf . Die Freude über des Vaters Ankunft wurde durch Verfehlen ( da Odilie u ich ) ihm entgegen gegangen waren ) sehr gestört , aber jetzt ist Alles nachgeholt , und wir sind nur froher . Ich hoffe daß wir auch einmal in das Rheinparadies kommen , und dann des Vaters Freunde auch unsere werden . Jetzt muß ich leider schließen , aber ich bin ewig Ihre Sie dankbarliebende Tochter Emma . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

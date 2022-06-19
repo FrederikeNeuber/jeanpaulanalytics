@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0125">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 4. Februar
+                    1806, Dienstag </title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. (vormals Dbl.) 8°, 2 S. Schluss fehlt, ab S. 3 abgerissen.
+                                    Anstreichung vfrH.</p>
+                        <accMat>Nicht überlieferter Brief Henriette Mayers an Caroline
+                                    Richter. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1806-02-04" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012194">Geschenke</term>
+               <term corresp="#JP-011937">Kunst</term>
+               <term corresp="#JP-012021">Politik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! ich habe zwei Briefe von Dir , deren Empfang ich Dir noch nicht gemeldet habe . Der erste war mit Deinem mir sehr werten Geschenk für mich , u einem an meine Frau begleitet ; und die letzte dankt Dir dafür in der Anlage . Der zweite Brief ist vom 11. Januar und seit beinahe 14 Tagen in meinen Händen ; u betrifft den Empfang der Dir von mir übersandten Sachen . Du legst mehr Wert darauf , als dies alles verdient ; u ich hätte gern mehr getan . Allein es ist ein etwas kostbarer Zeit Punkt für mich , weil ich seit der Rücknahme von Sanne eine Menge geldfreßende Geschäfte zu besorgen habe , wozu ich den Vorschuß für meine Mit Erben tun muß ; die außer meinen Kindern , nun einmal weiter nichts als die Kinnlade zur Sache hergeben . Mit Hilfe des Himmels hoffe ich aber noch in diesem das Gut los , und so des drückendsten Teils meiner Sorgen entledigt zu sein . Wenn mich morgen früh kein Daemon übler Laune , durch unangenehme Vorfälle herbeigeführt , abhält , werde ich mich durch Herrn Ruprecht für Dich zeichnen lassen ; u Du sollst mein und meiner Frau Zeichnung erhalten . Mit Herrn Frisch sieht es noch weitläufig aus , weil die Kommunikation im Winter beschwerlich ist . Malen mag ich mich vom guten Ruprecht nicht lassen ; bitte aber dies für Dich zu behalten . Da wir jetzt Frieden haben , so wird der Grund wohl wegfallen ; Dich von den Berlinischen Preisen näher zu unterrichten . Doch würde sich mit 1500 rth hiesiges Geld wohl hier leben lassen . Den Brief an die Frau von Kalb habe ich besorgen lassen . Da ich kaum zu mir selbst komme zwei Abend Stunden abgerechnet , die ich der Muße </p>
+         </div>
+      </body>
+   </text>
+</TEI>

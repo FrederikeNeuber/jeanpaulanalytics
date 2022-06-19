@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0135">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Henriette Schwendler. Bayreuth, 27. Oktober 1809, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="concept" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>3 S.: S. 1 auf S. 4 des Briefes von Henriette Schwendler an
+                                    Emanuel vom 8. August 1809. 2 S. auf einem zusätzlichen Blatt
+                                    (?).</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1809-10-27" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-003749">Amanda Schlabrendorff</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0487">Von Henriette Schwendler an Emanuel.
+                        Meinigen, 2. November 1809</ref>
+            </correspContext>
+            <note>S. 1 des Briefkonzepts auf S. 4 des <ref type="letter" target="JP-UB0110">Briefes von Henriette Schwendler an Emanuel vom 8. August
+                    1809</ref>.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011811">Reisen</term>
+               <term corresp="#JP-012565">Erziehung, Pädagogik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine dritte Henriette ! Eben als ich zähle , diese Jetten , finde ich , daß ich deren viel mehr unter meinen Bekannten habe ; aber Gott erhalte mir sie alle und Sie meine Dritte . Alles Gute soll ja dreifach sein . Mir ist es als wäre ich in Ihre Fußstapfen getreten und Ihnen diese Worte so lange schuldig geblieben , als Sie mir die jüngsten Ihrigen . Was mag wohl die Ursache meines schriftlichen Nichtkommens gewesen sein ? " Ein Weib , mit der heiligen Schrift zu reden , hatte ich mir nicht genommen " und taufen ließ ich - wie Sie - auch noch nicht , , und doch gab es der Hindernisse viele , lange und angenehme . Wenn ich wohl aus Yverdon mit der Schwester an die Schwester geschrieben hätte , was würden Sie gesagt haben ? Nein , so weit war ich nicht gar gekommen ; aber bis an die Schweizergrenze , bis nach Freiburg in Breisgau , zur Jette Braun . Und hätte ich über 8 Tage noch zu disponieren gehabt so hätte ich Antoinette bei Pestalozzi , der mich selbst zu sich eingeladen , gesehen . Über Nürnberg , Ansbach , Stuttgart , Karlsruhe und Straßburg ging ich hin und über Ulm und Augsburg her . Überall empfing mich alte Liebe und überall machte ich und machte man mir Freude . Erzählen ließ sich vielleicht etwas von dieser schönen Reise ; schreiben nichts . Säße ich neben Ihnen und Sie hätten Ihren Reinhold an der Brust , damit der Holde auch schwieg . Sie sollten es schon ein Stündchen ruhig bei meiner Reiseerzählung aushalten . Und als ich glücklich nach Hause kam musste ich auf 14 Tage nach Döhlau . Da traf mich der Friede , Friede .Acht Tage bin ich nun wieder hier und jetzt , wie Sie sehen bei Ihnen . Aber ich bin es öfter , als Sie es sehen . Was hilft es denn , wenn ich auch frage , wie es Ihnen , Ihrem Manne , Ihrer Pauline ( meine alte in Eßlingen , sie Heißt Hartenberg , hat mich mit ihrer Umgebung sehr freundlich aufgenommen ) u Ihrem Reinhold geht , ich bekomme ja doch erst in Monaten - Kürzens - Antwort ? Nach Amanda will ich sie selber fragen . Das sage ich auch immer , daß es nichts schöneres geben kann , als das Zusehen einer Mutter , wie ihr Kind , so zu sagen , an Geist und Körper wächst .Warum aber dies Zusehen , selbst von den besten Müttern , nicht in der Erziehung so benützt wird , wie es - nicht sollte - nur wie es benützt werden könnte , das möchte ich von einer guten Mutter , z. B. von Ihnen , beantwortet wissen . Soll denn die zusehende Mutter durchaus nur kleine Vorzüge und Vorteile haben , vor der nichts sehenden ? Wenn doch ein Hagestolz - so sage ich oft mit den Eltern - nicht über Erziehung spräche , was versteht denn der davon ? Ja , liebe Eltern , ihr habet schon ganz Recht mit dem Hagestolzen ; aber nicht mit den Kindern und die Mütter haben oft noch weniger Recht als die Eltern . Wenn es dem armen Hagestolzen nicht an reiner Liebe zur Liebe , zum Kinde , zum Menschen , zum Reinen fehlt , dann mag er - muß er auch das Höchste mißen - ein Wort aus dem Herzen sprechen , wohin es gehört - zum Herzen . Könnte man einen Mittelweg finden zwischen der kräftigen Liebe des Kinderlosen und der weichen der Eltern und ihn betreten , es wäre schon : etwas getan , für die leidende Kindheit . Jene kräftige wird oft zur Härte und diese weiche oft zur Schwäche und beide schaden , obgleich noch nicht entschieden welche mehr ! Mann und Weib selber sollten diesen Mittelweg aufsuchen u gemeinschaftlich betreten . Aber was sollte nicht alles geschehen ! Ich sollte schweigen und will auch . Schenken Sie mir wieder einige Zeilen : so sagen Sie mir einige Worte vom Gehr . und Louise und Hofr. u Hofrätin Heim , auch von Panzerbieter , weil ich diese Menschen so lieb habe . Richters , Alt u Jung , sind Gottlob ! wohl . Ich bin es auch .Möchte der Friede wenigstens nur Hundert Jahre dauern und uns uns einmal wiedersehen lassen . Gott erhalte mir Sie mit Mann und Kinder stets gesund ! Em . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

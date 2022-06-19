@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0318">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 14. Dezember
+                    1811, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S.</p>
+                        <accMat> Nicht überlieferte Assignation über 10 Reichstalter für
+                                    Weihnachtsgeschenke. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Briefpapier mit Wasserzeichen.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1811-12-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012162">Postwege</term>
+               <term corresp="#JP-012350">Minna Spaziers Beruf</term>
+               <term corresp="#JP-012538">Minna Spaziers Familienangelegenheiten</term>
+               <term corresp="#JP-012194">Geschenke</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! ich habe Deinen letzten Brief vom 18. 9 .ber richtig erhalten , und es tut mir leid , daß ich Dir durch früheren Verzug Schmerz gemacht habe , leider des Herzens nämlich , deren Schrecklichkeit ich durch mein ganzes Leben kennen gelernt habe , u welche jetzt durch die beklemmende Lage , worin mich Minna u die ihrigen in meinem Alter sehen , so sehr in meinem Gemüt hervortritt . Laß uns also wechselseitig darauf bedacht sein , unserem Herzen durch wechselseitige Teilnahme Trost zu verschaffen , und unserem Brief Wechsel nie langen Anstand zu geben . Es versteht sich , daß Du Deine Briefe nicht zu franquiren brauchst . Minna es Plan , dessen Du erwähnst ist freilich gescheitert , aber die Sache liegt so daß was auch meine Überlegung für Trost in einem lebenslänglichen Etablissement fand , dennoch die Art u Weise von Minnas Existenz in den Umgebungen , die sie erwarteten , Schande über mich u die Meinigen gebracht haben würde , daher ich auch die Zerschlagung des Plans nicht bedauere . Jetzt ist von anderen Planen im Auslande die Rede ; u ich sehe ihnen zu , weil meine Lage mir nun einmal nicht erlaubt , der Minna , - der von allem eigenen Besitz ihrer sonstigen Habe entblößten Minna , ein für ihre Bedürfnisse hinreichendes Etablissement zu machen . So nackend wie Herr Br. sie hierher geschleudert hat , kann sie nicht bleiben , und doch kann ich sie nicht ausstatten . Sie muß also schon dem Schicksal folgen , welches sie sich selbst bereitet hat . Gott gebe nur , daß ich leben bleibe , um für die armen Kinder zu sorgen . Die frohen Genüsse , die Dir Deine Kinder gewähren , machen mir viel Freude . Gern schickte ich Dir Sachen für sie , aber die Erfahrung mit der Post schreckt mich ab . Doch tut es meinem Herzen wohl , Dir hierbei 10 rth zu schicken , um den Kindern , und vielleicht Dir selbst zum Weihnachten eine kleine Freude zu machen . Sie erfolgen wieder durch Assignation , u ich bitte Dich mir zu seiner Zeit den Empfang zu melden . Grüße Deinen Mann , u küße Deine Kinder . Die Mutter grüßt herzlich . Dein treuer Vater Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

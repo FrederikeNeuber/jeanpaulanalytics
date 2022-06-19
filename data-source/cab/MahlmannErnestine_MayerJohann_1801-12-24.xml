@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0783">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 24.
+                    Dezember 1801, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2½ S.</p>
+                        <accMat>Ein gestrickter Geldbeutel für Johann Siegfried Wilhelm
+                                    Mayer; Weihnachtsgeschenke für Auguste Mayer. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1801-12-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012194">Geschenke</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012144">Leipziger Gesellschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein geliebter Vater , es ist jetzt wieder die Zeit der allgemeinen Freude ! - Wie gern möchte ich auch zu der Ihrigen recht viel beitragen können ! Doch auch eine Kleinigkeit ist Ihnen als ein Zeichen meines kündigen Andenkens wert , und darum lege ich Ihnen an der Stelle jenes verlorenen Geldbeutels einen bei den ich für Sie gestrickt habe ! - Sie hätten ihn schon früher erhalten wenn nicht die Krankheit meines Mannes mich abgehalten hätte . Dem Himmel sei Dank daß es mit dieser nun ganz vorbei ist . Jetzt bin ich so ruhig , als ich vorher in Sorge war . Es war in der Tat gar Spaß - und mir stand das Bild des jungen Gilly immer vor Augen . - Mir liegt jetzt nichts mehr am Herzen als von Gustchens Zustand bald wieder etwas zu hören . Diese Sorge schmälert mir den Genuß dieser schönen Zeit in der man so gern wieder zum Kinde wird . In unserer Familie ist es ja so immer eine bange Zeit - und ich wünsche nur daß der Neujahrs-Tag nur wieder glücklich vorbei wäre - der war ja immer ein Unglückstag ! - Nehmen Sie sich doch ja in Acht liebster Vater ! - Wie gern wäre ich jetzt wieder in meinem väterlichen Hause ! So ist es doch gar nicht mehr , als wenn man im Kreise seiner Familie lebt ! Ich habe ja doch keine Kinder denen ich bescheren kann ! Und worüber ich mich auch freuen kann - es ist mir doch alles so fremd ! - Mit Minna ist es recht gut gegangen ! Doch muß sie das Haus noch hüten und entbehrt daher das Vergnügen den Jubel in der Stadt zu sehen . Doch mich dünkt die Menschen freuen sich hier doch eigentlich gar nicht so wie in Berlin . Alles ist stiller , feierlicher ! - Ich sehne mich ordentlich danach , die Knaben die mit ihren Knarren auf den Straßen umherlaufen , und sich vor jubelnder Freude nicht zu lassen wissen , einmal zu hören ! Ich bitte Gustchen mir doch ja zu schreiben , was sie alles geschenkt bekommen hat . - Ich lege diese Kleinigkeiten für sie bei und grüße sie recht herzlich . Die Zeit ist zu kurz nun auch ihr noch zu schreiben . Ich küße in Gedanken Ihre liebe Hand , mein bester Vater , und bin ewig Ehretreue Tochter E. M : Mein Mann empfiehlt sich Ihnen und Gustchen und allen , die sich seiner erinnern . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0222">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Emanuel. Meiningen, 26. August 1811, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 4 S. Brief- bzw. Blattnummerierung vfrH.</p>
+                        <accMat>Der als "Tagenbuch meiner vorjährigen Reise" zu ihrem ersten
+                                    Ehemann Heinrich Graf von Schlabrendorff titulierte <ref type="letter" target="JP-UB0435">Brief vom 16. Oktober
+                                        1810</ref>. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1811-08-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0818">Von Emanuel an Henriette Schwendler.
+                        Bayreuth, 4. September 1811</ref>
+               <ref type="next" target="JP-UB0539">Von Emanuel an Henriette Schwendler.
+                        Bayreuth, 10. Oktober 1811</ref>
+            </correspContext>
+            <note>Präsentat aolR: 4 <hi rendition="#aq">Sept.</hi> beantw.; unter dem Datum:
+                    Auch 10 <hi rendition="#aq">Oct</hi>. beantw. </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012761">Tod und Sterben</term>
+               <term corresp="#JP-012810">Trauer</term>
+               <term corresp="#JP-012449">Kinder</term>
+               <term corresp="#JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Was werden Sie wohl , mein teurer Freund ! von Ihrer stummen aber ewigen Freundin Henriette gedacht haben und noch denken ! -- Zu meiner Entschuldigung über mein verstocktes Schweigen - so sieht es aus - kann ich wenig anführen . Brief Schulden sind eigentlich die ärgsten andere habe ich nie gehabt , aber jene haben mich seit einiger Zeit so gezüchtigt , daß ich als reuige Sünderin hoffentlich nie wieder in dieses Unwesen geraten werde . Und bei meiner Sehnsucht nach meinen Bayreuther Freunden , bei meiner Liebe für Sie , Emanuel , bei dem Wünsche Nachricht von Ihrem Ergehen zu haben , ja sogar bei einem langen fertig geschriebenen Brief - das Tagebuch meiner vorjährigen Reise enthaltend - , warum ich endlich letzteren nicht abgehen ließ , mit einem Worte , ich kann mir meine Nachlässigkeit nicht erklären . Ich glaube daß Sie weit eher für mich eine Entschuldigung haben werden , als ich selbst . In meinem Tagebuch werden Sie manches finden was mich entschuldigen könnte , ich bin seit meiner Reise sehr still und verschloßen , der unendliche Verlust von meiner Schwester Friederike , die Trennung von Antonie alles dieses macht mich immer stiller . Im Frühjahr dämmerte mir die Hoffnung Euch zu sehen , vor wenig Tagen glaubte ich gar mit Demoiselle Romberg nach Bayreuth reisen zu können , es kann aber jetzt nicht sein , kurz manche Hindernisse könnte ich herrechnen , die mir Zeit kosteten mein Kinder Völkchen nicht zu vergeßen , Nichts kann mich jedoch genügend entschuldigen und darum Verzeihung ! und daß ich sie habe , bitte ich Sie , mir recht bald zu sagen . Auch daß Sie mich noch lieb haben und mein warmer Freund sind , Beides bin ich wert und Schwendler sagt , ich dürfte hinzusetzen seit meiner Prüfung Reise noch werter - - - - - Caroline wird Ihnen von meiner verklärten Schwester die schriftlichen Vermächtnisse mitteilen , welches sie ihrem Gatten und Antonie hinter ließ . Beide sind ein Heiligtum unserer Familie , sie jedoch an solche bewährte Freunde mitzuteilen wie Sie und Richters uns sind , hat mir Antonie und mein Schwager erlaubt . O Gott Emanuel , welch ein Weib war meine Schwester , wie hoch und dem Himmel nah verwandt , stand sie über der Erde , einer weiblichen Feder ist wohl nie etwas hehreres entfloßen als der Inhalt dieser Vermächtnisse . Schöner hat sich ein weiblichen Charakter nie beurkundet und ein stilles Abkommen haben wir Geschwister alle getroffen , jeder unserer Töchter eine Abschrift davon als Aussteuer einst mitzugeben , daß sie auch nach solcher Tugend streben , und sie im Herzen heilig halten . Antonie ist in ihrem Verhältnisse als Pflege Mutter der Mutterlosen Weisen vollkommen an ihrer Stelle . Nur sonderbar ist es daß ich , die Lebhaftere , meine A. zur Ruhe dabei anmahnen muß . Wir beide machen in Hausmütterlichen Angelegenheiten eine ganz eigene Erscheinung , ich bin bei allen dahinein greifenden Vorfällen fortgesetzt ruhig und gleichmütig , Antonie hingegen so rastlos so ergreifend tätig , daß ihre Gesundheit häufig leidet . Bei jeder Gemüts Angelegenheit die mich hingegen zermalmet , bis im Inneren erschüttert , bleibt A. gelassen und heiter . Gewiß gehört zu letzteren mehr Seelen Stärke , ich bemühe mich - zwar häufig fruchtlos aber doch ernstlich , auch diese mir anzueignen . Antonie hat mir Hoffnung gemacht im Spätherbst uns mit dem Schwager und den Kindern zu besuchen . Ich würde mich besonders freuen meinen Schwager wiederzusehen , diesen seltenen herrlichen Menschen , den das Schicksal so hart oftmals beugte und der mit dem tiefsten Gefühl , so edel duldet . Übrigens meine A. in ihrem rechten Geschäfts und Pflicht Kreis zu sehen , wobei ich mir zugestehen darf , wenn nicht mittelbar doch unmittelbar mitgewirkt zu haben , unbeschreiblich würde meine Freude sein , nur mag ich mich ihr noch nicht unbedingt hingeben . Meine Kinder die Sie , guter Emanuel , lieb haben , gedeihen fröhlich und zu meiner Zufriedenheit . Amanda , an deren Charakter - bei viel Wahrheit und Herzens Güte - vielerlei Ecken waren , diese schleifen sich allmählich ab , sie wird weiblicher , ihre Lebhaftigkeit wird besonnener und ich kann in der Tat von ihr jetzt sagen , sie ist eine brave Tochter . Die Erfahrungen der vorjährigen Reise , so teuer ich sie erkaufte , waren für A. ein wirklicher Läuterung Prozeß , ich würde diese fatale Reise fast segnen , aber den Sohn habe ich doch verloren , o Gott , er läßt nichts von sich hören , er schreibt weder an mich , noch seiner Schwester . Pauline ist und bleibt ein vorzügliches Kind , ihr tiefes Gemüt , ihr stiller weiblicher Sinn , macht sie mir schon jetzt zu einer sinnigen Gesellschafterin , sie pflegt ihre kleinen Geschwister so gut , sie ist so besonnen , nur zu gleichgültig für das Äußere welches sie an sich selbst sehr vernachlässigt . Fast möchte ich ihr ein wenig Eitelkeit anwünschen . Reinhold der liebliche Knabe , des Vaters reinste Freude und sein treues Ebenbild , ist ein gar wunderbares Kind . Oft traue ich mir bei meinen vielen Erfahrungen nicht zu , ihn so zu behandeln als es seine Vielseitigkeit fordert . Eine hohe Aufgabe ist es besonders , seine unendliche Empfänglichkeit zu milderen , seiner Lebhaftigkeit Einhalt zu tun damit sie seinen zarten Körper nicht aufreibt , und endlich seine schnelle geistige Entwicklung zu mäßigen . Ein Himmlischer Knabe ist er ! oft ist mein Auge eben so sehr mit Freudentränen erfüllt als auch mit Schmerzenstränen wenn ich ihn opfern müßte den Liebling meines Herzens . Antonie mein jüngstes Kind , 13 monat alt , ist fromm und gesund , weiter kann ich von ihr nichts sagen . Und so wüßten Sie denn alles , Freund meiner Seele , was mich freuet , was mich kümmert . Von mir selbst muß ich noch hinzufügen , daß mich der heiße Sommer sehr angegriffen hat , und daß meine Gesundheit jetzt nicht fest ist . Um mein selbst und um meines trefflichen Schwendlers Willen muß ich wünschen , daß meine vorige Gesundheit wieder kehrt , weil der Hausfrau und Gattin Kräfte zu Gebot stehen müssen um ihre Pflichten erfüllen zu können . Wann Emanuel , werden wir uns einmal wiedersehen ? Läge es doch in ihrem Willen und einigten sich die Umstände dazu , daß Sie uns besuchten ! Schwendler grüßt mit alter Liebe und Treue , die Kinder grüßen und die Freundin drückt Sie ans warme Herz . Henriette . Mein Tagebuch bitte ich Sie an Richters und an Henriette Schukmann mitzuteilen </p>
+         </div>
+      </body>
+   </text>
+</TEI>

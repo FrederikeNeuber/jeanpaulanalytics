@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0735">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johanna Heim an Caroline Richter. Welkershausen, 12. Januar 1820,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001604">Johanna Heim</persName>
+               <placeName key="JP-006399"/>
+               <date when="1820-01-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011840">Meininger Freundeskreis</term>
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012278">Freundschaften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Zu den schönen Rückerinnerungen die im Alter uns die schönsten Stunden geben , gehört doch vorzüglich die Bekanntschaften mit Edlen die uns im Leben begegneten , mit denen Mann einen seligen Umgang genossen . So denke ich mir der Vergangenheit , wo ich Sie Geliebte Freundin , Ihren verehrten Mann kennen lernte und mich Ihres Umgangs erfreute . Ein großer Zeitraum für einen Sterblichen liegt dazwischen ! bei mir sind große u. wesentliche Veränderungen vorgefallen - doch bin ich an alles gewohnt , bin zufrieden freue mich des Lebens , danke Gott für die Tage die er mich froh erleben läßt . Nichts wünsche ich zurück ; wie ein Wanderer , der nahe am Ziel seiner Reise ist , seinen geliebten Freund wieder zu sehen , ist mir es , in heiteren Stunden , wenn ich meine 63 verlebte Jahre überblicke , sehne ich mich nach den hier verlorenen - nach einen Stern der mir mehr Aufschlüsse geben wird . bis dahin tue u. wirke ich noch so viel ich kann . Ich wünschte Euch 3 gute Freunde noch einmal hier zu sehen , Sie , der herrliche Richter , Emanuel ! ist letzterer noch so gut wie sonst , nachdem er Vornehmer , wohl auch reicher geworden ? Ja er ist geblieben gewiß , grüßen Sie Ihren Mann , unbekannt Ihre Kinder Emanuel . Ich fragte letzthin die Schwendlern : ob sie mir was von Ihnen sagen könnte , sie wollte viel v . Ihnen wissen u. war gar nichts zu hören . Seit dem Tote meines Schwagers Ludwig komme ich nicht mehr so viel nach Meiningen , Louise ist wohl , lebt ihr eigenes Leben u. zeichnet in der Natur viel , reißt auch oft in der Absicht , sie will nicht heiraten , dazu hatte sie der Vater schon gestimmt was ich an meinem alten Ludwig sehr tadelte , sie hat sich den Wasunger Stiftsorden geben lassen um auf Reisen als lediges Frauenzimmer eine Firma zu haben , sie sollte einmal zu Ihnen reisen . In Coburg bin ich nach dem Tod meines Mannes fast alle Jahre gewesen , wie sehr wünschte ich , ich hätte Weider zu Ihnen reisen mögen , so denke ich Ihrer oft u. viel . Meine Gesellschaft ist eine Vater u. Mutterlose Weise , die Tochter von Antonnette Wagner , die einst auch bei mir erzogen wurde , wo ihr schönes Bild bei mir hing wenn Sie Sich noch erinnern , sie ist 20 Jahr ein geistreiches Mädchen von vieler Bildung , die überaus glücklich bei mir sich fühlt . Wir leben einsam , doch oft mehr Besuch aus der Stadt als wir wünschen , gehen spazieren lesen u. arbeiten , ich bin doch meisten wohl , gehen nach Coburg Esselten pp so lange mir das Reisen so wohl behagt wie jetzt noch , so fliehen die Tage dahin in Zufriedenheit . Ihre immer treue Heim </p>
+         </div>
+      </body>
+   </text>
+</TEI>

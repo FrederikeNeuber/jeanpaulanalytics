@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0169">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Emanuel. Meiningen, 18. Oktober
+                    1802, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBa</institution>
+                        <collection/>
+                        <idno type="shelfmark">
+                             OFS.Autogr. R
+                                        1(1802.10.18
+                           </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. S. 4 Adr.: H. . Poststempel: R 3 MEININGEN.
+                                    Siegelreste</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                     <ref type="letter" subtype="document" target="3-IV_326">3. Abt., Bd. IV, Nr. 326</ref>. </bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Denkwürdigkeiten 1, S. 114-115.
+                        </bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1802-10-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <note>Präsentat: 28<hi rendition="#sup">
+                  <hi rendition="#u">t</hi>
+               </hi>
+               <hi rendition="#aq">Oct</hi>. beantw.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+               <term corresp="#JP-011789">Otto-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012183">Festlichkeiten</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012520">Stimulantien</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Anlangend das Bier : ist_es freilich betrübt , daß ich , seit ich Ihren Brief habe , mich jeden Tag auf Eine Bout . heruntergesetzt , um etwan zu langen bis zum 12ten od. 13ten Nov. , wo hoffentlich mein kraushaariger spaßhafter oft in Bayreuth gewesener und wohlfeilerFür den Eimer von Coburg 1 Laubtaler . Einspänner wieder retour sein kann . Ich bitte Sie um scharfe Bestimmungen in dieser bedeutenden Sache . Damit Sie an Emma's Tauftag einen Tropfen trinken und keinen übrig lassen können , so zeige ich Ihnen hiermit an , daß g. G. - s. v. ( f ) - den 2424 dies die innere u. äußere Kopf-Taufe zusammenfallen sollen . Der Himmel und die Post machen nur , daß meine Nachricht nicht , solcher hinter dem Aktus anlange ! Der Name ist : Emm. , Emanuele , Georgine , Amalie , Idoine . Letzteren Titans Namen gebe ich aus pädagogisch . Klugheit . Meine C. mag die Paten vorsummieren . Otto ist mir ellenlange Briefe schuldig ; Sie schuhlange . - C u. E. ( künftig bedeutet E. allemal meine Emma ) , ( dies mein ec. et caetera nach den Tod , ) sind gesund ; nur ist noch viel verdammtes Weiberwesen um mich herum . - Gehen Sie nach Berlin ? Ich möchte Ihnen vorher Instruktionen u Karten geben ; Sie landen in einer neuen Weltpartie an . - Der Herzog ist in Wien u. München . - Mit diesem Jahre , ( sagen Sie sich u Otto , ) wird der Titan ( 40 p Bogen etwan ) beschlossen u zugesperrt . Ich bat Gott Stil immer , nur nicht mich vor diesem Ende in meines zu rufen . - Freilich passet diese Bitte auch für die 2 nächsten Werke . Auch d. op. omnia möchte ich vorher geben ehe droben meine op. minusc . et majuscula gerichtet würden ; denn so ist d Mensch . Ich weiß nicht ; seit der E sehen ich mich sehr nach meinem alten O E oder ö x ) x ) Otto , Eman . ( Nennt Euch das ö ) , der Diphthong sollte sie sehen . - Lebt wohl ! Von möchte ich etwas wissen . Sie steckt nun einmal als ein Stiften fest in meiner Vergangenheits-Musaik . - Sonderbar-gesund bin ich ( indes oder weil ich wenig zu Leuten komme ) , Dank dem b. B. iere und dessen Geber ! - Die Paten sind : Herzogin v Weimar Herzog v Meiningen . Fräulein v Hendrik . Hofrätin Heim . Präsident Heim . Sekretäir Schwendler . mein Vater . ( und xx xx ) Nur zum Spasse , denn ich lies das Trio gar nicht ins Kirchenbuch bringen . 3 Tanten aus Berlin ) . und der Besitzer dieses Verzeichnisses . Guten Morgen , bester Emanuel - mein Kind schreit , daher nichts weiter . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

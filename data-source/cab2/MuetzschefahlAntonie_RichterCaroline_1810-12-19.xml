@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0078">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Antonie von Mützschefahl an Caroline Richter. Meiningen, 19. Dezember 1810, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1½ S.</p>
+                        <p> Unter der Unterschrift vfrH: v. Mützefahl</p>
+                        <p>. Geringer Textverlust durch Ausriss der oberen Ecke.</p>
+                        <accMat>Eine "beykommende Geringfügigkeit", wohl eine Handarbeit.
+                                </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-12-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-012633">Grüße</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teure Caroline ! In wenig Tagen schließt sich dieses Jahr an die Reihe seiner vorangegangenen Brüder , und wenn schon es mir nicht die Freude gewähren konnte , Dich , in dem Kreise Deiner Lieben zu sehen ; so versüßte es doch sein Dasein , so gar lieblich durch das Andenken an Dich , an Deine erwidernde Liebe , an den freundlichen Blick Deines Richters , an die Engelerscheinung der drei geliebten Kinder ; daß ich mich gedrungen fühle Dir , teuren Freundin , dankend zu sagen wie wohl mir diese Erinnerung tut . Zürne nicht , wenn ich Dich Künstlerin in weiblichen Arbeiten um die Erlaubnis bitte beikommende Geringfügigkeit in mein Andenken verwebt zu haben . Ich fühle wohl wie sehr ich Dir , der Hausfrau und Mutter in allen nachstehe , doch war es mir so süß , für Dich beschäftiget zu sein , daß ich , Deiner schonenden Nachsicht bewußt , es freudig wagte . Mein Wunsch ist , daß diese Zeilen den heiligen Christabend bei Dir eintreffen und Dir sagen mögen wie viele tausend gute Wünsche von Schwendlers und mir , an diesem , dem h. Neujahrsabend und in jedem frohen Moment für unsere teure Richters getan werden , wie herzlich wir , die wir jetzt alle recht gesund sind , für unsere Lieben | in Bayreuth ähnliches Wohlsein vom Herrn erbitten und uns ihrem Andenken aufs innigste empfohlen mochten . Mit treuer Liebe ewig Deine Antonie. N. S. Darf ich wohl Deine freundliche Verwendung bitten unseren guten Emanuel und Dovenecks unseren achtungsvollsten Gruß zu sagen ? Auch trägt mir die Familie Mihes aus Schlesien die ehrerbietigste Erwiderung einer durch den R. Rat Clausen erhaltenen Begrüßung für Deinen vielgeliebten Richter auf . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

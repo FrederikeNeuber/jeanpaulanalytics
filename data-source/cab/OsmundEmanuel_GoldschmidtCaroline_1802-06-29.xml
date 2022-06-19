@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0398">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 29. Juni 1802, Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl., 2 S. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1802-06-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012583">Briefabfassung</term>
+               <term corresp="#JP-011934">Familie Mayer</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Durchaus nicht böse Caroline ! So gerne es die Mädchen sehen , wenn man ihnen nicht widerspricht : so hoffe ich mit meinem Widerspruch b. Ihnen doch nicht an unrechten Mann gekommen zu sein . Da müßte es mit dem T. - der liebe Gott sei b. uns - zugehen , wenn ein Mädchen , das v. einem Manne schon 2 Antw. zu fordern hat u ihm noch einmal borgte , wenn das Mädchen böse wäre . Kurz u gut , der Umstand freut mich dies Mal , denn nichts anders ist Schuld als - ich . Doch ich muß mich , glaube ich , etwas deutlicher erklären . Zwischen zwei Korrespondierenden , die noch etwas daneben sind , oder zu tun haben , muß immer einer sein , der gerne Schulden macht u einer der sie gerne bezahlt ; ich denke diese Deutlichkeit erträgt eine Erklärung . Ich meine so : die Hälfte der Korrespondierenden muß , wie ich_es leider ! auf meine eigenen Kosten oft erfahren , bisweilen etwas lässig sein müssen u anstatt zu schreiben , sich , v. der anderen Hälfte zuschreiben lassen . Nun - ich will offenherzig sein - wollte ich - oder ich machte aus dem Muß ein Wollen - so recht philosophisch - auch einmal sehen wie es tut , wenn man die leidende Hälfte vorstellet - die gewöhnlich u oft nur vor mir oder mir gegenüber stand - u so musste ich b. Ihnen schweigen - wenn , wie es ist - es Einer tun muß , mir es lieber war , als wenn Sie_es getan hätten . Nimmt man noch an , daß ich , da ich jetzt noch 3 Carolines - die vierte hätte Gott längst naher zu sich genommen , wenn er nicht auch uns so nahe wäre , als sie es war - habe , u doch die Feder , wenn ich 2 Mal b. Ihnen schweige , so oft eintunken muß , nur für eine Caroline - v. den anderen Goldstücken u Goldkindern will ich nicht ein Mal heute etwas sagen , die auch Schwarz auf weiß haben wollen u die auch nicht v. der Luft oder v. Brote allein leben können wollen - wie z. B. eine Louise d'or u. s. w. - so - nämlich wenn man diese lange Periode gelesen hat : so muß er meine schweigende oder nur stille Unschuld - u hätte er ein steinenes Herz - laut für ganz unschuldig erklären , so gut wie S. ! Aber im Ernst was tun S. denn in Dresden ? Ich nehme in dies . Sommer , nicht nur schriftliche , auch mündliche Visiten lieber an , als ich sie erwidern kann . Mein prächtiger Thieriot war b. mir . Das war prächtig ! Am 18t Juni , wo S. mir aus Lpzg schrieben , schrieb er mir auch aus Leipzig , daß er am 19ten des frühesten Morgens nach Paris abreise u heute habe ich schon einen Brief aus Ffta / M v. ihm erhalten . War . hat denn der Goter . Maier nur seine Tine in Dresden u nicht seine beiden anderen Töchter auch , in Leipzig gesprochen ? Aus welchem Grunde haben S. denn Ihren letzten eiligen Brief in Leipzig abladet : wer ihn vor mir hätte lesen wollen , der hätte ihn ja auch ohne dies lesen können ? Ihr braver Bruder dauert mich , der redliche Eichel - können S. ihn lieb haben , ich meine lieben S. ihn ? - freut mich u die Täuschung der Braut Ihres Bruders ärgert mich . Wenn S. - nicht wie ich - an Ihre alten Briefe nicht denken : so werden S. sich über meine geschwinde Antw. u , wie ich_es aus ganzer Seele wünsche überhaupt stets , viel freuen ! E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

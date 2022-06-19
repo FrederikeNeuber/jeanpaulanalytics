@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1045">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Georg Wilhelm Keßler an Johann Ernst Wagner. Berlin, 3. Dezember 1805,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 3 S. S. 3 Adr.: Des | Herrn Kabinetssecretär | Wagner |
+                                        Wohlge<ex>boren</ex> | in | <hi rendition="#u">Meiningen</hi> | d. E.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002088">Georg Wilhelm Keßler</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1805-12-03" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+               <term corresp="#JP-013232">Geographisches, Landschaftsbeschreibungen</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Sie köstlicher Mann ! Schöne Frauen sind die einzigen Machthaberinnen des Dankes , der Ihnen gebührt für Ihre liebliche Dichtung . Könnte ich Ihnen alle die Küsse übersenden , die mancher schöne Mund so gerne dankbar über sie ausgösse , wenn ihm die Möglichkeit vergönnt wäre . Aber auf Wagen sind sie der Überschwänglichkeit wegen nicht zu fahren , und die Schiffahrt ist neben ihrer Unmöglichkeit ein zu kalter Transport . Ungebunden hat man mir das Buch aus den Händen gerissen . Kaum habe ich es darauf in eine leidliche Hülle bringen lassen , so ist es schon wieder in einen vehementen und weit hinaus pränumerierten Kurs geraten . Wohl haben Sie Recht , wenn Sie vermuten , daß unter den reichen üppigen Blüten Ihrer Dichtung mich die besonders ansprechen müssen , welche dem geliebten vaterländischen Boden ausschließlich angehören . Ich bedaure die entzückten Menschen der hiesigen Erde von Grund der Seele , daß ihnen das Organ für die vollendetste Plastik Ihrer Vorstellung abgeht . Die Märkische Natur ist rein unpoetisch , weshalb sie nur negativ Objekt der Poesie werden kann , wie Göthe's Xenie zur Genüge dartut . Der Mensch entspricht den platten , endlosen Sandflächen . Die Roheit und gänzliche Formlosigkeit der Landleute schreckt zurück u. erregt Ekel , welcher noch durch die Scheidung in feiste Pächter und hungrige Sklaven erhöht wird . Ihre Jahreszeiten in ihrem hüpfenden Leben haben mich gleichsam in der Ferne in den Besitz unseres edleren Vaterlandes gesetzt . Dieser Besitz , als ein idealer , hat überdem das Gute , daß er mir den Genuß an dem künstlicheren Leben , welches gedrängte Menschenmassen gebären , weniger verleidet , und meine Empfänglichkeit vielmehr schärft . - Sie können denken , daß ich mit heiser Begierde Ihren ferneren Werken entgegensehe . Ich freue mich , daß Sie zu Göschen gegangen sind , da dieser besser für Zirkulation sorgen wird , als Hanisch Witwe und Ihre Werke in einem zierlicheren Gewande wird auftreten lassen . Ich spare jetzt mit vielem Ernste für Reisegeld nach Meiningen . Bisher war Mangel an Geld das wesentliche Band , welches mich hier festhielt . Der Himmel gebe , daß nach Hebung dieses Hindernisses kein anderes mir in den Weg tritt ! Möge die blühende Hygieia schon den kleinen Telesphorus in Ihrem Hause abgelöst haben ! Ich will hoffen , daß Sie mit dem roten Hunde ( febris scarlatina ) so gut fertig geworden sind als ich , der ich vorigen Frühling mit ihm kämpfte . Einige Tage abgerechnet konnte ich das Übel nur als einen 6 wöchentlichen Stubenarrest betrachten , der aller Welt den Zugang zu mir versperrte . Diese Tage der vollständigsten Muße hatten deshalb für ein Lasttier meiner Art fast mehr Süßes als Bitteres . Ihr ewig ergebenster Georg Keßler </p>
+         </div>
+      </body>
+   </text>
+</TEI>

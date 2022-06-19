@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0195">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, zwischen
+                    Januar und März 1811 </title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 3 S.</p>
+                        <accMat> Nicht überlieferter Brief unbekannten Verfassers und
+                                    Adressatens. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1811-01-19" notAfter="1811-03-08" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Minna Spazier, die in Altenburg schwer erkrankt war, wurde
+                    Anfang des Jahres 1811 nach Berlin zu ihrem Vater Johann Siegfried Mayer
+                    gebracht, in dessen Haushalt sie bis Ostern 1811 lebte. Aus dieser Zeit stammen
+                    zwei undatierte Briefe Mayers an Caroline Richter. Der vorliegende, in dem die
+                    Lösung der Verlobung Minna Spaziers mit Friedrich Arnold Brockhaus erstmals
+                    expliziert benannt wird, ist der zweite in der Abfolge.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011893">Berufliches</term><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-012265">Geschlechterrollen</term><term xml:id="JP-012274">Hauswesen</term><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! ich eile den Haupt Gegenstand Deines Briefes zu beantworten . Es ist allerdings mein Wille , daß Minna in Berlin bleiben soll , um mir teils die Last der Erziehung ihrer Kinder zu erleichtern , teils mir in meinem Alter Freundin zu sein . Die idee einer Heirat mit Herrn Br. ist nämlich ganz aufzugeben , selbst wenn er sich in die Schuldenfreie Lage und in den Wohlstand versetzt , den ich bei meiner früher erteilten Einwilligung voraussetzte , u wovon das Gegenteil schon damals existiert hat , mir aber unbekannt geblieben ist . Denn ehrlicher Weise kann Minna selbst sich nie zu Erfüllung derjenigen Bedingungen fähig erklären , die er bei ihrer Wahl voraussetzt , und uns deutlich ankündigt ; auch sieht sie dies ein , hat auch Herrn Brokh . von meiner zurückgenommenen Einwilligung zu unterrichten übernommen ; u ich habe nun Dich zu bitten , daß Du keine auf Ehe Vollziehung leitende Ideen weiter unterhältst , sondern beiden Teilen sagst , was Dir die Pflicht in Beziehung auf beide gebietet , und dahin geht , Minna für die Folge ruhig sich selbst leben zu lassen , nachdem sie den Kelch der Weiblichkeit bis auf die Hefen ausgeleert habe . In Gefolge meines Entschlusses habe ich denn nun gegen mir über ein Quartier für Minna gemietet , welches ich jährlich mit 50 rth bedungen habe . In dieser Nachbarschaft kann sie aus dem väterlichen Hause unterstützt werden , und den Tisch soll sie mit ihrem Kinde bei uns genießen , damit sie , so lange Sie Sich selbst durch Schrift Stellerei nicht eine bequemere Lage verschaffen kann , keiner eigenen Ökonomie , sondern bloß einer Aufwärterin bedürfe . Nun , meine liebe Caroline , tritt also der Fall ein , wo Minna , wenn sie nicht zwischen leeren Wänden wohnen soll , auf Ostern ihre sämtliche Sachen hierher haben muß , und ich bitte Dich dies sowohl in Absicht der Altenburger als Leipziger Sachen zu besorgen , so daß alles wo möglich auf einem Transport , und noch in den ersten Tagen des April eintrifft . Gern schriebe ich mehr . Allein die Zeit drängt mich . Nur über Minnas Befinden u Herstellung kannst Du ganz ruhig sein . Sie ist sich nicht mehr gleich , beschäftigt sich auch geistig , wenn gleich nicht mit eigener Komposition , sondern mit Übersetzen , und gibt sich auch mit dem Unterricht ihrer Kinder in der Musik ab ; Es fehlt also nur noch am leichten gesellschaftlichen Mitteilen ; wovor aber wohl der Grund in ihrer Abgerißenheit liegt . ich werde tun was ich kann , um sie auch von dieser Seite mobiler zu machen ; obwohl ich nur wenig dazu übrig habe . Lebe vor der Hand wohl ; und empfange die nicht gelesene Beilage hierbei zurück . Grüße Deinen Mann , u küße Deine Kinder . Meine Frau wird Dir selbst schreiben . Dein treuer Vater Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

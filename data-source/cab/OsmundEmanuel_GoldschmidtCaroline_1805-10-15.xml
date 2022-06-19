@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1271">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, nach dem 14. Oktober 1805</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>ehemals Slg. Apelt</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 4°, 1. S. </p>
+                        <p>Die Briefabschrift befindet sich auf der Rückseite von B.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Einige Tintenflecke.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date notBefore="1805-10-15" notAfter="1805-12-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB1270">Von Caroline Goldschmidt an Emanuel.
+                        Leipzig, 2. Oktober 1805, Mittwoch (?) </ref>
+            </correspContext>
+            <note>Die Briefabschrift befindet sich auf der Rückseite von B. Zur Datierung: Der
+                    Brief wurde vermutlich später geschrieben, als die (Fehl-)Datierung Emanuels vom
+                    6. Oktober 1805 angibt, da Emanuels mitschreibender Bruder Israel Samelson, wie
+                    der Brief selbst vermerkt, erst am 14. Oktober 1805 in Bayreuth eintraf. Die zu
+                    Beginn erwähnte Erkrankung (Katharr und Schnupfen) thematisiert Emanuel mit
+                    ähnlichem Wortlaut auch im
+                    Brief
+                    an Thieriot vom 9. und 10. November 1805 als in der Vorwoche
+                    durchgestanden.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-011937">Kunst</term>
+               <term corresp="#JP-012212">Liebesleben / Ehe</term>
+               <term corresp="#JP-012583">Briefabfassung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>M. g. Car . ! Schon Sonntag hätte ich u m. Isr. Ihnen gerne geantw . , wenn uns beiden nicht Modekrankheiten : Schnupfen , Katarrh , Husten u dergleichen v. Schreibtisch geschieden hätten . Heute geht es uns besser , bis Sie das lesen - gut u so will u kann ich es Ihnen versprechen . Wohl würde ich Ihnen nichts v. diesem Nichtwohlsein geschrieben haben , da ich nicht einmal gerne dav. spreche ; ab. ich fürchte , daß man dem Brief es ansieht , daß m. Kopf noch nicht ganz heiter ist u dadurch könnte es leicht auf einen unschuldigen Teil geschoben werden , verschwieg ich die Ursache . Und mir ist wohl , weil meine Seele seit einiger Zeit schön u gut gestimmt ist . Selbst diese körperlichen Übel passen zu ihrer Stimmung u stören sie nicht im mindesten . Nichts tut mir so wohl , als meine Kraft , nicht ganz delikate Behandelungen meiner sogenannten Freunde - die ich gewöhnlich zu sehr fühle - ruhig ertragen zu haben . Habe ich diesen Sieg bisweilen üb. mich dav. getragen - dann fehl ich gewiß nicht leicht in sehr kurzer Zeit. Ab. es bedarf der Siege u der Kraft oft leider ! zu viel . Wahrscheinlich wissen Sie es schon lange , daß meine Mutter meinen Bruder hinter mir nach Hause verschrieben hatte . Ich ließ mich schon vor mehreren Monaten f. ihn malen ; wurde ab. nur wenig getroffen . Um ihm wenigstens eine kleine Freude zu machen , schickt ich ihm endlich das Gemälde doch u dieses traf ihn nicht mehr u welcher Zufall , durch Ihre Hände kam es wieder in die meinigen und in die seinigen . Also eine schlechte Kopie war in dem . Monat Ao 5 mit Ihnen in Leipzig , in demselben Monat war Ao 1 das arme Original das . mit Ihnen . Es überraschte mich die Nachricht in Ihrem lieben Jüngsten aus Dresden , die Sie mir v. meines Bruders Ankunft gaben , da ich es heute noch nicht begreifen kann , wie S. sie so lange vor mir u so bestimmt hatten . Richter wird gewiß keinen Gebrauch v . Ihren Schilderungen machen . Ich glaube noch immer , Car . daß Sie sich einen viel , viel zu guten Menschen damals auf der Leipzger Meße herausgefunden haben . Mein Fund ist gewiß besser . Ihr Hamburger Brf . ist hier viel eher , als ihr Leipziger angekommen . Gerade am 14 Oct. an dem S. v. Dresden abgehen wollten , ist m. guter Bruder hier angekommen . Wir leben wieder sehr schön zusammen u wir werden es Gottwohl so lange uns nicht Menschen od. Verhältnisse trennen . Ich rechne auf Hamburger Schilderung b. u v. Ihnen. M. guter Bruder ist keiner der besten Maler , obgleich ihm die Farbe aller Farben , die weiße , d. i. die wart nicht fehlt . Schrieb ich Ihnen jetzt meinen vorjährigen Regensburger Brief Car . ich müßte u würde - weil mir die weiße Farbe b. Ihnen nie fehlen darf - Manches in ihm nicht mehr schreiben : meine Freiheit ist mir nämlich ganz wieder geworden , od. viel mehr wieder gegeben worden und nun soll sie mir bleiben . Mein Lebensziel ist Einfachheit , Ruhe mit Tätigt gepaart , mein Lebensziel ist - wenn ich es recht beim wahren Namen nennen soll : Wenig u zwar noch weniger als ich schon erzielt habe und doch werde ich dies wenig nicht erreichen , so wenig als das Ende dieses Blattes , weil dieses mein Kopf - so wie jenes mein Los nicht zu geben will , wie es mir scheint . Allein ich frage nach beiden nichts , brauche es auch nicht , da der Mensch kann was er will , u schreibe zu . Bleiben S. so lange in Hamburg bis der B. Rat Arens u seine Frau wieder aus Italien zurück kommen : so wünscht ich Ihnen u ihnen daß Ihr Euch fändet . Ich mag keine neue Bekanntschften mehr ; ab. ich vereinige gerne gute Menschen u noch lieber - wie es hier der Fall ist - wenn diese auch Künstler sind . Mein Ulf . grüßt S. herzlich Car. , dieser edle Mensch ist auch mein Haus Seelen u Leibarzt . Seien S. immer gesund u froh , gute Car. u glauben S. daß ich dies dadurch auch bin . E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

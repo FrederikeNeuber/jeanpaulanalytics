@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0734">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. Heidelberg,
+                    nach dem
+                    16. Januar 1821</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date notBefore="1821-01-16" notAfter="1821-01-31" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName cert="medium" key="JP-003491">Odilie Minna Richter</persName>
+               <persName cert="medium" key="JP-003471">Emma Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0558">Von Caroline Richter an Max Richter.
+                        Bayreuth, erste Januarhälfte 1821</ref>
+            </correspContext>
+            <note>Zur Datierung: Es handelt sich um eine Antwort auf den Brief von Caroline
+                    Richter an Max Richter, den sie in der ersten Januarhälfte 1821 geschrieben
+                    hatte.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012183">Festlichkeiten</term><term xml:id="JP-011832">Gesellschaftliches Leben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine beste Mutter ! Jetzt bin i ch Dir auch noch Antwort schuldig auf Dein liebes Briefchen , das ich durch Reizenstein bekam . Daß der Vater etwas krank war , fuhr mir durch Mark u Bein ; aber nicht wahr , ihr schreibt mir gleich , wenn eine Krankheit im Hause ist ; ich bin ganz gesund u kann mich , wenn ich auch etwas geschwächt bin , gleich auffrischen . Von meinem Weihnachten kann ich nichts euch erzählen , denn ich war zu Hause , aber um doch eine Freude zu haben , bescherte ich meinem Merke , der ausgegangen war , auf einem Tischchen ein Federmesser , Papier u einige Federn mit einem Brief u so beschloß ich den heiligen Tag recht heiter . Der Neujahrstag ließ nur mich tausend Schüsse , die durch Studenten in die Luft u in den Straßen fielen , hören , u war an eine Fassung ziemlich gestört ; doch gleich nach dem Glockenschlag 12 ließ der Lärm nach u ich betete recht innig für Euch Alle . Die Tage verfliegen mir hier wie Minuten u daß schon längst die erste Hälfte des Semesters vorüber ist , kann ich kaum begreifen , da ich noch keine großen Fortschritte sehe . Ich muß mich aber recht schämen , daß ich der Odilie nicht einmal gedankt habe für das schöne Geschenk ; ich mag u wage ihr daher nichts zu schreiben ; aber ich will sie mit etwas anderem überraschen . Geht in Baireut noch immer der hohe Ton seinen allen Gang oder kann man einmal wieder nach freier Luft mit dem Frühling schnauben ? Mir tut es oft weh , daß die gute Welden in solcher Gezwungenheit lebt , daß ein solches Weib von einem solchen Manne abhängig sein kann . Hat wohl der Maler in Bair . der den Vater so gut traf , noch einige Bilder vorrätig ? Carové wünscht so_gern , sein schlechtes , das ihm fälschlicherweise zugekommen ist , umzutauschen . Die alte Voss ist ganz auf den Beinen u freut sich schon im Voraus auf Deine Ankunft . Kürzlich hörte ich von jener Bürger sprechen , die in B. ihr Unwesen trieb , in Frankfurt ist sie allgemein verhasst . Dabei frage ich : wohnt Thiriot in Mainz u Krauseneck ; u : sind das die Müffling's die vor vielen Jahren in B. hausten ? Dem ersten bringe ich , wenn ich dahin komme , auch Grüße von unserem herrlichen Emanuel . Gott segne Dich , meinen Vater u meine Schwestern . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

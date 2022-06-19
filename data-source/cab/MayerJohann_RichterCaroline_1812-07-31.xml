@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0439">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 31. Juli
+                    1812, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S.</p>
+                        <accMat> Nicht überlieferter Brief der Charlotte von Kalb.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1812-07-31" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012350">Minna Spaziers Beruf</term>
+               <term corresp="#JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! ich habe Deinen lieben Brief vom 20. mit Vergnügen erhalten , und danke Dir für Deine herzliche Gesinnungen gegen mich ; auch für das mir geschickte Geschenk . Den Brief an meine Frau habe ich ihr nach Neustadt an d Dose , wohin sie auf 14. Tage zu ihrer Gesundheit gereist ist , übersendet , u sie wird Dir selbst antworten . Solltest Du von Minna nicht schon selbst Nachricht haben , so melde ich Dir , daß die Ungewißheit , worin sie bei ihrer Ankunft in Strelitz darüber versetzt wurde , ob man sie auch annehmen würde ? ( denn ihre Hinbescheidung war gewißer Maßen voreilig , ohne daß sie dies ahnden konnte ) sich jetzt gehoben hat , indem sie wenigstens auf 6. Monat engagiert , auch förmlich u feierlich installiert ist . Ihre Konservation hängt nun von ihr selbst ab , u wir wollen hoffen , daß sie dahin streben wird . An Aufmunterung u Protektion daselbst fehlt es ihr nicht . In Absicht des Richtärschen Kapitals wäre dessen Einziehung allerdings eine wünschenswerte Sache . Allein eine Kündigung würde jetzt die Folge haben , daß man bis zum 24. Juni 1815 . statt barer Zahlung Pfandbriefe der hiesigen Provinz annehmen müßte , die beinahe die Hälfte im Kurse verlieren . Wenn also Herr Richter nur die Zinsen richtig zahlt , so scheint es mir besser , den Ablauf jener Frist abzuwarten Übrigens entstehet eben jetzt durch die Entrichtung der Vermögens Steuern , ( wenn ich gleich dem Kaufmann Richter nachgewiesen habe , daß Du als Ausländerin davon frei bist ) , eine Stockung in der Zins Zahlung , weil er sich an meine Anweisung nicht gekehrt , u die Steuer für Dich mit bezahlt hat , die er nun auf die Zinsen abrechnen will . ich werde Dir den Erfolg melden , um danach Maß Regeln über die Kapitals Kündigung zu nehmen . ich freue mich auf die neue Ausgabe der Ästhetik Deines Mannes , die ich mir anschaffen werde . ich hatte lange nichts von neuen Produktionen desselben gehört , u wundere mich nun darüber nicht . Lebe wohl . Grüße Deinen Mann , u küße Deine Kinder Dein treuer Vater Mayer Hierbei eine Einlage von Frau von Kalb . Die Deinige an die Tochter ist besorgt . So eben schickt Herr Richter die Zinsen für den 1. Juli , nachdem er sich hat bedeuten lassen . Vor diesmal also hat die Fehde ein Ende ; u ich werde nur den 1. 8ber abwarten , um mich mit Dir zu berechnen ; wenn die als dann fälligen Witwen Kassen Gelder bezahlt sind . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

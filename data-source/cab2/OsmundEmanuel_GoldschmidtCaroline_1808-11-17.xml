@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1293">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 17. und 18. November 1808, Donnerstag und Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>ehemals Slg. Apelt</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2 ½ S. Die obere Hälfte von S. 1 und 4 ist
+                                    herausgeschnitten. Auf der Rückseite von S. 1 eine halbe Seite
+                                    von B von Caroline Goldschmidts Hand.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date from="1808-11-17" to="1808-11-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB1292">Von Caroline Goldschmidt an Emanuel.
+                        Wien (?), 14. oder 28. September (?) 1808,
+                        Mittwoch</ref>
+            </correspContext>
+            <note>Die Briefabschrift befindet sich unter dem (herausgeschnittenen) Briefschluß
+                    von B von Caroline Goldschmidts Hand.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012296">Alter</term><term xml:id="JP-012048">Briefverkehr</term><term xml:id="JP-012010">Judentum</term><term xml:id="JP-012021">Politik</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Gute Car . ! Endlich glaube ich eine Stunde für mich erübrigen zu können , die ich mit Ihnen teilen will . V. 14ten u v. 28ten Sept. habe ich 2 Briefe v . Ihnen vor mir liegen , die mir Vorwürfe sein würden , wenn sie_es sein könnten . Zwei Mal habe ich Ihren ersten u Ein Mal Ihren letzten Brf . mit aufs Land genommen , aber sie unbeantwortet immer mit zurückgebracht . Jetzt bin ich 12 Tage zu Hause u erst seit einigen fang ich an zu mir zu kommen . Auf dem Lande hatte ich die Ehre franz. Einquartierung zu bewirten u hier habe ich dieselbe . Zwar verläßt uns unser Korps in einigen Tagen ; ob aber nicht ein neues bald nachkommt , das müssen wir erwarten , wenigstens befürchten . In solchen Umständen u Lagen kann man wohl an seine Freunde denken ; aber sonst wirklich auch nichts . Eben komme ich mit meinem treusten Uhlf. v. einer Promenade zurück , die wir , bloß im Freien so oft es das Wetter u die Zeit erlauben , machen u auf der wir über die Welt das i. über die Menschen herfallen u uns immer gegenseitig unsere Not mit ihr u uns selbst mitteilen . Car . wenn man über zwei Jahre in Feindes Händen ist , da ist es so gut , als hätte man eine Reise gemacht , " da gibt es was zu erzählen . " Kommt Ihr Österreicher Kaiser nach Hause u Sie sehen ihn : so sagen Sie ihm , daß ich ihm im Namen aller seiner Untertanen danke , daß er sich auf Einen Kriegsfuß stellet u dennoch mit dem anderen auf den festen des Friedens . Friede ernähret , Fürsten u Untertanen ; Unfriede verzehret , Landes Herrn Väter und Landeskinder . " Das habe ich längst auf alten Talern gelesen " werden Sie sagen , Car. , ab. ich wollte Ihnen auch nichts Neues , sondern nur etwas Wahres sagen . Mir hat dieser dumme Krieg schon Manches genommen , worunter mich beinahe nichts mehr dauert , als mein vernünftiger Leichtsinn , mit dem mich der Himmel so schön ausgestattet hatte u der mir oft so gute , bei nahe mehr als philosophische Dienste geleistet hat . In meinen Jahren sollte man so etwas nicht verlieren , denn man kann es sich nicht leicht mehr erwerben . Wo oft ein lb d. i. ein Pfund Gründe nichts auswirken , da reichet ein halbes Lot Leichtsinn Trost u Ruhe u hat man einmal diese zwei Kinder Gottes , dann stellt sich Mutter Weisheit auch bisweilen ein u es ist einem oft geholfen . Car . , zu denjenigen , die Weisheit eher als Trost und Ruhe haben , zähle ich nur die sehr wenigen Auserwählten u doch - kann ich mir keinen unruhigen , keinen trostlosen Weisen denken . 18 Nov. Ob ich gleich nur dabei verlor , die Eskeles nicht gesehen zu haben , so ehre ich doch den Gehorsam , den sie ihrem Manne leistet . Grüssen Sie mir sie ; hat sie ab. lieber ein Kompliment - ich ziehe immer einen Gruß vor - so geben Sie ihr eines von mir . Das Bild , das Sie mir von ihr lieferten , gefällt mir . Ich kenne viel edle , hohe , reine weibliche Wesen ; es kann also nicht Bedürfnis sein , wenn ich noch Eines kennen lernen wollte ; aber es ist mir Bedürfnis eigentlich gebildete in unserer Nation zu sehen , denn diese fehlen überall noch . Für Ihr Andenken an meinen Vater danke ich Ihnen , liebe Car . Uns , seinen Kindern geht es gut , denn er sieht seit 4-6 Wochen wieder recht gut u braucht uns nicht mehr ; ab. ihm geht es nicht gut , leider ! Er war viel glücklicher , da er nichts gesehen , als jetzt . Es ist ein beinahe 76iäriger , gesunder und höchst unruhiger Mann , der nie so glücklich war , als wie er nichts gesehen . Wir machen unser Unglück ; Gott macht unser Glück - denn er ist unendlich und unendlich gut . Überhaupt , Caroline , sehe ich wenig Glück auf Erden , noch weniger um mich u wie soll man dann selbst welches haben ? Der künftige Schwiegersohn meines , sie herzlich grüßenden Uhlfelders , ein recht braver , biederer , edler , gelehrter Schweizer , war 6 Wochen bei uns und davon die Hälfte mit mir auf dem Lande vergnügt . Caroline , Jette Braun ist auch nicht glücklich , obgleich sie Herzens- u Seelengüte , einen braven Mann , 2 liebe Kinder u Brot hat ! Gott erhalte Sie gesund und tätig wohl ! E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

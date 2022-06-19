@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0616">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Henriette Schwendler. Bayreuth, 21. August 1808, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl., 3¾ S. Brief - bzw. Blattnummerierung vfrH.</p>
+                        <accMat>Heliotropblüte. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1808-08-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-003749">Amanda Schlabrendorff</persName>
+               <persName cert="medium" key="JP-002936">Antonie von Mützschefahl</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Beste Henriette ! Es ist lange , daß Sie mir nicht geschrieben haben u ich Ihnen nichts gesagt habe . Dies sage ich Ihnen , nicht als Forderung nach Mehr , nein , sondern als Drang meines Herzens u meiner Feder . Die Liebe ist , darüber sind Sie mit mir einig , ein niederer Grad v. Freundschaft , obgleich diese aus jener bestehet . Gott weiß es , ich weiß nicht wie mir obiger Perioden in die Feder kam ; ich wollte etwas ganz anderes u folgendes sagen : Die Liebe ist einseitig u egoistisch , denn man liebt das Geliebte oder den Liebling od. den Geliebten u dabei u damit ist man glücklich . Man sieht kein erhöhtes Glück in der Liebe Anderer für unseren geliebten Gegenstand : im Gegenteil , unser Glück der Liebe vermindert sich eben bisweilen durch diese andere Liebe . Nicht so die Freundschaft , diese will durchaus nicht allein lieben , sie will , daß der Freund , der Seelenbruder , die Seelenschwester geliebt werde von allen Engeln des Himmels u der Erde u sie ist betrübt wenn sie den Geliebten lieben muß allein . Diese Antwort ( Diesen Unterschied nämlich zwischen Eigennutz u Uneigennutz , zwischen Liebe , die doch mehr an sich - u Freundschaft , die inniger an sich denkt , ) trage ich seit den ersten 5 Minuten unseres Findens auf der Lippe herum ; heute sollen Sie sie bekommen . Sie haben mich zwar nachher oft glücklich gesehen ; aber ich konnte es Ihnen immer nicht sagen , daß es mir auf fiel , daß unser erstes Gespräch gleich auf das heiligste im Menschen fiel u daß ich - da ich durchaus nicht darauf vorbereitet war - um so leichter der Teagesellschaft Platz machen konnte am Pfingstfeiertag . In der Folge wurde ich hinlänglich entschädiget . Die Liebe - ich fahre am 5ten Juni fort - hat immer etwas Unsicheres , Unruhiges , Tändelndes , Weibliches , Gereiztes , Ängstliches , u dergleichen in sich ; davon weiß die feste , ruhige , ernstliche , männliche , zarte , heiße Freundschaft nichts . Und so sind alle Verhältnisse des geselligen Lebens : belebt nur noch die Liebe sie , da treten meistens die Folgen ihres oben genannten Hofes ein u lassen ihre Eindrücke zurück ; beseelt hingegen die älteste Tochter des Himmels , die Freundschaft , das Leben , dann gewährt die Gegenwart , wie die Vergangenheit einen reinen Himmel auf Erden uns . Will ich recht froh sein : so denke ich mir Ihr Leben mit Richters u Euch , Mutter , Kinder u Schwester mit mir ; lese Ihre Guten Morgen , selbst den vorletzten v. Sonntag u da bin ich es . Das ist die beste Bewährung meiner obigen Grundsätze u bessere als bloß mündliche Äußerung . Ich habe vor 14 Tagen eine kleine Ausreise mit meinem Ulf . glücklich geendigt . Wir sind nach Döhlau u von da nach dem Alexandersbad bei Wonsiedel u über das Fichtelgebirg nach Hause gegangen . Auf dem Burgstein habe ich an zwei Jetten gedacht u Gott , dem ich doppelt näher stand , gebeten , daß er mich neben ihnen da stehen lassen möchte . Führt Sie Gott eher wieder zu uns , als mich zu sich ; so müssen Sie mit mir auf den Burgstein ; bin ich schon höher oben : so sehen Sie gewiß zu mir hinauf und beten so gut wie ich . Hier will ich meine Schuld abtragen u Ihnen die erste Blüte meines Heliotrops reichen . Ab. mein Gott , wie viel Blumen bin ich Ihnen , Euch schuldig ? Unsere Richters sind wohl . Caroline ist es jedoch noch nicht ganz . Über mich war sie - am Tage nach Ihrer Abreise schon , jetzt lange nicht mehr - sehr böse , daß ich mich nicht in Amandens Stammbuch geschrieben , ungeachtet sie es weiß , daß ich mich nie in eines schreibe . Sind Sie wohl , ist es Schwendler , Antoinette , Amanda , Paulina ? Grüssen - auch küssen - wenn Sie wollen - Sie mir sie alle u denket doch an Emanuel </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0478">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm und Henriette Mayer an Caroline Richter. Berlin,
+                    9. November 1811, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 2 S. von Johann Siegfried Wilhelm Mayer, 1 S. von
+                                    Henriette Mayer. Datum im Briefkopf vfrH ergänzt: 9.9. Auf S. 4
+                                    Adresse: An | die Frau <hi rendition="#aq">Legations</hi> Räthin
+                                    C. <hi rendition="#aq">Richter</hi> | geb<ex>orene</ex>
+                           <hi rendition="#aq">Mayer</hi> | zu | <hi rendition="#aq">Bayreuth</hi> sowie Postzeichen: ½; <hi rendition="#aq">franco</hi> Hof ; 100 und Siegel. </p>
+                        <handDesc>
+                           <handNote xml:id="JP-002703">
+                              <persName>Johann Siegfried Wilhelm
+                                            Mayer</persName>
+                           </handNote>
+                           <handNote xml:id="JP-002709">
+                              <persName>Julie Henriette
+                                            Mayer</persName>
+                           </handNote>
+                        </handDesc>
+                        <accMat>Eine nicht überlieferte Assignation über Auslagen, die
+                                    Caroline Richter für die Mayers getätigt hat. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <persName key="JP-002709">Julie Henriette Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1811-11-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-012533">Lektüre(n)</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! verzeihe , wenn ich erst jetzt Deiner Aufforderung , Dir zu schreiben , genüge . Es war mir um die Beilage zu tun , wodurch Deine Auslage für Schmalz Butter erstattet werden soll ; u ich konnte den Betrag nicht eher entbehren . Überhaupt trocknet abgenötigte Anstrengung , u Sorgen vielfacher Art mein Herz aus ; und die Rück Wirkung des Bewußtseins erfüllter Pflichten nährt nur so eben den Mut zur fortgesetzten Erfüllung , ohne etwas für Ergießungen des Herzens übrig zu lassen . Selbst meine frei willigen Geistes Beschäftigungen sind bloß auf Unterricht des Verstandes berechnet , ( Mathematik u spekulative Philosophie ) und die Annalen des Tacitus meine Abend Lektüre empören das Herz mehr , als sie es erheben . Zürne also nicht , u begnüge Dich mit Minnas Korrespondenz die jetzt zwischen Euch permanent ist . Von ihr wirst Du erfahren haben , daß ich gesund bin ; und das ist die Haupt Sache , weil mich Gesundheit in den Stand setzt , die Bedürfnisse der Meinigen zu übertragen ; und bitte ich darum nur so lange , bis die armen Spazierschen Kinder so weit sind , daß man für ihre Zukunft nicht bange sein darf . Auch muß ich ihnen allen , besonders dem Julius das Zeugnis geben , daß sie mich von dieser Seite zu beruhigen bemüht sind . Der Julius wird ein trefflicher Mensch werden . Gern hätte ich vor Abgang dieses Briefes Herrn v. Schukmann gesprochen , um mehr als die Übersendung des Briefs an ihn getan zu haben . Allein für heute ist_es unmöglich , auch bedarf Schukmanns Teilnahme keines anderen Ressorts als seinen eigenen Trieb Deinem Mann gefällig zu sein . Meine Bitte ist nur die , im Fall die einliegende Assignation gar nicht angenommen wird , solches so , so wie die Nachricht , daß sie angenommen u das Geld gezahlt ist , sofort mir zu melden ; u mir recht viel liebes u gutes von Deinem Befinden , u Deinen Kindern zu sagen , die ich in Gedanken küße . Lebe wohl , grüße Deinen Mann , u liebe Deinen treuen Vater Mayer Liebste Caroline ! Sie werden durch Minna wissen daß Minona nun auch das Scharlachfieber hat ; sie ist aber so wohl als man es dabei sein kann . Künftigen Dienstag hat Heim erlaubt daß sie das Bette verlaße . Julius ist sehr gestärkt und gewachsen nach einem 3 monatlichen Aufenthalt in Mecklenburg , wiedergekommen . Ihren Auftrag an Genz , der Levetzow und der Mutter Hain . habe ich ausgerichtet , ich weiß auch daß Beide erste an Sie geschrieben haben ; die Geh. Hain läßt Sie tausendmal grüßen , sie hält es für unmöglich je gleichgültig gegen Sie zu werden die sie mit mütterlicher Zärtlichkeit liebt . Ich habe ganz Ihrer Vorschrift gemäß mit der Schmalzbutter verfahren ; aber eigen ist es daß sie diesmal viel mehr einen Talggeruch und Geschmack angenommen , als die ich vor einigen Jahren durch Ihre Güte erhielt wäre dies zweite Schmelzen auch wohl Schuld daran . Wenn Sie darüber etwas erfahren oder glauben , so teilen Sie mir es , ich bitte , mit . Leben Sie wohl , liebe geliebte Caroline , und Zeine Sie meiner schrecklichen Eile . Ihre treue Freundin Henriette . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

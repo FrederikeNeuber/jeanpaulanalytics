@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0885">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Carl Ludwig Fernow an Johann Ernst Wagner. Liebenstein, 3. August 1808,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3⅓ S.</p>
+                        <accMat>Bd. 3 der "Römischen Studien" von Carl Ludwig Fernow.
+                                </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Wagner’s sämmtliche Schriften,
+                            hg. von Friedrich Mosengeil, Bd. 12, Leipzig: Fischer 1828, S. 152-155
+                            (ungenau, unvollständig). </bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Carl Ludwig Fernow. „Rom ist eine Welt
+                            in sich“. Briefe 1789-1808. Hg. und komm. von Margrit Glaser und Harald
+                            Tausch, Bd. 1, Nr. 365, S. 654-656 (gedruckt nach Erstdruck).</bibl>
+               </witness>
+            </listWit>
+            <p>Der Brief ist komplett in lateinischer Schrift geschrieben. – Die Sammlung König mit Briefen aus
+                    Johann Ernst Wagners Nachlass gelangte 2004 in den Autographenhandel. Zuvor
+                    konnte das Baumbachhaus Meiningen Faksimiles der Briefe anfertigen, wonach sich
+                    allerdings die Handschriften nicht in jedem Fall korrekt beschreiben lassen.
+                    Einige der Briefe wurden von Bibliotheken oder Archiven aufgekauft, der Verbleib
+                    anderer ist unbekannt, so dass die Faksimiles des Baumbachhauses einzige
+                    Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-013109">Carl Ludwig Fernow</persName>
+               <placeName key="JP-005956">Liebenstein, Bad</placeName>
+               <date when="1808-08-03" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012533">Lektüre(n)</term>
+               <term corresp="#JP-013239">Werkveröffentlichung</term>
+               <term corresp="#JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ehrenfester und Hochverehrter Freund ! Mit Dank und Lob des über mein Lob Erhabenen sende ich Ihnen Ihren Fichte zurück . Sobald ich mit heiler Haut zu meinen Laren heimgekehrt sein werde , will ich ihn mir selbst anschaffen und wenigstens noch einmal , mit mehr Andacht als im Brunnengewühl zu finden ist , studieren . Viel Schönes und Wares habe ich darin getroffen , mehr Wares als ich bis jetzt selbst noch zu glauben , und Schöneres viel , als ich für uns zu hoffen wage ; doch wünsche ich aus deutschem Herzen nichts so sehr als mein Glauben und Hoffen von der heilbringenden Zukunft übertroffen zu sehen ; und sollt ich selbst ein Scherflein , auch nur in Schwarz auf Weiß , dazu beizutragen vermögen , so will ich_es mit freudigem Herzen tun . Wäre nur geistiges Gebrechen so empfindlich , als leiblicher Mangel , so ließe sich wohl mit größerer Zuversicht hoffen , dass eine neue Erziehung , ein neuer Kunstplan einzuführen wäre , wie eine Rumforsche Suppe oder wie Schutzblattern ; - aber - - - genug von dem , und ein paar Worte von Anderem was näher liegt , was zwar nicht die Menschheit und die Deutschheit , aber doch einen Menschen und einen Deutschen , betrifft , und den ich , so unbrauchbar und gichtbrüchig er immerfort ist , mit mir herumschleppen und lieben muss wie mein eigenes Selbst . Morgen verlas ich Liebenstein , ungebessert und mit mehr Schmerzen als ich her gebracht ; ich kann es darum , so gern ich auch möchte , nicht segnen . Doch soll es mir in gesegnetem Andenken bleiben , einiger Guten und Trefflichen wegen , die ich hier näher habe kennen und wertschätzen lernen , und unter denen ein wackerer Gefährt im Leiden , warme n Herzens und heiteres Geistes , mir vor allen teuer und unvergesslich sein wird . Ich habe indes den dritten Teil meiner Römischen Studien , den ich dem Hofrat Reinwald hier noch zu geben gedachte , erst in diesen Tagen , nach seiner Abreise erhalten . Sie finden ihn deshalb hier beigeschlossen , mit der Bitte , ihm denselben gefälligst mit einem Gruß von mir zuzusenden . Es versteht sich von selbst , dass Sie die Vorhand haben sollen , so viele Viertelstunden und Stunden damit zu verderben , als Sie wollen , und dass Sie ihn also vorher behalten , so lange sie mögen . Es ist vornehmlich wegen des Aufsatzes von den italienischen Mundarten , dass ich ihn Reinwald mitzuteilen wünsche , weil diese Materie zu seinem Lieblingsfache gehört . Dass ich Ihnen die handschriftlichen Aufsätze nicht beigelegt habe , verzeihen Sie mir wohl . Ich habe angefangen an Voss zu schreiben , ausführlich ; und um nicht Einerlei zweimal zu schreiben , werde ich ihm wohl den einen Aufsatz selbst mit senden müssen ; von dem anderen habe ich indes den Abdruck im 4t . Stück des Prometheus erhalten ; und da ich vermute , dass dieser Wiener Lichtbringer auch nach Meinungen durchdringt , so werden Sie ihn da lesen können , wo nicht , so finde ich schon einmal von Weimar aus Gelegenheit , Ihnen ein Päckchen zu übersenden . Warum sind Sie nicht hier geblieben ? wir vermissen Sie noch immer . Mad. Schopenhauer und ich sind der Meinung , dass die Woche in der Sie hier unter uns waren , die schönste der ganzen Brunnenzeit gewesen . Das Getümmel hat sich seitdem verdreifacht , denn nebst dem Dichter ist noch der Minister und dessen Son hinzugekommen , aber all dies Getümmel wiegt uns den einfachen , ruhigen heiteren , herzlichen , traulichen Ernst Wagner nicht auf , der uns gerade zur besten Stunde verlassen hat , damit wir ihn desto mehr vermissen sollten ; nun das haben wir redlich getan . Sie könnten uns dafür nicht schöner belohnen , als wenn Sie einmal unverhofft in Weimar unter uns erschienen . Aber was wir so sehr wünschen , wagen wir kaum zu hoffen , der garstige Thüringerwald mit seinen Mordwegen liegt in seiner ganzen Breite zwischen uns , und das Element alles Reisens , die Bewegung , ist unserem Freunde so grausam verkümmert ; oder geht nicht vielleicht der Rückweg in die Heimat notwendig über Weimar ? Das würde die schönste Stelle für uns im Buche sein , denn es würde sich vorher lebendig bei uns zutragen müssen , da , wie Sie selbst versichern in dieser Reisebeschreibung alles wahr , nichts erlogen sein wird . Darum , wir hoffen ! Erfüllen Sie !! Mad. Schopenhauer empfiehlt sich Ihrem gütigen Andenken bestens , ich desgleichen mit den herzlichsten Wünschen für Ihr besseres Ergehen , und wenn das nicht sein kann , wenigstens für den dauernden Bestand des jetzigen . Mit unveränderlicher Achtung und Liebe Ihr Fernow </p>
+         </div>
+      </body>
+   </text>
+</TEI>

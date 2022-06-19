@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0230">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Johannes Daniel Falk. Leipzig, 3. April
+                    1803, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">15/II,1D,13</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <accMat>Abdruck von Falks Text "Nachrichten für die Kunst", den
+                                    Spazier am <date when="1803-03-24" calendar="#Gregorian">24. und
+                                        26. März</date> 1803 in zwei Teilen in der Zeitung für die
+                                    elegante Welt publiziert hatte (Nr. 36, Sp. 279-282 und Nr. 37,
+                                    Sp. 287-289). </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-04-03" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+            <note>Spaziers Datierung auf 1802 ist als Schreibfehler zu werten: Der Brief läßt
+                    sich aufgrund der vielen im Frühjahr 1803 erschienenen Zeitungsartikel, die
+                    erwähnt werden, auf 1803 datieren.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012741">Berichte und Klatsch</term>
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Hier , mein werter Freund , die Abdrucke von Ihren Kunstnachrichten . Ich muß Sie wegen der Druckfehler gleich vornerein , um Verzeihung bitten ; es war Besuch bei mir als ich die Korrektur besorgte u da ging_es husch husch drüber her . Es ist aber bereits angezeigt . Für den hübschen Frauenzimmerbrief bin ich sehr verbunden . Ich war zwar Willens des Patrons gar nie mehr in meinen Blättern zu erwähnen , aber es geht doch wohl nicht anders , er muß wenigstens persifliert werden . U das ist von keinem leicht besser zu erwarten u zugleich lustiger , als von Brutus . Ich werde also , da er sich jetzt eben wieder über mich u die Zeitung ergossen , von dem Briefe ( u zwar ohne Unterbrechung )nächsten Tages Gebrauch machen , u es wird dann wohl nicht übel sein , wenigstens alle Monat einen neuen , der wo möglich immer lustiger ist , als einen stehenden Artikel nachfolgen zu lassen . Er hält etwas Weniges auf sich u man kann ihm daher nicht besser als dadurch beikommen , daß man ihn in einem fort spaßhaft nimmt und als das Lichtenbergsche Ding anschlägt . Ich höre der Kotzeb . springt ihm , bis über die Ohren verschuldet , mit bei , u , nach einem Wink von Sander zu schließen , hat er ihn nun förmlich zur Assistenz wehmütigst herbeigerufen . Wie er_es so jetzt treibt , siehts auch ganz u gar danach aus . Der Traum v. L. G. hat gewaltig in Berlin effektuiert , u man lacht herzlich auf K. es Kosten ; Schlegel hat sich neulich wegen der Briefe von Gelbschn. u Naseweis sehr zufrieden bezeigt ; la Grange hatte er noch nicht gelesen . unerachtet er auch seine entschiedensten Verehrer hat , die sich närrisch darüber haben sollen , daß man die hochwerte Akademie angreift , u sogar von Beleidigung der Majestät sprechen , die K. zum Academicus gemacht habe . Ja es gibt so närrische Menschen ( die unterdes das Untere der Linden in B. kennen ) die von der Möglichkeit des Verbots der eleg. Zeitung in den Pr. Staaten reden . Etwas behutsam soll mich dieser Wink doch in gewisser Hinsicht machen . Es ist eine recht - hundsföttische Zeit . Ich habe als gewiß erfahren , daß Kotz . insonderheit durch seinen Herrn v. Kuhwedel sich ganz außerordentlich beim - insinuiert haben soll . Auf so was läßt sich schon was fortbauen . Ihren Wink wegen Schiller werde ich auf jeden Fall benutzen . Sicher ist etwas von Jena her über die Br. v. Messina gesagt : gar nichts von Bedeutung ; aber eben weil Schiller auf eine ziemlich anständige Art gelobt wird , habe ich_es abdrucken lassen Verzeihen Sie mein heutiges Geschmier u erfreuen Sie mich bald einmal wieder mit Etwas . Ihr ergebenster Spaziere . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

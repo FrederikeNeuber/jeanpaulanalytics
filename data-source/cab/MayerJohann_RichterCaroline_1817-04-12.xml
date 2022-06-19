@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0757">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, nach dem 12.
+                    April 1817</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1817-04-12" notAfter="1817-05-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Nach dem Besuch Friedrich von Raumers bei den Richters am 11.
+                    und 12. April 1817 und vor Mayers nächstem erhaltenen Brief an Caroline Richter
+                    vom 13. Mai 1817.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012350">Minna Spaziers Beruf</term>
+               <term corresp="#JP-012211">Finanzen</term>
+               <term corresp="#JP-012194">Geschenke</term>
+               <term corresp="#JP-012876">Magnetismus, Mesmerismus</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine geliebte Caroline ! ich habe Deinen Brief vom 11. April richtig erhalten ; u eile darauf zu antworten . Herr v. Raumer hat sehr richtig meinen inneren Gesundheit Zustand von einem äußerlichen zu unterscheiden gewusst . Denn innerlich war ich nie krank ; desto mehr aber leide ich am äußeren , da mir das Gehen besonders auf dem Stein Pflaster äußerst beschwerlich ist , u ich entweder geführt , oder gefahren werden muß . Dem Landecker Bade traue ich nun , nach allem was ich davon höre , meine völlige Herstellung zu , u will mir den hier nicht in solchem Kredit stehenden Magnetismus als das letzte Heilmittel vorbehalten . Auch muß ich schon bei Landeck bleiben , da Töplitz für mich zu heiß , u für meinen Zustand nach dem Urteil der Ärzte Heim u Hufeland nicht geeignet ist . Schade daß ich die Deinen nicht näher kennen kann . Deine Nachricht über den jungen Raumer hat den Eltern viel Freude gemacht , da sie von ihm selbst keine hatten . Was Du über die Dir gesandte Witwen Kassen Quittungen sagst , hätte mich eigentlich abhalten sollen , sie Dir zu schicken . Allein es ist nun einmal geschehen , u ich wüsste sie lieber in Deines Mannes Händen . Über die Abmachung der Richtärschen Zins Angelegenheit schicke ich Dir nun noch den authentischen Beleg . Den Brief an Minna habe ich abgehen lassen ; u Du wirst wohl schon wissen , daß sie nun , nach völlig aufgelösten Strehlitzer Verhältnissen mit ihrer Tochter Minona nach Dresden ziehet , um dort von ihren Talenten zu leben , so weit ihre eigene Einnahme nicht reicht . Zum Übergang nach Dresden habe ich ihr 100 rth Gold geschenkt , u nachdem schon Offerten für sie hier angekommen sind , erwarten wir ihre eigene Durchreise durch Berlin in diesen Tagen . Auch Deines für Herrn Emanuel an mich getanen Auftrags habe ich gedacht , kann aber darauf nicht bestimmt antworten , weil nicht gesagt ist , ob Herr Bernstein der Onkel ( Professor der Medizin ) oder Herr Bernstein der Enkel ( Professor der orientalischen Sprachen ) gemeint ist . Ersteren hält man für einen rangeten Mann ; von letzteren aber weiß man nichts befriedigendes . Übrigens wirst Du Dich an eine Stelle eines meiner letzteren Briefe erinnern , worin ich sagte , daß der Punkt wegen meiner Gehalts Verbesserung noch nicht aufs reine sei . So ist_es in gewißer Beziehung noch , und darum muß ich darauf um so mehr zurückweisen , als das erwähnte Geschenk an Minna mich wieder zurückgebracht hat Deinen Wunsch für meine Herstellung nehme ich mit Rührung an , wenn gleich das Leben im 70sten Jahre keine sonderlichen Wert mehr hat , weil das Herz immer mehr austrocknet . Lebe wohl ! Grüße Deinen Mann u Kinder , von mir u meiner Frau ! Dein treuer Vater Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0817">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 28. Januar
+                    1814, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <accMat>(Nicht überlieferte) Liste der Werke Jean Pauls, die Johann
+                                    Siegfried Wilhelm Mayer besitzt. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1814-01-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012183">Festlichkeiten</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-011832">Gesellschaftliches Leben</term><term xml:id="JP-012176">Jean Pauls Werke</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! Zwei Briefe ohne Datum wovon ich den Empfang des einen bereits im Briefe an Deinen Mann erwähnt habe , sind von mir noch zu beantworten . Zuförderst innigen Dank für die Herzlichkeit Deiner Gefühle für mich . Sie sind neben der treuen Anhänglichkeit meiner Frau an mich , und dem Gedeihen meiner Sorge für den Julius , die einzigen lichten Punkte meines Lebens ; und wirken sanfter auf meinen Entschluß , das Leben überhaupt zu bestehen , als die starre Pflichtmäßigkeit , gegen das bittere Gefühl verfehlter Ruhe im Alter , und gegen die Ungewißheit , wohin am Ende meine Verlegenheiten mich führen werden . Nun zur Beantwortung Deiner Briefe . Die Erscheinung des Wilhelm bei Dir konnte mir wegen des unerwartet guten Zeugnisses , was Du ihm erteilst Freude machen . Allein sein Benehmen , ein gebetenes u erhaltenes Darlehn hinterher als ein Geschenk zu betrachten , hat mich hinter seine Masque blicken lassen , weil ich darin seinen Vater wieder finde , der einen so großen Anteil an den mich jetzt drückenden Widerwärtigkeiten hat . Da es mich nun jammert , daß Du um Deine kleine Habe von 3. Fridr . d'or gewißer Maßen gebracht bist ; so habe ich die Angelegenheit einer für meinen Bruder gehabten Einnahme Hallischer Salz Revenue benutzt , u bei meinem Bruder angefragt , ob ich Dich damit befriedigen sollte . hierauf erwarte ich noch Antwort , u habe das Geld einstweilen zu Deiner Sicherheit an mich behalten . Schreibe ihm also nicht , sondern warte den Erfolg ab. - Übrigens hat der Wilhelm ganz recht , wenn ich mit ihm bisher unzufrieden gewesen bin . Denn er ist auch einer von den Menschen , die sich nur immer auf andere verlassen , und ihre Gutmütigkeit mißbrauchen ; auch hat er nichts gelernt , um sich über das bloß mechanische zu erheben , u seinen Wohlstand sich selbst zu bereiten . Die Stelle Deines Briefes welche die Frau v. Kalb betrifft , habe ich ihr selbst vorgelesen , und ihr leichter Sinn hat auch nichts gegen Deine verringerte Teilnahme an ihren Spekulationen . Der Punkt wegen der Frankfurter Pension beruhet nun auf unmittelbarer Korrespondenz mit Deinem Mann , und werde ich mich freuen , wenn dieser so wichtige Punkt zu seiner Zufriedenheit ausschlägt . ich erwarte also mit Ungeduld den Erfolg seiner eigenen Bemühungen . Herr von Mecklenburg hat sich hier bisher nicht sehen lassen . Er war uns aber aus Basel angemeldet , wo meine Schwieger Mutter noch ist , u in diesen Tagen die Auszeichnung genossen hat , daß der König u der Krone Prinz das Strekeisensche Haus besucht haben , während sie in einem anderen Hause logierten . Minna ist noch in ihrer bisherigen Lage . Gott gebe , daß sie sich darin erhält , bis der Himmel ihr einen festeren Ruhe Sitz gönnt . Übrigens ist sie mir seit 14. Tagen Nachricht von den ihr übersandten Richtärschen Zinsen schuldig ; u ich fürchte fast , daß sie krank ist . Die mir in Deinem späteren Briefe geschickte Weste habe ich mit Vergnügen empfangen . Sie muß zwar um drei Finger breit ausgelaßen werden , allein dies sage ich Dir nur , um Dir mein körperliches Wohlbefinden damit zu belegen . Das gütige Erbieten Deines Mannes mir von seinen Schriften diejenigen , welche ich noch nicht habe , u wovon derselbe noch Exemplare besitzt , zu schenken , nehme ich mit Dank an ; und erfolgt das Verzeichnis der bereits in Händen habenden , hierbei . Du schreibst mir so selten etwas von Deinen Kindern . Möchten Sie doch selbst einmal eine Teilnahme an mir zu erkennen geben . Frau Minister von Bülow , die jetzt hier ist , hat mir von Ihrem Besuche bei Dir gesprochen . Sie ist seit kurzen von einer Tochter entbunden , u so bald es sich schickt , werde ich mit ihrem Vater bei ihr Tee trinken ; und bei dieser Gelegenheit auch ihren Herrn Gemahl sehen , da ihn bisher nur meine Karten erreicht haben . Sie ist durchaus unbefangen gegen mich gewesen . Die Tante Mertzdorff ältert sehr , ist aber gesund . Die Sommern hat ihre Station beim Staats Rat Nicolovius zu Weihnachten aufgegeben , u lebt auf ihre eigene Hand . - Ihr Sohn wird Ökonom . Unser alter Haus genoße Eckart steht jetzt beim Kammer Gericht , u ist alle Sonntag mein Gast . Er grüßt Dich . Lebe wohl . Grüße Deinen Mann u küße Deine Kinder . Die Mutter grüßt recht herzlich . Dein treuer Vater Mayer . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

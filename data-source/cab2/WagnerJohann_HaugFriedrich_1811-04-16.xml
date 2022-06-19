@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1097">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich Haug. Meiningen, 16. April 1811,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 2 S. S. 4 Adr.: An | Haug, den Guten.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Dresdner Morgen-Zeitung, Nr. 91, 7.
+                            Juni 1827, Sp. 724 f.</bibl> (geringe Abweichungen).</witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Corin, S. 404-405 (geringe
+                            Abweichungen).</bibl>
+               </witness>
+            </listWit>
+            <p>Mit Archivvermerken.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-04-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001572">Friedrich Haug</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0238">Von Friedrich Haug an Johann Ernst Wagner.
+                        Stuttgart, vor dem 6. März 1811</ref>
+            </correspContext>
+            <note>Beide Drucke geben fälschlicherweise den 6. April 1811 als Abfassungsdatum
+                    an.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-013034">Wangenheim-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012543">Dank</term><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Nein , mein verehrter , würdiger Mann - so viel Liebe , so große Güte werde ich niemals zu verdienen vermögen ! Was habe ich Armer auf jene süßen und wohllautreichen Grüße zu erwidern , die Sie mir ( und meinen kleinen Versuchen zu Erheiterung der Deutschen Lesewelt ) gütig sandten ? Ich , der spät und wenig gebildete Prosaiker , dem nur einzig die schüchterne Landmuse sich zuweilen ergab - was soll ich dem Dichter , dem wirklichen , korrekten Künstler sagen , den schon längst die hehrsten und besten der Musen liebend umschlangen ? Dessen sanfte Poesie mir von jeher behend und klug , wie die Schlange , aber harmlos und sanft wie die reine Taube erschien ? - Aber still von allen literarischen Grüssen ! Jeder von Uns ist ein ehrlicher Mann - das ist das beste - und , daß wir es sind , dafür bürgte Jedem von uns der göttliche Bettenburger - ( ein holder Gewährsmann , dessen teures Bild jetzt so viele redliche deutsche Herzen im Norden und Süden einander vereint hat , als an seinem schlugen ! ) und so fanden Wir Uns - und so nehme ich die liebevoll dargereichte Hand mit Entzücken an und drücke sie im Geist an das innig bewegte Herz . Kann ich Euch , Ihr holden Seelen , nicht geben , was Eure Liebe vermag , so nehme ich doch Alles an , was Ihr mir zusagt - und , verdiene ich Eure Liebe nicht , so bin ich ihrer doch von Herzen bedürftig . Ach , ich wurde bisher in mancherlei Stürmen umgetrieben - aber Truchseß , ( in dessen Nähe ich stets eine gewisse stille Ruhe und Sicherheit empfinde ) erschien , und mit ihm die beiden trefflichen Vösse und der gewandte Abeken - und sie haben mir die Ostertage zur halcyonisch heiligen Zeit umgeschaffen , die ich nie vergessen werde , und die durch Ihre so gar anmutige Epistel sich endlich wieder zur alten Freudenzeit belebte . Gott lohne Ihnen das , verehrungswerter Mann ! An Heinrich Voß habe ich ( unter uns gesprochen - doch gern hätte ich es ihm ins Gesicht gesagt ! ) mehr einen Engel , als einen sündigen Menschen zu finden geglaubt . Ich wüsste nicht , daß ein Gemüt und eine menschliche Gestalt zugleich , mich jemals so voll und rührend angesprochen hätte , wie dieser wunderliebliche Mensch . Die Schönheit seines Herzens erschien mir bis zum Pedantischen göttlich ! ( Verzeihung - ich weiß mir diesmal nicht anders zu helfen , als durch einen neugenialen Ausdruck ! ) Leider konnte ich allen den Lieben diesmal wenig oder nichts sein und geben , weil mein Herz noch erst durch Ihre Liebe erheitert werden musste . Und zuletzt , da wir die Herzen noch so voll hatten , wurde unsere Abschiedszusammenkunft gar unangenehm gestört . - Desto heißer konnte ich ihm nachweinen , dem neuen - Freunde . Ach , zu Euch , Ihr guten Seelen , kann ich auf Erden nun nicht mehr wandern - denn schon hat der Alles zusammenrufende Mohrentrompeter der Zeit auch vor meinem irdischen Quartiere die ersten ( hellschmetternden , aber nicht schrecklichen ) Stöße getan . Aber trätest Du , Er , Ihr , Sie - einmal in der Abenddämmerung " an Truchseß Hand " in meine Hütte - ( o wie himmlischrührend ist der Schluß , in welchem Ihr teurer Brief verhallt ! ) das wäre der abenddämmernden Seele ein süßer Sonnenstrahl ! - - - Ewig Ihr getreuer JEWagner . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

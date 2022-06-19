@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0684">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Mayer an Ernestine Mayer, nach dem 13. November 1800</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 4 S. Schluß fehlt. Über dem Brief vfrH Empfängername
+                                    und Datum: An Ernstine Mahlmann, 1801.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                        Müller, Hoffmann, S. 98-100
+                        (unvollständig).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1800-11-13" notAfter="1801-05-27" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+            </correspAction>
+            <note>Vermutlich nicht abgesendet. Zur Datierung: Nachdem Ernstine Mayer von der
+                    Verlobung Jean Pauls mit Caroline Richter erfahren hat (13. November 1800) und
+                    vor der Hochzeit der beiden (27. Mai 1801).</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012642">Berliner Gesellschaft</term>
+               <term corresp="#JP-012212">Liebesleben / Ehe</term>
+               <term corresp="#JP-012929">Verlobungen und Hochzeiten </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wie dank ich Dir , meine geliebte Tine , für Deinen letzten Brief , ich fühlte in dem Augenblick da ich ihn zuerst las , lebhaft wie Du , wie wir so fest und unzertrennlich an einander hängen . Wenn ich unglücklich bin bist du meine Zuflucht , du und Arbeit und das Annähern an eine andere reine erhabene Seele , das tröstet und erhebt über jeden Schmerz . Meine gute liebe Tine , es gibt Augenblicke da ich geradezu den Zwischenraum überspringen möchte der mich von dir Trend - da ich nur allein an deinem Herzen Nachsicht - gleiches Gefühl - Verzeihung finden kann . Wir gehören auch zusammen - ich möchte dir recht viel von meinem Leben erzählen das Du Dir ganz anders denken magst als es ist . Es würde schöner sein wenn Du es mit mir teiltest - Eine Freundin neben dem Geliebten - der beides nicht sein kann . ich genieße eigentlich wenig Schönes . Wenig sage ich , denn ich meine das Maß , nicht den Inhalt des Genusses . Zugetröpfelt erhalte ich nur mein höchstes Glück. J. P. sehe ich nicht alle Tage , und die Tage wo ich ihn sehe wird die Freude in 3 kurze Stunden zusammen gedrängt - und diese wie zerrissen ein jeder schneidet sich ein Stück dieser Zeit ab . Da kommt Papa mit seinen philosophischen Disputationen - Guste mit ihren fröhlichen Schenkereien , u Wilhelm mit seinen lateinischen Exerzitien die er in unserer Nehe treibt . Mich tröstet nicht die Aussicht des künftigen ungestörten Beisammenlebens - das kann ich mir gar nicht recht denken - und es kostet mir viel - freudig u liebend das zu ertragen - u doch muß ich es , wenn ich gut sein , u der kurzen Freude wert sein will . Dürft ich nur immer zu Hause bleiben , so würde ich glücklicher sein - aber nun die unerträglichen Gesellschaften , die trotz ihres größten interesses mir immer eine Pein sind - die bringen mich aus dem glückliche Gleichgewicht das die häusliche Ruhe gibt , u geben neues Anstrengen - Ermattung - u kosten mir oft Tränen . Und doch immer heiter-heiter lachend u liebend oder man gilt in sich nichts , und anderen nichts . Die Kette von kleinen Pflichten u Bekämpfungen ist unendlich die die höhere Moralität uns auferlegt - die Anstrengung in diesen scheinbaren Kleinigkeiten über alles schwer und die Art wie wir überwinden das aller schwerste . Lächeln wenn das Herz blutet u es sich sehnt zertreten zu werden . Wundre dich nicht über meine Stimmung u das was ich dir sage - es sind vorübergehende Schmerzen die die Zeit u die Vernunft heilt , aber sie wollen sich Luft machen - ich bin ein Kind das weißt du , ein Kind meiner Phantasie - und s je spielt mit mir - da quäl ich mich nun mit der Möglichkeit herum , daß J. P. mich einmal nicht mehr lieben könnte - weil es bessere Menschen gibt , u ich ihn eigentlich nicht verdiene - u ich arbeite an mir das würdig u gut zu ertragen . ich will nicht weinen , und doch drängen sich die Tränen in der dunklen Nacht - sind sie sündlich , wenn sie niemand sieht , u sie keinem weh tun ? Es erleichtert mich ordentlich indem ich den inneren Gemütszustand auf dem Papier Male . So wie ich es übersehe dünkt mir die Farbe u die Sprache zu hart - als wäre es in mir sanfter - das ist recht gut , daß es ein Mittel gibt mich stiller zu machen - ein leichteres ach , als der absichtliche Zwang des Herzens wo man die Gefühle zusammen kneifen muß . ich werde aber doch bald zu meiner alten Anspruchslosigkeit zurückkommen , die nichts will nicht einmal Anspruchslosigkeit , sondern natürliche innige Stille der Seele - Stille durch Seligkeit der Liebe zum Leben geweckt - nun wieder zur Stille - Ruhe - zum Frieden . Aber alles was ich da sage - ist finster wie Eigennutz . ich bin aber nicht eigennützig . Du weißt ich habe nie glücklich sein wollen , als durch mein eigenes Herz - gut werden - jede Rücksicht ist verachtend fest durchs Leben gehen . Nun hat mich der Himmel so seelich zu einem anderen Laufe geweckt . er schenkte mir ja die Seligkeit um die zu bitten ich für Vermeßenheit hielt . Das hob mich in mir u außer mir . ich war auf einmal da , wo so wenige sind , nicht auf dem Wege sondern am Ziel des Glücks von wo aus ich einem neuen höheren Ziel nachstreben wollte , u mein erreichtes Ziel war wieder ein süßes schönes Mittel zum neuen großen . ich dankte der Vorsicht mir eine solche Stütze gegeben zu haben . ich war also glücklich - - nun soll es mich keinen Schmerz kosten von dem Berge worauf ich stand , einen Stein nach dem anderen herunterrollen zu sehen - keinen ? u ich soll nicht einmal seufzen , wenn das geliebte Herz immer weiter u weiter von meinen rückt ? Also nur diesem Entfernen gilt mein Schmerz den ich auch für Freunde haben würde wie für mich . - Aber es gibt ein Glück das mir teurer ist , als meines u jedes . Ein Glück für das ich bluten u sterben , schmerzlich sterben möchte . u noch mehr als sterben - an dessen Erhaltung ich mein Herz langsam dem Gram verzehren sehen könnte . Wenn ich eines finde das seiner mehr wert ist als ich , das sein Herz erreicht zu dem eine Klarheit eine Liebe - eine Erhabenheit den Stoff gegegeben haben - dann möchte ich beide vereinigen , daß er glücklich befriedigt belohnt würde , der herrliche Mensch ! Und ich würde - ja ich würde mir Mühe geben - wenn es einen kleinen Zusatz seiner Glückseligkeit sein könnte - freudig zu werden - o die Belohnung eines solchen Opfers muß ja der innere Friede , die himmlische Heiterkeit sein , die man sonst wohl nur in einem anderen Leben findet . Die heimlichen Tränen verzeiht Gott - sie sind der Ausdruck des Mitleids das wir mit uns selbst haben dürfen , ohne kleiner zu werden . Als ich das erstemal die Stubenrauch sah war mein Herz nicht ganz rein von jener Empfindlichkeit die nur kleinen Herzen eigen ist . Der Gedanke flog wie ein Blitz durch meine Seele daß J.P. von ihren hören Vorzügen endlich ergriffen durch mich einen kleinen Druck empfinden könnte - denn er ging nicht mit der Liebe von mir , mit der er zu mir kam . ich war den Tag ohne Vorwurf gut gewesen hatte mich bemüht den Menschen u ihm Freude zu machen , u hatte gehofft auf einige süße Minuten allein mit ihm - u der Abend floh u mein Hoffen u mein Glück . Einige Minuten zuckte die Empfindlichkeit in mir . aber verhaßter Zustand um den ich mich selbst verachten würde - ich riß mich los von Dir u öffnete meinem Herzen ein freieres schöneres Feld - seine Heimat - das des Selbstvergessens des Hergebens . ich wurde wirklich froh u heiter - der Schmerz sank fast bekämpft zurück . Am Abend wurde ich nur durch die Bemerkung Richters wieder kraftloser , doch eigentlich nur verlegen , daß er mich erraten hatte . Am anderen Tag hat ich mich zu jener Gemäßigkeit hingearbeitet , zu jenem glücklichen Mittelzustand der Seele , da man dankbar das geschenkte Glück empfängt u es sanft ins Herz preßt , ohne es stürmisch zu begehren - u da man den Verlust oder die kleineren Einschränkungen liebend ertragen kann . - In dieser Stimmung konnte es mir leicht sein am Abend in die glänzend Gesellschaft zu treten wo ich den einzigen geliebten Menschen in der Mitte von tausend Gegenständen der Vergleichung bei denen allen ich nur verlieren konnte , sah . O wie freue ich mich über mein Herz , daß es so gut so sanft so bescheiden war - so ganz natürlich - ohne alle Überwindung . Adelaidens himmlisch leuchtende Liebe rührte mich unendlich - ihr Anteil - das ganz eigene Empfinden des fremden Glückes - spricht ihr Auge ihr Lächeln . - Der Stubenrauch kam ich wieder so nahe , sah so tief in ihre klare Seele , daß ich ganz die heilige Verehrung empfand die ein vollendet edles Wesen in mir erregt . Sie ist über alles edel - geläutert - empfindungsvoll ! ich begreife nicht , wie Richters scharfes Auge sie nicht gleich durchschaute - ihr Ton hat keine Veränderungen - aber eine einfache fortklingende rührende Melodie mit halben Tönen , die mein Inneres auflösen können so schmerzlich schön . O die Gute wie sie mich so ganz in sich hineinzog , wünschte ich ein höherer Genius höbe mich hinweg , oder die tiefe Erde öffnete sich unter mir , und ich verschwände . u über den Herrn leeren Platz rückten beide einander näher . Keine Wonne ist der zu vergleichen , wenn wir auf der Erde die Gestalt unseres Ideals finden . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

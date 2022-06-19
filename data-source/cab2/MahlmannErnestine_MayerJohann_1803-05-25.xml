@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0233">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mahlmann an Johann Siegfried Wilhelm Mayer. Leipzig, 25. Mai 1803, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Dbl. 8°, 5½ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Briefpapier mit Wasserzeichen.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-05-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-011832">Gesellschaftliches Leben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich habe heute Ihren Brief erhalten , lieber Vater , und eile das Unrecht wieder gut zu machen , daß Sie mich zeihen . Ich würde wahrlich , schon längst Ihren , durch Mada n m e Cesar erhaltenen Brief , beantwortet haben , wenn die Zerstreuungen , während der Meße nicht zu groß gewesen wären , und mir teils durch den Aufenthalt , der Verwandten meines Mannes , in unserem Hause , teils durch täglich Heimsuchung von Freunden , jeder ruhige Augenblick geraubt war . Die Geheime-Rätin Cesar , hat Ihnen schon vorläufig gesagt , wie wir durch gegenseitige Besuche einander bekannt geworden sind . Vielleicht wissen Sie auch schon daß wir das Vergnügen gehabt haben , Madame Cesar , mit Ihrer Familie , und in Gesellschaft Mehrer Fremde an einem Mittage bei uns zu sehen . Auch Spaziers waren eingeladen worden , doch haben Sie die Einladung von sich abgelehnt . - Doch , denke ich , Ihren Wunsch , Minna mit der Familie Ihrer lieben Frau bekannt zu machen , noch in Erfüllung zu bringen . Die junge Streckeisen , hat mir ohne hin die Hoffnung gemacht , sie , wenn sie eimal eine freie Stunde hat , zu einer musikalischen Unterhaltung bei mir zu sehen . Und da wird sich das Übrige arrangieren lassen . Minna hat Ihnen gesagt , daß ich an Ihrem Geburtstage zu ihr gegangen bin ? - Es scheint als legte Minna , mehr Wert auf diesen Besuch , als er verdient , da er doch nur die Beobachtung , einer Form war . Ich versichre Ihnen , so wie ich es Minna versichert habe , daß nicht mein Herz , sondern lediglich die Überlegung , mich zu ihr geführt haben . - Denn zu einem vertraulichen Verhältnis kann es wohl nie unter uns kommen ! - Wäre es auch nur , weil die unendliche Achtung und Liebe zu meinem Manne , mich zwingen , dessen Besorgnisse zu schonen . Welcher Mensch könnte auch wohl verwegen genug sein , für sich stehen zu wollen , und nicht die Nähe eines Wesens fürchten , das konsequent , und - vollendet , aber nicht im Guten , durch Leichtsinn , und eine unselige Genialität , die jetzt unter den Weibern zur Tagesordnung gehört , dahin kommen wird , alles was Pflicht , und Grundsätze heißen , über den Haufen zu werfen - wenn nicht ein guter Genius noch über sie wacht , und vom völligen Verderben rettet , doch wird ein Umgang , unter uns bestehen können , wenn Minna , und ihr Mann , sich anständiger , gegen mich , und meinen Mann betragen , als es zuvor , der Fall war . Ich bin überzeugt , daß auch Sie , guter Vater , nichts weiter von mir erwarten werden . - Denn traurige Erfahrungen Ihres Lebens , haben Sie ja belehrt , wie zerstörend Familien-Verbindungen , für häusliches Glück sein können . Wie viel mehr , würden Sie glücklich gewesen sein , wenn früher , ein Weib Ihnen zur Seite stand , daß fest an Sie sich anschloß und für Sie , mit kräftigem Gemüt , jeder Aufopferung fähig war . Jemehr , das Leben , uns mit schmerzlichen Erfahrungen bereichert - die Auflösung der natürlichsten Verhältnisse , zur Wahrheit wird - je notwendiger ist es , für die Sicherheit des einzigen Verhältnisses , das dem Weibe noch übrig bleibt , alles zu tun ! Und , wäre am Ende auch dies der Vergänglichkeit unterworfen , so lebt eine unvergängliche Kraft in ihr . Diese Kraft , ist ihr Selbstbewußtsein und mit diesem kann und wird sie nie untergehen . - Ich weiß nicht , in wiefern Sie vielleicht geneigt sein werden , von dem Inhalt dieses Briefes gegen Minna Gebrauch zu machen . Auch stelle ich es Ihnen frei , denn ich fürchte Mitteilungen der Art nicht , weil sie nichts enthalten , was ich Minna nicht schon gesagt hätte , oder noch sagen werde . Nur wünsche ich Ruhe , und daß mein Haus , das außerdem , der Wohnsitz des Friedens ist , nicht mit Szenen befleckt werde . Ihnen , lieber Vater , und Allen , die über mein Verhältnis mit Spaziers , zu richten , geneigt sind , stelle ich noch die Überlegung anheim , daß es sich herrlich über diese räsonnieren läßt , wenn ein Raum von zwanzig oder dreißig Meilen , zwischen Menschen und Menschen liegt . ich bekenne laut , daß ich es dem Schicksal danken werde , wenn es einmal einen von uns beiden , aus Leipzig führt ! - Aus allem , was ich Ihnen gesagt habe , wird Ihnen hervorgehen , daß es mir sogar lieb sein würde , wenn Sie Ihren Einfluß auf Minna zum Guten anwenden wollten . Wenn es geschehen kann , ohne meinen Namen zu berühren wird meine Ruhe dabei gewinnen , und nur auf diese , mache ich noch Anspruch ! Ich glaube daran , daß sie auch zu mir Liebe haben ; wenn es gleich Zeiten gibt , in welchen sie erstickt zu sein scheint . Auch Ihre Liebe zur Gerechtigkeit , kann nur eine Zeitlang schlummern . Darum überlaße ich alles der Zeit ! -Leben Sie wohl , mein guter Vater ! Der Himmel erhalte Ihnen den Frieden , und das Glück , in dessen Besitz Sie jetzt sind , und wovon mir die Bestätigung sehr wert ist ! Sagen Sie Ihrer lieben Frau , den Dank der Tochter , für das Glück , das Sie dem Vater bereitet . Noch eimal , leben Sie wohl ! E'. M. NB . Mein Mann empfiehlt sich Ihnen , und wird mit nächster Post , das Repertorium , durch Herrn Maurer in Berlin , an Sie gelangen lassen . Den Brief an Caroline , habe ich der Post übergeben . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

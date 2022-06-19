@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0949">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Karl August von Wangenheim. Meiningen, 3. Februar
+                    1811, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Briefe über den Dichter Ernst Wagner, hg.
+                            von Friedrich Mosengeil, Bd. 2, Schmalkalden: Varnhagen 1826, S.
+                            147-150.</bibl>
+                  <desc type="accMat">Von Johann Ernst Wagners Sohn Anton
+                            angefertigtes Pastellbild des Truchseß von Wetzhausen.</desc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Wagner’s sämmtliche Schriften,
+                            hg. von Friedrich Mosengeil, Bd. 12, Leipzig: Fischer 1828, S.
+                            250-253.</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-02-03" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004599">Karl August Freiherr von Wangenheim</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-001572">Friedrich Haug</persName>
+            </correspAction>
+            <note>Zur Datierung: Wie aus Johann Ernst Wagners Brief vom 3. Februar 1811 an den
+                    Truchseß von Wetzhausen hervorgeht, wurde vorliegender Brief am selben Tag
+                    verfasst. Der Truchsess war nach einem dreiwöchigen Aufenthalt in Meiningen am
+                    1. Februar1811 zurückgereist. Aus <ref type="letter" target="JP-UB0951">Friedrich Haugs Brief in Gedichtform vom 9. März 1811</ref>, der sich
+                    direkt auf vorliegenden Brief bezieht, lässt sich vermuten, dass Brief und
+                    beiligende Pastellmalerei direkt an den literarischen Zirkel im Hartmannschen
+                    Haus in Stuttgart gerichtet war.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-013034">Wangenheim-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012183">Festlichkeiten</term><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-011937">Kunst</term><term xml:id="JP-012330">Literarisches Leben und Schaffen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wann Ew. Exzellenz diesen Zeilen den ersten Blick werden geschenkt haben , so bitte ich , weder nach der Unterschrift zu sehen , noch weiter zu lesen , sondern vor allen Dingen das kleine , hier beifolgende , Gemälde auspacken zu lassen und dessen lebendes Original gütig zu erraten . - Nun also , mein Verehrtester ! Er war drei ganze liebe Wochen lang hier , - täglich bei mir - und mein , und will es ewig bleiben ! Ehegestern , als er fortging , habe ich ihm bitterlich nachweinen müssen . Ich habe zwei liebe , zu Malern bestimmte Jungen . Der Eine , ein 12 jähriger Porträtmaler , hatte das Glück , daß unser herrlicher Truchseß ihm saß ; Anfangs zu einer Kreidezeichnung , die unsere Herzogin behalten hat ; dann noch zu diesem Pastellstückchen . Ich wollte dies an Cotta schicken und ihn bitten , einen kleinen Steinabdruck ( denn in Stein muß eigentlich das Konterfei dieses romantischen altritterlichen Grenzsteines gegraben werden ! ) dem Morgenblatt für seine Freunde beilegen zu lassen , da in jenem nicht nur schon öfter von ihm die Rede gewesen , sondern seine Freunde auch , besonders durch Kesslers Briefe , gewiß im t. Publikum sehr vermehrt worden sind . Aber nein ! dachte ich nachher ; Schade was für die öffentlichen Freunde : ich schenke es lieber seinen Stuttgarter Privatfreunden ! Denn über diesen hielten wir in den Tagen der Vereinigung auch einige Sitzungen . Er versetzte mich mit seiner hohen Menschenwärme so ganz mitten in ihren klassischen Abendzirkel , daß ich armer gelähmter Kranich mich dennoch plötzlich gehoben und dorthin getragen fühlte , wo Wangenheim sich mit Hartmann , Hauch , Weisser etc. zu gemeinsamen hohen Genüssen vereinigt hat . Und so seid mir denn gegrüßt ihr Trefflichen ! Er hat Euch mit schönen Nachklängen der Erinnerung von Neuem als edle deutsche Männer anerkannt . Nehmt auch meinen Handschlag , und mit ihm ewige Achtung , Freundschaft und Treue . Verschmäht mich nicht ! Bin ich gleich nicht so groß , vornehm , geistreich , gelehrt wie Ihr - nicht so gut und stark , als Er , so bin ich doch auch eine gute deutsche Haut ; ein gutwilliger Mensch , dessen Herz auch aus dem Blütenstaube von Gottes Herrlichkeit gemacht ist , wie Eure schönen Herzen . Und da habt Ihr sein Bild ! Aber zürnt und lächelt nicht über den armen Knaben , der Euch noch kein Kunstwerk zu reichen vermag , sondern nur den schwach , - aber höchsttreu , - aufgefaßten Schattenriß eines Edlen , von dessen Herzen sich ehegestern der liebende Knabe mit so großem Jammer losriß , daß selbst der gute Ritter zu Tränen gerührt war . Habt Nachsicht für ihn , der zufällig einen elenden , ganz zerfetzten Pergamentrest zum heiligen Bilde benutzen mußte , - noch in keiner Lehre war , sondern nichts hat , als das , was ihm Gott zur schönen Ausstattung für diese Welt mitgab : die himmlische Gabe , das Menschenantlitz zu lieben und in liebender Treue seinen Brüdern wiederzugeben in Zug und Farbe . Nehmt seinen Gruß und das kleine Bild seines Geliebten freundlich an , Ihr holden , gastfreundlichen Südländer ! Und ziehen einst die Brüder , auf ihrer Kunstwallfahrt durch die weite Welt , auch zu Stuttgarts gastfreundlichen Toren ein - o dann denkt des kleinen Geschenks noch gütig , und helft ihnen zu einer guten Arbeit ; gebt ihnen auch ein Abendbrot und laßt sie einen Becher mit Euch leeren zum Andenken eines ehrlichen deutschen Burschen , der dann ganz sanft bei den Brüdern des Staubes ruht , während sein befreiter Geist dankend zu Euch herüber blickt . Sie verzeihen dem alten Schwärmer , der sich auch endlich fröhlich in sein Grab hineinzuschwärmen gedenkt ; - ja , Sie verzeihen ihm ! . . . etc . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

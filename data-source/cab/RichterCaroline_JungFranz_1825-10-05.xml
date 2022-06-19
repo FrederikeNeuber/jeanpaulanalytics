@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0077">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Franz Wilhelm Jung. Bayreuth, 5. Oktober 1825, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 4 S.</p>
+                        <p> Über dem Brief vfrH: <hi rendition="#aq">An Jung</hi>.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Persönlichkeit, S. 349-350,
+                            Nr. 348 (unvollständig).</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1825-10-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001981">Franz Wilhelm Jung</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012539">Frankfurter Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-011966">Gesamtausgabe (Jean Pauls sämmtliche Werke)</term>
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Verehrungswürdigster Mann ! Seit vier Wochen habe ich Ihren teuren Brief in Händen diesen Beweis des gütigsten Andenkens , der meinen Mann und mich innig gerührt und beglückt hat . Wie sehr hoffte ich , daß mein Mann im verfloßenen Frühjahr , Sie wiedersehen würde , weil er die Idee einer erheiternden Reise hatte , ich hoffte damit Trost und Heilung für seine Augen verbunden zu sehen , indem ich sein Weitergehen bis Bonn , zu dem berühmten Walther wünschte , aber sein Gesundhitzustand erlaubte die Realisierung dieses Plans nicht . Nach einem leidlich durchbrachten Winter , hoffte ich so viel von dem Sommer , aber wider alle Erwartung sahen wir ihn von Monat zu Monat schwächer werden . Die Augen die früher der wichtigste Punkt seiner Existenz für uns waren , stehen jetzt im Hintergrunde zumal es entschieden ist , daß ein heilbarer grauer Star sich unaufhaltsam fortbildet , und seine Reife auf dem linken Auge im kommenden Frühjahr Stadt finden kann , wenn der Allgütige Ihm das Leben erhalten wolle . Aber , ich muß es Ihnen sagen , seine Lebenskräfte schwinden sichtlich . Eine außer ordentliche Abmagerung des Oberleibs , und eine seit 4 Wochen überhand nehmende Geschwulst des Unterleibs und der Füße verraten nichts Gutes . Der treffliche Mann wurde schon seit Jahren von einer oft wiederkehrenden Diarrhöe gequält , die sich aber seit dem Monat Juni so eingenistet hat , daß man fürchten muß , sie bedeute eine größere Schwäche der Eingeweide als man gewöhnlich bei solchen Üblen vermutet . Ich sehe eine Schwäche der Lebenskräfte in allen diesen Zuständen , und habe schon lange mir gesagt , daß alle Kunst dagegen nichts ausrichten wird . Urteilen Sie von meinem Zustande ! Es ist wohl das Herzzerreißeste was es für den Menschen auf dieser Erde geben kann , ein teures Leben vor seinen Augen langsam vergehen zu sehen , es ist hundertfacher Tod , denn mit jedem Erwachen , nach einem in Täuschung einwiegenden Schlummer , steht das Bild der schreckenden Zukunft deutlich vor unserer Seele , und wir empfinden im Voraus die Schmerzen des Verlustes . Daß ich nur mit meinen Kindern in der aufmerksamsten Pflege , einigermaßen Beruhigung finden kann , werden Sie begreifen . Diese teuren Minuten die das Schicksal uns noch gönnt , Ihn zu haben , eifersüchtig zu benutzen ist seit einem Jahre , mein Bestreben , und so haben wir in ununterbrochener Nähe um seine Person die innigsten gegenseitigen Mitteilungen uns gewähren können die früher in unserer ganzen Ehe , wegen Seines isolierenden Arbeitens nicht Stadt hatten . Welch ein Genuß für mein durch die teuersten Verluste vom Leben abgewandtes Gemüt , meinem Mann durch Unterstützungen allerlei Art wahrhaft nützlich sein zu können , und das mit der rührendsten Liebe und einer zu herablassenden Dankbarkeit erkannt zu sehen . Es waren selige Minuten die an Gehalt alles übertrafen was der Jugendzauber der enthusiastischsten Liebe , nur gewähren kann , denn es war ein festes sicheres Gefühl . Vergeben Sie , teuerster Mann , Sie durch diese betrübende Schilderung bewegt zu haben - vielleicht gönnt uns Ihn der Himmel doch noch , allein ein sehr aufrichtiger Arzt , nahm mir letzthin alle Hoffnung . Ein unendliches Glück ist es , daß der Teure , gar keinen Gedanken der Gefahr hat . Noch arbeitet er täglich an der Vollendung seines Buches über die Unsterblichkeit , allein es ist sichtlich wie viel Anstrengung es ihm kostet . Durch Vorlesen und Gespräche suchen wir ihn davon abzuleiten , so geht der Morgen hin . Nachmittags geht er zu mir herüber , und es sind die behaglichsten Minuten wo er auf dem Sofa liegend sich der Unterhaltung darbietet die ich mit meinen beiden Töchtern ihm gewähren kann . Seine Wünsche gehen nicht weiter hinaus , als nach dieser ungestörten Ruhe , und so ist er oft unglaublich heiter . Jakobi , Herder die Schriften von Herbart und Kastner , hört er mit unverganglichem Interesse an , oft auch etwas Ästhetisches . Überraschend ist immer noch ein Gespräch mit interessanten Fremden , wie z. B. Schelling , sein Scharfsinn , und sein unversiegbarer Witz . In solchen Minuten täuscht Er selbst meine bange Furcht , durch den Glauben , eine so kräftige Natur könne sobald nicht untergehen . Haben Sie die " Bücherschau " oder Nachschule der Ästhetik von Ihm gelesen ? welche im Juni bei Max Joseph in Breslau herauskam . Mein Mann konnte sich die Freude nicht versagen , Ihren Torso darin , anerkennend zu bemerken . Jetzt dringt man von allen Seiten in Ihn so wie Goethe jetzt zum drittenmal , endlich die Herausgabe seiner sämtlichen Werke zu unternehmen . Da diese indem sie unverändert sein soll , nur ein Ordnen und kein Schaffen veranlaßt so ist wohl dieses die passendste Arbeit in seinem kränklichen Zustand ; aber ist es nicht über alles wehmütig daß der geliebte Mann , den daraus hervorgehenden Gewinn vielleicht nicht genießen soll ? O beten Sie mit uns , daß die gütige Natur an Ihm ihre Wunderkräfte beweise ! O wie gern gäbe ich mein Leben für das Seinige ! Die Nachrichten von Ihnen und Ihrer teuren Familie , Ergehen , haben uns über Alles erfreut . Sie tragen Ihr Augenleiden mit einer so würdevollen Ergebung , daß man nur wünschen kann , Ihre übrige Gesundheit bleibe auf der Stufe des Wohlseins wie sie zum Preis des Ewigen jetzt ist , noch lange , lange ! Mit dem innigsten Gruß der Verehrung und Liebe nennen Sie mich und die Meinigen , den Ihren ! Caroline Richter geborene Mayer . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

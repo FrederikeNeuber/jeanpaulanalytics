@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0902">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 10. Juli 1809,
+                    Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Kalb, S. 130–132, Nr. 106 (HE
+                            Berend)</bibl>
+               </witness>
+            </listWit>
+            <p>Die Handschriften der Briefe von Charlotte von Kalb an Jean Paul und Caroline Richter sind seit
+                    dem Ende des Zweiten Weltkriegs verschollen. Mit Ausnahme eines Briefes sind
+                    sämtliche Briefe in der Briefsammlung Paul Nerrlichs: »Briefe von Charlotte von
+                    Kalb an Jean Paul und dessen Gattin« (Berlin: Weidmann 1882) veröffentlicht, ein
+                    weiterer Brief ist in einer Abschrift Eduard Berends überliefert, dem die
+                    Handschriften, die sich im Briefnachlass Jean Pauls befanden, noch zugänglich
+                    waren. Berend hat auf dieser Grundlage in seinem Exemplar der »Briefe von
+                    Charlotte von Kalb an Jean Paul und dessen Gattin« handschriftliche Korrekturen
+                    vorgenommen. Die Korrekturen und Ergänzungen aus diesem Handexemplar (HE), das
+                    zusammen mit dem Nachlass Berends im Literaturarchiv Marbach aufbewahrt wird,
+                    werden hier in Stellenkommentaren mit dem Hinweis auf Berends HE kenntlich
+                    gemacht. Nerrlichs Edition der Briefe Charlotte von Kalbs kann als zuverlässig
+                    gelten – mit der Einschränkung, dass er in Orthographie und Interpunktion stark
+                    normierend in die Texte eingegriffen hat. Ergänzungen und aufgelöste Abkürzungen
+                    hat Nerrlich im Ganzen sorgfältig kenntlich gemacht. Im hier edierten Text
+                    wurden die Herausgeberanmerkungen (unlesbare Stellen, fragliche Lesungen,
+                    Hinweise zu Textverlust sowie Ergänzungen und aufgelöste Abkürzungen)
+                    durchgehend aus D übernommen. Nerrlichs Ergänzungen in den Datumszeilen
+                    (insbesondere Jahresangaben) wurden hingegen nicht übernommen.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1809-07-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012349">Reflexionen über das Leben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>In langer , langer Zeit hatte ich nichts Erfreuliches vernommen . Die erste angenehme Nachricht war , daß Richter durch die Sorgfalt und Achtung des Fürstprimas einen Gehalt von der Akademie zu Frankfurt erhält . So ist endlich einmal einer meiner Wünsche erfüllt worden , und der letzte ! Denn für mich wünsche ich nichts , mit dem Wünschen , Hoffen etc. schadet man immer der Gegenwart , denn die Zukunft ist immer ein anderes , als wir ahnden und meinen . Der nun bald ein halbes Jahrhundert mit so trüben Ereignissen erfüllt wurde , das Wesen wird nicht zagen noch die letzten Szenen des Lebens fürchten . Sie werden nun mehr südlicher ziehen , sobald der Landesfriede die Wahl eines Aufenthalts in jenen Gegenden gestattet . Wer in jenen Gegenden wohnt , hat zwiefach gelebt , die mildeste Frucht der Genüsse labt ihn . Die Gesellschaft ist im allgemeinen wie überall zu vermeiden . Ach , aber es ist immer der Hauptgewinst , wenn sich der Pilger eine Heimat schafft und ein Glück . In uns ist alles , und das außer uns muß er zu genießen verstehen . Einen leichten Gang hat nur das sorgenfreie Herz - - Nichts mehr von diesem Wissen und dieser Mühe . Sagen Sie mir nur ja bald , wie es mit Ihnen steht in der Gegenwart und Ihrem notwendigen Vorhaben . Mit mir geht es , wie Ihnen bekannt ist ; emsiger sind wir , suchen unsere Erhaltung nur in diesen Besorgungen , wollen keine Hoffnung noch Aussicht anerkennen . Die Edda würde in jeder Lage des Lebens klug und tätig sein , und sie ist es für ihre Jugend zur Verwunderung aller , die sie kennen , in dieser . Sollte Richter den Fürst-Primas bald sprechen , so findet sich vielleicht eine Gelegenheit , mich diesem erhabenen Manne zu nennen , der mit seiner bekannten Milde meiner gedacht hat . Aber er hat auch nichts zu unserem Vorteil in Bayern bewirken können ; und wäre es auch gelungen , so hätten dieser Zeit Leiden es wieder geraubt ; denn welch ein Zustand muß jetzt in Bayern sein , in meinem lieben Franken ! Es sind Jahr und Tag vergangen , und ich habe aus dieser Gegend von meinen Verwandten keine Nachricht erhalten ; wissen Sie von ihnen , so sagen Sie mir_es , das Traurige muß ich ohnehin vermuten . In Frankfurt lebt auch eine Verwandte von der Kallbischen Familie - Frau von Stubenvoll geb. von Hain . Wenn Sie , liebe Freundin , ( gewiß nur zufällig ) von derselben hören sollten oder sie vielleicht sehen , so erwecken Sie die Erinnerung an meine Edda , aber ohne mich zu nennen . Doch es kann weit natürlicher sich ereignen . Kommen Sie nach Frankfurt , so gebe ich Ihnen einen Brief an meine Cousine v. Stubenvoll , es ist eine gute Frau , verwandt mit den reichen Patrizierfamilien in Frankfurt , Hain , Adlerflycht , Günderode ; sie ist reich oder wohlhabend und wird von Reichen wieder beerbt , denn sie hat keine Kinder . Sie wurde mit meinen Schwägerinnen erzogen und war an einen Oberforstmeister nahe bei Kalbsrieth verheiratet , wo ich sie sehr oft gesehen habe . Sie ist wohl 60 Jahr alt , und wenn sie Edda in ihrem Testament bedenkt , so wird sie Ihnen gewiß gefallen . Und da ich so wenig für das gute Kind , die brave Tochter , tun kann , so will ich wenigstens nichts versäumt wissen , daß ein anderer für sie sorgte . Schreiben Sie mir bald und erzählen mir viel , ja alles , was Sie betrifft ! Ihre treu liebende Charlotte . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

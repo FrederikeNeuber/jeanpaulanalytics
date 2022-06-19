@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0715">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 3. August
+                    1816, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 ¾ S.</p>
+                        <p> Anstreichung vfrH.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1816-08-03" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0345">Von Caroline Richter an Johann
+                        Siegfried Wilhelm Mayer. Bayreuth, 28. Juni 1816, Freitag</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012314">Empfehlungen</term><term xml:id="JP-012274">Hauswesen</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine innigst geliebte Caroline ! Seit fast zwei Monaten durch mein Übelbefinden von meinem Schreibe Pult entfernt , bin ich heute dahin gehinkt , um Dir von mir Nachricht zu geben . Daß mein Haupt Übel beseitigt ist , weißt Du , aber noch leide ich an einer bis jetzt unheilbaren , noch immer schmerzhaften Fuß Wunde ( ein Knöchel der inneren Seite des rechten Fußes ) und harre seit einer vor 3. Tagen wieder geänderten Kur Methode auf endliche Befreiung von meinen Schmerzen , und der mir zu dem Ende obliegenden möglichsten Enthaltung von aller Fuß Bewegung . Da indessen meine Fuß Wunde durch die an der leidenden Stelle obwaltenden Gicht verschlimmert ist , und ich dagegen ein mineralisches Bad , auch innere Mittel aus Spießgelaß bestehend , brauche , so hoffe ich endliche Erlösung von meiner mir aufgedrungenen Untätigkeit ; und werde Dir darüber sogleich Nachricht geben . Einige meiner angenehmsten Stunden verdanke ich Dir durch Einführung des Professor Köpfen aus Landshut , in mein Haus . Er hat mich zweimal besucht , u mich im höchsten Grade interessiert , so daß ich ( wenn er nicht wiederstrebte ) alles anwenden würde , um ihn hier bei der Universität angestellt zu sehen . Aber auch bloß seine Bekanntschaft wird mir immer eine der angenehmsten Erinnerungen sein . Seine Frau haben wir nicht kennen lernen , eben wegen meiner Krankheit . Daher er auch bloß Tee bei uns getrunken hat . Jetzt ist er nach Lübeck gereist , u es steht dahin , wie bald ihn seine Geschäfte daselbst erlauben werden , nach Landshut zurück zu gehen , u Dich gelegentlich , auch von dem Eindruck zu unterhalten , den ich auf ihn gemacht zu haben mir schmeichle . Daß Minna mit ihren Kindern hier gewesen ist , weißt Du . Besonders hat mich Minona ( Dein anrührendes Ebenbild ) interessiert . Übrigens ist Minna nach Strelitz u Emma in Rügen zurück , u alles wieder in seinen alten Stande . Zu den Segnungen des Himmels rechne ich einen sehr treuen u gutmütigen Bedienten , der mich mit herzlicher Anhänglichkeit pflegt . Ferner u hauptsächlich die nach langem Hader , unter großen Anstrengungen von meiner Seite , zu Stande gekommene Einigung mit meinem Bruder über unsere Vermögens Verwicklungen ; u hoffe ich nur von dieser Seite , bald , obgleich als ein geschundener Marsyas aufs reine zu sein , u meinem Tode mit Ruhe entgegen zu gehen . Vorläufig bin ich mit dem Verbrennen aller Papiere beschäftigt , die sich bei mir angehäuft haben , und meinen Erben nur zur Last sein würden . Auch das beruhigt mich immer mehr , obgleich die Auswahl ein sehr lästiges Geschäft für mich ist . Andere Hoffnungen eines verbesserten Wohlstandes liegen auch noch in der Ferne ; u werden eben darum als ungewiß Vorjetzt übergangen . Du wirst mir Freude machen , wenn Du mir bald schriebst . Auch wünschte ich eine Zeile von Ottilie . Denn Emma habe ich persönlich kennen lernen , von Max aber habe ich ein in seiner Kindheit geschriebenes Zettelchen ; von Ottilie aber noch nichts , es sei denn daß sie an den Arbeiten Teil genommen , die Du mir jährlich geschickt hast , u woran ich mir mit Vergnügen , einen Anteil der Emma u Ottilie denke . Grüße Deinen Mann , u Deine sämtliche Kinder ; von meiner Frau hast Du seit kurztem selbst Nachricht erhalten ; u grüßt sie Dich herzlich . Dein treuer Vater Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

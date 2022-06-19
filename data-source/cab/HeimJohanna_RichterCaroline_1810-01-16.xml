@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0608">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johanna Heim an Caroline Richter. Meiningen, 16. Januar 1810,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001604">Johanna Heim</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1810-01-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011840">Meininger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012699">Meininger Gesellschaft</term>
+               <term corresp="#JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>So nahe ich immer mit meinem Herzen bei Ihnen geliebte Freunde ! bin , so sehr wünsche ich Euch Edle Menschen nicht allein in Geist - sondern von Angesicht zu sehen , nichts hält mich von diesen Entbehren schadlos als Ihre herrliche Briefe , die ich wenn ich bescheiden sein will nicht so oft erwarten kann . Alle die Menschen die ich aus Bareuth sehe , spreche - wissen nichts von Ihnen , als daß Sie da wohnen u sagen : ja es sind gar vortreffliche Leute wir kennen sie aber nicht - das genügt nicht . Diesen Brief schicke ich auch mit einem Juden der hier eine Glaubensgenossin heiratet , mir scheint dieser Jude doch weit gebildeter als unsere hiesigen , er bekommt ein artiges u. sehr gutmütiges Mädchen u. recht reinlich artig und geschickt , die ich Ihnen empfehlen will , sie verdient daß Mann ihr gut ist , es war eine Freundin unserer Mädchen . Mein Mann der sich Euch geliebte empfiehlt , befindet sich wohl nachdem er einen bösen Winter hatte der ihm mit Revmathismus entsetzlich geplagt hat . jetzt geht_es wieder besser u. er besteigt täglich seinen Berg . Ich bin immer wohl und mache das alles so gut tut . Meine Kinder wachsen auf , 2 Mädchen die Männer nehmen können habe ich , jede ist groß gut u. resp. auch schön , allein die Männer werden immer seltener die durch Fleiß und Endlohnung einen eigenen Herd schaffen mögen . Wagner geht noch immer seinen langsamen Gang , der Kopf und das Herz ist frisch und Mann verweilt noch gerne an seiner Seite , seine Kinder wachsen herrlich empor , beide Junges wollen sich zu Künstler bilden . Aber mein Freund Panzerbieder , der wackere der herrliche Kopf ist im Reiche der Toten sein Geist wandelt über Sternen - er starb an der Brustwassersucht er sah seinen Tod mit schleppenden Schatten kommen , wußte den Tag seines Totes , kämpfte ritterlich zu erst als er über sich siegte - denn das Verlaßen seiner Kinder 4 - seiner geliebten Frau - zu verlassen die er alle so innig liebte - ach der Kampf war hart u. doch Gott tröstete er stärkte ihn nur er konnte seine Verlaßene Frau aufrichten u. sie hinweisen auf göttliche Vorsehung der Fall war hart , er hinterließ seine Frau mit 4 Unerzogene Kinder u keinen Heller Vermögen -. 2 älteste sind Knaben die jetzt viel bedürfen die Herzogin ist gütig u. will was tun Mann rechnet viel auf edle Menschen Panzerbieters Segen wird noch auf sie kommen er war gut u. fromm . Ich habe viel gelitten , seid meinem 14 Jahr waren wir bekannt , u. nachher innige Freunde , Schwendlers verwenden sich viel um sie - ob v. Dauer - Küssen Sie Ihren ganz herrlichen Mann Ihre liebe Kinder - Mondtags reisen die herrlichen in die Schweiz - im September werden sie wieder erwartet . Wann machen Sie Ihr Versprechen wahr - wann kann ich hoffen Sie Ihren Mann u. Kinder zu sehen ? Ihre treue Freundin Heim Louise Heim ist wohl hergestellt , allein ihre völlige Gesundheit ist nicht wieder da , immer liegt sie was - der alte lebt nach seinen alten Ton . Von den Mädchen die ehemas bei Ihnen diente , habe ich nicht gehört , hieß sie nicht Lore u. war aus Rohr ( wie Sie recht schön sagen wollten ) aus Ruhr . Wo Spitz her war . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

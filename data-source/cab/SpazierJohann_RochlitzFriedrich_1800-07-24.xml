@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0694">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl Spazier an Friedrich Rochlitz (?). Dessau, 24. Juli 1800,
+                    Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBB</institution>
+                        <collection>Slg. Darmstaedter</collection>
+                        <idno type="shelfmark"> 2a 1788: Spazier, Johann Gottlieb Karl,
+                                    Blatt 3-5</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>3 Bl.
+                                    8°,
+                                    6 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005665">Dessau</placeName>
+               <date when="1800-07-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003532">Friedrich Rochlitz</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012547">Zeitschriften</term>
+               <term corresp="#JP-012317">Musik</term>
+               <term corresp="#JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Um Sie wegen Ihrer Vorschläge nicht länger als nötig ist , in Ungewißheit zu lassen , so melde ich Ihnen sogleich meinen Entschluß , es damit aufzunehmen , sofern nicht ganz unvorhergesehene Umstände denselben beschränken sollten . Ich meine damit insonderheit die Übersicht der Musik des verflossenen Jahrhunderts , wozu nicht wenig Apparat u also Zeitaufwand gehören wird . Doch sollen Sie dieserhalb in keine Verlegenheit kommen . Ich werde , was die Umstände mit mir wollen , auf jeden Fall zum besten der muss . Zeitung zu benutzen suchen u da in Absicht meiner Lage sich bald etwas Entscheidendes ereignen muß , so sollen Sie zeitig genug von dem Nachricht erhalten , was u wieviel mir möglich sein wird , um danach Ihre weiteren Entschließung zu nehmen . Schicklicherweise kann doch nur mit dem Eintritt des neuen Jahrhunderts davon die Rede sein , worüber wir uns verstehen , u bis dahin hat jeder , es sei wer da wolle , noch Zeit genug . Die Mozartische Sache werde ich nach Ihrem Vorschlage , der auch mir sehr richtig scheint , anzuzeigen mich bemühen . Herr Müller , der damit nun eigentlich am innigsten vertraut sein muß , wäre , wie mich dünkt , der eigentliche Mann dazu . Unterdes will ich mich auch wohl zu orientieren suchen . Die Hauptsache ist ganz richtig , daß der Gesichtspunkt der Mozartischen Komposition höher hinauf u über das , was daran sich bloß auf dem Instrumente , als solchem , verarbeitet , hinweg gestellt werde . Es ist dabei etwas erstaunlich Einseitiges sowohl als Vielseitiges möglich , was , um vor der Nation würdig darüber zu sprechen , in einem sicheren Punkt , von dem allein die Kunst ausgehen muß , gefaßt zu werden . u einem großen Mann in seiner Art kann man wohl , so wie dem Publikum , auf das er wirkte , keinen würdigeren Dienst leisten , als wenn man seine Individualität von dem , was Ideal in der Kunst ist u um welches sein Geist sich herumbewegt , erleuchten läßt . Gelingt es mir , dies gut zu fassen u auszuführen , so will ich mich selber freuen , Ihrem Blatte einen Dienst geleistet zu haben . Über das Liederbuch werde ich meine Meinung sagen u über den Volksgesang zugleich mich etwas breiter machen . Die Sache ist erheblich genug u es will immer noch nichts Rechtes dafür geschehen . Auch für den Merkur soll etwas eingespielt werden , das auf Teilnehmung des Publ. soll wirken können . Aber nun ein Wort unter uns . Ich habe keine Ursache mit dem Gewinn , der mir seither von der m. Z. geworden ist , zufrieden zu sein . Seit einem ganzen Jahr , binnen welchem ich doch manches dafür geschrieben , habe ich keinen Deut von H H. erhalten . Um Weihnachten schrieb er mir , er sei dieserhalb noch in Rückständen u er werde wieder Musikalien zur Anzeige schicken . Ostern u Fest Johannis kamen heran , u ich sah kein Blatt , noch weniger Geld . Bei der Rimesse wegen des Gretry geschahen der Sache abermals keine Erwähnung u ich kann nicht leugnen , daß ich darüber so wie über noch manches Andere gegen ihn unwillig wurde . Ich hatte mit meiner Familie so sehr auf eine namhafte Summe gerechnet u ihn dieserhalb wirklich rührend gebeten , mir den im traurigsten aller Winter gezahlten Abschlag jetzt in der Not nicht abzunehmen , sondern auf eine bessere Zeit zu umschieben , die ich insonderheit bei der Herausgabe der bewußten Zeitung ersah . Stadt alles dessen ignorierte er meinen Wunsch , meine Bitte , zog mir mehr als jenen Vorschuß vom Honorar des Gr. ab ( es war 1 Ld. bedungen - ein ohnehin für die mühselige Arbeit sehr geringer Preis ! - u ich erhielt nur 5 rth . in Kreuzerstücken , wofür er erst nach Geschreibe das Agio gegen Spaziere nachschicken mußte ) . Die Zeitungsgebühren wurden ganz mit Stillschweigen übergangen u hinterher schrieb er mir bei Übersendung des Nachschusses , er habe gemeint , damit bei mir noch im Vorteil zu sein . Aus einstiger Achtung für Härtel u um in meiner bedrängten Lage nicht einen Mann wie Er mir abgeneigt zu wissen , kam ich vorzüglich mit sogleich nach L. u glaube durch mein Zuvorkommen u alle ersinnliche Delikatesse das Mißverständnis , als beseele mich Eigennutz , entfernt zu haben . Unterdes ist die Sache wie sie ist . Bei dem Vorteile , welchen die muss . Zeitung jetzt gewiß schon abwirft , wäre es , gegen andere Zeitblätter gehalten , sogar wenig , wenn für einen Bogen Rezensionen wenigstens , wobei sich ohnehin bei gehöriger Ökonomie wenig verdienen läßt , nur 1 Ld. gezahlt würde , u nun - gar Nichts , aber alles Gelieferte seit einem Jahre auf das ehemals ab u zu Erhaltene zurückgeschlagen ! Können Sie mir es verdenken , Freund , wenn ich , bei noch manchen anderen Umständen , in sofern ich mich seither überhaupt für mehr überflüssig als im Anfange gehalten glaubte , aber in sofern ich sah , daß der Gehalt mancher Rezension wenigstens nicht eben sonderlich besser war , u ich vielleicht die Ahnung bekam , als würden viel Dinge die erzählen u berichten aufgenommen , weil sie füllen ohne dem Verleger Lasten zu machen ect können Sie mir böse sein , wenn ich viel von der Wärme gegen das Blatt verlor , für das ich einst so lebhaft empfand ? - Ich erhalte jetzt von Ihnen den überzeugendsten Beweis , daß Sie mir etwas anvertrauen mögen ; aber die elenden Kleinigkeiten , die ich da von letzthin bei mir noch liegen habe , waren nicht dazu geeignet , mir Lust zur abermaliger Teilnehmung zu geben . Daß ich dies nun Alles bloß Ihnen allein zu sagen gehabt habe , ergibt sich aus der Natur der Sache . Es ist ganz überflüssig , Sie um die strengste Diskretion zu bitten . Was ich Ihnen sehr gerade heraus sage , läßt dennoch eine ziemlich schiefe Ansicht zu . Aber das mögen Sie immer bei Härtel bewirken daß er weniger kurz mit Honorar ist . Der zuerst genannte Aufsatz kann am aller wenigsten für 1 Ld. angefertigt werden . Meine Zeit muß ich zu sehr zu Rate halten . Fordern mache ich aber nicht ; es soll von Ihnen selber abhängen , was sie anbieten mögen . Dem verschmähten Mspt . werde ich nächstens eine andere Bestimmung anweisen ; bis dahin behalten Sie es doch , sofern sich nicht zufällig eine Gelegenheit findet , es zu placieren . Es tut mir wirklich leid darum das muß ich aufrichtig sagen ; vorzüglich würde mir der Ausfall des Honorars empfindlich sein . Herrn Mahlmann habe ich seither alle Tage erwartet . Noch ist er nicht hier gewesen . Wenn auch daraus nichts würde ! Ich bin auf alles gefaßt . Daß Sie meinen Dank zurückweisen , finde ich gut . Sie sollen aber wohl einstens von mir noch hören , woher die Unsicherheit kommt , die Ihnen an mir auffällt . Man ist , was man hat werden müssen . Leben Sie wohl u gönnen Sie Gutes Ihrem Sp. Wegen des eiligen Schmierens bitte ich sehr um Verzeihung . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

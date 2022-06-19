@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0630">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Leipzig, 2. Juli 1818,
+                    Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1818-07-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012284">Heidelberger Freundeskreis</term>
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012952">Jean Pauls Besuche in Heidelberg</term>
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-012876">Magnetismus, Mesmerismus</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ihr lieber Brief , beste Frau Legationsrätin , hat mich innig erfreut . Durch die Nachricht des Gelingens meines Planes doch Plan ist mir ein widriges Wort wenn es das Herz betrifft , also lieber meiner Veranlaßung aus der Bekanntschaft zwischen Ihnen und der Herzogin von Kurland , Ihnen eine Freude und angenehme Zerstreuung in den trüben Stunden der Abwesenheit Ihres geliebten Mannes zu verschaffen ; aber auch nicht einseitig blieb die Kunde von der Annehmlichkeit dieses Zusammentreffens , denn die liebe Herzogin , schrieb mir von Heidelberg aus , was sie nun nicht mehr bloß vom Hörensagen von Ihnen wußte , und schließt damit daß sie sagt : wir haben einander lieb gewonnen und dann schreibt mir auch der Kirchenrat Schwarz noch den Ausdruck seines Bedauerns daß Sie nicht mit nach Heidelberg kommen , wie auch die Herzogin die Ursache dieses Bedauerns bestätiget hat . Übrigens so lieb , auch als ich die Herzogin habe , so finde ich doch fast mehr Genuß darin , daß sie , indem sie noch bis künftiges Jahr die Freude entbehren muß den lieben Jean Paul kennen zu lernen , die einzige Möglichkeit , seine liebe Frau mehr als von Ansehen kennen zu lernen , dadurch erlebt hat daß er nicht in Baireuth war so sehr ich auch zugleich Ihr Gefühl ehre und begreife , wie Sie neben den geliebten Mann , Ihrer eigenen Erscheinung , Platz zum Eindruck auf Andere , kaum vergönnen wollen . Nun hat die Herzogin vermehrten Genuß , wenn sie nun wieder nach Baireuth kommt , Sie desgleichen , geliebte Freundin , und auch sogar Ihr lieber Mann . Dieser hat mich hoch erfreut , durch einige Zeilen die er so gütig war , dem Brief des K. R. Schwarz beizufügen ; danken Sie ihm doch recht sehr dafür in meinem Namen ich hätte ihm gleich selbst schreiben mögen , allein da er jetzt wahrscheinlich noch oben drein weniger Muße als je hat , sollte mein Dank nicht zugleich für ihn , die Strafe eines Brieflesens mehr werden , dies gab mir vorzüglich der Eigennutz ein , für die Zukunft nicht etwa dadurch einmal eine Nachschrift weniger von ihm zu bekommen ; wie sehr solche Nachschrift erfreut , kann er nicht genug sich sagen . Fräul . Schuckmann wird Ihnen meine herzlichen Grüße ausgerichtet haben und gesagt wie gern ich auch Ihre liebe Gegenwart in meinem Garten mir gewünscht hätte ; jemand aus Baireuth in denselben zu sehen , gab meiner Sehnsucht danach , eine vermehrte Stärke ; sie wird Ihnen erzählt haben , wie ich Ihren lieben Brief aus Liebe und Freude daran , bei mir hatte ; ich zeigte das Blatt aber nicht den Brief . Ich freue mich und wünsche noch recht viel von Ihres liebem Mannes Aufenthalt in Heidelberg zu hören , da ich fast alle seine dortigen Bekannten kenne ; Schlegel , den ich nicht kenne , wird auch viel von seiner Zeit begehrt haben . Daß er den Hellseher selbst hat beobachten können , ist von großen Wert für die beglaubigte Wahrheit dieser Erscheinung . Gestern erhielt ich einen Danksagungsbrief vom Graf Mosczynsky , der auf meinen Rat den Hellseher befragt hatte und zu seiner größten Verwunderung den ganzen Bestand seines Übelbefindens vernommen hatte und nun mit großen Vertrauen die empfohlenen Mittel brauchen wollte , nachdem er anfänglich als bloßer Weltmann , die ganze Sache bespöttelt hatte . Meine Brust ist viel besser geworden und ich bezweifle nicht , daß die Kur die ich noch Fortbrauchen soll , mir ganz helfen wird . Wie gefällt Ihnen der Vers-Band von Heinrots schönen Buch ? noch muß ich Ihnen erzählen , daß er neulich vor mehreren Personen , die es mit Wohlgefallen auffaßten , sagte Jean Paul'n rechnete er unter die Übergangswesen , er sei höherer Natur . Ihren lieben Kindern , sagen Sie doch ja ; recht viel herzliches von mir ; ich würde mich freuen , wenn das Kaleidoskope Ihnen und denselben einigen Spaß gemacht hätte und füge noch hinzu , daß kleine Blumen oder auch nur Blumenblätter in dasselbe getan und alles andere herausgenommen , einen hübschen Effekt machen . Ich habe nicht unterlaßen , der Herzogin die Freude zu machen , ihr zu sagen , mit wie viel Liebe , Sie Sich über sie , gegen mich geäußert hätten . Sie fragen mich , liebe Freundin , wo Fr. v. Berktum sich jetzt aufhält ? ich glaube , noch in der Schweiz . Mein Sohn empfiehlt sich Ihnen angelegentlichst . Nun leben Sie recht wohl , meine teure Freundin , und wenn Sie Sich so bestimmt sagen , als es wirklich ist , wie sehr mich Ihre Briefe erfreuen , erhalte ich gewiß bald wieder ein mir so liebes Geschenk . Ganz die Ihrige Henriette v. Ende </p>
+         </div>
+      </body>
+   </text>
+</TEI>

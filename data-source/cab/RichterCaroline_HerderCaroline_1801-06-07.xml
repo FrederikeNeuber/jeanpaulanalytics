@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1028">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Caroline Herder. Weimar, 7. Juni 1801,
+                    Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">44/216</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1½ S.</p>
+                        <accMat>Ein Exemplar des im April 1801 bei Wilmans in Bremen
+                                    erschienenen Bändchens mit Jean Pauls Texten "Das heimliche
+                                    Klaglied der jezigen Männer; ein Stadtgeschichte; – und die
+                                    wunderbare Gesellschaft in der Neujahrsnacht".</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Herders Nachlaß, Bd. 1, Nr. 40, S.
+                            323-324 (minimale Abweichungen).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Stapf, Nr. 129, S. 89.</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+               <date when="1801-06-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001670">Caroline (von) Herder</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012543">Dank</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Beikommendes Klaglied , verehrte Frau , sendet Ihnen mein Mann nicht ohne Interessen - er erwartet dafür die ihm von unserem teuersten Vater versprochenen Provinzial-Blätter . Sie vollziehende Hälfte des hohen Rates geben es ihm gern ? Der Tag hat sich heute so schön angefangen daß ich mich freue über seine Mitte und sein Ende . Mein herrlicher Richter hat mich durch ein schönes Seelenblatt unendlich gerührt , daß ich Ihnen mitbringe . er hat mein Gemüt von neuem , zum Eifer - zum niemals ermattenden erhoben ihm u ewig nur ihm zu leben in Liebe u Sorgen . Eben war ich dabei Ihnen diese flüchtigen Worte zu senden , und wie überraschen Sie mich ? Herrliche , herrliche Menschen wie dankt Ihnen meine Seele wie beugt sie sich vor Ihren großen Herzen . ich verdiene noch nicht , was Sie aus Großmut mir geben - aber wenn ich meinen Richter nach langen Jahren glücklich gemacht , dann sehe ich mit freudiger Seele zu Ihnen auf , wie ich jetzt meinen Blick senken muß . Dankbar - aber , u ehrfurchtsvoll beuge ich mich Caroline </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1036">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Georg Joachim Göschen. Meiningen, 23. Februar
+                    1805, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>DSBM Leipzig</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">Bö-GS/A/Wagner, J. E./Brief 3 : Kasten
+                                        14</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Geringer Textverlust durch Hitzeschaden.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1805-02-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001349">Georg Joachim Göschen</persName>
+            </correspAction>
+            <note>Auf S. 2 aoR mittig Präsentat: <hi rendition="#aq">Meiningen</hi>, 23<hi rendition="#sup">n</hi>
+               <hi rendition="#aq">Febr</hi>. 805. | <hi rendition="#u">
+                  <hi rendition="#aq">Wagner</hi>.</hi>
+            </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012692">Bildung</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012572">Verlage / Verlegerisches</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wohlgeborener , Hochzuverehrender Herr ! Lassen Sie sich meinen verbindlichsten Dank für Ihren lieben freundschaftlichen Brief wohlgefallen . An Ihrem Schmerz über den abermaligen Verlust eines so edlen Freundes nehmen gewiß unendlich viele brave Menschen innigen Anteil . Ach nein , lieber Mann ! Ich hatte kein reichlicheres Honorar erwartet , als Sie mir anbieten ; und wenn dem Menschen immer die Hälfte seiner höchsten Wünsche gewährt würde , so sollte er allerdings dies für nicht viel weniger ( wie ich mich , glaube ich , in meinem letzten Briefe ausdrückte ) halten , als alles ! Und , bin ich nicht ein noch völlig unbekannter Mann ? Gewiß , Sie sollen mich stets bescheiden finden , es sei die Rede von Geld oder Ruhm . - Ich nehme Ihre Bedingungen mit Vergnügen an , und füge zu einer geringen Erweiterung derselben nur folgendes bei : 1. ) Den Druck wünschte ich - auch des gefälligen Aussehens wegen - mit etwas größerer Schrift gedruckt als das Journal von Frauen . Auf alle Fälle will ich aber darauf rechnen , daß die 10 Bogen , welche Sie haben , wenigstens gewiß zehn gedruckte Bogen ausmachen werden . Das übrige bleibt Ihrem Willen vollkommen überlassen , weil ich überzeugt bin , daß Sie selbst für ein gutes Äussere sorgen werden . 2. ) Ich wünsche noch 8 Freyexempl . zu erhalten , und 3. ) Da ich nicht weiß , wie Sie es mit den Zahlungen der Honorare zu halten pflegen , so will ich hier deshalb meine Wünsche niederschreiben . Ich möchte gern um Ostern - d. h. vom 8n bis 16n April etwa - einen abschläglichen Vorschuß von 150 rth haben ; dann den 1n Jun. noch etwas , und die letzte Summe mögen Sie dann setzen , wie bei anderen Autoren Sitte ist - je früher je besser . Könnten Sie mir dies , wenn es irgend nach Ihren gemachten Gesetzen tunlich ist , gewähren , so wäre es mir eine sehr wichtige Gefälligkeit . - Übrigens wünsche ich alles pr. Assign . an Hrn Israels Söhne allhier ausgezahlt zu erhalten , die ja wohl in Leipzig ziemlich viele Geschäfte machen . Ich werde Ihnen vor Ostern wieder eine Lieferung , und gleich nach der Messe den Schluß des ersten Bandes abschreiben lassen und schicken . [ Textverlust ] desto mehr tut mir die stärkere Hälfte Ihres Briefs deren [ Textverlust ] Ihnen übrigens nicht genug danken kann , edler Mensch - da sie für mich so wichtig , und von einem Manne geschrieben ist , der hier allerdings ein großes Wort zu sprechen hat , und dessen Stimme in Deutschland etwas gilt ! Lieber Gott , es ist mir schon viel Widriges über diese Sache gesagt worden . Noch gestern schrieb mir ein ungläubiger Freund . " Lieber Tasso , nimm mich zu deinem Antonio an , ohne den Degen auf mich zu ziehen ! " Aber ich wollte nur , er wäre mehr als Kammerherr , und ich wäre - Tasso ! Zum Glück geht meine Idee - gerade wie Sie sie verlangen - nur wenig auf Schule , sondern auf Fonds für Künstlerunterstützung , Reisen pp und Ihre Zweifel und Anfälle stehen schon meistens ( und manche , seltsam genug , fast wörtlich ) in meinem Plane , der Ihnen sicherlich noch Interesse abgewinnen soll . Aber sein leidiges Schicksal war vorauszusehen , daß Jedermann ( und gerade die Weisesten ) über ihn aufgebracht wird ehe man ihn kennt . - Ich weide mich einstweilen an dem süßen Gedanken , einen glänzenden Sieg über Ihre Meinung ( hier und da , versteht sich - denn das meiste von Ihrem Urteil ist völlig unwiderlegbar , und wahrhaft vortrefflich gedacht und gefühlt ! ) davon zu tragen , und will Ewr. Wohlgeboren heute nicht durch meine Wärme belästigen . Sie kennen ja die mit jeder Lieblingsidee verbundene Rechthaberei längstens ! - Ich werde übrigens , Ihrem Rate gemäß , das Kunstgespräch hinten anhängen . Aber 50 rth weise ich zum ersten Opfer - ich will doch sehen , ob man mich verlacht und allein stehen lässt und davon läuft ! - Schrecken Sie mich nicht zu sehr ab , trefflicher Freund - denn ach , die Sache ist groß und gut - und ach ! Sie kennen die Welt leider mehr als ich - - Um Ihr neues Journal reißen sich meine hiesigen Damen , daß ich es noch nicht zur Selbstdurchsicht bringen konnte . Ich bitte Sie , mir , ja mit erster Post , noch ein Exempel . gefälligst zu übermachen , weil die Herzig . von Hildburghausen es mit der meinigen halten will , und ich das eine Exempel . nolens volens sogleich anderen Frauen habe preis geben müssen . Die 12 rth Pränumeration werde ich noch nach Ablauf des Termins einsenden . Liefern Sie es denn für 6 portofrei hierher ? Leben Sie wohl . Der Himmel mache jeden Ihrer Augenblicke glücklich - und - nochmals Dank für Ihren herrlichen Brief . Es tut so wohl , wenn das Herz des Nächsten Anteil Schicksale nimmt ! Ihr JEWagner . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

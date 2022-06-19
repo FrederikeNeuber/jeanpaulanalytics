@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0653">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Heinrich Voß an Caroline Richter. Heidelberg, 5. September 1817, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Goethe-Museum Düsseldorf</institution>
+                        <collection>Sammlung Kippenberg</collection>
+                        <idno type="shelfmark">Nr. 3320 (KK 4692)</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S. Über dem Brief vfrH: <hi rendition="#u">An Jean
+                                        Pauls Gattin.</hi>
+                        </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004520">Heinrich Voß</persName>
+               <placeName key="JP-005819">Heidelberg</placeName>
+               <date when="1817-09-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="high" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0467">Von Caroline Richter an Heinrich Voß.
+                        Bayreuth, 28. September 1817</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-011807">Jean Paul-Verehrung</term>
+               <term corresp="#JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ich habe eine große Bitte , und damit sie erfüllt werde , wende ich mich an die teure Gattin des teuersten Mannes , und das ohne allen Umschweif . Ich muß eine Haarlocke haben von dem mir so heiligen Haupte : und die senden Sie mir ich bitte herzlich darum . Oft wollte ich meinen Jean Paul selbst darum bitten , und immer hielt mich etwas davon ab - , ich weiß nicht , war es Schüchternheit , oder Furcht , den Zudringlichen beigezählt zu werden , die sich diese Freiheit wohl oft genommen haben . Aber der Wunsch nach dieser Haarlocke schweigt nicht in mir . Ich besitze einen Wilhelm Tell , mir an einem meiner Geburtstage von Schiller geschenkt : Drin liegt eine Locke von Schiller . Neben dieser soll Jean Pauls Locke ruhen , wenn Sie mir meine Bitte nicht versagen . O tun Sie es ja nicht . Welche herrliche Tage hat uns der teure Mann geschenkt ! Wir können noch gar nicht aufhören , von ihm zu sprechen , und ich kann im ernstesten Sinne des Wortes sagen , wir Heidelberger führen ein Leben in Jean Paul . Sehen sich ein Paar seiner Freunde , gleich ist das Losungswort zu einem endlosen Gespräch gegeben . Ich bin dankbar gegen die Vorsehung , daß sie mich diesen Mann finden lies . Und soll ich Ihnen eins sagen ? und mein teurer Jean Paul mag_es auch lesen : - ich hatte ein wenig Scheu - , bis ich ihn gesehen hatte . Ich liebte ihn unaussprechlich , so sehr man ein nie gesehenes Wesen lieben kann ; dabei aber fürchtete ich , er möchte im Leben doch etwas anders sein als in den Schriften ; und das danke ich einem der schlechtesten Menschen , die die Erde trägt , einem Doktor Hartung , |2 | der meine Eltern und mich einmal eine Stunde über Jean Paul unterhielt , und unter anderen sagte : Jean Paul sei ein Barbar * ) gegen seine Kinder . Das habe ich nun freilich nie geglaubt ; aber meine Fantasie war vergiftet . Mein Vater hat seitdem den Doktor Hartung nie wieder vorgelassen ; " denn wer so sprechen kann über einen , den er seinen Freund nennt ( ist sein Wahlspruch ) , der ist ein gefährlicher Mensch " . - Nun begreift mein teurer Jean Paul , wie es mich rühren mußte , wenn ich ihn von seinen Kindern reden hörte , und von seiner geliebten Gattin . - Ich bitte Sie , lassen Sie diesen Dr . Hartung nie wieder ins Haus . Wer das gesagt hat über diesen Mann , den halte ich jeder Schlechtigkeit fähig . * ) Für mich die gräßlichste Verleumdung ! Sollte man nicht unbekümmert schlecht scheinen den bairheuter Hunden u. Hündinnen um ihnen nur die Verleumdung zu ersparen ? Wie leid tut mir_es , daß wir Sie hochverehrte Frau , nicht zugleich bei uns sahen . Der letzte Brief aus Baireut machte uns Hoffnung , Sie würden den teuren Mann abholen . Das hat diesmal nicht so sein sollen . Aber das nächstemal . An meiner Mutter werden Sie eine treue Freundin finden , das verspreche ich Ihnen . Im Herbst 1818 komme ich auch auf - Tag zu Ihnen ; dann entführe ich Sie alle , die Kinder mit , auf die Bettenburg zu meinem Truchseß . Das muß bis dahin möglich gemacht werden . Die Reise ist gar nicht so weit , als wie Jean Paul denkt : Ich habe auf der Karte nachgesehn . Höchstens sind_es 1 ½ Tagereisen , und nicht über Hildburgshausen geht der Weg . Die Burg ist auch für Frauen eine Burg , wie meine Mutter bezeugt , die vier selige Tage dort gelebt , und in wenigen Wochen wieder hinreiset . Mit Ehrerbietung nenne ich mich , den Jean Paul brüderlich an sein Herz drückte , ganz den Ihrigen . Heinrich Voß . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

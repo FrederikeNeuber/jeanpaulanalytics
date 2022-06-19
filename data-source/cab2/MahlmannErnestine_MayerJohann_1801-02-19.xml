@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0240">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mayer an Johann Siegfried Wilhelm Mayer. Leipzig, 19. Februar
+                    1801, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1 ½ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1801-02-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein liebster Vater , ich nehme einen Augenblick wahr den ich gerade frei habe ( und das ist jetzt etwas selten ) um Ihnen zu sagen daß die gute Minna sich fortdauernd so wohl befindet als es die Umstände nur immer erlauben . Es ist heute der 7te Tag und wir freuen uns an jedem neuen daß alles so sehr glücklich geht , - über alle Erwartung . Wir haben jetzt eine rechte Sehnsucht nach Briefen von Ihnen , liebster Vater ! - Es ist schon so lange daß wir keine erhielten . - Sie sind doch wohl und gesund ? - Mahlmann sagte mir gestern von einer Gelegenheit die sich vielleicht finden könnte , mich in einer Zeit von etwa 14 Tagen nach Berlin zurückzuführen . Die Frau des Bankier Kuessner will eine Reise dorthin machen , und wenn noch etwas daraus wird so bedürfte es wahrscheinlich nur Ihrer Erlaubnis - denn ich zweifle nicht , daß sie sich gern dazu verstehen würde neue Reisegesellschaften anzunehmen . Doch wünsche ich aus Gründen daß Sie , liebster Vater , keinen Gebrauch von dieser Idee machen . in Berlin nämlich . - Es ist eine recht liebenswürdige alte Frau - auch im Clausiusschen Hause , wo Sie jetzt wohl auch zuweilen sind ? - sehr bekannt . ich habe nicht Zeit weitläufiger zu sein , denn Minna verlangt nach mir . Lassen Sie uns doch bald etwas von sich hören und leben Sie so wohl und glücklich als es wünscht Ihre treue Tochter Ernestine . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

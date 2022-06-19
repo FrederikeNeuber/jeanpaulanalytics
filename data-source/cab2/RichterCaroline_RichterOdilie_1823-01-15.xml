@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0257">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 15. Januar 1823, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. u. 1 Bl. 8°, 6 S. Brief der Gräfin Giech an Caroline
+                                    Richter auf S. 5, Adresse unter der Schrift auf S. 6: Der | Legations-Räthin | <hi rendition="#aq">Richter</hi>
+                                        Wohlgeb<ex>ohren</ex> | dahier. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1823-01-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+            <note>Nach Füllen des Doppelblattes (S. 1 bis 4) verwendete Caroline Richter für S.
+                    5 und 6 den <ref type="letter" target="JP-UB0540">Brief der Louise von
+                        Giechen</ref>, den sie gerade erhalten hatte, der die erste Hälfte von S. 5
+                    füllt.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-011811">Reisen</term><term xml:id="JP-012033">Textilien</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Gestern schon meine beste Odilie , habe ich Herrn Heine das Jawort gegeben , daß Du noch bleiben kannst . Wie beruhigte es mich daß ich Dir am Sonntag schon geschrieben hatte , und Du also etwas früher schon aus Deiner Angst gerissen warst . Armes , teures Kind wie unaussprechlich schmerzen mich Deine Leiden . Warum hat Herr Heine wohl nicht gleich aus denen mir gestern entwickelten Gründen , seinen Willen Dich dazubehalten angegeben ? Es wäre viel Verdruß erspart worden . Er wünscht Dich auf eine so schmeichelhafte Art zu seinem Fest dazubehalten daß widerstehen Eigensinn wäre . Er nennt Dich die Krone der Anstalt , die er gleichsam als Beweis was er durch seine Behandlung zu leisten vermag , den höheren Behörden vorstellen will . Er sagt man sei es ihm und der guten Sache schuldig . Hätte er doch gleich auf meinen ersten Brief durch Bergemann , mir dieses geantwortet . Allein wenn man nichts als bloße Laune , oder Lässigkeit im Vollenden und Arbeiten der Maschinen annehmen kann und man weiß , wenn Herr Heine will , in wie kurzer Zeit , in Einem Vormittag so unerwartet viel gemacht werden kann , ist es da nicht empörend wenn da so heilige Bedingungen von der bloßen Willkür eines Mannes abhängen sollen , der sich nur nicht die Mühe geben will sich in Familienverhältnisse hineinzudenken ? Gewis wirst Du mich für recht inkonsequent halten , wenn ich jetzt mir selber in allem widerspreche . Nun sehe ich ein , warum Du ein weißes Kleid haben mußt , und nun befehle ich Dir bei meiner mütterlichen Liebe , Dir Batistmusselin zu kaufen , und Dir wie die gute Auguste früher gewollt , beim Schneider ein so hübsches Kleid als nur immer möglich , machen zu lassen . Ich habe es hinterher bedacht daß vielleicht der dortige Schneider die in jedem Fall doch etwas vorhandene Schiefheit der Taille durch seine Kunst zu verbergen geübt ist , und will daher auch , daß Du von ihm , Dir ein Schnürleib machen lässt . Wenn es noch so viel kostet . Da wahrscheinlich alle Mädchen sich in die National bairischen Farben kleiden werden , so leiht Dir Emma hier ihr blaues Band . Was Dir sonst noch fehlt , kaufe Dir . Ach wenn Du doch recht vergnügt wärst , mein Engel , mein Stolz und meine Freude ! Glaube mir , daß nur die Idee Deiner Glückseligkeit mich leitete bei allem was ich in der letzten Zeit zu Deiner Rückkehr getan . Ich bin aber so zufrieden , so glücklich wenn Du es bist , daß Du keinen Gedanken der Wehmut aufkommen lassen darfst wenn Du recht innig an allem dem Teil nimmst was in Würzburg an Vergnügen und immer Dich interessieren kann . Das Anerbieten Herrn Heines Dich in seinem Wagen herbringen zu lassen ist recht schön aber wir werden es anzunehmen gewiß nicht nötig haben , da gewiß noch viele so gute Gelegenheiten sich finden werden . Wir wollen darum nicht sorgen . Eben so wenig fällt es mir ein , daß Du als Gast den letzten Monat bei Herrn Heine angesehen werden sollst , wie eine Stelle seines Briefs andeutet . Nein sein Edelmut soll nicht von uns mißbraucht werden , was tut 1 Monat mehr oder weniger , bei so vielen ? Die gute Gräfin Giech schrieb heute ihrer Tochter daß der Kutscher Dich bereit , aber Herrn Heine nicht geneigt finde Dich reisen zu lassen , die Tochter solle es mir sagen . Sie wolle aber dem Kutscher der so brav wäre , Dich noch recht empfehlen , weil er auf der Rückreise wieder anfragen sollte . So nimmt alles Anteil an dir ! Indessen ist es gut , wenn Deine Maschinen durch diesen Drang von unserer Seite in Ordnung sind , und dann gibt es doch gewiß keinen Aufenthalt wenn nach dem Feste , Du zu uns zurückehren sollst . Der Rahmen zu des Vaters Bild steht ihm herrlich ich bin sehr zufrieden und danke Augusten sehr für die sorgfältige und mühsame Einpackung . Denke Dir , Ilsette Barner ist Braut mit einem Baron von Reizenstein in Nürnberg , der nicht reich aber brav ist . Gestern vertraute sie es mir . Die Lochner hat die Heirat gemacht , die im Frühling oder Sommer schon statt finden wird . Hier ist es aber noch Geheimnis . Lebe wohl teurer Herzens Engel . Ewig Dich Deine über alles liebende Mutter </p>
+         </div>
+      </body>
+   </text>
+</TEI>

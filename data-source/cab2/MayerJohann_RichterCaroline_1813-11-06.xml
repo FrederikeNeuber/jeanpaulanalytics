@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0526">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 6. und 27.
+                    November 1813, Sonnabend
+                    und Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 ½ S.</p>
+                        <accMat> (Nicht überlieferte) Assignation für Caroline Richter über
+                                    20 Reichstaler.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date from="1813-11-06" to="1813-11-27" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011893">Berufliches</term><term xml:id="JP-012048">Briefverkehr</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012449">Kinder</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! Endlich ist der Posten Lauf geöffnet ; u ich säume nicht , Dir in Bezug auf anliegende Berechnung an Zinsen20 rth Gold zu übersenden ; auch lege ich ein kleines Geschenk von 2. Fridr . d' or bei , um solche auf Weihnachten für Dich u Deine Kinder zu verwenden . Gern sagte ich übrigens mehr , als daß ich , u meine Frau gesund sind . Allein ich müßte mein Herz aufschließen . Dies hieße aber die Büchse der Pandora öffnen ; und Gefühlen Raum geben , die ich unterdrücken muß , um meinen Geist für meine Berufs Pflichten unbewölkt zu erhalten . Laß mich also die Herzens Ergießungen unterdrücken ; und mich lieber erfahren , daß Du nichts zu unterdrücken hast , sondern im Schoß Deines Hauses mit Mann u Kinder zufrieden lebst , so weit die Teilnahme an fremden Leiden dies gestattet . Julius , der noch bei mir ist , hat die idee des Fakultät Studiums aufgegeben , u sich dem Bau-Fach gewidmet , wozu er jetzt hier die Bau Akademie frequentiert . Emma ist noch auf der Louise Stiftung , u man ist im ganzen mit ihr zufrieden . Minna ist mit ihren beiden Kindern in Strelitz , wo sie Gesellschafterin einer Frau von Jasmund u Unterrichterin ihrer Kinder , gegen Genuß einer völlig freien Station für sich u Minona ist . Den Richard hoffe ich ins Züllichausche Waisen Haus zu bringen . Meine Schwester ist gesund . Die Nicee Sommern lebt als Oeconome in der Familie des Staats Rats Nicolovius . Ihr Sohn hat sich der Ökonomie gewidmet , u lebt auf dem Lande . Frau von Kalb kränkelt viel . Die Tochter ist gesund . Meine Frau grüßt herzlich . Dein treuer Vater Mayer Berechnung Einnahmen Ausgaben am 28.9 . ber 12 hatte ich Gold Gold Vorschuß - - 1 rth - ,- An Zinsen sind vom 1ten Oktober 12/13 eingegangen ; 44 rth - davon sind gezahlt zur Witwen Kasse im März 1813 . - - 12 rth - ,- im September 1813 . - - 12 rth - ,- summa 44 rth - 25 rth - ,- ab die Ausgabe v 25 rth - bleibt 19 rth - Stadt deren erfolgen hierbei 20 rth Gold ; indem ich den Vorschuß à 1 rth aufgebe . Mayer P.S . Der Brief hat der von der Post gemachten Schwierigkeiten liegen bleiben müssen . - Heute habe ich von Herrn Staats Rat Langermann anliegende Assignation erhalten , die mich aller weiteren Sorge überhebt . ich bemerke also nur noch , daß der Richard zu Ostern nach Züllichau kommt ; u daß alles sonst unverändert ist ; wie ich Dein treuer Vater Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

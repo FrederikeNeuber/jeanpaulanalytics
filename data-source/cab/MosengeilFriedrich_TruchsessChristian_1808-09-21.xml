@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1065">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich Mosengeil an Christian Freiherr Truchseß von Wetzhausen.
+                    Meiningen, 21. September 1808</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. S. 4 Adr.: </p>
+                        <p>Dem | Herrn Major von Truchseß Hochwohlge<ex>boren</ex> | zu |
+                                        <hi rendition="#u">Bettenburg</hi> |
+                                    </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Wagner’s sämmtliche Schriften,
+                            hg. von Friedrich Mosengeil, Bd. 11, Leipzig: Fischer 1828, S. 187-188
+                            (ungenau, mit Hinzufügungen, unvollständig).</bibl> D schließt mit Ende,
+                        der nicht zum Brief gehört: "Wagner (er grüßt tausendmal) sagt mir, daß er
+                        Sie in seinem letzten Briefe so recht in der Sehnsucht seines Herzens
+                        eingeladen habe. Da kann ich denn hoffnungsvoller bitten, weil mir so gut
+                        vorgearbeitet ist etc."</witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002882">Friedrich Mosengeil</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-09-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011854">Bettenburger Literatenkreis</term>
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-012278">Freundschaften</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Da bin ich auch , mein hochverehrter Freund ! Ich schwebe , - denn so wie ich jetzt zu Ihnen komme bin ich leicht und gedankenschnell , - Ihren Freunden voran , Ihnen entgegen , mich Ihrer Freude freuend ; und wenn Ihre Arme sich auch noch so fest um sie schlingen , so finde ich doch noch Raum für mich . In Ihre Gespräche mische ich mich ein und schwatze dazwischen , ob man mir gleich nicht antwortet , ach ! nicht einmal hört . - Nicht von Ihrer Seite weiche ich , wenn Sie gemeinschaftlich unter den lieben Fruchtbäumen wandeln , die ich als Blütenbäume kannte ; und den stillen Ort , wo umgeben von erweichten Männern , ein guter Knabe so sanft zerfloß , darf ich nicht fehlen -- Bei Tische -- ach ! mir auch ein Glas von diesem Laubenheime , daß ich mich am Anschauen erquicke und am lieblichen Klang , denn diese Geisterlippen können nicht schlürfen . Darum schenken Sie , was ich von meinem Glase nicht genießen kann , jemanden der lange keinen Wein getrunken hat . Recht , recht glücklich wäre ich so in Ihrem lieben Zirkel , wenn nur nach einer alten unabänderlichen Einrichtung das Fleisch nicht wider den Geist gelüstete . Ist auch , was ich bei diesem Besuche zurücklassen muß , nicht der bessere Teil meines Ich_es , so möchte er doch auch gern mit , und dauert mich sehr ; dadurch wird uns beiden denn doch im Grunde der Spaß verdorben . Solider ist es , wenn ich mich auf die Zurückkunft der teuren Reisenden freue , die dann meine Bitte , mir von Ihnen zu erzählen nicht unerfüllt lassen werden . - Und kommen Sie denn nicht im Winter selbst ? - Fr. v. Könitz glaubt uns diese schöne Hoffnung machen zu dürfen ; - und Sie ? - - - Gelesen sind alle Ihre Bücher ; leider war für sie kein Raum im Wagen . Ich schicke sie nächstens mit der Post , und sage Ihnen dann auch meine Meinung über Tieck . Der Wagen , sagt man , hält schon vor Tür . Ich grüße Sie auf das herzlichste und versichre Sie noch daß ich , wie sich auch der zurückbleibende Teil dabei geben mag , bei Ihnen bin . Ihr Sie hochverehrender Mosengeil . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0254">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Adelheid von Bassewitz an Caroline Richter. Berlin (?), zwischen dem 4.
+                    und dem 27. Juli 1801</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. Schluss fehlt.</p>
+                        <p> Auf S. 4 Tintenflecken.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000225">Adelheid Henriette von Bassewitz</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date from="1801-07-04" to="1801-07-27" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Adelheid von Bassewitz erwähnt wahrscheinlich den Brief, den
+                    Caroline Richter am 4. Juli 1801 an ihren Vater geschrieben hat. <ref type="letter"
+                    subtype="passage"
+                    target="JP-UB0006/#start_t4d_jgh_klb">In
+                        ihrem Brief vom 27. Juli 1801 an ihren Vater bestätigt Caroline Richter den
+                        Erhalt des vorliegenden Briefes.</ref>
+            </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012278">Freundschaften</term>
+               <term corresp="#JP-012929">Verlobungen und Hochzeiten </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine teure liebe Caroline Du kannst es Dir kaum vorstellen wie sehr ich durch Deine liebe Zeilen überrascht und erfreut wurde . Ich war vergangenen Montag bei meiner Tante mit Deinem lieben Vater zusammen . Meine erste Frage an ihn war : Sind Nachrichten von unserer Caroline da ? - Ich habe einen Brief von ihr antwortete er u sie schreibt auch sie würden Nachrichten erhalten , wenn sie etwas mehr in Ruhe wären . Aufrichtig gestanden kränkte es mich , daß meine beste Caroline nicht einen Augenblick für ihre Freundin gefunden hatte , ich entschuldigte Dich , meine liebe gute Seele aber sogleich mit allen Gründen die sich mir darbieten wollten . Als man schon in Begriff war von Tische aufzustehen brachte ein Bediente mir Deinen teuren werten Brief ; ich erkannte nicht gleich die Hand weil es mir nach der Aussage Deines Vaters nicht entfernt einfiel : er könne von Dir sein . - Beurteile nun , wenn Du kannst meine unbeschreibliche Freude . Wie danke ich Dir meine beste gute Caroline für die Freundschaft die aus jedem Worte , der mir so werten Zeilen spricht doch danken läßt es sich ja nicht für Liebe , nicht für herzliche Freundschaft - Erwiderung verlangt das Herz u die findest Du im vollen Maße bei mir . Wie viel habe ich empfunden als Minna mir schrieb , der für meine Caroline so feierliche Tag sei nun vorbei , nur einen Augenblick hätte ich Dich an mein Herz drücken mögen ; ein Blick würde mehr gesagt haben als alle Worte . Wer hätte auch die Wichtigkeit u Feierlichkeit des Tages an welchem man sich ganz u ungeteilt dem Manne hingibt , den man liebt , mehr mit Dir empfinden können als ich ? Denke ich an den Gefühlen zurück die an jenen Tage mein Herz so mächtig bewegten , so möchte ich weinen nicht zu Deinem Troste zu Deiner Beruhigung an Deiner Seite gewesen zu sein . Nein , der Tag einer ewigen Verbindung ist nicht der glücklichste des Lebens , Du hast es schon empfunden , meine Teure , wie viel glücklicher , die des ungetrübten ungestörten Besitzes , die der Ruhe u Häuslichkeit sind . Mit welchen Riesenschritten geht das Vertrauen nach jenem Tage vor sich , wie viel werter wird der Mensch mit dem man nun auf's innigste vereint ist . Ich fühle Dein Glück mit Dir , Du gute liebe Seele . möge der Himmel es Dir immer ungetrübt u rein erhalten . Ich habe Deinen ersten Brief aus Weimar zum Teil gelesen , wie interessant muß Deine Reise in jeden Betracht gewesen sein , an der Hand Deines so mit Recht geschätzten Mannes lerntest Du die merkwürdigsten Männer Deutschlands kennen ; in Weimar öffnete sich Dir eine Fülle von Genüssen die ich kaum zu fassen vermag . Die Gegenden , welche Du nachher durchreistest denke ich mir himmlisch schön , ich bin fast unzufrieden , daß Du mir nicht mehr über die viele neue Gegenstände die sich Dir darboten , schreibst . Von mir sollst Du desto ausführlicher hören wie sehr meine Reise mich befriedigt u beglückt hat . Noch nie hatte ich die Mauern Berlins verlassen , u eine neue Welt tat sich mir auf als ich mich nun immer weiter u weiter davon entfernte , jedes blühende Feld machte mir Freude , die kleinsten u geringsten Gegenstände wurden von mir bewundert , ich faßte mit Begierde alles auf denn selbst das ewige Fahren war mir neu u aus diesen Grunde angenehm . Mecklenburg ist ein gesegnetes Land , überall fand ich lachende Dörfer schöne Felder u fröhliche Menschengesichter u ich selbst war unbeschreiblich glücklich mich in der Welt etwas umzusehen . Wie erhob u entzückte mich , das Auf u Untergehen der Sonne u wenn der Mond uns freundlich anlächelte u des Nachts unseren Weg mit sanften Schimmer umgab , so fühlte ich mit unbeschreiblicher Wonne , den Allliebenden überall in seiner ganzen schönen Natur . Nach einer Reise von dreimal 24 Stunden kam ich in Wismar an ; hier erwartete mich der herrlichste u reinste Genuß in der Bekanntschaft der verehrten Mutter meines teuren Fritz . Es ist nicht möglich die Empfindungen zu beschreiben , die mich fast überwaldigen , beim Anblick der Person , welche er so innig liebt u der er sein Dasein verdankt . Das tiefe Gefühl , was ich in jeden ihrer Blicke las , als ihr geliebtester Sohn ihr sein Weib zu führte erhöhte noch meine Rührung . ich konnte nicht sprechen u nur nachdem sie mich recht oft ihre Tochter , ihr liebes Kind genannt hatte bekam ich wieder einige Fassung . Du bist nicht so glücklich gewesen die Mutter Deines Richters kennen zu lernen , aber gewiß kannst Du Dir meine Empfindungen in den glücklichsten Moment meines Lebens erklären . Nicht ganz befriedigend war mir die Bekanntschaft mit den Schwestern meines Mannes ; sie waren alle bei unserer Ankunft im Hause der Mutter versammelt , mein Herz floß über von Liebe Zärtlichkeit für alle die Menschen , die in Nährern Verhältnis mit meinem </p>
+         </div>
+      </body>
+   </text>
+</TEI>

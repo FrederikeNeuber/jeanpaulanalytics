@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0905">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Louise Henriette von Könitz. Meiningen, 9. August
+                    1809, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Briefe über den Dichter Ernst Wagner, hg.
+                            von Friedrich Mosengeil, Bd. 2, Schmalkalden: Varnhagen 1826, S.
+                            129-132.</bibl>
+                  <desc type="accMat"> Briefe von Wagner und seinen Kindern
+                            sowie Gedichten an Luise Eleonore und Adelheid von
+                            Sachsen-Meiningen.</desc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Wagner’s sämmtliche Schriften,
+                            hg. von Friedrich Mosengeil, Bd. 12, Leipzig: Fischer 1828, S.
+                            242-243.</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1809-08-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002187">Louise Henriette Könitz</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012048">Briefverkehr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ihre Exzellenz , in diesen festlichen Tagen mit einer ähnlichen Bitte beschweren zu können , wie im vorigen Jahre - das glaubte ich noch im verfloßenen März kaum ! Gott , und durch ihn ein Guter , Trefflicher , den wir Beide kennen , haben indessen meine Hoffnungen sogar beträchtlich auf die Zukunft erweitert ; und so kommt es , beste verehrteste gnädige Frau , daß ich Sie jetzt um gütige Überreichung anliegender Herzensergießungen an meine hochverehrte Herzogin und an die liebenswürdige Prinzessin Adelheid bitten kann . Auch meine Unmündigen bringen , mit derselben Bitte hier ihre kleine Gabe dar . Meinen geliebten Lebensretter den innigst-dankbaren Gruß ! Möchte er in meine Seele schauen können ! Die neulich eintretende Hitze , die mich 3-4 Tage fürchten ließ , alle gute Wirkung der Arznei werde durch ihre afrikanische Ermattung wieder verloren sein , hat gar nichts geschadet , sondern in den ersten kühlen Tagen fand ich mit Wonne , daß die vorige Erleichterung geblieben , ja , still fortgeschritten war , und so schreitet sie bis diesen Augenblick fort . Am vorigen Sonntag bin ich zum ersten Male wieder zu Heims geritten ; ( dort ist für mich die beste Treppe unter allen , der mir befreundeten Häuser . ) Alles ging vortrefflich , und viel besser , als es dort zum letzten Male vor 5 Monaten gegangen war . Ich machte verschiedene auffallende Kunststücke , und als ich endlich frei in die Mitte des Saales trat , meinen Stock weggab , und unter Aufsicht der Umstehenden mit der linken und rechten Hand mich zur Erde bückte , und allein wieder emporrichtete , da erscholl ein rührendes und glaubensvolles Bravo . Die brave Hausmutter fiel mir mit hellüberquellenden Augen um den Hals , und es tat mir innig , innig wohl , so frei dastehend zum erstenmal wieder eine Dame in die Arme zu schließen ; und Eine , die es stets so treu mit mir gemeint hatte und die noch dazu bei ihrer Schwere auch nicht sehr fest auf den Füßen steht . Kurz , ich fühlte mich bis jetzt in jenem Augenblick doch am kräftigsten ! Nur mager macht mich die Kur ; - vielleicht gut ! Aber Verzeihung , gnädige Frau , daß ich so viel von mir rede ! Nur die einzige Bitte noch , mich ewig nennen zu dürfen etc . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

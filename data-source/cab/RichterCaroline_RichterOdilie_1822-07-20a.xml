@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0716">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 20. Juli 1822, Sonnabend </title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <accMat>Gebühr für Odilies Kur, ein Pfund Kaffee, ½ Pfund Zucker. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-07-20a" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+            <note>Der Brief wurde zusammen mit Kaffee und Geld von Josephine von Welden
+                    mitgebracht, die offenbar ihre Tochter Fanny im orthopädischen Institut besucht
+                    hat.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-011891">Odilies orthopädische Kur</term>
+               <term corresp="#JP-012494">Ernährung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebte Odilie ! Ob du gleich einen lebendigen Brief , eine Schwester , beinahe eine Mutter , in der lieben Fanny erhaltest , so muß ich doch noch selbst an Dich schreiben . Möchte Alles was ich Dir schicke Dir recht sein . Ich kenne aber Deine Bedürfnisse zu wenig , um sie ganz so zu befriedigen als es vielleicht notwendig ist aber ich hoffe , daß Du es mir freimütig sagst was Du weiter bedarfst . Fanny soll Dich examinieren wie es mit den Kleidern und Mänteln ist , wenn ich darin etwas tun soll - ich gebe Dir mit Freuden alles was Dir notwendig ist , aber ich mag nichts Überflüssiges tun . Sei ja recht offen . Da man hier keine besonderen Teebretter hat so überlasse ich Dir die Wahl des Geschenks für Auguste - und einen 6 fl. nicht hinreichen will der gute Vater das Übrige nachzahlen . Fanny will Dir wählen und handeln helfen , sie ist so gut als klug . Ich beneide sie daß sie Dich ans Herz drücken soll - aber ich bin selig wenn ich mir Deine Freude bei ihrem Wiedersehen denke . Du erhältst wieder 1 lb Kaffee und ½ Zucker . Da er feiner gemahlen ist als der vorige brauchst Du nicht eine so starke Portion zu nehmen . Ich will aber daß Du ihn zu Deiner Ernährung , höchstens mit Deiner Stubennachbarin genießest , und nicht immer davon traktierst , sonst verfehlt meine Absicht ganz ihren Zweck . Mit 1 lb kannst Du über einen Monat auslangen wenn Du auch täglich welchen machst , Du brauchst jetzt von Diesem zu 3 oder 4 Tassen nur etwas über halb des kleinen Becherchen voll zu nehmen , das Du hast . Starker Kaffee ist weder gesund noch angenehm . Ich habe mir seit unsere Kaffeemühlen repariert sich auch viel abgebrochen , da ich merke daß der Kaffee immer noch recht stark wird . Kürzlich war eine Familie Reinbeck aus Stuttgart hier die dem Vater bei seinem Aufenthalt dort sehr viel Vergnügen gemacht haben . Sie hatten ein junges Mädchen " Hartmann " bei sich die von Dir so viel Gutes , durch Vossens gehört hatte , sie logierten bei Herders und der Vater brachte den letzten Sonntag Abend dort mit ihnen sehr froh , zu . Das junge Mädchen heißt Mariette . Das Geld an Heine gib ihm oder der Auguste versiegelt , nebst vielen Empfehlungen mit dem Juli sind nun 4 Monat bezahlt - daß sie es nur merken . Wie gern wird dieses Geld gezahlt , da es so großen Lohn erkauft , Deine Gesundheit , und Dein gerader Wuchs . Ich habe Fanny gebeten Herrn Heine recht genau zu fragen , wie lange Du noch dort bleiben mußt . Jetzt kann er das schon wissen , aber ja keinen zu frühen Termin festzusetzen , denn ist einmal das ungeheure Opfer gebracht , so muss es auch vollendet werden . Heine muß nach der strengsten Gerechtigkeit selbst an den Vater schreiben , wenn Du länger als den Oktober dort bleiben müßtest , und im Fall Du Zurücksein dürftest ganz die Art des Verhaltens vorschreiben das Du zu beobachten hast . Du weißt der Vater ist veränderlich - heute wachte er einmal streng über Dich , daß Du nichts dem Körper schädliches tun und arbeiten dürftest . Ein andermal verlangte er Beschäftigungen von Dir die Dir schädlich sein könnten . Zu wie vielen Spannungen unter uns , könnte das Anlaß geben ! Bedenke das wohl , als vernünftiges Wesen , und beeile aus Charaktergüte nicht Deine Zurückunft , ehe Du dazu reif bist . Ist es wahr , daß Du gesund und glücklich bist den harten körperlichen Zwang ausgenommen so kümmere Dich nicht , am wenigsten wegen des Geldes , denn was kann bei einer so bedeutenden Ausgabe , ein ¼ tel Jahr weniger oder mehr ausmachen ! Es ist Gewinn beim Ausgeben in dieser Sache . Nun meine Odilie ! Lasse Dir alles recht wohl schmecken und behagen , was Du bekommst , und schreibe es uns bald , und brauche anstatt des zu häufig vorkommenden Wortes " erschrecklich viel oder schön " in Deinen Briefen lieber unendlich viel , sehr , außerordentlich . Man kann sich leicht gewisse Ausdrücke angewöhnen . Lebe wohl , geliebtes teures Kind ! Deine treuste Mutter Liebes Odelchen Du mußt ja zu Frau von Welden am anderen Morgen gehen , und ihr für die Mühe des Mitbringens recht sehr danken . Hebe ja die Schachteln alle sorgfältig auf . Schütte den Kaffee behutsam aus der Blase , in deine Büchse . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

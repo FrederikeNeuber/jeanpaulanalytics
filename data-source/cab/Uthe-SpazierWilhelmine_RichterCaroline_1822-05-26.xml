@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0281">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Uthe-Spazier an Caroline Richter. Dresden, nach dem 26. Mai 1822 </title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText"> Persönlichkeit S. 288f., Nr. 302.
+                        </bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Richard Otto Spazier, Jean Paul
+                            Friedrich Richter, ein biographischer Kommentar zu dessen Werken,
+                            Leipzig 1833, Bd. 5, S. 182f. </bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date notBefore="1822-05-26" notAfter="1822-06-30" cert="low"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012233">Dresdner Freunde</term>
+               <term corresp="#JP-011832">Gesellschaftliches
+                        Leben</term>
+               <term corresp="#JP-012876">Magnetismus, Mesmerismus</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Es ist ein unschicklicher Vergleich , aber oft kam er mir vor unter der Menge von weiblichen Personen , die ihre Anziehungskraft an ihm versuchten , wie die Hühner , denen die goldfarbene Gerste ohne Makel zu Haufen vorliegt , und die ein Korn nach dem anderen anpicken , und wieder fahren lassen , und wieder nach einem besseren suchen , Überall hielt er das seltsame Gesetz , die ihm am wertesten gewordenen Häuser nicht über zweimal zu besuchen , mit eiserner Festigkeit ; nicht die rührendsten Bitten , nicht die Pflicht der Höflichkeit , konnten ihm zum dritten Mal hinführen . Es ging den liebenswürdigsten Frauen so . Wenn er sie auch im Reize des Momentes als noch so anmutig , als ihm ordentlich angehörend gepriesen , und in sein Wesen verschmelzen lassen ; so würdigte er sie doch nur wie eine Blume einmal und noch einmal des Ansteckens um sie dann mit neuen zu vertauschen , ohne es zu bedauern , sie nicht mehr zu haben . Wie muß es erst den Männern ergangen sein ! - Welche Todesangst litt ich oft , wenn er etwa manche dargebotene Hand gar nicht ergriff und diese unberührt wieder sinken mußte ; oder andere , die ihm vorgestellt sein wollten , Minuten lang hinter seinem Stuhle reden ließ , ohne die Stellung zu verändern , die ihrem Nahen hinderlich war . - Was sind aber diese kleinen Unarten gegen den gerechten , klaren , immer begütigenden mitleidsvollen Sinn , der in dieser außerordentlichen Seele seinen Sitz aufgebaut . Wie schön daß er jedem in der Gesellschaft etwas sein kann und will ! Selbst dem Unmündigen und Geistesarmen reicht er geistig den Arm ! Wie r e verehren ihn seine Wirtsleute ! Ein wildes Tier von Ehemann ist , seit er da ist , mild . Ein Geizhals ließe Häuser aufbauen , um ihm nur ein Zimmer recht wohnlich zu machen . Nein , nie werde ich den Abend vergessen , wo meine Tochter vor Zahnschmerzen vergehend , Nachts Elf Uhr nach seiner Wohnung stürzt , ihn aus dem ersten Schlafe wecken läßt , wie er sogleich Barfuß im Dunklen die Treppe hinabsteigt in den Hof , das erschöpfte halb ohnmächtige Mädchen in einen Gartensessel sich setzen läßt , und sie magnetisch zu streichen beginnt , was mehrmals schon ihre Schmerzen gelindert , und als man sie eine halbe Stunde nachher im tiefsten Schlafe zu Hause trägt ! </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0631">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Unbekannt. Leipzig, 6. Oktober 1800,
+                    Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Stadtgeschichtliches Museum Leipzig</institution>
+                        <collection/>
+                        <idno type="shelfmark">A/882/2008</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl.
+                                    4°,
+                                    2 ⅔ S.</p>
+                        <accMat>Anzeige zur Ankündigung der Zeitung für die elegante Welt
+                                </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1800-10-06" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004373">Korrespondenten Unbekannte</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012547">Zeitschriften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Hochwohlgeborener Hochzuverehrender Herr Geheimer Rat In der Voraussetzung , daß ich keinen Fehlgriff in der Person Ewr. Hochwohlgeboren tue u Sie kein anderer sind , als mit dem ich vor einigen Jahren bei dem Oberst von Delius in Berlin u noch an einem anderen Orte zu speisen die Ehre hatte u der mich als Carl Pilger seines besonderen Wohlwollens zu versichern so freundlich war , übersende ich Ihnen beikommend Anzeige u empfehle Ihnen dieses Blatt " nicht allein allgemeinhin , sondern bin zugleich so frei , Sie zur nähern Teilnehmung daran einzuladen . In jenem angeführten Umstand kann freilich bloß mein Entschuldigungsgrund liegen , sonst , muß ich selber gestehen , wäre diese Freiheit , so sehr sie sich auch , wie es wirklich der Fall ist , durch die Überzeugung dem Blatte dadurch wahren Gewinn zugewendet zu haben , rechtfertigen ließe , allemal unter die Wagstücke zu rechnen . Indem ich aber Ew. Hochwohlgeboren zur Teilnehmung an der Zeitschrift einzuladen mir erlaube , soll das im Geringsten nicht den Sinn haben , als wollte ich Ihnen zumuten , ein Mitarbeit an derselben zu werden , wiewohl Sie da Männer neben Sich haben würden , deren Gesellschaft Ihnen keine Unehre bringen würde ; sondern ich wünsche nur , daß Sie als ein freier , in der höheren Welt u im vertrauten Umgange mit den Musen u Grazien gebildeter Mann , derer gerade dieses Blatt am wahrsten bedarf , mit Ihren Beobachtungen u Bemerkungen über das Leben u Treiben der großen Welt in Ihrer Stadt u , wo möglich Ihrer Provinz , über Gegenstände dieser oder jener Kunst , die Sie selber pflegen , über merkwürdige der Aufzeichnung werte Vorfälle des Tages , über bedeutende Männer u Frauen , die sich um das Wohlsein ihrer Mitbürger , um den gesellschaftlichen Ton , um Kultur überhaupt verdient machen , über Sache des Geschmacks , des Luxus u der Mode , in der mehrfachen Bedeutung genommen - daß Sie damit hinzutreten u diese Ihre Bemerkungen in ein , diesem Zwecke ausschließend gewidmeten Blatte , niederlegen mögen . Es soll mich , der ich - Ihnen immer unverhohlen gesagt - an das Schicksal dieser Entreprise das Schicksal meiner Familie zugleich mit geknüpft habe , sehr freuen , wenn Sie auf diesen meinen Wunsch u meine Bitte um Beiträge von Ihrer Hand gnädige Rücksicht nehmen u dieselbe sich zu einer Veranlaßung dienen lassen wollen , in eine Korrespondenz mit mir zu entrieren . Sollte Ihre Zeit Ihnen Selber vielleicht Einschränkung Ihres gütigen Willens gebieten , so will ich wenigstens bitten , daß Sie irgend einen geschickten u mit dem Tone der vornehmeren Welt bekannten Mann mir angewinnen u nachweisen mögen . Auf jeden Fall bitte ich , meine vertrauensvolle Adresse mit dem Ihnen eigenen Wohlwollen aufzunehmen u sich zu überzeugen , daß ich mit der größten Hochachtung u der innigsten Ergebenheit geblieben bin u immer sein werde Ewr. Wohlgeboren gehorsamster Diener Spaziere </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0742">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Max Richter an Caroline Richter. München, 21. Juni 1820, Mittwoch</title>
+            <respStmt>
+               <persName>
+                  <surname>Hartmann</surname>
+                  <forename>Dürten</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bearbeiterin</note>
+               </resp>
+            </respStmt>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, ¾ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003490">Max Richter</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1820-06-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-003471">Emma Richter</persName>
+               <persName cert="medium" key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0147">Von Caroline Richter an Max Richter.
+                        Bayreuth, zwischen 14. und 21. Juni 1820</ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011832">Gesellschaftliches
+                        Leben</term>
+               <term corresp="#JP-012274">Hauswesen</term>
+               <term corresp="#JP-012721">Dessauer Familienstipendium</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teuerste Mutter ! Schon wieder einen Brief , Du herrliche Mutter ! Wie könnt ihr uns zur Besinnung eines gelesenen Briefs kommen lassen ? Doch der Dank gebührt Euch immer zuerst . Der Vater ist jetzt größtenteils gesund ; nicht die Witterung ; kalt , rauh , regnerisch . Wie trefflich u mütterlich sorgte die gute Welden für jene Nachricht ; sie verdient immer mehr Liebe ; auch ihr Sohn , der gestern d. Vat. besuchte . Heute Abend ist eine Teegesellschaft bei Fr. v. Schaden ( aus Nürnberg ) . Das Wetter nimmt in der Rauheit immer zu . Die Kleidertrümmer sollen bald zum Schneider kommen . Ich frage Dich jetzt um Rat , wie ich es mit meinen Sachen machen soll . Einige Kleider , Wäsche p. brauchten eine kleine Ausbesserung u - des Waschens . Ich dächte , man könnte es auch über Baireut nach Heide . neu geordnet u gepflegt bringen . Welden hat wieder einen Brief fortgeschickt u er beklagt sich über die F.. l... ht seiner Leute . Schokolade schmeckt ihm besser als Kaffee u er bittet sich diese auch in Bair . zum Morgengericht aus . Der junge Schallern begegnete heute dem Vater u will ihn ohne Weiteres besuchen . Die Besuche sind kaum zur Hälfte abgetan ; das Dessauer Familienstipendium muß nun bald geholt werden . Ich bitte Dich daher , liebe M. , mir einiges darüber zu schreiben , ob u wann ich ein Attest oder ein Absolutorium eingeben muß . Otto u Emanuel grüße recht sehr . Lebt wohl , Emma u Odilie . Seit dem der Vater hier lebt , fallen die Briefe miserabel klein u schlecht aus . Schreibt wieder so geschwind u schön , Euer Max R. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

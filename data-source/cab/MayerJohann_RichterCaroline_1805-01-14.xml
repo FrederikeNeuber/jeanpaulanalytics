@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0607">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 14. Januar
+                    1805, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1805-01-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0153">Caroline Richter an Johann Siegfried
+                        Wilhelm Mayer. Bayreuth, 15. Dezember 1804, Sonnabend </ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012194">Geschenke</term>
+               <term corresp="#JP-013011">Jean Pauls Präbende</term>
+               <term corresp="#JP-012162">Postwege</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine geliebte Caroline ! Dieser Brief ist zwar Antwort auf Deinen früheren vom 15. Xr. 4. ; allein Du wirst unter der Zeit einen Brief von meiner Frau , u auch von mir erhalten haben , u ich wünschte vom Eingang derselben , u ihrer Begleitung unterrichtet zu sein ; weil Ernestine mir schon unterm 29. Xr. 4. alles als abgesandt an Dich anzeigt . Nun empfange den Dank für Dein liebes Geschenk , dem nur der Wert der eigenen Arbeit fehlt , wovon ich Dich natürlich dispensiere , da Du ja jetzt genug für Deine Kinder zu tun hast . Eben darum aber wäre mir Dein guter Wille schon hinreichend gewesen , da Du Dir nur meinetwillen keine Kosten machen mußt . Die Weste ist indessen sehr hübsch , u bitte ich Herrn Emanuel für seine Mitwirkung für mich zu danken . Denke aber , daß die Weste mir um 1 1/2 Hände zu eng ist , indem ich täglich zunehme ; u daß ich sie also erst nach meinem Körper weiter machen lassen muß . Die Freude Deines Geschenks wurde mir übrigens durch die Furcht vor Entdeckung des Briefes in der Tasche etwas verbittert . Denn die Entdeckung hätte 10 rth Strafe gekostet . Durch eine Art von effronterie meines Bedienten ist aber alles ohne Nachteil in meine Hände geraten . Sage bei dieser Gelegenheit Deinem lieben Mann , daß ich den Brief gleich an Frau v. Berg geschickt , sie auch nachher gesprochen habe , und daß Sie mir die Antwort hat schicken wollen , welches aber zur Zeit nicht geschehen ist . ich habe auch mündlich mit Ihr über den Inhalt gesprochen ; nur ist der Refrain aus beider Munde derselbe gewesen , daß man Herrn Beim zu gewinnen suchen müße . Hierzu kann ich nun nichts beitragen , weil er mein Freund nicht ist ; u mir Huldigungen dieser Art eben so unangenehm , als Deinem Mann sind . Doch wird letzterer vielleicht unmittelbar an ihn kommen können ; obwohl ich es für das beste halte , den König unmittelbar zu erinnern . Er ist selbständig genug , um sich hier bestimmt Folge zu verschaffen . ich bitte Dich nun um baldige Nachricht von Deinem Befinden , bezeuge den Gruß meiner Frau , u bleibe Dein treuer Vater Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

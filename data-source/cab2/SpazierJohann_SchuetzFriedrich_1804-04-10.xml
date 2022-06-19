@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0838">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Friedrich Karl Julius Schütz. Leipzig, 16. Oktober 1803, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BSB</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">Autogr. Spazier, Karl</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <p> Auf S. 1 oben von Spaziers Hand: H<ex>errn</ex>
+                        </p>
+                        <p> Dr u Prof Schütz. Beyl.</p>
+                        <p>
+                           <gap reason="covered" unit="chars" quantity="2"/>
+                        </p>
+                        <accMat>
+                                    Die Vorlage der "Berichtigung wegen
+                                        eines Vorfalls im Weimar'schen Hoftheater", die in der ZeW
+                                        vom 6. September 1803 (St. 107, Sp. 854) erschienen
+                                        war, und eine ungedruckte Erklärung von Friedrich
+                                    Karl Julius Schütz in Bezug auf den Vorfall.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1804-04-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003898">Friedrich Karl Julius Schütz</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012601">Juristische Angelegenheiten</term><term xml:id="JP-012547">Zeitschriften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ihrem Verlangen gemäß , erhalten Sie hiermit Ihre Erklärung zu beliebigem Gebrauche zurück . Ohne diese Ihre Rückforderung würde ich sie der Gegenbemerkung des Herrn Major v. Hendrich ungeachtet , doch noch eingerückt haben ( so gut , wie die von Herrn Elferfeld ) , um Ihnen meine Willfährigkeit , Sie auf Ihre weitere Verantwortung in meinem Blatte für sich sprechen zu lassen , außer allen Zweifel zu setzen . Ihnen den Namen des Einsenders auszuliefern , dazu finde ich , bei erfolgtem Widerspruch gegen die volle Wahrheit Ihrer von Ihnen dagestellten Sache , keine Verbindlichkeit ; denn ich gab Ihnen mein Versprechen nur bedingt in dem Falle , wenn erwiesen würde , daß jenes erste Inserat durchaus Lügen enthielte . Aber ich sehe auch keine Verbindlichkeit , in einem Falle der Kollision die mir unnötige Unannehmlichkeiten zuzieht , einem Anonymus , den man selbst auch gegen mich in der Verborgenheit hält , einen überflüssigen Schmerz angedeihen zu lassen . Und sonach übersende ich Ihnen sein Manuskript . Es wird Ihnen beweisen , daß ich darin eine Unart , die man gegen Ihren würdigen Herrn Vater begehen wollte , vertilgt habe . Damit Sie aber nicht etwa glauben , als existiere überhaupt kein anderer Einsender , als dieser Verfasser selber u als habe ich , meinem strengen Gesetze entgegen gehandelt , nichts durchaus Anonymes von solcher Art aufzunehmen , so verbürge ich hiermit die Wahrheit meiner Aussage mit meinem Ehrenworte , u bin erbötig , sie Jedem ( außer Ihnen ) zu beweisen . Übrigens bleibt Ihnen nun zu tun u zu lassen , was Ihnen gefällig ist . Meine Briefe drucken zu lassen , die ich Ihnen und nicht dem Publikum schrieb , dazu haben Sie kein Recht . Wollen Sie sich aber dennoch dieser Indiskretion schuldig machen , so verlange ich , daß auch dieser hier , so wie der , welchen ich zum zweiten Mal nach Halle schickte mit abgedruckt werden ; auch die kopierte Stelle die ich unterdrückt habe Widrigenfalls werde ich sie nachliefern Spaziere . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

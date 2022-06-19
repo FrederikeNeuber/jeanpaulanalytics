@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0545">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Franz Wilhelm Jung. Bayreuth, 23. März 1826, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <p> Über dem Brief vfrH: <hi rendition="#aq">An Jung</hi>.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1826-03-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001981">Franz Wilhelm Jung</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012539">Frankfurter Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011966">Gesamtausgabe (Jean Pauls sämmtliche Werke)</term>
+               <term corresp="#JP-011999">Jean Pauls Geburtstage</term>
+               <term corresp="#JP-011807">Jean Paul-Verehrung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Edelster verehrtester Freund ! Ob ich gleich erst kürzlich so frei war Ihnen zu schreiben , so treibt mich doch heute wieder ein eigennütziges Motiv dazu an . Möchte meine Bitte Ihnen nicht indiskret scheinen , allein Ihr edles Herz freut sich gewiß , wenn es in irgend Etwas der Familie Ihres seligen Freundes , nützlich sein kann . Es ist nämlich das Schweigen , der Großherzoglich Hessen-Darmstädtschen Regierung auf unsere Bitte um ein Privilegium , was endlich mich zu beunruhigen anfängt ob ich gleich schon mich erkühnt habe um eine Antwort in einem 2ten Schreiben an den Staatsminister von Grollmann , nachzusuchen . Da nun fast 5 Monat verflossen sind und ich gar nichts höre , darf es wohl erlaubt sein , wiederum anzufragen , was man von der Güte der Regierung zu erwarten habe , und meine Bitte ist nun die , verehrtester Freund , daß Sie Ihre Verbindungen zu Hilfe nehmen um zu erfahren , welchen Eindruck unsere Bitte gemacht , und was wir zu hoffen haben . Gewis werden Ihre Freunde , um Ihretwillen , die gehörige Aufklärung darüber geben können . Bis jetzt ist es uns noch überall gelungen , und wir haben wenigstens von den Herren Ministern beruhigende Antworten erhalten , wenn auch die Publikationen noch nicht von allen Seiten erfolgt sind . Gern würde ich noch weitere Schritte deshalb tun , wenn ich hoffen dürfte bei Darmstadt zu reußiren . Da einmal so viel zu Sicherung der Unternehmung unseres Verlegers geschehen ist verfolge ich die Sache gern bis auf den Grund weil ein halber Erfolg die übrigen alle zu vernichten im Stande ist , und wir haben einmal unser Versprechen gegeben ihn überall zu schützen , wohin unsere Verbindungen reichen . Der glückliche oder unglückliche Ausgang des Geschäfts , entscheidet für das äußere Lebensglück meiner Kinder , das mir den Impuls zu allen diesen Schritten gibt die ich gegen die Stimmung meiner Seele getan habe . Doch befeuerte mich dabei die Idee " Seines " Ruhms ! Es sind die beiden Hebel meiner Tätigkeit auf Erden , und gerne will ich nach ihrer Befestigung die Welt verlassen . Vorgestern feierten wir seinen Geburtstag den wir noch voriges Jahr mit Vertrauen auf seine Erhaltung begingen . Es war das erstemal daß unser Bayreuth diesen Tag so festlich auszeichnete . Freudevoll empfing er die Fackel Begrüßung der hiesigen Lehranstalt und das ihm dargebrachte vivat , ob er gleich von den wechselnden Besuchen sehr angegriffen wurde , aber es tat seinem Herzen doch wohl . O Dank , für jede Freude die man ihm nah und fern gemacht , in seinem immer mehr verdunkeltem Leben waren diese Lichtpunkte oder Blitze dankbarer empfunden als je , und weil er zuletzt bloß Liebe war . Möchten Sie , geehrtester Mann mit neuen Seh- und Körperkräften der wieder erwachenden Natur entgegengehen , und ich von Ihnen Allen die beruhigendsten Nachrichten hören . Wenn Therese Maier , geb. Lux Ihnen bekannt ist , so bitte ich , ihr sagen zu lassen , daß ich für ihren letzten liebenden Brief , innig danke und alle ihre Gefühle erwidere . Alle Sie Teuren , sind in meinem ewigen Gebet um die Erhaltung guter Menschen mit eingeschlossen Meine Kinder empfehlen sich Ihrem Segen Ihre Caroline Richter . Könnte ich Ihnen nur zuweilen aus seinen Papieren vorlesen , ich bin in ewiger Rührung und Entzückung über seinen Geist , und sein Herz . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0007">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Johannes Daniel Falk. Leipzig, 6. November 1804,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">15/II,1D,14</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1
+                                    Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1804-11-06" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012533">Lektüre(n)</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Daß ich mir nicht wenig darauf eingebildet habe einen Brief von Ihnen zu bekommen , liebster Falk , versteht sich von selbst . Eigentlich war es sogar eine Art von Verlegenheit , zugleich mit meiner Schwester Ernestine mein Paket aufzubrechen ; - zugleich Zeit das Blatt aus dem Buche hervorzuziehn ; und zugleich Zeit vor Überraschung rot zu werden ; - sie indem sie glaubte der Brief wäre an sie gerichtet und ich indem ich eine Art von Auszeichnung zu bestehen hatte , von der ich fühlte daß sie über Verdienst war . Der Gruß Ihrer Frau , mit eigener lieben Hand für meine Schwester hingeschrieben schien mir indes eine zu große Schadloshaltung für sie um mich langer im Vorteil gegen sie zu fühlen , und es mischte sich eine Art von Unzufriedenheit zu meinem kleinen Triumph . Ihr nettes Büchelchen das so glatt und zierlich es auch in die Welt eintritt wie ich höre schon , mit rohen Händen gepackt und tüchtig geschüttelt sein soll , ist viel in unseren Händen , und fast mein ich eben so sehr um der lieben alten Bekannten Willen die man darinnen antrifft als um der vornehmen Dame der Prinzessin wegen , die übrigens mit gehöriger Andacht und Vielem Lachen zuweilen laut hergesagt wird . Daß Ihr Toms , Ihr Toms ist habe ich bei dieser Gelegenheit erst erfahren , so manches Jahr hindurch ich es auch schon gesungen habe . Das gute brave Lied ! So spät erst den Verfaßer für die lange Freude daran , danken zu Konen ! Ob die Versuchung groß sei für mich , zu Ihnen nach Weimar zu kommen , leugnen Sie darum nicht weil ich nicht komme . Es bedarf gerade eines so fünffach starken Bandes als das ist was mich in Leipzig halte , um jeden Vorschlag zu einer Reise , mit Nein zu beantworten . Berlin hatte diesen Winter eine Schadloshaltung für den ödesten Sommer meines Lebens für mich sein Konen , aber da ich nicht den Mann und alle vier Kinder mitnehmen kann , so bleibe ich lieber hier , wo außer den täglichen verwandten Gesichtern , auch nicht eins ist auf das ich mich freue , und wo wenn nicht einmal ein fremder Gast an die Türe klopft , der Theekeßel für keinen sprudelt für den es der Mühe wert wäre den Mund aufzutun , oder auch nur an die Stirnlocken zu zupfen . Es wäre recht schön wenn Sie einmal als ein freier in keine Staatsmaschine eingezwingter Mensch , es der Veränderung wegen mit Sack und Pack einmal ein halb Jahr mit Leipzig versuchten . Sie werden wahrscheinlich nicht viel besser gegen die Stadt Weimar gestimmt sind als wir gegen Leipzig ; wenn Sie , oder überhaupt Ihresgleichen hier wären , dann hatte es mit der alten dummen Stadt nicht mehr viel zu sagen , Wir drei Familien Mahlmanns mit eingerechnet würden recht zusammen halten . Der beste Kopf muß noch einen dritten oder vierten neben sich haben , der die schönsten Funken seines Geistes aus ihm hervortreibt . Mehrere müssen sich an einander erwärmen , dann kommt das Rechte Feuer in die Gemüter und auch der untergeordnetere Geist fühlt sich gehoben , als z. B. wir armen Weiber Leben Sie wohl , lieber Falk , und gewinnen Sie mir auch Ihre Frau . Minna Spaziere . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

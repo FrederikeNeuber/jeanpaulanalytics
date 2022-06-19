@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0132">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Richard Otto Spazier an Johann Friedrich Freiherr Cotta von Cottendorf.
+                    Dresden, 8. September 1825, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>DLA</institution>
+                        <collection>Cotta-Archiv</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 1 S. Unter dem Datum Präsentat und
+                                    Beantwortungsvermerk: 16. – [16. September 1825] / 25 Nov</p>
+                        <accMat>Kurze Texte Richard Otto Spaziers über die Schweiz ("einige
+                                    kleine Miniaturbilder").</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004107">Richard Otto Spazier</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1825-09-08" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000698">Johann Friedrich Freiherr Cotta von Cottendorf</persName>
+               <placeName key="JP-006315">Stuttgart 
+               </placeName>
+            </correspAction>
+            <note>Der Brief Richard Otto Spaziers war vermutlich Beilage des <ref type="letter"
+                    subtype="document"
+                    target="https://www.jeanpaul-edition.de/brief.html?num=VIII_496">Briefes
+                        Jean Pauls an Cotta vom 11. September 1825</ref> (auf beiden Briefen findet
+                    sich das Präsentat vom 16. September 1825).</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+               <term corresp="#JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Euer Hochwohlgeborenen gütigst an mich ergangene , für mich so unendlich ehrenvollen Aufforderung zur Mitteilung einiger Beiträge aus der auf meiner Reise gemachten Bemerkungen , vermag ich jetzt erst nachzukommen , indem ich erst durch den Brief , worin Sie meinen Stiefvater von Ihrer Zurückkunft benachrichtigten , dieselbe erfahren . - Euer Hochwohlgeboren erinnern sich vielleicht selbst noch , wie sehr ich früher abgeneigt war , etwas der Art aufzusetzen , wohl eingedenk der hellenischen γλαύκας Αθήναζε φέρειν; - jetzt aber bin ich Ihnen um so mehr Dank schuldig , als ein von Ihnen ausgesprochener Wunsch mich zu etwas veranlaßte , was mir selbst einige Freude zu machen anfängt . - Ich übersende daher hierbei Euer Hochwohlgeboren einige kleine Miniaturbilder von den gößeren , was ich von dem in intellektueller und politischer Hinsicht auf den Menschen wirkenden Schauplatze der Schweiz , so weit ich sie kennen gelernt habe , in mir trage . Mehr zu geben schien mir so viel zu sein als : dasselbe Thema variieren und möchten solche Variationen hinsichtlich des Wertes wohl mit Recht denen in der Musik gleich zu setzen sein . - Ob ich nun in meinem Thema einen neuen Gedanken , als alte längst vorgetragene , gegeben , weiß ich nicht , indem ich sorgfältig vermieden habe , sowohl vor als nach meiner Reise über dies Land etwas zu lesen , um das Produkt meiner Anschauungen nur mir allein zu verdanken und solche um so treuer mir in der Seele zu bewahren ; - weshalb ich die Bestimmung dieser Blätter ganz Ihrem Gutdünken zu überlasse . - Mit der innigsten Hochachtung Euer Hochwohlgeboren ergebenster Richard Otto Spaziere . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

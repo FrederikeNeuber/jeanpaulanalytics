@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0774">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Paul Emile Thieriot an Caroline Richter. Bayreuth, zwischen 1. und 15.
+                    November 1803</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3½ S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004275">Paul Emile Thieriot</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date notBefore="1803-11-01" notAfter="1803-11-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Thieriot spricht vom Novemberwetter, also muss der Brief aus
+                    der ersten Novemberhälfte 1803 stammen, als er bei Emanuel in Bayreuth war. Am
+                    15. November 1803 war Emanuel bereits in Regensburg, vgl.
+                    seinen
+                    Brief an Emanuel vom 16. November 1803. </note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012313">Thieriot-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>An die Lustpartie werde ich gedenken ! Vorhin da ich noch auf meinem Sofa sitze und meiner Fagottistin nachdenke , kommt Emanuel und schlägt mir einen Spaziergang vor . Ich schlage ein , weil ich nie etwas abschlagen kann , stecke nur noch den Damenkalender v. Ottos zu mir , und einen Bleistift für Einfälle , und so gehen wir fort . Draußen geht mir der Wind so scharf ins Gesicht , daß ich zu nichts kommen kann und schon halb verdrießlich nach jage - denn Emanuel rennt . Bald macht er Chassés links , bald rechts , tanzt sinnend über lange Feldwege quer durch Furchen , immer ohne sich umzusehen , so daß ich nicht nachkomme und mich mitten in einem Dorfe durch das wir gehen auf der Landstraße verirre . Da kommt er endlich zurück u. holt mich , und nun zieht er mich im windigsten Novemberwetter etliche Meilen weit ( englische ) bis Tenzenlohe , wo er einen Bekannten , Namens Dörfler hat , dessen Frau die Dörflerin heißt und eine Bauersfrau ist . Drin in der Stube setzen wir uns nieder , ich ziehe meinen Almanach heraus , der Dörfler sägt an einer Sauerkrautschneidemaschine , u. Emanuel scherzt mit den Leuten , ich glaube , über mich . Während ich nun dasitze und den etwas Nachdenkenfodernden Polymetern Ihres Mannes nachsinne , und Emanuel mich so vertieft sieht : zieht der sonst verdienstvolle Mann das Halbhemd hervor aus der Tasche und erzählt den aufschauenden Leuten , doch halb verschämt , nämlich meinetwegen : Da habe ich heute etwas geschickt bekommen - da fühlt einmal - das ist Leinwand , nicht ? - Ich setze nichts weiter hinzu . Unser Heimgang war ruhiger . Beschluß .Abends . Als mir eben Emanuel sagte , er wolle Ihnen schreiben : so sagte ich zu ihm : " Höre , schreibe Du kein Wort von dem bewußten ; ich will_es erzählen . Ich sehe ja , Du sprichst nicht gerne darüber . " Und nun möchte ich im Ernst wissen , was unser Em. nach diesen Annalen über diese Sache noch besonders schreiben könnte , das nicht lächerlich herauskäme , weil sich_es gewißermaßen schon verstünde . Bloß durch diese Hoffnung habe ich mich auch nur bis jetzt zu dem Bericht überwinden können . Thieriot Leben Sie wohl , Caroline und haben Sie den Dank für solche Brieflein , wie Sie mir geschrieben - d. h. die Güte , bald mehr zu schreiben . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

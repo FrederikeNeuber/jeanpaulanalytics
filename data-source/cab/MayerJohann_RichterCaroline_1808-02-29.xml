@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0368">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 29. Februar
+                    1808, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. Anstreichungen vfrH.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1808-02-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012583">Briefabfassung</term>
+               <term corresp="#JP-012761">Tod und Sterben</term>
+               <term corresp="#JP-012601">Juristische
+                        Angelegenheiten</term>
+               <term corresp="#JP-012021">Politik</term>
+               <term corresp="#JP-012538">Minna Spaziers Familienangelegenheiten</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! Deinen Brief vom 23. January habe ich richtig erhalten , u mich Deiner Fassung u Deiner Gesinnungen gefreut . ich hatte Dir in der ersten Aufwallung , und in einer Art von Ungewißheit , ob Dein Brief an die verklärte Nannette auch wohl so gerade hin mitteilbar sein möchte , solchen zurückgeschickt , u dadurch ohne meine Absicht dem Herzen des Mannes wehe getan , der mein Benehmen zwar strenge gerecht , aber doch für ihn empfindlich fand . - Er äußerte dabei den Wunsch , jenen Brief doch noch zu erhalten , und wenn es , wie ich aus einem Briefe von Minna vielmehr vermute , noch nicht geschehen , und sonst kein Bedenken dabei ist , so schicke ihn ihm noch . ich habe mich dafür zu verwenden versprochen . Deine Wünsche für mich rühren mich , beweisen aber , daß wir uns auch in der Entfernung , noch eben so , wie ehedem angehören . Übrigens ist es wirklich die höchste Zeit , daß unseren Leiden hier ein Ende gemacht werde . Denn niemand weiß mehr , wie er sich mit seinen Umgebungen fort bringen soll . Und doch herrscht überall Dunkel über die Zukunft . Zu den Sorgen die Sich mir in der Ferne nahen , gehört , daß einer der Sannische Gläubiger , von dem ich auf gemeinschaftliche Rechnung meiner Mit Erben ein Kapital von 2000 rth Gold zum Retablissement des Guts zu 4. Pro Cent geliehen hatte , nach Ablauf des ersten Jahres schon , und trotz der richtig bezahlten Zinsen , sein Kapital auf den Fall gekündigt hat , wenn man ihm nicht für die Zukunft 5 P. C. gäbe. ich habe mich zu letzterem bequemen müssen , fürchte aber teils , daß der Mensch am Ende gerade hin kündigen wird , um mich in Verlegenheit zu setzen , und das Gut zur Unzeit zum Verkaufe zu bringen ; teils verdrießen mich auch die Zins Bedingungen , die leicht die übrigen Gläubiger zu gleichen Forderungen verleiten könnten : ich muß mich also mit der Sorge quälen das Geld zu negocieren , u schreibe heute den dritten Brief nach der Alt Mark , weil ich von zwei Orten schon mit der Nachricht abgewiesen bin , daß es in der Alte Mark durchaus an Gelde fehle . Gehörte Sanne noch zum Preußischen Gebiet , so hätte es keine Not , da ein allgemeiner Indult für hypothekarische Schulden existiert ; aber in Westfalen ist dies so der Fall nicht ; und diese Sorge ist nicht die geringste die mich drückt . Denn nach dem ich Sanne in Stand gesetzt , und meinen guten Pächter darauf habe , wünsche ich es auch mit Vorteil zu verkaufen . - Sonst bin ich gesund , auch meine Frau , u wir leben zwar , wie die Schuster ; allein wir teilen doch die Sorgen . - Im Verhältnis auf Minna bestehet jetzt die wichtigste Angelegenheit in den Präparationen zum Prozeß mit Herrn Hoffe Rat Mahlmann . Er läßt getrost aufs äußerste ankommen ; und ich gehe meinen Weg , weil er sich die Verlag der eleg. Zeit in die Hände gespielt hat , und nun der Minna den Rücken zeigt . Auf Herrn W. scheint Minna noch zu rechnen , welches auch recht gut ist . Sie meint ihn durch seine Verbindung mit Herrn Johannes Müller zu heben : ich kenne nun an dem Herrn Wagner außer den gerühmten Moralisch guten Eigenschaften , ( die ich auf Glauben annehme , wenn ich ihn gleich um seiner Ehrsamen Treue Willen für einen Pedanten halte ) keinen Henkel , woran man ihn fassen kann . Er hat so wenig als Herr Mahlmann etwas von Bedeutung geschrieben , u mit dem bloßen Süß-Stof der Genialität ist doch nichts ausgerichtet . Doch wollen solche Herren als Gelehrte paradieren . Endlich hoffe ich sollst Du von Herrn v. Massenbach die Bücher erhalten haben . Melde es mir . Der junge Vaerst ist noch hier , und sein Chef , mit dem ich alle 14. Tage im englischen Hause zu Mittag eße , wo sich ein Zirkel interessanter Menschen gebildet hat , ist mit seiner Aufführung zufrieden . Wenn Du einst Zeit hast , so schreibe an die Tante Mertzdorff . Sie wird recht alt , u ist mit doppelter Einquartierung - von Soldaten u ihren Läusen geplagt . - Die Mutter grüßt Dich mit inniger Liebe . Gruß ud Kuß an Mann u Kinder. D. tr. V. Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

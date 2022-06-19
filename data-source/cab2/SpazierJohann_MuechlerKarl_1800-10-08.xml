@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0305">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl Spazier an Karl Friedrich Müchler. Leipzig, 8. Oktober 1800,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Stadtgeschichtliches Museum Leipzig</institution>
+                        <collection/>
+                        <idno type="shelfmark">A/883/2008</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1800-10-08" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002892">Karl Müchler</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012547">Zeitschriften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein teurer alter Freund Ein günstigeres Schicksal hat mich endlich wieder ins Licht geführt , nachdem ich Jahrelang in Dessau wie in einer Kimmerischen Nacht gesessen hatte . Ich lebe hier wieder unter Menschen , habe mir einen großen Schauplatz der Tätigkeit eröffnet durch eine Zeitung für die elegante Welt , wovon Anzeigen Dir wohl zu Gesicht gekommen sein werden , da sie an alle literar . Lärmplätze angeschlagen worden sind , u habe die Aussicht zu einem glücklicheren u zufriedeneren Leben , als mir seither bei mancherlei Kampf mit Mangel u Ungemach im Allgemeinen werden konnte . Ich denke , dieses Resume bin ich einem meiner ältesten Freunde schuldig , den ich hochschätze u von dem ich die Überzeugung habe , daß er ehemals viel Interesse an meinen Begegnungen nahm . Allein wie denn in der Welt Niemand eigennütziger sein kann , als ein Redakteur - es müßte denn der Buchhändler den Vorsprung haben - so verbinde ich mit dieser meiner Nachricht zugleich einen Anschlag auf Dich , mein teuerster Meuchler . Für die elegante Welt soll geschrieben werden , das heißt mit kurzen Worten , es sollen so viel möglich treffend zarte Umrisse von dem gegeben werden , was in der großen Welt vorgeht u für dieselbe geschieht . Gehören dazu nicht vorzügliche talentvolle , freie , gebildete , in größeren Zirkeln u auf größere Zirkel wirkende Menschen , die das Leben u Treiben der vornehmen Menschen von Grund aus kennen , die die ersten Nachrichten von Vorfällen des Tages ( bei Sonnen- oder Kerzenschein ) einziehen , die die wichtigsten Menschen der großen Welt kennen , zum Teil mit ihnen umgehen , sie belauschen , die Anekdote entweder erfahren oder selber interessantes erfinden u unter die Menge verstreuen u s w ? Gehören nicht insonderheit Leute dazu , wie Du , mein lieber Freund , die das Wunder bestehen , neben der angestrengtesten , ernstesten Tätigkeit des Berufes sich mit Leichtigkeit in die Freuden der Geselligkeit , in den Strudel der großen Welt u in eigene Schätzung der Dichtung hineinwerfen zu können ! Laß mich Dich also freundschaftlich zur Mitwirkung an diesem meinen Blatte auffordern , das in Absicht der Mitarbeiter in der Tat glücklicher ist , als ich es vermuten konnte , u gönne mir eben das , was Du so vielen schon erwiesen hast , die Dich vielleicht weniger angingen , als ich . Die Gesellschaft von Männern wie Baggesen , Tieck , vielleicht Jean Paul , Meißner , Ramdohr , Overbeck etc. im Fache der Erzählung u vieler anderer sehr bedeutender Gelehrter , Künstler u Geschäftsleute aus den höheren Ständen soll Dir keine Unehre bringen . Der Name Zeitung müsse Dich nicht abhalten ; sie gibt das Vorrecht nicht auf , interessante Aufsätze mehrere Blätter hindurch fortführen zu können . Willst Du also so gütig sein , der Gesellschaft , wenn nicht ( deiner vielen Geschäfte wegen ) als ordentlicher strengperiodischer , etwa monatlicher Mitarbeiter sondern als Volontär mit freiwilligen Beiträgen dich anzuschließen , so bist du mir u dem Institute freilich willkommen u ich bitte dich um diese Gefälligkeit . Es versteht sich , daß ich Dich dabei nicht in den Fall setze , wenigstens den mir für jetzt nützlichen Beweis meiner Erkenntlichkeit an Honorar , für den Aufwand deiner Zeit , zu vermissen . Ich bin dennoch so frei , Dir 1 Ld'or für den geht . Bogen zu offerieren u ich wünsche , daß du vor der Hand mit dieser Kleinigkeit vorlieb nehmen mögest . Die Sache ist erst noch im Werden u ich bin noch zu sehr eingeschränkt , da das Schicksal meiner Familie an diese Entreprise unmittelbar geknüpft ist , als daß ich mich weiter ausdehnen könnte . Sei also so gütig , Dich bald darüber zu erklären , ob u was ich von Dir hoffen u erwarten darf . Sehr angenehm u erwünscht soll es mir sein , wenn Du mir gleich für die ersten Blätter etwas geben könntest , das sich durch recht viel Pikantes auszeichnete . Ein kluger , recht freier metrischer oder unmetrischer Wunsch zum neuen Jahrhundert für ein elegantes Publikum z. B. müßte eine gute Wirkung tun . Es ist ja überhaupt so vieles , was solche Menschen interessiert , sofern es nur artig u witzig vorgetragen wird . Was bietet Berlin nicht für Seiten dem Beobachter u Kenner dar ! Kurz , ich kann u will es Dir völlig überlassen , was Du Dir auswählen willst ; ich bin auf jeden Fall überzeugt , daß Du interessante Sachen liefern wirst . Noch eins . Da es auch mit zum Plane des Blattes gehört , daß nötigenfalls in Extrablättern Feste von wichtigen Staatspersonen aus dem Civil- oder Militärstand ; ausgezeichnete Beförderungen oder Vernachlässigungen u sonstige Schicksale von Personen , die der Aufmerksamkeit der großen Welt wert sind , kürzlich aufgestellt werden , Biographien , Charakteristiken , Anekdoten von der äußeren Lebensweise berühmter Menschen etc. so habe ich für das Militärfach die Idee , ob es sich nicht beim Oberkriegs Kollegium machen ließe , daß die Ordre oder der gute Rat zum wenigsten an die Chefs der Regimenter gegeben würden , künftighin solche Nachrichten , die sich in politischen Blättern verlieren u d. dort teurer bezahlt werden müssen , für unsere Zeitung hier eingesandt würden , wobei zugleich aufgegeben würden , daß sie so kurz als möglich abgefasst , u so gut als möglich geschrieben würden . Mich dünkt dieser Gedanke ist nicht übel u verdiente wohl , von dir zum Besten der allgemeinen Sache u auch zum Vorteil der Zeitung in Anregung gebracht zu werden , als welche dadurch eine noch größere Ausbreitung erhielte . Hast du mir dieserhalb irgend einen Vorschlag zu tun , den ich der Sache selber oder der Form wegen zu befolgen hätte , so sei so gütig , mir dies bald zu sagen . Die Sache scheint mir wichtig . Insertionsgebühren sollen nicht bezahlt , aber franko müsse die Nachricht eingeschickt werden , das wäre die einzige Bedingung . Ich will zu dem Ende eine Anzeige der Buchhandlung lieber beilegen , damit Du sie allenfalls präsentieren könnest . Ich hoffe auf eine baldige u günstige Antwort von Dir . Meine Frau empfiehlt sich dir freundlich . Ich habe 2 Kinder u noch Etwas drüber . Sage mir doch , obs wahr ist , daß auch Du geheiratet bist ? Wenn es ist , so emfiel mich Deiner Liebe sehr angelegentlich . Dein Spaziere </p>
+         </div>
+      </body>
+   </text>
+</TEI>

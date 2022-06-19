@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0275">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernst Förster an Emma Richter. München, 21. Januar 1826, Sonnabend
+                    (erster Brief)</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Ernst Förster, Aus der Jugendzeit, Berlin
+                            und Stuttgart 1887, S. 345-346.</bibl>
+               </witness>
+            </listWit>
+            <p>Brief nur im Auszug abgedruckt; eventuell fehlen Anfang, Schluss oder Zwischenpassagen.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-001120">Ernst Joachim Förster</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1826-01-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0506">Von Emma Richter an Ernst Förster.
+                        Bayreuth, 27. Januar 1826</ref>
+            </correspContext>
+            <note>Einem nicht erhaltenen Brief an Caroline Richter beigelegt. Datierung nach dem
+                    Druck. Erster überlieferter Brief Ernst Försters an Emma Richter nach ihrem
+                    Kennenlernen in Bayreuth.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012533">Lektüre(n)</term><term xml:id="JP-012325">Selbstdarstellungen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wenn ich mir nun die Freiheit nehme , mein geehrtes Fräulein Emma ! auch an Sie ein Paar Zeilen beizulegen , so ist es allerdings eine Folge meiner grenzenlosen Vermessenheit , allein auch zugleich Folge der Milde und Freundlichkeit , die ich an Ihnen kennen gelernt , und so darf ich wohl auf Vergebung hoffen , da ich ja außerdem das durch die Hast meiner Abreise unterbrochene Gespräch über meteorologische Erscheinungen und literarische Schöpfungen zum Vorwand nehmen könnte , wie z. B. Jakobis Briefwechsel , in welchem Sie so gut zu Hause sind , oder Tiecks Dichterleben , bei dem wir im Ungewissen geblieben sind , ob ihm mehr Leben oder mehr Dichtung fehle ; aber auch ohne Vorwand kann und muß von etwas die Rede sein , denn ich habe einmal angefangen . Und so will ich denn vom Nächsten , wenn auch nicht Besten sprechen : von mir selber . Wenn ich an Menschen denke , oder sonst an etwas , so steht wunderlicher Weise stets etwas Anderes daneben . Wenn ich z. B. an Karl den Großen denke , so sehe ich zugleich , wie er tausend Sachsen taufen und dann töten läßt , um ihnen die Seligkeit zu sicheren ; denke ' ich an Deutschland und seine Geschichte , so steht das Heidelberger Schloß blutrot vor meiner Seele ; über Dresden wölbt sich stets ein Regenbogen ; bei Dorothea Tieck fliegt stets eine Schwalbe voraus ; Ihre Schwester Ottilie erscheint mir unwandelbar in einer dichtbelaubten Buchenlandschaft , mit einem klaren , aber grünumrankten Quell im Vorgrund mit beschränkter Aussicht in eine sonnige Ferne ; denke ich an Sie , so glänzt eine Perle vor meinen Augen . Sehen Sie ja nicht in meinem ohnehin sehr breit und ungeschickt erklärten , im Wanderschritt und -Takt auf der Landstraße fabrizierten Bilde eine Schmeichelei , die ja sehr plump sich ausnehmen müßte in diesem Spiel der Phantasie , das sich mit Schwalbe und Regenbogen und so vielem von Himmel und Erde in meine Gedanken drängt . Nun leben Sie recht wohl ! und haben Sie dabei Zeit und Lust übrig zu einem guten Werk für mich , so erinnern Sie sich jezuweilen meiner ! Es liegt des Himmels Segen darin , wenn gute Menschen uns in ihr Gebet einschließen , oder - was ebensoviel ist - freundlich unser gedenken . Grüßen Sie Ihre liebe Frl. Schwester und die Guten , die im Kreise Ihrer Familie mich durch Gesang erquickt haben . Hier bin ich sehr einsam , aber frohen Mutes und ziehe in der Dämmerstunde die Bilder vergangener Tage heran . Ihr ganz ergebener E. F. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

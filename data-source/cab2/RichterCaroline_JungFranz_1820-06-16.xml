@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0143">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Franz Wilhelm Jung. Bayreuth, 16. Juni 1820, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-06-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001981">Franz Wilhelm Jung</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012539">Frankfurter Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012265">Geschlechterrollen</term><term xml:id="JP-012601">Juristische Angelegenheiten</term><term xml:id="JP-012693">Personalien</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein teurer Herr Hofrat ! Daß Sie mit Güte noch meiner gedenken sagte mir vor Kurzem ein Brief des edlen Heinrich Vos , der meinem Mann schrieb , Sie haben mir Ihr neuestes Buch , den Torso , zugedacht , und es liege in Heidelberg für mich bereit . Wie stolz macht es mich von Ihnen dieser Auszeichnung wert gehalten zu sein , und ich freue mich im Voraus sehr darauf . Sie glauben nicht wie ehrwürdig mir Ihr Charakter ist , und mit welcher Dankbarkeit ich der Güte gedenke , die Sie für die Frau eines Mannes haben , gegen den ich ein so völliges Nichts bin , und über den die ganze gebildete Welt die Frau übersieht . Zwar freue ich mich unendlich des allgemeinen Enthusiasmus , aber indem ich ihn teile , fühle ich mich eines Bundes mit allen ihn Anerkennenden wert . Sie müssen mir daher vergeben , wenn ich Ihnen , edler Mann mich doppelt verbunden fühle - heute muß ich Ihnen aber einen Beweis meines Vertrauens geben . Sie erhalten diesen Brief durch eine Freundin von uns , einer sehr unglücklichen Frau . Es ist die Gräfin Vitzthum aus Dresden . Sie macht eine Reise nach Ems wo sie eine Zeitlang sich bei der Fürstin von Wiederrunkel aufzuhalten gedenkt . Ihr Mann ist der Hofmarschall Graf Vitzthum am sächsischen Hofe . Sie lebte unglücklich mit ihm , mag auch wohl durch die Lebhaftigkeit ihres Temperaments wohl viel Schuld an seiner Unzufriedenheit mit ihr haben . Sie ist aber zu sehr von ihm beleidigt worden , und er wünscht die Trennung . Noch immer hat sie den Weg der Güte verfolgt , aber endlich ist es Zeit ihre Rechte zu behaupten , und sie wünscht daher einen geschickten Rechtsgelehrten zu befragen , der wenn auch nicht ihre Sache übernimmt ihr doch einen Fingerzeig gibt , wie sie sich zu betragen habe . Können Sie verehrter Mann ihr in Frankfurt oder Mainz einen solchen nachweisen , so bitte ich Sie es zu tun . Erlaubt Ihre Gesundheit sie anzuhören , so wird sich Ihr Herz von selbst für sie erwärmt fühlen , wie es auch meinem Mann geschah . Frau von Ende , eine der ausgezeichnetesten Frauen in Hinsicht auf Bildung und Moralität ( dieselbe die ihren Sohn in Heidelberg während seiner Universitätsjahre umgab , und die Voss sehr gut kennt ) ist die warme Freundin der Gräfin und empfahl sie uns . Möchte Ihre Gesundheit doch jetzt ganz fest sein ! Werden Sie dieses Jahr nicht ein Bad brauchen ? Wie gern hörte ich die beruhigendsten Nachrichten darüber . Mein Mann ist in München . Diese Reise wurde vorzüglich durch den Aufenthalt unseres Sohnes bestimmt , der sein letztes Schuljahr auf dem dortigen Lyzeum zubringt . Im Herbst kommt er nach Heidelberg . Er ist des Vaters Freude , und sein Streben nach Vervollkommnung ist des Vaters würdig . Meine Töchter empfehlen sich mit mir Ihrer Liebe und Freundschaft . Ich bitte Gott innig um Ihrer und Ihrer herrlichen Familie Wohlergehen , wovon ich besonders die edle Tochter die meinen Mann so sehr anzog und rührte , mit mütterlicher Liebe grüße . Wie selig wäre ich , Sie Alle einmal zusehen . IhreSie ewig verehrende Caroline Richter . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

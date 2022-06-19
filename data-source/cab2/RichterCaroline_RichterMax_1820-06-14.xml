@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0147">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Max Richter. Bayreuth, zwischen 14. und 21. Juni
+                    1820</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S. Über dem Brief vfrH (?) mit Bleistift: Juni
+                                    1820</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Geringer Textverlust durch Tintenfleck. </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth
+                        (Stadt)</placeName>
+               <date notBefore="1820-06-14" notAfter="1820-06-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0083">Von Max Richter an Caroline Richter.
+                        München, 14. Juni 1820</ref>
+               <ref type="next" target="JP-UB0742">Von Max Richter an Caroline Richter.
+                        München, 21. Juni 1820</ref>
+            </correspContext>
+            <note>Zu Datierung: Nach Jean Pauls Brief vom 13. Juni und Max' Brief vom 14. Juni
+                    1820 an Caroline Richter und vor Max' Antwort vom 21. Juni 1820.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-011832">Gesellschaftliches Leben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein guter Max ! Wie sehr danke ich Dir , daß Du meine Bitte erfüllt und mir auch recht viel vom Vater geschrieben hast . Du geliebter Sohn , was mußt Du empfunden haben als der arme Vater in seiner frohen Fahrt nach Nymphenburg so gestört wurde . Nein so unangenehm für ihn , so erschrecklich muß es Dir gewesen sein , da man tausendmal lieber selbst ein Unglück haben , als einen geliebten Menschen davon getroffen sehen mag . Nichts beruhigt mich , als daß Du sagst , es ist alles vorüber , sage mir ja im nächsten Briefe die Bestätigung davon . Nichts macht Deine Mutter glücklicher , als daß Du mein Herzens Max recht viel um unseren Geliebten bist , und gleichsam der Resonanzboden seiner Empfindungen . Dir wird dadurch jede Freude erhöhter scheinen , und jede Fehlschlagung milder , weil Deine Liebe und Dein Mitgefühl dem geliebten Manne eine eigene und vielleicht die reellste Freude machen muß . Sage dem jungen Welden , daß seine Mutter sich über seine Unersättlichkeit nach Briefen wundere , und sie die jetzige Briefpause nicht groß halte . Aber nächstens wird sie ihm schreiben . Übrigens ist es aber für mich ein himmlischer Zug seines Gemüts daß er in Liebe und Sehnsucht nach den Seinen lebt . Vom jungen Thüngen sehe ich nichts die Wagner sagte mir neulich , er wäre etwas verschlossen : Sehr leicht kann in dem Verhältnis zur Wagnerschen Familie etwas nicht ganz zusagendes für ihn walten . Im Herbst geht er ganz vom Gymnasium ab . Fräulein Barner ist immer ganz entzückt wenn sie von Dir mein guter Sohn hört , und Emanuels Frau , eben so . Julius ist recht brav und edel , ich glaube es soll ihm gut gehen in Rußland . Für Baukünstler ist es eine Goldgrube . Schreibe mir doch auch im nächsten Briefe , ob Du Dir den Rock hast machen lassen . Überhaupt erleichtere des Vaters Ballast durch Annehmen von einigen Sachen die Dir nützlich sind . Ich habe es dem lieben Vater schon hier gesagt . Du bist ja so bescheiden und gut , daß man Dir entgegenkommen muß . Warum gibst Du nun wohl den Kaffee Wiederzurück ! Wir trinken ihn alle Tage zweimal . Ich kann ihn nicht entbehren . Frau von Welden schickt auch ihrem Sohne Schokolade , ich werde sie bitten sie mich jetzt zu des Vaters Wein packen zu lassen Lebe wohl meine Seele ! Die Schwestern grüßen Dich sie arbeiten zu sehr an einen Brief für den Vater als daß sie mehr als ihre besten Wünsche Dir sagen könnten . Lebe wohl und umarme in Gedanken Deine Mutter , wie sie - Dich . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

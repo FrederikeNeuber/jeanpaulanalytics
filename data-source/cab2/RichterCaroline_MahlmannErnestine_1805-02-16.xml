@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0298">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Ernestine Mahlmann. Bayreuth, 16. Februar
+                    1805, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. Textverlust durch Ausriß der linken oberen Ecke
+                                    von S. 3. Unter dem Datum vfrH: 1805</p>
+                        <accMat>Ein nicht überlieferter Brief Caroline Richters an Johann
+                                    Siegfried Wilhelm Mayer, der zunächst nach Bayreuth zurück ging
+                                    (erwähnt im Brief Caroline Richters an Johann Siegfried Wilhelm
+                                    Mayer vom 25. Februar 1805, dem er schließlich beilag).</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1805-02-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+            </correspAction>
+            <note>Der Brief erreichte Leipzig nach dem Tod Ernestine Mahlmanns und wurde
+                    ungeöffnet von deren Ehemann Siegfried August Mahlmann an Caroline Richter
+                    zurückgesendet, vgl. den <ref type="letter" target="JP-UB0603">Brief
+                        Caroline Richters an Johann Siegfried Wilhelm Mayer vom 25. Februar
+                        1805</ref>.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-012761">Tod und Sterben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine Tine Erst seit vorgestern bin ich über Dein unbegreifliches Stillschweigen , zwar auf eine traurige Art beruhigt was mich bis dahin so sehr gequält hatte , denn ich dachte endlich auch Du wärest gestorben . Ein Fremder der aus Freiberg kam , brachte uns die Nachricht , die arme unglückliche Minna sei an Scharlachfieber gefährlich krank gewesen , doch jetzt wieder auf dem Wege der Besserung . Welch hartes Los , für sie und Dich , armes Wurm , die das alles mit tragen muß . Wer anders als du , konnte ihre Pflegerin , und die Mutter ihrer Kinder unterdessen sein , und was musst du gelitten haben - Gott gebe , daß du gesund geblieben bist , und nicht auch unter der Last dieses Elends erliegst - ich klage mich fast an daß der Zufall mich von aller tätigen Teilnahme ausgeschloßen hat , so unschuldig ich auch daran bin - wie gerne möchte ich alles mit Euch teilen . Ich kann nun nicht fordern , daß Du mir bald Nachricht gibst , doch denke an mich u die Pein der Ungewißheit , sobald Du Dich etwas erholt hast , mein armes Herz u sage mir nur mit einigen Worten wie es Euch geht . Nächst der Bestätigung von Minna's Genesung , liegt mir nichts näheres am Herzen , als wie es mit ihrem Vermögenszustand beschaffen sein mag , ob die Arme noch Schulden abzutragen hat , u wie der Vater sich gegen sie nimmt , der sich kalt genug in einem Briefe an mich über des armen Spaziers Tod , geäußert hat . Rate Minna , aus Politik zu etwas mehr Herzlichkeit gegen mich , wenn sie von meinem Mann etwas zu haben wünscht . Und , daß sie lieber ihre Bitte durch mich an ihn tun läßt . Seine Meinung von ihrem Egoismus flößt ihm einige Kälte gegen sie ein , ob er gleich ihr Los sehr hart findet . Auch , wenn sie egoistisch gegen Dich war , in diesen unglücklichen Situation , wo Dein Handeln u Deine Liebe ihre Stütze waren , sage mir das nur auf einem besonderen Blatt ds ich für mich behalten kann . Mein Mann fand ihren Brief an ihn schon zu manieriert , u tadelte daß sie der von ihrem Unglück sprach . Du keinen Gebrauch von meinen machst bei denen ich nichts im Sinne habe , als ihren der Minna Vorteil , denn Gott weiß , daß ich nichts bratendere , u das alles sogar ungerecht finde . Ich kann Dir nichts weiter sagen , mein Herz bis ich etwas von Dir höre , indessen mag dieser Brief immer fortlaufen , um Dir wenigstens auch nebenher zu sagen , daß ich mit den Kindern wohl bin . Grüße Minna sehr - sie dauert mich unaussprechlich - wenn ich nur mehr von ihr wüsste ! Grüße sie u Deinen herrlichen Mann der auch seine Not mit der Zeitung haben mag . Gott segne , u erhalte mein gequältes Herz ! Deine Caroline . Gib doch ja gleich diesen Brief auf die Post . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

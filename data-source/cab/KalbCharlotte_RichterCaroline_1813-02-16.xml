@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0979">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 16. Februar 1813 (?),
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Kalb, S. 145–146, Nr. 116 (HE
+                            Berend)</bibl>
+                  <desc type="accMat">Zierborten als Geschenk für Caroline
+                            Richters Kinder.</desc>
+               </witness>
+            </listWit>
+            <p>Die Handschriften der Briefe von Charlotte von Kalb an Jean Paul und Caroline Richter sind seit
+                    dem Ende des Zweiten Weltkriegs verschollen. Mit Ausnahme eines Briefes sind
+                    sämtliche Briefe in der Briefsammlung Paul Nerrlichs: »Briefe von Charlotte von
+                    Kalb an Jean Paul und dessen Gattin« (Berlin: Weidmann 1882) veröffentlicht, ein
+                    weiterer Brief ist in einer Abschrift Eduard Berends überliefert, dem die
+                    Handschriften, die sich im Briefnachlass Jean Pauls befanden, noch zugänglich
+                    waren. Berend hat auf dieser Grundlage in seinem Exemplar der »Briefe von
+                    Charlotte von Kalb an Jean Paul und dessen Gattin« handschriftliche Korrekturen
+                    vorgenommen. Die Korrekturen und Ergänzungen aus diesem Handexemplar (HE), das
+                    zusammen mit dem Nachlass Berends im Literaturarchiv Marbach aufbewahrt wird,
+                    werden hier in Stellenkommentaren mit dem Hinweis auf Berends HE kenntlich
+                    gemacht. Nerrlichs Edition der Briefe Charlotte von Kalbs kann als zuverlässig
+                    gelten – mit der Einschränkung, dass er in Orthographie und Interpunktion stark
+                    normierend in die Texte eingegriffen hat. Ergänzungen und aufgelöste Abkürzungen
+                    hat Nerrlich im Ganzen sorgfältig kenntlich gemacht. Im hier edierten Text
+                    wurden die Herausgeberanmerkungen (unlesbare Stellen, fragliche Lesungen,
+                    Hinweise zu Textverlust sowie Ergänzungen und aufgelöste Abkürzungen)
+                    durchgehend aus D übernommen. Nerrlichs Ergänzungen in den Datumszeilen
+                    (insbesondere Jahresangaben) wurden hingegen nicht übernommen.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1813-02-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note>Zur Datierung:  Der Brief enthält keine Jahresangabe und wird hier (wie auch
+                    in D) auf 1813 datiert, weil er nicht nur dieselbe Absendeadresse wie der Brief
+                    vom 6. Mai 1813 hat, sondern vorallem ähnliche Begrifflichkeiten enthält, die
+                    nahelegen, dass er denselben Handel zum Gegenstand hat. Charlotte von Kalb
+                    unterhielt Handelsgeschäfte, um sich finanziell abzusichern, die Caroline
+                    Richter als Kundin und Vermittlerin unterstützte. In dem Brief Johann Siegfried
+                    Wilhelm Mayers an Caroline Richter vom 2. November 1808 taucht erstmals ein
+                    Hinweis einer Bezahlung Charlotte von Kalbs im Auftrag Caroline Richters auf,
+                    dem bis zum 28. Januar 1814, wo Mayer eine nun "verringerte Teilname" Caroline
+                    Richters an Kalbs "Spekulationen" thematisiert, immer wieder Nachweise eines
+                    Handels unter den beiden folgen.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012778">Geschäftliches</term>
+               <term corresp="#JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Über meine ökonomische Lage muß ich Ihnen auch sagen : das Schlimmste war nicht der Mangel aller Revenuen in Jahr und Monaten , als die beständige täuschende Verziehung . Die Armen waren selbst betrogen . Andere , so mir wenigstens die Wahrheit schuldig wären , raubten mir auch diese , und dies allein hat mir vielen Kummer gebracht . Ich habe zwar in diesem Jahr von einigen besonders Vortrefflichen etwas erhalten , welches zu Arbeiten verwendet , die sowohl ich als meine Tochter besorgt ; dies allein hat uns gerettet . Viele Wohlhabende lassen bei mir arbeiten , unter denen selbst meine teure Prinzessin Wilhelm und Prinzessin von Kurland . Da ich gerne die öftere Sorge neuer Wahl vermeiden möchte , lasse ich gerne von einer Art und Form mehrere Stücke arbeiten und bin auf diese Weise , um es mir vorteilhafter zu machen , mehreren wohltätig . So wünschte ich auch an entfernte Orte versenden zu können . Wollen Sie mir auch erlauben , Ihnen zuweilen etwas zu schicken ? Vielleicht machte selbst ein Kaufmann auf dergl. Bestellungen . Nichts ist sonderlich schön , vielleicht aber brauchbar . Ich gebe Ihnen immer die Preise an , wie ich es hier verkauft habe ; Sie können es auch billiger geben . Denn mit solchen Dingen ist_es wie mit Blättern , kein neues kann blühen , wenn das alte nicht vergangen ist . Ich erkenne es als eine unvergeßliche Wohltat , wer sich in dieser Sache meiner und meiner Kinder annimmt . Auch habe ich den Tadel recht gerne und die Anweisung , die , wie ungeschickt bin ich in allen - schön könnten wir oft den Abend meines Lebens beisammen weilen . Und wer Lust hat nach Berlin zu kommen , komme jetzt , wo der mächtige Geist am neuen Leben schaffen kann . Lebt wohl , lebt wohl ! sendet bald Gesinnung und Freude Eurer Charlotte . Berlin , Lindenstraße 66 Die Borten sende ich den lieben Kindern , Emma wohl am meisten . Liebe Mutter , erlauben Sie den lieben Wesen diese Bande ! Es ist keine Zierde , aber mein Name werde ihnen damit bekannt . Ich habe diese Fasson gefunden , und vielerlei und mancherlei wird darin bestellt </p>
+         </div>
+      </body>
+   </text>
+</TEI>

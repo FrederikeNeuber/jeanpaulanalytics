@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0516">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Uthe-Spazier an Caroline Richter. Dresden, 7. November 1819, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Tintenflecken.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1819-11-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012575">Familie(n)</term><term xml:id="JP-012449">Kinder</term><term xml:id="JP-012761">Tod und Sterben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Du kommst nun zu spät nach Berlin , geliebte Karoline , und mein jetziger Brief , so lange auch ich zu schreiben säumte uns Allen viel , viel zu früh . Ich sage mir selbst , ich habe das Ärgste bereits belebt beim Anblick unseres Dahingegangenen , ehrwürdigen , ältesten Freundes : Da er im Juni Monat hier durchgieng . Damals schon mußte ich ihn als einen Gewesenen beweinen , er war gegen das was wir vormals in ihm sahen - bereits ein Abgeschiedener . Dennoch wie vermag ein Kind , sich nicht recht von Herzen mit in die Grube sehnen , in welche man die Eltern versenkt ! - Wir wollen uns nicht erweichen ; wir sind ja anständige Frauen , und wissen die Ordnung der Dinge auswendig die Leben auslöschen und anglimmen läßt . Allein , wenn wir Beide zusammen kämen , es wäre doch wohl ein anderes Mit einander trauern , und sich ausweinen , als die Meisten uns kennen . - So ein gewöhnliches Schreiben und Sprechen über Zustände wird wie wir fühlen , wohl auch je länger je mehrvermieden , statt gesucht . Seit Monaten habe ich gar Vielerlei schon an Dich zu schreiben gehabt . Vieles gar Wichtiges und Ernstes , vieles Verdrießliche , und Edle Dir sagen können , aber wozu mir selber , Böses noch deutlicher ausmalen , Dich beunruhigen ? - Bis zum letzten Sonnabend , wo ein Brief von Rabens an Julius , der bis diesen Morgen unter uns wohnte - die ganze Inhalt Schwere mich ahnden ließ , noch ehe er erbrochen wurde - bis zu diesem Tage , glaubte ich die Verwicklungen um mich her , durch Emmas ungewiße Lage , den Reibungen der Geschwister untereinander , dem Partei Nehmen für und wider die Eltern , des Unmuts im Julius der so rechtlich und kindlich , dabei gewaltsam , durch den Wirrwarr hindurch schlug ich glaubte daß allerhand Stockungen was die Gewißheit des Auskommens mit so vergrößertem Personal anbetrifft - hinreichende Bedrückungen wären , um sie für mich allein tragen zu mögen , und am Wenigsten Dich damit zu behelligen . Wie sind nun alle diese Hemmungen und Quälereien , so gar nichts , gegen den Todesstoß der unserem Familien Dasein gegeben ist ? - Denn war Er nicht am Ende doch wie eine feste Burg von uns zu betrachten , in die sobald man nur selbst schuldlos sich wußte , Zuflucht im Äußersten zu finden war , und so bald Fliehen , nicht Feigheit - sondern Tapferkeit genannt zu werden verdiente ? - Laß es auf sich beruhen , geliebte Karoline , wenn meine Äußerungen wie Rätsel Dir vorkommen , wie leicht sind jedoch alle Rätsel meines Lebens gelöst , wenn ich nur zurückrufe , wie oft Vater und Mutter von mir unschonend behandelt wurden , denn " Jede Schuld rächt sich auf Erden " - - - - Daß ich mein Kind wenig Tage zuvor gewöhnt hatte , läßt mich das Glück fühlen , nach langem Zwischenraum , zu leiden , ohne ein anderes geliebtes Wesen mit leiden zu machen . Das Kind ist herrlich , und wenn ich dieses und den Julius ansehe wie er es in seinen Armen schaukelt , so fühle ich unter Grauen - Wollust , wie nur Mütter sie erfahren . Heute ist Julius aufgebrochen nach Berlin . Die Großmutter verlangte ihn . Es war sein Ernst sein Wunsch hier zu bleiben . Alles war ihm Recht , er mochte nun Röhren löten mit dem Vater , oder Zinkplatten für ihn glätten . - Jedes Werkzeug war seine Hand gewohnt , das Brot gab , und die Trennung von der Mutter hinderte . Jeder frohere stolzere Plan war bei Seite gelegt . Nur dem Vater in seiner vollen Tätigkeit , so vielen das Notwendige zu gewähren beizustehen , ihm wenigstens über die jetzigen Steine und Dornen wegzuhelfen die ihm in den Weg lagen - mir das Kind abzunehmen , wenn meine Arme erlahmten - hier wegräumen , dort einrichten zu helfen , daß war sein Vorhaben für den Augenblick ; daneben aber die fantastischen Ausprüche der älteren Schwester wie die Derbheit der Jüngeren in Zaum halten ; den zwischen Beide - zwischen Alle - schwankenden Vater die rechten Schritte vortreten , die Aufgabe welche sein rechtschaffenes Gemüt sich selbst auflegte . - - Was die Großmutter eigentlich vom Julius will , mit Bestimmtheit läßt sich es nicht ahnden , doch vorenthalten konnte man ihr den Jungen nicht , für den schon als Kind sie Mutter Sorgfalt geübt hatte . So hast du geliebte Karoline endlich Antwort auf deine vielen liebevollen Briefe . Diese trafen mich sämentlich auf dem Dorfe Osterwitz bei Pillnitz wohin ich den Sommer über mit meinem Kinde und Minona geflüchtet war , meinem Mann und Emma beide allein die Führung des Hauswesens in Dresden überlaßend . Ich hatte viel Mühe da draußen , mußte mein Kind durch Berg Gründe , und Wald Straßen selbst tragen , hohe Plätze mit ihm hinaufklettern , wenn bei feuchtem Wetter , die nahe Elbe ungesunde Düfte ausatmete , und bei stürmischen Wetter Niederungen aufsuchen . Allein ich hatte den reinen Himmel über mir unschuldige Dorf Kinder , um mich spielend , Viehherden , am Abhange in der Ferne , fröhliche Weinleser , mir gegenüber , keine Sorge für Mittag und Abendbrot , kein widerspenstiges Dienstmädchen , keine in Streit begriffene Kinder und Hausgenoßen . Wir hatten manchen Tag nur Milch oder Kartoffeln um uns nicht mit Kochen oder sonstigen Plackereien zu quälen ; nur das Kind war meine einzige Beschäftigung , so konzentriert mein Gedanke auf dieses liebe kräftig sich ausbildende freundliche Geschöpf , das keine andere Nahrung begehrte und freudig annahm als meine Brust . - Ach ich hätte den ganzen Winter selbst , so still für mich bleiben mögen . Wöchentlich zwei Mal kam mein Mann , oder verlebte mehrere Tage mit mir allein da draußen , immer in Frieden wenn wir allein waren ; Krieg aber gab es sobald Mehrere in das einfache Wesen sich mischten , und mit ihren ungestümen Anforderungen , oder ungebührlichen Empfindlichkeiten , und anderen Verschrobenheiten sich zwischen uns drängten . ich werde schnell abgerufen Lebe wohl , die Besorgung der tiefen Trauer für vier Personen ist ein schwerer Stand für meine Kasse . Aber ich habe doch nichts unterlaßen was mein Gefühl mir gebot . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

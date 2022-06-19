@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0638">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 7. Oktober
+                    1807, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2 ¼ S. Auf S. 2 unter dem Brief um 180° gedreht
+                                    Federproben, auf S. 4 kindliche Zeichnungen.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1807-10-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012021">Politik</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! ich habe Dir nach Empfang der Richtärschen Zinsen für den 1. dieses , Deinen Rechnung Abschluß seit dem 1. 7. ten 1806 versprochen . Er liegt auf umstehender Seite bei ; und Du hast danach ( ohne Abrechnung für das Nessel Garn , u Färber Lohn , dafür Du mir einmal wieder ein Paar Pariser schicken magst ) noch einen Bestand von 19 rth - ,- Gold zu fordern . ich schicke um der Weitläufigkeit der Berechnung Willen , statt dessen 20 rth Gold ; und bitte mir über die 19 rth Gold Quittung aus . Für den überschießenden Taler laß die Bücher binden , die ich Dir geschickt habe . ich u Deine Mutter sind gesund ; sonst aber in der unangenehmen Lage einer zunehmenden Not . In Bezug auf Minna habe ich mich bei dem wahrscheinlich schon erfolgten Tode des Professor Tillich entschloßen , den Julius zu mir zu nehmen , den ich nun erwarte . Dadurch wird der Minna eine große Sorge abgenommen . Lebe wohl , grüße Deinen Mann , u küße Deine Kinder . Meine Frau grüßt . Dein treuer Vater Mayer Nun habe ich eine Partie Schulbücher zu rechte gelegt ; und kann sie bei Gelegenheit an Dich schicken . Denke daran . Einnahme Richtersche Zinsen von 1000 rth Gold auf ein Jahr und drei Monat vom 1. Juli 1806 . - 1. Oktober 1807 . 50 rth , - ,--- dito von 100 rth Gold Kapital 1. Juli 1806 . - 1. Oktober 1807 . 5 rth - ,--- summa 55 rth -- ,--- Ausgabe Zur Witwen Kasse pro 24.7 . ber 1806 12 rth - , Gold . pro 24. März 1807 12 rth - , pro 24. 7. ber 1807 12 rth - summa 36 rth Einnahme 55 rth Ausgabe 36 rth Bestand 19 rth Gold Mayer d. 7.8 . ber 1807 . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

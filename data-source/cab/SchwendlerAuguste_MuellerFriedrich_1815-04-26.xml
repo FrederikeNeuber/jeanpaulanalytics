@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1124">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Friedrich von Müller. Meiningen, 26. April 1815,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/540, Bl 27-28</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1815-04-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012931">Krieg</term>
+               <term corresp="#JP-012021">Politik</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Entschuldigen Sie mit Nachsicht , mein teurer Freund , daß ich nicht gleich nach Empfang Ihrer freundlichen Zeilen Ihnen dafür dankte und für die gütige Aufnahme meines Leopolds ! Schwendler ist in Consinigtions- und Lieferung Angelegenheiten schon seit acht Tagen im Oberlande während der Zeit er mir mancherlei kleine Besorgungen aufgegeben hatte , die mich in der Tat so beschäftigten daß ich nun erst jetzt den ersten freien Augenblick benutzen kann . Unendlich schwer ist mir dieses Mal der Abschied von meinen Liebling geworden , ich will nicht rechten , nicht richten um und für den neuen Kampf , weil ich ihn aus einen höheren Gesichtspunkt nehme , aber wenn man einmal aus namenlosen Gefahren einen Geliebten hat entkommen sehen , dann zittert man , solches Glück zum anderen male hoffen zu dürfen . Das halbe Jahr in Erlangen war von vielseitigem Nutzen für Leopold , so flüchtig seine Erscheinung auch bei mir war , so entgingen mir die Vorteile nicht , die ein gewählter Umgang dort auf seine Bildung hatten . Dauert der Feldzug lange , so werde ich leider Verzicht tun müssen , ihm seine akademische Laufbahn wieder anknüpfen zu sehen ; da er dieses Mal sogleich als Offizier in Dienst und in die Adjutantur des Königs tritt so läßt sich ein solches Conocement für ihn erwarten , welches ihm nach den Frieden , den Abschied zu fordern , fast unmöglich machen wird . Für den Augenblick hat er mir versprochen , beendet sich die große Crisis in einem halben Jahre , so fängt er seine Studien wieder an , wo nicht , nun dann muß ich mich drein ergeben daß jetzt kein Individuum einen Willen hat , sondern daß die Zeit mit ihren gewaltigen Erscheinungen das Schicksal der Einzeln wie des Ganzen bestimmt . Mit dem herzlichsten Danke , bin ich durch Leopold Ihre Schuldnerin geworden , da es vielleicht möglich wäre , daß Sie , liebster Müller , in der hiesigen Gegend über die Summe disponieren wollten , so erwarte ich einen Wink von Ihnen , wohin ich zahlen soll . Gelingt es , meinem Sohn , mir Amanda , zurück zu führen so haben meine beiden Kinder die Freude bei Durch Reise in Weimar Sie zu sehen , nach Ihrer gemütvollen Weise spenden Sie einstweilen meine mütterlichen Grüße aus . Luhdens Aufruf ist vortrefflich , in die Nemesis konnte und wollte ich mich nicht versteigen , aber in die National Zeitung habe ich einige Worte gesendet , die meiner Überzeugung und meinem Gefühl mehr lagen , und die sich auf einen herrlichen Aufsatz beziehen , den ich vor einigen Wochen , in derselben las : Der neue heilige Krieg . Es ist fast unmöglich in der ernsten Zeit , nicht zuweilen so ergriffen zu werden , daß der Gedanke zum Buchstaben wird , wohl möchte ich etwas von Ihnen lesen , so sinnig ans Herz sprechend , wie Ihre Sprache immer ist . Endlich wird ja nun der Kongreß zu Ende gehen . Hr. v. Erffa wird in der künftigen Woche hier erwartet . Über Deutschlands Gestaltung verlautet in institutioneller Hinsicht noch nichts . Man ist hier sehr ängstlich über die Nähe meiner Landsleute von Henneberg aus , da sich Preußen diesen Distrikt Sachsens schlechterdings vorbehalten hat . Ich hoffe , nach und nach werden die Gemüter ruhiger werden da die große Welt Angelegenheit Napoleon alle Aufmerksamkeit an sich ziehet , und gegen diesen Welten Stürmer wohl meine wackeren Preußen wieder das Beste werden tun müssen . - - Feodora habe ich noch nicht zu Augen bekommen , die Fouqué schreibt unendlich viel und rasch , bis jetzt ist ihre geübtere Feder die bessere gewesen möge es so bleiben ! - Ihre Großherzoglichkeit wird gewiß manche Veränderungen nach sich ziehen , fürs erste möchte ich wünschen daß die Besitznahmen in unserer Nähe , S je zu uns führen möchten , ich kann es weder vergeßen , daß ich Sie letzt in Liebenstein nicht sehen konnte , noch daß ich mir das letzte Mal einen kleinen Besuch in Weimar selbst versagen mußte . Wilhelm Stein der Vater leidet unaussprechlich , es ist keinen Zweifel mehr unterworfen , daß seine Krankheit , das fürchterlichste aller Leiden die Brustwassersucht ist . Noch sträubt sich freilich gegen die Zerstörung des edelsten Organ seine übrige Gesundheit , aber weil auch seine ganze Lebensweise zu jener hinangeleitet hat , so geben die Ärzte alle Hoffnung wenigstens zu seiner Wiederherstellung auf . In Nordheim ist Frau v. Stein außerordentlich von den französischen Begebenheiten angegriffen , ihre Brüder hängen ohne Zweifel dem vom größten Despoten scheinbar zum Demagogen gewordenen neuen Herrscher an , ihre Mutter , Schwestern und Schwager dem Könige , und so erhält sie fast von niemand Nachrichten . Welches Volk ! - Die Post eilt , Gruß und Liebe den Ihrigen , mit ewiger Dankbarkeit die Ihrige Henriette S. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

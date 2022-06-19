@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1305">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 3. November 1809, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>ehemals Slg. Apelt</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. u. 1 Bl., 4 S. </p>
+                        <p>Auf zwei Seiten des Doppelblattes befindet sich der Briefschluß
+                                    von B von Caroline Goldschmidts Hand.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1809-11-03" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB1304">Von Caroline Goldschmidt an Emanuel.
+                        Wien (?), 1. September 1809, Freitag </ref>
+            </correspContext>
+            <note>Emanuel beginnt mit seiner Briefabschrift auf dem Bogen des Briefschlusses von
+                    B.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012048">Briefverkehr</term><term xml:id="JP-012278">Freundschaften</term><term xml:id="JP-012265">Geschlechterrollen</term><term xml:id="JP-012021">Politik</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Weit war ich Ihnen davon gelaufen , gute Car . und bald wäre ich eher nach Paris gekommen , als Sie . Über dem Rhein , auf französischem Grund u Boden war ich schon u Ihre Worte vom ersten Sept . machten diese Reise in meiner Brieftasche mit . Meine Einquartierung , ein braver französischer Offizier , wurde nach Straßburg gesandt . Er trennte sich nicht gerne von seinem Wirt u bat also diesen mit ihm zu reisen . Dieser trennte sich nicht gerne von seinem Gast u ging mit ihm . Eigentlich sehnt ich mich lange nach mehreren meiner Freunde , die ich auf dieser Reise , in Nbg . Stttg. Carlsr. Eßlingen u. s. w. gesund u froh sah . Meine Freunde Brauns in C. verließen 3 Tage vor meiner Ankunft diesen Ort ; ich mußte also ihnen nach Freiburg , 18 Stunden über Straßburg , nach gehen . Jette Br. las sich ihren Gruß also eigenaugig aus Ihrem Brief heraus . Durch mich dankt sie recht schön und warm dafür . Ich sah viel Schönes , viel Neues und genoß viel Gutes auf dieser Reise , die ich schnell u vergnügt endigte . Kaum 8 Tage zu Hause , musste ich n. Döhlau , wo mich die beste Nachricht , die des Friedens traf . Am 19ten Abends kam ich hier wieder an , an demselben Morgen mußte mein guter Offizier mein Haus verlassen , ohne mir ein mündliches Lebewohl sagen zu können . So lebt ich seit meinem Schweigen , Car . Wenn uns der liebe Gott einen dauerhaften Frieden gegeben - das sind die besten für die Untertanen - dann wird er uns bald wieder bessere Tage geben . Schon die Aussicht auf diese ist gut . Mein " fürchterlich " musste ich schon dieserwegen auslöschen , weil es eines von meinen Worten ist , die ich zu oft ausspreche , und dieses oft ohne mir eigentlich etwas fürchterliches dabei zu denken ; also aus Sprachrichtigkeit so wohl , als aus Ehrlichkeit . Durch diese Verbesserungen hab ich mir schon manches Wort abgewöhnt . Es sollte mich wundern , wenn Sie bei sich nicht auch in dem Falle gewesen und vielleicht nicht noch wären . Wie ich schreibe so meine ich es u daher müssen mir es meine Freunde schon erlauben , meine Worte aus zu besseren , wenn ich sie nicht übereinstimmend mit meinen Gedanken finde . Ich mag nie mehr ausdrücken , als ich geben will , lieber weniger . Nach meinem Gefühle ist nicht das Geliebtwerden , sondern das Lieben ; nicht das Nehmen , sondern das Geben das Höchste , das Reinste , das Himmlischste auf dieser Erde . Sie können also mit sich wohl zufrieden sein u mit Ihrer Liebe . Auch als Mädchen ist es Ihnen eher erlaubt , das Wort des Ausdrucks nicht so genau zu nehmen , wie mir dem Manne . Daß ich nicht von jener Zurückhaltung , von jener Zartheit spreche , die vom Weibe mehr als vom Manne verlangt wird , das trauen Sie mir zu . Aber um wieder auf mich zu kommen bin ich es überzeugt , daß ich rein liebe die Menschen u in ihnen meine Freunde u in allen meinen Gott , und , daß ich nie verlange , weil ich es nicht verlangen , sondern nur leise wünschen darf , so rein geliebt zu werden , als ich liebe . Höchstens ein Mann könnte meine Liebe erwidern u vielleicht erwidert sie mir mein Uhlfelder . Ich traue es ihm zu . Er grüßt Sie freundlich . Daß Sie nicht gesund sind , Car. , das tut mir leid , sehr leid , denn alles andere läßt sich eher ertragen als Krankheit , u weiß ich meine Freunde nicht wohl , dann ist mir_es auch nicht wohl . Sagen Sie mir bald , daß Sie gesund sind . Im Winter werden Sie wohl nicht mehr reisen . Ich bin zwar auch in ihm bisweilen auf dem Lande ; da Sie Ihre Reise auf jeden Fall anzeigen : so kann ich Sie nicht verfehlen . Einsam ist mein Leben u immer mehr einsam , da ich Gesellschften immer weniger suche . Ich danke Ihnen Car. , für diese Stunde Unterhaltung mit Ihnen u für so viele , voll des guten Andenkens. Em . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

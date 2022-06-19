@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0744">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emanuel. Bayreuth, 4. Juni 1809, Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBa</institution>
+                        <collection/>
+                        <idno type="shelfmark">OFS.Autogr. R
+                                                  1b(1808.06.07</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S., S. 4 Adr.: Herrn | | in | </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Minimaler Textverlust durch Siegelausriss und verwischte Tinte.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1808-05-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+            </correspAction>
+            <note>Präsentat: 7 beantw. (Antwort nicht überliefert.) Zur Datierung: Die
+                    Jahreszahl von Caroline verschrieben, Antonie von Mützschfahl reiste erst 1809
+                    in die Schweiz.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012183">Festlichkeiten</term><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ihre Entfernung Emanuel gibt mir den Mut Ihnen eine Bitte zu tun die mündlich vorzutragen , mir fast unmöglich ist . Es nahet mein Geburtstag heran , den Ihre Liebe mir immer zu verschönern gewußt hat , so gern ich da den Anteil der Menschen zu entfliehen gewünscht habe . Ich wünsche nicht - ich hoffe nicht - daß Sie auch diesmal durch Ihre Güte dem unbedeutendsten Tage einen Wert geben - aber die immer gewohnte gleichbleibende Sehnsucht Ihrer Seele , Sich in Gaben auszusprechen , könnte auch jetzt die Schonung überwiegen um die ich Sie lange gefleht habe . - - Wenn ich aber in dem jetzigen Zustand meiner Seele Ihnen sage , daß es mir die tiefste Demütigung sein würde wenn Sie mir ein Geschenk machten , wenn ich wirklich dann wenn man mich dennoch nicht verschonte die undankbare Unzartheit haben müsste - es zurückzugeben - in dem Moment zurückzugeben , wo Ihre fromme Liebe gegen die Menschen , Sie in die heiligste Stimmung versetzt hätte - Emanuel die Aufgabe wäre zu hart für mich , und dennoch ist mein Entschluß fest die harte Tat zu begehen . Schonen Sie mich verehrter Mensch - und verzeihen Sie die Entschiedenheit meines Ausdrucks aber Ihr freier unbefangener Sinn , wird mich nicht missverstehen . Geht es Ihnen gut Emanuel ? Bald hoffe ich das aus Ihrem Munde zu hören denn nach so langer Entfernung werden wir Sie doch bald wiedersehen . Mein Mann reißt wenn der Himmel so rein ist als Ihre Seele im Anfang Juni nach Alexandersbad um sich ein rendez-vous mit der Lochner zu geben - die auf 4 Tage dahin kommen will . Die Schwendler hat an Henriette Schukmann geschrieben , uns alle grüßen | lassen , und gesagt das Antonie im Juli nach der Schweiz reisen wird . Unsere Odilie ist nicht wohl - sie hatte ein kleines Fieber - aber ich hoffe daß die nach Ihnen verlangenden Kinder Ihnen entgegenlaufen werden . Wann Sie zurückkommen kehren Sie doch ein wenig bei Lenz in Bernek ein . Die Schuckmann machte mir neulich ein rührendes Bild der einfachen Glückseligkeit dieser Menschen mit denen sie einen Tag in Berneck gelebt hatte . Dieser Sinn für das ächtmenschliche ist in der H. Schukmann etwas ehrwürdiges - da die Welt-Verhältnisse so viel Rechte auf sie haben . Leben Sie wohl bis ich Sie wiedersehe möge sich alles vereinigen um Ihr Dasein auf dem Lande und Ihre Rückreise zu einem wahrhaft frohen Genus zu erhöhen . Mit unvergänglicher Liebe Caroline . mein Mann weiß nicht daß ich schreibe sonst grüßte er Sie , - - - </p>
+         </div>
+      </body>
+   </text>
+</TEI>

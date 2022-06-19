@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0317">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, Ende Januar (?) 1811</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Bl. 8°, 4 S.</p>
+                        <p> Auf S. 3 energische Tilgung zweier Wörter vfrH.</p>
+                        <accMat>(nicht überlieferter) Brief Julius Spaziers. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date notBefore="1811-01-18" notAfter="1811-03-08" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Am 18. Januar 1811 kehrte Caroline Richter nach Bayreuth
+                    zurück, nachdem sie Wochen in Altenburg zur Pflege ihrer erkrankten Schwester
+                    Minna Spazier verbracht und danach noch den Vater, zu dem Minna Spazier Anfang
+                    Januar gebracht worden war, in Berlin besucht hatte. Der Brief wurde nach
+                    Caroline Richters Rückkehr nach Bayreuth geschrieben und ist, da er Minnas
+                    Verbindung mit Brockhaus noch nicht kategorisch ausschließt, der erste von zwei
+                    undatierten Briefen Mayers an Caroline Richter aus den ersten Monaten des Jahres
+                    1811.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012538">Minna Spaziers Familienangelegenheiten</term>
+               <term corresp="#JP-012350">Minna Spaziers Beruf</term>
+               <term corresp="#JP-012626">Minna Spaziers Kinder</term>
+               <term corresp="#JP-012212">Liebesleben / Ehe</term>
+               <term corresp="#JP-013235">Minna Spaziers Erkrankung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Liebe Caroline ! ich habe Deinen Brief vom 18ten January mit der Nachricht von Deiner glücklichen Zurückkunft mit Vergnügen erhalten ; u kann Dir dagegen die Beruhigung gewähren , daß ich an der völligen Herstellung von Minna wenn gleich in unzubestimmender Zeit nicht zweifle . Die Gründe meiner Hoffnung liegen in dem was sie sein kann , wenn sie sich selbst äußerlich wieder gefunden haben wird , und in meinen gewissermaßen strengen Maß Regeln , sie dahin , und aus dem inneren Brüten auf sich selbst heraus zu bringen . ich bin nämlich unerbittlich in der ärztlichen Vorschrift der täglichen Bewegung , und der tätigen den Geist selbst in Bewegung setzenden Beschäftigungen ; u scheue in ersterer Rücksicht selbst die Kosten des Fahrens nicht , wo die Witterung ihr Vorwand gegen das Gehen gibt . Herr Langermann mit dem ich vorgestern aß , billigt auch den Weg den ich gehe . Die Haupt Sache ist nun , daß ich meine Frau gegen Ostern von der Last befreie , die sie bisher mit so vieler Teilnahme für mich getragen hat , und bis Ostern gern tragen will . Alsdann aber werde ich der Minna ein eigenes Quartier mieten , u sie dort mit Emma wohnen lassen . Du siehst aber ein , daß es zu viel gefordert sein würde , wenn ich chambre garnie für sie mieten sollte , um den Mangel ihres eigenen Wirtschafts Bestandes zu ersetzen ; und ich mache es Dir zur Pflicht dafür zu sorgen , daß ihre sowohl Altenburgsche als Leipziger Sachen , noch zeitig vor Ostern mit guter Gelegenheit u so wenigen Kosten als möglich sicher hierher gebracht werden . Denn Herr Br. der ein so selbstsüchtiger Flegel ist , daß er in seinen Briefen an Minna auch keinen Gruß für mich u meine Frau übrig hat , hat noch keinen Termin für seine Vereinigung mit Minna gesetzt , vielmehr ihr eine Arbeit eines Jahres ( die Übersetzung der Briefe der Sevigny ) angetragen ; so daß er bis dahin auf ihren Aufenthalt in Berlin zu rechnen scheint . ich will nun auch einmal annehmen , daß aus der Heirat überhaupt etwas wird , welches wohl mit von der Geistes Probe durch jene Übersetzung abhängen soll , die zugleich körperliches Wohlbefinden voraussetzt , so ist doch diese Probe Zeit für mich u meine Frau zu lange gestellt ; u ich wiederhole also meine Forderung der herzuschaffenden Sachen . Man wird ja dann sehen , wie Deine Bemühungen deshalb in Altenburg u Leipzig aufgenommen werden . Herr Mahlmann hat sich wie ein kluger Mann gegen Herrn Br. genommen . Dieser wird ihm zwar solches , wie mir mein Benehmen verdenken . Aber das ändert für den dritten besonnenen Mann nichts in der Ansicht der Sache . So wie die Sachen jetzt liegen , war Minna als Mittel zum Zweck , also zum Opfer für einen höchst ungewißen Zweck bestimmt , und das war von Herrn Br. u seinen Freunden gegen eine Mutter von 4. Kindern , die ihren Vater auch wohl verlieren kann , nicht edel . Daß Du Herrn M. 50 rth zur Reise geliehen , ist mir lieb ; u ich werde Dir diese Kosten Deiner aus Liebe für mich gemachten Reise ersetzen , so bald ich kann . Jetzt habe ich es nicht . Deine Apologie für Minna ist über tolerant . Nach dem was mir Herr Br. von Produkten ihrer Gutmütigkeit gesagt hat , kann nur Mitleid meine Zunge im Zaum halten . Welch ein strafbarer Leichtsinn ! Alles was ich in guter Absicht ( um den Druck des Gewissens zu lüften ) getan habe , ist ihr gesagt zu haben , für mich gebe es kein Geheimnis ihrer Vergangenheit mehr . Dies verbunden mit nicht weiter Ausbreitung über die Sache , scheint auch etwas zu ihrer Beruhigung beigetragen zu haben . Auch habe ich ihren Wiederwillen gegen Emma ihr aus dem Bewußtsein deutlich gemacht , daß Emma um alles wiße , u indem ich Emma weiter ungefragt lasse , u sie ernstlich zur Pflichtmäßigkeit gegen die Mutter hingewiesen habe , hat sich das Verhältnis gebessert , u es wird nicht nötig sein , nach Deiner idee die Emma aufs Land zu bringen . Emma ist zu jeder guten Richtung fähig , u in vielen Stücken läßt sich von ihr mehr , als von Minona erwarten . verzeihe übrigens , wenn ich nicht an Herrn Mahlmann schreibe ; auch er hat mich zu tief beleidigt . Du als Schwester von Minna kannst das beste wirken . Rechts Gründe sind verworfen ; mache Du die der Billigkeit geltend . Der Brief von Julius erfolgt hierbei zurück . Grüße Deinen Mann , u küße Deine Kinder . Der Emma noch einen Kuß für ihr Andenken an mich . Dein treuer Vater Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

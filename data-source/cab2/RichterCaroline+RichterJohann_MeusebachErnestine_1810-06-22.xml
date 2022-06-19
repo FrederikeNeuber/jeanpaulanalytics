@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0471">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Jean Paul und Caroline Richter an Ernestine von Meusebach. Bayreuth, 22.
+                    Juni 1810, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBB</institution>
+                        <collection/>
+                        <idno type="shelfmark">Autogr. I / 3073 </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. 3 S. von Jean Paul, 1 S. von Caroline
+                                    Richter.</p>
+                        <handDesc>
+                           <handNote xml:id="JP-999999">
+                              <persName>Johann Paul Friedrich
+                                            (Pseud. Jean Paul) Richter</persName>
+                           </handNote>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                     <ref type="letter" subtype="document" target="3-VI_297">3. Abt., Bd. VI, Nr. 297</ref>
+                            (nur von Jean Paul)</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">
+                         Annalen des Vereins für Nassauische
+                        Altertumskunde, Bd. 21 (1889), S. 70-71 (mit Textabweichungen).</bibl>
+               </witness>
+            </listWit>
+            <p>Minimaler Textverlust durch Loch. Brieffalz geklebt.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1810-06-22" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002789">Ernestine von Meusebach</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011876">Kasseler Bekannte</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012183">Festlichkeiten</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>An die Rosen-Gärtnerin Ich habe , Unvergeßene und Verehrte , meinen Dank so lange verschoben , daß er Ihnen kaum einer mehr sein wird in der Zeit wirklicher Rosen für Ihre perennierenden . Sie haben Ihre Ebenbilder trefflich getroffen , wie wenigstens Leute sagen , die es verstehen , z. B. meine Frau , der ich daher das schöne Beutelchen - mehr wert als alles , was hinein kommt - gegeben habe , da es für ein Mannes Fäustchen zu gut ist . Noch recht klar erinnere ich mich unserer schönen - Tage leider nicht sondern nur - Stunden in Kassel . Aber es kehrt nichts um , höchstens der Schmerz , nicht die Freude . Auch diese kehre nicht zu Ihnen um , sondern sie gehe gar nicht fort von Ihnen . Meine Frau grüßt Sie mit wahrhafter wärmster Liebe . Und ich ahme ihr nach . Ihr Jean Paul Fr. Richter Ihr gütiges Erinnern unserer Bekanntschaft gibt mir den Mut , das was ich längst auszusprechen mich sehnte - - das frohe Gedenken Ihrer Liebenswürdigkeit und Güte und meine innige Achtung , alle die rührenden Eindrücke die das Anschauen so zarter Vortrefflichkeit mir unauslöschlich eingeprägt hat - - - Glauben Sie mir , daß ich Sie und Ihren edlen Kreis nie vergeßen habe , daß , unter meinen süßesten Erinnerungen Ihr Bild mich immer entzückte . Daß nun durch die freundschaftliche Annäherung unserer Männer , die Hoffnung mir aufgeht Sie vielleicht wiederzusehen befestigt die schöne Erscheinung - - und dann will ich Ihnen besser als auf diesem Papiere sagen , wie ich Sie verehre und Liebe . Caroline Richter . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0617">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 26. August
+                    1814, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 2 S.</p>
+                        <accMat>Nicht überlieferter Brief Minna Spaziers an Caroline
+                                    Richter. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1814-08-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012211">Finanzen</term>
+               <term corresp="#JP-012626">Minna Spaziers Kinder</term>
+               <term corresp="#JP-013487">Jean Pauls Pension </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Meine liebe Caroline ! ich habe Dein Geburtstags Geschenk mit Vergnügen erhalten , u danke Dir dafür von Herzen ; so wie für die Wünsche Deines Briefes , die so ganz Deine innige Teilnahme an mich ausdrücken . Möge der Himmel meine Zukunft in seinen Welt Plan so verwebt haben , daß ich dem ganzen nicht mehr aufzuopfern habe , als ich tragen kann . Dieselbe Ungewißheit über Deines Mannes Pension Sache deren Du erwähnst , dauert auch für mich fort . ich war geneigt , an allem guten Erfolge zu zweifeln , nachdem die Zerstückelung des Großherzogtums Frankfurt erfolgt ist . Herr Staegemann ist zwar dieser Meinung nicht ; sondern meint , einer der Teilnehmer werde die Pension übernehmen müssen . Allein aufs reine ist die Sache wenigstens nicht ; auch warte ich schon seit mehr als 14. Tagen auf einen Brief , den mir Herr Staegemann für Deinen Mann versprach . - Deine Bereitwilligkeit für Emma mit zu sorgen , ist mir viel wert . Noch ist sie ( jetzt schon im 4ten Jahre ) auf der Louise Stiftung , und ich strebe danach , daß sie noch ein Jahr dort bleibe . Es ist aber ungewiß ; und darum jede Gelegenheit zu ihrer Unter Bringung wahrzunehmen . An die Übung in Französisch sprechen , wozu freilich in der Louise Stiftung wenig Gelegenheit ist , werde ich noch denken , u darüber mit dem Geheimen Rat Rosenstiel Rat pflegen . Über Minnas Lage wirst Du aus anliegendem Briefe derselben an Dich Belehrung erhalten . Julius ist gesund u fleißig . Wie gern schriebe ich mehr u herzlicher ; allein mein Gemüt ist zu wenig gesammelt , um heute mehr , als Gruß u Kuß an Deinen Mann u Kinder , u die Versicherung meiner innigsten Liebe für Dich auszudrücken . Dein treuer Vater Mayer Meine Frau , die gestern Abend von einer 14. tägigen Reise zurückgekommen ist , grüßt herzlich . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

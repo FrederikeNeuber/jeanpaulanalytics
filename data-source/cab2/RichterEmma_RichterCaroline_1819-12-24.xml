@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0463">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emma Richter an Caroline Richter. Bayreuth, 24. Dezember 1819,
+                    Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText">Emma Förster, S. 6-7</bibl>.</witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003471">Emma Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1819-12-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012212">Liebesleben / Kennenlernen / Ehe</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Heute Abend werden wir Deine Abwesenheit noch recht empfinden , und auch die vom Bruder Max , der mich unendlich dauert , da es das erste Weihnachtsfest ist , das er außer dem Hause zubringt . Er fühlt es auch selber recht sehr und wünscht , nur uns zusehen zu dürfen , ohne alle Geschenke ; und nun muß der arme Junge so verlassen zusehen bei Anderen ! Denke nur liebe Mutter , was mir für ein Unglück Narrheit begegnet ist , an dem ich so schuldlos bin , wie nur was . Du kennst doch den dichtenden Franzosen Annibal , der uns jetzt leider gegenüber wohnt . Der begegnet neulich dem Mädchen und gibt ihr ein französisches Gedicht an die Vorsehung für mich mit und sagt ihr , daß er mich auf dem Markt gesehen und seitdem für mich brennt , und seine Tränen nur Öl ins Feuer wären . Ich warf das elende Buch auf die Erde , ohne es anzusehen , und wußte nicht , sollte ich lachen oder weinen . Mein Trost war noch der Vater , zu dem ich gleich ging . Er machte nicht viel daraus , verbot aber dem Mädchen , einen Brief , den er an mich mitgeben wollte , anzunehmen . Ach wie glücklich ist man doch , wenn man Eltern hat , denen man Alles sagen kann ! Ich hatte das dumme Ding bald vergessen und konnte nur nicht begreifen , wie sich Jemand in mich verlieben könnte . Als am Abend Liesbeth von einem Kaufmann zurückkam , sagte sie , das sie ihm wieder begegnet und daß er auf das beleidigte Nein des Vaters und von mir geantwortet habe : er wolle mich ja nicht so mir nichts dir nichts lieben , er wolle mich heiraten und , wenn das nicht sei , wolle er die Stadt verlassen und kein Mädchen mehr ansehen . Ich sagte das natürlich auch dem Vater , der dem Mädchen verbot , wieder mit ihm zu reden . Jetzt mache ich mir nicht mehr so viel daraus , aber ich erwidere keinen seiner tiefen Bücklinge . Aber ist Dir wohl in der Welt so etwas vorgekommen ? Ich , die nicht das Herz hat , einem Mann ins Gesicht zu sehen , muß so etwas erleben ! Mir ist nur unbegreiflich , wie sich Jemand in mich verlieben kann . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

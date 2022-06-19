@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0555">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Siegfried August Mahlmann an Johannes Daniel Falk. Leipzig, 12. April
+                    1805, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">15/II,1C,4</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2 Bl. 4°, 2 ½ S. S. 4 Adresse: Herrn Hofrath Falk |
+                                        Wohlgeb<ex>oren | in | Weimar</ex>. Postvermerk: fr.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002583">Siegfried August Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1805-04-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012547">Zeitschriften</term>
+               <term corresp="#JP-012330">Literarisches Leben und Schaffen</term>
+               <term corresp="#JP-012350">Minna Spaziers Beruf</term>
+               <term corresp="#JP-012159">Karl Spaziers Tod</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Herzlichen Dank mein liebster Falk für die Proben aus den Johannes von der Ostsee . Da ich den Johannes so lieb habe , so können Sie auch denken , daß mir die Kinder seines Geistes herzlich lieb sind . Gleich nach den Feiertagen sollen sie abgedruckt werden . Die Ankündigung Ihres Almanachs habe ich schon in der Zeitung abdrucken lassen , doch in der dritten Person , weil die erste ins Intelligenzblatt gehört . - Ich war einige Wochen in Dresden um andere Gesichter zu sehen und eine andere Luft zu atmen . Die Reise hat auf meine Gesundheit wohltätig gewirkt , auf meine Seele aber ? - Freund es gibt nur einen Lethestrom und der fließt hinter diesem Leben ! - - Minna ist wohl , sie hat von Voß für den Titel der Zeitung , denn auf mehr konnte sie nicht Anspruch machen , 1000 rth zugesichert bekommen . Von mir bekommt sie jährlich , so lange ich die Redaktion führe , eine Pension . Die Geschichte hat mir Mühe u Verdruß gemacht und am Ende wäre fast Alles schlecht gegangen . Der Kapellmeister Reichardt bot sich Voß zum Redakteur an . Seit seiner Briefe aus Paris , glaubt dieser Mann , er sei die elegante Welt u die elegante Welt glaubt dasselbe . Kurz , es war nahe daran , daß er die Zeitung , vielleicht unter verändertem Titel übernahm u die arme Minna war um Alles . Nur der redliche Sinn Voßens und meine schnelle Entschließung hintertrieben es . Was hat der Spaziere den Reichardt bereichert und nun - ein solches Benehmen ! Lassen Sie mich nur machen ; Ich gebe Ihnen mein Wort , die Zeitung greift besser ein , wenn das wütende Beißen aufhört , und dafür mit Witz und Scharfsinn gefochten wird . Was ist Merkel , wenn sich kein Mensch mehr mit ihm zankt ? - Die Ruhe die jetzt obwaltet soll nicht zu lange dauern . Ich muß nur erst meine Leute kennen lernen , ich traf viel Gut unter ihnen , die müssen nun mit Manier beseitigt werden . Schon habe ich das Satisfaktion , daß sich der Absatz seit zwei Monaten beträchtlich vermehrt hat . Ihre Streifzüge sind vortrefflich . Die Verse von Goethe " beim edlen Herrn von Wanzenau " etc . finde ich aber nicht besonders . Sie sind ganz nach der Norm des frommen Tischgebets " Wir danken Gott für seine Gaben " etc . gemacht . Solche Fabrik ist eben nicht schwer . Warum will denn Goethe die Bearbeitung des Götz nicht drucken lassen ? Leben Sie wohl liebster Falk . Schreiben Sie mir doch auch Neuigkeiten aus Weimar . Sie brauchen ja nur ein Zettelchen zu nehmen und solche Dinge darauf zu notieren und es , wenn Sie Mal Zeit zu einem Briefe haben , gerade zugeklebt an mich spedieren . Herzliche Grüße an die liebe stille sittsame Hausfrau . Ihr Mahlmann </p>
+         </div>
+      </body>
+   </text>
+</TEI>

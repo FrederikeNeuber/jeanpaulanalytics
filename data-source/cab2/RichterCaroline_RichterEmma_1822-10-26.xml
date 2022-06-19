@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0711">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Emma Richter. Würzburg, 25. Oktober 1822,
+                    Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <accMat>Rechnung über Carolines Ausgaben in Würzburg. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+               <date when="1822-10-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003471">Emma Richter</persName>
+            </correspAction>
+            <note>Zur Datierung: Der 26. Oktober fiel auf einen Sonnabend; Caroline Richter war
+                    vermutlich eher der Wochentag als das Datum präsent, also schrieb sie den Brief
+                    am 25. Oktober 1822.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-012033">Textilien</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Liebe Emma ! Gestern erhielt ich Deinen Brief . Vieles darin war mir unerwartet . Z. B. daß der Vater Odilien könnte bis Frühjahr hier lassen . Zweitens daß er meine Rückkehr nicht verlangt . Ich habe nun ganz nach dem Prinzip gehandelt , in Allem die Mittelstraße zu verfolgen , weil Übertreibung auf der einen oder anderen Seite keinen Segen bringt , und Heinen Odiliens Hierbleiben , welches ich anfangs ungefähr bis Anfang Nov. gedacht , bis Weihnachten eingeräumt . So gering der Unterschied ist , so befriedigt er doch den Eigenwillen dieses Mannes , den ich schwerlich sonst zur Loslassung Od . auch um Weihnachten gebracht haben würde . Wie irre man aber wird , wenn nun auf der anderen Seite , unerwartete Willfahrung unserer früheren Forderungen eintritt , wie beim Vater so daß ich nun zweifeln könnte ob ich recht gehandelt O wenn man allwissend wäre ! Indessen glaube ich doch , es ist besser , meinen jetzt beschloßenen Vorsatz auszuführen . Alle Ärzte versichern mich , daß wenn man die Maschinen hätte und das Bett , die Heilung eben so gut von statten ginge als hier . Du erinnerst Dich auch des Kanzler Müllers Sohn , er war 6 Monat hier , und seine Mutter setzte zu Hause alles fort , und er soll recht gut werden , eben so ein Fräulein Lichtenstein die ich nicht kenne . Jetzt da ich hier gewesen bin und alles so genau beobachtet habe , würde ich den Gedanken nicht ertragen können , daß Od . noch mehrere Monate hier bleiben sollte . Im Winter ist es bei Weitem nicht so angenehm als im Sommer , oder den mittleren Jahreszeiten und so gut die Mädchen sind , kann man sich keine größere Dürftigkeit geistiger Nahrung denken als hier . Der Vater hatte schon Recht wenn er manchmal darüber außer sich war . Zwar nehmen mehrere Mädchen Stunden , allein erstens unterbrechen diese die körperliche Pflege , um derentwillen allein man doch hier ist , bedeutend . Zweitens haben die Mädchen so sehr den Ton der Ironie gegen die Lehrer der durchaus verderblich ist - und ihre Unterhaltungen untereinander sind ganz geistlos . Ach wie wohl wird mir sein , wenn Od . wieder in unserer Mitte ist , ich will alles für sie tun was nur möglich ist , nur soll sie unsere Gesellschaft unsere Umgebungen , unsere Freunde wieder haben . Ihr Körper wird recht gut - gewiß wird sie eine hübsche Figur bekommen , und an ihrem lieben Gesicht besonders in Fanny's Filethäubchen habe ich meine innige Freude , sie hat gar liebliche Momente . Ihr Hals ist recht weiß , und es ist möglich daß die hohen Armstützen , doch nicht so gar sehr als ich Anfangs glaubte , den Bau der Achseln verunstalten . Du gibst mir einen neuen Auftrag wegen des zu zahlenden Carolins . Wenn der Vater die Anweisung von 50 fl noch nicht abgeschickt , so stelle diesen Carolin noch mit hinein , denn ich , kann sonst nicht bezahlen . Hier lege ich die Rechnung meiner Ausgaben bei und noch habe ich keine Kost für mich bezahlt . Beeile ja so schnell als möglich die Anweisung sonst kann ich nicht abreisen . Jetzt da ich Odilien genug genäht und geflickt habe , ist es mir hier unerträglich , besonders da ein störriges Zahnweh mich unaufhörlich quält , und nun Auguste wieder in Tätigkeit ist . Ich habe Od . einen neuen Mantel wie beikommen Probe gemacht , der allerliebst sitzt , und mit dem braunen Samt eingefasst ist , den Du mir geschickt . Zweitens den alten braunen M erino Mantel mit dem in Dresden gefärbten Kleide ganz überzogen , und mit schwarzem Samt eingefaßt , den sie täglich im Hause trägt . Drittens einen neuen feinen weißen parchent Unterrock , ein Flanell Kamisol für die Nacht , wo sie entsetzlich frieren , und ihren schwarzen Levantine Mantel mit neuen Ärmeln begabt . Jetzt ist sie wieder so gut und fest ausgestattet wie es sich gehört . Aus Freude , will ich sie zu ihrem Geburtstag mit einem rosa Ekossaise taffenthut , und einem leinen seiden Halstuch zu ihrem Geburtstag überraschen im Namen des Vaters , und Ihr braucht nichts herzuschicken . Gewaschen habe ich ihr auch und dadurch die Wäscherin suspendiert die gar zu teuer ist - 49 xr für einige Stücke , die man kaum sah , ist doch zu arg. Du hast mir gar nichts von der Ankunft der Kiste mit den Zwetschgen geschrieben - sollte sie nicht angekommen sein ? Und kam des jungen Weldens Hut noch zu rechter Zeit ? Warum sollte ich des reichen Schwabachers Tochter etwas mitbringen , der ich einmal die schwere goldene Tuchnadel ohne Dank geschenkt ! Nein ! Aber die Magd soll ein paar warme Strümpfe bekommen . Bleibt gesund ! Gott beschütze Euch . Caroli Ich stricke für den Vater ein paar Hosen von einer schönen Art grauer melierter Wolle </p>
+         </div>
+      </body>
+   </text>
+</TEI>

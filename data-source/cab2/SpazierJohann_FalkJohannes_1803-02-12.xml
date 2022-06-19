@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0763">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Karl Gottlieb Spazier an Johannes Daniel Falk. Leipzig, 12.
+                    Februar 1803, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">15/II,1D,13</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3¾ S.</p>
+                        <accMat> Abdrucke von Falks Texten "Schreiben der beiden Gebrüder
+                                    Gelbschnabel und Naseweis an den Herrn Kollegenrath v. Kotzebue"
+                                    und "Ueber die neueste Preisaufgaben zu <placeName key="JP-006395">Weimar</placeName>, fürs Jahr 1803", die
+                                    Spazier in der Zeitung
+                                        für die elegante Welt vom 9. Februar 1803 (Nr. 18, Sp.
+                                    137-139 und Sp. 141-144) publiziert hatte.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1803-02-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001032">Johannes Daniel Falk</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012330">Literarisches Leben und Schaffen</term><term xml:id="JP-012572">Verlage / Verlegerisches</term><term xml:id="JP-012547">Zeitschriften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Hier , mein wertester Herr Rat , die verlangten Abdrucke . Um mir nichts unterlegen zu lassen , was wohl das Beste ist , habe ich dem Setzer die Note aufgegeben , , so verbraucht auch eigentlich diese Manier ist . Dabei habe ich den Merkulo besser gestellt , als Ihre Intention war , u zwar darum , weil das Reich mit sich uneins zu werden beginnt u er , wie_es scheint , bald den Kotzeb . beim Bart nehmen wird . Haben Sie übrigens vielen Dank für diese charmanten Beiträge . Der Aufsatz über die Preisaufgabe wird viel Freunde gewinnen ; er ist vortrefflich . Und die Briefe !! Sie fordern mich auf , Ihnen nähere Bedingungen zu sagen . Wie soll ich mich hierin gegen Sie nehmen ! Ihre Sachen verlangen einen anderen , als den gewöhnlichen Tarif . Das Gewöhnliche aber ist wenig ; meine Freunde , auf die es sich nicht anwenden läßt , u die mit meiner persönlichen Lage näher bekannt sind , unterstützen mich meist alle ohne Interesse . Wenn ich nun so einen Mittelpreis , den des Journals des Luxus u. d. M. , also 8 rth . annähme - wären Sie damit zufrieden ? Dabei ist aber der Umstand , daß es sündlich ist , solche Dinge wie ich sie mir am liebsten jetzt wünsche , nach der Länge u Breite zu messen . Ich kann mich nicht wohl herausfinden . Als wahrer Freund Göthens trage ich Ihnen den Gedanken vor , ob ich es wohl wagen dürfte , ohne abschlägige Antwort zu erhalten , Ihn um irgend Etwas , das er nun gerade nicht breiten möchte , für die Zeitung zu bitten , wenn er anders Notiz von diesem Blatte nehmen mag . Ohne Zweifel würde es der Zeitung von sehr großem Nutzen sein u zu schöner desto größerer Geltung in der Meinung des Publikums viel , sehr viel beitragen . Aber ich mag nicht mich andringen , u lieber von ihm ignoriert schreiben , ehe ich ihm mit einem solchen Gesuch mißfällig werden sollte . Raten Sie doch dem Titular-Kollegen , Ihrem ganz ergebensten Spaziere . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

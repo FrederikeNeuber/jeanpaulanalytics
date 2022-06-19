@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0520">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Josef Graf Sedlnitzky von Choltitz. Bayreuth, 15. Juni 1826, Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl rend="print" type="baseText"> Karl Glossy: Jean Pauls Werke und der
+                            Nachdruck in Österreich, in: Jb. d. Grillparzer-Gesellschaft, Jg. 20,
+                            1911, S. 191-193.</bibl>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1826-06-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012059">Josef Graf Sedlnitzky von Choltitz</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012104">Amtskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012572">Verlage / Verlegerisches</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Gnädiger Graf ! Hochzuverehrender Herr Polizeiminister ! Entschuldigen Euer Exzellenz die Freiheit , welche ich in diesem Augenblick zu nehmen mich erkühne , mit dem Drang der Verlegenheit , in der die Verlassenen eines verdienstvollen Mannes sich befinden . Die Familie Jean Paul Friedrich Richters , dessen Schriften jetzt in einer Gesamtausgabe zu erscheinen schon angefangen haben , bekam durch die eigenhändige Vermittlung Sr. Majestät des Königs von Bayern von Sr. Kaiserlichen Majestät dem allergnädigsten Kaiser von Österreich , die hohe Versicherung eines Privilegiums gegen den Nachdruck und Verkaufe des Nachdrucks der Jean Paul'schen Werke für alle Erbstaaten dieses mächtigen Kaiserreiches . Herr Minister von Steinlein , welcher sich gütig für diese Sache verwendet hat , gab mir herablassend die Nachricht , daß Ew. Exzellenz mit dem Gutachten über die Zensurgerechtigkeit dieser Werke höchst gnädig beschäftigt würden und daß die mühevolle Aufgabe der Kenntnis der Werke das einzige Hindernis der Ausfertigung des Allergnädigsten Kaiserlichen Privilegiums sei . Die gewisse Überzeugung , daß einer der edelsten und nur für die Tugend und Wahrheit lebenden Menschen , der hohe Mann , dessen Gattin zu sein ich das unaussprechliche Glück hatte , nie etwas anderes als zum Wohle , zur Aufrechterhaltung der Ordnung , der Gesetze , der Ehrfurcht für edle Fürsten , geschrieben habe , konnte mich über den Erfolg unseres untertänigsten Anliegens beruhigen , und das persönliche Wohlwollen Ihrer Majestät der Frau Kaiserin von Österreich ließ mich hoffen , daß man bald die verwaisten Abkömmlinge dieses für die Menschheit viel zu früh heimgegangenen Genius durch eine öffentliche Verfügung einer zu ihrem Wohle so höchst nötigen Sicherstellung ihrer Eigentumsrechte ( an Jean Pauls geistiger Hinterlassenschaft das einzige , materielle Erbe dieses uneigennützigen Mannes ) beschützen würde . Gewiß hege ich keinen Zweifel in dieser huldreichsten Gesinnung , da ja das schöne Beispiel an " Goethe " die Liberalität der Kaiserlich-Österreichischen Regierung ausspricht , allein vielleicht hindern zufällige Stockungen die Bestätigung der uns verheißenen Gnade , und die hohen Lenker unserer Angelegenheit wissen nicht , wieviel trotz allen uns bis jetzt von den deutschen Mächten : Preußen , Bayern , Württemberg , Sachsen , Hessen , Baden verliehenen und ausgefertigten Privilegien , auf das Alle überstrahlende Österreich ankommt , und wie es zu bedauern ist , wenn nicht gleich beim Erscheinen dieser Ausgabe die Privilegien den Werken vorgedruckt werden . Die unglückliche und gekränkte Familie des hohen Dichters hat ohnehin zahllose Kämpfe gegen literarische Raubvögel zu bestehen , indem man sich voluminöse Auszüge zu 6 Bänden erlauben wollte . Auf meinen untertänigsten Antrag haben Preußen , Hessen und Sachsen in ihren Privilegien namentlich das Verbot von Auswahl und Auszügen mit aufgeführt , um welches auch bei der Abfassung des huldvollen Kaiserlichen , ich Ew. Exzellenz Menschenfreundlichkeit zu bitten mich erkühne . Eine Familie wird Sie dankbar segnen , wenn Sie die Kühnheit dieser bitte verzeihen der trauernden Witwe und den verwaisten Kindern Jean Pauls . Caroline Richter geb. Mayer . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

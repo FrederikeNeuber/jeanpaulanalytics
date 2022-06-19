@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1083">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Friedrich von Müller. Meiningen, 29. Januar 1810,
+                    Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/618, Bl 27-28</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>2
+                                    Bl. 8°, ½ S.</p>
+                        <p> Auf Bl. 2 Adr.: </p>
+                        <p>S<hi rendition="#sup">
+                              <hi rendition="#uu">
+                                 <hi rend="underline">r</hi>
+                              </hi>
+                           </hi> | des Herrn Geh. Regierungsraths |
+                                        <hi rend="underline">
+                              <hi rendition="#u">von <hi rend="bold">
+                                    <hi rendition="#aq">Müller</hi>
+                                 </hi>
+                              </hi>
+                           </hi> | <hi rend="bold">
+                              <hi rendition="#aq">Hochwohlgeb</hi>
+                           </hi>
+                           <hi rend="italic">
+                              <ex>oren</ex>
+                           </hi> |
+                                    in | <hi rend="bold">
+                              <hi rend="underline">
+                                 <hi rendition="#aq">
+                                    <hi rendition="#u">Weimar</hi>
+                                 </hi>
+                              </hi>
+                           </hi>. | <hi rend="underline">
+                              <hi rendition="#u">Postfrey</hi>
+                           </hi>. | Nebst einem hölzernen | Verschlag,
+                                        <hi rendition="#aq">
+                              <hi rend="bold">H. v. M.
+                                        Weimar</hi>
+                           </hi> | signirt, worinn zwey | Gemälde
+                                    befindlich. Post- und Taxvermerke, Siegelausriss</p>
+                        <accMat>Hölzerner Verschlag mit zwei Holzgemälden. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1810-01-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012864">Besorgungen für Freunde</term>
+               <term corresp="#JP-012590">Bittschreiben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Verehrtester Freund ! In Rücksicht meiner beziehe ich mich auf meinen neulichen Brief . Schlimmeres ist nur das , was mich jetzt doppelt drückt - daß mein liebes Mädchen am Brustfieber krank liegt . Ich habe Ihnen mein Leben lang gar viel Mühe gemacht , lieber guter Freund . Lassen Sie mich heute auch noch eine Fürbitte für einen armen Schreiner mit 5 Kindern tun . Er hat drei Jahre lang an beifolgenden 2 in Ahorn eingelegten Stücken ( der alte Liebenstein und der Holestein ) in seinen besten Stunden gearbeitet , und möchte sie gerne verkaufen . Er hätte gern 3 - noch lieber 4 Carolin dafür , lässt sie aber auch für zwei , da er in Not ist und in dieser Gegend keinen Käufer findet . - Die Gegenstände sind wirklich äußerst treu dargestellt , und die Politur ist vortrefflich . Ich habe ihm geraten , doch ja nichts dergleichen wieder zu machen , wenn er nicht vorher zeichnen und malen gelernt , damit auch Verständigkeit in seine Arbeiten komme , übrigens aber versprochen , mich möglichst um einen Käufer zu bewerben , da er sie Redlichkeit und Bedürftigkeit selbst ist . - In den Türen oder an den Seiten eines schönen Meubles würden die Stücke sich indessen besser ausnehmen als in diesen Rahmen , - auch ist ja wohl im Schlosse des kunstbeschützenden Herrn Herzogs gewiß eine Sammlung solcher der Kunst sich nähernden Arbeiten - Kurz , ich sehe in Ihrer Stadt doch einige Aussicht , und wage es daher , Sie , edler Freund , um einige Bemühung deshalb zu bitten . Wollen Sie , noch zuletzt und gleichsam vor Thorschluß und Sonnenuntergang auf mich zürnen ? Sie , der es nie tat ? - Tausend warme Grüße an die freundliche süße Minna ! EwigIhrtreuerunddankbarer JEWagner . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

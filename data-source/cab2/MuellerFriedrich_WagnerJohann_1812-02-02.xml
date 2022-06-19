@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1118">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Friedrich von Müller an Johann Ernst Wagner. Weimar, 2. Februar 1812,
+                    Sonntag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>ehemals Sammlung König, Faksimile BAumbachhaus
+                                    Meiningen</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <accMat> Komposition der "Frühlingsnacht", einem Gedicht in Wagners
+                                    "Wilibald's Ansichten" sowie vermutlich ein Gedicht von Müller
+                                    selbst.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Der Verbleib der Handschrift ist derzeit nicht bekannt.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+               <date when="1812-02-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-012330">Literarisches Leben und Schaffen</term><term xml:id="JP-011811">Reisen</term><term xml:id="JP-012740">Theaterleben</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Wie soll ich Ihnen , Teuerster Freund , den Schmerz genügsam ausdrücken , den ich über die Nachrichten von Ihrer Krankheit , welche ich erst vorgestern durch Frau von Stein erfuhr , empfand ! Nur durch die Versicherung Ihrer täglichen Besserung wurde es in etwas gemildert ; aber was müssen Sie nicht ausgestanden haben ? Könnte ich doch gleich zu Ihnen eilen , um mich zu überzeugen , daß Sie nicht mehr so sehr leiden , um Ihnen meine innigste Teilnahme zu beweisen . Wie wenig kann man doch dem Freunde in der Entfernung sein ! Längst schon hätte ich Ihre freundlichen Zeilen , mit denen Sie mir die liebliche Themar , die auch hier die beste Aufnahme fand , beantwortet , wäre ich nicht in der Hoffnung gestanden , selbst bald nach Meinungen , wenigstens durchreisend , zu kommen . Der böse Schwendler hat mir aber auch in 6 Monaten , selbst in unseren dringenden Geschäfts Angelegenheiten keine Antwort gegeben , so daß alle meine Pläne daran scheiterten . Wie beständig mich Ihr Andenken begleite , beweise die Anlage . Ich fand auf fremden Pulte eine Komposition Ihrer herrlichen Frühlingsnacht ; " vielleicht kennt mein Freund sie noch nicht " dachte ich , u. ließ sie gleich abschreiben . Ich lege noch eine Kleinigkeit von mir bei , weil ich weiß , daß Sie bei Ihrem Hiersein die melancholisch sanfte Silberstimme der damaligen Großfürstlichen Hofdame , Marie von Berg , jetzt Frau v. Ziegesar , ( vorzüglich in russischen Gesängen ) so entzückt lobten . Gestern sahen wir Romeo u Julie nach Schlegels Übersetzung , und bearbeitet von Goethe , zum 1. ten Mal . Ein herrlicher Genuß , dies glühend Liebe atmende Stück so trefflich gespielt zu sehen !! Auch die war vortrefflich . Goethes Leben lasen Sie doch schon ? Bald wird der 2. te ud . 3.te Teil erscheinen . Das große Publikum verkennt hier oft den reichen Inhalt , Gewöhnliches nur scheuend , wo die tiefsten Keime des wundervollsten inneren Lebens zartsinnig ausgestreut sind . O wie bin ich auf Ihre Isidora begierig ! Leider wird das Mißgeschick Ihrer Krankheit auch diese holde Erscheinung verzögert haben . Was sagen Sie denn zu Studnitzens Heirat ? Seine Braut ist ein treffliches , höchst edles Weesen , die ich von jeher sehr schätzte . Diesen Frühling , Teuerster ! besuche ich Sie gewiß , machen Sie nur , daß ich Sie wieder recht wohl und heiter finde . Wenn das Schreiben Sie inkommodieret , so lassen Sie mir nur durch einen Ihrer wackeren Söhne , von deren raschen Kunst-Vorschritten ich so viel Schönes höre , Kunde geben von Ihrem Befinden . Aber darum bitte ich recht inständig ! Meine gute Frau hat recht innigen schmerzlichen Teil an Ihrem Leiden genommen , sie sendet Ihnen die treusten , herzlichsten Wünsche zur gänzlichen Genesung . Und alle Freunde u. Freundinnen , deren Sie nicht wenige hier haben , stimmen aus voller Seele mit ein . Adio , Teuerster , Bester ! Gott sei mit Ihnen ! Ewig der Ihrigste , FrMüller </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1110">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Christian Freiherr Truchseß von Wetzhausen an Johann Ernst Wagner.
+                    Bettenburg, 14. September 1811, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Baumbachhaus Meiningen</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">IN XIV-3/6532</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <accMat>Briefe von Heinrich Voß an den Truchseß von Wetzhausen sowie
+                                    kleine Zettel, die Oehlenschlägers Correggio-Manuskript
+                                    beilagen.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Wagner’s sämmtliche Schriften,
+                            hg. von Friedrich Mosengeil, Bd. 12, Leipzig: Fischer 1828, S. 172-176
+                            (unvollständig, ungenau).</bibl>
+               </witness>
+            </listWit>
+            <p>In D längerer Nachsatz, der
+                    nicht zum vorliegenden Brief gehört.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+               <placeName key="JP-005591">Bettenburg</placeName>
+               <date when="1811-09-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011854">Bettenburger Literatenkreis</term>
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-012278">Freundschaften</term>
+               <term corresp="#JP-012048">Briefverkehr</term>
+               <term corresp="#JP-012869">Literarische Kritik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Ist Könitz schon wieder nach Meiningen zurückgekehrt , so weißt Du auch , lieber Ernst ! welche selige Tage das Voßische Paar mir und meinem Schüler gab , und wenn Dir auch Niemand etwas sagte , so weißt Du es doch : Sie blieben 14 Tage bei mir , leider , litt ich einige Tage dazwischen an einen argen bösen Hals . Wenn Heinrich mir schreibt so kommst Du ihn immer ins Herz und im Kopfe und so kommt auf das Papier so manches was noch mehr für Dich als für mich ist ; was ich aber doch gerne und dankbarlich mitnehme , Dir aber doch nicht allzulange vorenthalten darf . Ich diktiere daher , nachdem ich eine capitale Hammelskeule auf den Tisch , dann teilweise auf der Gabel , und nun größtenteils in Wiedervereinigungspunkt des Magens habe . Und Du mußt nun mit dem Übersatten vorlieb nehmen . Der Hungrige machte durch allzulange Briefe vor dem Eßen seine Freunde Könitz und Heinrich Voß vielleicht auch übersatt . Liebst Du mich nicht eben so wie mich Heinrich liebt , so müssen Heinrichs Briefe Dich auch übersättigen ; aber ich wage es darauf hin und gebe Dir alles was ich von ihm habe . Auch des guten Heinrichs gute Mutter mußt Du doch Schnacken hören . Die Frau ist mir so ehrwürdig und schien noch ehrwürdiger als ihr Mann ; lieb sind sie mir beide gleich . Die kleine Zettelchen waren Beilagen zu Oehlenschlägers Correggio , ich erwarte aber diese kleine Dinger auch wieder zurück . Den Homer und einen Brief von Heinrich hat wahrscheinlich der Teufel geholt . Nicht Heinrich allein sagten die Alten daß sie Dir gut sind , Dich herzlich lieben . Auch zu ihren Abraham sprach die Alte von Dir , wie ich aus einen Brief hörte , den ich mir so heraus häkelte , ehe er von hier nach Rudolstadt abgesandt wurde . Wenn Du den Correggio geschrieben hättest , ich glaube , Du würdest ihn eben so liebend und schön behandelt haben als Oehlenschläger ; und spricht auch Dich dieser Correggio nicht an , so ist die Zauberlampe wirklich eine Zauberlampe . In der kommenden Woche schicke ich Correggio an Schulern ( der ganz Dein ist und es zu sein verdient ) und dieser soll ihn Dir senden . Hast Du einmal eine recht gemütliche Stunde und magst nicht selbst produzieren ; so lese Axel und Walburg doch noch einmal . Hackon Jarl mußt Du in einer genialischen ergreifen . Deine lieben Buben kommen nicht , und wenn sie endlich doch noch kommen sollten , so wird für den wackeren Karl wenig mehr zu tun sein , denn durch die anhaltende Dürre ist fast die ganze Natur ihres Schmucks beraubt und viele Bäume sind jetzt schon fast blätterlos . Über Antons Gemälde der Oberjägermeisterin von Bibra hielt ich mit Schulern manchen Zwiesprache . Ihn war alles so recht , mir fängt der Bube zu bald an in die Kunst des Idealisierens einzugreifen . Schüler versteht aber wohl mehr von der Kunst als ich . Die alte Dame ist vergnügt wie - eine Verjüngte . Wangenheim ist mit Deiner Isidora ganz unendlich zufrieden , er will Dir bei erster Muße selbst darüber schreiben . Eine Stelle seines Briefs mußt Du noch hören : " Schon die Aufgabe die sich unser Freund macht , ist originell und schön . Und wie lieblich , wie durchgreifend hat er die alte unerkannte Wahrheit , die Stimme des Gewissens auch in der Liebe aus dem Schutte , den der verfluchte Verstand über alle Schätze der Wahrheit herübergeschüttet u. aufgetürmt hat , hervorgezogen und dem geistigen Auge der Vernunft durch das Gemüt hindurch näher gebracht . Andere große damit in Verbindung stehende Gedanken haben ihn bewegt , und lebendig läßt er sie vor uns in großen Anschauungen stehen . Ich kann wohl sagen : ich weiß nicht ein Produkt in der Literatur anzugeben , wo der Punkt der Wirklichkeit , an welchen die Herrlichkeit der Idee anzuknüpfen sei , so genügend angegeben wäre . Das Ideale scheint mir darin durchgängig realisiert , so wie das Reale idealisiert und dadurch eben das Höchste in der Kunst und im Leben erreicht " . Über Wangenheims Versetzung nach Tübingen , die mir in aller Hinsicht sehr erwünscht ist habe ich Könitzen geschrieben , und jetzt nicht Zeit zu wiederholen . A prospos ; ! wie fiel den die Probe mit dem Herrn Cob aus ? nicht den kleinen Sohn des Hof-Laqueien , sondern den , den die Schwendlern empfahl , oder nur auffand , und er bei dem Hoftrompeter logieren soll . Es ist mir jetzt daran gelegen etwas davon zu wissen ; denn der junge Mensch , den ich in hiesiger Gegend proben sollte bestand die Leseprobe so schlecht , daß ich auf die Schreibeprobe , die wahrscheinlich gut ausgefallen wäre , ganz renoncierte , und Herr Languth , Schulseminarist zu Hildburghaußen , der mir bis auf etwas schwaches Sprach-Organ ganz zusagen würde , weiß wahrscheinlich nicht so recht ob er mir seine Zusage halten soll oder nicht , denn vor etwa 3. Wochen sandte ich einen Boten an ihn ab , um das Ultimatum zu erfahren , und erfuhr , daß er sich erst noch dies und jenes erkundigen müßte , daß er aber binnen 8. Tagen selbst kommen oder mir Antwort schicken würde , und nun warte ich noch auf beide . Da ich nun keine Wahl habe so kann ich auch nicht mehr auf die höchste Vollkommenheit rechnen und Du hast die Güte mir über Herrn Cob nächstens zu referieren und auch wieder umhorchen zu lassen . Möglich ist es aber doch daß Languth noch zu mir zieht , u. Du erhältst auf diesen Fall sogleich Kunde . Fouquet hat sich durch seine vaterländische Schauspiele rückwärts gedichtet . Ein Kummer wird dies Könitzen sein , weil ihm Sigurd so anzog . Trotz meines vollen Bauches schnackte ich gerne noch weiter , denn ich komme jetzt doch im Zug , aber ich muß bei einer würzburgischen Behörde , die noch Exzellenz dazu ist , und ehedem sehr viel war , bei Seiferten , einen Besuch ablegen . Lebe wohl Lieber , und grüße mir Frau und Kinder und wer zu Dir kommt und auch lieb hat Dein T . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

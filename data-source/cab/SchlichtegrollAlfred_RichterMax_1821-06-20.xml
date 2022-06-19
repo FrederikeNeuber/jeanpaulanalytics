@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0214">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Alfred von Schlichtegroll an Max Richter. München, 20. Juni 1821,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S. 4. S. Adr.: <hi rendition="#aq">Herrn | Max
+                                        Immanuel Richter.</hi>
+                        </p>
+                        <p>Siegelreste</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>AolR vfrH mit violettem Stift: Von dem jungen Schlichtegroll?</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003774">Alfred Schlichtegroll</persName>
+               <placeName key="JP-006040">München</placeName>
+               <date when="1821-06-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012160">Freundeskreise der Kinder</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012533">Lektüre(n)</term>
+               <term corresp="#JP-011845">Max' Studium</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Teuerster Freund . Sieh dies Blättchen ja nicht für einen Brief an , sondern für eine schriftliche Bescheinigung Deiner in dies zunehmenden Nachlässigkeit im Briefschreiben . - Von der neuesten Bair . Literatur kann ich Dir nur sagen daß von Bucher ein merkwürdiges Werk über Jesuiten herausgekommen ist . Eine Satyr . Schrift Katzensprung von Frankfurt nach München , welche den Minister v. Lerchenfeld schonungslos mitnimmt , hat viel Aufsehn erregt . - Thiersch bearbeitet wieder einen gr . Klassiker , welchen , konnte ich noch nicht erfahren . - Mansos vermischte Abhandlungen u. Aufsätze - ( Breslau 1821 . ) werden Dir bekannt sein . Sehr interessant sind darin , seine Aufsätze 1 ) Über den Begriff der Nemesis . 2 ) Seine Beurteilung Garves 3 ) Seine Observationes i. D. Juvenalis satiras . - etc. - D. neue Ausgabe der Kreuzärschen Symbolik wird Dir besser bekannt ∫ ein als mir . - D. psychische Anthropologie von Salat enthält viel Gutes , obwohl seine Sprache nicht so kräftig ist , wie die unseres herrlichen Weilers , der leider dies ganze 2te Semester , durch Krankheit gehindert , nicht lesen kann . Einige politisch . Schriften die vor kurzem herauskamen , aber so einen philol. Bücherwurm wie Dich , unmöglich interessieren können , übergehe ich silentio . - Ich hoffe daß Du diesen Sommer über d. schöne Heidelberger - Natur recht genießen , u. nicht schon in Deinen j ungen Jahren anfangen wirst , ein Pedant zu werden ; u. mit gerunzelter Stirn , ewig , hinter einem Bücherwall verschanzt , zu liegen . - Deine hochgeliebte Fräulein Schaden ist jetzt -- welch Unglück für Dich - verheiratet , ich weiß nicht gleich an wen vermutlich wirst Du mich in Deinem nächsten Brief um den Namen des Beglückten fragen - Fange also bei Zeiten an Dir eine andere Jungfrau auszusuchen , u. gib mir , über einige Zeit , von der Wahl Deines Herzens Nachricht ? Schreibe mir nächstens , dann will ich Dir auch ausführlicher antworten . In Deinem nächsten Brief an Deinen Herrn Vater richte viel Empfehlung von meine n Eltern u. mir aus . Dein Freund Alfred . vS . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

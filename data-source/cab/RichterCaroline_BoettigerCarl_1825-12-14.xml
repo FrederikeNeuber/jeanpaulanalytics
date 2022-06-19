@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0194">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Carl August Böttiger. Bayreuth, 14. Dezember 1825,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GNM</institution>
+                        <collection/>
+                        <idno type="shelfmark">K 22</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.
+                                    Letzte
+                                    Zeile fehlt.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1825-12-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000400">Carl August Böttiger</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012232">Verlagskorrespondenz</term>
+               <term corresp="#JP-012032">Dresdner Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+               <term corresp="#JP-011966">Gesamtausgabe (Jean Pauls sämmtliche Werke)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Verehrter Herr Hofrat Sehr gerührt von dem gütigen Interesse was Sie dem Schicksal der Hinterbliebenen Ihres Freundes beweisen , beeile ich mich Ihnen den mir anvertrauten Brief des Buchhändler Max wieder zuzustellen , und Ihrer Teilnahme an dem zu fördernden Werk , alle unsere Bereitwilligkeit mit Ihm in Unterhandlung zu treten , zu versichern wenn es nicht zu spät ist . Es war nicht Gleichgültigkeit wenn der gute tätige Mann noch keine Antwort , auf seine schon bei dem Leben meines teuren Mannes oft getanen Anträge bekam , sondern es war Ungewissheit über den endlichen Ausgang der mit Buchhändler Reimer eingeleiteten Unterhandlungen . Im Ganzen waren diese so gut als abgeschlossen , wurden aber durch einige in Herrn Reimers schon übersandten Kontrakt unerwartet festgestellten Nebenpunkten unterbrochen , und veranlaßten noch in den letzten Lebenstagen , meines Beschützers und Gatten , den Entschluß von unserer Seite einen Kontrakt zu entwerfen , der gegen mögliche Gefahren , möglichste Sicherheit stellte , als der Tod den Himmlischen in seine Heimat abführte . Daß nun unsere Vorsicht um so größer sein muß als die Allen imponierende Würde des Seligen kein Bindemittel für fremde Moral mehr ist - ist natürlich , und indem durch die Annäherung an das gewünschte Ziel der Privilegien , ( wovon beikommender Brief des Königs von Bayern , den ich Sie auch der hochverehrten Frau von der Recke , und dem edlen Tiedge mitzuteilen bitte , ein Beweis ist , ) unsere Sache nur vorteilhafter steht , so sehe ich keinen Grund , dem zwar sehr geschätzten , aber in vielen Unternehmungen verwickelten Herrn Reimer nachzugeben . Ich folge darin auch den Mahnungen meiner Berliner Freunde die in treuer Liebe der Tochter eines ausgezeichneten Mannes , meines Vaters , anhängend , mich zur höchsten Vorsicht in der Abfassung des Kontraktes aufgefordert haben . Auf diesen Punkt steht jetzt die Sache , und Herrn Reimers Bejahung oder Verneinung kann allein meinen Entschluß bestimmen - erstere bindet uns unauflöslich aneinander . Jedoch antworte ich heute dem mir so werten Buchhändler Max. Nächst Reimer sind wir geneigt Ihm von Allen den Vorzug zu geben , da Er in so unendlicher Liebe für den Seligen erwärmt ist . Man darf nicht zweifeln daß seine Kräfte seinem Willen nicht gemessen wären , und indem er noch nicht Familienvater zu sein scheint , wird er ohne Mühe seine Verbindlichkeiten lösen . Die großen Sorgen des Hausvaters und des Versorgers von 11 Kindern , scheinen Reimern zu drücken , und er scheint v iel unternommen zu haben , was schwer durchzuführen ist . Gern nehme ich die Gelegenheit wahr , Ihnen für den Nekrolog in der allgemeinen Zeitung und den Geist der Liebe zu danken mit dem Sie Schicksal und Eigentümlichkeit des Herrlichen geschildert haben , Der auch auf Erden ein ewiges Leben fortführen wird so wie jetzt im All . Leicht und interessant ist die damit verbundene Ankündigung der künftig zusammen erscheinenden Werke , die Sie so schön dadurch beim Publikum einführen . nehmen Sie meine innigste Anerkennung gütig auf . Mit höchster Verehrung Ihres unsterblichen Wertes bleibe ich Ihre </p>
+         </div>
+      </body>
+   </text>
+</TEI>

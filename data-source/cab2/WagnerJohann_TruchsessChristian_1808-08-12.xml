@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0888">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Ernst Wagner an Christian Freiherr Truchseß von Wetzhausen.
+                    Meiningen, 12. August 1808, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>Faksimile Baumbachhaus Meiningen (ehemals Slg.
+                                    König)</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl., 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Briefe über den Dichter Ernst Wagner,
+                            hg. von Friedrich Mosengeil, Bd. 2, Schmalkalden: Varnhagen 1826, S.
+                            123-126 (ungenau, unvollständig).</bibl>
+               </witness>
+               <witness>
+                  <bibl rend="print" type="witnessText">Ernst Wagner’s sämmtliche Schriften,
+                            hg. von Friedrich Mosengeil, Bd. 12, Leipzig: Fischer 1828, S. 237-238
+                            (ungenau, unvollständig). </bibl>
+               </witness>
+            </listWit>
+            <p>Die Sammlung König mit Briefen aus Johann Ernst Wagners Nachlass gelangte 2004 in den
+                    Autographenhandel. Zuvor konnte das Baumbachhaus Meiningen Faksimiles der Briefe
+                    anfertigen, wonach sich allerdings die Handschriften nicht in jedem Fall korrekt
+                    beschreiben lassen. Einige der Briefe wurden von Bibliotheken oder Archiven
+                    aufgekauft, der Verbleib anderer ist unbekannt, so dass die Faksimiles des
+                    Baumbachhauses einzige Textzeugen sind.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1808-08-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term corresp="#JP-011854">Bettenburger Literatenkreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012692">Bildung</term><term xml:id="JP-012021">Politik</term><term xml:id="JP-011811">Reisen</term><term xml:id="JP-012430">Religion</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Traurig , mein Allerbester , recht traurig war es für mich , daß Ihr edler Herr Bruder , der mir vor einer Stunde Ihre teuren Zeilen sandte , auch in derselben Stunde wieder abgereist ist ; da ich so gern aus dem lebendigen Brudermunde die Nachricht von des Bruders Wohl- und Frohsein gehört , und durch den Bruder meine Grüße gesandt hätte . Doch soll mich nun die Post dafür entschädigen ! Innigen Dank für Ihre gar lieben Zeilen und die Worte des redlichen Wangenheim , der mir vor kurzem aus der Schweiz geschrieben , und auch bereits Antwort von mir erhalten . - Die bewusste Sache wird jetzt in mehreren Städten mit Eifer betrieben ; freilich geht alles sehr langsam - doch , wenn es nur geht , und wenn der unselige Krieg nur nicht abermals die verheerende Fackel dazwischen wirft ! Indessen glaube ich bis jetzt noch kein Wort vom Kriege , kümmre mich auch nicht darum , sondern singe mit Schiller : " Ja des Herzens heiligstille Räume , musst du fliehen vor der Erde Drang ; Freiheit wohnt nur in dem Reich der Träume , und das Schöne blüht nur im Gesang . " Wie freut es mich , daß Sie meine Maler wieder gelesen haben , trefflicher Freund , und daß Sie so gut von ihnen denken , und besser , als die armen Teufel verdienen ! - Aber wie wäre es möglich , einen dritten Band dazu zu schreiben , da das Ganze in sich selbst und im Äußeren so völlig geschlossen ist ? Über die angebliche Verteidigung des Katholizismus will ich mich schon noch mündlich bei Ihrem Herzen rechtfertigen . Jetzt nur , von der politischen Seite betrachtet , dies Einzige : Betrachten Sie einmal Österreich , wie warm , wie kräftig dort schon alles wieder ist , und gleich nach jenen Stürmen dort wieder war , und wie viele glückliche Menschen es dort gibt und ewig geben wird - und halten Sie einmal die so ganz ekelhafte Auflösung und lasterhafte Zerrüttung der Preußischen Menschen , nach dem einzigen Stoß , dagegen ! - Und dann fühle ich sehr lebhaft , daß die Gottheit wohl unsere erhabenen , philosophischen und aufgeklärten Ideen von ihr , gerade so abgeschmackt finden mag , als den bescheideneren Bilderglauben der Katholiken , mit dem diese übrigens doch auch gerade so weit voran gekommen sind als wir , nämlich zu der weislichen Einsicht , wie Faust sagt : daß wir nichts wissen können ! - Nur in Zeichen und Bildern vermag der Mensch das Ewige und Göttliche zu schauen - und wer ihm den Glauben an dieses aus dem Herzen wegspöttelt , wie Friedrich der Unherzige , und der Verbreiter seiner abgeschmackten Moden , Friedrich Nikolai , taten , der macht ihn schlecht und stiehlt ihm alle Wärme und den Enthusiasmus zu jeder schönen Tat aus dem Herzen , wo dann nur noch die elende Selbstsucht ihre schwarzen Gezelte , wie in einer kalten Wüste , aufschlägt ! - Eine vernünftige oder gar verständige Religion ist eine abgeschmacktes Postulat , da ja das Ewige und Göttliche viel höher ist als unsere Vernunft . Es kann aber bekanntlich nur der , welcher mehr und vernünftiger ist , als der Andere , diesen letzteren vollkommen begreifen ; daher müsste unsere Vernunft doch offenbar 1. ) Gott selbst , 2. ) aber auch mehr als Gott sein , um das Ewige und Unsterblichgöttliche je einzusehen . - Daher können alle Philosopheme , die uns die Zeit noch jemals bringen wird , es in der Materie von Gott , Freiheit , Tugend und Unsterblichkeit , niemals weiter bringen als bisher ; denn aus der menschlichen Vernunft entsteht ja alle Philosophie , welche also weniger ist als die Vernunft , die Vernunft selbst aber kann bekanntlich sich selbst nie ganz begreifen , ( mir ist wenigstens mein Ich stets unerklärlich ) geschweige denn Etwas Höheres als sie . - Und so , Bester , kommen wir denn ewig wieder auf den schlichten Satz des Apostels und unseres Luthers zurück : Nur der Glaube macht selig . - Davon haben sich endlich auch Fichte und Schelling , obwohl Feinde , wie es scheint , so ziemlich überzeugt . - Doch ich gerate zu tief für einen Brief in diese Sache ! Die schöne , ja unstreitig die schönste Reise , die ich je gemacht , nämlich die zu Ihnen , und deren glückliches Ende hat zwei andere , nach Liebenstein und Gotha und Seeberg nach sich gezogen , von welchen ich kürzlich zurückgekommen bin . Ich sah dort manche vornehme , große , liebe , freundliche , gelehrte und seltsame Menschen , von denen ich Ihnen nenne : Tümpel , Fernow , Einsiedel , die gute Herzogin von Hildburghausen , ( die mit mir von Ihnen sprach - aber wie ? ) Lindenau den Astronomen in Seeberg , und viele liebe Weimaraner und -inen . Oft , oft wurde des herrlichen Mannes in Bettenburg gedacht , der stets so schön und frisch vor meiner Seele lebt . O kommen Sie doch bald - und wenigstens vor dem Winter hierher ! Meine Seele dürstet wahrhaft nach Ihrem Anschauen . - Ihre Liebe tat mir unter allen Menschen am wohlsten ! Mein Kunstplan hat mich in eine fürchterliche Korrespondenz gezogen , die doch meistens höchst undankbar , aber nicht zu vermeiden ist . Goethe - wenn er gleich erklärt hat , er habe in 20 Jahren nichts besseres gelesen als mein neuestes Büchlein - gehört , wie natürlich , doch auch immer unter die Zweifler und großen Achselzucker , und wünscht , ich hätte es nicht getan . Adieu zu Tausendmalen , Trefflicher ! Ewig Ihrtreuer JEWagner . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

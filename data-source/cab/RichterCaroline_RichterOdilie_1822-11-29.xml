@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0227">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Bayreuth, 29. November 1822, Freitag </title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                        <accMat>zwei Kupferstiche des Jean Paul-Bildnisses von Friedrich
+                                    Meier. </accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Geringer Textverlust durch braunen (Rost-)Fleck auf  S. 2 und 3.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1822-11-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+            </correspAction>
+            <note>Zur Datierung: Nicht der 26. sondern der 29. November 1822 war ein
+                    Freitag.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012319">Besorgungen für Familienmitglieder</term>
+               <term corresp="#JP-012194">Geschenke</term>
+               <term corresp="#JP-011804">Bayreuther Gesellschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebte Odilie ! Ich schicke Dir hiermit des Vaters Kupferstich in dieser Rolle , welche Du , wenn Du gesund bist , Selbst zu Düroufs tragen kannst . Es sind 2 Blätter , wovon Eines an Düroufs bleibt , und das andere , wie ich die liebe Frau schon gebeten habe , für Herrn Heine , unter Glas und Rahmen gesetzt wird , welches wie ich meinte , ihm zu Weihnachten könnte gegeben werden ; wenn Du aber glaubst , daß es je eher je lieber geschehen soll , um ihm einen kleinen Spaß zu machen , der ihn in eine für uns günstige Stimmung versetzt , so bitte bei den guten Düroufs um schleunige Besorgung . Sie werden auch so gut sein mir so groß wie der Einbiegung des Einen Blattes , einen Rahmen für des Vaters Gemälde zu besorgen , der aber erst , mit Dir zu uns gelangen soll . Wüßte ich doch , was Du machst , gutes teures Kind ! Wenn doch nur Deine Backe gut wäre ! Wie sehr verlangt mich nach Nachrichten von Dir . Gebe Gott daß Du mir Deine völlige Herstellung im nächsten Briefe melden kannst ! Liebes gutes Kind , lasse mir doch von der Kaufmännin Heim in der Domstraße , noch 2 Strang oder ¼ tel lb von der grauen Wolle holen , wofür ich das lb - fl. 12 xr zahlte , und schicke sie mir mit der Post . Es war von der Mittelsorte , sie hat dreierlei . Hier ist eine Probe von ihrer Stärke . Ich bin jetzt fertig , bis auf die Hälfte des 2ten Beines , und werde bis die Wolle kommt fleißig an der Haube sein . Ist Dir die Besorgung der Blonden gelungen , oder nicht zu schwer geworden ? Wenn es nicht gut ging , quäle Dich nicht damit , schreibe mir nur , wie es ist , und soll ich gleich das Geld schicken so sage es mir . Das Beste wäre wohl , wenn Bärs ganz kleine Pröbchen gäben . Ob Deine Kiste wohl wird abgeschickt sein ? Ich bin begierig , ob der Fuhrmann Herrn Heine meinen Brief gebracht , und ob er sie bereit hatte . Ist es nicht , so muß ich Ihm noch einmal schreiben . Bald werden wir Dein Kostgeld vom Oktober , Nov : und Dezember schicken , und Dir auch noch einen kleinen Überschuß , zu Deinen Bedürfnissen . Schreibe mir doch , was die Falk an Auguste gegeben 2 an die Dienstboten , 3 was die Manipuleurs bekommen müssen , und der Koch , schreibe es mir auf ein besonderes Blättchen . Hat denn die Margarete noch Lust nach Baireuth zu kommen ? weißt Du es nicht ? Heute bin schon herumgegangen um einige Kutscher zu fragen ob sie auf Neujahr nach Würzburg fahren , ich will alles recht früh und vernünftig einleiten . Ich habe zwar sehr viel Zerstreuungen durch gute Menschen , die mich sehen wollen , und wirklich fühle ich mich bei Vielen glücklich , aber ich lasse mich dadurch nicht von dem Hauptzweck für den ich jetzt lebe , ableiten , Baireuth ist zu gesellig , so daß recht viel Kraft dazu gehört um seine häuslichen Geschäfte nicht zu verabsaumen . Die Gräfin Schönburg ist wieder hier , und besuchte uns heute morgen , sie fragte wie alle Menschen recht viel nach Dir . Sie ist gar zu liebenswürdig und oft viel natürlicher als die Welden . Denke Dir , daß Emanuel noch nicht beim Vater gewesen ist . Ich war nach meiner Zurückunft dort , und seine Frau bei mir aber nun gehe ich auch nicht eher hin als bis er zu uns gekommen . Lebe jetzt wohl mein Engel . Tausend Grüße vom Vater und Emma . Pflege , schone Dich , und mache Dir alle Freuden die Du wünschest . Machst Du Dir keinen Café mit den Mädchen ? Ich küße Dich tausend , tausendmal . Deine Mutter . Verspare Deine Neugier und mache die Rolle nicht auf , ehe Du sie bei Düroufs siehst , man verdirbt die Kupferstiche so und Herrn Heine darf es nicht eher sehen . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

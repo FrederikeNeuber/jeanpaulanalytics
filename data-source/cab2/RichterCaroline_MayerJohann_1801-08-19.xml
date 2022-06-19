@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0001">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 19. August
+                    1801, Mittwoch </title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. Einige Unterstreichungen vfrH.</p>
+                        <p> mit blauem Stift.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName/>
+               <date when="1801-08-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011832">Gesellschaftliches Leben</term><term xml:id="JP-012274">Hauswesen</term><term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term><term xml:id="JP-011948">Natur</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein teuerster Vater , So kurz Ihr Brief war hat er mir doch die höchste Freude gemacht , er kam mir an einem Morgen wo ich völlig allein war , indem mein Mann seine kleine dreitägige Reise nach Liebenstein unternommen hatte . in dieser Einsamkeit hätte mich ein einziges Wort glücklich gemacht - wie viel mehr also die Versicherung , daß Sie völlig gesund sind , recht innig danke ich Gott , daß mein liebster Vater durch so erbärmliche Störungen nicht mehr in seinem Lebensgenus gehindert wird . Daß aber Mlle Frantz durch irgend einen anderen Grund , der nicht eine Heirat wäre , von Ihnen sich zu entfernen gezwungen fühlt , wie mir Gustchen schreibt , begreife ich nicht - gerade jetzt wo Sie durch ihre Pflege sich befriedigt fühlen ! Es tut mir recht leid , denn sie schien mir ganz für diese Lage geeignet , so viel Aufopferung die aus wahrer angeborener Herzensgüte kommt , so ohne Prätention in jeder Art. wer weiß ob ihre Schwestern ihr ähnlich sind . - Für die Übersendung der Papiere habe ich Ihnen schon in meinem vorigen Briefe gedankt , das was ich bei dem Empfang der letzten empfunden habe , war eine Wiederholung der ersteren . Nun ist doch alles vorbei - diese Sorge verfolgt Sie doch jetzt nicht mehr ? es war ein widrig mühsames Geschäft was wir Ihnen nie verdanken können . Die Gräfin S. die sich 1 ganzen Monat in Liebenstein aufgehalten hat , ist noch nicht wieder zurück , sonst hätte ich Ihnen wegen des Wagenkissens früher geantwortet , ich wollte es abwarten bis sie zurückkäme man erwartet sie in einigen Tagen - kommt sie aber nicht in dieser Woche , so schicke ich meinen Brief Ihnen zu und überlaße es einem anderen ihre Antwort aufzunehmen . die arme Gräfin ist recht unglücklich in solchen Wicklungen . Einer für desselben H.v Bülow Frau gemieteten Kammerjungfer hat sie 1/4 tel jähriges Lohn und Kostgeld vor 14 Tagen zahlen müssen . Es ist wahr , was Gustchen mir vor einiger Zeit , als eine allgemeine Mutmaßung schrieb , daß der Graf hierher reisen würde ihr seinen Sohn zu bringen . Sie hat ihn nun auf so lange Zeit als der Vater reisen wird , bei sich ; eine Erfüllung einer ihrer Lieblingswünsche auf die sie nicht rechnete . Mir geht es fortdauernd glücklicher . immer nur fühle ich es lebhafter wie weit schöner ich mein Leben in Ihrer Nähe zubringen würde . Wenn ich an jedem Tage die Hoffnung auf einen glücklichen Abend nähren dürfte entweder Sie bei uns , oder uns bei Ihnen zu sehen . Dieser , einer der süßesten Genüsse , meinen guten Vater in meinem Hause sich ausruhen zu wissen , oft auch sich wohl da fühlen , wird mir vielleicht niemals . mein Mann verweilt zwar unendlich gern auf den Plan eines halbjährigen Aufenthalts in Berlin aber der Gedanke ist zu schön , als daß ich fest auf ihn rechnete . das Schönste was ich recht bald vor mir habe , ist unsere Reise nach Bareuth - vielleicht sitzen wir in acht Tagen schon im Reisewagen , und ich kann Ihnen recht bald von neuen schöneren Erfahrungen sprechen . ich sehe nun nicht allein eine der schönsten Gegenden Deutschlands , sondern auch die herzlichsten , und zugle ich gebildetesten Menschen , die Heimat meines geliebten Mannes - ach ich wollte , ich könnte meinen Vater hierher zaubern , um Ihn einmal aus der Alltäglichkeit und dem Joch des Geschäftslebens - in die strömende und entzückende Fülle der Natur zu reißen , da sollten Sie Monate lang schwelgen . - Mein wirklich bester Vater jetzt da Sie unabhängiger von häuslichen Sorgen sind , sollten Sie an die Pflicht denken Sich Selbst zu leben . Ihre Geschäfte sollten Sie nicht so willig auf den Schultern nehmen , so würde man Ihnen nicht so viel aufbürden . Weinen möchte ich , daß so viele Berge aufsteigen , so viele Ströme dahin rauschen , daß die Erde so schön ist , und so wenig so gar nichts vom Menschen gesehen , geliebt und genossen wird . und daß die besten Menschen eingesperrt wie in Gefängnissen sitzen . Was haben Sie wohl mit ihrem empfindungsvollen Herzen mit Ihrem weichen offenen gleichsam lechzenden Sinn nach der Natur , für Befriedigungen gehabt . Gott wenn ich mir es denke , wenn Sie einmal hierher reisten aber Sie werden mich für vermeßen halten , daß ich diesen Wunsch äußere . Für uns hebt sich der erste Sommer jetzt an . Bisher war keine Feierstunde der Natur , jetzt sind nur Feiertage . Heute war ich den ganzen Morgen ins Freie es war unaussprechlich schön . unendlich oft dachte ich mir wie Sie entzückt sein würden hier auf dieser oder jener Stelle zu stehen , wie friedlich es wäre wenn wir zusammen da gingen ! Der Winter wird hier recht lebendig sein , und wir werden wahrscheinlich unsere Lebensweise sehr verändern müssen . Einer Bekanntschaft sehe ich mit Freude entgegen . nämlich einer Frl. Riedesel aus Berlin , die einen H. v. Bibra aus Darmstadt heiratet . ihr künftiger Mann , den ich kürzlich kennen lernte , freute sich eben so sehr seiner Frau eine Landsmännin zuführen zu können . mein Umgang hat sich noch nicht sehr erweitert , ob ich gleich alle haben könnte , suche ich sie doch nicht sehr , weil mein Mann fast immer zu Haus ist , und wir beisammen am glücklichsten sind . ich spiele nach meiner Art recht viel , und bin so glücklich gewesen Zeichenmaterialien zu bekommen . um meine so lang schlafende Lieblingsbeschäftigung wieder vorzunehmen . mein Leben befriedigt jeden meiner Wünsche - nur das Bewußtsein nicht ganz gut zu handeln , könnte Bitre Empfindungen in mein Leben einimpfen . Wie unverdient hätte mir die Vorsicht das glücklichste Schicksal gegeben , wenn irgend eine Leere in meiner Seele wäre . Leben sie wohl teurer geliebter Vater - erhalten Sie ewig Ihr Herz warm gegen mich - ich kann nicht anders , als so lang ich lebe , mit derselben kindlichen Empfindung zu Ihnen aufsehen , wie immer . Sein Sie glücklich mein geliebter Vater , ich preße mich in Gedanken an Ihr Herz . Ihre treuste dankbarste Tochter Caroline </p>
+         </div>
+      </body>
+   </text>
+</TEI>

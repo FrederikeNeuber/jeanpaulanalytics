@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0021">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Georg Christian Otto an das Landes-Industrie-Comptoir. Bayreuth, 18.
+                    November 1820, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">6/5101</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2 S. </p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003112">Georg Christian Otto</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-11-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012616"> Industrie-Comptoir</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011789">Otto-Kreis</term>
+               <term corresp="#JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Unter dem 5 Nov. 1818 haben mich die Herren Herausgeber des Oppositionsblattes zu Beiträgen für dieses Blatt unter der Zusicherung von 3 Frd'or für den Bogen aufgefordert . Ich habe hierauf in Allem viere eingesendet , den letzten am 20 Apr. d. J. , die Wiener Nationalbank betreffend . Am 23 Nov. 1819 schrieb mir Ein löbliches Industrie-Komptoir : " Auf Ihre Erinnerung in Betreff der , für das Oppositionsbel . eingesandten , Aufsätze können wir Ihnen vorläufig die Versicherung geben , daß die Sache nächstens erlediget werden soll . " - nach Einem Jahre - Da bis jetzt diese Erledigung nicht erfolgt ist : so bitte ich recht dringend , daß sie doch nun recht bald erfolgen möge . Ich habe bis jetzt bloß von dem ersten Aufsatz ein Exemplar des Abdrucks erhalten ; ich weiß nichts von dem Schicksale der übrigen , da ich das Oppos. bl. nicht zu sehen bekomme . Es möchte zwar scheinen , daß ich Kleinigkeiten Minima zu sehr in Erinnerung bringe ; aber , ohne zu erwähnen aus aus mehreren zusammengesetzten kleinen Teilen etwas Bedeutenderes entsteht , läßt sich dabei ein gewißes , von Anderen geehrtes oder unberücksichtigtes , Rechtsgefühl nicht unterdrücken . Vergeben Sie daher ja , daß ich meine alten Bitten erneuern muß , und gewähren Sie sie ja sobald , als möglich , weil mir außerdem zu meinem großen Bedauern nichts Anderes übrig bleiben würde , als sie mit verstärkter Dringlichkeit öfter als oft zu wiederholen . Hochachtungsvoll Otto </p>
+         </div>
+      </body>
+   </text>
+</TEI>

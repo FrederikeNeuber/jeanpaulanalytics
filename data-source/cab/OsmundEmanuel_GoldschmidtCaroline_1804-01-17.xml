@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0776">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 17. Januar 1804,
+                    Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl., 1 ⅘ S. Auf der ersten Hälfte von S. 1 Briefschluss von
+                                    B.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1804-01-17" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="JP-UB0409">Von Caroline Goldschmidt an Emanuel.
+                        Nach dem 2. Dezember 1803</ref>
+            </correspContext>
+            <note>Auf S. 1 Briefschluß von <ref type="letter" target="JP-UB0409">B</ref>.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012265">Geschlechterrollen</term>
+               <term corresp="#JP-012486">Krankheit bzw.
+                        Gesundheitszustand</term>
+               <term corresp="#JP-012010">Judentum</term>
+               <term corresp="#JP-012274">Hauswesen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Car . ! Im alten Jahr konnte ich Ihnen nicht mehr und im neuen nicht eher schreiben . Das Können braucht keine Entschuldigung , ab. das Wollen . Verkehrt , nämlich ich , als Mann verlangte auch b. Ihrem Nichtwollen keine Entschuldigung , allein S. , die S. beständig als Weib handeln , u behandelt sein wollen , S. haben also Ansprüche auf diese Entschuldigung . Um so mehr werden Sie die meinige zureichend finden , wenn ich mich selbst mit einem Weibe entschuldige . Meine Jette , v. der ich Ihnen schon geschrieben , m. Jette in Regensburg wurde am 23ten v. M. Mutter eines Sohnes und sehr krank . Erst vorgestern bekam ich v. ihrem Manne , v. der kleinen Ulf . , die , wie S. wissen , b. ihr ist , die Nachricht , daß sie außer Gefahr sei . Thieriot , welcher Sie lange grüßt , ist v. München zurück auch wieder in Regbg . u hat mir wieder die ersten Worte im Namen der Leidenden geschrieben u auch , daß es besser gehe . C. ! es war einst eine lange Zeit , in der ich die Meinigen gern v. meinem Schmerz f. mich u die Meinigen unterhielt , in der ich Ihnen z. B. lange vor erzählt haben würde daß ( wie es heute der Fall ist ) daß mein O u mein U , beide achten S. sehr , Car. , nicht recht wohl seien ; aber jetzt schweig ich lieber wenn ich leide u rede nur gern v. der Freude , wenn ich ruhig od. wieder ruhiger bin . Freuen S. sich mit mir C. , üb. die Genesung dieses herrlichen Weibes u mit der Welt , die ohne dies Mangel an guten Menschen hat . Stellen S. sich vor C. , vor einigen Tagen hatte ich die eigene Idee , doch , wider Ihren Rat , Etwas üb. die Juden zu schreiben u zwar mit folgendem Anfang : " Liebe C. .... , S. haben mir zwar abgeraten üb. p aber u. s. w. " allein ich bin wieder davon abgekommen u folge . Das muß ich Ihnen ab. doch offenherzig gestehen , daß ich das Schweigen der Berliner nicht ganz verstehe - obgleich nicht ganz missbillige - u daß es mir wehe tut , aus u üb . Berlin so üb. unsere Nation zu lesen ; daß , ich befürchte , daß diese Schriften unserer Nation nicht so nützlich sein werden , wie sie es sein könnten , u daß ich wenn mir_es auch möglich wäre , jetzt nicht n. Berlin gehen möchte . Noch habe ich Ihnen nicht einmal f. Ihren letzten prächtigen Brief gedankt u doch danke ich so gern f. ihn . Ihre Meinung üb . das - Ihnen geschickte Büchlein ist schon Wit . die meinige . Wenn Sie doch Ihre Briefe , wie ich die meinigen , abschreiben möchten , dam. S. doch nun sogleich nachsehen könnten , wie eitel ich bin , Ihre so schön ausgedrückte Meinung als die meinige anzusehen . Sie sind wohl eher aus Weimar gegangen als der würdige Herder ? Meine schönen Briefe v. ihm sind mir nun ein wahres Heiligtum . Deutschland hat in diesem Jahr 3 große , herrliche Menschen verloren : Gleim , Klopstock u Herder . Ein großer Verlust f. das kleine Deutschland . S. wollen zu Ostern in ein neues Quartier ziehen ( ich rede gerne v. etwas unwichtigem , da meine heitere Stimmung nach zu geben scheint ) u ich im nächsten Sommer . Ungeachtet ich das kl . Haus , das ich ganz allein bewohne , unlängst erst zusammen richten ließ , will ich es doch mit einem kleinen Logis verwechseln . Nur der Wechsel , den ich in nichts leiden mag , hielt mich 16 Jahre in diesem Quartier fest . Richtern habe ich seinen Gruß geschrieben .Spazier hat ihm geschrieben , daß S. ihn , den R. , in Leipzig verkündigt hätten . Wahrscheinlich war ich an dieser falschen Verkündigung schuld . Haben S. Mahlmann in Weimar , in Leipzig od. gar nicht gesehen ? Meine Mutter ist gesund . Mein Uhlf. u m. Bruder ( mein älterer heiratet eine junge Witwe aus St. ) grüßen S. recht warm . Ich bin u bleibe Ihnen derselbe 1801 ste E . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

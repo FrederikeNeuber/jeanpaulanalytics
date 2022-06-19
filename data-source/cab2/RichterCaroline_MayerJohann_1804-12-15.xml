@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0153">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Bayreuth, 15.
+                    Dezember 1804, Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2¾ S. Auf S. 4 Adresse: Herrn Geheimen | Ober
+                                    Tribunals Rath | <hi rendition="#aq">Mayer</hi> | in | Berlin |
+                                    Spittelbrücke. 2; Postvermerk: Fr. Hof; Angabe der Beilage:
+                                    Hiebei eine Wolle in | grauer Leinwand <hi rendition="#aq">Sig</hi>. | <hi rendition="#aq">H.M</hi>. worin eine |
+                                    getragen Weste; Portozeichen sowie Siegelspuren. </p>
+                        <accMat> Eine Weste; in der Westentasche befinden sich ein nicht
+                                    überlieferter Aufruf zur Subskription für die Herder-Werkausgabe
+                                    und zur Weitergabe ein Brief Jean Pauls an Frau von Berg (<ref type="letter" subtype="document" target="https://www.jeanpaul-edition.de/brief.html?num=V_42">3. Abt., Bd. V, Nr. 42</ref>), der wiederum einen weiteren
+                                    Brief an den Erbprinzen Georg von Mecklenburg-Strelitz
+                                    beischließt (<ref type="letter" subtype="document" target="https://www.jeanpaul-edition.de/brief.html?num=V_43">3. Abt., Bd. V, Nr. 43</ref>).</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Leichter Textverlust durch Siegelspuren.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1804-12-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="next" target="JP-UB0607">Von Johann Siegfried Wilhelm Mayer an
+                        Caroline Richter. Berlin, 14. Januar 1805, Montag </ref>
+            </correspContext>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012048">Briefverkehr</term><term xml:id="JP-012565">Erziehung, Pädagogik</term><term xml:id="JP-012183">Festlichkeiten</term><term xml:id="JP-012211">Finanzen</term><term xml:id="JP-012033">Textilien</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Mein geliebter Vater , Wie sehnlich sehe ich einer Antwort von Ihnen , auf meinen letzten Brief entgegen der , hoffe ich glücklich in Ihre Hand gekommen ist . Doch kann ich sie nicht abwarten , um Ihnen dies kleine Zeichen meiner Liebe zu übergeben , das Sie doch gütig aufnehmen mögen . Indem ich es Ihnen übergebe fühle ich aber das unzulängliche einer Arbeit von fremder Hand , da sie nur von der eigenen einen geringen Wert erhielte , und doch muß ich der Notwendigkeit weichen die es in meiner Lage unmöglich macht , dergleichen selbst zu arbeiten . Ja oft dünkt es mich als wäre es Sünde meiner Empfindung nachzugeben , da immer eine Pflicht darunter leidet - dennoch war es mein Vorsatz , meinem Vater dem ich ja so viel Zeit abzuzahlen habe - selbst eine kleine Freude zu machen - aber der so edle und strenge Emanuel , mein halbes Gewißen , der bei der Erziehung unserer Kinder ein lautes und kräftiges Wort mitsprechen darf , gab es durch aus nicht zu , und drang mir dieses Zeug zur Weste auf , damit ich meine Kinder nicht versäumen sollte . Möchten Sie sie , zuweilen zu unserem Andenken tragen ! Inliegenden in der Westentasche gesteckten Brief meines Mannes an die Frau von Berg haben Sie wohl die Güte durch Ihren Bedienten besorgen zu lassen , der zugleich eine kleine Erinrung an das versprochene Kanonikat , und eine Bitte für Herders Witwe enthält die auch Sie , um Ihre Anwerbung für praenumeranten auf ihres großen Mannes Schriften anfleht , weil ein Teil i hrer Existenz daran hängt . Freilich ist sie sehr kostbar , doch tun gewiß viele ein Übriges um des Andenkens Willen . Unser Kind ist am 9 ten Dec. getauft , und wird nach meines Mannes Wahl , Odilia , genannt , wir haben dabei auf die Gesundheit Ihrer gütigen Frau in Punsch getrunken - Wie glücklich wären wir , wenn wir so kleine Familienfeste , nicht bloß in der Einbildung feiern dürften . Leben Sie wohl , mein teurer geliebter Vater , ich kann heute nichts weiter hinzu setzen als den ehrerbietigsten Gruß meines Mannes , an Sie Beide , und die Versicherung meiner tiefen Achtung für Ihre edle Frau . Gott schenke mir bald einen Brief von Ihnen der mir sagt , daß Sie mich noch lieben . Ihre treuste ewige Caroline . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

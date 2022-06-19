@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0022">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Georg Christian Otto an Ludwig Friedrich von Froriep. Bayreuth, 4.
+                    Dezember 1820, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno type="shelfmark">6/3911</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 2 S. S. 4 Adr.: S.1: Sr. Hochwohlgeborn | Herrn
+                                    Ober-Medizinalrath | <hi rendition="#aq">D. v. Froriep</hi> |
+                                    Weimar. Poststempel: <hi rendition="#aq">R 3 BAIREUTH | 9
+                                        DEC</hi>. 1820. Postvermerke, Siegelspuren</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003112">Georg Christian Otto</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-12-04" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001218">Ludwig Friedrich (seit 1810) von Froriep</persName>
+               <placeName key="JP-006395">Weimar</placeName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011789">Otto-Kreis</term>
+               <term corresp="#JP-012232">Verlagskorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012572">Verlage / Verlegerisches</term><term xml:id="JP-012547">Zeitschriften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>In Erwiderung auf das sehr ehrliche Schreiben Euer hochwohlgeboren vom 27ten v. M. , benachrichtige ich Sie , daß mir die Herren Herausgeber des O. Bl. unter dem 6ten Nov. 1818 schrieben , daß ich meine Beiträge zum O.b. " mit N. 70 unterzeichnet unter Adr. des L. Ind. kommt . einsenden solle , welches unter dieser Nummer auch das Honorar mit 3 Frd'or p. Bogen notieren würde . " Ich vermute daher , daß unter der angeführten Nummer meine Beiträge zu Buch gebracht sein werden . Nur von dem ersten habe ich die erbetenen zwei Exemplare erhalten , nämlich N. 92 des O. Bl. vom 29 Okt. 1818 : Bericht von der begonnenen Vollstreckung ohne u Recht . Ein zweiter Beitrag betraf die Absetzung ohne Urteil u Recht eines Schullehrers wegen einer unvorsichtigen Äußerung über die Ermordung Kotzebues und die wörtliche Mitteilung des Aufsatzes , worin sie enthalten war . Ich habe die , davon gemachte , Vormerkung verlegt u kann daher den Titel u den Tag der Absendung nicht vor der Hand angeben . Ein dritter war von Himmelkron im Ober-Mainkreise d. 5 Maj 1819 datiert und handelte von der Beschlagnahme der Schrift : " J. Mut , Über das Verhältnis des Christentums und der christlichen Kirche zur Vernunftreligion . " Der vierte war vom Main , am 11 Maj 1820 datiert u hatte die Uiberschrift : Nachtrag zu einer , im " Gesellschafter " am 22 März bekannt gemachten , Nachricht von der Oesterr. Nationalbank . Euer hochwohlgeboren bitte ich nun ganz gehorsamst die gütigst versprochene Abrechnung u Saldierung sobald , als möglich , bewerkstelligen zu lassen , und mir mit derselben , wo möglich , die , schon früher bedingsweise erbetenen , Exemplare des Abdrucks meiner Beiträge zu übersenden . Mit ausgezeichneter Hochachtung Euer hochwohlgeboren Euer gehorsamster Otto </p>
+         </div>
+      </body>
+   </text>
+</TEI>

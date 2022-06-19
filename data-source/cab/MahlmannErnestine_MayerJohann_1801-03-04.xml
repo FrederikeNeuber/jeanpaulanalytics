@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0228">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Ernestine Mayer an Johann Siegfried Wilhelm Mayer. Leipzig, 4. März
+                    1801, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002581">Ernestine Mahlmann</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1801-03-04" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011811">Reisen</term>
+               <term corresp="#JP-012319">Besorgungen für Familienmitglieder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Gewiß , liebster Vater , erwarten Sie mich selbst wohl eher als noch diesen Brief . - Aber zu meinem großen Verdruß muß ich Ihnen sagen daß es mit der Ihnen zuletzt gemeldeten Gelegenheit nun auch nichts ist - und sich aller Bemühungen ungeachtet , sich jetzt durchaus gar keine finden will . - Der russische Konsul der mich wirklich mitnehmen wollte mußte mit einenmale statt nach Berlin nach Dresden und meine schöne Hoffnung war vereitelt . Es ist jetzt so schwierig eine zu finden da Frauenzimmer in dieser Jahrzeit - bei den schlechten Wegen selten reisen . Wenn es anginge , daß Sie d mir die Hälfte des Weges einen Wagen entgegen schickten , worin mir irgend eine sichre Begleitung - Ihr Bedienter etwa ? sich befände , so könnte ich ja wohl von hier aus mit Spaziere die erste Hälfte zurücklegen - nämlich bis Wittenberg . So ungern , wie ich wohl sehe , Spaziere sich auch dazu verstehen würde , da seine Geschäfte eine Abwesenheit von wenigen Tagen nur , fast nicht zulaßen , so weiß ich doch keinen anderen Rat , wenn ich nicht noch Monate hier zubringen will . - Und wenn ich gar an die Kosten denke , die es doch natürlich unendlich mehr macht - als wenn ich mit einer Gelegenheit führe ! - Wenn Sie jetzt nur die Güte haben mir mit nächster Post Ihren Willen bekannt zu machen . Ich werde noch immer nicht aufhören mich nach Gelegenheiten umzusehen . - Ihr Brief wird aber dann entscheiden - und wenn Ihnen selbst , etwas daran liegt mich bald wieder bei sich zu sehen , so erlauben Sie mir gewiß einen schnellen Entschluß zu fassen . - Sollte es vielleicht sich doch nicht tun lassen daß Spaziere mit reisen könnte , so ginge es ja wohl an daß ich eine weibliche Begleitung - dieselbe Person die schon einmal dazu bestimmt war - mitnähme . - Schreiben Sie mir doch ja recht bald liebster Vater ; denn es gibt keinen unerträglichen Zustand , als den der Unschlüssigkeit , noch dazu wenn er nicht in uns selbst , sondern nur in äußeren Verhältnissen liegt . Ich sehe nicht ein warum ich nicht ganz alleine reisen könnte - wer würde mir denn etwas tun ? - Doch geht es freilich nun einmal nicht an ! Ich habe noch nicht dazu kommen können Ihren Wunsch wegen Taxation der Bijouterien , Münzen und Kleider der Mutter zu befriedigen . Sie werden es gewiß entschuldigen wenn ich Ihnen die Gründe anführe , daß es bis jetzt noch unterblieb . - Die Hauptursache ist wohl die , daß wir alle zu sehr mit der Wöchnerin , und den Angelegenheiten des Hauses beschäftigt waren um ernstlich zu etwas anderen zu kommen . Nachdem wir nun wieder in Ruhe sind , die Taufe vorbei ist etc : so haben wir es alle hin und her überlegt und scheint es doch der Kleinigkeiten wegen fast nicht der Mühe wert hier das vorzunehmen . Sein Sie nur nicht böse , liebster Vater , wenn Sie unsere Meinung unüberlegt finden . Ich dachte nur da ich doch das Benannte mit nach Berlin zurückbringen muß und nur das zurücklaße was wie Sie selbst sagten zu unbedeutend ist um taxiert werden zu müssen so kommt es ja auf eins heraus . Da ich doch einen Koffer mitbringe so geht leicht alles hinein was sich hier von den Sachen der Mutter befindet . - Die Zeit ist zu kurz um mehr zu schreiben Zürnen Sie nur nicht auf mich , liebster Vater und glauben Sie fest an die treue Liebe Ihre Ernestine Herzliche Grüße von Minna , und die kleine Laura bittet um Ihren großväterlichen Segen . Auch Spaziere empfiehlt sich . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

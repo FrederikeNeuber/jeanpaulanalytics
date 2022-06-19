@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0296">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Gottfried Langermann an Caroline Richter. Berlin, 17. Mai 1826,
+                    Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 4°, 2 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Papier mit Wasserzeichen.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002357">Johann Gottfried Langermann</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1826-05-17" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012567">Ärztekorrespondenz</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011851">Entschuldigung</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Früher habe ich Sie , meine sehr verehrte Freundin , nicht in ihrer gerechten Trauer stören wollen . Sie sind ohnehin gewiß meiner innigen Teilnahme versichert gewesen . Jetzt erlauben Sie mir nur folgende Bitte . Sie erinnern sich des Briefes , den ich vor 6 Jahren Ihnen an ihren seligen Gemahl mitgab , in welchem es mir ein großes Anliegen war , ihn vor Betrug bei seinem Glauben an Magnetismus zu warnen . Was auch der Brief bei ihm gewirkt haben mag ; es muß etwas durch Eifer u Eiligkeit ( Sie wissen ich hatte ihn in der Nacht schnell geschrieben , ) hineingekommen sein , was ihn verwundet hat . Er hat mir seitdem vielfach durch andere seine fortdauernde freundschaftliche Gesinnung versichern lassen auch mir aus Dresden durch Zelter liebe , freundliche Worte geschrieben , aber über Angelegenheiten der Zeit , der Wissenschaft - schrieb er mir nicht mehr . Es ist mir |2| ewig leid , daß ich mich nicht besser in Acht genommen habe . Er hatte das Recht , auch von seinen liebsten Freunden Schonung seines Zartgefühls zu fordern , zumal da bei ihm auch wissenschaftliche Untersuchungen zugleich mit seinem Herzen zusammenhingen . Ich erinnere mich wohl , daß manches Rauhe in meinem Briefe vorgekommen ist speziell weiß ich aber nichts mehr vom Inhalte , nur der Tendenz desselben erinnere ich mich . Ich bitte Sie daher , mir diesen Brief zurückzusenden , damit ich dem Teuren u geliebten Freunde noch im Grabe abbitten kann , was ich ihm etwa Leides getan habe . Bei allen Nachrichten über seine zunehmende Krankheit glaubte ich dennoch nicht , daß sein Ende so nahe sei als es war . Könnte ich Ihnen auf irgend eine Art nützliche Dienste erweisen , so wissen Sie ja , wie sehr ich dazu bereit bin u wie es mir nur Freude machen würde , Ihnen etwas Angenehmes erweisen zu können . Ihr ergebenster Freund u Diener Langermann </p>
+         </div>
+      </body>
+   </text>
+</TEI>

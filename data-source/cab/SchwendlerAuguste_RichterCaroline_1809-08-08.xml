@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0621">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Caroline Richter. Meiningen, 8. August 1809, Dienstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S. Schluss fehlt.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-006012">Meiningen 
+               </placeName>
+               <date when="1809-08-08" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012449">Kinder</term>
+               <term corresp="#JP-012565">Erziehung, Pädagogik</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Geliebte , Unvergeßliche Caroline ! Durch Frau von Lochner begrüßte ich Dich , jetzt Geliebte , durch diese Zeilen . Daß ich reicher geworden bin , weißt Du durch meine Antonie , ja liebe Caroline , ein lieblicher Knabe , macht mich jetzt zu einer reichen und frohen Mutter . Viel Zeit kostet mir freilich der liebe Kleine , und darum bekomme ich viel Schelte . Aber er bedarf auch großer Sorgfalt und Pflege ; er kam ungewöhnlich klein und zart zur Welt ; meine erste Freude war zugleich ein stiller Schmerz , weil ich glaubte der geringste Unfall könne mir den Liebling rauben . Nun fängt er an zu gedeihen , er wird stark und kräftig . Er gleicht ungemein seinem Vater ein braunes Härchen , große blaue Augen und ein überaus freundliches Gesichtchen , so denke Dir meinen Reinhold , habe ihn lieb und unser Richter soll ihn auch lieb haben . Die Lochner schreibt mir , Richter habe das kalte Fieber , dieses Fieber ist so überall herrschend in Deutschland , doch möchte ich , daß es Unseren R. bald verließe , um so mehr , da es hier bei den Kranken eine lange Schwäche nachläßt . Der treffliche Langermann wird alles anwenden , Du sagst es mir aber bald , wenn unser Guter , wieder hergestellt ist . Wie geht es Dir , meine Caroline ? was machen Deine Lieblinge ? Oh , Liebe , wenn ich gleich ein wenig faul im Schreiben war , so sind diese Fragen meinem Herzen immer gleich nahe und die Sehnsucht nach ihrer Beantwortung gleich stark . Du und Alles was Dein ist , gehört mir auf ewig , und ich gehöre Dir eben so , mit treuer Ergebenheit . Es ist jetzt alles vergeßen , aber meine Schwangerschaft war sehr beschwerlich , besonders konnte und durfte ich mich wenig anhaltend beschäftigen , deshalb schrieb ich beinahe an niemand . Antonie reißt in vierzehn Tagen mit Hendrichs in die Schweiz . Die glückliche , sie wird den Altvater Rhein stürzen sehen wird Alpen Röschen pfüken , - wenn nicht die Blume doch Blätter von ihrem Strauche - sie wird Pestalozzi sehen und bei ihm wohnen und in seinem Institute lehren kurz sie wird genießen in Fülle und vollen Zügen . Ich gönne es ihr mit inniger Schwester liebe , wir Liebe , Du und ich Caroline , werden wohl schwerlich die Schweiz sehen , dafür haben wir unsere Kinder , und diese Natur , diese zu studieren und beobachten , ja das ist das höchste ! -- Der Sommer war nicht schön , immer rauh ich sehne mich um meines Kleinen Willen mehr wie je nach warmer Luft , damit er immer im Freien sein kann . Seit 2 Monaten bin ich Besitzerin eines der schönsten Berge in der hiesigen Umgebung . Da habe ich recht viel anzuordnen und zu arbeiten , dabei mein Garten und die Kinder . Nicht wahr , Gute , Du glaubst das ich recht beschäftigt bin , und wenig Zeit übrig habe . Es muß aber so sein , besonders in Meiningen wo man außer dem Kreise der Seinen nichts hat . Eine angenehme Erscheinung hier , darf ich dir offen nicht verschweigen , denn Du mußt Meiningen um Deines ersten Aufenthalts Willen und um Deiner Henriette immer ein wenig lieb behalten . Ein Schwieger Sohn von Salzmann mit Namens Märker hat sich hier etablieret , um eine halbe und ganze Pension Anstalt anzufangen . Ich schicke Pauline hin und bin mit dem Unterricht außerordentlich zufrieden . Märker ist ein Mann voller Talent und besonders gemacht Mädchens ' zu unterrichten . Er ist fest und sanft . Seine Frau ist sehr liebenswürdig , ohne sie geistig mit Dir vergleichen zu können , so hat sie doch von der Wahrheit Deines Charakters , und Deiner schönen Weiblichkeit vieles was mich so freundlich an Dich erinnert , dazu Deine Gestalt , daß ich das liebe Wesen </p>
+         </div>
+      </body>
+   </text>
+</TEI>

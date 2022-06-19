@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1136">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Friedrich von Müller. Eisenach, 23. Januar 1819,
+                    Sonnabend</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>GSA</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">68/540, Bl 37-38</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 3 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-005698">Eisenach</placeName>
+               <placeName key="JP-005698">Eisenach</placeName>
+               <date when="1819-01-23" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term corresp="#JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012761">Tod und Sterben</term>
+               <term corresp="#JP-013022">Adel und höfisches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Am letzten Posttag wollte ich Ihnen , mein teurer Freund , meinen Dank , für Ihren , mit dem Seelen Gemälde der Kaiserin Maria so schön geschmückten Brief sagen , als wir eben die Todes Kunde unseres geliebten Freundes , des Geheimrats Heim , aus Meiningen erhielten . Wenn uns auch solche Nachricht , bei dem Alter von 80 Jahren welches der Verewigte erreicht hatte , nicht außerordentlich verwundern konnte , so überraschte sie uns dennoch unsäglich schmerzlich , da ich kaum einige Tage vorher den jugendlich gelauntesten geistig kräftigsten Brief von ihm erhalten hatte . Ein merkwürdiges Leben in ihm ist untergegangen , für Meiningen ist sein Tod sehr bedeutend und unter den mir dort Bekannten seine Stelle unersetzlich . Recht tief betrübt betraure ich den geehrten väterlichen Freund , fast sollte ich noch anstehen mich in so wahrer Stimmung Ihnen zu nähern , wüßte ich nicht , daß Sie die Freundin aufnehmen wie sie ist , und darum Nachsicht haben . Es lösen sich so viele Bande und die Heimat der Erde wird leer ! - - - - Der Tod der jungen Lebens kräftigen Königin von Württemberg hat wohl ohne Ausnahme jedermann ergriffen namentlich im Gegensatz des Triumph und Freuden Zugs der Kaiserin Mutter zu ihren Kindern , der im Hinter Grunde , anstatt ihren Heim Zug durch fortziehende fröhliche Bilder zu erheitern , den Trauer Katafalk der Tochter aufstellt . Ich kann Ihnen nicht sagen wie eigen und mächtig ich davon erschüttert worden bin , und wo am Ende der Gedanke sich aufdrängt , keiner endlichen Freude sei eine Dauer abzugewinnen ! - Die arme Großfürstin , wie verwundet mag sie sein , die starke Seele der Kaiserin erträgt den Schmerz wohl am ersten , da sie eigentlich unter den außerordentlichsten Prüfungen und Erfahrungen ihren Geist erkräftigt hat , doch man vermag das Gefühl einer Mutter zu schildern , wenn ein Opfer gegeben werden muß . - - Als eine gute Eisenacher Bürgerin verhehle ich Ihnen nicht , daß es uns wehe tut , von der ausgesprochensten Eigenschaft der Kaiserin , ihrer Wohltätigkeit auch nicht das Geringste genossen zu haben . Ich enthalte mich aller Bemerkungen die hie zu nichts führen und nicht ändern was einmal der Residenz als ihr allein gehörend angenommen ist , aber sehr niederschlagend ist es für alle diejenigen die mit den Armen und Notleidenden Pflege hier zu tun haben , daß man in Weimar so gar nicht glauben will wie arm und was schlimmer ist , wie hülflos und nahrunglos , wir hier sind . Ich bitte Sie , keinen Gebrauch von meiner Klage zu machen , es hilft nichts und so natürlich ich es finde , daß unsere Bürger überhaupt die Eisenacher sich als zurückgesetzt ansehen , so möchte ich um keinen Preis mich als Organ der ausgesprochenen Klage aufwerfen . Falks Aufruf ist vortrefflich , ich freue mich wie der edle sich wahrhaft aufopfernde Menschen Freund hier auftritt und wie er belegt was er bewirkte . Er muß überzeugen selbst seine hartnäckigsten Gegner . Schwendler sieht seine Reise nach Weimar noch so in weiter Ferne , daß er kaum an dieselbe glaubt , also vorgetzt nur seine herzlichsten Grüße für Sie u Ihre teure Gemahlin , an welche Pauline und ich uns anreihen . Noch einmal , entschuldigen Sie den Ernst dieser Zeilen . Die Ihrige Henriette Schwendler . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

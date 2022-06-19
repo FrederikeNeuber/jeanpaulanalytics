@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1307">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Christian Ernst Graf von Bentzel-Sternau. Baureuth, 20.
+                    November 1809, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscriptCopy" type="baseText">
+                     <msIdentifier>
+                        <institution>Slg. Apelt</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark"/>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>Billett, 1 S. Auf Rückseite Billett Christian Ottos an Emanuel
+                                    vom selben Tag.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth (Baireuth, Baireut) (Stadt)</placeName>
+               <date when="1809-11-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-000292">Christian Ernst Graf von Bentzel-Sternau</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012547">Zeitschriften</term>
+               <term corresp="#JP-011913">Besuche</term>
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Verehrungswürdiger Herr Graf ! Dem guten Zufall verdanke ich es oft , Sie v. Angesicht gesehen zu haben ; heute verdanke ich es meinem Freund Georgius , mich Ihnen schriftlich nähern zu können . Er wünscht , daß dieser Aufsatz üb . Preußen sich an Jasons Argonautenzug anschließen dürfte. u. für den Bogen verlangt er 2 Frd'or u auch im Abgedruckten falle sein Mskript zurück . Auch ist er damit zufrieden , daß der Aufsatz abgeteilt eingerückt werde . Am 25t Sept . Abends ging ich auf meinem Heimweg , abermals durch Crlr . u hatte den Schmerz , Sie nicht sehen zu können , teils aus Herz- , teils aus Zeitmangel . Weinbrenner musste ich sprechen u Jung Stilling wollte ich sehen , weil ich mich schon als Jüngling nach dem alten Stilling heiß gesehnt ; ich habe aber nicht meinen alten , sondern den genauen Mann , den Jung gefunden . Wie selten wird unser Geist befriedigt , so befriedigt , wie der meinige in der Nähe des schönen , großen , erhabenen Jung es war ?Möchte der Allschöpfer Ihre Israelitische " Umschöpfung " segnen ! Ihrer Fr. Gemahlin - Sie erlauben mir es - empfehle ich mich mit meiner Verehrung ; Ihren kleinen Virtuosen küß ich mit Wonne u Sie bitte ich die Versicherung meiner höchsten Achtung und Versicherung nicht zu verschmähen . Em . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

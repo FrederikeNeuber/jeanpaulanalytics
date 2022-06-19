@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0321">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette von Ende an Caroline Richter. Dresden, 19. Oktober 1820,
+                    Donnerstag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Dbl. 8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p>Blaues Briefpapier.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000948">Henriette Freifrau von Ende</persName>
+               <placeName key="JP-005687">Dresden</placeName>
+               <date when="1820-10-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012284">Heidelberger Freundeskreis</term>
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-011811">Reisen</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Recht lange ist es , meine teure Freundin , daß ich auf die Freude Sie zu sehen , statt schriftlich Ihnen für Ihren letzten lieben Brief zu danken , Verzicht leisten mußte , aber lange sah ich dem Augenblick des Wiedersehn's entgegen , ehe die jetzigen Verhältnisse in Italien entscheidend genug sprachen , um den Vorsatz im Herbst wieder nach Neapel zu reisen zu vertreiben . Baireuth war mir auch dieses Mal mehr als Vorhof von Italien und ich freute mich so herzlich auf den Tag den wir dort zubringen würden ; mit Ihnen , Ihrem lieben Mann und Ihren lieben Kindern , ist man in Baireuth schon in Italien , Wärme , Licht , Nahrung für Geist und Herz , ist in dem Zirkel einheimisch ; ich ergötzte mich schon im Voraus auf die schönen Stunden , die wir da wieder verleben konnten , allein es gestaltete sich anders und nun bleiben wir , so Gott will , für den ganzen Winter hier in Dresden , der Sommer verging , Gott Lob ! sehr angenehm und ich halte einen großen Teil der Anmut desselben fest , indem ich nicht in die Stadt ziehen sondern in meinem lieben Landhaus bleiben will , nur eine Viertel-Stunde ist es ( für Fußgänger ) von der Stadt entfernt und noch habe ich auf dem halben Weg ein Absteige Quartier , wenn beim Nachhausekommen das Wetter zu unfreundlich wäre ; ich genieße die herrliche Luft die hier ist , die auch im Winter schöne Natur , die Ruhe und die Entfernung vom teilnahmlosen Zusammenkommen , dem man in der Stadt unmöglich so entgehen kann wie auf meinen ländlichen Wohnsitz , der für diejenigen welche Wohlwollen leitet , nicht zu entfernt ist , was mir , zu wahrer Freude für mein Herz gereichend , über 500. Besuche von 145. Personen bewiesen haben wie mir die halbjährige Liste , die ich in der Aussicht der Reise wo ich ein Paar Jahre keines von allen diesen oder doch nur wenige gesehen haben würde aufzählt ; ich blieb dabei , nicht der Langenweile der großen Gesellschaften zu frönen und köstlich ist es mir auch für die Erinnerung , daß ich in großer Verschiedenheit der Personen , immer in gleichen Ton bleiben k o nn te , da die gute Absicht , welche mir die Besuche brachte , sich im Akkord des häuslichen Zirkels behaglich fand , welcher recht oft Gemütlichkeit eintreten ließ unter denen die sich sonst nur mit Kälte begegneten ; dies war immer eine rechte Freude für mein Herz . Nun wird der liebe Max wohl in Heidelberg sein ; Gott lasse diesen Aufenthalt für ihn gesegnet sein , ich fühle , was ihr mütterliches Herz dabei empfindet ; vielleicht haben ihn beide liebe Eltern begleitet ; ich denke wie gern er überall gesehen sein wird und fühle , mit welcher Freude ich ihn in Ihrem Geiste , in Ihrer Seele recht oft bei mir gesehen hätte , wenn ich noch in Heidelberg wohnte ; ich hätte ihn mit wahrer Herzlichkeit bemuttern wollen . Die Gräfin Vitzthum will nun , nach einem mehrwöchentlichen Aufenthalt in Dresden , wo sie vergebens hoffte , ihren Mann zu besseren Gesinnungen gegen sie zurückkehren zu sehen , nach Leipzig gehen , wo ein äußerst geschickter Sachwalter , ihre Rechte geltend macht . Der innige Dank , von welchem sie für Ihre Güte und Liebe durchdrungen ist , stimmt in dem meinigen ein daß Sie meine Bitte mit so vieler Freundschaft erfüllten ehe noch diese unglückliche Frau ihre guten Eigenschaften vor Ihnen entfalten konnte , längst schon wollte sie Ihnen ein Wort des Dankes und der Liebe schreiben , aber ihre Feder ist saumselig , während ihr Herz und ihr Mund immer erneuert dankbarer Erinnerungen voll sind ; wir sehen uns oft , aber ich glaube nicht ein Mal , wo sie nicht Ihrer erwähnte , auch der lieben Emma mitspazierengehn , wie schön Sie vorgelesen , auch des Pelzes wird mit Wärme gedacht und so vieler Augenblicke und Stunden Ihrer Güte gegen sie . Ihre Abreise tut mir für mich leid ; so klar läßt es sich in den Spiegel ihrer Seele lesen , ihr kindliches Gemüt , ihr so feines Gefühl für alles was wahr ist , ihre Religiosität , die Elastizität ihrer Munterkeit , alles dies macht mir das so vieljährig unter uns bestehende Freundschaftsverhältnis , recht reizvoll . Neulich wurden wir , mein Sohn und ich , recht angenehm überrascht , durch den Besuch des Geh. Hofr. Zachariä aus Heidelberg ; ganz Heidelberg war mit , durch seine Gegenwart , nur daß die anderen Unsichtbaren , nicht antworten konnten , sondern er allein . Mein Sohn empfiehlt sich Ihnen , so wie wir uns beide dem lieben Mann und Ihren lieben Kindern , aufs Herzlichste . Nun leben Sie wohl , recht wohl und erfreuen Sie bald mit einen Brief Ihre Sie herzlich liebende HenriettevEnde . </p>
+         </div>
+      </body>
+   </text>
+</TEI>

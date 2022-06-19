@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB1073">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Minna Spazier an Friedrich Kind. Leipzig, 5. Mai 1809, Freitag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SLUB</institution>
+                        <collection/>
+                        <idno>
+                           <idno type="shelfmark">Mscr.Dresd.App.42,250</idno>
+                        </idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1
+                                    Dbl.
+                                    8°, 4 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004393">Wilhelmine Uthe-Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date when="1809-05-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002107">Johann Friedrich Kind</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-013033">Minna Spazier-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics"><term xml:id="JP-012330">Literarisches Leben und Schaffen</term><term xml:id="JP-012572">Verlage / Verlegerisches</term><term xml:id="JP-012547">Zeitschriften</term></keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Tausend Dank , herzlich geliebter Freund für die pünktliche und unerwartete Übersendung Ihres Mskpts , dessen Lektüre ich mir vor der Hand noch als einen Festtagsgenuß aufspare . Mitten im Getümmel der Meßbesuche , der Aufträge gebenden , des Laufens Einkaufen's , sich Berechnen's u. s.w. mag ich das Schöne nicht entweihen durch halbe Aufmerksamkeit . So kann ich jetzt nur noch danken , nicht urteilen und den ganzen Schatz den Sie mir bestimmten nur ahnend erkennen . Sie glauben nicht th. F. wieviel darauf ankam , daß alles schon fertig da lag als der Verleger nun ankam . Die Zeitumstände machten ihm in der Tat Lust machen , eher rückwärts als vorwärts zu treten . Allein die Macht des Geschehenen , die vor seinen Augen Beys ausgebreiteten Zeugnisse meines Eifers , das unsichtbar über ihm schwebende Gewicht so vieler bedeutender Männer , die Hand ans Werk für ihn gelegt hatten , rissen ihn wieder zu der Höhe hinauf auf welche der erste Enthusiasmus für die Unternehmung ihn gestellt hatte , und er ist nun entschloßen auf Gefahr selbst mancher Aufopferung , Wort zu halten , und den Almanach in diesem Jahre noch erscheinen zu lassen . In wenigen Wochen also schon , mein geehrter Freund , wird Ihr Mskpt unter der Preße sein , im Gefolge einer anmutigen Schar fröhlicher Geister , die die zierlichen Reihen bilden . Es ist glücklicher Weise so sehr viel eingelaufen , daß sich die aller vorsichtigste Wahl treffen lassen wird . Um manchen Namen darunter wird es mir leid tun nicht aber um alles Gelieferte . So hat , im Vertrauen Herr von Kleist , eine Novelle eingesandt die zurückbleiben müßte , auch wenn leere Blätter dafür gedruckt werden sollten . Herr Brockhaus ist ein sehr liebenswürdiger Mann , der alles Schöne mit Wärme umfaßt und eine große Zartheit besitzt . Er ist ein Mensch , der leicht zu mißbrauchen sein durfte und es wohl schon gewesen sein mag . Er hat für viele Menschen bereits große Opfer gewagt , die ihn hinterher mit Undank belohnt haben . Unter der Zahl dieser ist auch Baggensen . Sie würden staunen wenn Sie dieses Beispiel des Egoismus in allen seinen schillernden Farben erkennen sollten . Brockhaus ist jetzt fast der Einzige Buchhändler Cotta gegenüber der diesem Stand hält . Aber welche Differenz der Temperatur in diesen beiden Gemütern ! Der Eine eben so kalt und hart und glatt wie Marmor , der Andere weich und mild , leicht entzündbar und jedem Eindruck empfänglich . Sonst ist wohl die Meße arm an geistreichen Erscheinungen gewesen , selbst Bötticher hat sich nur wenige Tage hier aufgehalten . Nun Adieu ! für diesmal , nächstens erhalten Sie neue Nachrichten von mir . Tausend Grüße Ihrer lieben Friederike deren zarte Handschrift mich recht lebhaft an die liebe Schreiberin erinnert hat . Noch einmal Adieu ! Minna Spaziere gebe . Mayer </p>
+         </div>
+      </body>
+   </text>
+</TEI>

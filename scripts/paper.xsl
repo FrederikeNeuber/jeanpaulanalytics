@@ -24,6 +24,8 @@
         <xsl:variable name="documents" select="collection($input-dir-uri)" as="document-node()*"/>
         
         <!-- Defines output file -->
+        <xsl:variable name="output-uri-csv-0"
+            select="'file:///' || $output-cleaned || 'briefe-jahr.txt'" as="xs:string"/>
         <xsl:variable name="output-uri-csv-1"
             select="'file:///' || $output-cleaned || 'personen-uebersicht.txt'" as="xs:string"/>
         <xsl:variable name="output-uri-csv-2"
@@ -37,23 +39,15 @@
         <xsl:variable name="l" select="'&#10;'"/>
         
         <!-- variables for queries -->
-        
-    <!--    <xsl:variable name="all-letters"
-            select="count(//$documents//tei:TEI)"/>
-        <xsl:variable name="all-length"
-            select="sum(//$documents/string-length(//tei:text))"/>
-        <xsl:variable name="all-correspondents"
-            select="count($documents//tei:correspAction[@type = 'sent' or @type = 'received']//tei:persName/@key)"/>
-        <xsl:variable name="all-readers"
-            select="count($documents//tei:correspAction[@type = 'read']//tei:persName/@key)"/>
-        <xsl:variable name="all-commentors"
-            select="count($documents//tei:text//@hand[. != '#author'])"/>
-        <xsl:variable name="all-mentions"
-            select="count($documents//tei:text//tei:persName/@key)"/>
-        <xsl:variable name="single-topics"
-            select="count(distinct-values($documents//tei:keywords[@scheme = '#topics']/tei:term))"/>
-        <xsl:variable name="single-circle"
-            select="count(distinct-values($documents//tei:keywords[@scheme = '#correspondents']/tei:term))"/>-->
+        <xsl:result-document href="{$output-uri-csv-0}" method="text">
+            <xsl:value-of
+                select="'Briefe' || $s || 'Anzahl' ||  $l"/>
+            <xsl:for-each-group select="$documents//tei:TEI" group-by="//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4)">
+                <xsl:sort select="current-grouping-key()" data-type="number" order="ascending"/>
+                <xsl:value-of select="current-grouping-key() || $s || count(current-group()) || $l"/>
+            </xsl:for-each-group>
+            <xsl:value-of select="'ohne Datum' || $s || count($documents//tei:TEI//tei:correspAction[@type = 'sent'][not(tei:date)])"/>
+        </xsl:result-document>
         
         <!-- übersicht.txt -->
         
@@ -93,12 +87,12 @@
         
         <!-- topics-years.txt -->
         <xsl:result-document href="{$output-uri-csv-3}" method="text">
-            <xsl:text>Thema;Insgesamt;1800;1801;1802;1803;1804;1805;1806;1807;1808;1809;1810;1811;1812;1813;1814;1815;1816;1817;1818;1819;1820;1821;1822;1823;1824;1825;1826</xsl:text>
+            <xsl:text>Thema;Insgesamt;1799;1800;1801;1802;1803;1804;1805;1806;1807;1808;1809;1810;1811;1812;1813;1814;1815;1816;1817;1818;1819;1820;1821;1822;1823;1824;1825;1826</xsl:text>
             <xsl:for-each-group select="$documents//tei:TEI[//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)]" group-by="//tei:keywords[@scheme = '#topics']/tei:term">
                 
                 <xsl:sort select="count(current-group())" data-type="number" order="descending"/>
                 <xsl:variable name="name"
-                    select="'1800,1801,1802,1803,1804,1805,1806,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826'"/>
+                    select="'1799,1800,1801,1802,1803,1804,1805,1806,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826'"/>
                 
                 <xsl:value-of select="$l || current-grouping-key()"/>
                 <xsl:value-of select="$s || count(current-group())"/>

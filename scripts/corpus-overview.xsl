@@ -47,26 +47,35 @@
         <xsl:result-document href="{$output-uri-1}" method="text">
             <xsl:value-of select="'Alle Briefe' || $s || count($documents//tei:TEI) || $l"/>
             <xsl:value-of
-                select="'Alle Briefe in Zeichen' || $s || sum(//$documents/string-length(//tei:text)) || $l"/>
+                select="'Alle Korrespondent/innen' || $s || count(distinct-values($documents//tei:correspAction/tei:persName/@key)) || $l"/>
             <xsl:value-of
-                select="'Korrespondent/innen' || $s || count(distinct-values($documents//tei:correspAction[not(@type = 'read')]/tei:persName/@key)) || $l"/>
+                select="'Sender/innen' || $s || count(distinct-values($documents//tei:correspAction[@type = 'sent']/tei:persName/@key)) || $l"/>
+            <xsl:value-of
+                select="'Summe aller Sendekontakte' || $s || count($documents//tei:correspAction[@type = 'sent']/tei:persName) || $l"/>
+            <xsl:value-of
+                select="'Empfänger/innen' || $s || count(distinct-values($documents//tei:correspAction[@type = 'received']/tei:persName/@key)) || $l"/>
+            <xsl:value-of
+                select="'Summe aller Empfangskontakte' || $s || count($documents//tei:correspAction[@type = 'received']/tei:persName) || $l"/>
             <xsl:value-of
                 select="'Mitleser/innen' || $s || count(distinct-values($documents//tei:correspAction[@type = 'read']/tei:persName/@key)) || $l"/>
             <xsl:value-of
-                select="'Kommentator/innen' || $s || count(distinct-values($documents//tei:text//@hand[. != '#author' or not(preceding::tei:correspAction[@type = 'sent']/tei:persName/@key)])) || $l"/>
-            <xsl:value-of
+                select="'Summe aller Mitleser/innen' || $s || count(($documents//tei:correspAction[@type = 'read']/tei:persName/@key)) || $l"/>
+            
+            <!-- <xsl:value-of
+                select="'Kommentator/innen' || $s || count(distinct-values($documents//tei:text//@hand[. != '#author' and not(preceding::tei:correspAction[@type = 'sent']/tei:persName/@key)])) || $l"/>
+         -->  <!-- <xsl:value-of
                 select="'Annotierte Korrespondenzkreise' || $s || count(distinct-values($documents//tei:keywords[@scheme = '#correspondents']/tei:term/@xml:id)) || $l"/>
             <xsl:value-of
-                select="'Summe annotierte Korrespondenzkreise' || $s || count($documents//tei:keywords[@scheme = '#correspondents']/tei:term/@xml:id) || $l"/>
+                select="'Summe annotierter Korrespondenzkreise' || $s || count($documents//tei:keywords[@scheme = '#correspondents']/tei:term/@xml:id) || $l"/>
             <xsl:value-of
                 select="'Annotierte Themen' || $s || count(distinct-values($documents//tei:keywords[@scheme = '#topics']/tei:term/@xml:id)) || $l"/>
             <xsl:value-of
-                select="'Summe annotierte Themen' || $s || count($documents//tei:keywords[@scheme = '#topics']/tei:term/@xml:id) || $l"/>
+                select="'Summe annotierter Themen' || $s || count($documents//tei:keywords[@scheme = '#topics']/tei:term/@xml:id) || $l"/>
             <xsl:value-of
-                select="'Indizierungen' || $s || count(distinct-values($documents//tei:text//tei:persName/(@key | @sameAS))) || $l"/>
+                select="'Indizierungen von Personen' || $s || count(distinct-values($documents//tei:text//tei:persName/(@key | @sameAS))) || $l"/>
             <xsl:value-of
                 select="'Summe alle Indizierungen' || $s || count($documents//tei:text//tei:persName/(@key | @sameAS)) || $l"
-            />
+            />-->
         </xsl:result-document>
 
         <!-- corpus-overview-extended.txt -->

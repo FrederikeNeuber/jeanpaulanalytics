@@ -48,8 +48,27 @@
         </xsl:result-document>
 
         <!-- topics-matrix.txt -->
-        
         <xsl:result-document href="{$output-uri-csv-2}" method="text">
+              
+            <xsl:for-each-group select="$documents//tei:TEI" group-by="//tei:keywords[@scheme = '#topics']/tei:term">
+                 
+                <xsl:sort select="count(current-group())" data-type="number" order="descending"/>
+                <xsl:variable name="name"
+                    select="'1800,1801,1802,1803,1804,1805,1806,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826'"/>
+                
+                <xsl:value-of select="$l || current-grouping-key()"/>
+                <xsl:value-of select="$s || count(current-group())"/>
+                <xsl:for-each select="tokenize($name, ',')">
+                    <xsl:value-of
+                        select="$s || count(current-group()//tei:correspAction[@type = 'sent'][tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4) = current()])"
+                    />
+                </xsl:for-each>
+                
+            </xsl:for-each-group>
+            <xsl:value-of select="$l"/>
+        </xsl:result-document>
+        
+        <!--<xsl:result-document href="{$output-uri-csv-2}" method="text">
             <xsl:variable name="name"
                 select="'1800,1801,1802,1803,1804,1805,1806,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826'"/>
             <xsl:value-of select="'Thema'"/>
@@ -59,7 +78,7 @@
             <xsl:for-each-group select="$documents//tei:TEI"
                 group-by="//tei:keywords[@scheme = '#topics']/tei:term">
                 <xsl:sort select="count(current-group())" data-type="number" order="descending"/>
-                <!--                <xsl:if test="count(current-group()) gt 100">-->
+                <!-\-                <xsl:if test="count(current-group()) gt 100">-\->
                 <xsl:value-of select="$l || current-grouping-key()"/>
                 
                 <xsl:for-each select="tokenize($name, ',')">
@@ -67,10 +86,10 @@
                         select="$s || count(current-group()//tei:correspAction[@type = 'sent'][tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4) = current()])"
                     />
                 </xsl:for-each>
-                <!--                </xsl:if>-->
+                <!-\-                </xsl:if>-\->
             </xsl:for-each-group>
             <xsl:value-of select="$l"/>
-        </xsl:result-document>
+        </xsl:result-document>-->
         
       <!--  <xsl:result-document href="{$output-uri-csv-2}" method="text">
             <xsl:variable name="name"

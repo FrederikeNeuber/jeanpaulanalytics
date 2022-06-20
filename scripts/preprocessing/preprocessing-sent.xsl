@@ -41,25 +41,25 @@
         
 
         
-              <!-- häufigste themen --> 
+       <!-- Themen, denen mindestens 30 Briefe zugeordnet wurden --> 
            
         <xsl:for-each-group select="$documents//tei:TEI"
             group-by="//tei:keywords[@scheme = '#topics']/tei:term">
             <xsl:variable name="id" select="current-grouping-key()"/>
             <xsl:if test="count(current-group()) &gt; 29">
-            <xsl:result-document href="{$output-uri || '/sentiment/topics-most/' || translate($id, ' /', '-') || '.txt'}"
+            <xsl:result-document href="{$output-uri || '/sentiment/topics-min30/' || translate($id, ' /', '-') || '.txt'}"
                 method="text" indent="no" media-type="text">
                 <xsl:apply-templates select="current-group()/tei:text"/>
             </xsl:result-document>
             </xsl:if>
         </xsl:for-each-group>
         
-        <!-- alle themen -->
+        <!-- Alle themen -->
         <xsl:for-each-group select="$documents//tei:TEI"
             group-by="//tei:keywords[@scheme = '#topics']/tei:term">
             <xsl:variable name="id" select="current-grouping-key()"/>
           
-                <xsl:result-document href="{$output-uri || '/sentiment/topics/' || translate($id, ' /', '-') || '.txt'}"
+                <xsl:result-document href="{$output-uri || '/sentiment/topics-all/' || translate($id, ' /', '-') || '.txt'}"
                     method="text" indent="no" media-type="text">
                     <xsl:apply-templates select="current-group()/tei:text"/>
                 </xsl:result-document>
@@ -68,14 +68,25 @@
         
         <!-- for sentiment analysis of specific keywords;  -->
         
-        <xsl:for-each-group select="$documents//tei:TEI[//tei:keywords[@scheme = '#topics']/tei:term[@xml:id='JP-012486']]"
+        <xsl:for-each-group select="$documents//tei:TEI" group-by="//tei:keywords[@scheme = '#topics']/tei:term">
+            <xsl:variable name="folder" select="replace(current-grouping-key(), ' ', '-')"/>
+            <xsl:for-each-group select="current-group()" group-by="//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4)">
+            <xsl:variable name="file" select="current-grouping-key()"/>
+            <xsl:result-document href="{$output-uri || '/sentiment/topic-groups/' || distinct-values($folder || '/' || $file || '.txt')}"
+                method="text" indent="no" media-type="text">
+                <xsl:apply-templates select="current-group()/tei:text"/>
+            </xsl:result-document>
+            </xsl:for-each-group>
+        </xsl:for-each-group>
+        
+       <!-- <xsl:for-each-group select="$documents//tei:TEI[//tei:keywords[@scheme = '#topics']/tei:term[@xml:id='JP-012486']]"
             group-by="//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4)">
             <xsl:variable name="id" select="current-grouping-key()"/>
             <xsl:result-document href="{$output-uri || '/sentiment/topic-groups/' || distinct-values(current-group()//tei:keywords[@scheme = '#topics']/tei:term[@xml:id='JP-012601']) || '/' || replace($id, ' ', '-') || '.txt'}"
                 method="text" indent="no" media-type="text">
                 <xsl:apply-templates select="current-group()//@word"/>
             </xsl:result-document>
-        </xsl:for-each-group>
+        </xsl:for-each-group>-->
         
     </xsl:template>
 

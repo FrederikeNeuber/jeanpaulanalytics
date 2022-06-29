@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0540">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Auguste Caroline Wilhelmine Louise von Giech an Caroline Richter.
+                    Bayreuth, 15. Januar 1823, Mittwoch</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, ½ S. Auf S. 2 Adresse: Der | Legations-Räthin | <hi rendition="#aq">Richter</hi> Wohlgeb<ex>ohren</ex> | dahier. S. 1 unter dem Brieftext und S. 2 über die Adresse geschrieben
+                                    sind die Seiten 5 und 6 des Briefes von Caroline Richter an
+                                    Odilie Richter vom 15. Januar 1823</p>
+                        <accMat> Ein nicht überlieferter Brief der Gräfin Karoline
+                                    Wilhelmine an ihre Tochter Auguste Caroline Wilhelmine Louise
+                                    von Giech.</accMat>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-011836">Auguste Caroline Wilhelmine Louise von Giech</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1823-01-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <note>Der Brief wurde als Papiergrundlage der Seiten 5 und 6 von Caroline Richters
+                    Brief an Odilie Richter vom 15. Januar 1823  nach Würzburg
+                    weitergesendet.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-011952">Weiterer Bayreuther Kreis</term>
+               <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012048">Briefverkehr</term>
+               <term corresp="#JP-012633">Grüße</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+                <s id="s1" pn="p5"><w id="w1" t="Verhindert" b="48 10"><xlit latin1Text="Verhindert" isLatinExt="1" isLatin1="1"/><moot word="Verhindert" tag="VVPP" lemma="verhindern"/>Verhindert</w><w id="w2" b="58 1" t=","><moot lemma="," tag="$," word=","/><xlit latin1Text="," isLatin1="1" isLatinExt="1"/>,</w> <w id="w3" b="60 3" t="den"><xlit latin1Text="den" isLatin1="1" isLatinExt="1"/><moot lemma="d" tag="ART" word="den"/>den</w> <w id="w4" b="64 6" t="Inhalt"><xlit latin1Text="Inhalt" isLatinExt="1" isLatin1="1"/><moot tag="NN" word="Inhalt" lemma="Inhalt"/>Inhalt</w> <w id="w5" t="dieser" b="71 6"><xlit isLatin1="1" isLatinExt="1" latin1Text="dieser"/><moot lemma="diese" tag="PDAT" word="dieser"/>dieser</w> <w id="w6" t="–" b="78 3"><xlit latin1Text="-" isLatinExt="1" isLatin1="0"/><moot lemma="-" word="-" tag="$("/>–</w> <w id="w7" b="82 2" t="in"><moot lemma="in" tag="APPR" word="in"/><xlit latin1Text="in" isLatinExt="1" isLatin1="1"/>in</w> <w id="w8" t="diesem" b="85 6"><xlit latin1Text="diesem" isLatin1="1" isLatinExt="1"/><mlatin><a hi="[_FM][lat]" w="0"/></mlatin><moot word="diesem" tag="PDAT" lemma="diese"/>diesem</w> <w id="w9" t="Augeblick" b="92 9"><moot lemma="Augeblick" tag="NN" word="Augeblick"/><xlit latin1Text="Augeblick" isLatin1="1" isLatinExt="1"/>Augeblick</w>
+                            <w id="wa" t="erhaltenen" b="130 10"><xlit isLatinExt="1" isLatin1="1" latin1Text="erhaltenen"/><moot lemma="erhalten" word="erhaltenen" tag="ADJA"/>erhaltenen</w><w id="wb" t="," b="140 1"><xlit latin1Text="," isLatin1="1" isLatinExt="1"/><moot tag="$," word="," lemma=","/>,</w> <w id="wc" b="142 6" t="Zeilen"><moot word="Zeilen" tag="NN" lemma="Zeile"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Zeilen"/>Zeilen</w><w id="wd" t="," b="148 1"><moot lemma="," tag="$," word=","/><xlit latin1Text="," isLatin1="1" isLatinExt="1"/>,</w> <w id="we" b="150 5" t="Ihnen"><moot tag="PPER" word="Ihnen" lemma="sie"/><xlit latin1Text="Ihnen" isLatin1="1" isLatinExt="1"/>Ihnen</w> <w id="wf" b="156 6" t="theure"><xlit isLatinExt="1" isLatin1="1" latin1Text="theure"/><moot word="teure" tag="ADJA" lemma="teuer"/>theure</w> <w id="w10" b="163 4" t="Frau"><xlit isLatin1="1" isLatinExt="1" latin1Text="Frau"/><moot lemma="Frau" word="Frau" tag="NN"/>Frau</w> <w id="w11" b="168 16" t="Legationsräthin"><moot lemma="Legationsratin" word="Legationsrätin" tag="NN"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Legationsräthin"/>Legationsräthin</w><w id="w12" t="," b="184 1"><xlit latin1Text="," isLatin1="1" isLatinExt="1"/><moot tag="$," word="," lemma=","/>,</w>
+                    <w id="w13" b="206 6" t="selbst"><moot word="selbst" tag="ADV" lemma="selbst"/><xlit latin1Text="selbst" isLatinExt="1" isLatin1="1"/>selbst</w> <w id="w14" b="213 9" t="mündlich"><moot lemma="mündlich" tag="ADJD" word="mündlich"/><xlit latin1Text="mündlich" isLatinExt="1" isLatin1="1"/>mündlich</w> <w id="w15" t="zu" b="223 2"><xlit isLatinExt="1" isLatin1="1" latin1Text="zu"/><moot lemma="zu" tag="PTKZU" word="zu"/>zu</w> <w id="w16" t="überbringen" b="226 12"><moot lemma="überbringen" tag="VVINF" word="überbringen"/><xlit isLatin1="1" isLatinExt="1" latin1Text="überbringen"/>überbringen</w> <w id="w17" b="239 3" t="–"><xlit latin1Text="-" isLatinExt="1" isLatin1="0"/><moot lemma="-" word="-" tag="$("/>–</w> <w id="w18" t="sende" b="243 5"><xlit isLatin1="1" isLatinExt="1" latin1Text="sende"/><moot lemma="senden" word="sende" tag="VVFIN"/>sende</w> <w id="w19" b="249 3" t="ich"><moot tag="PPER" word="ich" lemma="ich"/><xlit latin1Text="ich" isLatin1="1" isLatinExt="1"/>ich</w> <w id="w1a" b="253 5" t="Ihnen"><moot tag="PPER" word="Ihnen" lemma="sie"/><xlit latin1Text="Ihnen" isLatin1="1" isLatinExt="1"/>Ihnen</w> <w id="w1b" t="dieselben" b="259 9"><xlit isLatin1="1" isLatinExt="1" latin1Text="dieselben"/><moot word="dieselben" tag="PDAT" lemma="dieselbe"/>dieselben</w> <w id="w1c" t="als" b="269 3"><moot tag="KOKOM" word="als" lemma="als"/><xlit latin1Text="als" isLatin1="1" isLatinExt="1"/>als</w> <w id="w1d" t="Beilage" b="273 7"><xlit latin1Text="Beilage" isLatin1="1" isLatinExt="1"/><moot word="Beilage" tag="NN" lemma="Beilage"/>Beilage</w><w id="w1e" b="280 1" t=","><xlit latin1Text="," isLatin1="1" isLatinExt="1"/><moot lemma="," word="," tag="$,"/>,</w>
+                    <w id="w1f" b="302 1" t="u"><xlit latin1Text="u" isLatin1="1" isLatinExt="1"/><moot tag="NE" word="u" lemma="U"/>u</w> <w id="w20" t="wünschte" b="304 9"><xlit latin1Text="wünschte" isLatinExt="1" isLatin1="1"/><moot tag="VVFIN" word="wünschte" lemma="wünschen"/>wünschte</w> <w id="w21" b="314 3" t="nur"><moot lemma="nur" tag="ADV" word="nur"/><xlit isLatinExt="1" isLatin1="1" latin1Text="nur"/>nur</w><w id="w22" b="317 1" t=","><xlit latin1Text="," isLatin1="1" isLatinExt="1"/><moot word="," tag="$," lemma=","/>,</w> <w id="w23" t="daß" b="319 4"><xlit latin1Text="daß" isLatin1="1" isLatinExt="1"/><moot word="daß" tag="KOUS" lemma="daß"/>daß</w> <w id="w24" t="das" b="324 3"><xlit latin1Text="das" isLatinExt="1" isLatin1="1"/><moot tag="ART" word="das" lemma="d"/>das</w> <w id="w25" b="328 4" t="Herz"><moot word="Herz" tag="NN" lemma="Herz"/><xlit isLatin1="1" isLatinExt="1" latin1Text="Herz"/>Herz</w> <w id="w26" t="der" b="333 3"><moot word="der" tag="ART" lemma="d"/><xlit latin1Text="der" isLatinExt="1" isLatin1="1"/>der</w> <w id="w27" b="337 11" t="zärtlichen"><xlit latin1Text="zärtlichen" isLatin1="1" isLatinExt="1"/><moot tag="ADJA" word="zärtlichen" lemma="zärtlich"/>zärtlichen</w> <w id="w28" b="349 6" t="Mutter"><moot lemma="Mutter" word="Mutter" tag="NN"/><xlit latin1Text="Mutter" isLatin1="1" isLatinExt="1"/>Mutter</w> <w id="w29" t="mehr" b="356 4"><moot word="mehr" tag="PIAT" lemma="mehr"/><xlit isLatin1="1" isLatinExt="1" latin1Text="mehr"/>mehr</w> <w id="w2a" t="Gewißheit" b="361 10"><moot word="Gewißheit" tag="NN" lemma="Gewißheit"/><xlit latin1Text="Gewißheit" isLatinExt="1" isLatin1="1"/>Gewißheit</w> <w id="w2b" b="372 4" t="für"><xlit isLatin1="1" isLatinExt="1" latin1Text="für"/><moot lemma="für" word="für" tag="APPR"/>für</w> <w id="w2c" b="377 3" t="das"><moot lemma="d" tag="ART" word="das"/><xlit latin1Text="das" isLatinExt="1" isLatin1="1"/>das</w> <w id="w2d" t="nahe" b="381 4"><moot word="nahe" tag="ADJA" lemma="nah"/><xlit latin1Text="nahe" isLatin1="1" isLatinExt="1"/>nahe</w> <w id="w2e" b="386 11" t="Wiedersehen"><moot lemma="Wiedersehen" word="Wiedersehen" tag="NN"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Wiedersehen"/>Wiedersehen</w> <w id="w2f" b="398 6" t="daraus"><xlit latin1Text="daraus" isLatin1="1" isLatinExt="1"/><moot lemma="daraus" word="daraus" tag="PAV"/>daraus</w>
+                    <w id="w30" b="425 6" t="nehmen"><moot lemma="nehmen" word="nehmen" tag="VVINF"/><xlit latin1Text="nehmen" isLatinExt="1" isLatin1="1"/>nehmen</w> <w id="w31" b="432 7" t="könnte"><xlit latin1Text="könnte" isLatin1="1" isLatinExt="1"/><moot tag="VMFIN" word="könnte" lemma="können"/>könnte</w><w id="w32" b="439 1" t="."><moot word="." tag="$." lemma="."/><xlit latin1Text="." isLatinExt="1" isLatin1="1"/>.</w></s>
+                    <s id="s2" pn="p5"><w id="w33" b="461 3" t="Mit"><moot tag="APPR" word="Mit" lemma="mit"/><xlit latin1Text="Mit" isLatin1="1" isLatinExt="1"/>Mit</w> <w id="w34" t="der" b="465 3"><xlit latin1Text="der" isLatinExt="1" isLatin1="1"/><moot tag="ART" word="der" lemma="d"/>der</w> <w id="w35" b="469 9" t="innigsten"><xlit isLatin1="1" isLatinExt="1" latin1Text="innigsten"/><moot word="innigsten" tag="ADJA" lemma="innig"/>innigsten</w> <w id="w36" b="479 11" t="Hochachtung"><xlit isLatin1="1" isLatinExt="1" latin1Text="Hochachtung"/><moot tag="NN" word="Hochachtung" lemma="Hochachtung"/>Hochachtung</w> <w id="w37" b="491 3" t="die"><moot tag="ART" word="die" lemma="d"/><xlit isLatin1="1" isLatinExt="1" latin1Text="die"/>die</w> <w id="w38" t="Ihrige" b="495 6"><moot word="Ihrige" tag="PPOSS" lemma="ihrige"/><xlit isLatin1="1" isLatinExt="1" latin1Text="Ihrige"/>Ihrige</w>
+                        <w id="w39" b="526 5" t="Luise"><xlit isLatin1="1" isLatinExt="1" latin1Text="Luise"/><moot lemma="Luise" tag="NE" word="Luise"/>Luise</w> <w id="w3a" t="Giech" b="532 5"><moot tag="NE" word="Giech" lemma="Giech"/><xlit isLatin1="1" isLatinExt="1" latin1Text="Giech"/>Giech</w><w id="w3b" b="537 1" t="."><xlit latin1Text="." isLatinExt="1" isLatin1="1"/><moot lemma="." tag="$." word="."/>.</w></s>
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

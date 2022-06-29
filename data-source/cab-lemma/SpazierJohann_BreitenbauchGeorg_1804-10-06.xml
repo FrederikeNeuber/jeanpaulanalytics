@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0656">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl Spazier an Georg August von Breitenbauch. Leipzig, Anfang Oktober
+                    1804</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>SBB</institution>
+                        <collection>Darmstadter</collection>
+                        <idno type="shelfmark">2a 1788: Spazier, Johann Gott-lieb Karl,
+                                    Blatt 13</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004104">Johann Karl Gottlieb Spazier</persName>
+               <placeName key="JP-005948">Leipzig</placeName>
+               <date notBefore="1804-10-06" notAfter="1804-10-13" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-012618">Georg August von Breitenbauch</persName>
+            </correspAction>
+            <note/>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012163">Zeitung für die elegante Welt-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-012572">Verlage /
+                        Verlegerisches</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+                    <s id="s1" pn="p5"><w id="w1" b="52 17" t="Hochwohlgeborener"><moot tag="ADJA" word="Hochwohlgeborener" lemma="hochwohlgeboren"/><xlit isLatin1="1" isLatinExt="1" latin1Text="Hochwohlgeborener"/>Hochwohlgeborener</w> <w id="w2" b="70 17" t="Hochzuverehrender"><xlit isLatin1="1" isLatinExt="1" latin1Text="Hochzuverehrender"/><moot lemma="Hochzuverehrende" tag="NN" word="Hochzuverehrender"/>Hochzuverehrender</w> <w id="w3" t="Herr" b="88 4"><moot lemma="Herr" tag="NN" word="Herr"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Herr"/>Herr</w> <w id="w4" t="Kammerrath" b="93 10"><moot lemma="Kammerrat" tag="NN" word="Kammerrat"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Kammerrath"/>Kammerrath</w>
+                <w id="w5" t="Die" b="120 3"><moot tag="ART" word="Die" lemma="d"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Die"/>Die</w> <w id="w6" b="124 7" t="Anzeige"><moot word="Anzeige" tag="NN" lemma="Anzeige"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Anzeige"/>Anzeige</w> <w id="w7" t="von" b="132 3"><xlit latin1Text="von" isLatin1="1" isLatinExt="1"/><moot lemma="von" word="von" tag="APPR"/>von</w> <w id="w8" t="den" b="136 3"><xlit latin1Text="den" isLatinExt="1" isLatin1="1"/><moot lemma="d" tag="ART" word="den"/>den</w> <w id="w9" b="140 6" t="beiden"><xlit latin1Text="beiden" isLatinExt="1" isLatin1="1"/><moot lemma="beide" tag="PIAT" word="beiden"/>beiden</w> <w id="wa" t="Denkmälern" b="147 11"><moot lemma="Denkmal" word="Denkmälern" tag="NN"/><xlit latin1Text="Denkmälern" isLatin1="1" isLatinExt="1"/>Denkmälern</w><w id="wb" t="," b="158 1"><moot lemma="," tag="$," word=","/><xlit latin1Text="," isLatin1="1" isLatinExt="1"/>,</w> <w id="wc" t="welche" b="160 6"><xlit latin1Text="welche" isLatin1="1" isLatinExt="1"/><moot word="welche" tag="PRELS" lemma="welche"/>welche</w> <w id="wd" t="Ew." b="167 3"><xlit latin1Text="Ew." isLatin1="1" isLatinExt="1"/><moot tag="NE" word="Ew." lemma="Ew."/>Ew.</w> <w id="we" b="171 11" t="Hochwohlgeb"><moot tag="NE" word="Hochwohlgeb" lemma="Hochwohlgeb"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Hochwohlgeb"/>Hochwohlgeb</w><w id="wf" t="." b="182 1"><moot lemma="." tag="$." word="."/><xlit isLatinExt="1" isLatin1="1" latin1Text="."/>.</w> <w id="w10" b="184 3" t="dem"><xlit isLatin1="1" isLatinExt="1" latin1Text="dem"/><moot word="dem" tag="ART" lemma="d"/>dem</w> <w id="w11" t="guten" b="188 5"><moot tag="ADJA" word="guten" lemma="gut"/><xlit latin1Text="guten" isLatinExt="1" isLatin1="1"/>guten</w>
+                        <w id="w12" b="218 8" t="Müchler"><xlit isLatin1="1" isLatinExt="1" latin1Text="Müchler"/><moot word="Meuchler" tag="NN" lemma="Meuchler"/>Müchler</w> <w id="w13" t="u" b="227 1"><xlit latin1Text="u" isLatinExt="1" isLatin1="1"/><moot word="u" tag="NE" lemma="U"/>u</w> <w id="w14" t="der" b="229 3"><xlit isLatinExt="1" isLatin1="1" latin1Text="der"/><moot tag="ART" word="der" lemma="d"/>der</w>  <w id="w15" b="234 8" t="Freundin"><xlit latin1Text="Freundin" isLatinExt="1" isLatin1="1"/><moot tag="NN" word="Freundin" lemma="Freundin"/>Freundin</w> <w id="w16" b="243 9" t="errichtet"><moot word="errichtet" tag="VVPP" lemma="errichten"/><xlit isLatin1="1" isLatinExt="1" latin1Text="errichtet"/>errichtet</w> <w id="w17" t="haben" b="253 5"><moot tag="VAFIN" word="haben" lemma="haben"/><xlit latin1Text="haben" isLatin1="1" isLatinExt="1"/>haben</w><w id="w18" b="258 1" t=","><moot lemma="," word="," tag="$,"/><xlit latin1Text="," isLatin1="1" isLatinExt="1"/>,</w> <w id="w19" b="260 6" t="werden"><moot lemma="werden" tag="VAFIN" word="werden"/><xlit latin1Text="werden" isLatin1="1" isLatinExt="1"/>werden</w> <w id="w1a" b="267 3" t="Sie"><xlit isLatin1="1" isLatinExt="1" latin1Text="Sie"/><moot tag="PPER" word="Sie" lemma="sie"/>Sie</w> <w id="w1b" b="271 10" t="abgekürzt"><moot lemma="abkürzen" tag="VVPP" word="abgekürzt"/><xlit latin1Text="abgekürzt" isLatin1="1" isLatinExt="1"/>abgekürzt</w>
+                        <w id="w1c" t="in" b="306 2"><moot word="in" tag="APPR" lemma="in"/><xlit isLatinExt="1" isLatin1="1" latin1Text="in"/>in</w>
+                        <w id="w1d" t="No" b="333 2"><xlit isLatinExt="1" isLatin1="1" latin1Text="No"/><mlatin><a hi="[_FM][lat]" w="0"/></mlatin><moot lemma="no" tag="FM" word="No"/>No</w> <w id="w1e" b="336 3" t="121"><moot tag="CARD" word="121" lemma="121"/><xlit isLatinExt="1" isLatin1="1" latin1Text="121"/>121</w> <w id="w1f" b="340 3" t="der"><moot lemma="d" tag="ART" word="der"/><xlit isLatinExt="1" isLatin1="1" latin1Text="der"/>der</w> <w id="w20" b="344 7" t="Zeitung"><xlit latin1Text="Zeitung" isLatinExt="1" isLatin1="1"/><moot lemma="Zeitung" word="Zeitung" tag="NN"/>Zeitung</w> <w id="w21" b="352 4" t="fdeW"><xlit isLatinExt="1" isLatin1="1" latin1Text="fdeW"/><moot lemma="Fdew" tag="NE" word="fdeW"/>fdeW</w> <w id="w22" b="357 6" t="finden"><moot lemma="finden" tag="VVINF" word="finden"/><xlit isLatin1="1" isLatinExt="1" latin1Text="finden"/>finden</w>
+                        <w id="w23" b="388 1" t="."><moot lemma="." word="." tag="$."/><xlit isLatinExt="1" isLatin1="1" latin1Text="."/>.</w> <w id="w24" b="390 3" t="Was"><xlit isLatinExt="1" isLatin1="1" latin1Text="Was"/><moot lemma="was" tag="PWS" word="Was"/>Was</w>
+                    <w id="w25" b="414 4" t="aber"><xlit latin1Text="aber" isLatin1="1" isLatinExt="1"/><moot tag="ADV" word="aber" lemma="aber"/>aber</w> <w id="w26" b="419 3" t="das"><moot lemma="d" tag="ART" word="das"/><xlit latin1Text="das" isLatinExt="1" isLatin1="1"/>das</w> <w id="w27" b="423 8" t="Geschenk"><xlit isLatin1="1" isLatinExt="1" latin1Text="Geschenk"/><moot lemma="Geschenk" word="Geschenk" tag="NN"/>Geschenk</w> <w id="w28" b="432 8" t="betrifft"><xlit latin1Text="betrifft" isLatin1="1" isLatinExt="1"/><moot lemma="betreffen" word="betrifft" tag="VVFIN"/>betrifft</w><w id="w29" b="440 1" t=","><moot tag="$," word="," lemma=","/><xlit latin1Text="," isLatin1="1" isLatinExt="1"/>,</w> <w id="w2a" t="welches" b="442 7"><xlit isLatin1="1" isLatinExt="1" latin1Text="welches"/><moot tag="PRELS" word="welches" lemma="welche"/>welches</w> <w id="w2b" b="450 3" t="Sie"><xlit isLatin1="1" isLatinExt="1" latin1Text="Sie"/><moot tag="PPER" word="Sie" lemma="sie"/>Sie</w> <w id="w2c" t="mir" b="454 3"><moot word="mir" tag="PRF" lemma="mich"/><xlit latin1Text="mir" isLatinExt="1" isLatin1="1"/>mir</w> <w id="w2d" t="mit" b="458 3"><moot word="mit" tag="APPR" lemma="mit"/><xlit latin1Text="mit" isLatinExt="1" isLatin1="1"/>mit</w> <w id="w2e" b="462 5" t="ihrem"><moot tag="PPOSAT" word="ihrem" lemma="ihr"/><xlit latin1Text="ihrem" isLatinExt="1" isLatin1="1"/>ihrem</w> <w id="w2f" b="468 8" t="neuesten"><xlit latin1Text="neuesten" isLatin1="1" isLatinExt="1"/><moot lemma="neu" tag="ADJA" word="neuesten"/>neuesten</w> <w id="w30" b="477 5" t="Buche"><moot lemma="Buche" word="Buche" tag="NN"/><xlit latin1Text="Buche" isLatinExt="1" isLatin1="1"/>Buche</w> <w id="w31" b="483 2" t="zu"><moot lemma="zu" word="zu" tag="PTKZU"/><xlit latin1Text="zu" isLatin1="1" isLatinExt="1"/>zu</w> <w id="w32" b="486 6" t="machen"><moot tag="VVINF" word="machen" lemma="machen"/><xlit isLatin1="1" isLatinExt="1" latin1Text="machen"/>machen</w> <w id="w33" b="493 2" t="so"><xlit latin1Text="so" isLatin1="1" isLatinExt="1"/><moot word="so" tag="ADV" lemma="so"/>so</w> <w id="w34" t="geneigt" b="496 7"><moot tag="VVPP" word="geneigt" lemma="neigen"/><xlit isLatin1="1" isLatinExt="1" latin1Text="geneigt"/>geneigt</w> <w id="w35" b="504 7" t="gewesen"><moot word="gewesen" tag="VAPP" lemma="sein"/><xlit latin1Text="gewesen" isLatinExt="1" isLatin1="1"/>gewesen</w> <w id="w36" t="sind" b="512 4"><moot word="sind" tag="VAFIN" lemma="sein"/><xlit latin1Text="sind" isLatin1="1" isLatinExt="1"/>sind</w><w id="w37" t="," b="516 1"><xlit latin1Text="," isLatin1="1" isLatinExt="1"/><moot tag="$," word="," lemma=","/>,</w> <w id="w38" b="518 2" t="so"><xlit latin1Text="so" isLatin1="1" isLatinExt="1"/><moot word="so" tag="ADV" lemma="so"/>so</w>
+                    <w id="w39" b="541 5" t="danke"><moot lemma="danken" word="danke" tag="VVFIN"/><xlit latin1Text="danke" isLatin1="1" isLatinExt="1"/>danke</w> <w id="w3a" b="547 3" t="ich"><xlit latin1Text="ich" isLatin1="1" isLatinExt="1"/><moot word="ich" tag="PPER" lemma="ich"/>ich</w> <w id="w3b" b="551 6" t="dafür"><moot word="dafür" tag="PAV" lemma="dafür"/><xlit isLatinExt="1" isLatin1="1" latin1Text="dafür"/>dafür</w> <w id="w3c" t="auf" b="558 3"><moot lemma="auf" tag="APPR" word="auf"/><xlit latin1Text="auf" isLatin1="1" isLatinExt="1"/>auf</w> <w id="w3d" b="562 3" t="das"><xlit latin1Text="das" isLatinExt="1" isLatin1="1"/><moot lemma="d" word="das" tag="ART"/>das</w> <w id="w3e" t="verbindlichste" b="566 14"><xlit isLatinExt="1" isLatin1="1" latin1Text="verbindlichste"/><moot lemma="verbindlich" tag="ADJA" word="verbindlichste"/>verbindlichste</w><w id="w3f" t="," b="580 1"><xlit latin1Text="," isLatin1="1" isLatinExt="1"/><moot tag="$," word="," lemma=","/>,</w> <w id="w40" b="582 1" t="u"><xlit latin1Text="u" isLatinExt="1" isLatin1="1"/><moot tag="NE" word="u" lemma="U"/>u</w> <w id="w41" t="wünsche" b="584 8"><xlit latin1Text="wünsche" isLatin1="1" isLatinExt="1"/><moot word="wünsche" tag="VVFIN" lemma="wünschen"/>wünsche</w> <w id="w42" t="ich" b="593 3"><xlit latin1Text="ich" isLatin1="1" isLatinExt="1"/><moot lemma="ich" word="ich" tag="PPER"/>ich</w> <w id="w43" t="nichts" b="597 6"><xlit isLatin1="1" isLatinExt="1" latin1Text="nichts"/><moot lemma="nichts" tag="PIS" word="nichts"/>nichts</w> <w id="w44" t="mehr" b="604 4"><moot word="mehr" tag="PIS" lemma="mehr"/><xlit isLatin1="1" isLatinExt="1" latin1Text="mehr"/>mehr</w><w id="w45" t="," b="608 1"><xlit latin1Text="," isLatin1="1" isLatinExt="1"/><moot word="," tag="$," lemma=","/>,</w> <w id="w46" b="610 3" t="als"><moot word="als" tag="KOKOM" lemma="als"/><xlit isLatinExt="1" isLatin1="1" latin1Text="als"/>als</w>
+                    <w id="w47" b="634 11" t="Gelegenheit"><xlit latin1Text="Gelegenheit" isLatinExt="1" isLatin1="1"/><moot tag="NN" word="Gelegenheit" lemma="Gelegenheit"/>Gelegenheit</w> <w id="w48" b="646 2" t="zu"><xlit latin1Text="zu" isLatin1="1" isLatinExt="1"/><moot word="zu" tag="PTKZU" lemma="zu"/>zu</w> <w id="w49" b="649 8" t="erhalten"><xlit isLatin1="1" isLatinExt="1" latin1Text="erhalten"/><moot word="erhalten" tag="VVINF" lemma="erhalten"/>erhalten</w> <w id="w4a" t="Ihnen" b="658 5"><xlit isLatinExt="1" isLatin1="1" latin1Text="Ihnen"/><moot tag="PPER" word="Ihnen" lemma="sie"/>Ihnen</w> <w id="w4b" b="664 4" t="mich"><moot tag="PRF" word="mich" lemma="mich"/><xlit isLatinExt="1" isLatin1="1" latin1Text="mich"/>mich</w> <w id="w4c" t="irgend" b="669 6"><xlit latin1Text="irgend" isLatin1="1" isLatinExt="1"/><moot lemma="irgend" tag="ADV" word="irgend"/>irgend</w> <w id="w4d" t="wodurch" b="676 7"><moot lemma="wodurch" tag="PWAV" word="wodurch"/><xlit latin1Text="wodurch" isLatin1="1" isLatinExt="1"/>wodurch</w> <w id="w4e" b="684 9" t="gefällig"><xlit isLatinExt="1" isLatin1="1" latin1Text="gefällig"/><moot word="gefällig" tag="ADJD" lemma="gefällig"/>gefällig</w> <w id="w4f" t="bezeigen" b="694 8"><moot lemma="bezeigen" tag="VVINF" word="bezeigen"/><xlit latin1Text="bezeigen" isLatin1="1" isLatinExt="1"/>bezeigen</w> <w id="w50" b="703 2" t="zu"><xlit latin1Text="zu" isLatin1="1" isLatinExt="1"/><moot tag="PTKZU" word="zu" lemma="zu"/>zu</w> <w id="w51" b="706 7" t="können"><moot word="können" tag="VMINF" lemma="können"/><xlit latin1Text="können" isLatinExt="1" isLatin1="1"/>können</w><w id="w52" b="713 1" t="."><xlit isLatinExt="1" isLatin1="1" latin1Text="."/><moot lemma="." word="." tag="$."/>.</w></s> 
+                
+                <s id="s2" pn="p5"><w id="w53" t="Da" b="734 2"><xlit isLatinExt="1" isLatin1="1" latin1Text="Da"/><mlatin><a hi="[_FM][lat]" w="0"/></mlatin><moot lemma="da" tag="KOUS" word="Da"/>Da</w> <w id="w54" t="ich" b="737 3"><moot tag="PPER" word="ich" lemma="ich"/><xlit latin1Text="ich" isLatin1="1" isLatinExt="1"/>ich</w> <w id="w55" t="die" b="741 3"><moot word="die" tag="ART" lemma="d"/><xlit isLatinExt="1" isLatin1="1" latin1Text="die"/>die</w> <w id="w56" b="745 4" t="Ehre"><moot lemma="Ehre" tag="NN" word="Ehre"/><xlit latin1Text="Ehre" isLatin1="1" isLatinExt="1"/>Ehre</w> <w id="w57" b="750 4" t="habe"><xlit latin1Text="habe" isLatin1="1" isLatinExt="1"/><moot word="habe" tag="VAFIN" lemma="haben"/><mlatin><a w="0" hi="[_FM][lat]"/></mlatin>habe</w> <w id="w58" b="755 3" t="mit"><xlit latin1Text="mit" isLatinExt="1" isLatin1="1"/><moot tag="APPR" word="mit" lemma="mit"/>mit</w> <w id="w59" b="759 10" t="besonderer"><xlit latin1Text="besonderer" isLatinExt="1" isLatin1="1"/><moot lemma="besondere" word="besonderer" tag="ADJA"/>besonderer</w> <w id="w5a" b="770 11" t="Hochachtung"><moot tag="NN" word="Hochachtung" lemma="Hochachtung"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Hochachtung"/>Hochachtung</w> <w id="w5b" b="782 2" t="zu"><xlit latin1Text="zu" isLatin1="1" isLatinExt="1"/><moot lemma="zu" tag="PTKZU" word="zu"/>zu</w> <w id="w5c" t="sein" b="785 4"><moot word="sein" tag="VAINF" lemma="sein"/><xlit isLatin1="1" isLatinExt="1" latin1Text="sein"/>sein</w> 
+                    <w id="w5d" t="Ewr." b="811 4"><moot tag="NE" word="Ewr." lemma="Ewr."/><xlit latin1Text="Ewr." isLatinExt="1" isLatin1="1"/>Ewr.</w> <w id="w5e" t="Hochwohlgeb" b="816 11"><xlit isLatinExt="1" isLatin1="1" latin1Text="Hochwohlgeb"/><moot tag="NE" word="Hochwohlgeb" lemma="Hochwohlgeb"/>Hochwohlgeb</w><w id="w5f" t="." b="827 1"><moot lemma="." word="." tag="$."/><xlit isLatinExt="1" isLatin1="1" latin1Text="."/>.</w>
+                        <w id="w60" b="853 12" t="gehorsamster"><moot word="gehorsamster" tag="ADJA" lemma="gehorsam"/><xlit isLatin1="1" isLatinExt="1" latin1Text="gehorsamster"/>gehorsamster</w>
+                    <w id="w61" t="Spazier" b="886 7"><xlit isLatinExt="1" isLatin1="1" latin1Text="Spazier"/><moot word="Spaziere" tag="VVFIN" lemma="spazieren"/>Spazier</w></s>
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -18,17 +18,19 @@
      
 
         <!-- for sentiment analysis; group by correspondent -->
-      <!--  <xsl:for-each-group select="$documents//tei:TEI"
+        <xsl:for-each-group select="$documents//tei:TEI"
             group-by="//tei:correspAction[@type = 'sent']/tei:persName/@key">
             <xsl:variable name="filename" select="current-grouping-key()"/>            
             <xsl:variable name="name" select="distinct-values(current-group()//tei:correspAction[@type = 'sent']/tei:persName[@key = current-grouping-key()])"/>
-            <xsl:result-document href="{$output-uri || '/sentiment/correspondents/' ||  translate($name, ' /,', '') || '_' || $filename  || '.txt'}"
+            <xsl:if test="count(current-group()) &gt; 20">
+            <xsl:result-document href="{$output-uri || '/sentiment/correspondents-mehrals20/' ||  translate($name, ' /,', '') || '_' || $filename  || '.txt'}"
                 method="text" indent="no" media-type="text">
                 <xsl:apply-templates select="current-group()/tei:text"/>
             </xsl:result-document>
+            </xsl:if>
         </xsl:for-each-group>
         
-        <!-\- for sentiment analysis; group by year -\->
+        <!-- for sentiment analysis; group by year -->
         
         <xsl:for-each-group select="$documents//tei:TEI"
             group-by="//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4)">
@@ -38,7 +40,7 @@
                 <xsl:apply-templates select="current-group()/tei:text"/>
             </xsl:result-document>
         </xsl:for-each-group>
-        -->
+        
 <!--
         
        <!-\- Themen, denen mindestens 30 Briefe zugeordnet wurden -\-> 

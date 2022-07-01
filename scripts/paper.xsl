@@ -65,7 +65,8 @@
                 select="'Mitleser/innen' || $s || count(distinct-values($documents//tei:correspAction[@type = 'read']/tei:persName/@key)) || $l"/>
             <xsl:value-of
                 select="'Summe aller Empfangskontakte' || $s || count($documents//tei:correspAction[@type = 'received' or @type='read']/tei:persName) || $l"/>
-           </xsl:result-document>
+          
+        </xsl:result-document>
         
          <!-- reichweite.txt -->
         

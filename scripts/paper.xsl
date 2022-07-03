@@ -38,17 +38,6 @@
         <xsl:variable name="s" select="';'"/>
         <xsl:variable name="l" select="'&#10;'"/>
         
-        <!-- variables for queries -->
-        <xsl:result-document href="{$output-uri-csv-0}" method="text">
-            <xsl:value-of
-                select="'Briefe' || $s || 'Anzahl' ||  $l"/>
-            <xsl:for-each-group select="$documents//tei:TEI" group-by="//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4)">
-                <xsl:sort select="current-grouping-key()" data-type="number" order="ascending"/>
-                <xsl:value-of select="current-grouping-key() || $s || count(current-group()) || $l"/>
-            </xsl:for-each-group>
-            <xsl:value-of select="'ohne Datum' || $s || count($documents//tei:TEI//tei:correspAction[@type = 'sent'][not(tei:date)])"/>
-        </xsl:result-document>
-        
         <!-- übersicht.txt -->
         
         <xsl:result-document href="{$output-uri-csv-1}" method="text">
@@ -65,8 +54,34 @@
                 select="'Mitleser/innen' || $s || count(distinct-values($documents//tei:correspAction[@type = 'read']/tei:persName/@key)) || $l"/>
             <xsl:value-of
                 select="'Summe aller Empfangskontakte' || $s || count($documents//tei:correspAction[@type = 'received' or @type='read']/tei:persName) || $l"/>
-          
+            <xsl:value-of
+                select="'Themen' || $s || count(distinct-values($documents//tei:keywords[@scheme='#topics']/tei:term/@xml:id)) || $l"/>
+            <xsl:value-of
+                select="'Themen-Summe' || $s || count($documents//tei:keywords[@scheme='#topics']/tei:term/@xml:id) || $l"/>
+            <xsl:value-of
+                select="'Korrespondenzkreise' || $s || count(distinct-values($documents//tei:keywords[@scheme='#correspondents']/tei:term/@xml:id)) || $l"/>
+            <xsl:value-of
+                select="'Korrespondenzkreise-Summe' || $s || count($documents//tei:keywords[@scheme='#correspondents']/tei:term/@xml:id) || $l"/>
+            <xsl:value-of
+                select="'Briefe mit +1 Sender/in' || $s || count($documents//tei:correspAction[@type = 'sent']/tei:persName[2]) || $l"/>
+            <xsl:value-of
+                select="'Briefe mit +1 Empfängerin/in' || $s || count($documents//tei:correspAction[@type = 'received']/tei:persName[2]) || $l"/>
+            <xsl:value-of
+                select="'Briefe mit Mitleserschaft' || $s || count($documents//tei:correspAction[@type = 'read']/tei:persName) || $l"/>
         </xsl:result-document>
+        
+        <!-- variables for queries -->
+        <xsl:result-document href="{$output-uri-csv-0}" method="text">
+            <xsl:value-of
+                select="'Briefe' || $s || 'Anzahl' ||  $l"/>
+            <xsl:for-each-group select="$documents//tei:TEI" group-by="//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4)">
+                <xsl:sort select="current-grouping-key()" data-type="number" order="ascending"/>
+                <xsl:value-of select="current-grouping-key() || $s || count(current-group()) || $l"/>
+            </xsl:for-each-group>
+            <xsl:value-of select="'ohne Datum' || $s || count($documents//tei:TEI//tei:correspAction[@type = 'sent'][not(tei:date)])"/>
+        </xsl:result-document>
+        
+       
         
          <!-- reichweite.txt -->
         

@@ -16,8 +16,8 @@
         <xsl:variable name="documents" as="document-node()*" select="collection($input-dir-uri)"/>
 
      
-
-        <!-- for sentiment analysis; group by correspondent -->
+<!--
+        <!-\- for sentiment analysis; group by correspondent -\->
         <xsl:for-each-group select="$documents//tei:TEI"
             group-by="//tei:correspAction[@type = 'sent']/tei:persName/@key">
             <xsl:variable name="filename" select="current-grouping-key()"/>            
@@ -29,10 +29,10 @@
             </xsl:result-document>
             </xsl:if>
         </xsl:for-each-group>
-        
+        -->
         <!-- brockhaus -->
         
-        <xsl:for-each select="$documents//tei:TEI[//tei:correspAction[@type = 'sent']/tei:persName/@key='JP-000501']">
+  <!--      <xsl:for-each select="$documents//tei:TEI[//tei:correspAction[@type = 'sent']/tei:persName/@key='JP-000501']">
             <xsl:variable name="file" select="concat(//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)[1], '_', //tei:correspAction[@type = 'received']/tei:persName[1]/translate(., ' ', ''))"/>
             <xsl:result-document href="{$output-uri || '/sentiment/brockhaus/' || $file || '.txt'}"
                 method="text" indent="no" media-type="text">
@@ -40,7 +40,7 @@
             </xsl:result-document>
         </xsl:for-each>
         
-        <!-- caroline -->
+        <!-\- caroline -\->
   
         
         <xsl:for-each select="$documents//tei:TEI[//tei:correspAction[@type = 'sent']/tei:persName/@key='JP-003469']">
@@ -49,12 +49,21 @@
                 method="text" indent="no" media-type="text">
                 <xsl:apply-templates select="//tei:text"/>
             </xsl:result-document>
+        </xsl:for-each>-->
+        
+        
+        <xsl:for-each select="$documents//tei:TEI[//tei:correspAction[@type = 'sent']/tei:persName/@key='JP-004393']">
+            <xsl:variable name="file" select="concat(//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)[1], '_', //tei:correspAction[@type = 'received']/tei:persName[1]/translate(., ' ', ''))"/>
+            <xsl:result-document href="{$output-uri || '/sentiment/minnaspazier/' || $file || '.txt'}"
+                method="text" indent="no" media-type="text">
+                <xsl:apply-templates select="//tei:text"/>
+            </xsl:result-document>
         </xsl:for-each>
         
         
         <!-- Themen, denen mindestens 50 Briefe zugeordnet wurden --> 
         
-        <xsl:for-each-group select="$documents//tei:TEI"
+    <!--    <xsl:for-each-group select="$documents//tei:TEI"
             group-by="//tei:keywords[@scheme = '#topics']/tei:term">
             <xsl:variable name="id" select="current-grouping-key()"/>
             <xsl:if test="count(current-group()) &gt; 49">
@@ -63,7 +72,7 @@
                     <xsl:apply-templates select="current-group()/tei:text"/>
                 </xsl:result-document>
             </xsl:if>
-        </xsl:for-each-group>
+        </xsl:for-each-group>-->
         
         <!-- for sentiment analysis; group by year -->
         

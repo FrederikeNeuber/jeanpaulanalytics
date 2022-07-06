@@ -73,7 +73,7 @@
         <!-- variables for queries -->
         <xsl:result-document href="{$output-uri-csv-0}" method="text">
             <xsl:value-of
-                select="'Briefe' || $s || 'Anzahl' ||  $l"/>
+                select="'Jahr' || $s || 'Briefe' ||  $l"/>
             <xsl:for-each-group select="$documents//tei:TEI" group-by="//tei:correspAction[@type = 'sent']/tei:date/(@when | @notBefore | @from)[1]/substring(., 1, 4)">
                 <xsl:sort select="current-grouping-key()" data-type="number" order="ascending"/>
                 <xsl:value-of select="current-grouping-key() || $s || count(current-group()) || $l"/>
@@ -87,7 +87,7 @@
         
         <xsl:result-document href="{$output-uri-csv-2}" method="text">
             <xsl:value-of
-                select="'Korrespondent/innen' || $s || 'Summe aller Personenkontakte' || $s || 'Erreichte Personen' || $l"/>
+                select="'Korrespondent/innen' || $s || 'Bruttoreichweite' || $s || 'Nettoreichweite' || $l"/>
             <xsl:for-each-group select="$documents//tei:correspAction[@type = 'sent']/tei:persName"
                 group-by="@key">
                 <xsl:sort select="count(current-group())" data-type="number" order="descending"/>

@@ -5,6 +5,9 @@ Es handelt sich dabei um Experimente, die im Rahmen eines Vortrags auf der Tagun
 
 # Inhalte
 
+* scripts: Skript zur Generierung der Auswertungen im Rahmen des Artikels sowie diverse Skripte zur Vorverarbeitung der Daten (Achtung, die Ausführung der Skripte erfolgt über die .bat-Dateien, es wird ein Saxon-Processor benötigt)
+* data-source: Enthält lediglich die mit [CAB](https://kaskade.dwds.de/~moocow/software/DTA-CAB/) normalisierten Briefdateien; für die Briefe in der verwendeten Version
+* data-analysis: Daten, die für die Analyse verwendet wurden: auf Metadaten reduzierte TEI-files und verschiedene Plaintext collections für die Sentiment Analyse [v.5.0](https://github.com/telota/jean_paul_briefe/releases/tag/v.5.0) siehe GitHub oder [Zenodo](https://zenodo.org/record/6322839); die Register sind derzeit nur projektintern verfügbar.
 * Material: Folien des Votrags (2021) und Abbildungen aus dem Tagungsband (2023)
 
 # License

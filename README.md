@@ -1,13 +1,12 @@
 # jeanpaulanalytics
 
-Auswertungen der Briefe aus dem Umfeld Jean Paul ([jeanpaul-edition.de/](jeanpaul-edition.de/)) mit Methoden der Social Media Analytics.
-Es handelt sich dabei um Experimente, die im Rahmen eines Vortrags auf der Tagung "Soziales Medium Brief. Sharen, Liken, Retweeten im 18. und 19. Jahrhundert. Neue Perspektiven auf die Briefkultur" (Berlin-Brandenburgische Akademie der Wissenschaften, 24.-26.6.2021) vorgestellt wurden. Die Auswertungen entsprechen nicht denen in den Vortragsfolien, sondern zeigen die Ergebnisse, die im Rahmen eines Artikels im gleichnamigen Tagungsband publiziert wurden (hrsg. von Markus Bernauer, Selma Jahnke, Frederike Neuber und Michael Rölcke; Sommer 2023). 
+Analyses of letters from Jean Paul's surroundings ([jeanpaul-edition.de/](jeanpaul-edition.de/)) experimenting with metrics and methods from social media analytics. The analyses were conducted as part of a presentation at the conference "Soziales Medium Brief. Sharen, Liken, Retweeten im 18. und 19. Jahrhundert. Neue Perspektiven auf die Briefkultur" (Berlin-Brandenburg Academy of Sciences and Humanities, June 24-26, 2021) and for the comference proceedings (edited by Markus Bernauer, Selma Jahnke, Frederike Neuber, and Michael Rölcke; Summer 2023). 
 
 # Contents
 
 ## data-source
 
-Contains TEI files of the letters ([v.5.0](https://github.com/telota/jean_paul_briefe/releases/tag/v.5.0)) in as well as normalized TEI versions (created with [CAB](https://kaskade.dwds.de/~moocow/software/DTA-CAB/). 
+Contains TEI files of the letters ([v.5.0](https://github.com/telota/jean_paul_briefe/releases/tag/v.5.0)) as well as normalized TEI versions (created with [CAB](https://kaskade.dwds.de/~moocow/software/DTA-CAB/). 
 
 The index files ('register') are currently only available within the project.
 

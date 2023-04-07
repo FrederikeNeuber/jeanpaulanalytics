@@ -1,6 +1,8 @@
 # jeanpaulanalytics
 
-Analyses of letters from Jean Paul's surroundings ([jeanpaul-edition.de/](jeanpaul-edition.de/)) experimenting with metrics and methods from social media analytics. The analyses were conducted as part of a presentation at the conference "Soziales Medium Brief. Sharen, Liken, Retweeten im 18. und 19. Jahrhundert. Neue Perspektiven auf die Briefkultur" (Berlin-Brandenburg Academy of Sciences and Humanities, June 24-26, 2021) and for the comference proceedings (edited by Markus Bernauer, Selma Jahnke, Frederike Neuber, and Michael Rölcke; Summer 2023). 
+Analyses of letters from Jean Paul's surroundings ([jeanpaul-edition.de/](jeanpaul-edition.de/)) experimenting with metrics and methods from social media analytics. The analyses were conducted as part of a presentation at the conference 'Soziales Medium Brief. Sharen, Liken, Retweeten im 18. und 19. Jahrhundert. Neue Perspektiven auf die Briefkultur' (Berlin-Brandenburg Academy of Sciences and Humanities, June 24-26, 2021) and for the article 'Historische Korrespondenzen und Social Media Analytics. Eine experimentelle Analyse der Briefe aus Jean Pauls Umfeld'  comference proceedings (edited by Markus Bernauer, Selma Jahnke, Frederike Neuber, and Michael Rölcke; Summer 2023). 
+
+The repository is primarily intended to supplement the above mentioned article in the conference proceedings.
 
 # Contents
 

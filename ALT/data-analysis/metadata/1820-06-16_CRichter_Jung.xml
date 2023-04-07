@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0143">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Franz Wilhelm Jung. Bayreuth, 16. Juni 1820, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-06-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001981">Franz Wilhelm Jung</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012539">Frankfurter Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012265">Geschlechterrollen</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+               <term xml:id="JP-012693">Personalien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-001981" n="1"/>
+            <person xml:id="JP-004506" n="2"/>
+            <person xml:id="JP-999999" n="6"/>
+            <person xml:id="JP-004443" n="3"/>
+            <person xml:id="JP-012287" n="1"/>
+            <person xml:id="JP-012243" n="1"/>
+            <person xml:id="JP-000948" n="2"/>
+            <person xml:id="JP-000949" n="1"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-003484" n="1"/>
+            <person xml:id="JP-001982" n="1"/>
+            <person xml:id="JP-001980" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-005819" n="3"/>
+            <place xml:id="JP-005687" n="1"/>
+            <place xml:id="JP-005712" n="1"/>
+            <place xml:id="JP-005743" n="1"/>
+            <place xml:id="JP-005990" n="1"/>
+            <place xml:id="JP-006040" n="1"/>
+            <place xml:id="JP-011546" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-008854" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

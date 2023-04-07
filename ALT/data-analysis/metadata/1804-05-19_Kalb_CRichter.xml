@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0848">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter und Jean Paul. Trabelsdorf, Ende
+                    Mai 1804</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-006350">Trabelsdorf bei Bamberg</placeName>
+               <date notBefore="1804-05-19" notAfter="1804-06-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002007" n="1"/>
+            <person xml:id="JP-003469" n="2"/>
+            <person xml:id="JP-999999" n="2"/>
+            <person xml:id="JP-002726" n="1"/>
+            <person xml:id="JP-002377" n="1"/>
+            <person xml:id="JP-001670" n="1"/>
+            <person xml:id="JP-001675" n="1"/>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-002011" n="2"/>
+            <person xml:id="JP-004599" n="5"/>
+            <person xml:id="JP-002256" n="1"/>
+            <person xml:id="JP-004347" n="1"/>
+            <person xml:id="JP-003737" n="1"/>
+            <person xml:id="JP-000400" n="1"/>
+            <person xml:id="JP-004520" n="1"/>
+            <person xml:id="JP-004524" n="1"/>
+            <person xml:id="JP-000723" n="1"/>
+            <person xml:id="JP-000252" n="1"/>
+            <person xml:id="JP-000579" n="1"/>
+            <person xml:id="JP-001187" n="1"/>
+            <person xml:id="JP-000058" n="1"/>
+            <person xml:id="JP-001542" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-001358" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006350" n="3"/>
+            <place xml:id="JP-005561" n="1"/>
+            <place xml:id="JP-005721" n="2"/>
+            <place xml:id="JP-006085" n="1"/>
+            <place xml:id="JP-005784" n="1"/>
+            <place xml:id="JP-005586" n="4"/>
+            <place xml:id="JP-006395" n="4"/>
+            <place xml:id="JP-005948" n="1"/>
+            <place xml:id="JP-005591" n="3"/>
+            <place xml:id="JP-005569" n="2"/>
+            <place xml:id="JP-006405" n="1"/>
+            <place xml:id="JP-006040" n="2"/>
+            <place xml:id="JP-005649" n="1"/>
+            <place xml:id="JP-013039" n="1"/>
+            <place xml:id="JP-005791" n="1"/>
+            <place xml:id="JP-005687" n="1"/>
+            <place xml:id="JP-006217" n="1"/>
+            <place xml:id="JP-006018" n="1"/>
+         </listPlace>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010695" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

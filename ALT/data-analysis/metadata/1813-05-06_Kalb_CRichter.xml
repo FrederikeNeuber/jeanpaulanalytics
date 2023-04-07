@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0980">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Charlotte von Kalb an Caroline Richter. Berlin, 6. und 7. Mai 1813,
+                    Donnerstag und Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002007">Charlotte von Kalb</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date from="1813-05-06" to="1813-05-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012320">Caroline Richter-Kreis</term>
+               <term xml:id="JP-013303">Charlotte von Kalb-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012778">Geschäftliches</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012033">Textilien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002007" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="2"/>
+            <person xml:id="JP-002703" n="2"/>
+            <person xml:id="JP-003483" n="1"/>
+            <person xml:id="JP-002004" n="2"/>
+            <person xml:id="JP-004846" n="1"/>
+            <person xml:id="JP-003757" n="2"/>
+            <person xml:id="JP-012297" n="1"/>
+            <person xml:id="JP-002625" n="2"/>
+            <person xml:id="JP-001187" n="1"/>
+            <person xml:id="JP-002008" n="1"/>
+            <person xml:id="JP-002011" n="1"/>
+            <person xml:id="JP-002010" n="1"/>
+            <person xml:id="JP-000066" n="1"/>
+            <person xml:id="JP-001678" n="2"/>
+            <person xml:id="JP-004168" n="1"/>
+            <person xml:id="JP-013457" n="1"/>
+            <person xml:id="JP-004167" n="1"/>
+            <person xml:id="JP-013456" n="1"/>
+            <person xml:id="JP-013458" n="1"/>
+            <person xml:id="JP-013459" n="1"/>
+            <person xml:id="JP-004275" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-005561" n="2"/>
+            <place xml:id="JP-005642" n="1"/>
+            <place xml:id="JP-013307" n="1"/>
+            <place xml:id="JP-011139" n="1"/>
+            <place xml:id="JP-005907" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

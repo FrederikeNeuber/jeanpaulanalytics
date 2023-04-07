@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0165">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Odilie Richter an Max Richter. Bayreuth, 28. April 1820, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1820-04-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003490">Max Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-003471" n="1"/>
+            <person xml:id="JP-012606" n="3"/>
+            <person xml:id="JP-000212" n="1"/>
+            <person xml:id="JP-002482" n="1"/>
+            <person xml:id="JP-003469" n="2"/>
+            <person xml:id="JP-003868" n="1"/>
+            <person xml:id="JP-003873" n="1"/>
+            <person xml:id="JP-003874" n="2"/>
+            <person xml:id="JP-003457" n="1"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-001629" n="1"/>
+            <person xml:id="JP-012309" n="2"/>
+            <person xml:id="JP-002228" n="1"/>
+            <person xml:id="JP-003657" n="1"/>
+            <person xml:id="JP-003112" n="1"/>
+            <person xml:id="JP-000769" n="1"/>
+            <person xml:id="JP-002709" n="1"/>
+            <person xml:id="JP-003801" n="1"/>
+            <person xml:id="JP-004103" n="2"/>
+            <person xml:id="JP-004393" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="2"/>
+            <place xml:id="JP-011081" n="1"/>
+            <place xml:id="JP-005936" n="1"/>
+            <place xml:id="JP-005846" n="1"/>
+            <place xml:id="JP-006023" n="1"/>
+            <place xml:id="JP-011040" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

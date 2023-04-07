@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0461">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Caroline Goldschmidt. Bayreuth, 2. Dezember 1803, Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date when="1803-12-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-001358">Caroline Goldschmidt</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012265">Geschlechterrollen</term>
+               <term xml:id="JP-012212">Liebesleben / Kennenlernen / Ehe</term>
+               <term xml:id="JP-012349">Reflexionen über das Leben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-001358" n="1"/>
+            <person xml:id="JP-001353" n="1"/>
+            <person xml:id="JP-003469" n="3"/>
+            <person xml:id="JP-003490" n="2"/>
+            <person xml:id="JP-004367" n="1"/>
+            <person xml:id="JP-004275" n="1"/>
+            <person xml:id="JP-999999" n="1"/>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-002583" n="1"/>
+            <person xml:id="JP-012297" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-006040" n="1"/>
+            <place xml:id="JP-005948" n="1"/>
+            <place xml:id="JP-005649" n="1"/>
+            <place xml:id="JP-006213" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-008542" n="1"/>
+            <bibl xml:id="JP-013260" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1103">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Karl August Freiherr von Wangenheim an Johann Ernst Wagner. Stuttgart,
+                    22. Juni bis 3. Juli 1811, Sonnabend bis Mittwoch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004599">Karl August Freiherr von Wangenheim</persName>
+               <placeName key="JP-006315">Stuttgart (Studtgardt, Studtgart, Stuttgard,
+                        Stutgard)</placeName>
+               <date from="1811-06-22" to="1811-07-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+               <term xml:id="JP-013034">Wangenheim-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012543">Dank</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-011937">Kunst</term>
+               <term xml:id="JP-013491">Philosophisches</term>
+               <term xml:id="JP-012430">Religion</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004599" n="1"/>
+            <person xml:id="JP-004556" n="2"/>
+            <person xml:id="JP-004570" n="4"/>
+            <person xml:id="JP-004347" n="2"/>
+            <person xml:id="JP-000744" n="2"/>
+            <person xml:id="JP-013431" n="3"/>
+            <person xml:id="JP-013168" n="1"/>
+            <person xml:id="JP-013228" n="2"/>
+            <person xml:id="JP-004564" n="2"/>
+            <person xml:id="JP-004520" n="1"/>
+            <person xml:id="JP-000698" n="1"/>
+            <person xml:id="JP-004596" n="1"/>
+            <person xml:id="JP-004208" n="2"/>
+            <person xml:id="JP-013464" n="1"/>
+            <person xml:id="JP-004683" n="2"/>
+            <person xml:id="JP-003658" n="1"/>
+            <person xml:id="JP-000703" n="1"/>
+            <person xml:id="JP-004558" n="1"/>
+            <person xml:id="JP-002546" n="1"/>
+            <person xml:id="JP-011903" n="1"/>
+            <person xml:id="JP-001554" n="1"/>
+            <person xml:id="JP-004551" n="1"/>
+            <person xml:id="JP-004557" n="1"/>
+            <person xml:id="JP-000317" n="1"/>
+            <person xml:id="JP-002882" n="1"/>
+            <person xml:id="JP-001651" n="1"/>
+            <person xml:id="JP-002186" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006315" n="1"/>
+            <place xml:id="JP-005791" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010063" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

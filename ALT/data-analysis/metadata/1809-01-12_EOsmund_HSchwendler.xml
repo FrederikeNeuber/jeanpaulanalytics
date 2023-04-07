@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0755">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Emanuel an Henriette Schwendler. Bayreuth, 12. und 13. Januar 1809, Donnerstag und Freitag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003087">Emanuel Osmund</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1809-01-12" to="1809-01-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-002936">Antonie von Mützschefahl</persName>
+               <persName key="JP-003749">Amanda Schlabrendorff</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-011958">Emanuel-Kreis</term>
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-012212">Liebesleben / Kennenlernen / Ehe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-003964" n="1"/>
+            <person xml:id="JP-002936" n="2"/>
+            <person xml:id="JP-003749" n="2"/>
+            <person xml:id="JP-003884" n="4"/>
+            <person xml:id="JP-002021" n="4"/>
+            <person xml:id="JP-000472" n="2"/>
+            <person xml:id="JP-003556" n="2"/>
+            <person xml:id="JP-004180" n="1"/>
+            <person xml:id="JP-004367" n="1"/>
+            <person xml:id="JP-004179" n="1"/>
+            <person xml:id="JP-000969" n="1"/>
+            <person xml:id="JP-003966" n="1"/>
+            <person xml:id="JP-003971" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-006012" n="2"/>
+            <place xml:id="JP-005892" n="3"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

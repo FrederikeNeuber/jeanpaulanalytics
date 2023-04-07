@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0290">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 6. und 7.
+                    April 1808, Mittwoch und Donnerstag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date from="1808-04-06" to="1808-04-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012211">Finanzen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002703" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="3"/>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-003488" n="6"/>
+            <person xml:id="JP-002583" n="3"/>
+            <person xml:id="JP-004393" n="5"/>
+            <person xml:id="JP-004105" n="2"/>
+            <person xml:id="JP-004517" n="2"/>
+            <person xml:id="JP-004104" n="2"/>
+            <person xml:id="JP-004547" n="3"/>
+            <person xml:id="JP-002661" n="1"/>
+            <person xml:id="JP-002535" n="1"/>
+            <person xml:id="JP-012529" n="1"/>
+            <person xml:id="JP-003483" n="1"/>
+            <person xml:id="JP-002709" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005586" n="3"/>
+            <place xml:id="JP-012108" n="1"/>
+            <place xml:id="JP-005574" n="8"/>
+            <place xml:id="JP-006164" n="4"/>
+            <place xml:id="JP-005575" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-009809" n="4"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1100">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Heinrich Cotta an Johann Ernst Wagner. Tharandt, 26. Mai 1811,
+                    Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-000703">Johann Heinrich Cotta</persName>
+               <placeName key="JP-006330">Tharandt (Tarant, Tharand, Tharandter Tal) bei
+                        Dresden</placeName>
+               <date when="1811-05-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004556">Johann Ernst Wagner</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012565">Erziehung, Pädagogik</term>
+               <term xml:id="JP-012278">Freundschaften</term>
+               <term xml:id="JP-011937">Kunst</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-000703" n="1"/>
+            <person xml:id="JP-004556" n="2"/>
+            <person xml:id="JP-013358" n="2"/>
+            <person xml:id="JP-013356" n="1"/>
+            <person xml:id="JP-004283" n="5"/>
+            <person xml:id="JP-002286" n="5"/>
+            <person xml:id="JP-013409" n="1"/>
+            <person xml:id="JP-004558" n="3"/>
+            <person xml:id="JP-011903" n="5"/>
+            <person xml:id="JP-013360" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006330" n="1"/>
+            <place xml:id="JP-005687" n="2"/>
+            <place xml:id="JP-013314" n="1"/>
+            <place xml:id="JP-006328" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

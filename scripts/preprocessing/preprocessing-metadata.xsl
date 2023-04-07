@@ -2,12 +2,13 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:telota="http://www.telota.de" exclude-result-prefixes="#all" version="2.0">
-    
+
     <!-- 
-        reduces the TEI files of the letters to contents needed for analysis (metadata and entities, no text)
+        Stylesheet is executed by preprocessing-metadata.bat
+        Reduces the TEI files of the letters to contents needed for analysis (metadata and entities, no text)
         @author: Frederike Neuber
     -->
-    
+
     <xsl:param name="INPUT_DIR"/>
 
     <xsl:strip-space elements="*"/>
@@ -15,6 +16,7 @@
     <xsl:output method="xml" indent="yes"/>
 
     <xsl:template match="/">
+        <!-- Preparing paths for getting/saving input and output data -->
         <xsl:variable name="input-dir-uri"
             select="'file:///' || replace($INPUT_DIR, '\\', '/') || '?recurse=yes;select=*.xml'"
             as="xs:string"/>
@@ -23,6 +25,7 @@
         <xsl:for-each select="$documents">
             <xsl:variable name="cur-doc" select="." as="document-node()"/>
             <xsl:variable name="basename" as="xs:string" select="string(base-uri($cur-doc))"/>
+            <!-- Adapt data-source path -->
             <xsl:variable name="output-uri"
                 select="replace($basename, 'data-source/umfeldbriefe/.*/', 'data-analysis/metadata/')"/>
             <xsl:result-document href="{$output-uri}">
@@ -37,20 +40,12 @@
         </xsl:copy>
     </xsl:template>
 
-    <!-- teiHeader: sections/attributes to delete -->
-
-    <xsl:template match="@telota:doctype"/>
-
-    <xsl:template match="tei:TEI/@type"/>
-
-    <xsl:template match="tei:fileDesc//tei:respStmt"/>
-
-    <xsl:template match="tei:fileDesc//tei:editionStmt"/>
+    <!-- TEI sections to delete -->
 
     <xsl:template
-        match="tei:correspDesc//@cert | tei:correspDesc/tei:note | tei:correspDesc/tei:correspContext"/>
+        match="@telota:doctype | tei:TEI/@type | tei:fileDesc//tei:respStmt | tei:fileDesc//tei:editionStmt | tei:correspDesc//@cert | tei:correspDesc/tei:note | tei:correspDesc/tei:correspContext | tei:keywords[@scheme = '#correspondents']"/>
 
-    <!-- teiHeader: sections to modify -->
+    <!-- TEI sections to modify -->
 
     <xsl:template match="tei:publicationStmt">
         <publicationStmt xmlns="http://www.tei-c.org/ns/1.0">
@@ -69,7 +64,7 @@
         </sourceDesc>
     </xsl:template>
 
-    <!-- teiHeader: sections to clean up -->
+    <!-- TEI sections to clean up / normalize -->
 
     <xsl:template match="tei:correspDesc//tei:persName[@key = 'JP-004373']">
         <persName xmlns="http://www.tei-c.org/ns/1.0" key="JP-004373">Unbekannte
@@ -81,6 +76,7 @@
     </xsl:template>
 
     <xsl:template match="tei:keywords[@scheme = '#topics']">
+        <!-- Adapt path to index files -->
         <xsl:variable name="topics" select="doc('../../data-source/register/Themen.xml')"/>
         <keywords xmlns="http://www.tei-c.org/ns/1.0" scheme="#topics">
             <xsl:for-each
@@ -92,14 +88,7 @@
         </keywords>
     </xsl:template>
 
-    <xsl:template match="tei:keywords[@scheme = '#correspondents']/tei:term">
-        <term xmlns="http://www.tei-c.org/ns/1.0"
-            xml:id="{current()/substring-after(@corresp, '#')}">
-            <xsl:value-of select="normalize-space()"/>
-        </term>
-    </xsl:template>
-
-    <!-- text: extract mentioned entities in lists -->
+    <!-- Create list of entities in the text section -->
 
     <xsl:template match="tei:text">
         <text xmlns="http://www.tei-c.org/ns/1.0">

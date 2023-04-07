@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0006">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Johann Siegfried Wilhelm Mayer. Meiningen, 27. Juli 1801, Montag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <date when="1801-07-27"/>
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012048">Briefverkehr</term>
+               <term xml:id="JP-012183">Festlichkeiten</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-011832">Gesellschaftliches Leben</term>
+               <term xml:id="JP-012453">Jean Pauls Alltag</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-002703" n="1"/>
+            <person xml:id="JP-999999" n="18"/>
+            <person xml:id="JP-001603" n="1"/>
+            <person xml:id="JP-001650" n="1"/>
+            <person xml:id="JP-001651" n="1"/>
+            <person xml:id="JP-001652" n="1"/>
+            <person xml:id="JP-002546" n="1"/>
+            <person xml:id="JP-003087" n="1"/>
+            <person xml:id="JP-003112" n="2"/>
+            <person xml:id="JP-001289" n="3"/>
+            <person xml:id="JP-003771" n="2"/>
+            <person xml:id="JP-003778" n="1"/>
+            <person xml:id="JP-001328" n="2"/>
+            <person xml:id="JP-000297" n="1"/>
+            <person xml:id="JP-003039" n="1"/>
+            <person xml:id="JP-002548" n="2"/>
+            <person xml:id="JP-002712" n="1"/>
+            <person xml:id="JP-003964" n="2"/>
+            <person xml:id="JP-003967" n="1"/>
+            <person xml:id="JP-011998" n="1"/>
+            <person xml:id="JP-013020" n="1"/>
+            <person xml:id="JP-013031" n="1"/>
+            <person xml:id="JP-002678" n="1"/>
+            <person xml:id="JP-001920" n="1"/>
+            <person xml:id="JP-003149" n="1"/>
+            <person xml:id="JP-011797" n="2"/>
+            <person xml:id="JP-012114" n="1"/>
+            <person xml:id="JP-002273" n="1"/>
+            <person xml:id="JP-000225" n="1"/>
+            <person xml:id="JP-003066" n="1"/>
+            <person xml:id="JP-002581" n="1"/>
+            <person xml:id="JP-002702" n="1"/>
+            <person xml:id="JP-001530" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005948" n="1"/>
+            <place xml:id="JP-005956" n="5"/>
+            <place xml:id="JP-011537" n="1"/>
+            <place xml:id="JP-005574" n="1"/>
+            <place xml:id="JP-011538" n="1"/>
+            <place xml:id="JP-006395" n="1"/>
+            <place xml:id="JP-005698" n="2"/>
+            <place xml:id="JP-006390" n="2"/>
+            <place xml:id="JP-005791" n="1"/>
+            <place xml:id="JP-006012" n="2"/>
+            <place xml:id="JP-005586" n="3"/>
+            <place xml:id="JP-006328" n="1"/>
+            <place xml:id="JP-006271" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

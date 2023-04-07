@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0975">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Carl und Anton Wagner an Christian Freiherr Truchseß von Wetzhausen. Meiningen, 29. Dezember 1811, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-004564">Karl Ludwig Friedrich Ernst Wagner</persName>
+               <persName key="JP-004570">Ludwig Anton Wagner</persName>
+               <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+               <date when="1811-12-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004347">Christian Freiherr Truchsess von Wetzhausen</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-013032">Johann Ernst Wagner-Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012250">Träume</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-004564" n="1"/>
+            <person xml:id="JP-004570" n="1"/>
+            <person xml:id="JP-004347" n="1"/>
+            <person xml:id="JP-004556" n="1"/>
+            <person xml:id="JP-002649" n="1"/>
+            <person xml:id="JP-004551" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006012" n="1"/>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

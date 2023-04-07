@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0530">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 14. April
+                    1805, Sonntag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1805-04-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName key="JP-999999">Jean Paul</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-011893">Berufliches</term>
+               <term xml:id="JP-012211">Finanzen</term>
+               <term xml:id="JP-012601">Juristische Angelegenheiten</term>
+               <term xml:id="JP-012449">Kinder</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-002703" n="1"/>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-999999" n="8"/>
+            <person xml:id="JP-012835" n="1"/>
+            <person xml:id="JP-004393" n="6"/>
+            <person xml:id="JP-004517" n="1"/>
+            <person xml:id="JP-002583" n="3"/>
+            <person xml:id="JP-002581" n="2"/>
+            <person xml:id="JP-002711" n="1"/>
+            <person xml:id="JP-004106" n="2"/>
+            <person xml:id="JP-004105" n="1"/>
+            <person xml:id="JP-012324" n="1"/>
+            <person xml:id="JP-000358" n="2"/>
+            <person xml:id="JP-002007" n="2"/>
+            <person xml:id="JP-000297" n="1"/>
+            <person xml:id="JP-002548" n="1"/>
+            <person xml:id="JP-001288" n="1"/>
+            <person xml:id="JP-012976" n="1"/>
+            <person xml:id="JP-000066" n="2"/>
+            <person xml:id="JP-012993" n="1"/>
+            <person xml:id="JP-002954" n="1"/>
+            <person xml:id="JP-001530" n="1"/>
+            <person xml:id="JP-001073" n="2"/>
+            <person xml:id="JP-002779" n="2"/>
+            <person xml:id="JP-003483" n="1"/>
+            <person xml:id="JP-002709" n="1"/>
+            <person xml:id="JP-012105" n="1"/>
+            <person xml:id="JP-002715" n="1"/>
+            <person xml:id="JP-001246" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005586" n="2"/>
+            <place xml:id="JP-005721" n="1"/>
+            <place xml:id="JP-005948" n="1"/>
+            <place xml:id="JP-012792" n="1"/>
+            <place xml:id="JP-006040" n="1"/>
+            <place xml:id="JP-005574" n="2"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-009809" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0738">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Heinrich Voß. Bayreuth, 11. September 1819,
+                    Sonnabend</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-005574">Bayreuth  (Stadt)</placeName>
+               <date from="1818-09-11" to="1818-09-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-004520">Heinrich Voß</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012284">Heidelberger Freundeskreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-011811">Reisen</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-004520" n="1"/>
+            <person xml:id="JP-999999" n="10"/>
+            <person xml:id="JP-000853" n="4"/>
+            <person xml:id="JP-003482" n="1"/>
+            <person xml:id="JP-000614" n="2"/>
+            <person xml:id="JP-000949" n="2"/>
+            <person xml:id="JP-001083" n="2"/>
+            <person xml:id="JP-000948" n="2"/>
+            <person xml:id="JP-004653" n="7"/>
+            <person xml:id="JP-004657" n="3"/>
+            <person xml:id="JP-013212" n="3"/>
+            <person xml:id="JP-003483" n="1"/>
+            <person xml:id="JP-004659" n="1"/>
+            <person xml:id="JP-011864" n="1"/>
+            <person xml:id="JP-002416" n="2"/>
+            <person xml:id="JP-003612" n="1"/>
+            <person xml:id="JP-002709" n="1"/>
+            <person xml:id="JP-004654" n="1"/>
+            <person xml:id="JP-004655" n="1"/>
+            <person xml:id="JP-003490" n="1"/>
+            <person xml:id="JP-003169" n="2"/>
+            <person xml:id="JP-003168" n="1"/>
+            <person xml:id="JP-003173" n="1"/>
+            <person xml:id="JP-004516" n="1"/>
+            <person xml:id="JP-002703" n="2"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005574" n="5"/>
+            <place xml:id="JP-005969" n="4"/>
+            <place xml:id="JP-006213" n="1"/>
+            <place xml:id="JP-006315" n="1"/>
+            <place xml:id="JP-005521" n="1"/>
+            <place xml:id="JP-005841" n="2"/>
+            <place xml:id="JP-005777" n="1"/>
+            <place xml:id="JP-005591" n="1"/>
+            <place xml:id="JP-006040" n="7"/>
+            <place xml:id="JP-006122" n="1"/>
+            <place xml:id="JP-011546" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-008737" n="1"/>
+            <bibl xml:id="JP-008269" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

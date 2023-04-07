@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB0241">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Caroline Richter an Odilie Richter. Würzburg, nach dem 25. Oktober und
+                    vor dem 1. November 1822</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003469">Caroline Richter</persName>
+               <placeName key="JP-006422">Würzburg</placeName>
+               <date notBefore="1822-10-25" notAfter="1822-11-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003491">Odilie Minna Richter</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012566">Kernfamilie</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012195">Ermahnung, Zuspruch, Trost</term>
+               <term xml:id="JP-012575">Familie(n)</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012033">Textilien</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003469" n="1"/>
+            <person xml:id="JP-003491" n="1"/>
+            <person xml:id="JP-999999" n="2"/>
+            <person xml:id="JP-012369" n="1"/>
+            <person xml:id="JP-000948" n="1"/>
+            <person xml:id="JP-000733" n="1"/>
+            <person xml:id="JP-012116" n="1"/>
+            <person xml:id="JP-001608" n="1"/>
+            <person xml:id="JP-003031" n="1"/>
+            <person xml:id="JP-012366" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-006422" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-010041" n="1"/>
+         </listBibl>
+         <listBibl type="jp">
+            <bibl xml:id="JP-010651" n="1"/>
+            <bibl xml:id="JP-010648" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JP-UB0620">
+   <teiHeader xmlns:telota="http://www.telota.de">
+      <fileDesc>
+         <titleStmt>
+            <title>Von Johann Siegfried Wilhelm Mayer an Caroline Richter. Berlin, 19. April
+                    1819, Montag</title>
+            <respStmt ref="http://d-nb.info/gnd/1155558472">
+               <persName>
+                  <surname>Jahnke</surname>
+                  <forename>Selma</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editorin</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Digitale Konzeption und Modellierung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rölcke</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Editor</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Thielert</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In: Jean
+                Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer, Norbert
+                Miller und Frederike Neuber (2018–).</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <email>telota@bbaw.de</email>
+               <orgName>TELOTA - The Electronic Life Of The Academy</orgName>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020 ff.</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness>
+                  <msDesc rend="manuscript" type="baseText">
+                     <msIdentifier>
+                        <institution>BJK</institution>
+                        <collection>Berlin A</collection>
+                        <idno type="shelfmark"/>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>1 Bl. 8°, 1 S.</p>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-002703">Johann Siegfried Wilhelm Mayer</persName>
+               <placeName key="JP-005586">Berlin</placeName>
+               <date when="1819-04-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-003469">Caroline Richter</persName>
+            </correspAction>
+            <correspAction type="read">
+               <persName cert="medium" key="JP-999999">Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+            </correspAction>
+            <note>Der Brief ist Beilage zum <ref type="letter" subtype="document" target="4-VII_176">Brief Johann Siegfried Wilhelm Mayers an Jean Paul von
+                        19. April 1918</ref>.</note>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term corresp="#JP-012081">Familie Mayer</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term corresp="#JP-011811">Reisen</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+                    <s id="s1" pn="p5"><w id="w1" b="52 5" t="Liebe"><moot word="Liebe" tag="NN" lemma="Liebe"/><xlit latin1Text="Liebe" isLatin1="1" isLatinExt="1"/>Liebe</w> <w id="w2" t="Caroline" b="58 8"><xlit isLatin1="1" isLatinExt="1" latin1Text="Caroline"/><moot lemma="Caroline" word="Caroline" tag="NE"/>Caroline</w><w id="w3" b="66 1" t="!"><moot lemma="!" tag="$." word="!"/><xlit isLatin1="1" isLatinExt="1" latin1Text="!"/>!</w>
+                    <w id="w4" t="ich" b="88 3"><moot lemma="ich" tag="PPER" word="ich"/><xlit isLatinExt="1" isLatin1="1" latin1Text="ich"/>ich</w> <w id="w5" b="92 5" t="werde"><moot tag="VAFIN" word="werde" lemma="werden"/><xlit latin1Text="werde" isLatin1="1" isLatinExt="1"/>werde</w> <w id="w6" b="98 3" t="nun"><mlatin><a w="0" hi="[_FM][lat]"/></mlatin><moot lemma="nun" tag="ADV" word="nun"/><xlit isLatinExt="1" isLatin1="1" latin1Text="nun"/>nun</w> <w id="w7" b="102 4" t="doch"><moot tag="ADV" word="doch" lemma="doch"/><xlit latin1Text="doch" isLatinExt="1" isLatin1="1"/>doch</w> <w id="w8" b="107 4" t="nach"><xlit latin1Text="nach" isLatin1="1" isLatinExt="1"/><moot lemma="nach" tag="APPR" word="nach"/>nach</w>
+                        <w id="w9" b="136 9" t="Marienbad"><xlit latin1Text="Marienbad" isLatin1="1" isLatinExt="1"/><moot lemma="Marienbad" tag="NE" word="Marienbad"/>Marienbad</w> <w id="wa" t="gehen" b="146 5"><moot word="gehen" tag="VVFIN" lemma="gehen"/><xlit latin1Text="gehen" isLatin1="1" isLatinExt="1"/>gehen</w><w id="wb" b="151 1" t=","><xlit latin1Text="," isLatinExt="1" isLatin1="1"/><moot lemma="," word="," tag="$,"/>,</w> <w id="wc" t="habe" b="153 4"><xlit isLatinExt="1" isLatin1="1" latin1Text="habe"/><mlatin><a hi="[_FM][lat]" w="0"/></mlatin><moot tag="VAFIN" word="habe" lemma="haben"/>habe</w> <w id="wd" t="deßhalb" b="158 8"><xlit latin1Text="deßhalb" isLatin1="1" isLatinExt="1"/><moot lemma="deshalb" tag="PAV" word="deshalb"/>deßhalb</w> <w id="we" t="an" b="167 2"><xlit latin1Text="an" isLatinExt="1" isLatin1="1"/><moot lemma="an" tag="APPR" word="an"/>an</w> <w id="wf" b="170 5" t="Herrn"><moot lemma="Herr" tag="NN" word="Herrn"/><xlit latin1Text="Herrn" isLatinExt="1" isLatin1="1"/>Herrn</w> <w id="w10" b="176 1" t="p"><xlit isLatin1="1" isLatinExt="1" latin1Text="p"/><moot tag="XY" word="p" lemma="p"/>p</w> <w id="w11" b="178 4" t="Uthe"><moot lemma="Uthe" word="Uthe" tag="NE"/><xlit isLatin1="1" isLatinExt="1" latin1Text="Uthe"/>Uthe</w>
+                     <w id="w12" t="geschrieben" b="204 11"><xlit latin1Text="geschrieben" isLatinExt="1" isLatin1="1"/><moot word="geschrieben" tag="VVPP" lemma="schreiben"/>geschrieben</w><w id="w13" b="215 1" t=","><moot word="," tag="$," lemma=","/><xlit latin1Text="," isLatinExt="1" isLatin1="1"/>,</w> <w id="w14" t="u" b="217 1"><moot word="u" tag="VVFIN" lemma="u"/><xlit isLatin1="1" isLatinExt="1" latin1Text="u"/>u</w> <w id="w15" t="ihm" b="219 3"><moot word="ihm" tag="PPER" lemma="er"/><xlit isLatin1="1" isLatinExt="1" latin1Text="ihm"/>ihm</w> <w id="w16" t="die" b="223 3"><moot lemma="d" word="die" tag="ART"/><xlit latin1Text="die" isLatin1="1" isLatinExt="1"/>die</w> <w id="w17" t="weitere" b="227 7"><moot word="weitere" tag="ADJA" lemma="weit"/><xlit latin1Text="weitere" isLatin1="1" isLatinExt="1"/>weitere</w> <w id="w18" t="Besorgung" b="235 9"><moot word="Besorgung" tag="NN" lemma="Besorgung"/><xlit latin1Text="Besorgung" isLatin1="1" isLatinExt="1"/>Besorgung</w> <w id="w19" b="245 11" t="aufgetragen"><xlit isLatinExt="1" isLatin1="1" latin1Text="aufgetragen"/><moot lemma="auftragen" tag="VVPP" word="aufgetragen"/>aufgetragen</w><w id="w1a" b="256 1" t="."><moot lemma="." tag="$." word="."/><xlit isLatin1="1" isLatinExt="1" latin1Text="."/>.</w>
+                <w id="w1b" b="274 3" t="ich"><moot lemma="ich" tag="PPER" word="ich"/><xlit isLatinExt="1" isLatin1="1" latin1Text="ich"/>ich</w> <w id="w1c" t="freue" b="278 5"><moot tag="VVFIN" word="freue" lemma="freuen"/><xlit isLatin1="1" isLatinExt="1" latin1Text="freue"/>freue</w> <w id="w1d" b="284 4" t="mich"><xlit latin1Text="mich" isLatin1="1" isLatinExt="1"/><moot word="mich" tag="PPER" lemma="ich"/>mich</w> <w id="w1e" t="Dich" b="289 4"><xlit latin1Text="Dich" isLatinExt="1" isLatin1="1"/><moot lemma="dich" tag="PRF" word="Dich"/>Dich</w> <w id="w1f" b="294 1" t="u"><moot word="u" tag="NN" lemma="U"/><xlit isLatin1="1" isLatinExt="1" latin1Text="u"/>u</w> <w id="w20" t="die" b="296 3"><xlit latin1Text="die" isLatin1="1" isLatinExt="1"/><moot lemma="d" word="die" tag="ART"/>die</w> <w id="w21" b="300 8" t="Deinigen"><xlit isLatinExt="1" isLatin1="1" latin1Text="Deinigen"/><moot lemma="deinige" word="Deinigen" tag="PPOSS"/>Deinigen</w> <w id="w22" b="309 4" t="dort"><xlit latin1Text="dort" isLatinExt="1" isLatin1="1"/><moot lemma="dort" tag="ADV" word="dort"/>dort</w> <w id="w23" b="314 2" t="zu"><xlit isLatinExt="1" isLatin1="1" latin1Text="zu"/><moot word="zu" tag="PTKZU" lemma="zu"/>zu</w>
+                    <w id="w24" b="337 5" t="sehen"><moot lemma="sehen" tag="VVINF" word="sehen"/><xlit latin1Text="sehen" isLatin1="1" isLatinExt="1"/>sehen</w><w id="w25" t="," b="342 1"><xlit latin1Text="," isLatinExt="1" isLatin1="1"/><moot lemma="," word="," tag="$,"/>,</w> <w id="w26" b="344 5" t="bitte"><xlit latin1Text="bitte" isLatin1="1" isLatinExt="1"/><moot lemma="bitte" tag="ADV" word="bitte"/>bitte</w> <w id="w27" b="350 2" t="um"><moot word="um" tag="APPR" lemma="um"/><xlit isLatinExt="1" isLatin1="1" latin1Text="um"/>um</w> <w id="w28" t="Gruß" b="353 5"><xlit latin1Text="Gruß" isLatinExt="1" isLatin1="1"/><moot word="Gruß" tag="NN" lemma="Gruß"/>Gruß</w> <w id="w29" b="359 2" t="an"><xlit latin1Text="an" isLatinExt="1" isLatin1="1"/><moot lemma="an" word="an" tag="APPR"/>an</w> <w id="w2a" t="Deinen" b="362 6"><moot lemma="deine" word="Deinen" tag="PPOSAT"/><xlit latin1Text="Deinen" isLatin1="1" isLatinExt="1"/>Deinen</w> <w id="w2b" t="lieben" b="369 6"><xlit latin1Text="lieben" isLatin1="1" isLatinExt="1"/><moot word="lieben" tag="ADJA" lemma="lieb"/>lieben</w> <w id="w2c" t="Mann" b="376 4"><xlit latin1Text="Mann" isLatinExt="1" isLatin1="1"/><moot lemma="Mann" word="Mann" tag="NN"/>Mann</w>
+                    <w id="w2d" t="u" b="401 1"><xlit isLatin1="1" isLatinExt="1" latin1Text="u"/><moot word="u" tag="ADJA" lemma="u"/>u</w> <w id="w2e" t="Kinder" b="403 6"><xlit isLatinExt="1" isLatin1="1" latin1Text="Kinder"/><moot word="Kinder" tag="NN" lemma="Kind"/>Kinder</w><w id="w2f" t="." b="409 1"><moot lemma="." tag="$." word="."/><xlit isLatin1="1" isLatinExt="1" latin1Text="."/>.</w></s>
+                        <s id="s2" pn="p5"><w id="w30" b="435 4" t="Dein"><mlatin><a w="0" hi="[_FM][lat]"/></mlatin><moot lemma="dein" word="Dein" tag="PPOSAT"/><xlit latin1Text="Dein" isLatinExt="1" isLatin1="1"/>Dein</w> <w id="w31" b="440 6" t="treuer"><xlit latin1Text="treuer" isLatinExt="1" isLatin1="1"/><moot word="treuer" tag="ADJA" lemma="treu"/>treuer</w> <w id="w32" t="Vater" b="447 5"><xlit isLatinExt="1" isLatin1="1" latin1Text="Vater"/><moot word="Vater" tag="NN" lemma="Vater"/>Vater</w>
+                            <w id="w33" b="481 5" t="Mayer"><moot word="Mayer" tag="NE" lemma="Mayer"/><xlit isLatinExt="1" isLatin1="1" latin1Text="Mayer"/>Mayer</w></s>
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

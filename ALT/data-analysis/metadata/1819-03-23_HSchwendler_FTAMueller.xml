@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     xml:id="JP-UB1137">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Von Henriette Schwendler an Friedrich von Müller. Eisenach, nach dem 26. März
+                    1819</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</publisher>
+            <date when="2022-06"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The data set is derived from https://github.com/telota/jean_paul_briefe/tree/v.5.0,
+                the XML data of https://www.jeanpaul-edition.de.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="JP-003964">Auguste Sophie Henriette Schwendler</persName>
+               <placeName key="JP-005698">Eisenach</placeName>
+               <date notBefore="1819-03-26" notAfter="1819-05-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="JP-002903">Friedrich Theodor Adam Heinrich von Müller</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="#correspondents">
+               <term xml:id="JP-012228">Familie Schlabrendorff / Schwendler / Mützschefahl</term>
+               <term xml:id="JP-012564">Weimarer Kreis</term>
+            </keywords>
+            <keywords scheme="#topics">
+               <term xml:id="JP-012692">Bildung</term>
+               <term xml:id="JP-012486">Krankheit bzw. Gesundheitszustand</term>
+               <term xml:id="JP-012021">Politik</term>
+               <term xml:id="JP-012761">Tod und Sterben</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JP-003964" n="1"/>
+            <person xml:id="JP-002903" n="1"/>
+            <person xml:id="JP-004497" n="3"/>
+            <person xml:id="JP-001603" n="1"/>
+            <person xml:id="JP-000587" n="3"/>
+            <person xml:id="JP-002228" n="1"/>
+            <person xml:id="JP-003657" n="1"/>
+            <person xml:id="JP-001195" n="2"/>
+            <person xml:id="JP-000579" n="1"/>
+            <person xml:id="JP-001651" n="1"/>
+         </listPerson>
+         <listPlace>
+            <place xml:id="JP-005698" n="1"/>
+            <place xml:id="JP-005687" n="1"/>
+            <place xml:id="JP-011138" n="1"/>
+            <place xml:id="JP-011460" n="1"/>
+            <place xml:id="JP-005586" n="1"/>
+            <place xml:id="JP-006395" n="2"/>
+            <place xml:id="JP-005607" n="1"/>
+         </listPlace>
+         <listBibl type="all">
+            <bibl xml:id="JP-013521" n="1"/>
+            <bibl xml:id="JP-013503" n="2"/>
+            <bibl xml:id="JP-008098" n="1"/>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

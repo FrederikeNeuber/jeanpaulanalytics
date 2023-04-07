@@ -1,7 +1,7 @@
 # jeanpaulanalytics
 
 Auswertungen der Briefe aus dem Umfeld Jean Paul ([jeanpaul-edition.de/](jeanpaul-edition.de/)) mit Methoden der Social Media Analytics.
-Es handelt sich dabei um Experimente, die im Rahmen eines Vortrags auf der Tagung Soziales Medium Brief. Sharen, Liken, Retweeten im 18. und 19. Jahrhundert. Neue Perspektiven auf die Briefkultur (Berlin-Brandenburgische Akademie der Wissenschaften, 24.-26.6.2021) vorgestellt wurden. Die Auswertungen entsprechen den Ergebnissen, die im 2023 erscheinen gleichnamigen Tagungsband publiziert wurden (hrsg. von Markus Bernauer, Selma Jahnke, Frederike Neuber und Michael Rölcke; Sommer 2023). 
+Es handelt sich dabei um Experimente, die im Rahmen eines Vortrags auf der Tagung "Soziales Medium Brief. Sharen, Liken, Retweeten im 18. und 19. Jahrhundert. Neue Perspektiven auf die Briefkultur" (Berlin-Brandenburgische Akademie der Wissenschaften, 24.-26.6.2021) vorgestellt wurden. Die Auswertungen entsprechen nicht denen in den Vortragsfolien, sondern zeigen die Ergebnisse, die im Rahmen eines Artikels im gleichnamigen Tagungsband publiziert wurden (hrsg. von Markus Bernauer, Selma Jahnke, Frederike Neuber und Michael Rölcke; Sommer 2023). 
 
 # Inhalte
 

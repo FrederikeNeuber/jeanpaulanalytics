@@ -2,6 +2,12 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:telota="http://www.telota.de" exclude-result-prefixes="#all" version="2.0">
+    
+    <!-- 
+        reduces the TEI files of the letters to contents needed for analysis (metadata and entities, no text)
+        @author: Frederike Neuber
+    -->
+    
     <xsl:param name="INPUT_DIR"/>
 
     <xsl:strip-space elements="*"/>
@@ -106,26 +112,27 @@
                     </listPerson>
                 </xsl:if>
                 <xsl:if test="//tei:placeName">
-                <listPlace>
-                    <xsl:for-each-group select="//tei:placeName" group-by="@key">
-                        <place xml:id="{current-grouping-key()}" n="{count(current-group())}"/>
-                    </xsl:for-each-group>
-                </listPlace>
+                    <listPlace>
+                        <xsl:for-each-group select="//tei:placeName" group-by="@key">
+                            <place xml:id="{current-grouping-key()}" n="{count(current-group())}"/>
+                        </xsl:for-each-group>
+                    </listPlace>
                 </xsl:if>
                 <xsl:if test="//tei:bibl[@subtype = 'werk']">
-                <listBibl type="all">
-                    <xsl:for-each-group select="//tei:bibl[@subtype = 'werk']" group-by="@sameAs">
-                        <bibl xml:id="{current-grouping-key()}" n="{count(current-group())}"/>
-                    </xsl:for-each-group>
-                </listBibl>
+                    <listBibl type="all">
+                        <xsl:for-each-group select="//tei:bibl[@subtype = 'werk']"
+                            group-by="@sameAs">
+                            <bibl xml:id="{current-grouping-key()}" n="{count(current-group())}"/>
+                        </xsl:for-each-group>
+                    </listBibl>
                 </xsl:if>
                 <xsl:if test="//tei:bibl[@subtype = 'werke-jp']">
-                <listBibl type="jp">
-                    <xsl:for-each-group select="//tei:bibl[@subtype = 'werke-jp']"
-                        group-by="@sameAs">
-                        <bibl xml:id="{current-grouping-key()}" n="{count(current-group())}"/>
-                    </xsl:for-each-group>
-                </listBibl>
+                    <listBibl type="jp">
+                        <xsl:for-each-group select="//tei:bibl[@subtype = 'werke-jp']"
+                            group-by="@sameAs">
+                            <bibl xml:id="{current-grouping-key()}" n="{count(current-group())}"/>
+                        </xsl:for-each-group>
+                    </listBibl>
                 </xsl:if>
             </body>
         </text>
